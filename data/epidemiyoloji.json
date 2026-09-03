@@ -1,0 +1,1302 @@
+[
+  {
+    "id": 1,
+    "kategori": "epidemiyoloji",
+    "kelime": "epidemiyoloji",
+    "aciklama": "toplumlarda hastalıkların dağılımını, belirleyicilerini ve görülme sıklığını inceleyen temel tıp bilimi.",
+    "yasakli_kelimeler": [
+      "hastalık",
+      "toplum",
+      "sağlık",
+      "dağılım",
+      "istatistik"
+    ]
+  },
+  {
+    "id": 2,
+    "kategori": "epidemiyoloji",
+    "kelime": "insidans",
+    "aciklama": "belirli bir zaman diliminde belirli bir risk altındaki toplumda yeni ortaya çıkan vaka sayısı.",
+    "yasakli_kelimeler": [
+      "yeni vaka",
+      "oran",
+      "sıklık",
+      "süre",
+      "risk"
+    ]
+  },
+  {
+    "id": 3,
+    "kategori": "epidemiyoloji",
+    "kelime": "prevalans",
+    "aciklama": "belirli bir anda veya zaman aralığında bir toplumda var olan tüm eski ve yeni vakaların oranı.",
+    "yasakli_kelimeler": [
+      "mevcut vaka",
+      "tüm vakalar",
+      "oran",
+      "sıklık",
+      "toplum"
+    ]
+  },
+  {
+    "id": 4,
+    "kategori": "epidemiyoloji",
+    "kelime": "endemik",
+    "aciklama": "bir enfeksiyon hastalığının belirli bir coğrafi bölgede veya toplulukta sürekli ve olağan düzeyde görülmesi.",
+    "yasakli_kelimeler": [
+      "yerel",
+      "olağan",
+      "coğrafya",
+      "sürekli",
+      "salgın"
+    ]
+  },
+  {
+    "id": 5,
+    "kategori": "epidemiyoloji",
+    "kelime": "epidemi",
+    "aciklama": "bir hastalığın belirli bir bölgede beklenenden belirgin derecede daha yüksek sayıda insanda görülmesi.",
+    "yasakli_kelimeler": [
+      "salgın",
+      "ani artış",
+      "vaka",
+      "bölge",
+      "yayılma"
+    ]
+  },
+  {
+    "id": 6,
+    "kategori": "epidemiyoloji",
+    "kelime": "pandemi",
+    "aciklama": "bir bulaşıcı hastalığın birden fazla kıtaya veya dünya geneline yayılarak geniş kitleleri etkilemesi.",
+    "yasakli_kelimeler": [
+      "küresel",
+      "dünya",
+      "kıta",
+      "salgın",
+      "koronavirüs"
+    ]
+  },
+  {
+    "id": 7,
+    "kategori": "epidemiyoloji",
+    "kelime": "mortalite",
+    "aciklama": "belirli bir popülasyonda belirli bir süre içinde meydana gelen ölüm oranı veya sayısı.",
+    "yasakli_kelimeler": [
+      "ölüm",
+      "oran",
+      "vefat",
+      "nüfus",
+      "istatistik"
+    ]
+  },
+  {
+    "id": 8,
+    "kategori": "epidemiyoloji",
+    "kelime": "morbidite",
+    "aciklama": "bir toplumda belirli bir zaman aralığında hastalıktan muzdarip olan bireylerin genel oranı.",
+    "yasakli_kelimeler": [
+      "hastalık",
+      "oran",
+      "rahatsızlık",
+      "toplum",
+      "vaka"
+    ]
+  },
+  {
+    "id": 9,
+    "kategori": "epidemiyoloji",
+    "kelime": "fatalite",
+    "aciklama": "belirli bir hastalığa yakalanan kişilerden kaçının bu hastalık nedeniyle hayatını kaybettiğini gösteren oran.",
+    "yasakli_kelimeler": [
+      "vaka ölüm",
+      "ölümcül",
+      "oran",
+      "letalite",
+      "hasta"
+    ]
+  },
+  {
+    "id": 10,
+    "kategori": "epidemiyoloji",
+    "kelime": "kohort araştırması",
+    "aciklama": "belirli bir etkene maruz kalan ve kalmayan kişileri geleceğe dönük izleyerek hastalık gelişimini ölçen çalışma.",
+    "yasakli_kelimeler": [
+      "prospektif",
+      "maruziyet",
+      "izlem",
+      "takip",
+      "risk"
+    ]
+  },
+  {
+    "id": 11,
+    "kategori": "epidemiyoloji",
+    "kelime": "vaka kontrol çalışması",
+    "aciklama": "hasta bireyler ile sağlıklı kontrol grubunu geçmişe dönük maruziyetler açısından kıyaslayan araştırma türü.",
+    "yasakli_kelimeler": [
+      "retrospektif",
+      "hasta",
+      "kontrol",
+      "geçmiş",
+      "maruziyet"
+    ]
+  },
+  {
+    "id": 12,
+    "kategori": "epidemiyoloji",
+    "kelime": "kesitsel araştırma",
+    "aciklama": "belirli bir zamanda toplumdaki maruziyet ve hastalık durumunu anlık bir fotoğrafla eş zamanlı ölçen çalışma.",
+    "yasakli_kelimeler": [
+      "anlık",
+      "fotoğraf",
+      "prevalans",
+      "anket",
+      "zaman"
+    ]
+  },
+  {
+    "id": 13,
+    "kategori": "epidemiyoloji",
+    "kelime": "randomize kontrollü çalışma",
+    "aciklama": "katılımcıların deney ve kontrol kollarına rastgele atandığı en güvenilir nedensellik kanıtı sunan klinik araştırma.",
+    "yasakli_kelimeler": [
+      "rastgele",
+      "klinik",
+      "deney",
+      "plasebo",
+      "kanıt"
+    ]
+  },
+  {
+    "id": 14,
+    "kategori": "epidemiyoloji",
+    "kelime": "rölatif risk",
+    "aciklama": "bir etkene maruz kalanlardaki hastalık insidansının maruz kalmayanlardakine bölünmesiyle elde edilen risk oranı.",
+    "yasakli_kelimeler": [
+      "risk oranı",
+      "maruziyet",
+      "kohort",
+      "bölüm",
+      "oran"
+    ]
+  },
+  {
+    "id": 15,
+    "kategori": "epidemiyoloji",
+    "kelime": "odds oranı",
+    "aciklama": "özellikle vaka kontrol çalışmalarında maruziyet şansının hasta ve sağlamlar arasında oranlanması.",
+    "yasakli_kelimeler": [
+      "şans oranı",
+      "vaka kontrol",
+      "oran",
+      "çapraz",
+      "maruziyet"
+    ]
+  },
+  {
+    "id": 16,
+    "kategori": "epidemiyoloji",
+    "kelime": "atak hızı",
+    "aciklama": "salgın durumlarında sınırlı bir risk altındaki grupta hastalığa yakalananların o gruba oranı.",
+    "yasakli_kelimeler": [
+      "salgın",
+      "hız",
+      "risk",
+      "yeni vaka",
+      "ani"
+    ]
+  },
+  {
+    "id": 17,
+    "kategori": "epidemiyoloji",
+    "kelime": "sekonder atak hızı",
+    "aciklama": "primer bir indeks vakaya maruz kalan duyarlı temaslılar arasında hastalığa yakalananların oranı.",
+    "yasakli_kelimeler": [
+      "temaslı",
+      "bulaşma",
+      "indeks vaka",
+      "aile içi",
+      "oran"
+    ]
+  },
+  {
+    "id": 18,
+    "kategori": "epidemiyoloji",
+    "kelime": "indeks vaka",
+    "aciklama": "bir salgında sağlık otoriteleri tarafından ilk tespit edilen veya araştırılmaya başlanan hasta birey.",
+    "yasakli_kelimeler": [
+      "ilk hasta",
+      "sıfır",
+      "salgın",
+      "tespit",
+      "kaynak"
+    ]
+  },
+  {
+    "id": 19,
+    "kategori": "epidemiyoloji",
+    "kelime": "primer vaka",
+    "aciklama": "bir popülasyona veya ortama hastalığı ilk getiren ve salgını başlatan asıl hasta kişi.",
+    "yasakli_kelimeler": [
+      "ilk",
+      "kaynak",
+      "başlatıcı",
+      "salgın",
+      "taşıyıcı"
+    ]
+  },
+  {
+    "id": 20,
+    "kategori": "epidemiyoloji",
+    "kelime": "rezervuar",
+    "aciklama": "bulaşıcı etkenin doğal olarak yaşadığı, çoğaldığı ve bulaşmak üzere hayatta kaldığı canlı veya cansız ortam.",
+    "yasakli_kelimeler": [
+      "konakçı",
+      "kaynak",
+      "kaynakça",
+      "hayvan",
+      "doğal"
+    ]
+  },
+  {
+    "id": 21,
+    "kategori": "epidemiyoloji",
+    "kelime": "vektör",
+    "aciklama": "patojeni bir konakçıdan diğerine taşıyarak bulaşmayı sağlayan genellikle sivrisinek veya kene gibi canlı.",
+    "yasakli_kelimeler": [
+      "taşıyıcı",
+      "sivrisinek",
+      "kene",
+      "bulaş",
+      "parazit"
+    ]
+  },
+  {
+    "id": 22,
+    "kategori": "epidemiyoloji",
+    "kelime": "fomit",
+    "aciklama": "hastalık etkenleriyle kirlenmiş ve mekanik temasla bulaşmaya aracılık eden cansız nesne.",
+    "yasakli_kelimeler": [
+      "cansız",
+      "nesne",
+      "eşya",
+      "kapı kolu",
+      "bulaş"
+    ]
+  },
+  {
+    "id": 23,
+    "kategori": "epidemiyoloji",
+    "kelime": "kuluçka süresi",
+    "aciklama": "hastalık etkeninin vücuda girmesiyle ilk klinik belirti ve bulguların belirmesi arasında geçen zaman.",
+    "yasakli_kelimeler": [
+      "inkübasyon",
+      "süre",
+      "belirti",
+      "zaman",
+      "semptom"
+    ]
+  },
+  {
+    "id": 24,
+    "kategori": "epidemiyoloji",
+    "kelime": "bulaştırıcılık süresi",
+    "aciklama": "enfekte bir bireyin etkeni doğrudan veya dolaylı olarak başka birine aktarabildiği zaman aralığı.",
+    "yasakli_kelimeler": [
+      "bulaş",
+      "süre",
+      "yayılma",
+      "zaman",
+      "enfekte"
+    ]
+  },
+  {
+    "id": 25,
+    "kategori": "epidemiyoloji",
+    "kelime": "temel üreme katsayısı",
+    "aciklama": "hiç bağışıklığı olmayan bir popülasyonda bir vakanın enfekte ettiği ortalama kişi sayısı olan r sıfır.",
+    "yasakli_kelimeler": [
+      "r sıfır",
+      "bulaşma",
+      "üreme",
+      "sayı",
+      "salgın"
+    ]
+  },
+  {
+    "id": 26,
+    "kategori": "epidemiyoloji",
+    "kelime": "efektif üreme sayısı",
+    "aciklama": "popülasyonda kısmi bağışıklık veya önlemler varken bir vakanın ortalama kaç kişiye hastalığı bulaştırdığı.",
+    "yasakli_kelimeler": [
+      "r değeri",
+      "bulaş",
+      "katsayı",
+      "önlem",
+      "salgın"
+    ]
+  },
+  {
+    "id": 27,
+    "kategori": "epidemiyoloji",
+    "kelime": "sürü bağışıklığı",
+    "aciklama": "toplumun kritik bir kısmının aşı veya hastalıkla bağışık hale gelerek bulaş zincirini kırması.",
+    "yasakli_kelimeler": [
+      "toplumsal",
+      "aşılama",
+      "bağışıklık",
+      "eşik",
+      "koruma"
+    ]
+  },
+  {
+    "id": 28,
+    "kategori": "epidemiyoloji",
+    "kelime": "karantina",
+    "aciklama": "bulaşıcı hastalığa maruz kaldığından şüphelenilen ancak henüz belirti göstermeyenlerin tecrit edilmesi.",
+    "yasakli_kelimeler": [
+      "tecrit",
+      "izolasyon",
+      "kuluçka",
+      "ayırma",
+      "bulaş"
+    ]
+  },
+  {
+    "id": 29,
+    "kategori": "epidemiyoloji",
+    "kelime": "izolasyon",
+    "aciklama": "hastalık tanısı konmuş veya semptom gösteren enfekte kişilerin sağlıklı bireylerden ayrılması.",
+    "yasakli_kelimeler": [
+      "tecrit",
+      "ayırma",
+      "hasta",
+      "hastane",
+      "bulaşıcı"
+    ]
+  },
+  {
+    "id": 30,
+    "kategori": "epidemiyoloji",
+    "kelime": "filyasyon",
+    "aciklama": "bir bulaşıcı hastalık vakasının temas ettiği tüm kişileri geriye dönük izleyerek zinciri tespit etme çalışması.",
+    "yasakli_kelimeler": [
+      "temaslı",
+      "tarama",
+      "filyasyon ekibi",
+      "zincir",
+      "iz sürme"
+    ]
+  },
+  {
+    "id": 31,
+    "kategori": "epidemiyoloji",
+    "kelime": "sürveyans",
+    "aciklama": "sağlık politikalarını belirlemek için hastalık verilerinin sürekli, sistematik toplanması ve analizi.",
+    "yasakli_kelimeler": [
+      "izlem",
+      "gözlem",
+      "veri toplama",
+      "sistematik",
+      "takip"
+    ]
+  },
+  {
+    "id": 32,
+    "kategori": "epidemiyoloji",
+    "kelime": "tarama testi",
+    "aciklama": "belirti göstermeyen geniş bir popülasyonda bir hastalığı erken evrede yakalamak için uygulanan basit test.",
+    "yasakli_kelimeler": [
+      "erken teşhis",
+      "test",
+      "popülasyon",
+      "semptomsuz",
+      "check-up"
+    ]
+  },
+  {
+    "id": 33,
+    "kategori": "epidemiyoloji",
+    "kelime": "duyarlılık",
+    "aciklama": "bir tanı testinin hastalığı gerçekten var olan bireyleri pozitif olarak saptayabilme yeteneği.",
+    "yasakli_kelimeler": [
+      "hassasiyet",
+      "pozitif",
+      "hasta",
+      "sensitivite",
+      "oran"
+    ]
+  },
+  {
+    "id": 34,
+    "kategori": "epidemiyoloji",
+    "kelime": "özgüllük",
+    "aciklama": "bir tanı testinin hastalığı gerçekten olmayan sağlıklı bireyleri negatif olarak belirleyebilme yeteneği.",
+    "yasakli_kelimeler": [
+      "spesifisite",
+      "negatif",
+      "sağlıklı",
+      "test",
+      "oran"
+    ]
+  },
+  {
+    "id": 35,
+    "kategori": "epidemiyoloji",
+    "kelime": "pozitif prediktif değer",
+    "aciklama": "test sonucu pozitif çıkan bir kişinin gerçekten o hastalığa sahip olma olasılığı.",
+    "yasakli_kelimeler": [
+      "tahmin",
+      "değer",
+      "pozitif",
+      "olasılık",
+      "kesinlik"
+    ]
+  },
+  {
+    "id": 36,
+    "kategori": "epidemiyoloji",
+    "kelime": "negatif prediktif değer",
+    "aciklama": "test sonucu negatif çıkan bir bireyin gerçekten o hastalığa sahip olmama olasılığı.",
+    "yasakli_kelimeler": [
+      "tahmin",
+      "değer",
+      "negatif",
+      "olasılık",
+      "sağlam"
+    ]
+  },
+  {
+    "id": 37,
+    "kategori": "epidemiyoloji",
+    "kelime": "yanlılık",
+    "aciklama": "araştırmanın tasarımı, veri toplaması veya analizinde gerçeği saptıran sistematik hata eğilimi.",
+    "yasakli_kelimeler": [
+      "bias",
+      "hata",
+      "sistematik",
+      "sapma",
+      "yanılgı"
+    ]
+  },
+  {
+    "id": 38,
+    "kategori": "epidemiyoloji",
+    "kelime": "seçim yanlılığı",
+    "aciklama": "çalışma gruplarının belirlenmesi aşamasında katılımcıların hedef kitleyi temsil etmeyecek şekilde seçilmesi hatası.",
+    "yasakli_kelimeler": [
+      "seçim",
+      "temsil",
+      "bias",
+      "örneklem",
+      "grup"
+    ]
+  },
+  {
+    "id": 39,
+    "kategori": "epidemiyoloji",
+    "kelime": "bilgi yanlılığı",
+    "aciklama": "verilerin toplanması veya ölçümü sırasında yanlış sınıflandırma ve hatalı hatırlama kaynaklı sapma.",
+    "yasakli_kelimeler": [
+      "hatırlama",
+      "ölçüm",
+      "hata",
+      "bias",
+      "anket"
+    ]
+  },
+  {
+    "id": 40,
+    "kategori": "epidemiyoloji",
+    "kelime": "karıştırıcı faktör",
+    "aciklama": "hem maruziyet hem de sonuçla bağımsız ilişkili olup asıl ilişkiyi maskeleyen veya abartan üçüncü değişken.",
+    "yasakli_kelimeler": [
+      "karıştırıcı",
+      "değişken",
+      "faktör",
+      "maskeleme",
+      "ilişki"
+    ]
+  },
+  {
+    "id": 41,
+    "kategori": "epidemiyoloji",
+    "kelime": "körleme",
+    "aciklama": "çalışmada taraflılığı önlemek için uygulanan ilacın veya müdahalenin kim tarafından bilindiğinin gizlenmesi.",
+    "yasakli_kelimeler": [
+      "blinding",
+      "çift kör",
+      "tek kör",
+      "gizleme",
+      "tarafsız"
+    ]
+  },
+  {
+    "id": 42,
+    "kategori": "epidemiyoloji",
+    "kelime": "plasebo etkisi",
+    "aciklama": "farmakolojik olarak etkisiz bir maddenin hastanın inancı ve psikolojik beklentisi sonucu iyileşme sağlaması.",
+    "yasakli_kelimeler": [
+      "etkisiz",
+      "psikolojik",
+      "şeker hapı",
+      "beklenti",
+      "tedavi"
+    ]
+  },
+  {
+    "id": 43,
+    "kategori": "epidemiyoloji",
+    "kelime": "sağkalım analizi",
+    "aciklama": "hastaların belirli bir olay veya ölüme kadar geçen yaşam sürelerini modelleyen istatistiksel yöntem.",
+    "yasakli_kelimeler": [
+      "yaşam",
+      "süre",
+      "kaplan-meier",
+      "ölüm",
+      "analiz"
+    ]
+  },
+  {
+    "id": 44,
+    "kategori": "epidemiyoloji",
+    "kelime": "hazard oranı",
+    "aciklama": "iki grupta belirli bir olayın meydana gelme hızlarının birbirine oranını ifade eden sağkalım metriği.",
+    "yasakli_kelimeler": [
+      "risk",
+      "hız",
+      "sağkalım",
+      "oran",
+      "cox"
+    ]
+  },
+  {
+    "id": 45,
+    "kategori": "epidemiyoloji",
+    "kelime": "yaşa standardize hız",
+    "aciklama": "farklı toplumların hastalık veya ölüm hızlarını kıyaslamak için yaş dağılımı farkını eşitleyen hız.",
+    "yasakli_kelimeler": [
+      "standardizasyon",
+      "yaş",
+      "nüfus",
+      "kıyaslama",
+      "düzeltme"
+    ]
+  },
+  {
+    "id": 46,
+    "kategori": "epidemiyoloji",
+    "kelime": "yıllara göre kayıp yaşam",
+    "aciklama": "erken ölüm nedeniyle kaybedilen potansiyel üretken yaşam yıllarını gösteren hastalık yükü ölçüsü.",
+    "yasakli_kelimeler": [
+      "erken ölüm",
+      "kayıp",
+      "yıl",
+      "yük",
+      "yaşam"
+    ]
+  },
+  {
+    "id": 47,
+    "kategori": "epidemiyoloji",
+    "kelime": "daly",
+    "aciklama": "erken ölümle kaybedilen yıllar ile sakatlıkla geçen yılların toplamını ifade eden hastalık yükü birimi.",
+    "yasakli_kelimeler": [
+      "engellilik",
+      "kayıp yıl",
+      "yük",
+      "küresel",
+      "sağlık"
+    ]
+  },
+  {
+    "id": 48,
+    "kategori": "epidemiyoloji",
+    "kelime": "qaly",
+    "aciklama": "tıbbi bir müdahalenin hastaya kazandırdığı yaşam süresini yaşam kalitesi ağırlığıyla çarpan sağlık çıktısı.",
+    "yasakli_kelimeler": [
+      "kalite",
+      "yaşam",
+      "kazanç",
+      "yıl",
+      "maliyet"
+    ]
+  },
+  {
+    "id": 49,
+    "kategori": "epidemiyoloji",
+    "kelime": "nedensellik ilişkisi",
+    "aciklama": "bir maruziyetin doğrudan bir sonuca veya hastalığa yol açtığını gösteren sebep-sonuç bağı.",
+    "yasakli_kelimeler": [
+      "sebep",
+      "sonuç",
+      "ilişki",
+      "etki",
+      "bağlantı"
+    ]
+  },
+  {
+    "id": 50,
+    "kategori": "epidemiyoloji",
+    "kelime": "bradford hill kriterleri",
+    "aciklama": "epidemiyolojide bir ilişkinin tesadüfi olmayıp nedensel olduğunu değerlendiren dokuz ilkeden oluşan ölçütler.",
+    "yasakli_kelimeler": [
+      "kriter",
+      "nedensellik",
+      "kuvvet",
+      "tutarlılık",
+      "sebep"
+    ]
+  },
+  {
+    "id": 51,
+    "kategori": "epidemiyoloji",
+    "kelime": "doz tepki ilişkisi",
+    "aciklama": "etkene maruziyet miktarı arttıkça hastalığın ortaya çıkma riskinin veya şiddetinin doğru orantılı artması.",
+    "yasakli_kelimeler": [
+      "doz",
+      "tepki",
+      "miktar",
+      "risk",
+      "maruziyet"
+    ]
+  },
+  {
+    "id": 52,
+    "kategori": "epidemiyoloji",
+    "kelime": "biyolojik mantıklılık",
+    "aciklama": "gözlemlenen bir nedensel ilişkinin mevcut biyolojik ve biyomedikal bilgilerle tutarlı ve mantıklı olması.",
+    "yasakli_kelimeler": [
+      "biyoloji",
+      "mantık",
+      "tutarlılık",
+      "mekanizma",
+      "bilim"
+    ]
+  },
+  {
+    "id": 53,
+    "kategori": "epidemiyoloji",
+    "kelime": "atfedilen risk",
+    "aciklama": "bir hastalık insidansının doğrudan o maruziyete bağlı olan ve maruziyet kalkarsa önlenecek kısmı.",
+    "yasakli_kelimeler": [
+      "fark",
+      "risk",
+      "maruziyet",
+      "önlenebilir",
+      "oran"
+    ]
+  },
+  {
+    "id": 54,
+    "kategori": "epidemiyoloji",
+    "kelime": "popülasyona atfedilen risk",
+    "aciklama": "toplumda bir risk faktörünün tamamen ortadan kaldırılması durumunda hastalık oranındaki azalma miktarı.",
+    "yasakli_kelimeler": [
+      "toplum",
+      "azalma",
+      "risk",
+      "faktör",
+      "önleme"
+    ]
+  },
+  {
+    "id": 55,
+    "kategori": "epidemiyoloji",
+    "kelime": "kümelenme",
+    "aciklama": "belirli bir zaman ve coğrafi alanda beklenenden fazla vakanın bir arada ortaya çıkması olgusu.",
+    "yasakli_kelimeler": [
+      "küme",
+      "toplanma",
+      "mekan",
+      "zaman",
+      "artış"
+    ]
+  },
+  {
+    "id": 56,
+    "kategori": "epidemiyoloji",
+    "kelime": "salgın eğrisi",
+    "aciklama": "bir salgın sırasında vakaların başlangıç zamanlarına göre dağılımını gösteren görsel histogram grafiği.",
+    "yasakli_kelimeler": [
+      "grafik",
+      "eğri",
+      "zaman",
+      "vaka sayısı",
+      "histogram"
+    ]
+  },
+  {
+    "id": 57,
+    "kategori": "epidemiyoloji",
+    "kelime": "ortak kaynaklı salgın",
+    "aciklama": "tüm vakaların aynı kirlenmiş su, gıda veya araç gibi ortak bir kaynaktan etkeni aldığı salgın türü.",
+    "yasakli_kelimeler": [
+      "kaynak",
+      "ortak",
+      "su",
+      "gıda",
+      "nokta"
+    ]
+  },
+  {
+    "id": 58,
+    "kategori": "epidemiyoloji",
+    "kelime": "yayılımcı salgın",
+    "aciklama": "hastalığın insandan insana temas veya damlacıkla bulaşarak dalgalar halinde devam ettiği salgın tipi.",
+    "yasakli_kelimeler": [
+      "bulaş",
+      "insandan insana",
+      "dalga",
+      "zincir",
+      "yayılma"
+    ]
+  },
+  {
+    "id": 59,
+    "kategori": "epidemiyoloji",
+    "kelime": "zoonoz",
+    "aciklama": "hayvanlardan insanlara doğal yollarla doğrudan veya dolaylı olarak bulaşan enfeksiyon hastalıkları.",
+    "yasakli_kelimeler": [
+      "hayvan",
+      "bulaş",
+      "insan",
+      "kuduz",
+      "şarbon"
+    ]
+  },
+  {
+    "id": 60,
+    "kategori": "epidemiyoloji",
+    "kelime": "antropozoonoz",
+    "aciklama": "etkenin genellikle hayvanlardan insanlara bulaştığı ve insanı tesadüfi konak kıldığı enfeksiyonlar.",
+    "yasakli_kelimeler": [
+      "hayvan",
+      "insan",
+      "bulaşma",
+      "konak",
+      "parazit"
+    ]
+  },
+  {
+    "id": 61,
+    "kategori": "epidemiyoloji",
+    "kelime": "endemik tiyatro",
+    "aciklama": "enfeksiyon etkeninin varlığını sürdürebilmesi için gerekli çevresel, konakçı ve ekolojik şartların bütünü.",
+    "yasakli_kelimeler": [
+      "ekoloji",
+      "odak",
+      "çevre",
+      "etken",
+      "ortam"
+    ]
+  },
+  {
+    "id": 62,
+    "kategori": "epidemiyoloji",
+    "kelime": "epidemiyolojik üçgen",
+    "aciklama": "enfeksiyon hastalıklarının ortaya çıkışını etken, konakçı ve çevre etkileşimiyle açıklayan temel model.",
+    "yasakli_kelimeler": [
+      "etken",
+      "konakçı",
+      "çevre",
+      "üçgen",
+      "model"
+    ]
+  },
+  {
+    "id": 63,
+    "kategori": "epidemiyoloji",
+    "kelime": "buzdağı olgusu",
+    "aciklama": "bir hastalığın klinik olarak fark edilen vakalarının sadece küçük bir tepe noktası olduğunu anlatan kavram.",
+    "yasakli_kelimeler": [
+      "buzdağı",
+      "asemptomatik",
+      "gizli",
+      "görünmeyen",
+      "tepe"
+    ]
+  },
+  {
+    "id": 64,
+    "kategori": "epidemiyoloji",
+    "kelime": "asemptomatik taşıyıcı",
+    "aciklama": "vücudunda patojen taşıyan ve bulaştıran ancak kendisinde hiçbir hastalık belirtisi görülmeyen kişi.",
+    "yasakli_kelimeler": [
+      "belirtisiz",
+      "taşıyıcı",
+      "semptomsuz",
+      "bulaştırıcı",
+      "sağlıklı"
+    ]
+  },
+  {
+    "id": 65,
+    "kategori": "epidemiyoloji",
+    "kelime": "indüksiyon periyodu",
+    "aciklama": "nedensel bir etkene maruz kalınması ile hastalığın biyolojik olarak başlaması arasındaki gizli süre.",
+    "yasakli_kelimeler": [
+      "süre",
+      "başlangıç",
+      "gizil",
+      "zaman",
+      "etken"
+    ]
+  },
+  {
+    "id": 66,
+    "kategori": "epidemiyoloji",
+    "kelime": "latens süresi",
+    "aciklama": "bir hastalığın hücresel düzeyde başlaması ile ilk klinik bulguların saptanması arasındaki süre.",
+    "yasakli_kelimeler": [
+      "gizlilik",
+      "zaman",
+      "belirti",
+      "aralık",
+      "klinik"
+    ]
+  },
+  {
+    "id": 67,
+    "kategori": "epidemiyoloji",
+    "kelime": "kontak filyasyon",
+    "aciklama": "enfekte şahısla temas etmiş tüm potansiyel vakaların bulunup izolasyona alınması süreci.",
+    "yasakli_kelimeler": [
+      "temas",
+      "tarama",
+      "izleme",
+      "filyasyon",
+      "tespit"
+    ]
+  },
+  {
+    "id": 68,
+    "kategori": "epidemiyoloji",
+    "kelime": "aşılama kapsamı",
+    "aciklama": "hedef bir nüfusta önerilen aşı dozlarını eksiksiz almış olan bireylerin yüzdesel oranı.",
+    "yasakli_kelimeler": [
+      "aşı",
+      "oran",
+      "kapsam",
+      "hedef",
+      "toplum"
+    ]
+  },
+  {
+    "id": 69,
+    "kategori": "epidemiyoloji",
+    "kelime": "aşılama etkinliği",
+    "aciklama": "bir aşının kontrollü klinik çalışmalarda veya gerçek hayatta hastalığı önleme yüzdesi.",
+    "yasakli_kelimeler": [
+      "aşı",
+      "etki",
+      "koruma",
+      "yüzde",
+      "önleme"
+    ]
+  },
+  {
+    "id": 70,
+    "kategori": "epidemiyoloji",
+    "kelime": "soğuk zincir",
+    "aciklama": "aşı ve biyolojik ürünlerin üretimden uygulanma anına kadar belirli düşük sıcaklıklarda korunması sistemi.",
+    "yasakli_kelimeler": [
+      "sıcaklık",
+      "aşı",
+      "koruma",
+      "dolap",
+      "buz"
+    ]
+  },
+  {
+    "id": 71,
+    "kategori": "epidemiyoloji",
+    "kelime": "bildirimi zorunlu hastalık",
+    "aciklama": "kamu sağlığını tehdit ettiği için hekimlerin resmi sağlık kurumlarına yasal olarak bildirmesi gereken enfeksiyon.",
+    "yasakli_kelimeler": [
+      "bildirim",
+      "zorunlu",
+      "halk sağlığı",
+      "yasa",
+      "kurum"
+    ]
+  },
+  {
+    "id": 72,
+    "kategori": "epidemiyoloji",
+    "kelime": "halk sağlığı",
+    "aciklama": "toplumun organize çabalarıyla hastalıkları önlemeyi, yaşamı uzatmayı ve sağlığı geliştirmeyi hedefleyen disiplin.",
+    "yasakli_kelimeler": [
+      "toplum",
+      "sağlık",
+      "önleme",
+      "koruyucu",
+      "devlet"
+    ]
+  },
+  {
+    "id": 73,
+    "kategori": "epidemiyoloji",
+    "kelime": "koruyucu hekimlik",
+    "aciklama": "bireylerin ve toplumun hastalanmasını önlemeye odaklanan primer, sekonder ve tersiyer sağlık hizmetleri.",
+    "yasakli_kelimeler": [
+      "önleme",
+      "aşı",
+      "tarama",
+      "sağlık",
+      "tedavi"
+    ]
+  },
+  {
+    "id": 74,
+    "kategori": "epidemiyoloji",
+    "kelime": "primer koruma",
+    "aciklama": "hastalık etkeniyle karşılaşmayı ve hastalığın henüz hücresel olarak dahi başlamasını önleme basamağı.",
+    "yasakli_kelimeler": [
+      "aşılama",
+      "önleme",
+      "eğitim",
+      "sağlık",
+      "ilk adım"
+    ]
+  },
+  {
+    "id": 75,
+    "kategori": "epidemiyoloji",
+    "kelime": "sekonder koruma",
+    "aciklama": "hastalığın belirtisiz veya erken evrede taramalarla yakalanıp ilerlemesinin durdurulması basamağı.",
+    "yasakli_kelimeler": [
+      "tarama",
+      "erken tanı",
+      "check-up",
+      "tedavi",
+      "evre"
+    ]
+  },
+  {
+    "id": 76,
+    "kategori": "epidemiyoloji",
+    "kelime": "tersiyer koruma",
+    "aciklama": "hastalık oluştuktan sonra kalıcı sakatlıkları ve komplikasyonları önleyip hastayı rehabilite etme adımı.",
+    "yasakli_kelimeler": [
+      "rehabilitasyon",
+      "komplikasyon",
+      "sakatlık",
+      "kronik",
+      "iyileştirme"
+    ]
+  },
+  {
+    "id": 77,
+    "kategori": "epidemiyoloji",
+    "kelime": "örneklem büyüklüğü",
+    "aciklama": "bir epidemiyolojik araştırmada istatistiksel gücü sağlamak için gereken asgari katılımcı sayısı.",
+    "yasakli_kelimeler": [
+      "katılımcı",
+      "sayı",
+      "istatistik",
+      "güç",
+      "popülasyon"
+    ]
+  },
+  {
+    "id": 78,
+    "kategori": "epidemiyoloji",
+    "kelime": "temsil yeteneği",
+    "aciklama": "seçilen örneklemin ait olduğu ana kütlenin özelliklerini yansıtma ve genellenebilme düzeyi.",
+    "yasakli_kelimeler": [
+      "örneklem",
+      "genelleme",
+      "evren",
+      "popülasyon",
+      "yansıtma"
+    ]
+  },
+  {
+    "id": 79,
+    "kategori": "epidemiyoloji",
+    "kelime": "stratifikasyon",
+    "aciklama": "karıştırıcı faktörleri kontrol etmek amacıyla verileri yaş veya cinsiyet gibi alt katmanlara ayırarak analiz etme.",
+    "yasakli_kelimeler": [
+      "tabakalama",
+      "alt grup",
+      "katman",
+      "analiz",
+      "karıştırıcı"
+    ]
+  },
+  {
+    "id": 80,
+    "kategori": "epidemiyoloji",
+    "kelime": "eşleştirme",
+    "aciklama": "vaka ve kontrol gruplarının yaş veya cinsiyet gibi karıştırıcı olabilecek özellikler açısından denk kılınması.",
+    "yasakli_kelimeler": [
+      "matching",
+      "denk",
+      "kontrol",
+      "vaka",
+      "karıştırıcı"
+    ]
+  },
+  {
+    "id": 81,
+    "kategori": "epidemiyoloji",
+    "kelime": "meta analiz",
+    "aciklama": "aynı konuda yapılmış birden fazla bağımsız çalışmanın nicel sonuçlarını istatistiksel olarak birleştirme yöntemi.",
+    "yasakli_kelimeler": [
+      "birleştirme",
+      "derleme",
+      "kanıt",
+      "istatistik",
+      "çalışma"
+    ]
+  },
+  {
+    "id": 82,
+    "kategori": "epidemiyoloji",
+    "kelime": "sistematik derleme",
+    "aciklama": "belirli bir araştırma sorusuna yanıt arayan tüm nitelikli çalışmaları önceden tanımlı kriterlerle sentezleme.",
+    "yasakli_kelimeler": [
+      "derleme",
+      "literatür",
+      "kanıt",
+      "sentez",
+      "kriter"
+    ]
+  },
+  {
+    "id": 83,
+    "kategori": "epidemiyoloji",
+    "kelime": "huni grafiği",
+    "aciklama": "meta-analizlerde yayın yanlılığını görselleştirmek ve küçük çalışma etkilerini incelemek için çizilen grafik.",
+    "yasakli_kelimeler": [
+      "yayın yanlılığı",
+      "grafik",
+      "meta analiz",
+      "asimetri",
+      "saçılım"
+    ]
+  },
+  {
+    "id": 84,
+    "kategori": "epidemiyoloji",
+    "kelime": "yayın yanlılığı",
+    "aciklama": "olumlu veya anlamlı sonuç çıkan çalışmaların olumsuz çıkanlara kıyasla daha kolay yayımlanması hatası.",
+    "yasakli_kelimeler": [
+      "yayın",
+      "makale",
+      "olumlu",
+      "taraflılık",
+      "dergi"
+    ]
+  },
+  {
+    "id": 85,
+    "kategori": "epidemiyoloji",
+    "kelime": "sağlık okuryazarlığı",
+    "aciklama": "bireylerin sağlıkla ilgili temel bilgilere ulaşma, anlama ve doğru sağlık kararları verebilme kapasitesi.",
+    "yasakli_kelimeler": [
+      "okuryazarlık",
+      "bilgi",
+      "anlama",
+      "karar",
+      "eğitim"
+    ]
+  },
+  {
+    "id": 86,
+    "kategori": "epidemiyoloji",
+    "kelime": "ekolojik çalışma",
+    "aciklama": "bireyler yerine tüm ülke veya bölge gibi topluluk düzeyindeki verilerin incelendiği araştırma tipi.",
+    "yasakli_kelimeler": [
+      "topluluk",
+      "ülke",
+      "birey dışı",
+      "korelasyon",
+      "agregat"
+    ]
+  },
+  {
+    "id": 87,
+    "kategori": "epidemiyoloji",
+    "kelime": "ekolojik yanılgı",
+    "aciklama": "topluluk düzeyinde saptanan bir ilişkinin hatalı şekilde o topluluktaki tek tek bireylere mal edilmesi.",
+    "yasakli_kelimeler": [
+      "yanılgı",
+      "birey",
+      "toplum",
+      "hata",
+      "ilişki"
+    ]
+  },
+  {
+    "id": 88,
+    "kategori": "epidemiyoloji",
+    "kelime": "kesitsel prevalans",
+    "aciklama": "belirli bir kesitte toplumda taranan hastalığın o andaki bulunma sıklığı.",
+    "yasakli_kelimeler": [
+      "anlık",
+      "sıklık",
+      "oran",
+      "tüm vaka",
+      "nokta"
+    ]
+  },
+  {
+    "id": 89,
+    "kategori": "epidemiyoloji",
+    "kelime": "serolojik sürveyans",
+    "aciklama": "toplumdan alınan kan örneklerinde antikor düzeylerini ölçerek bağışıklık ve maruziyet oranını izleme.",
+    "yasakli_kelimeler": [
+      "antikor",
+      "kan",
+      "seroloji",
+      "bağışıklık",
+      "tarama"
+    ]
+  },
+  {
+    "id": 90,
+    "kategori": "epidemiyoloji",
+    "kelime": "aşırı ölüm",
+    "aciklama": "bir kriz veya salgın döneminde gözlenen toplam ölüm sayısının beklenen tarihsel ortalamanın üzerine çıkması.",
+    "yasakli_kelimeler": [
+      "fazla ölüm",
+      "istatistik",
+      "ortalama",
+      "kriz",
+      "artış"
+    ]
+  },
+  {
+    "id": 91,
+    "kategori": "epidemiyoloji",
+    "kelime": "virülans",
+    "aciklama": "bir patojenin konakçıda oluşturabildiği hastalığın şiddeti veya öldürücülük derecesi.",
+    "yasakli_kelimeler": [
+      "şiddet",
+      "öldürücülük",
+      "ağır",
+      "patojen",
+      "hasar"
+    ]
+  },
+  {
+    "id": 92,
+    "kategori": "epidemiyoloji",
+    "kelime": "patojenite",
+    "aciklama": "bir mikroorganizmanın duyarlı bir konakçıda hastalık oluşturabilme yeteneği.",
+    "yasakli_kelimeler": [
+      "hastalık yapma",
+      "mikrop",
+      "kabiliyet",
+      "yetililik",
+      "bulaş"
+    ]
+  },
+  {
+    "id": 93,
+    "kategori": "epidemiyoloji",
+    "kelime": "bulaşma yolu",
+    "aciklama": "bir enfeksiyon ajanının kaynaktan yeni bir konakçıya geçerken izlediği fiziksel mekanizma.",
+    "yasakli_kelimeler": [
+      "damlacık",
+      "temas",
+      "hava",
+      "fekal-oral",
+      "aktarım"
+    ]
+  },
+  {
+    "id": 94,
+    "kategori": "epidemiyoloji",
+    "kelime": "damlacık yolu",
+    "aciklama": "öksürme veya hapşırma ile saçılan büyük partiküllerin kısa mesafede solunmasıyla gerçekleşen bulaşma.",
+    "yasakli_kelimeler": [
+      "öksürük",
+      "hapşırık",
+      "tükürük",
+      "mesafe",
+      "partikül"
+    ]
+  },
+  {
+    "id": 95,
+    "kategori": "epidemiyoloji",
+    "kelime": "hava yolu",
+    "aciklama": "küçük damlacık çekirdeklerinin havada uzun süre asılı kalarak solunmasıyla oluşan bulaşma biçimi.",
+    "yasakli_kelimeler": [
+      "havada asılı",
+      "aerosol",
+      "çekirdek",
+      "uzun mesafe",
+      "tüberküloz"
+    ]
+  },
+  {
+    "id": 96,
+    "kategori": "epidemiyoloji",
+    "kelime": "fekal oral yol",
+    "aciklama": "dışkıyla kirlenmiş su veya gıdaların ağız yoluyla tüketilmesiyle gerçekleşen bulaş mekanizması.",
+    "yasakli_kelimeler": [
+      "dışkı",
+      "ağız",
+      "su",
+      "gıda",
+      "kirlilik"
+    ]
+  },
+  {
+    "id": 97,
+    "kategori": "epidemiyoloji",
+    "kelime": "parenteral yol",
+    "aciklama": "etkenin sindirim kanalına uğramadan doğrudan damar içi enjeksiyon veya kan yoluyla vücuda girişi.",
+    "yasakli_kelimeler": [
+      "enjeksiyon",
+      "iğne",
+      "damar",
+      "kan",
+      "deri altı"
+    ]
+  },
+  {
+    "id": 98,
+    "kategori": "epidemiyoloji",
+    "kelime": "dikey bulaşma",
+    "aciklama": "enfeksiyonun anneden bebeğe gebelik, doğum veya emzirme sırasında doğrudan aktarılması.",
+    "yasakli_kelimeler": [
+      "anne",
+      "bebek",
+      "gebelik",
+      "doğum",
+      "plasenta"
+    ]
+  },
+  {
+    "id": 99,
+    "kategori": "epidemiyoloji",
+    "kelime": "yatay bulaşma",
+    "aciklama": "hastalığın aynı popülasyondaki bireyler arasında temas, damlacık veya vektörlerle yayılması.",
+    "yasakli_kelimeler": [
+      "bireyler arası",
+      "toplum",
+      "yayılma",
+      "temas",
+      "akran"
+    ]
+  },
+  {
+    "id": 100,
+    "kategori": "epidemiyoloji",
+    "kelime": "karşılıklı etkileşim",
+    "aciklama": "iki veya daha fazla risk faktörünün bir araya geldiğinde beklenen toplamdan farklı bir etki yaratması.",
+    "yasakli_kelimeler": [
+      "etkileşim",
+      "sinerji",
+      "birlikte",
+      "faktör",
+      "çarpansal"
+    ]
+  }
+]

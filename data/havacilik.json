@@ -1,0 +1,1302 @@
+[
+  {
+    "id": 1,
+    "kategori": "havacilik",
+    "kelime": "kanat",
+    "aciklama": "havanın üzerinden ve altından akışı sayesinde yukarı doğru kaldırma kuvveti üreten ana aerodinamik yüzey.",
+    "yasakli_kelimeler": [
+      "kaldırma",
+      "aerodinamik",
+      "uçağın kolu",
+      "hücum kenarı",
+      "profil"
+    ]
+  },
+  {
+    "id": 2,
+    "kategori": "havacilik",
+    "kelime": "gövde",
+    "aciklama": "yolcuları, mürettebatı, kargoyu barındıran ve diğer tüm uçak bileşenlerinin bağlandığı ana merkezi yapı.",
+    "yasakli_kelimeler": [
+      "fuselage",
+      "yolcu kabini",
+      "ana yapı",
+      "kokpit",
+      "merkez"
+    ]
+  },
+  {
+    "id": 3,
+    "kategori": "havacilik",
+    "kelime": "kokpit",
+    "aciklama": "pilotların uçağın uçuş ve sistem kontrollerini gerçekleştirdiği en ön kumanda kabini.",
+    "yasakli_kelimeler": [
+      "pilot köşkü",
+      "uçuş güvertesi",
+      "kumanda",
+      "lövye",
+      "göstergeler"
+    ]
+  },
+  {
+    "id": 4,
+    "kategori": "havacilik",
+    "kelime": "irtifa",
+    "aciklama": "bir hava aracının deniz seviyesinden veya arazi yüzeyinden olan dikey yüksekliği.",
+    "yasakli_kelimeler": [
+      "yükseklik",
+      "feet",
+      "deniz seviyesi",
+      "altimetre",
+      "dikey"
+    ]
+  },
+  {
+    "id": 5,
+    "kategori": "havacilik",
+    "kelime": "kaldırma kuvveti",
+    "aciklama": "kanat profilinin alt ve üst yüzeyleri arasındaki basınç farkından doğan uçağı havada tutan aerodinamik kuvvet.",
+    "yasakli_kelimeler": [
+      "lift",
+      "bernoulli",
+      "aerodinamik",
+      "havada tutma",
+      "yerçekimi"
+    ]
+  },
+  {
+    "id": 6,
+    "kategori": "havacilik",
+    "kelime": "sürükleme kuvveti",
+    "aciklama": "hava aracının havadaki hareketine karşı havanın gösterdiği aerodinamik direnç kuvveti.",
+    "yasakli_kelimeler": [
+      "drag",
+      "direnç",
+      "hava sürtünmesi",
+      "engel",
+      "yavaşlatma"
+    ]
+  },
+  {
+    "id": 7,
+    "kategori": "havacilik",
+    "kelime": "itme kuvveti",
+    "aciklama": "motorlar tarafından üretilen ve hava aracını havada ileri doğru iten reaksiyonel güç.",
+    "yasakli_kelimeler": [
+      "thrust",
+      "motor gücü",
+      "jet",
+      "ileri hareket",
+      "itki"
+    ]
+  },
+  {
+    "id": 8,
+    "kategori": "havacilik",
+    "kelime": "hücum kenarı",
+    "aciklama": "kanat profilinin havayla ilk temas eden yuvarlak ve kalın ön kenarı.",
+    "yasakli_kelimeler": [
+      "ön taraf",
+      "kanat profili",
+      "hücum açısı",
+      "hava girişi",
+      "slat"
+    ]
+  },
+  {
+    "id": 9,
+    "kategori": "havacilik",
+    "kelime": "firar kenarı",
+    "aciklama": "kanat profilinin üzerinden ve altından geçen hava akımlarının tekrar birleştiği keskin arka kenar.",
+    "yasakli_kelimeler": [
+      "arka kenar",
+      "flap",
+      "kanat bitimi",
+      "hava çıkışı",
+      "keskin"
+    ]
+  },
+  {
+    "id": 10,
+    "kategori": "havacilik",
+    "kelime": "hücum açısı",
+    "aciklama": "kanadın veter çizgisi ile uçağa yaklaşan bağıl rüzgar arasındaki açı.",
+    "yasakli_kelimeler": [
+      "alpha açısı",
+      "veter çizgisi",
+      "bağıl rüzgar",
+      "burun açısı",
+      "stol"
+    ]
+  },
+  {
+    "id": 11,
+    "kategori": "havacilik",
+    "kelime": "stol",
+    "aciklama": "hücum açısının kritik sınırı aşmasıyla kanat üzerindeki hava akımının kopması ve kaldırma kuvvetinin aniden yitirilmesi.",
+    "yasakli_kelimeler": [
+      "tutunma kaybı",
+      "hava akımı kopması",
+      "kritik açı",
+      "düşüş",
+      "kaldırma kaybı"
+    ]
+  },
+  {
+    "id": 12,
+    "kategori": "havacilik",
+    "kelime": "kanatçık",
+    "aciklama": "kanatların firar kenarında bulunan ve uçağın yatış yani yuvarlanma hareketini sağlayan kumanda yüzeyi.",
+    "yasakli_kelimeler": [
+      "aileron",
+      "yatış",
+      "yuvarlanma",
+      "sağa sola",
+      "firar kenarı"
+    ]
+  },
+  {
+    "id": 13,
+    "kategori": "havacilik",
+    "kelime": "irtifa dümeni",
+    "aciklama": "yatay stabilize üzerinde yer alan ve uçağın burnunu yukarı veya aşağı yönlendiren yani yunuslama yaptıran yüzey.",
+    "yasakli_kelimeler": [
+      "elevator",
+      "yunuslama",
+      "burun yukarı",
+      "yatay kuyruk",
+      "pitch"
+    ]
+  },
+  {
+    "id": 14,
+    "kategori": "havacilik",
+    "kelime": "istikamet dümeni",
+    "aciklama": "dikey stabilize üzerinde bulunan ve uçağın burnunu sağa veya sola çeviren yani sapma yaptıran kontrol yüzeyi.",
+    "yasakli_kelimeler": [
+      "rudder",
+      "sapma",
+      "dikey kuyruk",
+      "sağa sola",
+      "yaw"
+    ]
+  },
+  {
+    "id": 15,
+    "kategori": "havacilik",
+    "kelime": "flap",
+    "aciklama": "kanatların firar kenarından dışarı ve aşağı açılarak düşük hızlarda kaldırma kuvvetini artıran yüksek taşıma sistemi.",
+    "yasakli_kelimeler": [
+      "kaldırma artırıcı",
+      "iniş kalkış",
+      "kanat arkası",
+      "yavaş uçuş",
+      "açılma"
+    ]
+  },
+  {
+    "id": 16,
+    "kategori": "havacilik",
+    "kelime": "slat",
+    "aciklama": "kanadın hücum kenarından ileri doğru uzanarak hava akımını kanada yapıştıran ve yüksek açılarda uçuş sağlayan yüzey.",
+    "yasakli_kelimeler": [
+      "hücum kenarı",
+      "ön kanatçık",
+      "yüksek açı",
+      "akım kontrolü",
+      "yuva"
+    ]
+  },
+  {
+    "id": 17,
+    "kategori": "havacilik",
+    "kelime": "spoiler",
+    "aciklama": "kanat üst yüzeyinden yukarı açılarak kaldırma kuvvetini bozan ve frenleme etkisi yaratan hava freni panelleri.",
+    "yasakli_kelimeler": [
+      "hava freni",
+      "lift dökücü",
+      "kanat üstü",
+      "iniş freni",
+      "yavaşlatıcı"
+    ]
+  },
+  {
+    "id": 18,
+    "kategori": "havacilik",
+    "kelime": "lövye",
+    "aciklama": "kokpitte pilotun kanatçık ve irtifa dümenini yönlendirerek yatış ve yunuslama hareketini kumanda ettiği çubuk veya boyunduruk.",
+    "yasakli_kelimeler": [
+      "kumanda kolu",
+      "boyunduruk",
+      "sidestick",
+      "pilot kolu",
+      "yoke"
+    ]
+  },
+  {
+    "id": 19,
+    "kategori": "havacilik",
+    "kelime": "rudder pedalları",
+    "aciklama": "pilotun ayaklarıyla basarak dikey dümeni ve yer manevralarında burun tekerleğini kontrol ettiği düzenek.",
+    "yasakli_kelimeler": [
+      "ayak pedalı",
+      "sapma kontrolü",
+      "istikamet",
+      "ayak kumandası",
+      "dümen"
+    ]
+  },
+  {
+    "id": 20,
+    "kategori": "havacilik",
+    "kelime": "pitot tüpü",
+    "aciklama": "uçağın dış gövdesine takılan ve çarpan havanın dinamik basıncını ölçerek hava hızını hesaplayan boru şeklindeki sensör.",
+    "yasakli_kelimeler": [
+      "hız sensörü",
+      "dinamik basınç",
+      "hava akımı",
+      "ısıtıcılı tüp",
+      "gösterge"
+    ]
+  },
+  {
+    "id": 21,
+    "kategori": "havacilik",
+    "kelime": "statik port",
+    "aciklama": "uçağın gövde yan yüzeyinde bulunan ve serbest havanın durgun ortam basıncını ölçen minik delik sensörü.",
+    "yasakli_kelimeler": [
+      "ortam basıncı",
+      "altimetre sensörü",
+      "durgun hava",
+      "gövde deliği",
+      "basınç"
+    ]
+  },
+  {
+    "id": 22,
+    "kategori": "havacilik",
+    "kelime": "altimetre",
+    "aciklama": "pitot-statik sistemden aldığı ortam hava basıncını kullanarak uçağın uçtuğu irtifayı feet cinsinden gösteren cihaz.",
+    "yasakli_kelimeler": [
+      "irtifa saati",
+      "basınç ölçer",
+      "feet göstergesi",
+      "yükseklik göstergesi",
+      "barometre"
+    ]
+  },
+  {
+    "id": 23,
+    "kategori": "havacilik",
+    "kelime": "varyometre",
+    "aciklama": "uçağın dakikada kaç feet tırmandığını veya alçaldığını gösteren dikey hız göstergesi.",
+    "yasakli_kelimeler": [
+      "tırmanış saati",
+      "dikey hız",
+      "alçalma hızı",
+      "feet bölü dakika",
+      "climb"
+    ]
+  },
+  {
+    "id": 24,
+    "kategori": "havacilik",
+    "kelime": "suni ufuk",
+    "aciklama": "kokpitte pilotun gökyüzünü göremediği anlarda uçağın yer ve ufka göre yatış ve yunuslama durumunu gösteren jiroskopik alet.",
+    "yasakli_kelimeler": [
+      "durum göstergesi",
+      "attitude",
+      "ufuk çizgisi",
+      "jiroskop",
+      "pitch roll"
+    ]
+  },
+  {
+    "id": 25,
+    "kategori": "havacilik",
+    "kelime": "mach sayısı",
+    "aciklama": "uçağın gerçek hava hızının o anki irtifa ve sıcaklıktaki yerel ses hızına olan oranı.",
+    "yasakli_kelimeler": [
+      "ses hızı",
+      "süpersonik",
+      "oran",
+      "hız birimi",
+      "ses duvarı"
+    ]
+  },
+  {
+    "id": 26,
+    "kategori": "havacilik",
+    "kelime": "kara kutu",
+    "aciklama": "kazalardan sonra incelenmek üzere kokpit seslerini ve tüm uçuş parametrelerini kaydeden zırhlı turuncu cihaz.",
+    "yasakli_kelimeler": [
+      "fdr",
+      "cvr",
+      "turuncu kutu",
+      "kaza kaydı",
+      "kokpit sesleri"
+    ]
+  },
+  {
+    "id": 27,
+    "kategori": "havacilik",
+    "kelime": "transponder",
+    "aciklama": "radar sorgusuna yanıt vererek yerdeki hava trafik kontrolörüne uçağın kimliğini ve irtifasını ileten telsiz cihazı.",
+    "yasakli_kelimeler": [
+      "squawk",
+      "radar yanıtlayıcı",
+      "kimlik kodu",
+      "irtifa yayını",
+      "telsiz"
+    ]
+  },
+  {
+    "id": 28,
+    "kategori": "havacilik",
+    "kelime": "tcas",
+    "aciklama": "yakındaki diğer uçaklarla çarpışma tehlikesini algılayıp pilotlara otomatik kaçış manevrası emri veren güvenlik sistemi.",
+    "yasakli_kelimeler": [
+      "çarpışma önleyici",
+      "kaçış talimatı",
+      "yakınlık uyarısı",
+      "trafik radarı",
+      "çarpışma koruması"
+    ]
+  },
+  {
+    "id": 29,
+    "kategori": "havacilik",
+    "kelime": "otopilot",
+    "aciklama": "uçağın rotasını, irtifasını ve hızını pilotun manuel müdahalesi olmadan bilgisayar kontrollü uçuran sistem.",
+    "yasakli_kelimeler": [
+      "otomatik pilot",
+      "uçuş yöneticisi",
+      "rota takibi",
+      "servomotor",
+      "bilgisayar"
+    ]
+  },
+  {
+    "id": 30,
+    "kategori": "havacilik",
+    "kelime": "fms",
+    "aciklama": "uçuş planını, navigasyonu, yakıt tüketimini ve profilini yöneten kokpit uçuş yönetim bilgisayarı sistemi.",
+    "yasakli_kelimeler": [
+      "uçuş bilgisayarı",
+      "navigasyon",
+      "rota veritabanı",
+      "mcdu",
+      "otomasyon"
+    ]
+  },
+  {
+    "id": 31,
+    "kategori": "havacilik",
+    "kelime": "turbofan",
+    "aciklama": "modern yolcu uçaklarında kullanılan, önündeki dev fanla yüksek baypas havası üreterek çalışan verimli jet motoru tipi.",
+    "yasakli_kelimeler": [
+      "jet motoru",
+      "fan",
+      "baypas",
+      "türbin",
+      "itki"
+    ]
+  },
+  {
+    "id": 32,
+    "kategori": "havacilik",
+    "kelime": "turbojet",
+    "aciklama": "tüm havanın yanma odasından geçtiği ve yüksek hızlarda çalışan ilk nesil saf tepkili jet motoru.",
+    "yasakli_kelimeler": [
+      "saf jet",
+      "yanma odası",
+      "egzoz",
+      "yüksek hız",
+      "tepki"
+    ]
+  },
+  {
+    "id": 33,
+    "kategori": "havacilik",
+    "kelime": "turboprop",
+    "aciklama": "gaz türbininden elde ettiği şaft gücüyle büyük bir pervaneyi döndürerek itme üreten uçak motoru türü.",
+    "yasakli_kelimeler": [
+      "pervane",
+      "şaft",
+      "gaz türbini",
+      "bölgesel uçak",
+      "itki"
+    ]
+  },
+  {
+    "id": 34,
+    "kategori": "havacilik",
+    "kelime": "art yakıcı",
+    "aciklama": "askeri süpersonik jetlerde egzoza ekstra yakıt püskürterek kısa sürede muazzam itme artışı sağlayan düzenek.",
+    "yasakli_kelimeler": [
+      "afterburner",
+      "askeri jet",
+      "alev",
+      "ekstra itki",
+      "süpersonik"
+    ]
+  },
+  {
+    "id": 35,
+    "kategori": "havacilik",
+    "kelime": "ters itme",
+    "aciklama": "uçağın teker koyduktan sonra pistte kısa mesafede durmasını sağlamak için motor egzoz akışını öne yönlendiren sistem.",
+    "yasakli_kelimeler": [
+      "thrust reverser",
+      "frenleme",
+      "motor kapağı",
+      "yavaşlama",
+      "pistte durma"
+    ]
+  },
+  {
+    "id": 36,
+    "kategori": "havacilik",
+    "kelime": "apu",
+    "aciklama": "uçak yerdeyken veya ana motorlar durduğunda elektrik gücü ve klima havası sağlayan kuyruktaki küçük yardımcı türbin motoru.",
+    "yasakli_kelimeler": [
+      "yardımcı güç",
+      "kuyruk motoru",
+      "yer elektriği",
+      "pnömatik",
+      "türbin"
+    ]
+  },
+  {
+    "id": 37,
+    "kategori": "havacilik",
+    "kelime": "ram hava türbini",
+    "aciklama": "tüm motorlar ve elektrik sistemleri arızalandığında gövdeden aşağı açılarak hava akımıyla dönüp acil güç üreten pervane.",
+    "yasakli_kelimeler": [
+      "rat",
+      "acil pervane",
+      "rüzgar türbini",
+      "hidrolik güç",
+      "acil durum"
+    ]
+  },
+  {
+    "id": 38,
+    "kategori": "havacilik",
+    "kelime": "fly-by-wire",
+    "aciklama": "pilotun lövye hareketlerini mekanik kablolar yerine elektrik sinyalleri ve bilgisayarlar aracılığıyla aktaran uçuş kumanda teknolojisi.",
+    "yasakli_kelimeler": [
+      "elektronik kumanda",
+      "kablo yok",
+      "bilgisayar kontrolü",
+      "elektrik sinyali",
+      "aktüatör"
+    ]
+  },
+  {
+    "id": 39,
+    "kategori": "havacilik",
+    "kelime": "seyrüsefer",
+    "aciklama": "hava aracının kalkış noktasından varış meydanına kadar gökyüzünde emniyetle yolunu bulma ve konum belirleme sanatı.",
+    "yasakli_kelimeler": [
+      "navigasyon",
+      "rota bulma",
+      "yön bulma",
+      "pusula",
+      "gps"
+    ]
+  },
+  {
+    "id": 40,
+    "kategori": "havacilik",
+    "kelime": "ils",
+    "aciklama": "sisli ve kötü görüş koşullarında uçakların piste santimetrik hassasiyetle yaklaşmasını sağlayan aletli iniş sistemi.",
+    "yasakli_kelimeler": [
+      "aletli iniş",
+      "süzülüş hattı",
+      "pist yaklaşması",
+      "glideslope",
+      "localizer"
+    ]
+  },
+  {
+    "id": 41,
+    "kategori": "havacilik",
+    "kelime": "vor",
+    "aciklama": "uçakların radyo dalgalarıyla yer istasyonuna olan manyetik radyal açısını bulmasını sağlayan seyrüsefer yardımcısı.",
+    "yasakli_kelimeler": [
+      "radyo seyrüsefer",
+      "radyal",
+      "istasyon",
+      "anten",
+      "rota"
+    ]
+  },
+  {
+    "id": 42,
+    "kategori": "havacilik",
+    "kelime": "dme",
+    "aciklama": "uçağın yerdeki seyrüsefer istasyonuna olan eğik kuş uçuşu mesafesini deniz mili cinsinden ölçen alet.",
+    "yasakli_kelimeler": [
+      "mesafe ölçer",
+      "deniz mili",
+      "istasyon mesafesi",
+      "radikal mesafe",
+      "nautical mile"
+    ]
+  },
+  {
+    "id": 43,
+    "kategori": "havacilik",
+    "kelime": "glideslope",
+    "aciklama": "ils sisteminin uçağa piste doğru yaklaşık 3 derecelik standart dikey alçalma açısını veren verici bileşeni.",
+    "yasakli_kelimeler": [
+      "süzülüş açısı",
+      "dikey hat",
+      "ils sinyali",
+      "üç derece",
+      "alçalma ekseni"
+    ]
+  },
+  {
+    "id": 44,
+    "kategori": "havacilik",
+    "kelime": "localizer",
+    "aciklama": "ils sisteminde uçağın pist merkez çizgisine göre sağda mı solda mı olduğunu gösteren yatay yönlendirici verici.",
+    "yasakli_kelimeler": [
+      "merkez çizgisi",
+      "pist ekseni",
+      "yatay kılavuz",
+      "ils bileşeni",
+      "sağ sol"
+    ]
+  },
+  {
+    "id": 45,
+    "kategori": "havacilik",
+    "kelime": "tora",
+    "aciklama": "bir pistin kalkış yapacak uçaklar için kullanılabilir ve emniyetli olan toplam fiziki pist uzunluğu.",
+    "yasakli_kelimeler": [
+      "kalkış mesafesi",
+      "pist uzunluğu",
+      "koşu mesafesi",
+      "meydan",
+      "pist"
+    ]
+  },
+  {
+    "id": 46,
+    "kategori": "havacilik",
+    "kelime": "taksi yolu",
+    "aciklama": "uçakların aprondan veya hangardan kalkış pistine ulaşmak için yerde tekerlekleri üzerinde ilerlediği özel asfalt yol.",
+    "yasakli_kelimeler": [
+      "taxi",
+      "yer hareketi",
+      "bağlantı yolu",
+      "apron pist arası",
+      "yer manevrası"
+    ]
+  },
+  {
+    "id": 47,
+    "kategori": "havacilik",
+    "kelime": "apron",
+    "aciklama": "uçakların yolcu bindirme, bagaj yükleme, yakıt ikmali ve park işlemlerini gerçekleştirdiği terminal önü geniş alan.",
+    "yasakli_kelimeler": [
+      "park alanı",
+      "kapı önü",
+      "ikmal bölgesi",
+      "terminal sahası",
+      "uçak parkı"
+    ]
+  },
+  {
+    "id": 48,
+    "kategori": "havacilik",
+    "kelime": "hava trafik kontrolörü",
+    "aciklama": "hava sahasındaki ve havalimanı yüzeyindeki tüm uçakların güvenli aralıklarla hareketini telsizle yöneten görevli.",
+    "yasakli_kelimeler": [
+      "kule görevlisi",
+      "atc",
+      "radar kontrol",
+      "telsiz talimatı",
+      "ayrıma"
+    ]
+  },
+  {
+    "id": 49,
+    "kategori": "havacilik",
+    "kelime": "kontrol kulesi",
+    "aciklama": "havalimanının tüm pistlerini ve apron sahasını görecek yükseklikte inşa edilen camdan hava trafik yönetim binası.",
+    "yasakli_kelimeler": [
+      "meydan kulesi",
+      "atc kulesi",
+      "camlı bina",
+      "kule",
+      "gözlem"
+    ]
+  },
+  {
+    "id": 50,
+    "kategori": "havacilik",
+    "kelime": "sid",
+    "aciklama": "kalkış yapan uçağın havalimanı çevresindeki gürültü ve engellerden kaçınarak hava yoluna girmesini sağlayan standart aletli kalkış rotası.",
+    "yasakli_kelimeler": [
+      "kalkış rotası",
+      "standart rota",
+      "tırmanış hattı",
+      "prosedür",
+      "ayrılış"
+    ]
+  },
+  {
+    "id": 51,
+    "kategori": "havacilik",
+    "kelime": "star",
+    "aciklama": "seyir irtifasından alçalan uçakların havalimanı yaklaşma bölgesine düzenli girmesini sağlayan standart aletli varış rotası.",
+    "yasakli_kelimeler": [
+      "varış rotası",
+      "alçalma prosedürü",
+      "yaklaşma hattı",
+      "standart geliş",
+      "prosedür"
+    ]
+  },
+  {
+    "id": 52,
+    "kategori": "havacilik",
+    "kelime": "holding",
+    "aciklama": "havalimanındaki yoğunluk veya hava muhalefeti nedeniyle uçakların belirli bir nokta üzerinde oval çizerek havada beklemesi.",
+    "yasakli_kelimeler": [
+      "bekleme paterni",
+      "oval tur",
+      "havada bekleme",
+      "tur atma",
+      "gecikme"
+    ]
+  },
+  {
+    "id": 53,
+    "kategori": "havacilik",
+    "kelime": "pas geçme",
+    "aciklama": "iniş hattındaki uçağın emniyetli iniş yapamayacağı anlaşıldığında inişi iptal edip motorlara tam gaz vererek yeniden yükselmesi.",
+    "yasakli_kelimeler": [
+      "go-around",
+      "iniş iptali",
+      "tekrar yükselme",
+      "tırmanışa geçme",
+      "ikinci deneme"
+    ]
+  },
+  {
+    "id": 54,
+    "kategori": "havacilik",
+    "kelime": "rüzgar makası",
+    "aciklama": "kısa mesafede rüzgar yön ve süratinde meydana gelen ani, şiddetli ve uçaklar için son derece tehlikeli değişim.",
+    "yasakli_kelimeler": [
+      "windshear",
+      "mikroburst",
+      "ani rüzgar",
+      "yön değişimi",
+      "tehlikeli akım"
+    ]
+  },
+  {
+    "id": 55,
+    "kategori": "havacilik",
+    "kelime": "girdap türbülansı",
+    "aciklama": "uçak kanat uçlarından geriye doğru dökülen ve arkadan gelen uçağı devirebilecek güçte dönen minik hortumlar.",
+    "yasakli_kelimeler": [
+      "wake turbulans",
+      "kanat ucu hortumu",
+      "dönen akım",
+      "arka uçak",
+      "ayrıma mesafesi"
+    ]
+  },
+  {
+    "id": 56,
+    "kategori": "havacilik",
+    "kelime": "winglet",
+    "aciklama": "kanat ucundaki girdapları engelleyerek indüklenmiş sürüklemeyi azaltan ve yakıt tasarrufu sağlayan kıvrık kanat ucu parçası.",
+    "yasakli_kelimeler": [
+      "kıvrık kanat",
+      "yakıt tasarrufu",
+      "vorteks önleyici",
+      "kanat ucu",
+      "aerodinamik kanatçık"
+    ]
+  },
+  {
+    "id": 57,
+    "kategori": "havacilik",
+    "kelime": "kanat yakıt tankı",
+    "aciklama": "uçakların ağırlık merkezini dengelemek ve gövdede yer açmak amacıyla yakıtın depolandığı sızdırmaz kanat içi bölmeler.",
+    "yasakli_kelimeler": [
+      "depo",
+      "kerosen",
+      "kanat içi",
+      "yakıt hacmi",
+      "sızdırmaz"
+    ]
+  },
+  {
+    "id": 58,
+    "kategori": "havacilik",
+    "kelime": "ağırlık merkezi",
+    "aciklama": "uçağın tüm kütlesinin dengelendiği ve aerodinamik kuvvetlerin etrafında moment oluşturduğu hayali nokta.",
+    "yasakli_kelimeler": [
+      "denge noktası",
+      "center of gravity",
+      "cg",
+      "stabilite",
+      "kütle merkezi"
+    ]
+  },
+  {
+    "id": 59,
+    "kategori": "havacilik",
+    "kelime": "trim",
+    "aciklama": "pilotun kumanda kollarındaki sürekli kuvveti sıfırlamak ve uçağı istenen irtifada stabil tutmak için kullanılan hassas fletner ayarı.",
+    "yasakli_kelimeler": [
+      "fletner",
+      "kumanda yükü",
+      "denge ayarı",
+      "hassas ayar",
+      "stabilizasyon"
+    ]
+  },
+  {
+    "id": 60,
+    "kategori": "havacilik",
+    "kelime": "canard",
+    "aciklama": "uçağın ana kanadının önünde gövdeye monte edilen ve yüksek manevra kabiliyeti sağlayan küçük ön kanatçıklar.",
+    "yasakli_kelimeler": [
+      "ön kanat",
+      "eurofighter",
+      "burun kanadı",
+      "manevra",
+      "delta kanat"
+    ]
+  },
+  {
+    "id": 61,
+    "kategori": "havacilik",
+    "kelime": "delta kanat",
+    "aciklama": "özellikle süpersonik jet uçaklarında kullanılan üçgen geometrili geniş yüzeyli kanat tasarımı.",
+    "yasakli_kelimeler": [
+      "üçgen kanat",
+      "süpersonik",
+      "concorde",
+      "geometri",
+      "yüksek hız"
+    ]
+  },
+  {
+    "id": 62,
+    "kategori": "havacilik",
+    "kelime": "ok açılı kanat",
+    "aciklama": "ses hızına yaklaşırken oluşan şok dalgalarını geciktirmek için geriye doğru açılı inşa edilen modern kanat formu.",
+    "yasakli_kelimeler": [
+      "geriye açılı",
+      "swept wing",
+      "şok dalgası",
+      "yolcu uçağı",
+      "hız direnci"
+    ]
+  },
+  {
+    "id": 63,
+    "kategori": "havacilik",
+    "kelime": "değişken geometrili kanat",
+    "aciklama": "f-14 veya tornado gibi uçaklarda kalkışta düz, yüksek hızlarda ise geriye doğru katlanabilen hareketli kanat.",
+    "yasakli_kelimeler": [
+      "hareketli kanat",
+      "kanat katlama",
+      "açı değiştiren",
+      "f-14",
+      "geometri"
+    ]
+  },
+  {
+    "id": 64,
+    "kategori": "havacilik",
+    "kelime": "şok dalgası",
+    "aciklama": "ses hızı aşıldığında havanın sıkışması sonucu uçağın burnunda ve kanatlarında oluşan ani basınç sıçraması cephesi.",
+    "yasakli_kelimeler": [
+      "ses patlaması",
+      "basınç cephesi",
+      "süpersonik",
+      "sonik patlama",
+      "hava sıkışması"
+    ]
+  },
+  {
+    "id": 65,
+    "kategori": "havacilik",
+    "kelime": "ses patlaması",
+    "aciklama": "bir uçağın ses hızını aşması anında şok dalgalarının yere ulaştığında gök gürültüsü gibi duyulan muazzam patlama sesi.",
+    "yasakli_kelimeler": [
+      "sonic boom",
+      "şok sesi",
+      "patlama sesi",
+      "ses duvarı",
+      "süpersonik gürültü"
+    ]
+  },
+  {
+    "id": 66,
+    "kategori": "havacilik",
+    "kelime": "iniş takımı",
+    "aciklama": "uçağın yerde durmasını, taksi yapmasını ve iniş darbelerini emmesini sağlayan tekerlekli amortisörlü mekanizma.",
+    "yasakli_kelimeler": [
+      "tekerlek",
+      "amortisör",
+      "buji",
+      "katlanır ayak",
+      "yer takımı"
+    ]
+  },
+  {
+    "id": 67,
+    "kategori": "havacilik",
+    "kelime": "fren diski",
+    "aciklama": "uçak iniş yaptıktan sonra tekerlekleri durdurmak için kullanılan aşırı ısıya dayanıklı karbon kompozit diskler.",
+    "yasakli_kelimeler": [
+      "karbon",
+      "tekerlek freni",
+      "balata",
+      "yavaşlama",
+      "soğutma fanı"
+    ]
+  },
+  {
+    "id": 68,
+    "kategori": "havacilik",
+    "kelime": "anti-skid",
+    "aciklama": "uçakların ıslak pistte inişinde tekerleklerin kilitlenip kaymasını önleyen gelişmiş uçak abs fren sistemi.",
+    "yasakli_kelimeler": [
+      "abs",
+      "kayma önleyici",
+      "frenleme",
+      "kilitlenme",
+      "tekerlek kontrolü"
+    ]
+  },
+  {
+    "id": 69,
+    "kategori": "havacilik",
+    "kelime": "otobrake",
+    "aciklama": "pilot müdahalesi olmadan teker koyar koymaz önceden seçilen oranda tekerlek frenlerini devreye sokan otomatik sistem.",
+    "yasakli_kelimeler": [
+      "otomatik fren",
+      "teker freni",
+      "rto",
+      "iniş durdurma",
+      "seçici fren"
+    ]
+  },
+  {
+    "id": 70,
+    "kategori": "havacilik",
+    "kelime": "rto",
+    "aciklama": "uçağın kalkış koşusu sırasında kritik hızdan önce ortaya çıkan acil bir durumda kalkışı iptal edip maksimum fren yapması.",
+    "yasakli_kelimeler": [
+      "kalkış iptali",
+      "acil duruş",
+      "maksimum fren",
+      "pist içi durma",
+      "v1 öncesi"
+    ]
+  },
+  {
+    "id": 71,
+    "kategori": "havacilik",
+    "kelime": "v1 hızı",
+    "aciklama": "kalkış koşusunda kararın verildiği, bu hız aşıldıktan sonra tek motor dursa dahi kalkışın zorunlu olduğu karar hızı.",
+    "yasakli_kelimeler": [
+      "karar hızı",
+      "kalkış limiti",
+      "motor arızası",
+      "koşu hızı",
+      "iptal sınırı"
+    ]
+  },
+  {
+    "id": 72,
+    "kategori": "havacilik",
+    "kelime": "vr hızı",
+    "aciklama": "kalkış yapan uçağın burnunun pilot tarafından lövye çekilerek pistten kaldırılmaya başlandığı rotasyon hızı.",
+    "yasakli_kelimeler": [
+      "rotasyon",
+      "burun kaldırma",
+      "şahlanma",
+      "kalkış koşusu",
+      "pistten kesilme"
+    ]
+  },
+  {
+    "id": 73,
+    "kategori": "havacilik",
+    "kelime": "v2 hızı",
+    "aciklama": "tek motor kaybetmiş bir uçağın pistten kesildikten sonra tırmanışa emniyetle devam edebileceği asgari tırmanma hızı.",
+    "yasakli_kelimeler": [
+      "emniyetli tırmanış",
+      "arıza hızı",
+      "tırmanma sürati",
+      "asgari sürat",
+      "motor kaybı"
+    ]
+  },
+  {
+    "id": 74,
+    "kategori": "havacilik",
+    "kelime": "vso hızı",
+    "aciklama": "iniş konfigürasyonunda uçağın flap ve iniş takımları açıkken stol olmadan uçabileceği en düşük tutunma hızı.",
+    "yasakli_kelimeler": [
+      "stol sürati",
+      "asgari hız",
+      "en yavaş",
+      "iniş hızı",
+      "düşme sürati"
+    ]
+  },
+  {
+    "id": 75,
+    "kategori": "havacilik",
+    "kelime": "vne hızı",
+    "aciklama": "hava aracının yapısal hasar almaması için hiçbir koşulda asla aşılmaması gereken mutlak maksimum hız sınırı.",
+    "yasakli_kelimeler": [
+      "asla aşılmayacak",
+      "maksimum sürat",
+      "kırmızı çizgi",
+      "yapısal limit",
+      "hız tavanı"
+    ]
+  },
+  {
+    "id": 76,
+    "kategori": "havacilik",
+    "kelime": "uçuş tavanı",
+    "aciklama": "bir hava aracının aerodinamik veya motor gücü olarak tırmanabileceği en yüksek irtifa seviyesi.",
+    "yasakli_kelimeler": [
+      "maksimum irtifa",
+      "hizmet tavanı",
+      "en üst limit",
+      "servis irtifası",
+      "yükseklik"
+    ]
+  },
+  {
+    "id": 77,
+    "kategori": "havacilik",
+    "kelime": "kabin basınçlandırma",
+    "aciklama": "yüksek irtifalarda yolcuların oksijensiz kalmaması için kabin içindeki hava basıncını yapay olarak deniz seviyesine yakın tutma.",
+    "yasakli_kelimeler": [
+      "oksijen",
+      "kabin irtifası",
+      "basınç",
+      "outflow valf",
+      "yüksek irtifa"
+    ]
+  },
+  {
+    "id": 78,
+    "kategori": "havacilik",
+    "kelime": "oksijen maskesi",
+    "aciklama": "kabin basıncı aniden düştüğünde yolcuların nefes alabilmesi için tavandan otomatik olarak düşen acil durum maskesi.",
+    "yasakli_kelimeler": [
+      "basınç kaybı",
+      "acil durum",
+      "tavandan düşen",
+      "solunum",
+      "yolcu maskesi"
+    ]
+  },
+  {
+    "id": 79,
+    "kategori": "havacilik",
+    "kelime": "rampa",
+    "aciklama": "kargo uçaklarında yüklerin tekerlekli paletlerle kolayca yüklenmesini sağlayan arka gövde kapağı ve yükleme rampası.",
+    "yasakli_kelimeler": [
+      "arka kapak",
+      "kargo yükleme",
+      "palet",
+      "askeri kargo",
+      "kapak"
+    ]
+  },
+  {
+    "id": 80,
+    "kategori": "havacilik",
+    "kelime": "sefer planı",
+    "aciklama": "uçuş öncesinde rota, yedek meydanlar, yakıt miktarı ve yolcu sayısını içeren resmi yetkililere sunulan uçuş belgesi.",
+    "yasakli_kelimeler": [
+      "uçuş planı",
+      "notam",
+      "rota belgesi",
+      "yakıt hesabı",
+      "resmi form"
+    ]
+  },
+  {
+    "id": 81,
+    "kategori": "havacilik",
+    "kelime": "notam",
+    "aciklama": "uçuş emniyetini etkileyebilecek kapalı pistler, bozuk fenerler gibi geçici durumları pilotlara bildiren resmi havacılık bülteni.",
+    "yasakli_kelimeler": [
+      "havacı bildirisi",
+      "uyarı mesajı",
+      "kapalı pist",
+      "pilot bülteni",
+      "bilgilendirme"
+    ]
+  },
+  {
+    "id": 82,
+    "kategori": "havacilik",
+    "kelime": "metar",
+    "aciklama": "havalimanlarındaki mevcut rüzgar, görüş, bulut ve sıcaklık durumunu standart kodlarla bildiren rutin hava raporu.",
+    "yasakli_kelimeler": [
+      "hava raporu",
+      "kodlu bülten",
+      "meydan havası",
+      "rüzgar görüş",
+      "saatlik"
+    ]
+  },
+  {
+    "id": 83,
+    "kategori": "havacilik",
+    "kelime": "taf",
+    "aciklama": "havalimanları için 24 veya 30 saatlik periyotlarda hava olaylarını tahmin eden resmi havacılık hava tahmini bülteni.",
+    "yasakli_kelimeler": [
+      "hava tahmini",
+      "terminal tahmini",
+      "bülten",
+      "tahmin raporu",
+      "meteoroloji"
+    ]
+  },
+  {
+    "id": 84,
+    "kategori": "havacilik",
+    "kelime": "buzlanma",
+    "aciklama": "bulut içinden geçerken aşırı soğumuş su damlacıklarının kanat ve motor girişlerinde donarak aerodinamiği bozması.",
+    "yasakli_kelimeler": [
+      "buz önleme",
+      "de-icing",
+      "kanat buzu",
+      "donma",
+      "aerodinamik tehlike"
+    ]
+  },
+  {
+    "id": 85,
+    "kategori": "havacilik",
+    "kelime": "de-icing",
+    "aciklama": "kalkış öncesinde uçağın kanat ve gövdesindeki buzları eritmek için sıcak glikol ve su karışımı püskürtülmesi işlemi.",
+    "yasakli_kelimeler": [
+      "buz çözme",
+      "glikol sıvısı",
+      "yer aracı",
+      "kanat yıkama",
+      "kış operasyonu"
+    ]
+  },
+  {
+    "id": 86,
+    "kategori": "havacilik",
+    "kelime": "tcas advisory",
+    "aciklama": "tcas sisteminin çarpışmayı önlemek için pilotlara hoparlörden 'climb' veya 'descend' diye haykırdığı sesli ikaz emri.",
+    "yasakli_kelimeler": [
+      "sesli ikaz",
+      "kaçış manevrası",
+      "tırman alçal",
+      "kokpit uyarısı",
+      "acil emir"
+    ]
+  },
+  {
+    "id": 87,
+    "kategori": "havacilik",
+    "kelime": "head-up display",
+    "aciklama": "uçuş verilerini ve sembollerini pilotun göz hizasındaki şeffaf bir cama yansıtan optik gösterge ekranı.",
+    "yasakli_kelimeler": [
+      "hud",
+      "şeffaf ekran",
+      "göz hizası",
+      "yansıtma",
+      "cam gösterge"
+    ]
+  },
+  {
+    "id": 88,
+    "kategori": "havacilik",
+    "kelime": "glass cockpit",
+    "aciklama": "geleneksel analog saat göstergeler yerine büyük renkli lcd ve led ekranların kullanıldığı modern kokpit mimarisi.",
+    "yasakli_kelimeler": [
+      "lcd ekran",
+      "dijital gösterge",
+      "efis",
+      "pfd",
+      "modern kokpit"
+    ]
+  },
+  {
+    "id": 89,
+    "kategori": "havacilik",
+    "kelime": "pfd",
+    "aciklama": "pilotun önünde yer alan ve suni ufuk, hız, irtifa ve dikey hızı bir arada gösteren birincil uçuş ekranı.",
+    "yasakli_kelimeler": [
+      "birincil ekran",
+      "ana uçuş göstergesi",
+      "horizon",
+      "dijital panel",
+      "efis"
+    ]
+  },
+  {
+    "id": 90,
+    "kategori": "havacilik",
+    "kelime": "nd",
+    "aciklama": "uçağın haritasını, rotasını, hava durumu radarını ve seyrüsefer noktalarını gösteren navigasyon ekranı.",
+    "yasakli_kelimeler": [
+      "harita ekranı",
+      "navigasyon",
+      "rota göstergesi",
+      "radar görüntüsü",
+      "uçuş haritası"
+    ]
+  },
+  {
+    "id": 91,
+    "kategori": "havacilik",
+    "kelime": "fırlatma koltuğu",
+    "aciklama": "askeri jet pilotunun düşen uçaktan acil durumda roket motoru yardımıyla koltukla beraber fırlatılmasını sağlayan sistem.",
+    "yasakli_kelimeler": [
+      "roketli koltuk",
+      "askeri kurtarma",
+      "acil terk",
+      "paraşütlü",
+      "fırlatma"
+    ]
+  },
+  {
+    "id": 92,
+    "kategori": "havacilik",
+    "kelime": "paraşüt",
+    "aciklama": "havada serbest düşen bir gövdenin düşüş hızını kumaş kubbe direnciyle yavaşlatıp güvenli iniş sağlayan bez donanım.",
+    "yasakli_kelimeler": [
+      "kumaş kubbe",
+      "atlama",
+      "yavaşlatıcı bez",
+      "kurtarma",
+      "ipek"
+    ]
+  },
+  {
+    "id": 93,
+    "kategori": "havacilik",
+    "kelime": "helikopter rotoru",
+    "aciklama": "helikopterin hem kaldırma hem de ileri yönelme kuvvetini sağlayan dönen kanat düzeneği.",
+    "yasakli_kelimeler": [
+      "dönen kanat",
+      "pala",
+      "ana rotor",
+      "kuyruk rotoru",
+      "pervane"
+    ]
+  },
+  {
+    "id": 94,
+    "kategori": "havacilik",
+    "kelime": "swashplate",
+    "aciklama": "helikopterde dönmeyen kumanda kollarından gelen hareketleri dönen rotor palelerine açı olarak aktaran mafsal düzeneği.",
+    "yasakli_kelimeler": [
+      "rotor mafsalı",
+      "açı kontrolü",
+      "döner tabla",
+      "kolektif",
+      "sayklik"
+    ]
+  },
+  {
+    "id": 95,
+    "kategori": "havacilik",
+    "kelime": "kolektif kumanda",
+    "aciklama": "helikopter pilotunun tüm pelerin hücum açısını aynı anda artırıp azaltarak dikey yükselme ve alçalmayı sağladığı sol kol.",
+    "yasakli_kelimeler": [
+      "helikopter kolu",
+      "dikey kontrol",
+      "pala açısı",
+      "toplu açı",
+      "yükselme kolu"
+    ]
+  },
+  {
+    "id": 96,
+    "kategori": "havacilik",
+    "kelime": "sayklik kumanda",
+    "aciklama": "helikopterin burnunu öne, arkaya veya yanlara yatırarak istenen yönde yatay uçuşunu sağlayan merkez lövye kolu.",
+    "yasakli_kelimeler": [
+      "yön lövyesi",
+      "helikopter kumandası",
+      "yatay hareket",
+      "döngüsel kumanda",
+      "merkez kol"
+    ]
+  },
+  {
+    "id": 97,
+    "kategori": "havacilik",
+    "kelime": "hava freni",
+    "aciklama": "uçağın dalışta veya iniş yaklaşmasında süratini hava direncini artırarak düşüren açılır kapanır mekanik paneller.",
+    "yasakli_kelimeler": [
+      "airbrake",
+      "yavaşlama kapağı",
+      "hız kesici",
+      "aerodinamik fren",
+      "panel"
+    ]
+  },
+  {
+    "id": 98,
+    "kategori": "havacilik",
+    "kelime": "vorteks üreteci",
+    "aciklama": "kanat veya gövde üzerine yerleştirilen ve sınır tabakayı enerjilendirerek akım ayrılmasını geciktiren minik metal üçgen kanatçıklar.",
+    "yasakli_kelimeler": [
+      "sınır tabaka",
+      "minik kanatçık",
+      "akım yapıştırma",
+      "aerodinamik tırnak",
+      "türbülans yapıcı"
+    ]
+  },
+  {
+    "id": 99,
+    "kategori": "havacilik",
+    "kelime": "kanat kökü",
+    "aciklama": "uçak kanadının gövde ile birleştiği en kalın, en sağlam ve ana taşıyıcı yapısal bağlantı noktası.",
+    "yasakli_kelimeler": [
+      "bağlantı noktası",
+      "gövde birleşimi",
+      "kanat dibi",
+      "ana kiriş",
+      "taşıyıcı kök"
+    ]
+  },
+  {
+    "id": 100,
+    "kategori": "havacilik",
+    "kelime": "veter çizgisi",
+    "aciklama": "kanat profilinin hücum kenarı ile firar kenarını birleştiren hayali geometrik düz referans çizgisi.",
+    "yasakli_kelimeler": [
+      "chord line",
+      "profil çizgisi",
+      "hücum firar arası",
+      "geometrik hat",
+      "kanat ekseni"
+    ]
+  }
+]

@@ -1,0 +1,702 @@
+[
+  {
+    "id": 1,
+    "kategori": "osinografi",
+    "kelime": "termohalin döngüsü",
+    "aciklama": "okyanus sularının sıcaklık ve tuzluluk farkından kaynaklanan yoğunluk değişimleriyle oluşan küresel derin deniz akıntı bandı.",
+    "yasakli_kelimeler": ["tuzluluk", "sıcaklık", "yoğunluk", "küresel akıntı", "konveyör"]
+  },
+  {
+    "id": 2,
+    "kategori": "osinografi",
+    "kelime": "gulf stream",
+    "aciklama": "meksika körfezi'nden başlayıp kuzeybatı avrupa kıyılarına kadar uzanan, avrupa'nın iklimini ılımanlaştıran sıcak su akıntısı.",
+    "yasakli_kelimeler": ["sıcak su", "meksika körfezi", "avrupa", "akıntı", "ılıman"]
+  },
+  {
+    "id": 3,
+    "kategori": "osinografi",
+    "kelime": "upwelling",
+    "aciklama": "rüzgarın kıyı sularını açığa sürüklemesiyle derinlerdeki soğuk ve besin maddesi açısından zengin suların yüzeye çıkması.",
+    "yasakli_kelimeler": ["derin su", "besin", "yükselme", "balıkçılık", "soğuk su"]
+  },
+  {
+    "id": 4,
+    "kategori": "osinografi",
+    "kelime": "downwelling",
+    "aciklama": "yüzey sularının kıyıda birikerek okyanusun derinliklerine doğru batması ve oksijeni dip katmanlara taşıması olayı.",
+    "yasakli_kelimeler": ["batma", "yüzey suyu", "çökme", "oksijen", "upwelling zıttı"]
+  },
+  {
+    "id": 5,
+    "kategori": "osinografi",
+    "kelime": "mariana çukuru",
+    "aciklama": "büyük okyanus'ta bulunan ve yaklaşık on bir bin metre derinliğiyle dünyanın bilinen en derin denizaltı noktası.",
+    "yasakli_kelimeler": ["en derin", "pasifik", "on bir bin", "hendek", "challenger"]
+  },
+  {
+    "id": 6,
+    "kategori": "osinografi",
+    "kelime": "termoklin",
+    "aciklama": "okyanuslarda ılık üst katmandan soğuk dip katmana geçilirken sıcaklığın çok hızlı düştüğü ara geçiş tabakası.",
+    "yasakli_kelimeler": ["sıcaklık düşüşü", "tabaka", "geçiş zonu", "katman", "ani soğuma"]
+  },
+  {
+    "id": 7,
+    "kategori": "osinografi",
+    "kelime": "haloklin",
+    "aciklama": "okyanus su sütununda derinliğe bağlı olarak tuzluluk oranının dikey eksende ani ve keskin bir değişim gösterdiği katman.",
+    "yasakli_kelimeler": ["tuzluluk", "katman", "dikey değişim", "yoğunluk", "su sütunu"]
+  },
+  {
+    "id": 8,
+    "kategori": "osinografi",
+    "kelime": "piknoklin",
+    "aciklama": "okyanus suyunda derinliğe inildikçe yoğunluğun sıcaklık ve tuzluluk değişimlerine bağlı olarak hızla arttığı tabaka.",
+    "yasakli_kelimeler": ["yoğunluk", "katman", "bariyer", "termoklin", "su kütlesi"]
+  },
+  {
+    "id": 9,
+    "kategori": "osinografi",
+    "kelime": "hidrotermal baca",
+    "aciklama": "okyanus tabanındaki tektonik yarıklardan çıkan, kükürtlü mineraller saçan ve güneşsiz kemosentez yaşamını besleyen siyah duman kaynağı.",
+    "yasakli_kelimeler": ["kara duman", "kemosentez", "okyanus dibi", "kükürt", "mineral"]
+  },
+  {
+    "id": 10,
+    "kategori": "osinografi",
+    "kelime": "biyolüminesans",
+    "aciklama": "derin deniz canlılarının lüsiferin enzimi yardımıyla kendi vücutlarında kimyasal tepkimeyle soğuk ışık üretmesi yeteneği.",
+    "yasakli_kelimeler": ["kendi ışığı", "fener balığı", "derin deniz", "parlama", "kimyasal ışık"]
+  },
+  {
+    "id": 11,
+    "kategori": "osinografi",
+    "kelime": "fitoplankton",
+    "aciklama": "okyanus yüzeyinde yaşayan, fotosentez yaparak atmosferdeki oksijenin yarısından fazlasını üreten mikroskobik algler.",
+    "yasakli_kelimeler": ["mikroskobik alg", "fotosentez", "oksijen", "besin zinciri", "plankton"]
+  },
+  {
+    "id": 12,
+    "kategori": "osinografi",
+    "kelime": "zooplankton",
+    "aciklama": "okyanus sularında akıntıya karşı yüzemeyip sürüklenen, fitoplanktonla beslenen minik mikroskobik hayvansal organizmalar.",
+    "yasakli_kelimeler": ["hayvansal plankton", "krill", "mikroskobik", "sürüklenen", "larva"]
+  },
+  {
+    "id": 13,
+    "kategori": "osinografi",
+    "kelime": "pelajik bölge",
+    "aciklama": "deniz dibinden ve kıyılardan uzak, açık denizlerin tüm su sütununu kapsayan engin yaşam alanı.",
+    "yasakli_kelimeler": ["açık deniz", "su sütunu", "dip dışı", "kıyıdan uzak", "bentik zıttı"]
+  },
+  {
+    "id": 14,
+    "kategori": "osinografi",
+    "kelime": "bentik bölge",
+    "aciklama": "okyanusların, denizlerin veya göllerin zeminini ve dip tortusu içinde yaşayan canlılar alemini ifade eden alan.",
+    "yasakli_kelimeler": ["deniz dibi", "taban", "tortu", "zemin", "pelajik zıttı"]
+  },
+  {
+    "id": 15,
+    "kategori": "osinografi",
+    "kelime": "abisal düzlük",
+    "aciklama": "okyanus tabanlarında üç bin ila altı bin metre derinlikte uzanan, tortullarla kaplı devasa düz zeminler.",
+    "yasakli_kelimeler": ["derin zemin", "üç bin metre", "düzlük", "okyanus tabanı", "karanlık"]
+  },
+  {
+    "id": 16,
+    "kategori": "osinografi",
+    "kelime": "hadal bölge",
+    "aciklama": "okyanuslarda altı bin metreden daha derin olan, yalnızca dar ve karanlık denizaltı hendeklerini kapsayan en derin zon.",
+    "yasakli_kelimeler": ["hendek içi", "en derin katman", "altı bin metre", "basınç", "mariana"]
+  },
+  {
+    "id": 17,
+    "kategori": "osinografi",
+    "kelime": "kıta sahanlığı",
+    "aciklama": "kıyı çizgisinden başlayıp yaklaşık iki yüz metre derinliğe kadar uzanan eğimi az sığ denizaltı uzantısı.",
+    "yasakli_kelimeler": ["şelf", "iki yüz metre", "sığ deniz", "kıyı uzantısı", "münhasır bölge"]
+  },
+  {
+    "id": 18,
+    "kategori": "osinografi",
+    "kelime": "kıta yamacı",
+    "aciklama": "kıta sahanlığının bittiği noktadan itibaren derin okyanus tabanına doğru aniden dikleşen meyilli denizaltı yamacı.",
+    "yasakli_kelimeler": ["dik yamaç", "şelf sonu", "derinleşme", "eğim", "kanyon"]
+  },
+  {
+    "id": 19,
+    "kategori": "osinografi",
+    "kelime": "denizaltı kanyonu",
+    "aciklama": "kıta yamacını dikey kesen, türbidite akıntılarıyla oyulmuş devasa dik vadiler.",
+    "yasakli_kelimeler": ["vadi", "kıta yamacı", "derin oyuntu", "akıntı yarığı", "boğaz"]
+  },
+  {
+    "id": 20,
+    "kategori": "osinografi",
+    "kelime": "türbidite akıntısı",
+    "aciklama": "sediman yüklü yoğun çamurlu suyun kıta yamacından aşağıya doğru çığ gibi hızla akmasıyla oluşan denizaltı akıntısı.",
+    "yasakli_kelimeler": ["yoğunluk akıntısı", "çamur çığı", "kanyon açıcı", "sediman akışı", "bulanık"]
+  },
+  {
+    "id": 21,
+    "kategori": "osinografi",
+    "kelime": "guyot",
+    "aciklama": "geçmişte dalga aşındırmasıyla tepesi düzleşip sular altına gömülmüş sönmüş su altı volkanik dağı.",
+    "yasakli_kelimeler": ["düz tepeli", "denizaltı dağı", "erozyon", "volkanik tepe", "batık masa"]
+  },
+  {
+    "id": 22,
+    "kategori": "osinografi",
+    "kelime": "atol",
+    "aciklama": "ortasında bir lagün bulunan, batık bir volkanik adanın çevresinde daire biçiminde yükselmiş mercan adası.",
+    "yasakli_kelimeler": ["mercan halkası", "lagün", "volkan çevresi", "halka ada", "resif"]
+  },
+  {
+    "id": 23,
+    "kategori": "osinografi",
+    "kelime": "bariyer resifi",
+    "aciklama": "kıyıdan geniş ve derin bir lagünle ayrılmış, açık denize paralel uzanan dev mercan seti.",
+    "yasakli_kelimeler": ["avustralya", "mercan kayalığı", "lagün sınırı", "set", "büyük bariyer"]
+  },
+  {
+    "id": 24,
+    "kategori": "osinografi",
+    "kelime": "mercan ağarması",
+    "aciklama": "okyanus suyunun ısınması ve asitlenmesi sonucu mercanların kendilerine renk veren simbiyotik algleri kovup beyazlaması.",
+    "yasakli_kelimeler": ["beyazlama", "ölüm", "sıcaklık artışı", "alg ayrılması", "resif kaybı"]
+  },
+  {
+    "id": 25,
+    "kategori": "osinografi",
+    "kelime": "okyanus asitlenmesi",
+    "aciklama": "atmosferdeki fazla karbondioksitin okyanus sularında çözünerek karbonik asit oluşturması ve ph değerini düşürmesi.",
+    "yasakli_kelimeler": ["ph düşüşü", "karbondioksit", "kabuk erimesi", "karbonik asit", "asitlik"]
+  },
+  {
+    "id": 26,
+    "kategori": "osinografi",
+    "kelime": "ekman spirali",
+    "aciklama": "rüzgarın yüzey suyunu sürtünmeyle iterken coriolis etkisi sebebiyle derinleştikçe akıntı yönünün spiral şeklinde sapması.",
+    "yasakli_kelimeler": ["sarmal sapma", "derinlik açısı", "coriolis", "rüzgar sürtünmesi", "spiral"]
+  },
+  {
+    "id": 27,
+    "kategori": "osinografi",
+    "kelime": "ekman taşınımı",
+    "aciklama": "ekman spiralinin bir sonucu olarak yüzey suyunun rüzgar yönüne dik (kuzey yarımkürede doksan derece sağa) net taşınması.",
+    "yasakli_kelimeler": ["doksan derece", "net taşıma", "rüzgara dik", "kuzey sağa", "akıntı sürüklenmesi"]
+  },
+  {
+    "id": 28,
+    "kategori": "osinografi",
+    "kelime": "okyanus girdabı",
+    "aciklama": "büyük okyanus havzalarını çevreleyen, rüzgarlar ve coriolis kuvveti etkisiyle dairesel dönen devasa akıntı halkası.",
+    "yasakli_kelimeler": ["gyre", "dairesel halka", "çöp adası", "havza akıntısı", "beş büyük"]
+  },
+  {
+    "id": 29,
+    "kategori": "osinografi",
+    "kelime": "sargasso denizi",
+    "aciklama": "kuzey atlantik akıntı girdabının ortasında kalan, hiçbir kara parçasına kıyısı olmayan durgun ve yosunlu açık deniz.",
+    "yasakli_kelimeler": ["kıyısız", "yılan balığı", "kahverengi yosun", "atlantik ortası", "durgun deniz"]
+  },
+  {
+    "id": 30,
+    "kategori": "osinografi",
+    "kelime": "kızıl akın",
+    "aciklama": "aşırı besin birikimi sebebiyle zehirli dinoflagellat alglerinin kontrolsüz çoğalarak suyu pas kırmızısına boyaması olayı.",
+    "yasakli_kelimeler": ["alg patlaması", "kırmızı su", "zehirli", "balık ölümü", "toksin"]
+  },
+  {
+    "id": 31,
+    "kategori": "osinografi",
+    "kelime": "ötrofikasyon",
+    "aciklama": "tarımsal gübre veya atıkların getirdiği azot ve fosfor fazlalığının suda aşırı alg üreterek oksijeni tüketmesi.",
+    "yasakli_kelimeler": ["alg çoğalması", "oksijensizleşme", "azot fosfor", "kirlilik", "ölü bölge"]
+  },
+  {
+    "id": 32,
+    "kategori": "osinografi",
+    "kelime": "ölü bölge",
+    "aciklama": "ötrofikasyon sonucu sudaki çözünmüş oksijen seviyesinin balık ve kabukluların yaşayamayacağı düzeye indiği hipoksik alan.",
+    "yasakli_kelimeler": ["oksijensiz", "hipoksi", "meksika körfezi", "canlısızlık", "dip tükenişi"]
+  },
+  {
+    "id": 33,
+    "kategori": "osinografi",
+    "kelime": "fotik bölge",
+    "aciklama": "okyanus yüzeyinden güneş ışığının fotosentezi destekleyebildiği yaklaşık iki yüz metre derinliğe kadar olan aydınlık katman.",
+    "yasakli_kelimeler": ["aydınlık zon", "güneş ışığı", "fotosentez katmanı", "iki yüz metre", "yüzey"]
+  },
+  {
+    "id": 34,
+    "kategori": "osinografi",
+    "kelime": "afotik bölge",
+    "aciklama": "güneş ışığının kesinlikle ulaşamadığı, zifiri karanlık olan ve derin okyanusun büyük çoğunluğunu kapsayan katman.",
+    "yasakli_kelimeler": ["karanlık zon", "ışık girmeyen", "fotik zıttı", "derin su", "zifiri"]
+  },
+  {
+    "id": 35,
+    "kategori": "osinografi",
+    "kelime": "deniz karı",
+    "aciklama": "üst tabakalardaki ölü planktonlar, dışkılar ve organik atıkların sürekli derin okyanus tabanına doğru kar gibi süzülmesi.",
+    "yasakli_kelimeler": ["organik atık", "süzülen parçacık", "dip besini", "düşen tortu", "kar tanesi"]
+  },
+  {
+    "id": 36,
+    "kategori": "osinografi",
+    "kelime": "balina düşüşü",
+    "aciklama": "ölen dev bir balinanın abisal düzlüğe batarak onlarca yıl boyunca oradaki bentik canlı topluluklarına dev bir ekosistem sağlaması.",
+    "yasakli_kelimeler": ["balina leşi", "dip iskeleti", "onlarca yıl", "derin deniz besini", "batık ekosistem"]
+  },
+  {
+    "id": 37,
+    "kategori": "osinografi",
+    "kelime": "ctd cihazı",
+    "aciklama": "okyanus araştırmalarında iletkenlik, sıcaklık ve derinlik parametrelerini aynı anda hassas ölçen temel elektronik kule.",
+    "yasakli_kelimeler": ["iletkenlik", "tuzluluk ölçer", "derinlik sondası", "rozet şişesi", "araştırma aleti"]
+  },
+  {
+    "id": 38,
+    "kategori": "osinografi",
+    "kelime": "secchi diski",
+    "aciklama": "deniz suyunun berraklığını ve ışık geçirgenlik derinliğini ölçmek için suya sarkıtılan siyah-beyaz dairesel plaka.",
+    "yasakli_kelimeler": ["berraklık", "şeffaflık", "siyah beyaz plaka", "görünürlük", "ışık derinliği"]
+  },
+  {
+    "id": 39,
+    "kategori": "osinografi",
+    "kelime": "niskin şişesi",
+    "aciklama": "okyanusun istenen kesin derinliğinden kirlenmemiş su numunesi almak için tetik mekanizmasıyla kapanan özel tüp.",
+    "yasakli_kelimeler": ["su numunesi", "derinlik kabı", "tüp", "rozet örnekleyici", "su alma"]
+  },
+  {
+    "id": 40,
+    "kategori": "osinografi",
+    "kelime": "tuzluluk",
+    "aciklama": "bir kilogram deniz suyunda çözünmüş halde bulunan inorganik katı tuzların gram cinsinden toplam miktarı.",
+    "yasakli_kelimeler": ["binde", "gram", "klorür", "çözünmüş tuz", "yoğunluk oranı"]
+  },
+  {
+    "id": 41,
+    "kategori": "osinografi",
+    "kelime": "sverdrup",
+    "aciklama": "okyanus akıntılarının hacimsel debisini ölçmek için kullanılan ve saniyede bir milyon metreküpe denk gelen birim.",
+    "yasakli_kelimeler": ["akıntı debisi", "hacim birimi", "milyon metreküp", "debi ölçüsü", "akış"]
+  },
+  {
+    "id": 42,
+    "kategori": "osinografi",
+    "kelime": "gelgit genliği",
+    "aciklama": "aynı gün içerisinde meydana gelen en yüksek deniz kabarması ile en alçak deniz çekilmesi arasındaki dikey seviye farkı.",
+    "yasakli_kelimeler": ["seviye farkı", "yükselme alçalma", "metrik fark", "med cezire bağlı", "fark"]
+  },
+  {
+    "id": 43,
+    "kategori": "osinografi",
+    "kelime": "bahar gelgiti",
+    "aciklama": "yeniay ve dolunay evrelerinde ay ile güneş'in çekim kuvvetlerinin birleşmesiyle oluşan en yüksek genlikli gelgit.",
+    "yasakli_kelimeler": ["en yüksek", "yeniay", "dolunay", "çekim birleşmesi", "büyük gelgit"]
+  },
+  {
+    "id": 44,
+    "kategori": "osinografi",
+    "kelime": "ölü gelgit",
+    "aciklama": "ay'ın ilk ve son dördün evrelerinde ay ve güneş doğrultularının birbirine dikleşmesiyle oluşan en zayıf gelgit.",
+    "yasakli_kelimeler": ["dördün evresi", "en düşük", "dik açı", "zayıf kabarma", "küçük gelgit"]
+  },
+  {
+    "id": 45,
+    "kategori": "osinografi",
+    "kelime": "amfidromik nokta",
+    "aciklama": "okyanus havzalarında gelgit dalgalarının etrafında dairesel döndüğü ancak gelgit genliğinin tam olarak sıfır olduğu düğüm noktası.",
+    "yasakli_kelimeler": ["sıfır genlik", "düğüm", "dönme merkezi", "gelgitsiz nokta", "havza ekseni"]
+  },
+  {
+    "id": 46,
+    "kategori": "osinografi",
+    "kelime": "gelgit yarığı",
+    "aciklama": "yükselen gelgit dalgasının sığ bir körfeze veya dar bir nehir ağzına girerken oluşturduğu ters yönde ilerleyen su duvarı dalgası.",
+    "yasakli_kelimeler": ["pororoca", "nehir dalgası", "akıntıya ters", "su duvarı", "gelgit kabarması"]
+  },
+  {
+    "id": 47,
+    "kategori": "osinografi",
+    "kelime": "rip akıntısı",
+    "aciklama": "kıyıya çarpan dalgaların geri dönüşte kum tepecikleri arasından açık denize doğru kanalize olarak hızla aktığı çeken akıntı.",
+    "yasakli_kelimeler": ["çeken akıntı", "boğulma tehlikesi", "karadeniz", "açığa sürükleyen", "kanal"]
+  },
+  {
+    "id": 48,
+    "kategori": "osinografi",
+    "kelime": "kıyı boyu akıntısı",
+    "aciklama": "dalgaların sahile eğik açıyla yaklaşması sonucu kıyı şeridine paralel olarak hareket eden kum taşıyıcı akıntı.",
+    "yasakli_kelimeler": ["kıyıya paralel", "kum taşınımı", "açılı dalga", "kumsal sürüklenmesi", "kıyı hattı"]
+  },
+  {
+    "id": 49,
+    "kategori": "osinografi",
+    "kelime": "uzun dalga",
+    "aciklama": "dalga boyu su derinliğinin yirmi katından fazla olan, okyanus tabanını doğrudan hisseden ve sığ su fiziğine uyan dalga.",
+    "yasakli_kelimeler": ["sığ su dalgası", "taban sürtünmesi", "tsunami türü", "dalga boyu", "derinlik oranı"]
+  },
+  {
+    "id": 50,
+    "kategori": "osinografi",
+    "kelime": "derin deniz dalgası",
+    "aciklama": "su derinliğinin dalga boyunun yarısından fazla olduğu, tabanın su taneciklerinin dairesel hareketini engellemediği açık deniz dalgası.",
+    "yasakli_kelimeler": ["açık deniz", "tabansız", "yarı dalga boyu", "dairesel yörünge", "rüzgar dalgası"]
+  },
+  {
+    "id": 51,
+    "kategori": "osinografi",
+    "kelime": "sepiş",
+    "aciklama": "kapalı veya yarı kapalı bir körfezde rüzgar veya basınç değişimleriyle suyun bir uçtan diğerine beşik gibi çalkalanması.",
+    "yasakli_kelimeler": ["çalkantı", "körfez salınımı", "beşik hareketi", "durgun dalga", "su seviyesi dalgalanması"]
+  },
+  {
+    "id": 52,
+    "kategori": "osinografi",
+    "kelime": "canavar dalga",
+    "aciklama": "açık okyanusta farklı dalga dizilimlerinin çakışmasıyla çevre dalgalardan iki kat daha yüksek ve öngörülemez aniden beliren dev dalga.",
+    "yasakli_kelimeler": ["rogue wave", "ani dev dalga", "gemi batıran", "öngörülemez", "çakışma"]
+  },
+  {
+    "id": 53,
+    "kategori": "osinografi",
+    "kelime": "humbold akıntısı",
+    "aciklama": "güney amerika'nın batı kıyıları boyunca kuzeye doğru akan, peru kıyılarını soğutan ve balıkçılığı zenginleştiren soğuk akıntı.",
+    "yasakli_kelimeler": ["peru akıntısı", "soğuk akıntı", "güney amerika", "balık bolluğu", "şili"]
+  },
+  {
+    "id": 54,
+    "kategori": "osinografi",
+    "kelime": "kuroşiyo",
+    "aciklama": "büyük okyanus'un batısında japonya kıyıları boyunca kuzeydoğuya doğru akan çok hızlı ve sıcak koyu renkli yüzey akıntısı.",
+    "yasakli_kelimeler": ["japonya", "kara akıntı", "sıcak su", "pasifik gulf stream", "hızlı akıntı"]
+  },
+  {
+    "id": 55,
+    "kategori": "osinografi",
+    "kelime": "oyaşiyo",
+    "aciklama": "bering boğazı yönünden japonya'nın kuzeyine inen, besin maddesince çok zengin ancak buz gibi soğuk altkutup akıntısı.",
+    "yasakli_kelimeler": ["soğuk akıntı", "bering", "kuroşiyo karşıtı", "subpolar", "kuzey akıntısı"]
+  },
+  {
+    "id": 56,
+    "kategori": "osinografi",
+    "kelime": "antarktika çevresi akıntısı",
+    "aciklama": "hiçbir kıta engeline çarpmadan antarktika kıtasının etrafını batıdan doğuya kesintisiz dönen dünyanın en güçlü akıntısı.",
+    "yasakli_kelimeler": ["kutup akıntısı", "kesintisiz", "en büyük debi", "drake geçidi", "dünya turu"]
+  },
+  {
+    "id": 57,
+    "kategori": "osinografi",
+    "kelime": "benguela akıntısı",
+    "aciklama": "afrika'nın güneybatı kıyıları boyunca kuzeye doğru ilerleyerek namib çölü'nün oluşumuna yol açan soğuk su akıntısı.",
+    "yasakli_kelimeler": ["namib çölü", "güney afrika", "soğuk akıntı", "atlantik", "upwelling bölgesi"]
+  },
+  {
+    "id": 58,
+    "kategori": "osinografi",
+    "kelime": "drake geçidi",
+    "aciklama": "güney amerika'nın en güney burnu horn ile antarktika arasındaki okyanusları birbirine bağlayan son derece fırtınalı deniz boğazı.",
+    "yasakli_kelimeler": ["fırtınalı boğaz", "horn burnu", "antarktika arası", "gemici kabusu", "geçit"]
+  },
+  {
+    "id": 59,
+    "kategori": "osinografi",
+    "kelime": "sofar kanalı",
+    "aciklama": "okyanus içinde sıcaklık ve basınç dengesi sebebiyle ses hızının minimuma indiği ve ses dalgalarının binlerce kilometre uzağa iletildiği tabaka.",
+    "yasakli_kelimeler": ["ses kanalı", "akustik dalga", "balina sesi", "denizaltı iletişimi", "refraksiyon"]
+  },
+  {
+    "id": 60,
+    "kategori": "osinografi",
+    "kelime": "sonar",
+    "aciklama": "deniz altındaki engelleri, denizaltıları veya deniz tabanı haritasını ses dalgaları gönderip yankısını alarak saptayan sistem.",
+    "yasakli_kelimeler": ["ses yankısı", "derinlik ölçer", "batimetri", "denizaltı radarı", "akustik sinyal"]
+  },
+  {
+    "id": 61,
+    "kategori": "osinografi",
+    "kelime": "batimetri",
+    "aciklama": "denizlerin, okyanusların ve göllerin derinlik topoğrafyasını ve sualtı taban şekillerini haritalama bilimi.",
+    "yasakli_kelimeler": ["derinlik haritası", "sualtı topoğrafyası", "deniz tabanı", "izobat", "haritalama"]
+  },
+  {
+    "id": 62,
+    "kategori": "osinografi",
+    "kelime": "izobat",
+    "aciklama": "batimetri haritalarında deniz tabanında aynı derinliğe sahip noktaları birleştiren eşderinlik eğrisi.",
+    "yasakli_kelimeler": ["eşderinlik", "harita eğrisi", "aynı derinlik", "deniz haritası", "çizgi"]
+  },
+  {
+    "id": 63,
+    "kategori": "osinografi",
+    "kelime": "mezopelajik bölge",
+    "aciklama": "iki yüz ile bin metre derinlik arasında uzanan, güneş ışığının çok zayıf ulaştığı alacakaranlık okyanus kuşağı.",
+    "yasakli_kelimeler": ["alacakaranlık zonu", "iki yüz bin metre", "loş bölge", "göz kalkanı", "ara katman"]
+  },
+  {
+    "id": 64,
+    "kategori": "osinografi",
+    "kelime": "batipelajik bölge",
+    "aciklama": "bin ile dört bin metre arasında yer alan, hiçbir güneş ışığının bulunmadığı soğuk ve yüksek basınçlı gece yarısı bölgesi.",
+    "yasakli_kelimeler": ["gece yarısı zonu", "bin metre", "ışık yok", "derinlik", "soğuk katman"]
+  },
+  {
+    "id": 65,
+    "kategori": "osinografi",
+    "kelime": "diel dikey göç",
+    "aciklama": "milyarlarca deniz canlısının gündüzleri yırtıcılardan saklanmak için derine inip geceleri beslenmek için yüzeye çıkması olayı.",
+    "yasakli_kelimeler": ["günlük göç", "yüzeye çıkma", "gece beslenme", "biyokütle hareketi", "derinlik salınımı"]
+  },
+  {
+    "id": 66,
+    "kategori": "osinografi",
+    "kelime": "kemosentez",
+    "aciklama": "güneş ışığı olmayan hidrotermal baca çevrelerinde bakterilerin hidrojen sülfür gibi kimyasalları oksitleyerek organik besin üretmesi.",
+    "yasakli_kelimeler": ["kükürt bakterisi", "ışıksız besin", "oksidasyon", "derin baca", "bakteriyel sentez"]
+  },
+  {
+    "id": 67,
+    "kategori": "osinografi",
+    "kelime": "boru kurdu",
+    "aciklama": "hidrotermal bacaların kenarlarında yaşayan, sindirim sistemi bulunmayan ve kemosentetik bakterilerle yaşayan dev solucan türü.",
+    "yasakli_kelimeler": ["riftia", "kırmızı solucan", "derin baca", "simbiyoz", "bakteriyle yaşayan"]
+  },
+  {
+    "id": 68,
+    "kategori": "osinografi",
+    "kelime": "soğuk sızıntı",
+    "aciklama": "okyanus tabanındaki yarıklardan metan ve hidrojen sülfür gazlarının yüksek sıcaklık olmadan çevreye sızdığı bentik bölge.",
+    "yasakli_kelimeler": ["metan sızıntısı", "sıcak olmayan baca", "dip gazı", "kemosentez odağı", "sızıntı"]
+  },
+  {
+    "id": 69,
+    "kategori": "osinografi",
+    "kelime": "metan hidrat",
+    "aciklama": "derin deniz tabanında yüksek basınç ve düşük sıcaklıkta buz kafesleri içine hapsolmuş katı kristal metan gazı.",
+    "yasakli_kelimeler": ["yanan buz", "gaz hidratı", "tuzak gaz", "deniz tabanı buzu", "enerji kaynağı"]
+  },
+  {
+    "id": 70,
+    "kategori": "osinografi",
+    "kelime": "mangan yumrusu",
+    "aciklama": "abisal düzlüklerde milyonlarca yılda konsantrik katmanlar halinde çökelen mangan ve demirce zengin metalik nodüller.",
+    "yasakli_kelimeler": ["nodül", "derin deniz madeni", "demir katmanı", "metal yumru", "çökelme"]
+  },
+  {
+    "id": 71,
+    "kategori": "osinografi",
+    "kelime": "çamur akıntısı",
+    "aciklama": "deniz dibindeki yumuşak çökellerin deprem veya eğim dengesizliğiyle sıvılaşarak yamaçtan aşağı kayması.",
+    "yasakli_kelimeler": ["sualtı kayması", "sediman kayması", "heyelan", "türbidite öncüsü", "dip çökmesi"]
+  },
+  {
+    "id": 72,
+    "kategori": "osinografi",
+    "kelime": "karbon pompası",
+    "aciklama": "fitoplanktonların yüzeyde tuttuğu karbonun organik madde olarak dibe çöküp binlerce yıl okyanus derinliklerine hapsedilmesi süreci.",
+    "yasakli_kelimeler": ["biyolojik pompa", "karbon tutumu", "çöküş", "derin deniz hapsi", "karbondioksit yutucu"]
+  },
+  {
+    "id": 73,
+    "kategori": "osinografi",
+    "kelime": "doyma ufku",
+    "aciklama": "okyanusta kalsiyum karbonat minerallerinin (kalsit ve aragonit) çözünmeye başladığı derinlik sınırı.",
+    "yasakli_kelimeler": ["kalsit çözünmesi", "derinlik çizgisi", "kabuk erimesi", "asitlik sınırı", "aragonit"]
+  },
+  {
+    "id": 74,
+    "kategori": "osinografi",
+    "kelime": "kalsit kompanzasyon derinliği",
+    "aciklama": "kalsiyum karbonat tedarik hızının suyun çözme hızına eşitlendiği ve dibe hiç kalkerli çamur birikemediği dört-beş bin metre derinlik.",
+    "yasakli_kelimeler": ["ccd", "erime dengesi", "kalker yokluğu", "derin tortu", "kalsit tabanı"]
+  },
+  {
+    "id": 75,
+    "kategori": "osinografi",
+    "kelime": "radyolarya",
+    "aciklama": "derin deniz zemininde silisli çamurlar oluşturan, mikroskobik cam benzeri silika iskeletlere sahip protozoa canlısı.",
+    "yasakli_kelimeler": ["silis iskelet", "mikroorganizma", "cam kabuk", "silisli çamur", "plankton"]
+  },
+  {
+    "id": 76,
+    "kategori": "osinografi",
+    "kelime": "diyatom",
+    "aciklama": "hücre duvarları opalin silisinden oluşan, sarı-kahverengi mikroskobik tek hücreli alg grubu.",
+    "yasakli_kelimeler": ["silis kabuk", "alg", "mikroskop", "diyatomit", "bitkisel plankton"]
+  },
+  {
+    "id": 77,
+    "kategori": "osinografi",
+    "kelime": "foraminifera",
+    "aciklama": "kalsiyum karbonatlı delikli kabukları öldükten sonra tebeşir ve derin deniz çökellerini oluşturan amipli tek hücreli.",
+    "yasakli_kelimeler": ["kalker kabuk", "delikli", "tebeşir", "fosil gösterge", "tek hücreli"]
+  },
+  {
+    "id": 78,
+    "kategori": "osinografi",
+    "kelime": "iç dalga",
+    "aciklama": "okyanus yüzeyinde görünmeyen, farklı yoğunluktaki iki su kütlesinin sınırında suyun altında salınan devasa dalgalar.",
+    "yasakli_kelimeler": ["su altı dalgası", "piknoklin dalgası", "görünmez salınım", "yoğunluk sınırı", "derin dalga"]
+  },
+  {
+    "id": 79,
+    "kategori": "osinografi",
+    "kelime": "baroklinik",
+    "aciklama": "okyanusta sabit basınç yüzeyleri ile sabit yoğunluk yüzeylerinin kesiştiği ve yoğunluk akıntıları üreten dinamik durum.",
+    "yasakli_kelimeler": ["basınç yoğunluk", "kesişim", "barotropik zıttı", "akıntı dinamiği", "eğimli katman"]
+  },
+  {
+    "id": 80,
+    "kategori": "osinografi",
+    "kelime": "barotropik",
+    "aciklama": "yoğunluğun yalnızca basınca bağlı olduğu ve eşbasınç yüzeylerinin eşyoğunluk yüzeyleriyle tamamen çakıştığı okyanus hali.",
+    "yasakli_kelimeler": ["çakışan yüzey", "saf basınç", "baroklinik zıttı", "homojen", "akışkandenge"]
+  },
+  {
+    "id": 81,
+    "kategori": "osinografi",
+    "kelime": "geostrofik akıntı",
+    "aciklama": "okyanuslarda yatay basınç gradyan kuvveti ile coriolis saptırma kuvvetinin birbirini tam dengelediği kuramsal akıntı.",
+    "yasakli_kelimeler": ["basınç dengesi", "coriolis eşitliği", "dengeli akış", "eğim akıntısı", "yatay akış"]
+  },
+  {
+    "id": 82,
+    "kategori": "osinografi",
+    "kelime": "akıntı halkası",
+    "aciklama": "gulf stream gibi güçlü ana akıntı kıvrımlarının koparak merkezinde soğuk veya sıcak su hapseden dönen girdap halkası.",
+    "yasakli_kelimeler": ["eddy", "kopan kıvrım", "soğuk çekirdek", "dönen halka", "girdap"]
+  },
+  {
+    "id": 83,
+    "kategori": "osinografi",
+    "kelime": "göz damlası akıntısı",
+    "aciklama": "meksika körfezi'nde yucatan boğazı'ndan girip saat yönünde dönerek florida boğazı'ndan çıkan kıvrımlı döngü akıntısı.",
+    "yasakli_kelimeler": ["loop current", "meksika körfezi", "florida", "döngü", "kıvrım"]
+  },
+  {
+    "id": 84,
+    "kategori": "osinografi",
+    "kelime": "çöp adası",
+    "aciklama": "okyanus akıntı girdaplarının merkezinde toplanan ve milyonlarca ton mikroplastikten meydana gelen dev atık girdabı.",
+    "yasakli_kelimeler": ["plastik", "pasifik girdabı", "mikroplastik", "atık yığını", "kirlilik"]
+  },
+  {
+    "id": 85,
+    "kategori": "osinografi",
+    "kelime": "mikroplastik",
+    "aciklama": "okyanuslara karışan plastik atıkların dalga ve güneş etkisiyle parçalanması sonucu oluşan beş milimetreden küçük zehirli parçacıklar.",
+    "yasakli_kelimeler": ["beş milimetre", "parçalanmış plastik", "besin zinciri", "kirlilik", "yutulan tanecik"]
+  },
+  {
+    "id": 86,
+    "kategori": "osinografi",
+    "kelime": "derin su oluşumu",
+    "aciklama": "kutup bölgelerinde deniz suyunun donarken tuzu dışarı atmasıyla aşırı tuzlanıp ağırlaşarak dibe çöken su olayı.",
+    "yasakli_kelimeler": ["tuz atımı", "dibe çökme", "kutuplarda batış", "yoğun su", "antarktika dibi"]
+  },
+  {
+    "id": 87,
+    "kategori": "osinografi",
+    "kelime": "kuzey atlantik derin suyu",
+    "aciklama": "grönland civarında soğuyup batan ve tüm dünya okyanus tabanlarına doğru güneye ilerleyen dev soğuk dip su kütlesi.",
+    "yasakli_kelimeler": ["nadw", "grönland", "dip su kütlesi", "batış", "termohalin motoru"]
+  },
+  {
+    "id": 88,
+    "kategori": "osinografi",
+    "kelime": "antarktika dip suyu",
+    "aciklama": "dünya okyanuslarındaki en soğuk ve en yoğun su kütlesi olup weddell denizi'nde oluşarak en dibe yayılan su.",
+    "yasakli_kelimeler": ["aabw", "en yoğun su", "weddell denizi", "en dip katman", "buzul altı"]
+  },
+  {
+    "id": 89,
+    "kategori": "osinografi",
+    "kelime": "dalga kırılması",
+    "aciklama": "kıyıya yaklaşan dalganın dip sürtünmesi nedeniyle tabanının yavaşlayıp tepe kısmının öne doğru devrilerek köpürmesi.",
+    "yasakli_kelimeler": ["köpük", "kıyıya vurma", "sörf", "tepe devrilmesi", "sığlaşma"]
+  },
+  {
+    "id": 90,
+    "kategori": "osinografi",
+    "kelime": "sığlaşma",
+    "aciklama": "açık denizden gelen dalganın derinliğin azalmasıyla dalga boyunun kısalıp dalga yüksekliğinin aniden artması süreci.",
+    "yasakli_kelimeler": ["shoaling", "yükseklik artışı", "boy kısalması", "derinlik kaybı", "kıyı etkisi"]
+  },
+  {
+    "id": 91,
+    "kategori": "osinografi",
+    "kelime": "kıyı kırınımı",
+    "aciklama": "dalgaların bir dalgakıran veya burun arkasından geçerken bükülerek korunaklı bölgeye doğru yayılması olayı.",
+    "yasakli_kelimeler": ["bükülme", "dalgakıran", "kırınım", "difraksiyon", "engel arkası"]
+  },
+  {
+    "id": 92,
+    "kategori": "osinografi",
+    "kelime": "dalga kırılması sapması",
+    "aciklama": "dalgaların sahile paralel hale gelmek için sığ kısımlarda yavaşlayıp kıyı çizgisine doğru dönmesi eğilimi.",
+    "yasakli_kelimeler": ["refraksiyon", "kıyıya paralel olma", "dönme açısı", "bükülüş", "sığ su sapması"]
+  },
+  {
+    "id": 93,
+    "kategori": "osinografi",
+    "kelime": "estuarin dolaşım",
+    "aciklama": "nehir ağızlarında hafif tatlı suyun üstten denize akarken alttan yoğun tuzlu deniz suyunun nehre doğru sokulması dengesi.",
+    "yasakli_kelimeler": ["nehir ağzı", "tuzlu kama", "tatlı su akışı", "karışım", "haliç dinamiği"]
+  },
+  {
+    "id": 94,
+    "kategori": "osinografi",
+    "kelime": "tuzlu su kaması",
+    "aciklama": "haliçlerde veya nehir deltalarında denizin ağır tuzlu suyunun hafif nehir suyunun altından karaya doğru soktuğu kama şeklindeki katman.",
+    "yasakli_kelimeler": ["alttan sokulma", "yoğun tabaka", "haliç altı", "tatlı su altı", "kama biçimi"]
+  },
+  {
+    "id": 95,
+    "kategori": "osinografi",
+    "kelime": "lagün",
+    "aciklama": "denizden ince bir kum seti veya kıyı kordonu ile ayrılmış sığ ve sakin kıyı gölü.",
+    "yasakli_kelimeler": ["deniz kulağı", "kıyı kordonu", "ölüdeniz", "sığ göl", "kum seti"]
+  },
+  {
+    "id": 96,
+    "kategori": "osinografi",
+    "kelime": "kıyı kordonu",
+    "aciklama": "kıyı boyu akıntılarının biriktirdiği kumların bir koyun ağzını kısmen veya tamamen kapatarak oluşturduğu dil seti.",
+    "yasakli_kelimeler": ["kum dili", "koy kapatma", "lagün oluşturan", "sediman seti", "kıyı seddi"]
+  },
+  {
+    "id": 97,
+    "kategori": "osinografi",
+    "kelime": "tuz gölü",
+    "aciklama": "denizle bağlantısı kesilmiş ve buharlaşma sonucu tuz yoğunluğu normal deniz suyunun katbekat üstüne çıkmış aşırı tuzlu su kütlesi.",
+    "yasakli_kelimeler": ["aşırı tuzlu", "lut gölü", "buharlaşma", "yüksek tuzluluk", "yoğun su"]
+  },
+  {
+    "id": 98,
+    "kategori": "osinografi",
+    "kelime": "biyojenik sediman",
+    "aciklama": "deniz canlılarının iskelet, kabuk ve kemik kalıntılarının dibe çöküp birikmesiyle oluşan organik deniz tabanı tortulu.",
+    "yasakli_kelimeler": ["organik tortu", "kabuk birikimi", "kalker çamuru", "canlı kökenli", "taban sedimanı"]
+  },
+  {
+    "id": 99,
+    "kategori": "osinografi",
+    "kelime": "terrijenik sediman",
+    "aciklama": "akarsular, rüzgarlar veya buzullarla karadan aşındırılıp okyanus havzalarına taşınan kaya ve mineral kırıntıları.",
+    "yasakli_kelimeler": ["kara kökenli", "akarsu taşıması", "mineral kırıntısı", "erozyon çökeli", "çamur kumu"]
+  },
+  {
+    "id": 100,
+    "kategori": "osinografi",
+    "kelime": "kosmojenik sediman",
+    "aciklama": "uzaydan dünya atmosferine giren meteorların yanması veya çarpması sonucu okyanus tabanına inen mikroskobik kozmik kürecikler.",
+    "yasakli_kelimeler": ["uzay tozu", "meteor kalıntısı", "kozmik kürecik", "göktaşı tozu", "dip tortusu"]
+  }
+]

@@ -1,0 +1,1302 @@
+[
+  {
+    "id": 1,
+    "kategori": "farmakoloji",
+    "kelime": "biyoyararlanım",
+    "aciklama": "uygulanan bir ilacın değişmeden sistemik dolaşıma ulaşan fraksiyonu veya oranı.",
+    "yasakli_kelimeler": [
+      "absorpsiyon",
+      "sistemik dolaşım",
+      "emilim",
+      "doz",
+      "oral"
+    ]
+  },
+  {
+    "id": 2,
+    "kategori": "farmakoloji",
+    "kelime": "klirens",
+    "aciklama": "birim zamanda bir ilaçtan tamamen temizlenen sanal plazma hacmi.",
+    "yasakli_kelimeler": [
+      "eliminasyon",
+      "böbrek",
+      "itrah",
+      "plazma hacmi",
+      "atılım"
+    ]
+  },
+  {
+    "id": 3,
+    "kategori": "farmakoloji",
+    "kelime": "yarı ömür",
+    "aciklama": "plazmadaki ilaç konsantrasyonunun yarıya inmesi için geçen süre.",
+    "yasakli_kelimeler": [
+      "konsantrasyon",
+      "eliminasyon",
+      "plazma",
+      "zaman",
+      "t1/2"
+    ]
+  },
+  {
+    "id": 4,
+    "kategori": "farmakoloji",
+    "kelime": "dağılım hacmi",
+    "aciklama": "vücuttaki toplam ilaç miktarını plazma konsantrasyonuna bağlayan sanal sıvı hacmi.",
+    "yasakli_kelimeler": [
+      "plazma",
+      "doku",
+      "sanal hacim",
+      "lipofilik",
+      "konsantrasyon"
+    ]
+  },
+  {
+    "id": 5,
+    "kategori": "farmakoloji",
+    "kelime": "terapötik indeks",
+    "aciklama": "bir ilacın toksik dozu ile etkili dozu arasındaki güvenlilik aralığını belirten oran.",
+    "yasakli_kelimeler": [
+      "toksik doz",
+      "etkili doz",
+      "güvenlik aralığı",
+      "ld50",
+      "ed50"
+    ]
+  },
+  {
+    "id": 6,
+    "kategori": "farmakoloji",
+    "kelime": "ilk geçiş etkisi",
+    "aciklama": "oral yolla alınan ilacın sistemik dolaşıma ulaşmadan önce karaciğerde metabolize edilerek inaktive olması.",
+    "yasakli_kelimeler": [
+      "karaciğer",
+      "presistemik",
+      "portal ven",
+      "metabolizma",
+      "oral"
+    ]
+  },
+  {
+    "id": 7,
+    "kategori": "farmakoloji",
+    "kelime": "sitokrom p450",
+    "aciklama": "ilaçların faz 1 oksidatif metabolizmasında kilit rol oynayan karaciğer mikrozomal enzim ailesi.",
+    "yasakli_kelimeler": [
+      "enzim",
+      "karaciğer",
+      "cyp3a4",
+      "oksidasyon",
+      "metabolizma"
+    ]
+  },
+  {
+    "id": 8,
+    "kategori": "farmakoloji",
+    "kelime": "agonist",
+    "aciklama": "hücresel reseptöre bağlanarak fizyolojik veya biyokimyasal yanıtı tetikleyen madde.",
+    "yasakli_kelimeler": [
+      "reseptör",
+      "bağlanma",
+      "aktivasyon",
+      "etki",
+      "antagonist karşıtı"
+    ]
+  },
+  {
+    "id": 9,
+    "kategori": "farmakoloji",
+    "kelime": "antagonist",
+    "aciklama": "reseptöre bağlanarak agonistlerin bağlanmasını ve reseptörün uyarılmasını engelleyen bileşik.",
+    "yasakli_kelimeler": [
+      "bloker",
+      "reseptör",
+      "engelleme",
+      "agonist karşıtı",
+      "inhibisyon"
+    ]
+  },
+  {
+    "id": 10,
+    "kategori": "farmakoloji",
+    "kelime": "taşifilaksi",
+    "aciklama": "bir ilacın tekrarlayan dozlarında çok hızlı gelişen akut tolerans ve yanıtsızlık durumu.",
+    "yasakli_kelimeler": [
+      "tolerans",
+      "hızlı azalma",
+      "yanıtsızlık",
+      "duyarsızlaşma",
+      "akut"
+    ]
+  },
+  {
+    "id": 11,
+    "kategori": "farmakoloji",
+    "kelime": "idiyosenkrazi",
+    "aciklama": "genetik faktörlere bağlı olarak bireyde beklenmedik ve anormal şekilde ortaya çıkan ilaç reaksiyonu.",
+    "yasakli_kelimeler": [
+      "genetik",
+      "beklenmeyen",
+      "anormal yanıt",
+      "duyarlılık",
+      "enzim eksikliği"
+    ]
+  },
+  {
+    "id": 12,
+    "kategori": "farmakoloji",
+    "kelime": "teratojenite",
+    "aciklama": "gebelik sırasında kullanılan ilacın fetüste kalıcı anatomik veya işlevsel anomalilere yol açması.",
+    "yasakli_kelimeler": [
+      "fetüs",
+      "gebelik",
+      "doğumsal anomali",
+      "embriyo",
+      "malformasyon"
+    ]
+  },
+  {
+    "id": 13,
+    "kategori": "farmakoloji",
+    "kelime": "yükleme dozu",
+    "aciklama": "hedef plazma konsantrasyonuna hızla ulaşmak amacıyla tedavinin başında verilen yüksek başlangıç dozu.",
+    "yasakli_kelimeler": [
+      "başlangıç dozu",
+      "hedef derişim",
+      "idame dozu",
+      "hızlı etki",
+      "bolus"
+    ]
+  },
+  {
+    "id": 14,
+    "kategori": "farmakoloji",
+    "kelime": "idame dozu",
+    "aciklama": "kararlı durum konsantrasyonunu korumak için eliminasyon oranında periyodik verilen ilaç miktarı.",
+    "yasakli_kelimeler": [
+      "kararlı durum",
+      "süreklilik",
+      "klirens",
+      "yükleme karşıtı",
+      "periyodik"
+    ]
+  },
+  {
+    "id": 15,
+    "kategori": "farmakoloji",
+    "kelime": "kararlı durum",
+    "aciklama": "vücuda giren ilaç hızı ile vücuttan atılan ilaç hızının birbirine eşitlendiği dinamik denge hali.",
+    "yasakli_kelimeler": [
+      "steady state",
+      "denge",
+      "infüzyon",
+      "yarı ömür",
+      "konsantrasyon"
+    ]
+  },
+  {
+    "id": 16,
+    "kategori": "farmakoloji",
+    "kelime": "ters agonist",
+    "aciklama": "reseptörün bazal intrensek aktivitesini sıfırın altına düşürerek ters yönde etki oluşturan molekül.",
+    "yasakli_kelimeler": [
+      "intrensek aktivite",
+      "bazal aktivite",
+      "reseptör",
+      "negatif etki",
+      "antagonist"
+    ]
+  },
+  {
+    "id": 17,
+    "kategori": "farmakoloji",
+    "kelime": "allosterik modülatör",
+    "aciklama": "primer ligand bağlanma bölgesi dışındaki bir bölgeye bağlanarak reseptör yanıtını değiştiren madde.",
+    "yasakli_kelimeler": [
+      "ortosterik",
+      "ikincil bölge",
+      "konformasyon",
+      "pozitif modülasyon",
+      "afinite"
+    ]
+  },
+  {
+    "id": 18,
+    "kategori": "farmakoloji",
+    "kelime": "potens",
+    "aciklama": "belirli bir biyolojik etkiyi oluşturabilmek için gereken ilaç konsantrasyonu veya dozu.",
+    "yasakli_kelimeler": [
+      "etki gücü",
+      "ec50",
+      "konsantrasyon",
+      "etkinlik",
+      "doz"
+    ]
+  },
+  {
+    "id": 19,
+    "kategori": "farmakoloji",
+    "kelime": "efikasite",
+    "aciklama": "bir ilacın dozu ne kadar artırılırsa artırılsın oluşturabileceği maksimum biyolojik yanıt kapasitesi.",
+    "yasakli_kelimeler": [
+      "maksimum yanıt",
+      "etkinlik",
+      "emax",
+      "potens karşıtı",
+      "içsel aktivite"
+    ]
+  },
+  {
+    "id": 20,
+    "kategori": "farmakoloji",
+    "kelime": "glukuronidasyon",
+    "aciklama": "faz 2 metabolizmasında ilaçları suda çözünür hale getirmek için glukuronik asit ile birleştiren konjugasyon yolu.",
+    "yasakli_kelimeler": [
+      "faz 2",
+      "konjugasyon",
+      "ugt enzimi",
+      "suda çözünürlük",
+      "karaciğer"
+    ]
+  },
+  {
+    "id": 21,
+    "kategori": "farmakoloji",
+    "kelime": "enterohepatik sirkülasyon",
+    "aciklama": "safrayla bağırsağa atılan ilacın bağırsak florası tarafından hidroliz edilip yeniden emilerek kana dönmesi döngüsü.",
+    "yasakli_kelimeler": [
+      "safra",
+      "bağırsak",
+      "karaciğer",
+      "yeniden emilim",
+      "döngü"
+    ]
+  },
+  {
+    "id": 22,
+    "kategori": "farmakoloji",
+    "kelime": "beta bloker",
+    "aciklama": "adrenerjik beta reseptörlerini bloke ederek kalp hızını ve kan basıncını düşüren ilaç grubu.",
+    "yasakli_kelimeler": [
+      "propranolol",
+      "kalp hızı",
+      "adrenalin",
+      "tansiyon",
+      "bradikardi"
+    ]
+  },
+  {
+    "id": 23,
+    "kategori": "farmakoloji",
+    "kelime": "ace inhibitörü",
+    "aciklama": "anjiyotensin dönüştürücü enzimi baskılayarak vazodilatasyon sağlayan ve kan basıncını düşüren antihipertansif ajan.",
+    "yasakli_kelimeler": [
+      "enalapril",
+      "kaptopril",
+      "kuru öksürük",
+      "anjiyotensin",
+      "tansiyon"
+    ]
+  },
+  {
+    "id": 24,
+    "kategori": "farmakoloji",
+    "kelime": "proton pompa inhibitörü",
+    "aciklama": "midedeki paryetal hücrelerin hidrojen-potasyum atpaz pompasını bloke ederek asit salgısını güçlüce baskılayan ilaç.",
+    "yasakli_kelimeler": [
+      "omeprazol",
+      "mide asidi",
+      "gastrik ülser",
+      "reflü",
+      "paryetal hücre"
+    ]
+  },
+  {
+    "id": 25,
+    "kategori": "farmakoloji",
+    "kelime": "benzodiazepin",
+    "aciklama": "gaba-a reseptörünün klor kanalı açılma frekansını artırarak anksiyolitik, sedatif ve antikonvülzan etki yapan ilaç.",
+    "yasakli_kelimeler": [
+      "diazepam",
+      "gaba",
+      "sedasyon",
+      "klor kanalı",
+      "anksiyolitik"
+    ]
+  },
+  {
+    "id": 26,
+    "kategori": "farmakoloji",
+    "kelime": "flumazenil",
+    "aciklama": "benzodiazepinlerin gaba reseptöründeki spesifik bağlanma bölgesini yarışmalı olarak bloke eden panzehir.",
+    "yasakli_kelimeler": [
+      "antidot",
+      "benzodiazepin",
+      "toksisite",
+      "reseptör antagonisti",
+      "sedasyon geri çevirme"
+    ]
+  },
+  {
+    "id": 27,
+    "kategori": "farmakoloji",
+    "kelime": "nalokson",
+    "aciklama": "opioid reseptörlerini hızla ve yarışmalı olarak bloke ederek aşırı doz solunum depresyonunu düzelten antagonist.",
+    "yasakli_kelimeler": [
+      "antidot",
+      "opioid",
+      "morfin",
+      "aşırı doz",
+      "solunum depresyonu"
+    ]
+  },
+  {
+    "id": 28,
+    "kategori": "farmakoloji",
+    "kelime": "kalsiyum kanal blokeri",
+    "aciklama": "kalp kası ve damar düz kasındaki l-tipi kalsiyum kanallarını engelleyerek vazodilatasyon ve nabız kontrolü sağlayan ilaç.",
+    "yasakli_kelimeler": [
+      "amlodipin",
+      "verapamil",
+      "diltiazem",
+      "vazodilatasyon",
+      "tansiyon"
+    ]
+  },
+  {
+    "id": 29,
+    "kategori": "farmakoloji",
+    "kelime": "statin",
+    "aciklama": "hmg-koa redüktaz enzimini kompetitif inhibe ederek endojen kolesterol sentezini azaltan lipid düşürücü ilaç.",
+    "yasakli_kelimeler": [
+      "atorvastatin",
+      "kolesterol",
+      "hmg-koa",
+      "rabdomiyoliz",
+      "ldl"
+    ]
+  },
+  {
+    "id": 30,
+    "kategori": "farmakoloji",
+    "kelime": "makrolid",
+    "aciklama": "bakterilerin 50s ribozom alt birimine bağlanarak protein sentezini engelleyen geniş spektrumlu antibiyotik grubu.",
+    "yasakli_kelimeler": [
+      "eritromisin",
+      "klaritromisin",
+      "azitromisin",
+      "50s ribozom",
+      "protein sentezi"
+    ]
+  },
+  {
+    "id": 31,
+    "kategori": "farmakoloji",
+    "kelime": "aminoglikozid",
+    "aciklama": "bakteriyel 30s ribozomal alt birime bağlanarak protein sentezini bozan, oto ve nefrotoksik antibiyotik sınıfı.",
+    "yasakli_kelimeler": [
+      "gentamisin",
+      "nefrotoksisite",
+      "ototoksisite",
+      "30s ribozom",
+      "bakterisid"
+    ]
+  },
+  {
+    "id": 32,
+    "kategori": "farmakoloji",
+    "kelime": "kinolon",
+    "aciklama": "bakteriyel dna giraz ve topoizomeraz 4 enzimlerini engelleyerek dna replikasyonunu durduran antimikrobiyal grup.",
+    "yasakli_kelimeler": [
+      "siprofloksasin",
+      "dna giraz",
+      "topoizomeraz",
+      "tendon rüptürü",
+      "florokinolon"
+    ]
+  },
+  {
+    "id": 33,
+    "kategori": "farmakoloji",
+    "kelime": "nonsteroid antiinflamatuar",
+    "aciklama": "siklooksijenaz enzimlerini inhibe ederek prostaglandin sentezini baskılayan ağrı kesici ve yangı giderici ilaçlar.",
+    "yasakli_kelimeler": [
+      "ağrı kesici",
+      "ibuprofen",
+      "aspirin",
+      "siklooksijenaz",
+      "prostaglandin"
+    ]
+  },
+  {
+    "id": 34,
+    "kategori": "farmakoloji",
+    "kelime": "siklooksijenaz",
+    "aciklama": "araşidonik asitten prostaglandin, prostasiklin ve tromboksan sentezini katalizleyen anahtar enzim.",
+    "yasakli_kelimeler": [
+      "cox-1",
+      "cox-2",
+      "araşidonik asit",
+      "prostaglandin",
+      "enflamasyon"
+    ]
+  },
+  {
+    "id": 35,
+    "kategori": "farmakoloji",
+    "kelime": "kortikosteroid",
+    "aciklama": "nükleer glukokortikoid reseptörlerini aktive ederek güçlü antiinflamatuar ve immünsüpresif etki gösteren hormon türevleri.",
+    "yasakli_kelimeler": [
+      "kortizon",
+      "prednizolon",
+      "dekzametazon",
+      "bağışıklık baskılama",
+      "cushing"
+    ]
+  },
+  {
+    "id": 36,
+    "kategori": "farmakoloji",
+    "kelime": "loop diüretik",
+    "aciklama": "henle kulpunun çıkan kalın kolundaki na-k-2cl ko-transporterını inhibe eden en güçlü diüretik grubu.",
+    "yasakli_kelimeler": [
+      "furosemid",
+      "henle kulpu",
+      "idrar söktürücü",
+      "hipokalemi",
+      "ödem"
+    ]
+  },
+  {
+    "id": 37,
+    "kategori": "farmakoloji",
+    "kelime": "tiyazid",
+    "aciklama": "distal tübüldeki sodyum-klor ko-transporterını bloke ederek idrarla tuz ve su atılımını artıran tansiyon ilacı grubu.",
+    "yasakli_kelimeler": [
+      "hidroklorotiyazid",
+      "distal tübül",
+      "diüretik",
+      "tansiyon",
+      "hipokalemi"
+    ]
+  },
+  {
+    "id": 38,
+    "kategori": "farmakoloji",
+    "kelime": "aldosteron antagonisti",
+    "aciklama": "toplayıcı kanallardaki mineralokortikoid reseptörlerini engelleyerek potasyum tutucu etki gösteren diüretik sınıfı.",
+    "yasakli_kelimeler": [
+      "spironolakton",
+      "potasyum tutucu",
+      "jinekomasti",
+      "eplerenon",
+      "toplayıcı kanal"
+    ]
+  },
+  {
+    "id": 39,
+    "kategori": "farmakoloji",
+    "kelime": "trombolitik",
+    "aciklama": "plazminojeni plazmine dönüştürerek damar içindeki taze fibrin pıhtılarını eriten ilaç sınıfı.",
+    "yasakli_kelimeler": [
+      "fibrinolitik",
+      "alteplaz",
+      "pıhtı eritici",
+      "plazminojen",
+      "inme"
+    ]
+  },
+  {
+    "id": 40,
+    "kategori": "farmakoloji",
+    "kelime": "heparin",
+    "aciklama": "antitrombin 3'e bağlanarak faktör 10a ve trombin inaktivasyonunu katbekat hızlandıran parenteral antikoagülan.",
+    "yasakli_kelimeler": [
+      "antikoagülan",
+      "antitrombin",
+      "protamin",
+      "kan sulandırıcı",
+      "pıhtılaşma"
+    ]
+  },
+  {
+    "id": 41,
+    "kategori": "farmakoloji",
+    "kelime": "varfarin",
+    "aciklama": "k vitamini epoksit redüktaz enzimini engelleyerek k vitaminine bağımlı pıhtılaşma faktörlerinin sentezini bozan oral antikoagülan.",
+    "yasakli_kelimeler": [
+      "k vitamini",
+      "inr takibi",
+      "coumadin",
+      "kan sulandırıcı",
+      "pıhtılaşma faktörü"
+    ]
+  },
+  {
+    "id": 42,
+    "kategori": "farmakoloji",
+    "kelime": "protamin sülfat",
+    "aciklama": "heparin molekülü ile elektrostatik bağ kurup onu nötralize ederek etkisini geri çeviren spesifik antidot.",
+    "yasakli_kelimeler": [
+      "antidot",
+      "heparin",
+      "nötralizasyon",
+      "kanama",
+      "pozitif yük"
+    ]
+  },
+  {
+    "id": 43,
+    "kategori": "farmakoloji",
+    "kelime": "asetilsistein",
+    "aciklama": "karaciğerde glutatyon depolarını yenileyerek parasetamol zehirlenmesinde hepatotoksisiteyi önleyen mukolitik ve antidot.",
+    "yasakli_kelimeler": [
+      "parasetamol antidotu",
+      "glutatyon",
+      "balgam söktürücü",
+      "karaciğer hasarı",
+      "nac"
+    ]
+  },
+  {
+    "id": 44,
+    "kategori": "farmakoloji",
+    "kelime": "parasetamol",
+    "aciklama": "merkezi sinir sisteminde cox inhibisyonu yaparak analjezik ve antipiretik etki gösteren ancak periferde antienflamatuar etkisi zayıf ajan.",
+    "yasakli_kelimeler": [
+      "asetaminofen",
+      "ateş düşürücü",
+      "ağrı kesici",
+      "karaciğer toksisitesi",
+      "napqi"
+    ]
+  },
+  {
+    "id": 45,
+    "kategori": "farmakoloji",
+    "kelime": "digoksin",
+    "aciklama": "kalp kası sodyum-potasyum atpaz pompasını inhibe ederek intrasellüler kalsiyumu ve kasılma gücünü artıran glikozid.",
+    "yasakli_kelimeler": [
+      "kalp yetmezliği",
+      "pozitif inotrop",
+      "sodyum potasyum pompası",
+      "dar terapötik indeks",
+      "aritmi"
+    ]
+  },
+  {
+    "id": 46,
+    "kategori": "farmakoloji",
+    "kelime": "atropin",
+    "aciklama": "muskarinik asetilkolin reseptörlerini yarışmalı bloke ederek parasempatik tonusu kaldıran antikolinerjik alkoloid.",
+    "yasakli_kelimeler": [
+      "antikolinerjik",
+      "parasempatik",
+      "midriyazis",
+      "bradikardi",
+      "muskarinik"
+    ]
+  },
+  {
+    "id": 47,
+    "kategori": "farmakoloji",
+    "kelime": "pilokarpin",
+    "aciklama": "muskarinik reseptörleri doğrudan uyararak tükürük salgısını artıran ve miyozis yapan parasempatomimetik ajan.",
+    "yasakli_kelimeler": [
+      "kolinerjik agonist",
+      "glokom",
+      "miyozis",
+      "tükürük",
+      "muskarinik"
+    ]
+  },
+  {
+    "id": 48,
+    "kategori": "farmakoloji",
+    "kelime": "neostigmin",
+    "aciklama": "asetilkolinesteraz enzimini geri dönüşümlü inhibe ederek sinaptik aralıktaki asetilkolin düzeyini yükselten ilaç.",
+    "yasakli_kelimeler": [
+      "kolinesteraz inhibitörü",
+      "myastenia gravis",
+      "kürar antidotu",
+      "asetilkolin",
+      "kas güçsüzlüğü"
+    ]
+  },
+  {
+    "id": 49,
+    "kategori": "farmakoloji",
+    "kelime": "süksinilkolin",
+    "aciklama": "nikotinik reseptörleri sürekli uyararak depolarizasyon bloğu oluşturan kısa etkili kas gevşetici.",
+    "yasakli_kelimeler": [
+      "depolarizan",
+      "kas gevşetici",
+      "fasikülasyon",
+      "entübasyon",
+      "psödokolinesteraz"
+    ]
+  },
+  {
+    "id": 50,
+    "kategori": "farmakoloji",
+    "kelime": "roküronyum",
+    "aciklama": "çizgili kas nikotinik asetilkolin reseptörlerini kompetitif bloke ederek gevşeme sağlayan nondepolarizan ajan.",
+    "yasakli_kelimeler": [
+      "nondepolarizan",
+      "kas gevşetici",
+      "sugammadeks",
+      "entübasyon",
+      "nöromüsküler blok"
+    ]
+  },
+  {
+    "id": 51,
+    "kategori": "farmakoloji",
+    "kelime": "sugammadeks",
+    "aciklama": "roküronyum ve veküronyum moleküllerini plazmada hapsederek nöromüsküler bloğu hızla geri çeviren modifiye siklodekstrin.",
+    "yasakli_kelimeler": [
+      "antidot",
+      "roküronyum",
+      "kas gevşetici geri çevirme",
+      "kapsülleme",
+      "anestezi"
+    ]
+  },
+  {
+    "id": 52,
+    "kategori": "farmakoloji",
+    "kelime": "propofol",
+    "aciklama": "gaba-a reseptör fonksiyonunu kolaylaştırarak çok hızlı anestezi indüksiyonu ve uyanma sağlayan intravenöz anestezik.",
+    "yasakli_kelimeler": [
+      "genel anestezi",
+      "indüksiyon",
+      "beyaz süt",
+      "sedasyon",
+      "gaba"
+    ]
+  },
+  {
+    "id": 53,
+    "kategori": "farmakoloji",
+    "kelime": "ketamin",
+    "aciklama": "nmda reseptör kanalını bloke ederek analjezi ve amnezi ile karakterize disosiyatif anestezi oluşturan ajan.",
+    "yasakli_kelimeler": [
+      "disosiyatif",
+      "nmda antagonisti",
+      "halüsinasyon",
+      "anestezi",
+      "fensiklidin türevi"
+    ]
+  },
+  {
+    "id": 54,
+    "kategori": "farmakoloji",
+    "kelime": "lidokain",
+    "aciklama": "voltaj kapılı nöronal sodyum kanallarını bloke ederek aksiyon potansiyeli iletimini durduran amid tipi lokal anestezik.",
+    "yasakli_kelimeler": [
+      "lokal anestezik",
+      "sodyum kanalı",
+      "uyuşma",
+      "antiaritmik",
+      "bölgesel anestezi"
+    ]
+  },
+  {
+    "id": 55,
+    "kategori": "farmakoloji",
+    "kelime": "adrenalin",
+    "aciklama": "alfa ve beta adrenerjik reseptörleri güçlüce uyararak anafilaksi ve kalp durmasında ilk seçenek olan sempatomimetik katekolamin.",
+    "yasakli_kelimeler": [
+      "epinefrin",
+      "anafilaksi",
+      "resüsitasyon",
+      "sempatik",
+      "bronkodilatasyon"
+    ]
+  },
+  {
+    "id": 56,
+    "kategori": "farmakoloji",
+    "kelime": "noradrenalin",
+    "aciklama": "güçlü alfa-1 reseptör agonisti etkisiyle sistemik vazokonstrüksiyon yaparak septik şokta kan basıncını yükselten katekolamin.",
+    "yasakli_kelimeler": [
+      "norepinefrin",
+      "vazokonstrüksiyon",
+      "septik şok",
+      "alfa reseptör",
+      "vazopressör"
+    ]
+  },
+  {
+    "id": 57,
+    "kategori": "farmakoloji",
+    "kelime": "dopamin",
+    "aciklama": "doza bağımlı olarak dopaminerjik, beta-1 ve alfa-1 reseptörlerini uyararak renal perfüzyon ve tansiyonu düzenleyen ajan.",
+    "yasakli_kelimeler": [
+      "katekolamin",
+      "inotrop",
+      "renal kan akımı",
+      "nörotransmitter",
+      "resüsitasyon"
+    ]
+  },
+  {
+    "id": 58,
+    "kategori": "farmakoloji",
+    "kelime": "dobutamin",
+    "aciklama": "selektif beta-1 agonisti olarak miyokard kontraktilitesini artıran ve kardiyojenik şokta kullanılan pozitif inotrop ilaç.",
+    "yasakli_kelimeler": [
+      "beta-1 agonist",
+      "inotrop",
+      "kalp debisi",
+      "kardiyojenik şok",
+      "kasılma gücü"
+    ]
+  },
+  {
+    "id": 59,
+    "kategori": "farmakoloji",
+    "kelime": "metformin",
+    "aciklama": "ampk aktivasyonu ile karaciğerde glukoneogenezi baskılayarak insülin duyarlılığını artıran birinci basamak antidiyabetik.",
+    "yasakli_kelimeler": [
+      "biguanid",
+      "tip 2 diyabet",
+      "glukoz düşürücü",
+      "laktik asidoz",
+      "insülin direnci"
+    ]
+  },
+  {
+    "id": 60,
+    "kategori": "farmakoloji",
+    "kelime": "sülfonilüre",
+    "aciklama": "pankreas beta hücrelerindeki atp-bağımlı potasyum kanallarını kapatarak insülin salgılanmasını tetikleyen ilaç grubu.",
+    "yasakli_kelimeler": [
+      "gliklazid",
+      "glimepirid",
+      "insülin sekresyonu",
+      "hipoglisemi",
+      "diyabet"
+    ]
+  },
+  {
+    "id": 61,
+    "kategori": "farmakoloji",
+    "kelime": "sglt2 inhibitörü",
+    "aciklama": "böbrek proksimal tübülünde glukoz geri emilimini engelleyerek idrarla şeker atılımını sağlayan antidiyabetik sınıfı.",
+    "yasakli_kelimeler": [
+      "glukozüri",
+      "empagliflozin",
+      "dapagliflozin",
+      "proksimal tübül",
+      "diyabet"
+    ]
+  },
+  {
+    "id": 62,
+    "kategori": "farmakoloji",
+    "kelime": "glp1 agonisti",
+    "aciklama": "inkretin hormonunu taklit ederek glukoza bağımlı insülin salgısını artıran ve mide boşalmasını yavaşlatan ilaç grubu.",
+    "yasakli_kelimeler": [
+      "liraglutid",
+      "semaglutid",
+      "inkretin",
+      "zayıflama",
+      "insülin"
+    ]
+  },
+  {
+    "id": 63,
+    "kategori": "farmakoloji",
+    "kelime": "levotiroksin",
+    "aciklama": "hipotiroidizm tedavisinde kullanılan, vücutta aktif t3 hormonuna dönüştürülen sentetik tiroksin (t4) hormonu.",
+    "yasakli_kelimeler": [
+      "tiroit bezi",
+      "t4 hormonu",
+      "hipotiroidi",
+      "metabolizma",
+      "ötiroid"
+    ]
+  },
+  {
+    "id": 64,
+    "kategori": "farmakoloji",
+    "kelime": "metimazol",
+    "aciklama": "tiroit peroksidaz enzimini inhibe ederek tiroit hormonlarının sentezini engelleyen hipertiroidi ilacı.",
+    "yasakli_kelimeler": [
+      "antitiroit",
+      "hipertiroidi",
+      "tiroperoksidaz",
+      "graves",
+      "agranülositoz"
+    ]
+  },
+  {
+    "id": 65,
+    "kategori": "farmakoloji",
+    "kelime": "metotreksat",
+    "aciklama": "dihidrofolat redüktaz enzimini yarışmalı inhibe ederek tetrahidrofolat sentezini bozan antimetabolit ajan.",
+    "yasakli_kelimeler": [
+      "folik asit antagonisti",
+      "kemoterapi",
+      "romatoid artrit",
+      "dihidrofolat",
+      "kanser"
+    ]
+  },
+  {
+    "id": 66,
+    "kategori": "farmakoloji",
+    "kelime": "siklosporin",
+    "aciklama": "kalsinörini inhibe ederek interlökin-2 transkripsiyonunu ve t-lenfosit aktivasyonunu baskılayan immünsüpresif ilaç.",
+    "yasakli_kelimeler": [
+      "kalsinörin inhibitörü",
+      "organ nakli",
+      "t hücresi",
+      "nefrotoksisite",
+      "bağışıklık baskılayıcı"
+    ]
+  },
+  {
+    "id": 67,
+    "kategori": "farmakoloji",
+    "kelime": "takrolimus",
+    "aciklama": "fk506 bağlayıcı proteine tutunup kalsinörini bloke ederek organ reddini önleyen güçlü bağışıklık baskılayıcı.",
+    "yasakli_kelimeler": [
+      "kalsinörin",
+      "organ nakli",
+      "greft reddi",
+      "fk506",
+      "immünsüpresif"
+    ]
+  },
+  {
+    "id": 68,
+    "kategori": "farmakoloji",
+    "kelime": "monoklonal antikor",
+    "aciklama": "tek bir b-hücre klonundan üretilen ve belirli bir antijene yüksek özgüllükle bağlanan biyolojik hedefli ajanlar.",
+    "yasakli_kelimeler": [
+      "biyolojik ajan",
+      "-mab eki",
+      "hedefe yönelik",
+      "antijen",
+      "rituksimab"
+    ]
+  },
+  {
+    "id": 69,
+    "kategori": "farmakoloji",
+    "kelime": "infliksimab",
+    "aciklama": "tümör nekrozis faktör alfaya (tnf-alfa) bağlanarak otoimmün inflamatuar kaskadı baskılayan kimerik antikor.",
+    "yasakli_kelimeler": [
+      "tnf alfa blokeri",
+      "crohn",
+      "romatoid artrit",
+      "biyolojik tedavi",
+      "anti-tnf"
+    ]
+  },
+  {
+    "id": 70,
+    "kategori": "farmakoloji",
+    "kelime": "rituksimab",
+    "aciklama": "b hücrelerinin yüzeyindeki cd20 antijenine bağlanarak bu hücrelerin yıkımını sağlayan monoklonal antikor.",
+    "yasakli_kelimeler": [
+      "cd20",
+      "b hücresi",
+      "lenfoma",
+      "monoklonal antikor",
+      "lösemi"
+    ]
+  },
+  {
+    "id": 71,
+    "kategori": "farmakoloji",
+    "kelime": "trastuzumab",
+    "aciklama": "her2/neu reseptörüne bağlanarak reseptör sinyalini kesen ve meme kanserinde kullanılan hedefli antikor.",
+    "yasakli_kelimeler": [
+      "her2",
+      "meme kanseri",
+      "kardiyotoksisite",
+      "hedefli tedavi",
+      "onkoloji"
+    ]
+  },
+  {
+    "id": 72,
+    "kategori": "farmakoloji",
+    "kelime": "sisplatin",
+    "aciklama": "dna iplikçiklerine çapraz bağlanarak dna sentezini ve hücre bölünmesini durduran platin bazlı antineoplastik.",
+    "yasakli_kelimeler": [
+      "kemoterapi",
+      "nefrotoksisite",
+      "platin",
+      "dna hasarı",
+      "kanser ilacı"
+    ]
+  },
+  {
+    "id": 73,
+    "kategori": "farmakoloji",
+    "kelime": "doksorubisin",
+    "aciklama": "topoizomeraz 2 enzimini inhibe eden ve serbest radikal hasarıyla kardiyotoksisiteye yol açabilen antrasiklin antibiyotik.",
+    "yasakli_kelimeler": [
+      "kardiyotoksisite",
+      "antrasiklin",
+      "kırmızı serum",
+      "kemoterapi",
+      "topoizomeraz"
+    ]
+  },
+  {
+    "id": 74,
+    "kategori": "farmakoloji",
+    "kelime": "paklitaksel",
+    "aciklama": "mikrotübül polimerizasyonunu aşırı stabilize edip depolimerizasyonu önleyerek mitozu durduran taksan türevi antineoplastik.",
+    "yasakli_kelimeler": [
+      "mikrotübül",
+      "taksan",
+      "mitoz iğ ipliği",
+      "kemoterapi",
+      "onkoloji"
+    ]
+  },
+  {
+    "id": 75,
+    "kategori": "farmakoloji",
+    "kelime": "vinkristin",
+    "aciklama": "tübüline bağlanarak mikrotübül oluşumunu engelleyen ve periferal nöropatiye yol açabilen vinka alkaloidi.",
+    "yasakli_kelimeler": [
+      "vinka alkaloidi",
+      "tübülin",
+      "periferal nöropati",
+      "mitoz engelleme",
+      "lösemi"
+    ]
+  },
+  {
+    "id": 76,
+    "kategori": "farmakoloji",
+    "kelime": "imatinib",
+    "aciklama": "bcr-abl tirozin kinaz enzimini spesifik olarak inhibe ederek kronik miyeloid lösemi tedavisini devrimleştiren ajan.",
+    "yasakli_kelimeler": [
+      "tirozin kinaz inhibitörü",
+      "bcr-abl",
+      "kronik miyeloid lösemi",
+      "hedefli tedavi",
+      "kml"
+    ]
+  },
+  {
+    "id": 77,
+    "kategori": "farmakoloji",
+    "kelime": "asimptomatik taşıyıcı",
+    "aciklama": "bir patojeni vücudunda barındırıp çevreye bulaştırabilen ancak kendisinde hiçbir klinik hastalık belirtisi bulunmayan konak.",
+    "yasakli_kelimeler": [
+      "belirtisiz",
+      "bulaştırıcı",
+      "enfeksiyon",
+      "taşıyıcılık",
+      "portör"
+    ]
+  },
+  {
+    "id": 78,
+    "kategori": "farmakoloji",
+    "kelime": "ssri",
+    "aciklama": "sinaptik aralıkta serotonin geri alımını seçici olarak engelleyerek depresyon ve anksiyete tedavisinde kullanılan antidepresanlar.",
+    "yasakli_kelimeler": [
+      "serotonin",
+      "antidepresan",
+      "fluoksetin",
+      "depresyon",
+      "geri alım"
+    ]
+  },
+  {
+    "id": 79,
+    "kategori": "farmakoloji",
+    "kelime": "snri",
+    "aciklama": "hem serotonin hem de noradrenalin geri alım transporterlarını inhibe ederek çalışan antidepresan ilaç sınıfı.",
+    "yasakli_kelimeler": [
+      "venlafaksin",
+      "duloksetin",
+      "noradrenalin",
+      "serotonin",
+      "antidepresan"
+    ]
+  },
+  {
+    "id": 80,
+    "kategori": "farmakoloji",
+    "kelime": "haloperidol",
+    "aciklama": "dopamin d2 reseptörlerini güçlüce bloke eden, ekstrapiramidal yan etkileri yüksek tipik nöroleptik ilaç.",
+    "yasakli_kelimeler": [
+      "tipik antipsikotik",
+      "dopamin blokajı",
+      "şizofreni",
+      "ekstrapiramidal",
+      "d2 reseptörü"
+    ]
+  },
+  {
+    "id": 81,
+    "kategori": "farmakoloji",
+    "kelime": "klozapin",
+    "aciklama": "tedaviye dirençli şizofrenide kullanılan, agranülositoz riski nedeniyle düzenli kan sayımı gerektiren atipik antipsikotik.",
+    "yasakli_kelimeler": [
+      "agranülositoz",
+      "atipik antipsikotik",
+      "şizofreni",
+      "lökopeni",
+      "kan takibi"
+    ]
+  },
+  {
+    "id": 82,
+    "kategori": "farmakoloji",
+    "kelime": "lityum",
+    "aciklama": "bipolar bozuklukta mani ve depresyon ataklarını önleyen, dar terapötik indekse sahip monovalan katyon tuzu.",
+    "yasakli_kelimeler": [
+      "bipolar bozukluk",
+      "duygudurum düzenleyici",
+      "mani",
+      "tiroit toksisitesi",
+      "dar aralık"
+    ]
+  },
+  {
+    "id": 83,
+    "kategori": "farmakoloji",
+    "kelime": "valproik asit",
+    "aciklama": "gaba düzeyini artıran, voltaj kapılı sodyum kanallarını bloke eden geniş spektrumlu antiepileptik ilaç.",
+    "yasakli_kelimeler": [
+      "epilepsi",
+      "teratojenik",
+      "nöbet",
+      "gaba artışı",
+      "hepatotoksisite"
+    ]
+  },
+  {
+    "id": 84,
+    "kategori": "farmakoloji",
+    "kelime": "karbamazepin",
+    "aciklama": "voltaj kapılı sodyum kanallarını inaktive eden, trigeminal nevralji ve parsiyel nöbetlerde ilk seçenek antikonvülzan.",
+    "yasakli_kelimeler": [
+      "trigeminal nevralji",
+      "epilepsi",
+      "sodyum kanalı bloku",
+      "kemik iliği baskılanması",
+      "otomatik indüksiyon"
+    ]
+  },
+  {
+    "id": 85,
+    "kategori": "farmakoloji",
+    "kelime": "fenitoin",
+    "aciklama": "kullanıma bağımlı sodyum kanal blokajı yapan, diş eti hipertrofisi ve hirsutizme yol açabilen antiepileptik.",
+    "yasakli_kelimeler": [
+      "antiepileptik",
+      "diş eti büyümesi",
+      "sodyum kanalı",
+      "nöbet",
+      "sıfır derece kinetiği"
+    ]
+  },
+  {
+    "id": 86,
+    "kategori": "farmakoloji",
+    "kelime": "morfin",
+    "aciklama": "santral sinir sistemindeki mü-opioid reseptörlerini aktive ederek şiddetli ağrıyı kesen ana afyon alkaloidi.",
+    "yasakli_kelimeler": [
+      "opioid",
+      "narkotik",
+      "analjezik",
+      "mü reseptörü",
+      "solunum depresyonu"
+    ]
+  },
+  {
+    "id": 87,
+    "kategori": "farmakoloji",
+    "kelime": "fentanil",
+    "aciklama": "morfine göre yaklaşık yüz kat daha güçlü, transdermal ve intravenöz uygulanan sentetik lipidik opioid.",
+    "yasakli_kelimeler": [
+      "sentetik opioid",
+      "güçlü analjezik",
+      "transdermal flaster",
+      "anestezi",
+      "morfin karşıtı"
+    ]
+  },
+  {
+    "id": 88,
+    "kategori": "farmakoloji",
+    "kelime": "tramadol",
+    "aciklama": "zayıf mü-reseptör agonist etkisinin yanı sıra serotonin ve noradrenalin geri alımını engelleyen santral ağrı kesici.",
+    "yasakli_kelimeler": [
+      "opioid benzeri",
+      "ağrı kesici",
+      "serotonin sendromu",
+      "santral analjezik",
+      "nöbet riski"
+    ]
+  },
+  {
+    "id": 89,
+    "kategori": "farmakoloji",
+    "kelime": "vankomisin",
+    "aciklama": "bakteri hücre duvarında d-ala d-ala ucuna bağlanarak peptidoglikan polimerizasyonunu önleyen glikopeptid antibiyotik.",
+    "yasakli_kelimeler": [
+      "mrsa",
+      "kırmızı adam sendromu",
+      "glikopeptid",
+      "hücre duvarı",
+      "nefrotoksisite"
+    ]
+  },
+  {
+    "id": 90,
+    "kategori": "farmakoloji",
+    "kelime": "daptomisin",
+    "aciklama": "kalsiyum varlığında bakteri hücre zarına oligomerize olup porlar açarak membran potansiyelini bozan lipopeptid.",
+    "yasakli_kelimeler": [
+      "lipopeptid",
+      "hücre zarı depolarizasyonu",
+      "mrsa",
+      "rabdomiyoliz",
+      "akciğer sürfaktanı"
+    ]
+  },
+  {
+    "id": 91,
+    "kategori": "farmakoloji",
+    "kelime": "linezolid",
+    "aciklama": "bakteriyel 50s ribozomunun 23s rrna alt birimine bağlanarak başlatma kompleksinin oluşumunu engelleyen oksazolidinon.",
+    "yasakli_kelimeler": [
+      "oksazolidinon",
+      "mrsa",
+      "vre",
+      "kemik iliği baskılanması",
+      "trombositopeni"
+    ]
+  },
+  {
+    "id": 92,
+    "kategori": "farmakoloji",
+    "kelime": "kolistin",
+    "aciklama": "gram negatif bakterilerin dış membranındaki lipopolisakkaritleri deterjan gibi parçalayan polipeptid antibiyotik.",
+    "yasakli_kelimeler": [
+      "polimiksin e",
+      "dirençli gram negatif",
+      "nefrotoksisite",
+      "deterjan etkisi",
+      "hücre zarı hasarı"
+    ]
+  },
+  {
+    "id": 93,
+    "kategori": "farmakoloji",
+    "kelime": "flukonazol",
+    "aciklama": "mantar sitokrom p450 enzimini engelleyerek lanosterolün ergosterole dönüşümünü durduran triazol antifungali.",
+    "yasakli_kelimeler": [
+      "antifungal",
+      "ergosterol sentezi",
+      "kandida",
+      "triazol",
+      "mantar ilacı"
+    ]
+  },
+  {
+    "id": 94,
+    "kategori": "farmakoloji",
+    "kelime": "amfoterisin b",
+    "aciklama": "mantar hücre zarındaki ergosterole doğrudan bağlanıp porlar oluşturarak hücre içi iyon sızıntısına yol açan polien antifungal.",
+    "yasakli_kelimeler": [
+      "polien",
+      "ergosterol bağlanması",
+      "nefrotoksisite",
+      "titreme nöbeti",
+      "derin mantar enfeksiyonu"
+    ]
+  },
+  {
+    "id": 95,
+    "kategori": "farmakoloji",
+    "kelime": "asiklovir",
+    "aciklama": "viral timidin kinaz enzimiyle fosforillendikten sonra herpes virüs dna polimerazını inhibe eden guanozin analoğu.",
+    "yasakli_kelimeler": [
+      "herpes",
+      "timidin kinaz",
+      "dna polimeraz",
+      "uçuk ilacı",
+      "antiviral"
+    ]
+  },
+  {
+    "id": 96,
+    "kategori": "farmakoloji",
+    "kelime": "oseltamivir",
+    "aciklama": "influenza a ve b virüslerinin nöraminidaz enzimini bloke ederek yeni virüslerin konak hücreden salınmasını önleyen antiviral.",
+    "yasakli_kelimeler": [
+      "tamiflu",
+      "grip",
+      "influenza",
+      "nöraminidaz inhibitörü",
+      "antiviral"
+    ]
+  },
+  {
+    "id": 97,
+    "kategori": "farmakoloji",
+    "kelime": "kolşisin",
+    "aciklama": "nötrofillerde tübüline bağlanarak mikrotübül montajını ve kemotaksisi engelleyen akut gut ilacı.",
+    "yasakli_kelimeler": [
+      "gut atağı",
+      "fmf",
+      "mikrotübül polimerizasyonu",
+      "nötrofil kemotaksisi",
+      "ishal"
+    ]
+  },
+  {
+    "id": 98,
+    "kategori": "farmakoloji",
+    "kelime": "allopurinol",
+    "aciklama": "ksantin oksidaz enzimini inhibe ederek hipoksantinden ürik asit üretimini durduran kronik gut profilaksisi ilacı.",
+    "yasakli_kelimeler": [
+      "ksantin oksidaz",
+      "ürik asit",
+      "gut profilaksisi",
+      "hiperürisemi",
+      "stevens johnson"
+    ]
+  },
+  {
+    "id": 99,
+    "kategori": "farmakoloji",
+    "kelime": "montelukast",
+    "aciklama": "sisteinil lökotrien 1 reseptörlerini bloke ederek bronkokonstrüksiyon ve havayolu inflamasyonunu azaltan astım ilacı.",
+    "yasakli_kelimeler": [
+      "lökotrien reseptör antagonisti",
+      "astım",
+      "bronkospazm",
+      "alerjik rinit",
+      "solunum yolu"
+    ]
+  },
+  {
+    "id": 100,
+    "kategori": "farmakoloji",
+    "kelime": "salbutamol",
+    "aciklama": "bronş düz kaslarındaki beta-2 adrenerjik reseptörleri hızla uyararak bronkodilatasyon sağlayan kısa etkili inhaler.",
+    "yasakli_kelimeler": [
+      "beta-2 agonist",
+      "astım inhaleri",
+      "bronkodilatör",
+      "ventolin",
+      "taşikardi"
+    ]
+  }
+]

@@ -1,0 +1,1302 @@
+[
+  {
+    "id": 1,
+    "kategori": "yapayzeka",
+    "kelime": "yapay sinir ağı",
+    "aciklama": "biyolojik sinir sisteminden esinlenerek katmanlar halinde birbirine bağlı yapay nöronlarla çalışan hesaplama modeli.",
+    "yasakli_kelimeler": [
+      "nöron",
+      "katman",
+      "ağırlık",
+      "biyolojik",
+      "model"
+    ]
+  },
+  {
+    "id": 2,
+    "kategori": "yapayzeka",
+    "kelime": "derin öğrenme",
+    "aciklama": "çok sayıda gizli katmana sahip yapay sinir ağlarını kullanarak karmaşık örüntüleri çözen makine öğrenmesi alt dalı.",
+    "yasakli_kelimeler": [
+      "katman",
+      "sinir ağı",
+      "gizli",
+      "makine",
+      "örüntü"
+    ]
+  },
+  {
+    "id": 3,
+    "kategori": "yapayzeka",
+    "kelime": "geri yayılım",
+    "aciklama": "yapay sinir ağlarında hatanın çıkıştan girişe doğru taşınarak ağırlıkların türevle güncellendiği temel optimizasyon algoritması.",
+    "yasakli_kelimeler": [
+      "hata",
+      "gradyan",
+      "ağırlık",
+      "türev",
+      "algoritma"
+    ]
+  },
+  {
+    "id": 4,
+    "kategori": "yapayzeka",
+    "kelime": "aşırı uyum",
+    "aciklama": "bir modelin eğitim verisini ezberleyerek görmediği yeni test verilerinde düşük başarı göstermesi durumu.",
+    "yasakli_kelimeler": [
+      "ezber",
+      "eğitim",
+      "test",
+      "genelleme",
+      "varyans"
+    ]
+  },
+  {
+    "id": 5,
+    "kategori": "yapayzeka",
+    "kelime": "eksik uyum",
+    "aciklama": "modelin verideki örüntüleri kavrayamayacak kadar basit kalması ve hem eğitimde hem testte yetersiz kalması.",
+    "yasakli_kelimeler": [
+      "basit",
+      "eğitim",
+      "yanlılık",
+      "yetersiz",
+      "örüntü"
+    ]
+  },
+  {
+    "id": 6,
+    "kategori": "yapayzeka",
+    "kelime": "aktivasyon fonksiyonu",
+    "aciklama": "nöron girdilerinin ağırlıklı toplamına uygulanarak ağa doğrusal olmayan özellikler kazandıran matematiksel fonksiyon.",
+    "yasakli_kelimeler": [
+      "doğrusal",
+      "relu",
+      "sigmoid",
+      "nöron",
+      "çıkış"
+    ]
+  },
+  {
+    "id": 7,
+    "kategori": "yapayzeka",
+    "kelime": "gradyan inişi",
+    "aciklama": "kayıp fonksiyonunu en aza indirmek için parametreleri negatif eğim yönünde yinelemeli olarak güncelleyen algoritma.",
+    "yasakli_kelimeler": [
+      "türev",
+      "eğim",
+      "kayıp",
+      "öğrenme oranı",
+      "adım"
+    ]
+  },
+  {
+    "id": 8,
+    "kategori": "yapayzeka",
+    "kelime": "evrişimli sinir ağı",
+    "aciklama": "görüntü ve video işleme görevlerinde filtreler ve çekirdekler kullanarak mekansal özellikleri yakalayan ağ mimarisi.",
+    "yasakli_kelimeler": [
+      "görüntü",
+      "piksel",
+      "filtre",
+      "havuzlama",
+      "çekirdek"
+    ]
+  },
+  {
+    "id": 9,
+    "kategori": "yapayzeka",
+    "kelime": "tekrarlayan sinir ağı",
+    "aciklama": "zaman serileri ve metin gibi sıralı verilerde önceki adımların bilgisini dahili hafızasında tutabilen ağ türü.",
+    "yasakli_kelimeler": [
+      "sıralı",
+      "zaman",
+      "hafıza",
+      "dizi",
+      "lstm"
+    ]
+  },
+  {
+    "id": 10,
+    "kategori": "yapayzeka",
+    "kelime": "dönüştürücü mimarisi",
+    "aciklama": "öz dikkat mekanizması sayesinde ardışık işlem gerektirmeden paralel metin işleme devrimini başlatan model yapısı.",
+    "yasakli_kelimeler": [
+      "transformer",
+      "öz dikkat",
+      "paralel",
+      "bert",
+      "kodlayıcı"
+    ]
+  },
+  {
+    "id": 11,
+    "kategori": "yapayzeka",
+    "kelime": "öz dikkat mekanizması",
+    "aciklama": "bir dizideki her kelimenin diğer tüm kelimelerle olan anlamsal ilişkisini ağırlıklandırarak hesaplayan yöntem.",
+    "yasakli_kelimeler": [
+      "self attention",
+      "ağırlık",
+      "kelime",
+      "bağlam",
+      "skor"
+    ]
+  },
+  {
+    "id": 12,
+    "kategori": "yapayzeka",
+    "kelime": "üretken çekişmeli ağlar",
+    "aciklama": "biri yeni veri üreten diğeri sahteyi gerçeğinden ayıran iki ağın rekabetiyle çalışan üretken yapay zeka yapısı.",
+    "yasakli_kelimeler": [
+      "gan",
+      "üretici",
+      "ayırt edici",
+      "sahte",
+      "çekişme"
+    ]
+  },
+  {
+    "id": 13,
+    "kategori": "yapayzeka",
+    "kelime": "pekiştirmeli öğrenme",
+    "aciklama": "bir ajanın çevresiyle etkileşime girip ödülleri en üst düzeye çıkarmak için deneme yanılma yoluyla öğrenmesi.",
+    "yasakli_kelimeler": [
+      "ajan",
+      "ödül",
+      "ceza",
+      "çevre",
+      "eylem"
+    ]
+  },
+  {
+    "id": 14,
+    "kategori": "yapayzeka",
+    "kelime": "q öğrenmesi",
+    "aciklama": "durum ve eylem çiftlerinin beklenen gelecekteki ödüllerini bir tabloda veya modelde güncelleyen değere dayalı algoritma.",
+    "yasakli_kelimeler": [
+      "durum",
+      "eylem",
+      "tablo",
+      "bellman",
+      "değer"
+    ]
+  },
+  {
+    "id": 15,
+    "kategori": "yapayzeka",
+    "kelime": "büyük dil modeli",
+    "aciklama": "milyarlarca parametreyle devasa metin derlemleri üzerinde eğitilerek insan benzeri metin üreten sistem.",
+    "yasakli_kelimeler": [
+      "llm",
+      "parametre",
+      "metin",
+      "belirteç",
+      "üretim"
+    ]
+  },
+  {
+    "id": 16,
+    "kategori": "yapayzeka",
+    "kelime": "belirteç",
+    "aciklama": "doğal dil işlemede metnin model tarafından işlenebilmesi için bölündüğü en küçük hece, kelime veya karakter parçası.",
+    "yasakli_kelimeler": [
+      "token",
+      "bölme",
+      "kelime",
+      "parça",
+      "sayılaştırma"
+    ]
+  },
+  {
+    "id": 17,
+    "kategori": "yapayzeka",
+    "kelime": "gömme",
+    "aciklama": "kelimeleri, cümleleri veya nesneleri sürekli bir vektör uzayında anlamsal yakınlıklarına göre temsil etme yöntemi.",
+    "yasakli_kelimeler": [
+      "vektör",
+      "uzay",
+      "kelime",
+      "anlam",
+      "uzaklık"
+    ]
+  },
+  {
+    "id": 18,
+    "kategori": "yapayzeka",
+    "kelime": "kayıp fonksiyonu",
+    "aciklama": "modelin tahmin ettiği değer ile gerçek hedef değer arasındaki farkı sayısallaştırarak hatayı ölçen formül.",
+    "yasakli_kelimeler": [
+      "hata",
+      "maliyet",
+      "tahmin",
+      "gerçek",
+      "en aza indirme"
+    ]
+  },
+  {
+    "id": 19,
+    "kategori": "yapayzeka",
+    "kelime": "öğrenme oranı",
+    "aciklama": "optimizasyon sırasında model ağırlıklarının hatanın gradyanına doğru her adımda ne kadar değişeceğini belirleyen hiperparametre.",
+    "yasakli_kelimeler": [
+      "adım",
+      "hiperparametre",
+      "büyüklük",
+      "gradyan",
+      "hız"
+    ]
+  },
+  {
+    "id": 20,
+    "kategori": "yapayzeka",
+    "kelime": "kümeleme",
+    "aciklama": "etiketsiz verileri birbirine olan benzerlik ve mesafelerine göre homojen gruplara ayıran gözetimsiz öğrenme yöntemi.",
+    "yasakli_kelimeler": [
+      "grup",
+      "gözetimsiz",
+      "benzerlik",
+      "etiketsiz",
+      "mesafe"
+    ]
+  },
+  {
+    "id": 21,
+    "kategori": "yapayzeka",
+    "kelime": "k en yakın komşu",
+    "aciklama": "yeni bir veri noktasını öklid gibi bir mesafe ölçütüyle en yakınındaki önceden etiketli komşularına bakarak sınıflandıran yöntem.",
+    "yasakli_kelimeler": [
+      "mesafe",
+      "komşu",
+      "öklid",
+      "sınıflandırma",
+      "nokta"
+    ]
+  },
+  {
+    "id": 22,
+    "kategori": "yapayzeka",
+    "kelime": "karar ağacı",
+    "aciklama": "verileri özelliklerine göre soru-cevap dallanmalarıyla kökten yapraklara doğru bölerek tahmin yapan hiyerarşik model.",
+    "yasakli_kelimeler": [
+      "dal",
+      "yaprak",
+      "kök",
+      "bölme",
+      "entropi"
+    ]
+  },
+  {
+    "id": 23,
+    "kategori": "yapayzeka",
+    "kelime": "rastgele orman",
+    "aciklama": "birden çok karar ağacının eğitim verisinin farklı alt kümeleriyle eğitilip tahminlerinin birleştirildiği topluluk algoritması.",
+    "yasakli_kelimeler": [
+      "ağaç",
+      "topluluk",
+      "torbalama",
+      "oylama",
+      "varyans"
+    ]
+  },
+  {
+    "id": 24,
+    "kategori": "yapayzeka",
+    "kelime": "destek vektör makinesi",
+    "aciklama": "farklı sınıflara ait verileri birbirinden ayıran en geniş kenar boşluğuna sahip hiperdüzlemi bulan algoritma.",
+    "yasakli_kelimeler": [
+      "hiperdüzlem",
+      "marjin",
+      "çekirdek",
+      "sınıf",
+      "vektör"
+    ]
+  },
+  {
+    "id": 25,
+    "kategori": "yapayzeka",
+    "kelime": "çekirdek hilesi",
+    "aciklama": "doğrusal ayrılamayan verileri yüksek boyutlu uzaya haritalandırarak hesaplama karmaşıklığına girmeden ayrılabilir kılan matematiksel yöntem.",
+    "yasakli_kelimeler": [
+      "kernel",
+      "boyut",
+      "uzay",
+      "doğrusal",
+      "skaler"
+    ]
+  },
+  {
+    "id": 26,
+    "kategori": "yapayzeka",
+    "kelime": "temel bileşen analizi",
+    "aciklama": "veri setindeki varyansı koruyarak boyut sayısını azaltan ve birbirine dik yeni eksenler bulan doğrusal yöntem.",
+    "yasakli_kelimeler": [
+      "boyut indirgeme",
+      "varyans",
+      "özvektör",
+      "eksen",
+      "dönüşüm"
+    ]
+  },
+  {
+    "id": 27,
+    "kategori": "yapayzeka",
+    "kelime": "düzenlileştirme",
+    "aciklama": "kayıp fonksiyonuna parametrelerin büyüklüğünü cezalandıran terimler ekleyerek modelin ezber yapmasını engelleyen teknik.",
+    "yasakli_kelimeler": [
+      "ceza",
+      "aşırı uyum",
+      "katsayı",
+      "lasso",
+      "ridge"
+    ]
+  },
+  {
+    "id": 28,
+    "kategori": "yapayzeka",
+    "kelime": "seyreltme",
+    "aciklama": "eğitim sırasında rastgele seçilen bazı nöronların geçici olarak devre dışı bırakılmasıyla aşırı uyumu önleyen yöntem.",
+    "yasakli_kelimeler": [
+      "dropout",
+      "nöron",
+      "rastgele",
+      "kapatma",
+      "ezber"
+    ]
+  },
+  {
+    "id": 29,
+    "kategori": "yapayzeka",
+    "kelime": "küme normalizasyonu",
+    "aciklama": "katman girişlerini her mini grupta ortalama ve varyansına göre ölçekleyerek eğitimin hızlanmasını ve kararlı olmasını sağlayan teknik.",
+    "yasakli_kelimeler": [
+      "batch norm",
+      "ortalama",
+      "varyans",
+      "katman",
+      "ölçek"
+    ]
+  },
+  {
+    "id": 30,
+    "kategori": "yapayzeka",
+    "kelime": "erken durdurma",
+    "aciklama": "doğrulama veri setindeki hata artmaya başladığı anda model eğitimini keserek aşırı uyumu engelleyen mekanizma.",
+    "yasakli_kelimeler": [
+      "eğitim",
+      "doğrulama",
+      "dönem",
+      "kesme",
+      "hata"
+    ]
+  },
+  {
+    "id": 31,
+    "kategori": "yapayzeka",
+    "kelime": "veri artırma",
+    "aciklama": "mevcut verileri kırpma, döndürme veya gürültü ekleme gibi işlemlerle çoğaltarak modelin çeşitliliğini artırma.",
+    "yasakli_kelimeler": [
+      "çoğaltma",
+      "döndürme",
+      "çeşitlilik",
+      "sentetik",
+      "görüntü"
+    ]
+  },
+  {
+    "id": 32,
+    "kategori": "yapayzeka",
+    "kelime": "transfer öğrenme",
+    "aciklama": "büyük bir veri setinde önceden eğitilmiş bir modelin ağırlıklarını alıp farklı ama benzer yeni bir görevde kullanma yaklaşımı.",
+    "yasakli_kelimeler": [
+      "ön eğitim",
+      "ağırlık",
+      "aktarım",
+      "görev",
+      "ince ayar"
+    ]
+  },
+  {
+    "id": 33,
+    "kategori": "yapayzeka",
+    "kelime": "ince ayar",
+    "aciklama": "önceden eğitilmiş genel bir modelin hedef göreve özel daha küçük bir veri setiyle son katmanlarının yeniden eğitilmesi.",
+    "yasakli_kelimeler": [
+      "fine tuning",
+      "eğitme",
+      "hedef",
+      "küçük veri",
+      "ağırlık"
+    ]
+  },
+  {
+    "id": 34,
+    "kategori": "yapayzeka",
+    "kelime": "özellik mühendisliği",
+    "aciklama": "ham veriden makine öğrenmesi algoritmalarının başarısını artıracak en anlamlı girdileri çıkarma ve dönüştürme süreci.",
+    "yasakli_kelimeler": [
+      "ham veri",
+      "nitelik",
+      "dönüşüm",
+      "girdi",
+      "değişken"
+    ]
+  },
+  {
+    "id": 35,
+    "kategori": "yapayzeka",
+    "kelime": "karmaşıklık matrisi",
+    "aciklama": "bir sınıflandırma modelinin doğru ve yanlış tahminlerini çapraz tablo halinde özetleyen performans değerlendirme aracı.",
+    "yasakli_kelimeler": [
+      "doğru pozitif",
+      "yanlış negatif",
+      "tablo",
+      "sınıflandırma",
+      "metrik"
+    ]
+  },
+  {
+    "id": 36,
+    "kategori": "yapayzeka",
+    "kelime": "duyarlılık",
+    "aciklama": "gerçekte pozitif olan tüm durumların ne kadarının model tarafından başarıyla tespit edildiğini gösteren oran.",
+    "yasakli_kelimeler": [
+      "recall",
+      "pozitif",
+      "oran",
+      "yakalama",
+      "tespit"
+    ]
+  },
+  {
+    "id": 37,
+    "kategori": "yapayzeka",
+    "kelime": "kesinlik",
+    "aciklama": "modelin pozitif olarak tahmin ettiği durumların gerçekte yüzde kaçının gerçekten pozitif olduğunu gösteren metrik.",
+    "yasakli_kelimeler": [
+      "precision",
+      "tahmin",
+      "doğruluk",
+      "pozitif",
+      "yanlış alarm"
+    ]
+  },
+  {
+    "id": 38,
+    "kategori": "yapayzeka",
+    "kelime": "f1 skoru",
+    "aciklama": "dengesiz sınıflara sahip verilerde kesinlik ve duyarlılık değerlerinin harmonik ortalamasını alan başarım metriği.",
+    "yasakli_kelimeler": [
+      "harmonik",
+      "ortalama",
+      "kesinlik",
+      "duyarlılık",
+      "denge"
+    ]
+  },
+  {
+    "id": 39,
+    "kategori": "yapayzeka",
+    "kelime": "çapraz doğrulama",
+    "aciklama": "veri setini k parçaya bölerek her parçayı sırayla test kümesi yapıp modelin genellenebilirliğini test eden teknik.",
+    "yasakli_kelimeler": [
+      "katlama",
+      "k-fold",
+      "test",
+      "bölme",
+      "genelleme"
+    ]
+  },
+  {
+    "id": 40,
+    "kategori": "yapayzeka",
+    "kelime": "yapay zeka halüsinasyonu",
+    "aciklama": "büyük dil modellerinin gerçeğe aykırı, mantıksız veya uydurma bilgileri son derece kendinden emin şekilde üretmesi.",
+    "yasakli_kelimeler": [
+      "uydurma",
+      "yanılsama",
+      "yanlış",
+      "güven",
+      "üretim"
+    ]
+  },
+  {
+    "id": 41,
+    "kategori": "yapayzeka",
+    "kelime": "istem mühendisliği",
+    "aciklama": "üretken yapay zeka modellerinden en doğru ve kaliteli yanıtları almak için girdileri optimize etme sanatı ve bilimi.",
+    "yasakli_kelimeler": [
+      "prompt",
+      "girdi",
+      "yönerge",
+      "kalite",
+      "sorgu"
+    ]
+  },
+  {
+    "id": 42,
+    "kategori": "yapayzeka",
+    "kelime": "turing testi",
+    "aciklama": "bir makinenin sergilediği davranışların bir insandan ayırt edilip edilemeyeceğini ölçen meşhur zeka testi.",
+    "yasakli_kelimeler": [
+      "insan",
+      "makine",
+      "ayırt etme",
+      "zekâ",
+      "alan"
+    ]
+  },
+  {
+    "id": 43,
+    "kategori": "yapayzeka",
+    "kelime": "moravec paradoksu",
+    "aciklama": "yapay zekanın karmaşık mantık ve satrançta kolayca başarılı olurken yürümek veya nesne tutmak gibi basit işlerde zorlanması durumu.",
+    "yasakli_kelimeler": [
+      "paradoks",
+      "mantık",
+      "motor beceri",
+      "algı",
+      "zorluk"
+    ]
+  },
+  {
+    "id": 44,
+    "kategori": "yapayzeka",
+    "kelime": "açıklanabilir yapay zeka",
+    "aciklama": "kara kutu modellerin aldıkları kararların ve yaptıkları tahminlerin arkasındaki gerekçelerin insanlarca anlaşılmasını sağlayan alan.",
+    "yasakli_kelimeler": [
+      "kara kutu",
+      "şeffaflık",
+      "yorumlanabilirlik",
+      "neden",
+      "karar"
+    ]
+  },
+  {
+    "id": 45,
+    "kategori": "yapayzeka",
+    "kelime": "otonom sürüş",
+    "aciklama": "sensörler, kameralar ve derin öğrenme algoritmalarıyla bir taşıtın insan müdahalesi olmadan kendi kendini yönlendirmesi.",
+    "yasakli_kelimeler": [
+      "araç",
+      "şoför",
+      "sensör",
+      "kamera",
+      "trafik"
+    ]
+  },
+  {
+    "id": 46,
+    "kategori": "yapayzeka",
+    "kelime": "nesne tespiti",
+    "aciklama": "bir görseldeki varlıkların hem sınıfını belirleyip hem de sınırlayıcı kutular ile konumlarını çıkarma işlemi.",
+    "yasakli_kelimeler": [
+      "kutu",
+      "konum",
+      "görsel",
+      "yolo",
+      "sınıf"
+    ]
+  },
+  {
+    "id": 47,
+    "kategori": "yapayzeka",
+    "kelime": "semantik bölütleme",
+    "aciklama": "bir görüntüdeki her bir pikselin hangi nesne sınıfına ait olduğunu piksel düzeyinde sınıflandırma görevi.",
+    "yasakli_kelimeler": [
+      "piksel",
+      "etiket",
+      "görüntü",
+      "bölütleme",
+      "maske"
+    ]
+  },
+  {
+    "id": 48,
+    "kategori": "yapayzeka",
+    "kelime": "difüzyon modeli",
+    "aciklama": "veriye adım adım gürültü ekleyip ardından bu gürültüyü geriye doğru temizleyerek yüksek kaliteli görseller üreten model sınıfı.",
+    "yasakli_kelimeler": [
+      "gürültü",
+      "görsel",
+      "üretim",
+      "ters",
+      "stable diffusion"
+    ]
+  },
+  {
+    "id": 49,
+    "kategori": "yapayzeka",
+    "kelime": "vektör veritabanı",
+    "aciklama": "yüksek boyutlu gömme vektörlerini saklayarak en yakın komşuları çok hızlı sorgulamak üzere tasarlanmış veritabanı.",
+    "yasakli_kelimeler": [
+      "indeks",
+      "benzerlik",
+      "arama",
+      "gömme",
+      "sorgu"
+    ]
+  },
+  {
+    "id": 50,
+    "kategori": "yapayzeka",
+    "kelime": "geri çağırmayla zenginleştirilmiş üretim",
+    "aciklama": "dil modelinin yanıt üretirken harici bir bilgi tabanından güncel belgeleri sorgulayıp bağlama ekleyerek doğruluğu artırması.",
+    "yasakli_kelimeler": [
+      "rag",
+      "belge",
+      "arama",
+      "bağlam",
+      "harici"
+    ]
+  },
+  {
+    "id": 51,
+    "kategori": "yapayzeka",
+    "kelime": "katmanlı algılayıcı",
+    "aciklama": "giriş, gizli ve çıkış katmanlarından oluşan, ileri beslemeli en temel yapay sinir ağı mimarisi.",
+    "yasakli_kelimeler": [
+      "mlp",
+      "ileri besleme",
+      "perceptron",
+      "katman",
+      "nöron"
+    ]
+  },
+  {
+    "id": 52,
+    "kategori": "yapayzeka",
+    "kelime": "uzun kısa süreli bellek",
+    "aciklama": "özel kapı mekanizmaları sayesinde tekrarlayan sinir ağlarındaki kaybolan gradyan sorununu çözen hafıza hücresi yapısı.",
+    "yasakli_kelimeler": [
+      "lstm",
+      "kapı",
+      "unutma",
+      "bellek",
+      "gradyan"
+    ]
+  },
+  {
+    "id": 53,
+    "kategori": "yapayzeka",
+    "kelime": "kapılı tekrarlayan birim",
+    "aciklama": "uzun kısa süreli belleğe kıyasla daha az parametre ve kapı ile sıralı verileri başarıyla işleyen hafif model.",
+    "yasakli_kelimeler": [
+      "gru",
+      "sıralı",
+      "hafıza",
+      "güncelleme",
+      "kapı"
+    ]
+  },
+  {
+    "id": 54,
+    "kategori": "yapayzeka",
+    "kelime": "kaybolan gradyan problemi",
+    "aciklama": "derin ağlarda geriye doğru gidildikçe türevlerin sıfıra yaklaşarak ilk katmanlardaki ağırlıkların öğrenilememesi sorunu.",
+    "yasakli_kelimeler": [
+      "türev",
+      "sıfır",
+      "derin",
+      "katman",
+      "öğrenememe"
+    ]
+  },
+  {
+    "id": 55,
+    "kategori": "yapayzeka",
+    "kelime": "patlayan gradyan problemi",
+    "aciklama": "ağ eğitimi esnasında türevlerin aşırı büyümesiyle ağırlıkların kontrolden çıkıp modelin kararsızlaşması.",
+    "yasakli_kelimeler": [
+      "aşırı büyüme",
+      "sonsuz",
+      "kırpma",
+      "kararsızlık",
+      "sayısal"
+    ]
+  },
+  {
+    "id": 56,
+    "kategori": "yapayzeka",
+    "kelime": "artık ağ",
+    "aciklama": "atlama bağlantıları kullanarak katmanlar arası bilgi akışını doğrudan sağlayan ve çok derin ağların eğitilmesini mümkün kılan mimari.",
+    "yasakli_kelimeler": [
+      "resnet",
+      "atlama",
+      "bağlantı",
+      "derin",
+      "artık"
+    ]
+  },
+  {
+    "id": 57,
+    "kategori": "yapayzeka",
+    "kelime": "otomatik kodlayıcı",
+    "aciklama": "giriş verisini dar bir gizli boyuta sıkıştırıp ardından orijinal veriyi yeniden inşa etmeyi öğrenen gözetimsiz ağ.",
+    "yasakli_kelimeler": [
+      "kodlayıcı",
+      "kod çözücü",
+      "sıkıştırma",
+      "inşa",
+      "şişe boynu"
+    ]
+  },
+  {
+    "id": 58,
+    "kategori": "yapayzeka",
+    "kelime": "değişimsel otomatik kodlayıcı",
+    "aciklama": "veriyi olasılıksal bir gizli uzayda normal dağılım parametrelerine dönüştürerek yeni örnekler türeten üretken model.",
+    "yasakli_kelimeler": [
+      "vae",
+      "olasılık",
+      "dağılım",
+      "örnekleme",
+      "gizli uzay"
+    ]
+  },
+  {
+    "id": 59,
+    "kategori": "yapayzeka",
+    "kelime": "k-ortalama kümeleme",
+    "aciklama": "verileri k adet merkeze olan uzaklıklarına göre gruplayıp merkezleri adım adım güncelleyen gözetimsiz algoritma.",
+    "yasakli_kelimeler": [
+      "merkez",
+      "küme",
+      "öklid",
+      "adım",
+      "yakınlık"
+    ]
+  },
+  {
+    "id": 60,
+    "kategori": "yapayzeka",
+    "kelime": "hiperparametre optimizasyonu",
+    "aciklama": "öğrenme oranı ve katman sayısı gibi model tarafından doğrudan öğrenilmeyen ayarların en iyi kombinasyonunu arama süreci.",
+    "yasakli_kelimeler": [
+      "ızgara arama",
+      "bayesian",
+      "ayar",
+      "deneme",
+      "en iyi"
+    ]
+  },
+  {
+    "id": 61,
+    "kategori": "yapayzeka",
+    "kelime": "yapay genel zeka",
+    "aciklama": "insanın yapabildiği herhangi bir entelektüel görevi eşit veya daha üstün düzeyde yerine getirebilecek varsayımsal sistem.",
+    "yasakli_kelimeler": [
+      "agi",
+      "insan düzeyi",
+      "genel",
+      "bilinç",
+      "üstün zeka"
+    ]
+  },
+  {
+    "id": 62,
+    "kategori": "yapayzeka",
+    "kelime": "süper zeka",
+    "aciklama": "bilimsel yaratıcılık, genel bilgelik ve sosyal beceriler dahil her alanda en zeki insan beynini geride bırakan yapay akıl.",
+    "yasakli_kelimeler": [
+      "tekillik",
+      "üstün",
+      "bostrom",
+      "akıl",
+      "kapasite"
+    ]
+  },
+  {
+    "id": 63,
+    "kategori": "yapayzeka",
+    "kelime": "teknolojik tekillik",
+    "aciklama": "kendi kendini geliştiren yapay zekanın insan kontrolünden çıkarak medeniyette öngörülemez bir değişim başlatacağı varsayılan an.",
+    "yasakli_kelimeler": [
+      "üstel",
+      "gelecek",
+      "öngörülemez",
+      "kendi kendine",
+      "nokta"
+    ]
+  },
+  {
+    "id": 64,
+    "kategori": "yapayzeka",
+    "kelime": "hizalama problemi",
+    "aciklama": "gelişmiş yapay zeka sistemlerinin hedeflerinin insan değerleri, etiği ve çıkarlarıyla çelişmemesini sağlama zorluğu.",
+    "yasakli_kelimeler": [
+      "etik",
+      "güvenlik",
+      "insan değeri",
+      "amaç",
+      "uyum"
+    ]
+  },
+  {
+    "id": 65,
+    "kategori": "yapayzeka",
+    "kelime": "insan geri bildirimiyle pekiştirmeli öğrenme",
+    "aciklama": "dil modellerinin yanıtlarını insanların tercihlerine göre ödül modeli eğiterek hizalama tekniği.",
+    "yasakli_kelimeler": [
+      "rlhf",
+      "tercih",
+      "ödül",
+      "hizalama",
+      "insan kontrolü"
+    ]
+  },
+  {
+    "id": 66,
+    "kategori": "yapayzeka",
+    "kelime": "gözetimli öğrenme",
+    "aciklama": "modelin girdi verileri ile bunlara karşılık gelen doğru etiketleri eşleştirerek eğitildiği temel makine öğrenmesi türü.",
+    "yasakli_kelimeler": [
+      "etiket",
+      "hedef",
+      "girdi",
+      "doğru cevap",
+      "öğrenme"
+    ]
+  },
+  {
+    "id": 67,
+    "kategori": "yapayzeka",
+    "kelime": "gözetimsiz öğrenme",
+    "aciklama": "hiçbir insan etiketi veya yönlendirmesi olmadan verideki gizli desenleri ve yapıları keşfeden öğrenme yaklaşımı.",
+    "yasakli_kelimeler": [
+      "etiketsiz",
+      "kümeleme",
+      "desen",
+      "yapı",
+      "veri"
+    ]
+  },
+  {
+    "id": 68,
+    "kategori": "yapayzeka",
+    "kelime": "yarı gözetimli öğrenme",
+    "aciklama": "az sayıda etiketli veri ile çok miktarda etiketsiz veriyi bir arada kullanarak maliyeti düşüren eğitim yöntemi.",
+    "yasakli_kelimeler": [
+      "etiketli",
+      "etiketsiz",
+      "karma",
+      "veri kıtlığı",
+      "birlikte"
+    ]
+  },
+  {
+    "id": 69,
+    "kategori": "yapayzeka",
+    "kelime": "kendinden gözetimli öğrenme",
+    "aciklama": "verinin bir kısmını gizleyip diğer kısımlarından bu gizli parçayı tahmin ettirerek temsil öğrenen yaklaşım.",
+    "yasakli_kelimeler": [
+      "maskeleme",
+      "temsil",
+      "ipucu",
+      "ön eğitim",
+      "gizli"
+    ]
+  },
+  {
+    "id": 70,
+    "kategori": "yapayzeka",
+    "kelime": "doğrusal regresyon",
+    "aciklama": "bağımlı bir sürekli değişken ile bir veya daha fazla bağımsız değişken arasındaki doğrusal ilişkiyi modelleyen istatistiksel yöntem.",
+    "yasakli_kelimeler": [
+      "çizgi",
+      "eğim",
+      "katsayı",
+      "en küçük kareler",
+      "tahmin"
+    ]
+  },
+  {
+    "id": 71,
+    "kategori": "yapayzeka",
+    "kelime": "lojistik regresyon",
+    "aciklama": "sonucun belirli bir sınıfa ait olma olasılığını s-şeklindeki bir eğri üzerinden modelleyen ikili sınıflandırma yöntemi.",
+    "yasakli_kelimeler": [
+      "olasılık",
+      "sigmoid",
+      "ikili",
+      "eğri",
+      "sınıflandırma"
+    ]
+  },
+  {
+    "id": 72,
+    "kategori": "yapayzeka",
+    "kelime": "gradyan artırma",
+    "aciklama": "zayıf öğrenicileri önceki ağaçların yaptığı hataları düzeltecek şekilde ardışık olarak ekleyen güçlü topluluk modeli.",
+    "yasakli_kelimeler": [
+      "xgboost",
+      "ardışık",
+      "hata",
+      "ağaç",
+      "topluluk"
+    ]
+  },
+  {
+    "id": 73,
+    "kategori": "yapayzeka",
+    "kelime": "konuşma tanıma",
+    "aciklama": "insan ses dalgalarını analiz ederek konuşulan kelimeleri otomatik biçimde yazılı metne dönüştüren teknoloji.",
+    "yasakli_kelimeler": [
+      "ses",
+      "yazı",
+      "mikrofon",
+      "akustik",
+      "deşifre"
+    ]
+  },
+  {
+    "id": 74,
+    "kategori": "yapayzeka",
+    "kelime": "metinden sese dönüştürme",
+    "aciklama": "yazılı bir metni doğal, akıcı ve insan benzeri yapay ses tonlamalarıyla seslendiren sentez sistemi.",
+    "yasakli_kelimeler": [
+      "sentez",
+      "seslendirme",
+      "yazı",
+      "okuma",
+      "akıcı"
+    ]
+  },
+  {
+    "id": 75,
+    "kategori": "yapayzeka",
+    "kelime": "duygu analizi",
+    "aciklama": "metinlerdeki olumlu, olumsuz veya nötr öznel hisleri ve düşünceleri yapay zeka ile tespit etme süreci.",
+    "yasakli_kelimeler": [
+      "his",
+      "olumlu",
+      "olumsuz",
+      "görüş",
+      "metin"
+    ]
+  },
+  {
+    "id": 76,
+    "kategori": "yapayzeka",
+    "kelime": "makine çevirisi",
+    "aciklama": "bir dildeki metni veya konuşmayı yapay sinir ağları yardımıyla başka bir hedef dile otomatik olarak aktarma.",
+    "yasakli_kelimeler": [
+      "tercüme",
+      "dil",
+      "kaynak",
+      "hedef",
+      "aktarım"
+    ]
+  },
+  {
+    "id": 77,
+    "kategori": "yapayzeka",
+    "kelime": "varlık ismi tanıma",
+    "aciklama": "metin içindeki kişi, kurum, konum ve zaman gibi özel adları ve kategorileri otomatik saptama görevi.",
+    "yasakli_kelimeler": [
+      "ner",
+      "özel isim",
+      "kurum",
+      "kişi",
+      "kategori"
+    ]
+  },
+  {
+    "id": 78,
+    "kategori": "yapayzeka",
+    "kelime": "havuzlama katmanı",
+    "aciklama": "evrişimli ağlarda öznitelik haritalarının boyutunu maksimum veya ortalama alarak küçülten işlem katmanı.",
+    "yasakli_kelimeler": [
+      "maksimum",
+      "boyut",
+      "küçültme",
+      "evrişim",
+      "alt örnekleme"
+    ]
+  },
+  {
+    "id": 79,
+    "kategori": "yapayzeka",
+    "kelime": "adam optimizasyon algoritması",
+    "aciklama": "gradyanların birinci ve ikinci momentlerini takip ederek her parametre için öğrenme oranını uyarlamalı ayarlayan yöntem.",
+    "yasakli_kelimeler": [
+      "moment",
+      "uyarlamalı",
+      "öğrenme oranı",
+      "gradyan",
+      "hız"
+    ]
+  },
+  {
+    "id": 80,
+    "kategori": "yapayzeka",
+    "kelime": "stokastik gradyan inişi",
+    "aciklama": "tüm veri seti yerine her adımda rastgele seçilen tek bir örnekle gradyan hesaplayıp ağırlıkları hızla güncelleyen algoritma.",
+    "yasakli_kelimeler": [
+      "rastgele",
+      "örnek",
+      "güncelleme",
+      "hızlı",
+      "mini grup"
+    ]
+  },
+  {
+    "id": 81,
+    "kategori": "yapayzeka",
+    "kelime": "bilgi damıtma",
+    "aciklama": "büyük ve karmaşık bir öğretmen modelin öğrendiği bilgileri daha küçük ve hızlı bir öğrenci modele aktarma tekniği.",
+    "yasakli_kelimeler": [
+      "öğretmen",
+      "öğrenci",
+      "sıkıştırma",
+      "küçük model",
+      "aktarma"
+    ]
+  },
+  {
+    "id": 82,
+    "kategori": "yapayzeka",
+    "kelime": "niceleme",
+    "aciklama": "model ağırlıklarını 32 bitlik kayan noktalardan 8 veya 4 bitlik tam sayılara dönüştürerek bellek tasarrufu sağlama yöntemi.",
+    "yasakli_kelimeler": [
+      "bit",
+      "hassasiyet",
+      "bellek",
+      "tam sayı",
+      "küçültme"
+    ]
+  },
+  {
+    "id": 83,
+    "kategori": "yapayzeka",
+    "kelime": "budama",
+    "aciklama": "eğitilmiş bir ağda önemsiz veya sıfıra yakın ağırlıkları silerek modeli hafifletme ve hızlandırma işlemi.",
+    "yasakli_kelimeler": [
+      "ağırlık",
+      "silme",
+      "seyreklik",
+      "hafifletme",
+      "hız"
+    ]
+  },
+  {
+    "id": 84,
+    "kategori": "yapayzeka",
+    "kelime": "yapay görme",
+    "aciklama": "bilgisayarların dijital görüntülerden veya videolardan üst düzey anlam ve veri çıkarmasını sağlayan çalışma alanı.",
+    "yasakli_kelimeler": [
+      "görüntü",
+      "kamera",
+      "video",
+      "tanıma",
+      "piksel"
+    ]
+  },
+  {
+    "id": 85,
+    "kategori": "yapayzeka",
+    "kelime": "bulanık mantık",
+    "aciklama": "kesin doğru ya da yanlış yerine sıfır ile bir arasındaki kısmi doğruluk derecelerini kullanan karar verme yaklaşımı.",
+    "yasakli_kelimeler": [
+      "kısmi",
+      "derece",
+      "kesin",
+      "belirsizlik",
+      "küme"
+    ]
+  },
+  {
+    "id": 86,
+    "kategori": "yapayzeka",
+    "kelime": "uzman sistemler",
+    "aciklama": "belirli bir alandaki insan uzmanların kural ve bilgilerini if-then tabanlı kurallarla taklit eden ilk nesil yapay zeka.",
+    "yasakli_kelimeler": [
+      "kural",
+      "çıkarım motoru",
+      "bilgi tabanı",
+      "tavsiye",
+      "mantık"
+    ]
+  },
+  {
+    "id": 87,
+    "kategori": "yapayzeka",
+    "kelime": "genetik algoritmalar",
+    "aciklama": "doğal seçilim, mutasyon ve çaprazlama mekanizmalarını taklit ederek en uygun çözümü arayan evrimsel optimizasyon tekniği.",
+    "yasakli_kelimeler": [
+      "kromozom",
+      "mutasyon",
+      "çaprazlama",
+      "uygunluk",
+      "doğal seçilim"
+    ]
+  },
+  {
+    "id": 88,
+    "kategori": "yapayzeka",
+    "kelime": "simüle edilmiş tavlama",
+    "aciklama": "metallerin ısıtılıp yavaşça soğutulması sürecinden esinlenerek yerel minimumlardan kaçmayı sağlayan olasılıksal arama tekniği.",
+    "yasakli_kelimeler": [
+      "soğutma",
+      "sıcaklık",
+      "yerel minimum",
+      "optimizasyon",
+      "metal"
+    ]
+  },
+  {
+    "id": 89,
+    "kategori": "yapayzeka",
+    "kelime": "derin sahte",
+    "aciklama": "derin öğrenme algoritmalarıyla bir kişinin yüzünü veya sesini başka bir videoya inandırıcı biçimde monte etme teknolojisi.",
+    "yasakli_kelimeler": [
+      "deepfake",
+      "yüz değiştirme",
+      "video",
+      "sahte",
+      "montaj"
+    ]
+  },
+  {
+    "id": 90,
+    "kategori": "yapayzeka",
+    "kelime": "bağlamsal pencere",
+    "aciklama": "bir büyük dil modelinin tek bir seferde girdi ve çıktı olarak aklında tutabildiği maksimum belirteç kapasitesi.",
+    "yasakli_kelimeler": [
+      "hafıza",
+      "belirteç",
+      "uzunluk",
+      "kapasite",
+      "metin"
+    ]
+  },
+  {
+    "id": 91,
+    "kategori": "yapayzeka",
+    "kelime": "sıfır atışlı öğrenme",
+    "aciklama": "modelin eğitim sırasında daha önce hiç görmediği yepyeni bir sınıfı sadece açıklamalara bakarak doğru tahmin edebilmesi.",
+    "yasakli_kelimeler": [
+      "örneksiz",
+      "tahmin",
+      "görmediği",
+      "tanıma",
+      "açıklama"
+    ]
+  },
+  {
+    "id": 92,
+    "kategori": "yapayzeka",
+    "kelime": "az atışlı öğrenme",
+    "aciklama": "modele sadece birkaç kılavuz örnek gösterilerek yeni bir görevi hızla kavramasını sağlama yöntemi.",
+    "yasakli_kelimeler": [
+      "örnek",
+      "hızlı",
+      "ipucu",
+      "kavrama",
+      "az veri"
+    ]
+  },
+  {
+    "id": 93,
+    "kategori": "yapayzeka",
+    "kelime": "zincirleme düşünce istemi",
+    "aciklama": "büyük dil modeline nihai yanıttan önce ara mantık adımlarını adım adım yazdırmayı sağlayan istem tekniği.",
+    "yasakli_kelimeler": [
+      "adım adım",
+      "mantık",
+      "akıl yürütme",
+      "ara çözüm",
+      "çıkarım"
+    ]
+  },
+  {
+    "id": 94,
+    "kategori": "yapayzeka",
+    "kelime": "çok modlu yapay zeka",
+    "aciklama": "metin, ses, görüntü ve video gibi birden çok farklı veri biçimini aynı anda anlayıp birlikte işleyebilen sistem.",
+    "yasakli_kelimeler": [
+      "multimodal",
+      "görüntü",
+      "ses",
+      "metin",
+      "birleşik"
+    ]
+  },
+  {
+    "id": 95,
+    "kategori": "yapayzeka",
+    "kelime": "özellik haritası",
+    "aciklama": "evrişimli sinir ağlarında filtrelerin giriş görseli üzerinde gezdirilmesi sonucu ortaya çıkan aktivasyon matrisi.",
+    "yasakli_kelimeler": [
+      "filtre",
+      "evrişim",
+      "matris",
+      "aktivasyon",
+      "katman"
+    ]
+  },
+  {
+    "id": 96,
+    "kategori": "yapayzeka",
+    "kelime": "yapay zeka güvenliği",
+    "aciklama": "otonom yapay zeka sistemlerinin insanlığa zarar vermesini önlemek ve kontrol altında tutmak için geliştirilen araştırma alanı.",
+    "yasakli_kelimeler": [
+      "risk",
+      "kontrol",
+      "tehdit",
+      "insanlık",
+      "etik"
+    ]
+  },
+  {
+    "id": 97,
+    "kategori": "yapayzeka",
+    "kelime": "optimizasyon",
+    "aciklama": "bir hedef fonksiyonun değerini en aza veya en yükseğe çıkarmak için parametrelerin matematiksel yöntemlerle iyileştirilmesi süreci.",
+    "yasakli_kelimeler": [
+      "en iyileme",
+      "parametre",
+      "hedef",
+      "maksimum",
+      "minimum"
+    ]
+  },
+  {
+    "id": 98,
+    "kategori": "yapayzeka",
+    "kelime": "öznitelik",
+    "aciklama": "gözlemlenen bir varlığın makine öğrenmesi modeline girdi olarak sağlanan ölçülebilir bireysel özelliği.",
+    "yasakli_kelimeler": [
+      "feature",
+      "nitelik",
+      "girdi",
+      "değişken",
+      "kolon"
+    ]
+  },
+  {
+    "id": 99,
+    "kategori": "yapayzeka",
+    "kelime": "yapay zeka önyargısı",
+    "aciklama": "eğitim verilerindeki insan yanlılıklarının algoritmalar tarafından öğrenilerek adil olmayan kararlar üretilmesi durumu.",
+    "yasakli_kelimeler": [
+      "taraflılık",
+      "ayrımcılık",
+      "adalet",
+      "eğitim verisi",
+      "yanlılık"
+    ]
+  },
+  {
+    "id": 100,
+    "kategori": "yapayzeka",
+    "kelime": "hesaplamalı sinirbilim",
+    "aciklama": "biyolojik beyin fonksiyonlarını matematiksel modeller ve bilgisayar simülasyonları kullanarak inceleyen disiplin.",
+    "yasakli_kelimeler": [
+      "beyin",
+      "biyoloji",
+      "simülasyon",
+      "sinir",
+      "hesaplama"
+    ]
+  }
+]

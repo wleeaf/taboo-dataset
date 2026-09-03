@@ -1,0 +1,1302 @@
+[
+  {
+    "id": 1,
+    "kategori": "optik",
+    "kelime": "kırılma",
+    "aciklama": "ışık dalgasının farklı bir optik yoğunluğa sahip ortama geçerken yayılma doğrultusunu değiştirmesi.",
+    "yasakli_kelimeler": [
+      "ışık",
+      "ortam",
+      "snell",
+      "açı",
+      "hız"
+    ]
+  },
+  {
+    "id": 2,
+    "kategori": "optik",
+    "kelime": "yansıma",
+    "aciklama": "ışık ışınlarının bir yüzeye çarparak geldiği ortama geri dönmesi olayı.",
+    "yasakli_kelimeler": [
+      "ayna",
+      "yüzey",
+      "açı",
+      "ışın",
+      "dönüş"
+    ]
+  },
+  {
+    "id": 3,
+    "kategori": "optik",
+    "kelime": "kırınım",
+    "aciklama": "ışık dalgalarının küçük bir yarık veya engelin kenarından geçerken bükülmesi ve saçılması olayı.",
+    "yasakli_kelimeler": [
+      "difraksiyon",
+      "dalga",
+      "yarık",
+      "bükülme",
+      "engel"
+    ]
+  },
+  {
+    "id": 4,
+    "kategori": "optik",
+    "kelime": "girişim",
+    "aciklama": "iki veya daha fazla koherent ışık dalgasının üst üste binerek birbirini güçlendirmesi veya sönümlemesi.",
+    "yasakli_kelimeler": [
+      "interferans",
+      "dalga",
+      "çift yarık",
+      "saçak",
+      "koherent"
+    ]
+  },
+  {
+    "id": 5,
+    "kategori": "optik",
+    "kelime": "polarizasyon",
+    "aciklama": "ışık dalgasının salınım yönlerinin belirli bir düzlemle sınırlandırılması veya filtrelenmesi.",
+    "yasakli_kelimeler": [
+      "kutuplanma",
+      "düzlem",
+      "filtre",
+      "elektrik alan",
+      "dalga"
+    ]
+  },
+  {
+    "id": 6,
+    "kategori": "optik",
+    "kelime": "kırılma indisi",
+    "aciklama": "ışığın boşluktaki hızının belirli bir ortamdaki faz hızına oranını gösteren optik katsayı.",
+    "yasakli_kelimeler": [
+      "hız",
+      "ışık",
+      "boşluk",
+      "n",
+      "yoğunluk"
+    ]
+  },
+  {
+    "id": 7,
+    "kategori": "optik",
+    "kelime": "snell yasası",
+    "aciklama": "farklı kırılma indislerine sahip iki ortamın sınırında geliş ve kırılma açılarının sinüsleri arasındaki bağıntı.",
+    "yasakli_kelimeler": [
+      "sinüs",
+      "açı",
+      "kırılma",
+      "indis",
+      "formül"
+    ]
+  },
+  {
+    "id": 8,
+    "kategori": "optik",
+    "kelime": "tam iç yansıma",
+    "aciklama": "ışığın yoğun ortamdan az yoğun ortama geçerken kritik açıdan büyük açıyla gelmesi sonucu tamamen geri yansıması.",
+    "yasakli_kelimeler": [
+      "kritik açı",
+      "fiber",
+      "yansıma",
+      "yoğunluk",
+      "ışık"
+    ]
+  },
+  {
+    "id": 9,
+    "kategori": "optik",
+    "kelime": "kritik açı",
+    "aciklama": "kırılma açısının doksan derece olduğu ve tam iç yansımanın başladığı geliş açısı eşiği.",
+    "yasakli_kelimeler": [
+      "tam yansıma",
+      "açı",
+      "doksan derece",
+      "sınır",
+      "kırılma"
+    ]
+  },
+  {
+    "id": 10,
+    "kategori": "optik",
+    "kelime": "brewster açısı",
+    "aciklama": "yansıyan ışığın tamamen lineer polarize olduğu ve yansıyan ile kırılan ışınların birbirine dik açıda bulunduğu geliş açısı.",
+    "yasakli_kelimeler": [
+      "polarizasyon",
+      "açı",
+      "yansıma",
+      "dik",
+      "parlama"
+    ]
+  },
+  {
+    "id": 11,
+    "kategori": "optik",
+    "kelime": "dispersiyon",
+    "aciklama": "farklı dalga boylarındaki ışığın bir ortamda farklı hızlarla ilerlemesi sonucu renklerine ayrışması.",
+    "yasakli_kelimeler": [
+      "prizma",
+      "dalga boyu",
+      "renk",
+      "ayrılma",
+      "kırılma"
+    ]
+  },
+  {
+    "id": 12,
+    "kategori": "optik",
+    "kelime": "mercek",
+    "aciklama": "ışığı kırarak bir noktada odaklayan veya ıraksatan en az bir yüzeyi küresel şeffaf optik araç.",
+    "yasakli_kelimeler": [
+      "odak",
+      "cam",
+      "ince kenarlı",
+      "kalın kenarlı",
+      "ışık"
+    ]
+  },
+  {
+    "id": 13,
+    "kategori": "optik",
+    "kelime": "odak noktası",
+    "aciklama": "optik bir sisteme paralel gelen ışınların kırıldıktan veya yansıdıktan sonra kesiştiği tekil nokta.",
+    "yasakli_kelimeler": [
+      "mercek",
+      "ayna",
+      "kesişim",
+      "ışın",
+      "f"
+    ]
+  },
+  {
+    "id": 14,
+    "kategori": "optik",
+    "kelime": "odak uzaklığı",
+    "aciklama": "optik merkezin veya tepe noktasının ana odak noktasına olan geometrik mesafesi.",
+    "yasakli_kelimeler": [
+      "f",
+      "mesafe",
+      "mercek",
+      "ayna",
+      "uzaklık"
+    ]
+  },
+  {
+    "id": 15,
+    "kategori": "optik",
+    "kelime": "diyoptri",
+    "aciklama": "bir merceğin veya optik sistemin kırma gücünü ifade eden ve odak uzaklığının metre cinsinden tersi olan birim.",
+    "yasakli_kelimeler": [
+      "kırma gücü",
+      "gözlük",
+      "numara",
+      "odak",
+      "birim"
+    ]
+  },
+  {
+    "id": 16,
+    "kategori": "optik",
+    "kelime": "çukur ayna",
+    "aciklama": "yansıtıcı yüzeyi içe doğru kavisli olan ve üzerine paralel gelen ışınları odak noktasında toplayan ayna türü.",
+    "yasakli_kelimeler": [
+      "içbükey",
+      "ayna",
+      "odak",
+      "yansıma",
+      "büyütme"
+    ]
+  },
+  {
+    "id": 17,
+    "kategori": "optik",
+    "kelime": "tümsek ayna",
+    "aciklama": "yansıtıcı yüzeyi dışa doğru kavisli olan ve paralel ışınları dağıtarak geniş bir görüş alanı sunan ayna türü.",
+    "yasakli_kelimeler": [
+      "dışbükey",
+      "ayna",
+      "dağıtma",
+      "küçük",
+      "görüş alanı"
+    ]
+  },
+  {
+    "id": 18,
+    "kategori": "optik",
+    "kelime": "küresel aberasyon",
+    "aciklama": "küresel mercek veya aynaların kenarlarından geçen ışınların merkeze yakın ışınlarla aynı noktada odaklanamaması kusuru.",
+    "yasakli_kelimeler": [
+      "sapınç",
+      "bulanıklık",
+      "kusur",
+      "kenar",
+      "odak"
+    ]
+  },
+  {
+    "id": 19,
+    "kategori": "optik",
+    "kelime": "kromatik aberasyon",
+    "aciklama": "merceklerin farklı dalga boyundaki ışıkları farklı katsayılarla kırarak renkli ve belirsiz odaklar oluşturması kusuru.",
+    "yasakli_kelimeler": [
+      "renk",
+      "sapınç",
+      "mercek",
+      "dalga boyu",
+      "akromatik"
+    ]
+  },
+  {
+    "id": 20,
+    "kategori": "optik",
+    "kelime": "astigmatizma",
+    "aciklama": "optik bir sistemin farklı meridyenlerdeki ışınları farklı odak uzaklıklarında toplaması sonucu oluşan görüntü bozulması.",
+    "yasakli_kelimeler": [
+      "göz",
+      "kusur",
+      "mercek",
+      "bulanık",
+      "meridyen"
+    ]
+  },
+  {
+    "id": 21,
+    "kategori": "optik",
+    "kelime": "koma",
+    "aciklama": "optik eksen dışından gelen ışınların kuyruklu yıldız benzeri asimetrik leke şeklinde odaklanmasına yol açan sapınç türü.",
+    "yasakli_kelimeler": [
+      "sapınç",
+      "kuyruklu yıldız",
+      "asimetrik",
+      "eksen dışı",
+      "leke"
+    ]
+  },
+  {
+    "id": 22,
+    "kategori": "optik",
+    "kelime": "akromatik dublet",
+    "aciklama": "farklı optik özelliklere sahip iki cam merceğin birleştirilmesiyle renk sapıncının düzeltildiği mercek sistemi.",
+    "yasakli_kelimeler": [
+      "mercek",
+      "çift",
+      "düzeltme",
+      "renk sapıncı",
+      "cam"
+    ]
+  },
+  {
+    "id": 23,
+    "kategori": "optik",
+    "kelime": "fresnel merceği",
+    "aciklama": "ağırlık ve kalınlığı azaltmak için iç içe geçmiş eşmerkezli halkasal yüzeyler şeklinde tasarlanmış ince mercek.",
+    "yasakli_kelimeler": [
+      "fener",
+      "halka",
+      "ince",
+      "basamak",
+      "mercek"
+    ]
+  },
+  {
+    "id": 24,
+    "kategori": "optik",
+    "kelime": "çift kırılma",
+    "aciklama": "anizotropik bir kristale giren ışının iki farklı yönde kutuplanmış ve farklı indislerle kırılan iki ışına ayrılması.",
+    "yasakli_kelimeler": [
+      "kalsit",
+      "kristal",
+      "çift görüntü",
+      "anizotrop",
+      "ışın"
+    ]
+  },
+  {
+    "id": 25,
+    "kategori": "optik",
+    "kelime": "fiber optik",
+    "aciklama": "ışık sinyallerini tam iç yansıma prensibiyle cam veya plastik çekirdek boyunca ileten kablo teknolojisi.",
+    "yasakli_kelimeler": [
+      "kablo",
+      "tam yansıma",
+      "cam",
+      "iletişim",
+      "çekirdek"
+    ]
+  },
+  {
+    "id": 26,
+    "kategori": "optik",
+    "kelime": "sayısal açıklık",
+    "aciklama": "bir optik sistemin ışığı toplama veya yayma yeteneğini belirleyen kabul konisinin açısını temsil eden boyutsuz sayı.",
+    "yasakli_kelimeler": [
+      "açıklık",
+      "açı",
+      "mercek",
+      "fiber",
+      "çözünürlük"
+    ]
+  },
+  {
+    "id": 27,
+    "kategori": "optik",
+    "kelime": "çözünürlük gücü",
+    "aciklama": "bir optik aygıtın birbirine çok yakın iki ayrı noktayı ayırt edebilme kabiliyeti.",
+    "yasakli_kelimeler": [
+      "rayleigh",
+      "ayırma",
+      "mikroskop",
+      "detay",
+      "kriter"
+    ]
+  },
+  {
+    "id": 28,
+    "kategori": "optik",
+    "kelime": "rayleigh kriteri",
+    "aciklama": "bir optik sistemde iki noktasal kaynağın ayırt edilebilmesi için birinin kırınım tepe noktasının diğerinin ilk çukuruna denk gelmesi şartı.",
+    "yasakli_kelimeler": [
+      "kriter",
+      "çözünürlük",
+      "kırınım",
+      "ayırt etme",
+      "mercek"
+    ]
+  },
+  {
+    "id": 29,
+    "kategori": "optik",
+    "kelime": "airy diski",
+    "aciklama": "dairesel bir açıklıktan geçen ışığın oluşturduğu kırınım deseni merkezindeki parlak dairesel leke.",
+    "yasakli_kelimeler": [
+      "kırınım",
+      "daire",
+      "leke",
+      "açıklık",
+      "desen"
+    ]
+  },
+  {
+    "id": 30,
+    "kategori": "optik",
+    "kelime": "koherans",
+    "aciklama": "ışık dalgalarının frekans, faz ve dalga boyu bakımından birbirleriyle mükemmel uyum içinde olması durumu.",
+    "yasakli_kelimeler": [
+      "faz",
+      "lazer",
+      "dalga",
+      "uyum",
+      "girişim"
+    ]
+  },
+  {
+    "id": 31,
+    "kategori": "optik",
+    "kelime": "lazer",
+    "aciklama": "uyarılmış ışıma yayımı yoluyla yüksek derecede koherent, tek renkli ve yönlü ışık demeti üreten kaynak.",
+    "yasakli_kelimeler": [
+      "ışın",
+      "koherent",
+      "monokromatik",
+      "uyarılmış ışıma",
+      "foton"
+    ]
+  },
+  {
+    "id": 32,
+    "kategori": "optik",
+    "kelime": "uyarılmış ışıma",
+    "aciklama": "uyarılmış haldeki bir atomun gelen bir fotonun tetiklemesiyle aynı faz ve enerjide özdeş bir foton yayması.",
+    "yasakli_kelimeler": [
+      "foton",
+      "lazer",
+      "atom",
+      "tetikleme",
+      "yayım"
+    ]
+  },
+  {
+    "id": 33,
+    "kategori": "optik",
+    "kelime": "nüfus terselmesi",
+    "aciklama": "bir lazer ortamında yüksek enerji seviyesindeki atom sayısının alt seviyedekilerden fazla olması zorunluluğu.",
+    "yasakli_kelimeler": [
+      "popülasyon",
+      "enerji",
+      "seviye",
+      "lazer",
+      "atom"
+    ]
+  },
+  {
+    "id": 34,
+    "kategori": "optik",
+    "kelime": "optik rezonatör",
+    "aciklama": "lazer ortamını çevreleyen ve ışığın fotonlarını tekrar tekrar ortama yansıtarak yükseltilmesini sağlayan iki ayna sistemi.",
+    "yasakli_kelimeler": [
+      "kavite",
+      "ayna",
+      "yansıtma",
+      "lazer",
+      "yükseltme"
+    ]
+  },
+  {
+    "id": 35,
+    "kategori": "optik",
+    "kelime": "holografi",
+    "aciklama": "ışığın girişim ve kırınım prensiplerini kullanarak nesnelerin üç boyutlu optik kaydını oluşturan teknoloji.",
+    "yasakli_kelimeler": [
+      "üç boyut",
+      "girişim",
+      "kayıt",
+      "lazer",
+      "görüntü"
+    ]
+  },
+  {
+    "id": 36,
+    "kategori": "optik",
+    "kelime": "hologram",
+    "aciklama": "koherent ışıkla kaydedilen girişim deseninin aydınlatılmasıyla gerçeğe uygun üç boyutlu dalga cephesini yeniden üreten desen.",
+    "yasakli_kelimeler": [
+      "üç boyut",
+      "plaka",
+      "desen",
+      "dalga cephesi",
+      "film"
+    ]
+  },
+  {
+    "id": 37,
+    "kategori": "optik",
+    "kelime": "michelson interferometresi",
+    "aciklama": "tek bir ışık demetini iki kola ayırıp tekrar birleştirerek dalga boyu veya mesafeleri hassasça ölçen optik cihaz.",
+    "yasakli_kelimeler": [
+      "interferometre",
+      "ışın bölücü",
+      "girişim",
+      "ayna",
+      "saçak"
+    ]
+  },
+  {
+    "id": 38,
+    "kategori": "optik",
+    "kelime": "mach-zehnder interferometresi",
+    "aciklama": "iki ayrı ışın bölücü ve iki ayna kullanarak bağımsız referans ve örnek yolları oluşturan optik girişimölçer.",
+    "yasakli_kelimeler": [
+      "interferometre",
+      "ışın bölücü",
+      "yol",
+      "faz farkı",
+      "ölçüm"
+    ]
+  },
+  {
+    "id": 39,
+    "kategori": "optik",
+    "kelime": "fabry-perot interferometresi",
+    "aciklama": "aralarında paralel iki yarı yansıtıcı yüzey bulunan ve çoklu yansımalı optik rezonans oluşturan dar bantlı filtre aygıtı.",
+    "yasakli_kelimeler": [
+      "kavite",
+      "yarı yansıtıcı",
+      "çoklu yansıma",
+      "spektroskopi",
+      "filtre"
+    ]
+  },
+  {
+    "id": 40,
+    "kategori": "optik",
+    "kelime": "newton halkaları",
+    "aciklama": "düzlemsel bir cam üzerine konan dışbükey mercek arasındaki değişken kalınlıktaki hava filminde oluşan dairesel girişim saçakları.",
+    "yasakli_kelimeler": [
+      "halka",
+      "mercek",
+      "girişim",
+      "hava tabakası",
+      "saçak"
+    ]
+  },
+  {
+    "id": 41,
+    "kategori": "optik",
+    "kelime": "monokromatör",
+    "aciklama": "geniş spektrumlu bir ışıktan mekanik olarak prizma veya ızgara yardımıyla yalnızca çok dar bir dalga boyu aralığını seçen aygıt.",
+    "yasakli_kelimeler": [
+      "tek renk",
+      "dalga boyu",
+      "seçici",
+      "ızgara",
+      "spektrometre"
+    ]
+  },
+  {
+    "id": 42,
+    "kategori": "optik",
+    "kelime": "kırınım ızgarası",
+    "aciklama": "üzerinde birbirine çok yakın paralel çizgiler veya yarıklar bulunan ve ışığı dalga boylarına göre saptıran optik plaka.",
+    "yasakli_kelimeler": [
+      "çizgi",
+      "ızgara",
+      "dalga boyu",
+      "spektrum",
+      "ayrışma"
+    ]
+  },
+  {
+    "id": 43,
+    "kategori": "optik",
+    "kelime": "fresnel kırınımı",
+    "aciklama": "ışık kaynağının veya gözlem ekranının kırınım oluşturan yarığa sonlu bir mesafede bulunduğu yakın alan kırınımı.",
+    "yasakli_kelimeler": [
+      "yakın alan",
+      "kırınım",
+      "yarık",
+      "sonlu mesafe",
+      "dalga cephesi"
+    ]
+  },
+  {
+    "id": 44,
+    "kategori": "optik",
+    "kelime": "fraunhofer kırınımı",
+    "aciklama": "ışık kaynağının ve gözlem ekranının engelden sonsuz uzakta veya mercek odak düzleminde kabul edildiği uzak alan kırınımı.",
+    "yasakli_kelimeler": [
+      "uzak alan",
+      "paralel ışın",
+      "kırınım",
+      "ekran",
+      "sonsuz"
+    ]
+  },
+  {
+    "id": 45,
+    "kategori": "optik",
+    "kelime": "dalga cephesi",
+    "aciklama": "uzayda aynı anda aynı salınım fazına sahip tüm komşu noktaların oluşturduğu varsayımsal yüzey.",
+    "yasakli_kelimeler": [
+      "faz",
+      "yüzey",
+      "huygens",
+      "yayılma",
+      "dalga"
+    ]
+  },
+  {
+    "id": 46,
+    "kategori": "optik",
+    "kelime": "huygens-fresnel ilkesi",
+    "aciklama": "bir dalga cephesindeki her noktanın ikincil küresel dalgacıklar kaynağı olarak davrandığını öne süren dalga yayılım modeli.",
+    "yasakli_kelimeler": [
+      "dalgacık",
+      "ikincil",
+      "yayılma",
+      "zarf",
+      "teori"
+    ]
+  },
+  {
+    "id": 47,
+    "kategori": "optik",
+    "kelime": "fermat ilkesi",
+    "aciklama": "ışığın iki nokta arasında seyahat ederken her zaman en kısa süreyi gerektiren optik yolu izlediğini belirten optik kural.",
+    "yasakli_kelimeler": [
+      "en kısa zaman",
+      "optik yol",
+      "ışık",
+      "ilke",
+      "varyasyon"
+    ]
+  },
+  {
+    "id": 48,
+    "kategori": "optik",
+    "kelime": "optik yol uzunluğu",
+    "aciklama": "ışığın bir ortamda katettiği geometrik mesafenin ortamın kırılma indisi ile çarpımı sonucu elde edilen eşdeğer boşluk mesafesi.",
+    "yasakli_kelimeler": [
+      "indis",
+      "geometrik",
+      "mesafe",
+      "faz",
+      "boşluk"
+    ]
+  },
+  {
+    "id": 49,
+    "kategori": "optik",
+    "kelime": "polarizör",
+    "aciklama": "doğal veya polarize olmamış ışıktan sadece belirli bir eksende salınan dalgaları geçirerek polarize ışık üreten filtre.",
+    "yasakli_kelimeler": [
+      "filtre",
+      "polarizasyon",
+      "kutuplanma",
+      "ışık",
+      "geçirme"
+    ]
+  },
+  {
+    "id": 50,
+    "kategori": "optik",
+    "kelime": "dalga plakası",
+    "aciklama": "dik polarizasyon bileşenleri arasında kontrollü faz farkı oluşturarak ışığın polarizasyon durumunu değiştiren kristal levha.",
+    "yasakli_kelimeler": [
+      "gecikme",
+      "çeyrek dalga",
+      "faz",
+      "kristal",
+      "yarım dalga"
+    ]
+  },
+  {
+    "id": 51,
+    "kategori": "optik",
+    "kelime": "çeyrek dalga plakası",
+    "aciklama": "birbirine dik iki optik eksen arasında doksan derecelik faz farkı yaratarak doğrusal ışığı dairesel polarize ışığa çeviren levha.",
+    "yasakli_kelimeler": [
+      "dairesel",
+      "gecikme",
+      "pi bölü iki",
+      "faz farkı",
+      "plaka"
+    ]
+  },
+  {
+    "id": 52,
+    "kategori": "optik",
+    "kelime": "yarım dalga plakası",
+    "aciklama": "dik polarizasyon bileşenleri arasında yüz seksen derecelik faz farkı oluşturarak doğrusal polarizasyon eksenini döndüren optik bileşen.",
+    "yasakli_kelimeler": [
+      "döndürme",
+      "yüz seksen",
+      "pi",
+      "gecikme",
+      "polarizasyon"
+    ]
+  },
+  {
+    "id": 53,
+    "kategori": "optik",
+    "kelime": "dairesel polarizasyon",
+    "aciklama": "ışık dalgasının elektrik alan vektörünün yayılma yönü etrafında sabit bir genlikle dairesel olarak döndüğü kutuplanma türü.",
+    "yasakli_kelimeler": [
+      "dönme",
+      "elektrik alan",
+      "vektör",
+      "helis",
+      "açısal momentum"
+    ]
+  },
+  {
+    "id": 54,
+    "kategori": "optik",
+    "kelime": "eliptik polarizasyon",
+    "aciklama": "elektrik alan vektörünün yayılma ekseni dikinde bir elips çizecek şekilde genlik ve yön değiştirdiği genel kutuplanma hali.",
+    "yasakli_kelimeler": [
+      "elips",
+      "elektrik alan",
+      "polarizasyon",
+      "vektör",
+      "genlik"
+    ]
+  },
+  {
+    "id": 55,
+    "kategori": "optik",
+    "kelime": "doğrusal polarizasyon",
+    "aciklama": "ışığın elektrik alan vektörünün yayılma boyunca tek bir sabit düzlem üzerinde salındığı optik durum.",
+    "yasakli_kelimeler": [
+      "düzlem",
+      "salınım",
+      "çizgisel",
+      "vektör",
+      "tek boyut"
+    ]
+  },
+  {
+    "id": 56,
+    "kategori": "optik",
+    "kelime": "malus yasası",
+    "aciklama": "bir polarizörden geçen polarize ışığın iletilen şiddetinin iletim eksenleri arasındaki açının kosinüs karesiyle orantılı olduğunu veren kural.",
+    "yasakli_kelimeler": [
+      "şiddet",
+      "kosinüs kare",
+      "polarizör",
+      "analizör",
+      "açı"
+    ]
+  },
+  {
+    "id": 57,
+    "kategori": "optik",
+    "kelime": "optik aktivite",
+    "aciklama": "kiral moleküller içeren bazı maddelerin içinden geçen doğrusal polarize ışığın kutuplanma düzlemini döndürebilme yeteneği.",
+    "yasakli_kelimeler": [
+      "kiralite",
+      "düzlem",
+      "döndürme",
+      "polarimetre",
+      "şeker"
+    ]
+  },
+  {
+    "id": 58,
+    "kategori": "optik",
+    "kelime": "polarimetre",
+    "aciklama": "optik olarak aktif bir çözeltinin doğrusal polarize ışığı kaç derece döndürdüğünü ölçerek derişim saptayan alet.",
+    "yasakli_kelimeler": [
+      "ölçüm",
+      "dönme açısı",
+      "optik aktivite",
+      "derişim",
+      "çözelti"
+    ]
+  },
+  {
+    "id": 59,
+    "kategori": "optik",
+    "kelime": "kerr etkisi",
+    "aciklama": "dışarıdan uygulanan güçlü bir statik elektrik alan etkisiyle izotropik bir maddede elektrik alanın karesiyle orantılı çift kırılma oluşması.",
+    "yasakli_kelimeler": [
+      "elektrik alan",
+      "çift kırılma",
+      "hücre",
+      "kare",
+      "anizotropi"
+    ]
+  },
+  {
+    "id": 60,
+    "kategori": "optik",
+    "kelime": "pockels etkisi",
+    "aciklama": "uygulanan elektrik alan şiddetiyle doğru orantılı olarak bazı kristallerde doğrusal çift kırılma meydana gelmesi olayı.",
+    "yasakli_kelimeler": [
+      "elektro-optik",
+      "doğrusal",
+      "elektrik alan",
+      "kristal",
+      "modülatör"
+    ]
+  },
+  {
+    "id": 61,
+    "kategori": "optik",
+    "kelime": "faraday etkisi",
+    "aciklama": "manyetik alana maruz bırakılan bir dielektrik ortamdan geçen ışığın polarizasyon düzleminin manyetik alan yönünde dönmesi.",
+    "yasakli_kelimeler": [
+      "manyetik alan",
+      "manyeto-optik",
+      "döndürme",
+      "polarizasyon",
+      "izolatör"
+    ]
+  },
+  {
+    "id": 62,
+    "kategori": "optik",
+    "kelime": "fotonik kristal",
+    "aciklama": "kırılma indisi dalga boyu ölçeğinde periyodik olarak değişen ve belirli ışık frekanslarının geçişini engelleyen yapay yapılar.",
+    "yasakli_kelimeler": [
+      "yasak bant",
+      "periyodik",
+      "kırılma indisi",
+      "foton",
+      "dalga boyu"
+    ]
+  },
+  {
+    "id": 63,
+    "kategori": "optik",
+    "kelime": "fotonik bant aralığı",
+    "aciklama": "fotonik kristallerde fotonların yapı içinde hiçbir doğrultuda yayılamadığı yasaklı enerji veya frekans bölgesi.",
+    "yasakli_kelimeler": [
+      "yasak bölge",
+      "frekans",
+      "enerji",
+      "yayılma",
+      "durma"
+    ]
+  },
+  {
+    "id": 64,
+    "kategori": "optik",
+    "kelime": "yansıma önleyici kaplama",
+    "aciklama": "mercek yüzeyine uygulanan ve yıkıcı girişim yoluyla ışık kaybını önleyip geçirgenliği artıran çok ince dielektrik film.",
+    "yasakli_kelimeler": [
+      "kaplama",
+      "mercek",
+      "girişim",
+      "parlama",
+      "geçirgenlik"
+    ]
+  },
+  {
+    "id": 65,
+    "kategori": "optik",
+    "kelime": "dikroik filtre",
+    "aciklama": "belirli dalga boylarındaki ışığı geçirirken diğer dalga boylarını yüksek hassasiyetle yansıtan çok katmanlı ince film filtresi.",
+    "yasakli_kelimeler": [
+      "renk",
+      "ince film",
+      "ayırıcı",
+      "seçici",
+      "yansıtıcı"
+    ]
+  },
+  {
+    "id": 66,
+    "kategori": "optik",
+    "kelime": "ışın bölücü",
+    "aciklama": "üzerine gelen tek bir ışık demetini belirli bir oranda yansıyan ve iletilen iki ayrı ışına ayıran optik prizma veya ayna.",
+    "yasakli_kelimeler": [
+      "küp",
+      "kısmi yansıma",
+      "ayırıcı",
+      "demet",
+      "interferometre"
+    ]
+  },
+  {
+    "id": 67,
+    "kategori": "optik",
+    "kelime": "akromatik mercek",
+    "aciklama": "iki farklı dalga boyundaki ışığı aynı odak noktasında buluşturacak şekilde tasarlanarak kromatik sapıncı azaltılmış mercek.",
+    "yasakli_kelimeler": [
+      "renk sapıncı",
+      "çift mercek",
+      "kron camı",
+      "flint camı",
+      "odak"
+    ]
+  },
+  {
+    "id": 68,
+    "kategori": "optik",
+    "kelime": "apokromat",
+    "aciklama": "üç farklı dalga boyundaki ışığı aynı odakta toplayabilen ve küresel sapınçları ileri düzeyde düzelten en gelişmiş mercek türü.",
+    "yasakli_kelimeler": [
+      "üç dalga boyu",
+      "düzeltme",
+      "lens",
+      "üst düzey",
+      "kromatik"
+    ]
+  },
+  {
+    "id": 69,
+    "kategori": "optik",
+    "kelime": "mikroskop objektifi",
+    "aciklama": "incelenen numuneden gelen ışığı toplayarak büyütülmüş ilk gerçek ara görüntüyü oluşturan yüksek güçlü optik sistem.",
+    "yasakli_kelimeler": [
+      "büyütme",
+      "mercek",
+      "numune",
+      "oküler",
+      "mikroskop"
+    ]
+  },
+  {
+    "id": 70,
+    "kategori": "optik",
+    "kelime": "oküler",
+    "aciklama": "mikroskop veya teleskopta objektifin oluşturduğu ara görüntüyü gözün incelemesi için daha da büyüten göz merceği.",
+    "yasakli_kelimeler": [
+      "göz merceği",
+      "bakma",
+      "teleskop",
+      "mikroskop",
+      "büyütme"
+    ]
+  },
+  {
+    "id": 71,
+    "kategori": "optik",
+    "kelime": "kolimatör",
+    "aciklama": "noktasal bir kaynaktan gelen ıraksak ışınları paralel bir ışık demeti haline getiren optik tüp veya mercek düzeneği.",
+    "yasakli_kelimeler": [
+      "paralel demet",
+      "odak",
+      "ışın",
+      "düzenleme",
+      "tüp"
+    ]
+  },
+  {
+    "id": 72,
+    "kategori": "optik",
+    "kelime": "spektrometre",
+    "aciklama": "ışığın farklı dalga boylarındaki şiddet dağılımını ölçerek maddelerin spektral analizini yapan optik aygıt.",
+    "yasakli_kelimeler": [
+      "spektrum",
+      "dalga boyu",
+      "analiz",
+      "şiddet",
+      "ölçüm"
+    ]
+  },
+  {
+    "id": 73,
+    "kategori": "optik",
+    "kelime": "dalga kılavuzu",
+    "aciklama": "optik frekanslardaki elektromanyetik dalgaları belirli bir yol veya kanalda sınırlandırarak yönlendiren yapı.",
+    "yasakli_kelimeler": [
+      "kanal",
+      "kılavuz",
+      "mod",
+      "sınırlandırma",
+      "yayılma"
+    ]
+  },
+  {
+    "id": 74,
+    "kategori": "optik",
+    "kelime": "avanik alan",
+    "aciklama": "tam iç yansıma sırasında az yoğun ortamın içine doğru genliği üssel olarak sönen yayılmayan elektromanyetik alan.",
+    "yasakli_kelimeler": [
+      "sönen dalga",
+      "tam yansıma",
+      "arayüzey",
+      "üstel",
+      "alan"
+    ]
+  },
+  {
+    "id": 75,
+    "kategori": "optik",
+    "kelime": "yüzey plazmonu",
+    "aciklama": "metal ve dielektrik arayüzeyinde serbest elektron salınımları ile ışık fotonlarının birleşmesiyle oluşan yüzey dalgası.",
+    "yasakli_kelimeler": [
+      "plazmon rezonansı",
+      "metal",
+      "arayüzey",
+      "elektron",
+      "sensör"
+    ]
+  },
+  {
+    "id": 76,
+    "kategori": "optik",
+    "kelime": "optik cımbız",
+    "aciklama": "odaklanmış güçlü lazer ışınının gradyan kuvvetlerini kullanarak mikroskobik dielektrik parçacıkları temassız yakalayan aygıt.",
+    "yasakli_kelimeler": [
+      "lazer",
+      "yakalama",
+      "mikro parçacık",
+      "gradyan kuvveti",
+      "temassız"
+    ]
+  },
+  {
+    "id": 77,
+    "kategori": "optik",
+    "kelime": "uyarlanabilir optik",
+    "aciklama": "atmosferik türbülansın neden olduğu dalga cephesi bozulmalarını deforme olabilen aynalarla gerçek zamanlı düzelten teknoloji.",
+    "yasakli_kelimeler": [
+      "atmosfer",
+      "türbülans",
+      "ayna",
+      "teleskop",
+      "düzeltme"
+    ]
+  },
+  {
+    "id": 78,
+    "kategori": "optik",
+    "kelime": "konfokal mikroskopi",
+    "aciklama": "odak dışı düzlemlerden gelen ışınları bir iğne deliği açıklığı ile engelleyerek yüksek optik kesit çözünürlüğü sunan mikroskopi.",
+    "yasakli_kelimeler": [
+      "iğne deliği",
+      "kesit",
+      "lazer",
+      "odak dışı",
+      "üç boyut"
+    ]
+  },
+  {
+    "id": 79,
+    "kategori": "optik",
+    "kelime": "fluoresans mikroskobu",
+    "aciklama": "örnekteki florofor molekülleri belirli bir dalga boyunda uyararak yaydıkları daha uzun dalga boyundaki ışıma ile görüntü alan mikroskop.",
+    "yasakli_kelimeler": [
+      "ışıma",
+      "boya",
+      "uyarma",
+      "emisyon",
+      "florofor"
+    ]
+  },
+  {
+    "id": 80,
+    "kategori": "optik",
+    "kelime": "faz kontrast mikroskobu",
+    "aciklama": "saydam biyolojik örneklerden geçen ışığın uğradığı faz kaymalarını parlaklık ve kontrast farklarına dönüştüren mikroskopi.",
+    "yasakli_kelimeler": [
+      "kontrast",
+      "faz farkı",
+      "saydam",
+      "hücre",
+      "zernike"
+    ]
+  },
+  {
+    "id": 81,
+    "kategori": "optik",
+    "kelime": "polarizasyon mikroskobu",
+    "aciklama": "çift kırılma gösteren mineralleri ve biyolojik lifleri polarize ışık kullanarak inceleyen özel mikroskop tekniği.",
+    "yasakli_kelimeler": [
+      "çift kırılma",
+      "polarizör",
+      "anizotrop",
+      "mineral",
+      "lif"
+    ]
+  },
+  {
+    "id": 82,
+    "kategori": "optik",
+    "kelime": "toplam iç yansıma mikroskobu",
+    "aciklama": "avanik alan dalgasını kullanarak yalnızca hücre zarı ve temas yüzeyindeki olayları son derece ince kesitte görüntüleyen teknik.",
+    "yasakli_kelimeler": [
+      "tirf",
+      "avanik alan",
+      "hücre zarı",
+      "ince katman",
+      "yansıma"
+    ]
+  },
+  {
+    "id": 83,
+    "kategori": "optik",
+    "kelime": "stokes kayması",
+    "aciklama": "bir molekülün soğurduğu fotonun dalga boyu ile uyarılma sonrası yaydığı fluoresans fotonun dalga boyu arasındaki enerji farkı.",
+    "yasakli_kelimeler": [
+      "fluoresans",
+      "dalga boyu",
+      "emisyon",
+      "enerji farkı",
+      "soğurma"
+    ]
+  },
+  {
+    "id": 84,
+    "kategori": "optik",
+    "kelime": "optik koherens tomografisi",
+    "aciklama": "düşük koheranslı kızılötesi ışık interferometrisi ile biyolojik dokulardan mikrometre çözünürlüğünde kesit görüntüleri alan yöntem.",
+    "yasakli_kelimeler": [
+      "oct",
+      "göz",
+      "kesit",
+      "retina",
+      "tomografi"
+    ]
+  },
+  {
+    "id": 85,
+    "kategori": "optik",
+    "kelime": "spektral çizgi",
+    "aciklama": "atomik veya moleküler enerji geçişleri sırasında yayılan ya da soğurulan tekil ve ayrık dalga boyu bantları.",
+    "yasakli_kelimeler": [
+      "emisyon",
+      "soğurma",
+      "dalga boyu",
+      "atom",
+      "spektrum"
+    ]
+  },
+  {
+    "id": 86,
+    "kategori": "optik",
+    "kelime": "spektrofotometre",
+    "aciklama": "farklı dalga boylarındaki ışığın bir kimyasal çözelti tarafından ne oranda soğurulduğunu ve geçirildiğini ölçen cihaz.",
+    "yasakli_kelimeler": [
+      "absorbans",
+      "geçirgenlik",
+      "ölçüm",
+      "derişim",
+      "çözelti"
+    ]
+  },
+  {
+    "id": 87,
+    "kategori": "optik",
+    "kelime": "beer-lambert yasası",
+    "aciklama": "bir çözeltinin ışık soğurma miktarının soğurucu maddenin derişimi ve ışığın katettiği optik yol ile doğrusal orantısını veren kural.",
+    "yasakli_kelimeler": [
+      "absorbans",
+      "derişim",
+      "yol uzunluğu",
+      "küvet",
+      "doğrusal"
+    ]
+  },
+  {
+    "id": 88,
+    "kategori": "optik",
+    "kelime": "doğrusal olmayan optik",
+    "aciklama": "yüksek lazer şiddetlerinde ortamın elektriksel kutuplanmasının elektrik alanın üstel kuvvetleriyle değiştiği optik dalı.",
+    "yasakli_kelimeler": [
+      "yüksek şiddet",
+      "lazer",
+      "harmonik",
+      "ikinci harmonik",
+      "doğrusal olmayan"
+    ]
+  },
+  {
+    "id": 89,
+    "kategori": "optik",
+    "kelime": "ikinci harmonik üretimi",
+    "aciklama": "merkezcil simetrisi olmayan bir kristale giren iki fotonun birleşerek tam iki kat frekansta yeni bir foton oluşturması olayı.",
+    "yasakli_kelimeler": [
+      "frekans katlama",
+      "foton",
+      "kristal",
+      "çift frekans",
+      "lazer"
+    ]
+  },
+  {
+    "id": 90,
+    "kategori": "optik",
+    "kelime": "fotonik",
+    "aciklama": "fotonların üretimi, yönlendirilmesi, algılanması ve optik bilgi işleme teknolojilerini kapsayan bilim ve mühendislik dalı.",
+    "yasakli_kelimeler": [
+      "foton",
+      "optik mühendisliği",
+      "ışık",
+      "lazer",
+      "algılama"
+    ]
+  },
+  {
+    "id": 91,
+    "kategori": "optik",
+    "kelime": "mod kilitlenmesi",
+    "aciklama": "bir lazer kavitesindeki tüm salınım modlarının sabit faz ilişkisiyle kilitlenerek pikosaniye veya femtosaniye darbeler üretmesi tekniği.",
+    "yasakli_kelimeler": [
+      "darbe",
+      "ultra kısa",
+      "femtosaniye",
+      "lazer",
+      "faz kilidi"
+    ]
+  },
+  {
+    "id": 92,
+    "kategori": "optik",
+    "kelime": "q-anahtarlama",
+    "aciklama": "lazer kavitesinin kalite faktörünü anlık olarak değiştirip devasa tepe gücüne sahip kısa optik darbeler elde etme yöntemi.",
+    "yasakli_kelimeler": [
+      "darbe",
+      "kalite faktörü",
+      "kavite",
+      "yüksek güç",
+      "enerji"
+    ]
+  },
+  {
+    "id": 93,
+    "kategori": "optik",
+    "kelime": "ışık saçılması",
+    "aciklama": "ışık dalgalarının ortamdaki küçük parçacıklar, moleküller veya yoğunluk dalgalanmalarıyla etkileşerek yön değiştirmesi.",
+    "yasakli_kelimeler": [
+      "rayleigh",
+      "mie",
+      "parçacık",
+      "saçılma",
+      "yön değiştirme"
+    ]
+  },
+  {
+    "id": 94,
+    "kategori": "optik",
+    "kelime": "rayleigh saçılması",
+    "aciklama": "ışığın kendi dalga boyundan çok daha küçük parçacıklar tarafından dalga boyunun dördüncü kuvvetiyle ters orantılı olarak saçılması.",
+    "yasakli_kelimeler": [
+      "gökyüzü",
+      "mavi",
+      "dördüncü kuvvet",
+      "küçük parçacık",
+      "atmosfer"
+    ]
+  },
+  {
+    "id": 95,
+    "kategori": "optik",
+    "kelime": "mie saçılması",
+    "aciklama": "ışığın kendi dalga boyuna eşit veya daha büyük boyuttaki parçacıklar tarafından dalga boyundan bağımsız olarak saçılması.",
+    "yasakli_kelimeler": [
+      "bulut",
+      "beyaz",
+      "sis",
+      "büyük parçacık",
+      "açı"
+    ]
+  },
+  {
+    "id": 96,
+    "kategori": "optik",
+    "kelime": "raman saçılması",
+    "aciklama": "fotonların bir moleküle çarptığında enerjilerinin bir kısmını molekülün titreşim seviyelerine aktararak frekans değiştirmesi.",
+    "yasakli_kelimeler": [
+      "esnek olmayan",
+      "titreşim",
+      "foton",
+      "spektroskopi",
+      "stokes"
+    ]
+  },
+  {
+    "id": 97,
+    "kategori": "optik",
+    "kelime": "fresnel yansıma katsayısı",
+    "aciklama": "iki farklı dielektrik ortam sınırında polarizasyona bağlı olarak yansıyan ve iletilen dalga genliklerini belirleyen formül.",
+    "yasakli_kelimeler": [
+      "katsayı",
+      "arayüzey",
+      "genlik",
+      "polarizasyon",
+      "denklem"
+    ]
+  },
+  {
+    "id": 98,
+    "kategori": "optik",
+    "kelime": "fotodedektör",
+    "aciklama": "üzerine düşen optik sinyali veya foton akısını fotoelektrik etkiyle elektrik akımına veya gerilimine çeviren algılayıcı bileşen.",
+    "yasakli_kelimeler": [
+      "sensör",
+      "fotodiyot",
+      "fotoelektrik",
+      "ışık algılama",
+      "akım"
+    ]
+  },
+  {
+    "id": 99,
+    "kategori": "optik",
+    "kelime": "çığ fotodiyot",
+    "aciklama": "yüksek ters gerilim altında darbe iyonlaşması ile çığ çoğalması yaratarak tekil fotonlara kadar hassas algılama yapan yarı iletken.",
+    "yasakli_kelimeler": [
+      "diyot",
+      "çığ çoğalması",
+      "kazanç",
+      "hassasiyet",
+      "foton"
+    ]
+  },
+  {
+    "id": 100,
+    "kategori": "optik",
+    "kelime": "küresel ayna",
+    "aciklama": "yansıtıcı yüzeyi içi boş bir kürenin bir parçası biçiminde olan çukur veya tümsek ayna ailesi.",
+    "yasakli_kelimeler": [
+      "küre",
+      "yarıçap",
+      "çukur",
+      "tümsek",
+      "odak"
+    ]
+  }
+]

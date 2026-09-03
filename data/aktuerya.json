@@ -1,0 +1,1302 @@
+[
+  {
+    "id": 1,
+    "kategori": "aktuerya",
+    "kelime": "aktüer",
+    "aciklama": "finansal riskleri, gelecekteki belirsizlikleri ve sigorta primlerini matematiksel olarak hesaplayan uzman.",
+    "yasakli_kelimeler": [
+      "sigorta",
+      "matematik",
+      "risk",
+      "hesap",
+      "istatistik"
+    ]
+  },
+  {
+    "id": 2,
+    "kategori": "aktuerya",
+    "kelime": "mortalite tablosu",
+    "aciklama": "belirli bir yaştaki insanların hayatta kalma ve ölüm olasılıklarını gösteren istatistiksel cetvel.",
+    "yasakli_kelimeler": [
+      "ölüm",
+      "yaşam",
+      "olasılık",
+      "hayat sigortası",
+      "yaş"
+    ]
+  },
+  {
+    "id": 3,
+    "kategori": "aktuerya",
+    "kelime": "yaşam beklentisi",
+    "aciklama": "belirli bir yaştaki bireyin mevcut ölüm oranlarına göre ortalama kaç yıl daha yaşayacağının tahmini.",
+    "yasakli_kelimeler": [
+      "ömür",
+      "ortalama",
+      "yıl",
+      "ölüm",
+      "istatistik"
+    ]
+  },
+  {
+    "id": 4,
+    "kategori": "aktuerya",
+    "kelime": "prim",
+    "aciklama": "sigortalının poliçe kapsamındaki teminatlar karşılığında sigorta şirketine ödediği periyodik ücret.",
+    "yasakli_kelimeler": [
+      "ücret",
+      "ödeme",
+      "sigorta",
+      "teminat",
+      "poliçe"
+    ]
+  },
+  {
+    "id": 5,
+    "kategori": "aktuerya",
+    "kelime": "net prim",
+    "aciklama": "hasar maliyetlerini karşılamak için saf risk üzerinden masraf ve kar eklenmeden hesaplanan prim.",
+    "yasakli_kelimeler": [
+      "saf prim",
+      "masrafsız",
+      "maliyet",
+      "hasar",
+      "risk"
+    ]
+  },
+  {
+    "id": 6,
+    "kategori": "aktuerya",
+    "kelime": "brüt prim",
+    "aciklama": "net primin üzerine acente komisyonu, yönetim giderleri ve kar payı eklenerek bulunan nihai poliçe fiyatı.",
+    "yasakli_kelimeler": [
+      "yükleme",
+      "komisyon",
+      "masraf",
+      "kar",
+      "fiyat"
+    ]
+  },
+  {
+    "id": 7,
+    "kategori": "aktuerya",
+    "kelime": "tazminat",
+    "aciklama": "sigorta konusu rizikonun gerçekleşmesi sonucu uğranılan zararın sigortacı tarafından karşılanan bedeli.",
+    "yasakli_kelimeler": [
+      "hasar",
+      "ödeme",
+      "zarar",
+      "sigorta",
+      "bedel"
+    ]
+  },
+  {
+    "id": 8,
+    "kategori": "aktuerya",
+    "kelime": "muallak hasar karşılığı",
+    "aciklama": "meydana gelmiş fakat henüz hesabı tamamlanmamış veya ödenmemiş hasarlar için ayrılan karşılık.",
+    "yasakli_kelimeler": [
+      "rezerv",
+      "hasar",
+      "karşılık",
+      "ibnr",
+      "ödeme"
+    ]
+  },
+  {
+    "id": 9,
+    "kategori": "aktuerya",
+    "kelime": "ibnr",
+    "aciklama": "gerçekleşmiş ancak henüz sigorta şirketine resmi bildirimi yapılmamış hasarlar için ayrılan provizyon.",
+    "yasakli_kelimeler": [
+      "bildirilmemiş",
+      "hasar",
+      "rezerv",
+      "ihbar",
+      "karşılık"
+    ]
+  },
+  {
+    "id": 10,
+    "kategori": "aktuerya",
+    "kelime": "kazanılmamış primler karşılığı",
+    "aciklama": "yürürlükteki poliçelerin gelecek hesap dönemine sarkan günlerine isabet eden prim kısmı.",
+    "yasakli_kelimeler": [
+      "dönemsellik",
+      "rezerv",
+      "prim",
+      "gelecek",
+      "gün"
+    ]
+  },
+  {
+    "id": 11,
+    "kategori": "aktuerya",
+    "kelime": "dengeleme karşılığı",
+    "aciklama": "gelecek yıllarda meydana gelebilecek olağanüstü hasar dalgalanmalarını dengelemek için ayrılan fon.",
+    "yasakli_kelimeler": [
+      "hasar",
+      "rezerv",
+      "dalgalanma",
+      "afet",
+      "fon"
+    ]
+  },
+  {
+    "id": 12,
+    "kategori": "aktuerya",
+    "kelime": "reasürans",
+    "aciklama": "sigorta şirketinin üstlendiği risklerin bir kısmını başka bir sigorta şirketine devretmesi işlemi.",
+    "yasakli_kelimeler": [
+      "mükerrer sigorta",
+      "devir",
+      "sedan",
+      "şirket",
+      "risk"
+    ]
+  },
+  {
+    "id": 13,
+    "kategori": "aktuerya",
+    "kelime": "sedan şirket",
+    "aciklama": "yazdığı sigorta poliçelerinden doğan riskin bir bölümünü reasüröre devreden doğrudan sigortacı.",
+    "yasakli_kelimeler": [
+      "devreden",
+      "reasürans",
+      "sigorta",
+      "prim",
+      "risk"
+    ]
+  },
+  {
+    "id": 14,
+    "kategori": "aktuerya",
+    "kelime": "reasürör",
+    "aciklama": "sigorta şirketlerinden devralınan büyük riskleri global düzeyde teminat altına alan üst sigorta kuruluşu.",
+    "yasakli_kelimeler": [
+      "devralan",
+      "reasürans",
+      "şirket",
+      "global",
+      "güvence"
+    ]
+  },
+  {
+    "id": 15,
+    "kategori": "aktuerya",
+    "kelime": "konservasyon",
+    "aciklama": "sigorta şirketinin reasüröre devretmeyip kendi mali gücüyle üzerinde tuttuğu net risk payı.",
+    "yasakli_kelimeler": [
+      "saklama payı",
+      "özkaynak",
+      "risk",
+      "pay",
+      "sorumluluk"
+    ]
+  },
+  {
+    "id": 16,
+    "kategori": "aktuerya",
+    "kelime": "tretuvar sözleşmesi",
+    "aciklama": "sigortacı ile reasürör arasında belirli branşlardaki tüm risklerin devrini kapsayan anlaşma.",
+    "yasakli_kelimeler": [
+      "reasürans",
+      "treti",
+      "anlaşma",
+      "sözleşme",
+      "otomatik"
+    ]
+  },
+  {
+    "id": 17,
+    "kategori": "aktuerya",
+    "kelime": "sedan payı",
+    "aciklama": "reasürans işleminde doğrudan sigortacının kendi üzerinde tutmayı taahhüt ettiği risk oranı.",
+    "yasakli_kelimeler": [
+      "konservasyon",
+      "öz pay",
+      "oran",
+      "sorumluluk",
+      "risk"
+    ]
+  },
+  {
+    "id": 18,
+    "kategori": "aktuerya",
+    "kelime": "eksper",
+    "aciklama": "sigortalanan kıymetin değerini veya hasarın neden ve boyutunu bağımsız olarak tespit eden uzman.",
+    "yasakli_kelimeler": [
+      "hasar",
+      "rapor",
+      "tespit",
+      "inceleme",
+      "uzman"
+    ]
+  },
+  {
+    "id": 19,
+    "kategori": "aktuerya",
+    "kelime": "hasar tespit raporu",
+    "aciklama": "eksper tarafından hazırlanan ve meydana gelen zararın tutarını ve nedenini belirten resmi evrak.",
+    "yasakli_kelimeler": [
+      "eksper",
+      "rapor",
+      "tutar",
+      "kaza",
+      "zarar"
+    ]
+  },
+  {
+    "id": 20,
+    "kategori": "aktuerya",
+    "kelime": "rücu",
+    "aciklama": "sigorta şirketinin tazminatı ödedikten sonra kusurlu üçüncü şahıstan bu bedeli tahsil etme hakkı.",
+    "yasakli_kelimeler": [
+      "tahsil",
+      "kusurlu",
+      "dava",
+      "üçüncü şahıs",
+      "alacak"
+    ]
+  },
+  {
+    "id": 21,
+    "kategori": "aktuerya",
+    "kelime": "halefiyet",
+    "aciklama": "tazminatı ödeyen sigortacının yasa gereği sigortalının dava ve talep haklarına sahip olması ilkesi.",
+    "yasakli_kelimeler": [
+      "rücu",
+      "hak",
+      "yerine geçme",
+      "hukuk",
+      "alacak"
+    ]
+  },
+  {
+    "id": 22,
+    "kategori": "aktuerya",
+    "kelime": "muafiyet",
+    "aciklama": "hasarın sigortalı tarafından üstlenilen ve tazminattan düşülen başlangıçtaki sabit tutarı veya oranı.",
+    "yasakli_kelimeler": [
+      "tenzili",
+      "kesinti",
+      "katılım",
+      "hasar",
+      "limit"
+    ]
+  },
+  {
+    "id": 23,
+    "kategori": "aktuerya",
+    "kelime": "koasürans",
+    "aciklama": "aynı menfaatin aynı risklere karşı birden fazla sigorta şirketi tarafından ortaklaşa sigortalanması.",
+    "yasakli_kelimeler": [
+      "müşterek",
+      "paylaşım",
+      "ortak",
+      "şirket",
+      "poliçe"
+    ]
+  },
+  {
+    "id": 24,
+    "kategori": "aktuerya",
+    "kelime": "aşırı zarar reasüransı",
+    "aciklama": "hasarın belirli bir tavanı aşması durumunda reasürörün devreye girdiği reasürans tipi.",
+    "yasakli_kelimeler": [
+      "excess of loss",
+      "limit",
+      "tavan",
+      "hasar",
+      "katastrof"
+    ]
+  },
+  {
+    "id": 25,
+    "kategori": "aktuerya",
+    "kelime": "katastrofik risk",
+    "aciklama": "deprem, sel veya kasırga gibi çok geniş kitleleri etkileyen devasa ve olağanüstü yıkım riski.",
+    "yasakli_kelimeler": [
+      "afet",
+      "deprem",
+      "yıkım",
+      "büyük",
+      "olağanüstü"
+    ]
+  },
+  {
+    "id": 26,
+    "kategori": "aktuerya",
+    "kelime": "dask",
+    "aciklama": "türkiye'de binaları deprem ve deprem kaynaklı yangın ve patlamalara karşı zorunlu sigortalayan kurum.",
+    "yasakli_kelimeler": [
+      "deprem",
+      "zorunlu",
+      "konut",
+      "afet",
+      "havuz"
+    ]
+  },
+  {
+    "id": 27,
+    "kategori": "aktuerya",
+    "kelime": "emeklilik fonu",
+    "aciklama": "bireylerin emeklilik döneminde gelir elde etmesi amacıyla primlerinin biriktirilip işletildiği fon.",
+    "yasakli_kelimeler": [
+      "bes",
+      "tasarruf",
+      "yatırım",
+      "emekli",
+      "birikim"
+    ]
+  },
+  {
+    "id": 28,
+    "kategori": "aktuerya",
+    "kelime": "bireysel emeklilik",
+    "aciklama": "kamusal sosyal güvenliğin yanı sıra çalışanların ek bir emeklilik geliri elde etmesini sağlayan sistem.",
+    "yasakli_kelimeler": [
+      "bes",
+      "tasarruf",
+      "katkı payı",
+      "devlet katkısı",
+      "fon"
+    ]
+  },
+  {
+    "id": 29,
+    "kategori": "aktuerya",
+    "kelime": "anüite",
+    "aciklama": "belirli bir sermaye karşılığında belirli zaman aralıklarıyla düzenli olarak yapılan periyodik ödeme.",
+    "yasakli_kelimeler": [
+      "irad",
+      "düzenli",
+      "maaş",
+      "emeklilik",
+      "ödeme"
+    ]
+  },
+  {
+    "id": 30,
+    "kategori": "aktuerya",
+    "kelime": "sürekli anüite",
+    "aciklama": "bireyin hayatta kaldığı süre boyunca kendisine kesintisiz olarak her dönem ödenen emekli maaşı.",
+    "yasakli_kelimeler": [
+      "ömür boyu",
+      "maaş",
+      "düzenli",
+      "ödeme",
+      "emeklilik"
+    ]
+  },
+  {
+    "id": 31,
+    "kategori": "aktuerya",
+    "kelime": "iskonto oranı",
+    "aciklama": "gelecekte elde edilecek nakit akışlarının ve yükümlülüklerin bugünkü değerini bulmakta kullanılan faiz.",
+    "yasakli_kelimeler": [
+      "bugünkü değer",
+      "faiz",
+      "indirgeme",
+      "zaman",
+      "değer"
+    ]
+  },
+  {
+    "id": 32,
+    "kategori": "aktuerya",
+    "kelime": "aktüeryal kazanç ve kayıp",
+    "aciklama": "emeklilik planlarındaki aktüeryal varsayımlar ile gerçekleşen durum arasındaki farktan doğan sapma.",
+    "yasakli_kelimeler": [
+      "sapma",
+      "varsayım",
+      "fark",
+      "fon",
+      "yükümlülük"
+    ]
+  },
+  {
+    "id": 33,
+    "kategori": "aktuerya",
+    "kelime": "yükümlülük",
+    "aciklama": "sigorta veya emeklilik şirketinin gelecekte poliçe sahiplerine ödemek zorunda olduğu borç tutarı.",
+    "yasakli_kelimeler": [
+      "pasif",
+      "borç",
+      "taahhüt",
+      "karşılık",
+      "gelecek"
+    ]
+  },
+  {
+    "id": 34,
+    "kategori": "aktuerya",
+    "kelime": "solvency",
+    "aciklama": "bir sigorta şirketinin olağanüstü hasarları ve taahhütlerini karşılayabilme mali yeterlilik gücü.",
+    "yasakli_kelimeler": [
+      "ödeme gücü",
+      "sermaye",
+      "yeterlilik",
+      "denetim",
+      "rezerv"
+    ]
+  },
+  {
+    "id": 35,
+    "kategori": "aktuerya",
+    "kelime": "solvency ii",
+    "aciklama": "avrupa birliği'nde sigorta şirketlerinin sermaye yeterliliği ve risk yönetimini düzenleyen çerçeve.",
+    "yasakli_kelimeler": [
+      "avrupa",
+      "sermaye",
+      "risk",
+      "direktif",
+      "yeterlilik"
+    ]
+  },
+  {
+    "id": 36,
+    "kategori": "aktuerya",
+    "kelime": "risk primi",
+    "aciklama": "beklenen hasar maliyetinin üzerine eklenen ve riskin belirsizliğini dengelemeyi amaçlayan pay.",
+    "yasakli_kelimeler": [
+      "fiyat",
+      "eklenti",
+      "belirsizlik",
+      "marj",
+      "prim"
+    ]
+  },
+  {
+    "id": 37,
+    "kategori": "aktuerya",
+    "kelime": "hasar prim oranı",
+    "aciklama": "ödenen tazminatların tahsil edilen primlere bölünmesiyle hesaplanan temel karlılık rasyosu.",
+    "yasakli_kelimeler": [
+      "loss ratio",
+      "oran",
+      "karlılık",
+      "hasar",
+      "prim"
+    ]
+  },
+  {
+    "id": 38,
+    "kategori": "aktuerya",
+    "kelime": "birleşik oran",
+    "aciklama": "hasar prim oranı ile faaliyet giderleri oranının toplanmasıyla bulunan operasyonel başarı ölçütü.",
+    "yasakli_kelimeler": [
+      "combined ratio",
+      "gider",
+      "oran",
+      "teknik kar",
+      "yüzde"
+    ]
+  },
+  {
+    "id": 39,
+    "kategori": "aktuerya",
+    "kelime": "teknik kar",
+    "aciklama": "sigortacılık esas faaliyetlerinden yatırım gelirleri hariç olarak elde edilen net underwriting karı.",
+    "yasakli_kelimeler": [
+      "underwriting",
+      "faaliyet",
+      "sigortacılık",
+      "kar",
+      "gelir"
+    ]
+  },
+  {
+    "id": 40,
+    "kategori": "aktuerya",
+    "kelime": "underwriting",
+    "aciklama": "sigortalanmak istenen riskin incelenip kabul edilmesi, reddedilmesi veya fiyatlandırılması süreci.",
+    "yasakli_kelimeler": [
+      "risk kabul",
+      "fiyatlama",
+      "teklif",
+      "onay",
+      "seçim"
+    ]
+  },
+  {
+    "id": 41,
+    "kategori": "aktuerya",
+    "kelime": "tahsisat",
+    "aciklama": "bir sigorta portföyündeki varlıkların farklı finansal enstrümanlara stratejik dağıtımı.",
+    "yasakli_kelimeler": [
+      "dağılım",
+      "portföy",
+      "varlık",
+      "yatırım",
+      "strateji"
+    ]
+  },
+  {
+    "id": 42,
+    "kategori": "aktuerya",
+    "kelime": "aktüeryal faiz",
+    "aciklama": "hayat ve emeklilik poliçelerinin bugünkü değer hesaplarında kullanılan kanuni teknik faiz oranı.",
+    "yasakli_kelimeler": [
+      "teknik faiz",
+      "hesaplama",
+      "iskonto",
+      "oran",
+      "değer"
+    ]
+  },
+  {
+    "id": 43,
+    "kategori": "aktuerya",
+    "kelime": "kar paylı sigorta",
+    "aciklama": "şirketin elde ettiği yatırım getirilerinin belirli bir kısmını sigortalıya ilave teminat olarak dağıtan poliçe.",
+    "yasakli_kelimeler": [
+      "kar payı",
+      "getiri",
+      "yatırım",
+      "hayat",
+      "birikim"
+    ]
+  },
+  {
+    "id": 44,
+    "kategori": "aktuerya",
+    "kelime": "irad",
+    "aciklama": "belirli dönemlerde hak sahibine ödenen sabit ve düzenli nakit gelir akışı.",
+    "yasakli_kelimeler": [
+      "gelir",
+      "anüite",
+      "düzenli",
+      "kira",
+      "tazminat"
+    ]
+  },
+  {
+    "id": 45,
+    "kategori": "aktuerya",
+    "kelime": "hak sahipliği",
+    "aciklama": "sigortalının vefatı veya maluliyeti durumunda poliçe tazminatını almaya yetkili olma hali.",
+    "yasakli_kelimeler": [
+      "lehtar",
+      "menfaattar",
+      "varis",
+      "alacaklı",
+      "tazminat"
+    ]
+  },
+  {
+    "id": 46,
+    "kategori": "aktuerya",
+    "kelime": "lehtar",
+    "aciklama": "sigorta sözleşmesinde tazminatı veya birikimi tahsil etmek üzere tayin edilen faydalanıcı kişi.",
+    "yasakli_kelimeler": [
+      "menfaattar",
+      "tazminat",
+      "poliçe",
+      "hak sahibi",
+      "varis"
+    ]
+  },
+  {
+    "id": 47,
+    "kategori": "aktuerya",
+    "kelime": "sigorta ettiren",
+    "aciklama": "sigorta sözleşmesini yapan ve prim ödeme borcu altına giren hukuki veya gerçek şahıs.",
+    "yasakli_kelimeler": [
+      "sözleşme",
+      "prim",
+      "taraf",
+      "müşteri",
+      "borçlu"
+    ]
+  },
+  {
+    "id": 48,
+    "kategori": "aktuerya",
+    "kelime": "sigortalı",
+    "aciklama": "menfaati sigorta teminatı altına alınan ve rizikoya maruz kalan kişi.",
+    "yasakli_kelimeler": [
+      "menfaat",
+      "şahıs",
+      "teminat",
+      "risk",
+      "poliçe"
+    ]
+  },
+  {
+    "id": 49,
+    "kategori": "aktuerya",
+    "kelime": "kümülasyon",
+    "aciklama": "tek bir hadisenin aynı anda çok sayıda poliçede hasara yol açarak yarattığı toplam risk yoğunlaşması.",
+    "yasakli_kelimeler": [
+      "yoğunlaşma",
+      "birikim",
+      "afet",
+      "toplam",
+      "zarar"
+    ]
+  },
+  {
+    "id": 50,
+    "kategori": "aktuerya",
+    "kelime": "hasar frekansı",
+    "aciklama": "belirli bir zaman aralığında sigorta portföyünde hasar meydana gelme sıklığı ve adedi.",
+    "yasakli_kelimeler": [
+      "sıklık",
+      "adet",
+      "oran",
+      "oluşma",
+      "istatistik"
+    ]
+  },
+  {
+    "id": 51,
+    "kategori": "aktuerya",
+    "kelime": "hasar şiddeti",
+    "aciklama": "meydana gelen her bir hasarın sigortacıya getirdiği ortalama parasal büyüklük ve maliyet.",
+    "yasakli_kelimeler": [
+      "büyüklük",
+      "maliyet",
+      "ortalama",
+      "tutar",
+      "zarar"
+    ]
+  },
+  {
+    "id": 52,
+    "kategori": "aktuerya",
+    "kelime": "saf prim",
+    "aciklama": "yalnızca hasar frekansı ile hasar şiddetinin çarpımıyla elde edilen teorik maliyet bazı.",
+    "yasakli_kelimeler": [
+      "teorik",
+      "maliyet",
+      "beklenen değer",
+      "hasar",
+      "net"
+    ]
+  },
+  {
+    "id": 53,
+    "kategori": "aktuerya",
+    "kelime": "yükleme payı",
+    "aciklama": "saf primin üzerine genel yönetim giderleri, vergiler ve komisyonları karşılamak için eklenen kısım.",
+    "yasakli_kelimeler": [
+      "masraf",
+      "eklenti",
+      "gider",
+      "komisyon",
+      "brüt"
+    ]
+  },
+  {
+    "id": 54,
+    "kategori": "aktuerya",
+    "kelime": "moral tehlike",
+    "aciklama": "sigortalının tazminat alabilmek amacıyla kasıtlı hasar çıkarması veya dürüst davranmaması riski.",
+    "yasakli_kelimeler": [
+      "ahlaki",
+      "kasıt",
+      "hile",
+      "sahtekarlık",
+      "ihmal"
+    ]
+  },
+  {
+    "id": 55,
+    "kategori": "aktuerya",
+    "kelime": "morbidite",
+    "aciklama": "belirli bir nüfusta veya grupta hastalıkların görülme sıklığını ve sakatlık oranını belirten veri.",
+    "yasakli_kelimeler": [
+      "hastalık",
+      "sakatlık",
+      "oran",
+      "sağlık",
+      "istatistik"
+    ]
+  },
+  {
+    "id": 56,
+    "kategori": "aktuerya",
+    "kelime": "ters seçim",
+    "aciklama": "yüksek risk taşıyan bireylerin sigorta yaptırmaya normal bireylerden daha istekli olması olgusu.",
+    "yasakli_kelimeler": [
+      "asimetrik bilgi",
+      "seçim",
+      "sağlık",
+      "risk",
+      "başvuru"
+    ]
+  },
+  {
+    "id": 57,
+    "kategori": "aktuerya",
+    "kelime": "asimetrik bilgi",
+    "aciklama": "sigorta yaptıranın kendi sağlık veya risk durumu hakkında sigortacıdan çok daha fazla bilgiye sahip olması.",
+    "yasakli_kelimeler": [
+      "bilgi",
+      "eksik",
+      "fark",
+      "piyasa",
+      "gizleme"
+    ]
+  },
+  {
+    "id": 58,
+    "kategori": "aktuerya",
+    "kelime": "büyük sayılar kanunu",
+    "aciklama": "gözlem sayısı arttıkça gerçekleşen ortalamanın teorik olasılığa yaklaşacağını belirten teorem.",
+    "yasakli_kelimeler": [
+      "istatistik",
+      "olasılık",
+      "ortalama",
+      "frekans",
+      "teorem"
+    ]
+  },
+  {
+    "id": 59,
+    "kategori": "aktuerya",
+    "kelime": "merkezi limit teoremi",
+    "aciklama": "yeterince büyük bağımsız örneklemlerin ortalamasının normal dağılıma yakınsadığını gösteren kural.",
+    "yasakli_kelimeler": [
+      "normal dağılım",
+      "istatistik",
+      "örneklem",
+      "çan eğrisi",
+      "teorem"
+    ]
+  },
+  {
+    "id": 60,
+    "kategori": "aktuerya",
+    "kelime": "poisson dağılımı",
+    "aciklama": "nadir görülen kaza veya hasar gibi olayların belirli zaman aralığındaki sayısını modelleyen olasılık dağılımı.",
+    "yasakli_kelimeler": [
+      "olasılık",
+      "dağılım",
+      "hasar",
+      "sıklık",
+      "frekans"
+    ]
+  },
+  {
+    "id": 61,
+    "kategori": "aktuerya",
+    "kelime": "pareto dağılımı",
+    "aciklama": "nadir meydana gelen ancak son derece yüksek maliyetli büyük hasarların modellenmesinde kullanılan dağılım.",
+    "yasakli_kelimeler": [
+      "ağır kuyruk",
+      "büyük hasar",
+      "güç yasası",
+      "aşırı",
+      "dağılım"
+    ]
+  },
+  {
+    "id": 62,
+    "kategori": "aktuerya",
+    "kelime": "lognormal dağılım",
+    "aciklama": "doğal logaritması normal dağılıma uyan ve asimetrik hasar büyüklüklerini açıklayan dağılım türü.",
+    "yasakli_kelimeler": [
+      "logaritma",
+      "hasar",
+      "çarpık",
+      "olasılık",
+      "dağılım"
+    ]
+  },
+  {
+    "id": 63,
+    "kategori": "aktuerya",
+    "kelime": "monte carlo simülasyonu",
+    "aciklama": "rastgele sayılar ve olasılık dağılımları üreterek gelecekteki hasar ve risk senaryolarını test etme yöntemi.",
+    "yasakli_kelimeler": [
+      "simülasyon",
+      "senaryo",
+      "rastgele",
+      "tahmin",
+      "model"
+    ]
+  },
+  {
+    "id": 64,
+    "kategori": "aktuerya",
+    "kelime": "stres testi",
+    "aciklama": "olağanüstü ekonomik kriz veya afet koşullarında şirketin finansal dayanıklılığını ölçen senaryo analizi.",
+    "yasakli_kelimeler": [
+      "kriz",
+      "dayanıklılık",
+      "senaryo",
+      "sermaye",
+      "risk"
+    ]
+  },
+  {
+    "id": 65,
+    "kategori": "aktuerya",
+    "kelime": "var",
+    "aciklama": "belirli bir güven düzeyinde ve belirli bir zaman ufkunda portföyün uğrayabileceği azami beklenen kayıp.",
+    "yasakli_kelimeler": [
+      "riske maruz değer",
+      "kayıp",
+      "güven",
+      "azami",
+      "istatistik"
+    ]
+  },
+  {
+    "id": 66,
+    "kategori": "aktuerya",
+    "kelime": "cvar",
+    "aciklama": "beklenen kayıp eşiği aşıldığında maruz kalınacak zararın beklenen ortalama tutarını gösteren kuyruk riski ölçütü.",
+    "yasakli_kelimeler": [
+      "kuyruk riski",
+      "beklenen kayıp",
+      "ortalama",
+      "uç değer",
+      "risk"
+    ]
+  },
+  {
+    "id": 67,
+    "kategori": "aktuerya",
+    "kelime": "kuyruk riski",
+    "aciklama": "gerçekleşme olasılığı çok düşük olan ancak gerçekleştiğinde yıkıcı felaketlere yol açan risk dilimi.",
+    "yasakli_kelimeler": [
+      "uç değer",
+      "ekstrem",
+      "fat tail",
+      "olasılık",
+      "çöküş"
+    ]
+  },
+  {
+    "id": 68,
+    "kategori": "aktuerya",
+    "kelime": "aktüeryal varsayım",
+    "aciklama": "prim ve karşılık hesaplamalarında kullanılan faiz, enflasyon, ölüm ve sakatlık tahminlerinin bütünü.",
+    "yasakli_kelimeler": [
+      "tahmin",
+      "enflasyon",
+      "ölüm",
+      "faiz",
+      "model"
+    ]
+  },
+  {
+    "id": 69,
+    "kategori": "aktuerya",
+    "kelime": "emeklilik rasyosu",
+    "aciklama": "aktif çalışan prim ödeyen kişi sayısının sistemden emekli maaşı alan kişi sayısına bölünmesi.",
+    "yasakli_kelimeler": [
+      "aktif pasif",
+      "sosyal güvenlik",
+      "çalışan",
+      "emekli",
+      "oran"
+    ]
+  },
+  {
+    "id": 70,
+    "kategori": "aktuerya",
+    "kelime": "fonlama oranı",
+    "aciklama": "bir emeklilik planının sahip olduğu toplam varlıkların gelecekteki toplam yükümlülüklerine oranı.",
+    "yasakli_kelimeler": [
+      "varlık",
+      "yükümlülük",
+      "açık",
+      "emeklilik",
+      "oran"
+    ]
+  },
+  {
+    "id": 71,
+    "kategori": "aktuerya",
+    "kelime": "aktüeryal açık",
+    "aciklama": "emeklilik fonunun veya sosyal güvenlik kurumunun gelecekteki yükümlülükleri karşısında varlıklarının yetersiz kalması.",
+    "yasakli_kelimeler": [
+      "açık",
+      "borç",
+      "yetersiz",
+      "zarar",
+      "bütçe"
+    ]
+  },
+  {
+    "id": 72,
+    "kategori": "aktuerya",
+    "kelime": "tontin",
+    "aciklama": "üyelerin ortak fona para yatırdığı ve hayatta kalan son üyelere tüm birikimin paylaştırıldığı eski yatırım modeli.",
+    "yasakli_kelimeler": [
+      "ortak fon",
+      "ölüm",
+      "hayatta kalan",
+      "tarihi",
+      "birikim"
+    ]
+  },
+  {
+    "id": 73,
+    "kategori": "aktuerya",
+    "kelime": "garanti fonu",
+    "aciklama": "iflas eden sigorta şirketlerinin poliçe sahiplerine olan borçlarını karşılamak üzere kurulmuş kamusal güvence.",
+    "yasakli_kelimeler": [
+      "güvence hesabı",
+      "iflas",
+      "koruma",
+      "kamu",
+      "tazminat"
+    ]
+  },
+  {
+    "id": 74,
+    "kategori": "aktuerya",
+    "kelime": "kıdem tazminatı karşılığı",
+    "aciklama": "çalışanların gelecekte hak kazanacağı kıdem tazminatlarının aktüeryal yöntemlerle bilançoya yazılan provizyonu.",
+    "yasakli_kelimeler": [
+      "tazminat",
+      "çalışan",
+      "provizyon",
+      "iş kanunu",
+      "karşılık"
+    ]
+  },
+  {
+    "id": 75,
+    "kategori": "aktuerya",
+    "kelime": "devlet katkısı",
+    "aciklama": "bireysel emeklilik sisteminde katılımcının yatırdığı prim tutarına devlet tarafından eklenen hibe oran.",
+    "yasakli_kelimeler": [
+      "bes",
+      "teşvik",
+      "hibe",
+      "oran",
+      "tasarruf"
+    ]
+  },
+  {
+    "id": 76,
+    "kategori": "aktuerya",
+    "kelime": "otomatik katılım",
+    "aciklama": "çalışanların işverenleri aracılığıyla doğrudan ve zorunlu başlangıçla emeklilik planına dahil edilmesi uygulaması.",
+    "yasakli_kelimeler": [
+      "otomatik bes",
+      "işveren",
+      "kesinti",
+      "cayma",
+      "katılım"
+    ]
+  },
+  {
+    "id": 77,
+    "kategori": "aktuerya",
+    "kelime": "cayma hakkı",
+    "aciklama": "bireysel emeklilik veya sigorta sözleşmesi yapan kişinin belirli süre içinde cezasız sözleşmeden vazgeçme hakkı.",
+    "yasakli_kelimeler": [
+      "vazgeçme",
+      "süre",
+      "iade",
+      "kesintisiz",
+      "hak"
+    ]
+  },
+  {
+    "id": 78,
+    "kategori": "aktuerya",
+    "kelime": "iştira",
+    "aciklama": "hayat sigortası poliçesinin vadesi dolmadan önce sigortalı tarafından bozdurularak birikimin nakden alınması.",
+    "yasakli_kelimeler": [
+      "erken ayrılma",
+      "bozdurma",
+      "nakit",
+      "tazminat",
+      "hayat"
+    ]
+  },
+  {
+    "id": 79,
+    "kategori": "aktuerya",
+    "kelime": "ikraz",
+    "aciklama": "hayat sigortası poliçe sahibinin kendi poliçesindeki birikimi teminat göstererek sigortacıdan borç para alması.",
+    "yasakli_kelimeler": [
+      "borç",
+      "kredi",
+      "teminat",
+      "avans",
+      "poliçe"
+    ]
+  },
+  {
+    "id": 80,
+    "kategori": "aktuerya",
+    "kelime": "tenzil",
+    "aciklama": "prim ödemeyi durduran sigortalının poliçesinin daha düşük bir teminat tutarıyla yürürlükte tutulması işlemi.",
+    "yasakli_kelimeler": [
+      "düşürme",
+      "indirgeme",
+      "teminat",
+      "ödemesiz",
+      "yürürlük"
+    ]
+  },
+  {
+    "id": 81,
+    "kategori": "aktuerya",
+    "kelime": "kaza sıklığı",
+    "aciklama": "bir filoda veya sigortalı popülasyonda belirli bir süre zarfında meydana gelen kaza adedinin oranı.",
+    "yasakli_kelimeler": [
+      "oran",
+      "frekans",
+      "kaza",
+      "sürücü",
+      "istatistik"
+    ]
+  },
+  {
+    "id": 82,
+    "kategori": "aktuerya",
+    "kelime": "hasar prim katsayısı",
+    "aciklama": "kasko ve trafik sigortalarında hasar geçmişine göre uygulanan basamak ve indirim artırım sistemi.",
+    "yasakli_kelimeler": [
+      "hasarsızlık",
+      "basamak",
+      "indirim",
+      "sürprim",
+      "tarife"
+    ]
+  },
+  {
+    "id": 83,
+    "kategori": "aktuerya",
+    "kelime": "sürprim",
+    "aciklama": "normalden daha yüksek risk taşıyan sigortalıya standart prime ilave olarak uygulanan fiyat zammı.",
+    "yasakli_kelimeler": [
+      "ek prim",
+      "zam",
+      "yüksek risk",
+      "fiyat",
+      "ceza"
+    ]
+  },
+  {
+    "id": 84,
+    "kategori": "aktuerya",
+    "kelime": "hasarsızlık indirimi",
+    "aciklama": "poliçe dönemi boyunca kaza ve hasar yapmayan dikkatli sürücülere bir sonraki dönem sağlanan fiyat indirimi.",
+    "yasakli_kelimeler": [
+      "indirim",
+      "prim",
+      "ucuz",
+      "kaza",
+      "basamak"
+    ]
+  },
+  {
+    "id": 85,
+    "kategori": "aktuerya",
+    "kelime": "teminat limiti",
+    "aciklama": "bir poliçe kapsamında sigortacının meydana gelen bir hasar için ödeyeceği azami tazminat tutarı.",
+    "yasakli_kelimeler": [
+      "üst sınır",
+      "tavan",
+      "maksimum",
+      "tutar",
+      "kapsam"
+    ]
+  },
+  {
+    "id": 86,
+    "kategori": "aktuerya",
+    "kelime": "azami teminat",
+    "aciklama": "sigorta sözleşmesinde yazılı olan ve şirketin sorumluluğunu sınırlandıran en yüksek hasar karşılığı.",
+    "yasakli_kelimeler": [
+      "üst sınır",
+      "limit",
+      "kapsam",
+      "sorumluluk",
+      "bedel"
+    ]
+  },
+  {
+    "id": 87,
+    "kategori": "aktuerya",
+    "kelime": "aşırı kuyruk",
+    "aciklama": "olasılık fonksiyonunda ortalamadan çok uzakta yer alan ekstrem ve nadir olayların kalınlaşan eğrisi.",
+    "yasakli_kelimeler": [
+      "fat tail",
+      "dağılım",
+      "ekstrem",
+      "risk",
+      "olasılık"
+    ]
+  },
+  {
+    "id": 88,
+    "kategori": "aktuerya",
+    "kelime": "hayat tablosu",
+    "aciklama": "nüfusun yaşlara göre hayatta kalma ve ölüm ihtimallerini düzenleyen aktüeryal temel kaynak.",
+    "yasakli_kelimeler": [
+      "mortalite",
+      "ölüm",
+      "yaşam",
+      "cetvel",
+      "beklenti"
+    ]
+  },
+  {
+    "id": 89,
+    "kategori": "aktuerya",
+    "kelime": "sakatlık tablosu",
+    "aciklama": "farklı meslek ve yaş gruplarında kaza veya hastalık sonucu malul kalma olasılıklarını gösteren cetvel.",
+    "yasakli_kelimeler": [
+      "maluliyet",
+      "özür",
+      "olasılık",
+      "tazminat",
+      "tablo"
+    ]
+  },
+  {
+    "id": 90,
+    "kategori": "aktuerya",
+    "kelime": "beklenen ömür",
+    "aciklama": "yeni doğan bir bebeğin veya belirli yaştaki ferdin istatistiksel olarak yaşaması muhtemel yıl toplamı.",
+    "yasakli_kelimeler": [
+      "ortalama",
+      "yıl",
+      "yaşam süresi",
+      "ölüm",
+      "istatistik"
+    ]
+  },
+  {
+    "id": 91,
+    "kategori": "aktuerya",
+    "kelime": "aktüeryal rapor",
+    "aciklama": "şirketin mali yükümlülüklerini, prim yeterliliğini ve rezervlerini detaylandıran resmi aktüer belgesi.",
+    "yasakli_kelimeler": [
+      "rapor",
+      "onay",
+      "denetim",
+      "uzman",
+      "belge"
+    ]
+  },
+  {
+    "id": 92,
+    "kategori": "aktuerya",
+    "kelime": "güvence hesabı",
+    "aciklama": "zorunlu sigortası bulunmayan araçların verdiği bedeni zararları karşılamak üzere kurulmuş havuz.",
+    "yasakli_kelimeler": [
+      "garanti",
+      "trafik",
+      "tazminat",
+      "havuz",
+      "faili meçhul"
+    ]
+  },
+  {
+    "id": 93,
+    "kategori": "aktuerya",
+    "kelime": "zincir merdiven metodu",
+    "aciklama": "geçmiş hasar gelişim verilerini kullanarak gelecekteki muallak hasarları tahmin etmeye yarayan aktüeryal teknik.",
+    "yasakli_kelimeler": [
+      "chain ladder",
+      "ibnr",
+      "hasar",
+      "gelişim",
+      "üçgen"
+    ]
+  },
+  {
+    "id": 94,
+    "kategori": "aktuerya",
+    "kelime": "hasar gelişim üçgeni",
+    "aciklama": "farklı hasar yıllarına ait tazminat ödemelerinin gelişimini gösteren iki boyutlu aktüeryal veri tablosu.",
+    "yasakli_kelimeler": [
+      "üçgen",
+      "matris",
+      "gelişim",
+      "hasar",
+      "tablo"
+    ]
+  },
+  {
+    "id": 95,
+    "kategori": "aktuerya",
+    "kelime": "bornhuetter-ferguson",
+    "aciklama": "geçmiş hasar deneyimi ile beklenen hasar prim oranını harmanlayan popüler aktüeryal rezerv yöntemi.",
+    "yasakli_kelimeler": [
+      "rezerv",
+      "yöntem",
+      "hasar",
+      "ibnr",
+      "tahmin"
+    ]
+  },
+  {
+    "id": 96,
+    "kategori": "aktuerya",
+    "kelime": "kapitasyon",
+    "aciklama": "sağlık sigortalarında hekime veya hastaneye hizmet başına değil kayıtlı hasta sayısı başına yapılan sabit ödeme.",
+    "yasakli_kelimeler": [
+      "sağlık",
+      "sabit",
+      "hasta",
+      "ödeme",
+      "hekim"
+    ]
+  },
+  {
+    "id": 97,
+    "kategori": "aktuerya",
+    "kelime": "ko-pay",
+    "aciklama": "sağlık sigortasında tedavi masrafının poliçe sahibi tarafından cebinden karşılanan küçük sabit katkı payı.",
+    "yasakli_kelimeler": [
+      "katılım payı",
+      "sağlık",
+      "ödemesi",
+      "hastane",
+      "ilaç"
+    ]
+  },
+  {
+    "id": 98,
+    "kategori": "aktuerya",
+    "kelime": "bekleme süresi",
+    "aciklama": "sağlık sigortası yapıldıktan sonra belirli kronik hastalıkların teminata girmesi için geçmesi gereken kanuni süre.",
+    "yasakli_kelimeler": [
+      "muafiyet",
+      "süre",
+      "hastalık",
+      "ameliyat",
+      "başlangıç"
+    ]
+  },
+  {
+    "id": 99,
+    "kategori": "aktuerya",
+    "kelime": "ömür boyu yenileme garantisi",
+    "aciklama": "sağlık sigortasında belirli bir yaştan ve hasarsız dönemden sonra şirketin poliçeyi tek taraflı iptal edememesi taahhüdü.",
+    "yasakli_kelimeler": [
+      "garanti",
+      "sağlık",
+      "yenileme",
+      "iptal",
+      "taahhüt"
+    ]
+  },
+  {
+    "id": 100,
+    "kategori": "aktuerya",
+    "kelime": "tarife",
+    "aciklama": "sigorta branşlarında teminat verilen rizikolara uygulanacak prim oranlarını ve kurallarını belirleyen cetvel.",
+    "yasakli_kelimeler": [
+      "fiyat",
+      "liste",
+      "oran",
+      "prim",
+      "cetvel"
+    ]
+  }
+]

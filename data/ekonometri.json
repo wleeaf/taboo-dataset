@@ -1,0 +1,1302 @@
+[
+  {
+    "id": 1,
+    "kategori": "ekonometri",
+    "kelime": "ekonometri",
+    "aciklama": "ekonomik teorileri ve hipotezleri matematiksel ve istatistiksel yöntemlerle ampirik olarak test eden bilim dalı.",
+    "yasakli_kelimeler": [
+      "istatistik",
+      "ekonomi",
+      "model",
+      "tahmin",
+      "ampirik"
+    ]
+  },
+  {
+    "id": 2,
+    "kategori": "ekonometri",
+    "kelime": "regresyon analizi",
+    "aciklama": "bağımlı bir değişken ile bir veya daha fazla bağımsız değişken arasındaki ilişkiyi modelleme yöntemi.",
+    "yasakli_kelimeler": [
+      "bağımlı",
+      "bağımsız",
+      "değişken",
+      "ilişki",
+      "katsayı"
+    ]
+  },
+  {
+    "id": 3,
+    "kategori": "ekonometri",
+    "kelime": "en küçük kareler yöntemi",
+    "aciklama": "gözlenen değerler ile modelden tahmin edilen değerler arasındaki farkların kareleri toplamını minimize eden tahminci.",
+    "yasakli_kelimeler": [
+      "ols",
+      "hata payı",
+      "kare",
+      "tahmin",
+      "artık"
+    ]
+  },
+  {
+    "id": 4,
+    "kategori": "ekonometri",
+    "kelime": "içsellik",
+    "aciklama": "açıklayıcı bir değişkenin modeldeki hata terimiyle korelasyon içinde olması durumu.",
+    "yasakli_kelimeler": [
+      "hata terimi",
+      "korelasyon",
+      "araç değişken",
+      "yanlılık",
+      "dışsallık"
+    ]
+  },
+  {
+    "id": 5,
+    "kategori": "ekonometri",
+    "kelime": "dışsallık",
+    "aciklama": "açıklayıcı değişkenlerin hata teriminden tamamen bağımsız olması varsayımı.",
+    "yasakli_kelimeler": [
+      "içsel",
+      "hata",
+      "bağımsız",
+      "varsayım",
+      "kovaryans"
+    ]
+  },
+  {
+    "id": 6,
+    "kategori": "ekonometri",
+    "kelime": "araç değişken",
+    "aciklama": "içsel açıklayıcı değişkenle ilişkili olan ancak hata terimiyle ilişkisiz dışsal değişken.",
+    "yasakli_kelimeler": [
+      "enstrüman",
+      "içsellik",
+      "iv",
+      "iki aşamalı",
+      "korelasyon"
+    ]
+  },
+  {
+    "id": 7,
+    "kategori": "ekonometri",
+    "kelime": "iki aşamalı en küçük kareler",
+    "aciklama": "içsellik problemini çözmek için araç değişkenlerin iki adımda kullanıldığı tahmin tekniği.",
+    "yasakli_kelimeler": [
+      "2sls",
+      "araç",
+      "aşama",
+      "tahminci",
+      "regresyon"
+    ]
+  },
+  {
+    "id": 8,
+    "kategori": "ekonometri",
+    "kelime": "otokorelasyon",
+    "aciklama": "zaman serisi veya kesit verilerinde ardışık hata terimlerinin birbiriyle ilişkili olması durumu.",
+    "yasakli_kelimeler": [
+      "durbin watson",
+      "hata terimi",
+      "seri",
+      "ilişki",
+      "kalıntı"
+    ]
+  },
+  {
+    "id": 9,
+    "kategori": "ekonometri",
+    "kelime": "değişen varyans",
+    "aciklama": "farklı gözlemler için hata terimlerinin varyansının sabit olmaması durumu.",
+    "yasakli_kelimeler": [
+      "heteroskedastisite",
+      "sabit",
+      "hata",
+      "white testi",
+      "standart hata"
+    ]
+  },
+  {
+    "id": 10,
+    "kategori": "ekonometri",
+    "kelime": "sabit varyans",
+    "aciklama": "tüm gözlemler boyunca hata teriminin varyansının değişmeyip aynı kalması varsayımı.",
+    "yasakli_kelimeler": [
+      "homoskedastisite",
+      "varsayım",
+      "hata",
+      "eşit",
+      "ols"
+    ]
+  },
+  {
+    "id": 11,
+    "kategori": "ekonometri",
+    "kelime": "çoklu doğrusal bağlantı",
+    "aciklama": "çoklu regresyon modelinde iki veya daha fazla bağımsız değişken arasında yüksek derecede doğrusal ilişki bulunması.",
+    "yasakli_kelimeler": [
+      "multikolinearite",
+      "vif",
+      "korelasyon",
+      "bağımsız",
+      "matris"
+    ]
+  },
+  {
+    "id": 12,
+    "kategori": "ekonometri",
+    "kelime": "durbin-watson testi",
+    "aciklama": "regresyon artıklarında birinci dereceden otokorelasyon bulunup bulunmadığını sınayan istatistiksel test.",
+    "yasakli_kelimeler": [
+      "otokorelasyon",
+      "istatistik",
+      "artık",
+      "hata",
+      "ar1"
+    ]
+  },
+  {
+    "id": 13,
+    "kategori": "ekonometri",
+    "kelime": "white testi",
+    "aciklama": "regresyon modellerinde hata terimlerinin değişen varyansa sahip olup olmadığını tespit eden test.",
+    "yasakli_kelimeler": [
+      "heteroskedastisite",
+      "varyans",
+      "sınama",
+      "yardımcı",
+      "kareler"
+    ]
+  },
+  {
+    "id": 14,
+    "kategori": "ekonometri",
+    "kelime": "belirlilik katsayısı",
+    "aciklama": "bağımlı değişkendeki değişimin bağımsız değişkenler tarafından açıklanan yüzdesini gösteren metrik.",
+    "yasakli_kelimeler": [
+      "r kare",
+      "açıklama",
+      "uyum iyiliği",
+      "yüzde",
+      "regresyon"
+    ]
+  },
+  {
+    "id": 15,
+    "kategori": "ekonometri",
+    "kelime": "düzeltilmiş r-kare",
+    "aciklama": "modele eklenen her yeni değişken için serbestlik derecesini dikkate alarak r-kareyi cezalandıran ölçüt.",
+    "yasakli_kelimeler": [
+      "serbestlik derecesi",
+      "ceza",
+      "değişken",
+      "uyum",
+      "katsayı"
+    ]
+  },
+  {
+    "id": 16,
+    "kategori": "ekonometri",
+    "kelime": "panel veri",
+    "aciklama": "birden fazla birimin belirli bir zaman dilimi boyunca takip edilmesiyle oluşturulan veri kümesi.",
+    "yasakli_kelimeler": [
+      "kesit",
+      "zaman serisi",
+      "boyut",
+      "birey",
+      "boylamsal"
+    ]
+  },
+  {
+    "id": 17,
+    "kategori": "ekonometri",
+    "kelime": "kesit verisi",
+    "aciklama": "belirli tek bir zaman noktasında farklı birimlerden toplanan gözlemleri içeren veri tipi.",
+    "yasakli_kelimeler": [
+      "zaman",
+      "birey",
+      "gözlem",
+      "anket",
+      "veri seti"
+    ]
+  },
+  {
+    "id": 18,
+    "kategori": "ekonometri",
+    "kelime": "zaman serisi",
+    "aciklama": "tek bir birime ait verilerin zaman içerisinde düzenli aralıklarla sıralanmasıyla oluşan veri kümesi.",
+    "yasakli_kelimeler": [
+      "trend",
+      "kronolojik",
+      "dönem",
+      "mevsimsellik",
+      "gecikme"
+    ]
+  },
+  {
+    "id": 19,
+    "kategori": "ekonometri",
+    "kelime": "durağanlık",
+    "aciklama": "bir zaman serisinin ortalamasının, varyansının ve kovaryansının zaman boyunca sabit kalması özelliği.",
+    "yasakli_kelimeler": [
+      "ortalaması",
+      "varyans",
+      "zaman",
+      "birim kök",
+      "sabit"
+    ]
+  },
+  {
+    "id": 20,
+    "kategori": "ekonometri",
+    "kelime": "birim kök testi",
+    "aciklama": "bir zaman serisinin durağan olup olmadığını belirlemek için kullanılan hipotez testi.",
+    "yasakli_kelimeler": [
+      "dickey fuller",
+      "durağanlık",
+      "fark",
+      "stokastik",
+      "trend"
+    ]
+  },
+  {
+    "id": 21,
+    "kategori": "ekonometri",
+    "kelime": "dickey-fuller testi",
+    "aciklama": "zaman serisi verilerinde birim kök varlığını ve durağan olmama durumunu test eden temel sınama.",
+    "yasakli_kelimeler": [
+      "birim kök",
+      "durağan",
+      "adf",
+      "gecikme",
+      "hipotez"
+    ]
+  },
+  {
+    "id": 22,
+    "kategori": "ekonometri",
+    "kelime": "koentegrasyon",
+    "aciklama": "kendi başlarına durağan olmayan iki veya daha fazla serinin doğrusal bileşiminin durağan olması durumu.",
+    "yasakli_kelimeler": [
+      "eşbütünleşme",
+      "uzun dönem",
+      "johansen",
+      "engle granger",
+      "denge"
+    ]
+  },
+  {
+    "id": 23,
+    "kategori": "ekonometri",
+    "kelime": "vektör otoregresyon",
+    "aciklama": "birden fazla zaman serisinin birbirlerinin geçmiş değerleriyle karşılıklı ilişkisini modelleyen sistem.",
+    "yasakli_kelimeler": [
+      "var",
+      "gecikme",
+      "eşanlı",
+      "sistem",
+      "etki tepki"
+    ]
+  },
+  {
+    "id": 24,
+    "kategori": "ekonometri",
+    "kelime": "granger nedensellik testi",
+    "aciklama": "bir değişkenin geçmiş değerlerinin başka bir değişkeni tahmin etmede bilgi sağlayıp sağlamadığını test eden yöntem.",
+    "yasakli_kelimeler": [
+      "neden",
+      "tahmin",
+      "zaman",
+      "öncülük",
+      "var"
+    ]
+  },
+  {
+    "id": 25,
+    "kategori": "ekonometri",
+    "kelime": "hata düzeltme modeli",
+    "aciklama": "koentegre seriler arasındaki kısa dönem dinamiklerini ve uzun dönem dengesini birlikte modelleyen yapı.",
+    "yasakli_kelimeler": [
+      "ecm",
+      "eşbütünleşme",
+      "denge",
+      "sapma",
+      "kısa dönem"
+    ]
+  },
+  {
+    "id": 26,
+    "kategori": "ekonometri",
+    "kelime": "etki-tepki fonksiyonu",
+    "aciklama": "var modellerinde bir değişkene gelen beklenmedik bir şokun sistemdeki diğer değişkenleri zamanla nasıl etkilediğini gösteren analiz.",
+    "yasakli_kelimeler": [
+      "şok",
+      "var",
+      "tepki",
+      "simülasyon",
+      "dinamik"
+    ]
+  },
+  {
+    "id": 27,
+    "kategori": "ekonometri",
+    "kelime": "varyans ayrıştırması",
+    "aciklama": "bir değişkenin tahmin hatası varyansının diğer değişkenlerin şokları tarafından açıklanan yüzdelerini ayrıştırma yöntemi.",
+    "yasakli_kelimeler": [
+      "şok",
+      "hata",
+      "tahmin",
+      "pay",
+      "oran"
+    ]
+  },
+  {
+    "id": 28,
+    "kategori": "ekonometri",
+    "kelime": "sabit etkiler modeli",
+    "aciklama": "panel verilerde birimlere özgü zamanla değişmeyen gözlenemeyen etkilerin açıklayıcı değişkenlerle ilişkili olmasına izin veren model.",
+    "yasakli_kelimeler": [
+      "panel",
+      "kukla değişken",
+      "zaman",
+      "hausman",
+      "farksızlaştırma"
+    ]
+  },
+  {
+    "id": 29,
+    "kategori": "ekonometri",
+    "kelime": "rassal etkiler modeli",
+    "aciklama": "panel verilerde birim düzeyindeki varyasyonun açıklayıcı değişkenlerle ilişkisiz bağımsız bir hata bileşeni olduğunu varsayan model.",
+    "yasakli_kelimeler": [
+      "panel",
+      "hausman",
+      "varyans",
+      "gls",
+      "hata"
+    ]
+  },
+  {
+    "id": 30,
+    "kategori": "ekonometri",
+    "kelime": "hausman testi",
+    "aciklama": "panel veri modellerinde sabit etkiler ile rassal etkiler modeli arasında tercih yapmayı sağlayan istatistiksel sınama.",
+    "yasakli_kelimeler": [
+      "sabit etkiler",
+      "rassal etkiler",
+      "panel",
+      "tutarlılık",
+      "tercih"
+    ]
+  },
+  {
+    "id": 31,
+    "kategori": "ekonometri",
+    "kelime": "kukla değişken",
+    "aciklama": "niteliksel veya kategorik özellikleri modellerde temsil etmek için 0 veya 1 değerini alan yapay değişken.",
+    "yasakli_kelimeler": [
+      "dummy",
+      "kategori",
+      "ikili",
+      "referans",
+      "nitel"
+    ]
+  },
+  {
+    "id": 32,
+    "kategori": "ekonometri",
+    "kelime": "logit modeli",
+    "aciklama": "bağımlı değişkenin iki seçenekli olduğu durumlarda lojistik dağılım fonksiyonu kullanan regresyon modeli.",
+    "yasakli_kelimeler": [
+      "ikili",
+      "olasılık",
+      "lojistik",
+      "odds",
+      "bağımlı"
+    ]
+  },
+  {
+    "id": 33,
+    "kategori": "ekonometri",
+    "kelime": "probit modeli",
+    "aciklama": "bağımlı değişkenin ikili olduğu ve hata teriminin standart normal dağıldığı varsayılan olasılık modeli.",
+    "yasakli_kelimeler": [
+      "normal dağılım",
+      "ikili",
+      "kümülatif",
+      "olasılık",
+      "marjinal"
+    ]
+  },
+  {
+    "id": 34,
+    "kategori": "ekonometri",
+    "kelime": "tobit modeli",
+    "aciklama": "bağımlı değişkenin alttan veya üstten sınırlandırıldığı ya da sansürlendiği durumlarda kullanılan model.",
+    "yasakli_kelimeler": [
+      "sansür",
+      "kısıtlı",
+      "sıfır",
+      "eşik",
+      "kesikli"
+    ]
+  },
+  {
+    "id": 35,
+    "kategori": "ekonometri",
+    "kelime": "maksimum olabilirlik",
+    "aciklama": "gözlenen verinin ortaya çıkma olasılığını en yüksek yapan parametre değerlerini bulan tahmin yöntemi.",
+    "yasakli_kelimeler": [
+      "mle",
+      "olasılık",
+      "fonksiyon",
+      "logaritmik",
+      "tahminci"
+    ]
+  },
+  {
+    "id": 36,
+    "kategori": "ekonometri",
+    "kelime": "genelleştirilmiş momentler yöntemi",
+    "aciklama": "teorik moment koşullarını örneklem momentleriyle eşleştirerek parametre tahmini yapan yarı parametrik yöntem.",
+    "yasakli_kelimeler": [
+      "gmm",
+      "moment",
+      "araç değişken",
+      "aşırı belirleme",
+      "hansen"
+    ]
+  },
+  {
+    "id": 37,
+    "kategori": "ekonometri",
+    "kelime": "genelleştirilmiş en küçük kareler",
+    "aciklama": "değişen varyans veya otokorelasyon varlığında veriyi dönüştürerek etkin tahminler elde eden yöntem.",
+    "yasakli_kelimeler": [
+      "gls",
+      "ağırlıklı",
+      "varyans",
+      "dönüşüm",
+      "etkinlik"
+    ]
+  },
+  {
+    "id": 38,
+    "kategori": "ekonometri",
+    "kelime": "artık",
+    "aciklama": "gerçek gözlem değeri ile regresyon modelinden elde edilen tahmin değeri arasındaki fark.",
+    "yasakli_kelimeler": [
+      "hata",
+      "tahmin",
+      "gözlem",
+      "kalıntı",
+      "sapma"
+    ]
+  },
+  {
+    "id": 39,
+    "kategori": "ekonometri",
+    "kelime": "tahminci",
+    "aciklama": "örneklem verilerini kullanarak bilinmeyen bir kitle parametresini tahmin etmek için kullanılan formül veya kural.",
+    "yasakli_kelimeler": [
+      "parametre",
+      "örneklem",
+      "istatistik",
+      "hesaplama",
+      "kural"
+    ]
+  },
+  {
+    "id": 40,
+    "kategori": "ekonometri",
+    "kelime": "tutarlılık",
+    "aciklama": "örneklem büyüklüğü sonsuza giderken tahmincinin gerçek parametre değerine olasılık bakımından yakınsaması özelliği.",
+    "yasakli_kelimeler": [
+      "yakınsama",
+      "örneklem",
+      "asemptotik",
+      "sonsuz",
+      "özellik"
+    ]
+  },
+  {
+    "id": 41,
+    "kategori": "ekonometri",
+    "kelime": "etkinlik",
+    "aciklama": "tarafsız tahminciler sınıfı içinde en küçük varyansa sahip olma durumu.",
+    "yasakli_kelimeler": [
+      "varyans",
+      "en küçük",
+      "tarafsız",
+      "kesinlik",
+      "blue"
+    ]
+  },
+  {
+    "id": 42,
+    "kategori": "ekonometri",
+    "kelime": "tarafsızlık",
+    "aciklama": "bir tahmincinin beklenen değerinin tahmin edilmek istenen gerçek kitle parametresine eşit olması.",
+    "yasakli_kelimeler": [
+      "beklenen değer",
+      "yanlılık",
+      "kitle",
+      "eşitlik",
+      "hata"
+    ]
+  },
+  {
+    "id": 43,
+    "kategori": "ekonometri",
+    "kelime": "blue teoremi",
+    "aciklama": "en iyi doğrusal tarafsız tahmincinin en küçük kareler yöntemiyle elde edildiğini kanıtlayan teorem.",
+    "yasakli_kelimeler": [
+      "gauss markov",
+      "tarafsız",
+      "doğrusal",
+      "varyans",
+      "ols"
+    ]
+  },
+  {
+    "id": 44,
+    "kategori": "ekonometri",
+    "kelime": "gauss-markov varsayımları",
+    "aciklama": "en küçük kareler tahmincisinin en düşük varyanslı tarafsız tahminci olmasını sağlayan temel koşullar kümesi.",
+    "yasakli_kelimeler": [
+      "blue",
+      "hata terimi",
+      "dışsallık",
+      "sabit varyans",
+      "korelasyonsuz"
+    ]
+  },
+  {
+    "id": 45,
+    "kategori": "ekonometri",
+    "kelime": "serbestlik derecesi",
+    "aciklama": "bir istatistiksel hesaplamada parametre tahminleri yapıldıktan sonra bağımsız olarak değişebilen değer sayısı.",
+    "yasakli_kelimeler": [
+      "gözlem sayısı",
+      "parametre",
+      "fark",
+      "istatistik",
+      "payda"
+    ]
+  },
+  {
+    "id": 46,
+    "kategori": "ekonometri",
+    "kelime": "t-istatistiği",
+    "aciklama": "tek bir regresyon katsayısının sıfırdan istatistiksel olarak anlamlı derecede farklı olup olmadığını sınayan oran.",
+    "yasakli_kelimeler": [
+      "anlamlılık",
+      "katsayı",
+      "standart hata",
+      "öğrenci",
+      "hipotez"
+    ]
+  },
+  {
+    "id": 47,
+    "kategori": "ekonometri",
+    "kelime": "f-istatistiği",
+    "aciklama": "modeldeki bağımsız değişkenlerin katsayılarının topluca sıfıra eşit olup olmadığını test eden istatistik.",
+    "yasakli_kelimeler": [
+      "ortak anlamlılık",
+      "model",
+      "varyans analizi",
+      "kısıt",
+      "hipotez"
+    ]
+  },
+  {
+    "id": 48,
+    "kategori": "ekonometri",
+    "kelime": "p-değeri",
+    "aciklama": "sıfır hipotezinin doğru olduğu varsayımı altında mevcut örneklem sonucunu elde etme olasılığı.",
+    "yasakli_kelimeler": [
+      "anlamlılık düzeyi",
+      "red",
+      "hipotez",
+      "olasılık",
+      "alfa"
+    ]
+  },
+  {
+    "id": 49,
+    "kategori": "ekonometri",
+    "kelime": "standart hata",
+    "aciklama": "bir tahmincinin örneklemden örnekleme gösterdiği dağılımın değişkenliğini ölçen standart sapma.",
+    "yasakli_kelimeler": [
+      "tahmin",
+      "sapma",
+      "kesinlik",
+      "güven aralığı",
+      "varyans"
+    ]
+  },
+  {
+    "id": 50,
+    "kategori": "ekonometri",
+    "kelime": "güven aralığı",
+    "aciklama": "bilinmeyen kitle parametresini belirli bir güven düzeyinde kapsama olasılığına sahip değerler aralığı.",
+    "yasakli_kelimeler": [
+      "yüzde",
+      "alt sınır",
+      "üst sınır",
+      "parametre",
+      "anlamlılık"
+    ]
+  },
+  {
+    "id": 51,
+    "kategori": "ekonometri",
+    "kelime": "breusch-pagan testi",
+    "aciklama": "doğrusal regresyon artıklarının karelerinin açıklayıcı değişkenlere bağlı olup olmadığını test eden değişen varyans testi.",
+    "yasakli_kelimeler": [
+      "heteroskedastisite",
+      "varyans",
+      "artık",
+      "lm",
+      "yardımcı"
+    ]
+  },
+  {
+    "id": 52,
+    "kategori": "ekonometri",
+    "kelime": "breusch-godfrey testi",
+    "aciklama": "yüksek dereceden otokorelasyon varlığını ve gecikmeli bağımlı değişken içeren modelleri test edebilen lagrange çarpanı testi.",
+    "yasakli_kelimeler": [
+      "lm",
+      "otokorelasyon",
+      "gecikme",
+      "artık",
+      "seri"
+    ]
+  },
+  {
+    "id": 53,
+    "kategori": "ekonometri",
+    "kelime": "arch modeli",
+    "aciklama": "zaman serilerinde hata teriminin koşullu varyansının geçmiş hataların karelerine bağlı olduğunu modelleyen yaklaşım.",
+    "yasakli_kelimeler": [
+      "volatilite",
+      "oynaklık",
+      "engle",
+      "koşullu",
+      "varyans"
+    ]
+  },
+  {
+    "id": 54,
+    "kategori": "ekonometri",
+    "kelime": "garch modeli",
+    "aciklama": "koşullu varyansı hem geçmiş hata karelerine hem de geçmiş koşullu varyanslara bağlı kılan genelleştirilmiş model.",
+    "yasakli_kelimeler": [
+      "bollerslev",
+      "volatilite",
+      "oynaklık",
+      "zaman serisi",
+      "varyans"
+    ]
+  },
+  {
+    "id": 55,
+    "kategori": "ekonometri",
+    "kelime": "volatilite kümelenmesi",
+    "aciklama": "finansal zaman serilerinde büyük değişimleri büyük değişimlerin, küçük değişimleri küçük değişimlerin takip etmesi olgusu.",
+    "yasakli_kelimeler": [
+      "mandelbrot",
+      "oynaklık",
+      "arch",
+      "dalgalanma",
+      "şok"
+    ]
+  },
+  {
+    "id": 56,
+    "kategori": "ekonometri",
+    "kelime": "arima modeli",
+    "aciklama": "durağan olmayan serileri fark alarak durağanlaştıran ve otoregresif ile hareketli ortalama bileşenlerini birleştiren model.",
+    "yasakli_kelimeler": [
+      "box jenkins",
+      "otoregresif",
+      "fark",
+      "hareketli ortalama",
+      "tahmin"
+    ]
+  },
+  {
+    "id": 57,
+    "kategori": "ekonometri",
+    "kelime": "hareketli ortalama modeli",
+    "aciklama": "bir zaman serisinin şimdiki değerini geçmiş beyaz gürültü hata terimlerinin doğrusal kombinasyonu olarak ifade eden model.",
+    "yasakli_kelimeler": [
+      "ma",
+      "hata",
+      "şok",
+      "beyaz gürültü",
+      "zaman"
+    ]
+  },
+  {
+    "id": 58,
+    "kategori": "ekonometri",
+    "kelime": "otoregresif model",
+    "aciklama": "bir değişkenin şimdiki değerini kendi geçmiş dönem değerlerinin fonksiyonu olarak açıklayan zaman serisi modeli.",
+    "yasakli_kelimeler": [
+      "ar",
+      "gecikme",
+      "geçmiş",
+      "seri",
+      "kendi"
+    ]
+  },
+  {
+    "id": 59,
+    "kategori": "ekonometri",
+    "kelime": "beyaz gürültü",
+    "aciklama": "sıfır ortalamaya, sabit varyansa sahip ve hiçbir gecikmeyle otokorelasyonu bulunmayan rassal süreç.",
+    "yasakli_kelimeler": [
+      "hata",
+      "rassal",
+      "bağımsız",
+      "saf",
+      "seri"
+    ]
+  },
+  {
+    "id": 60,
+    "kategori": "ekonometri",
+    "kelime": "rasgele yürüyüş",
+    "aciklama": "bir değişkenin bir sonraki değerinin mevcut değerine tamamen rastgele bir hata eklenmesiyle oluştuğu stokastik süreç.",
+    "yasakli_kelimeler": [
+      "random walk",
+      "birim kök",
+      "öngörülemez",
+      "drift",
+      "stokastik"
+    ]
+  },
+  {
+    "id": 61,
+    "kategori": "ekonometri",
+    "kelime": "yapısal kırılma",
+    "aciklama": "zaman serisinde politika değişikliği veya kriz gibi dışsal bir olay nedeniyle model parametrelerinin aniden değişmesi.",
+    "yasakli_kelimeler": [
+      "chow testi",
+      "rejim",
+      "parametre",
+      "kriz",
+      "değişim"
+    ]
+  },
+  {
+    "id": 62,
+    "kategori": "ekonometri",
+    "kelime": "chow testi",
+    "aciklama": "bir zaman serisinde veya regresyonda belirli bir tarihte parametre kararlılığının bozulup bozulmadığını test eden yöntem.",
+    "yasakli_kelimeler": [
+      "yapısal kırılma",
+      "alt örneklem",
+      "f testi",
+      "kararlılık",
+      "parametre"
+    ]
+  },
+  {
+    "id": 63,
+    "kategori": "ekonometri",
+    "kelime": "kointegrasyon vektörü",
+    "aciklama": "durağan olmayan serileri birleştirerek durağan bir hata terimi oluşturan ağırlık katsayıları vektörü.",
+    "yasakli_kelimeler": [
+      "denge",
+      "uzun dönem",
+      "eşbütünleşme",
+      "katsayı",
+      "johansen"
+    ]
+  },
+  {
+    "id": 64,
+    "kategori": "ekonometri",
+    "kelime": "johansen eşbütünleşme testi",
+    "aciklama": "çok değişkenli var sistemlerinde birden fazla eşbütünleşme ilişkisini maksimum olabilirlik yöntemiyle sınayan test.",
+    "yasakli_kelimeler": [
+      "özdeğer",
+      "iz istatistiği",
+      "koentegrasyon",
+      "vektör",
+      "var"
+    ]
+  },
+  {
+    "id": 65,
+    "kategori": "ekonometri",
+    "kelime": "engle-granger yöntemi",
+    "aciklama": "iki değişken arasındaki koentegrasyonu regresyon artıklarının durağanlığını sınayarak inceleyen iki adımlı yaklaşım.",
+    "yasakli_kelimeler": [
+      "iki aşamalı",
+      "artık",
+      "birim kök",
+      "uzun dönem",
+      "eşbütünleşme"
+    ]
+  },
+  {
+    "id": 66,
+    "kategori": "ekonometri",
+    "kelime": "farkların farkı",
+    "aciklama": "bir politika müdahalesinin nedensel etkisini müdahale ve kontrol gruplarının zaman içindeki değişimlerini karşılaştırarak ölçen yöntem.",
+    "yasakli_kelimeler": [
+      "did",
+      "politika analizi",
+      "kontrol grubu",
+      "müdahale",
+      "nedensellik"
+    ]
+  },
+  {
+    "id": 67,
+    "kategori": "ekonometri",
+    "kelime": "eğilim skoru eşleştirmesi",
+    "aciklama": "tedavi alma olasılıkları benzer olan bireyleri eşleştirerek gözlemsel verilerde seçim yanlılığını azaltan teknik.",
+    "yasakli_kelimeler": [
+      "propensity score",
+      "eşleştirme",
+      "yanlılık",
+      "tedavi",
+      "kontrol"
+    ]
+  },
+  {
+    "id": 68,
+    "kategori": "ekonometri",
+    "kelime": "kesintili regresyon",
+    "aciklama": "tedaviye katılımın belirli bir sürekli değişken eşiğine göre belirlendiği durumlarda yerel nedensel etkiyi ölçen yöntem.",
+    "yasakli_kelimeler": [
+      "rdd",
+      "eşik değeri",
+      "yerel",
+      "nedensel",
+      "süreksizlik"
+    ]
+  },
+  {
+    "id": 69,
+    "kategori": "ekonometri",
+    "kelime": "sentetik kontrol yöntemi",
+    "aciklama": "tedavi uygulanan tek bir birimi diğer etkilenmeyen birimlerin ağırlıklı kombinasyonuyla oluşturulan sahte birimle karşılaştıran analiz.",
+    "yasakli_kelimeler": [
+      "ağırlık",
+      "vaka analizi",
+      "politika",
+      "karşılaştırma",
+      "donör"
+    ]
+  },
+  {
+    "id": 70,
+    "kategori": "ekonometri",
+    "kelime": "seçim yanlılığı",
+    "aciklama": "örneklemin rassal seçilmemesi veya bireylerin kendi kararlarıyla tedaviye katılması sonucu ortaya çıkan sistematik hata.",
+    "yasakli_kelimeler": [
+      "heckman",
+      "örneklem",
+      "öz seçim",
+      "yanlı",
+      "temsil"
+    ]
+  },
+  {
+    "id": 71,
+    "kategori": "ekonometri",
+    "kelime": "heckman iki aşamalı düzeltmesi",
+    "aciklama": "örneklem seçim yanlılığını gidermek için mills ters oranını regresyona ekleyen ekonometrik model.",
+    "yasakli_kelimeler": [
+      "mills oranı",
+      "seçim yanlılığı",
+      "sansürlü",
+      "probit",
+      "tahmin"
+    ]
+  },
+  {
+    "id": 72,
+    "kategori": "ekonometri",
+    "kelime": "beklenen değer",
+    "aciklama": "bir rassal değişkenin olası tüm değerlerinin gerçekleşme olasılıklarıyla çarpılıp toplanması sonucu bulunan teorik ortalama.",
+    "yasakli_kelimeler": [
+      "ortalama",
+      "olasılık",
+      "ağırlıklı",
+      "teorik",
+      "popülasyon"
+    ]
+  },
+  {
+    "id": 73,
+    "kategori": "ekonometri",
+    "kelime": "kovaryans",
+    "aciklama": "iki rassal değişkenin ortalamalarından olan sapmalarının birlikte nasıl değiştiğini gösteren ilişki ölçüsü.",
+    "yasakli_kelimeler": [
+      "ilişki",
+      "birlikte",
+      "değişim",
+      "korelasyon",
+      "sapma"
+    ]
+  },
+  {
+    "id": 74,
+    "kategori": "ekonometri",
+    "kelime": "korelasyon katsayısı",
+    "aciklama": "iki değişken arasındaki doğrusal ilişkinin gücünü ve yönünü eksi bir ile artı bir arasında normalize eden ölçü.",
+    "yasakli_kelimeler": [
+      "pearson",
+      "doğrusal",
+      "ilişki",
+      "derece",
+      "kovaryans"
+    ]
+  },
+  {
+    "id": 75,
+    "kategori": "ekonometri",
+    "kelime": "uyum iyiliği",
+    "aciklama": "kurulan ekonometrik modelin gerçek gözlem verilerine ne derece iyi uyum sağladığını gösteren genel kavram.",
+    "yasakli_kelimeler": [
+      "r kare",
+      "açıklama gücü",
+      "model",
+      "artık",
+      "uygunluk"
+    ]
+  },
+  {
+    "id": 76,
+    "kategori": "ekonometri",
+    "kelime": "akaike bilgi kriteri",
+    "aciklama": "modelin uyum iyiliği ile içerdiği parametre sayısını dengeleyerek model seçimi yapmayı sağlayan kriter.",
+    "yasakli_kelimeler": [
+      "aic",
+      "model seçimi",
+      "ceza",
+      "parametre",
+      "olabilirlik"
+    ]
+  },
+  {
+    "id": 77,
+    "kategori": "ekonometri",
+    "kelime": "schwarz bilgi kriteri",
+    "aciklama": "örneklem büyüklüğünü dikkate alarak fazla parametre kullanımını aic ye göre daha sert cezalandıran model seçim ölçütü.",
+    "yasakli_kelimeler": [
+      "bic",
+      "bilgi kriteri",
+      "model seçimi",
+      "parametre",
+      "ceza"
+    ]
+  },
+  {
+    "id": 78,
+    "kategori": "ekonometri",
+    "kelime": "kısıtlanmış model",
+    "aciklama": "bazı katsayıların sıfıra veya belirli bir değere sabitlendiği, kısıtsız modele kıyasla daha az parametreli regresyon.",
+    "yasakli_kelimeler": [
+      "kısıt",
+      "f testi",
+      "hipotez",
+      "serbestlik",
+      "parametre"
+    ]
+  },
+  {
+    "id": 79,
+    "kategori": "ekonometri",
+    "kelime": "wald testi",
+    "aciklama": "kısıtlanmış modeli tahmin etmeye gerek kalmadan sadece kısıtsız model parametreleri üzerinden kısıtları sınayan test.",
+    "yasakli_kelimeler": [
+      "kısıt",
+      "hipotez",
+      "katsayı",
+      "asimptotik",
+      "ki kare"
+    ]
+  },
+  {
+    "id": 80,
+    "kategori": "ekonometri",
+    "kelime": "lagrange çarpanı testi",
+    "aciklama": "sadece kısıtlanmış modelin tahmin edilmesiyle kısıtların geçerliliğini araştıran skor testi.",
+    "yasakli_kelimeler": [
+      "lm testi",
+      "skor",
+      "kısıt",
+      "olabilirlik",
+      "hata"
+    ]
+  },
+  {
+    "id": 81,
+    "kategori": "ekonometri",
+    "kelime": "olabilirlik oranı testi",
+    "aciklama": "kısıtlı ve kısıtsız modellerin maksimum olabilirlik değerlerini karşılaştırarak kısıtların anlamlılığını sınayan test.",
+    "yasakli_kelimeler": [
+      "lr",
+      "olabilirlik",
+      "kısıtsız",
+      "logaritma",
+      "ki kare"
+    ]
+  },
+  {
+    "id": 82,
+    "kategori": "ekonometri",
+    "kelime": "varyans büyütme faktörü",
+    "aciklama": "bir regresyon katsayısının varyansının çoklu doğrusal bağlantı nedeniyle ne kadar şiştiğini ölçen gösterge.",
+    "yasakli_kelimeler": [
+      "vif",
+      "multikolinearite",
+      "şişme",
+      "bağımsız",
+      "bağlantı"
+    ]
+  },
+  {
+    "id": 83,
+    "kategori": "ekonometri",
+    "kelime": "ihmal edilmiş değişken yanlılığı",
+    "aciklama": "modele dahil edilmesi gereken önemli bir açıklayıcı değişkenin dışarıda bırakılmasıyla katsayıların sapmalı çıkması.",
+    "yasakli_kelimeler": [
+      "omitted variable",
+      "yanlılık",
+      "eksik",
+      "hata terimi",
+      "korelasyon"
+    ]
+  },
+  {
+    "id": 84,
+    "kategori": "ekonometri",
+    "kelime": "gereksiz değişken",
+    "aciklama": "bağımlı değişken üzerinde gerçekte hiçbir etkisi olmadığı halde modele eklenip varyansı artıran değişken.",
+    "yasakli_kelimeler": [
+      "etkisiz",
+      "varyans",
+      "serbestlik",
+      "anlamsız",
+      "aşırı belirleme"
+    ]
+  },
+  {
+    "id": 85,
+    "kategori": "ekonometri",
+    "kelime": "fonksiyonel kalıp hatası",
+    "aciklama": "doğrusal olmayan bir ilişkinin yanlışlıkla doğrusal bir modelle formüle edilmesi gibi yapısal spesifikasyon hatası.",
+    "yasakli_kelimeler": [
+      "ramsey reset",
+      "yanlış model",
+      "doğrusallık",
+      "spesifikasyon",
+      "hata"
+    ]
+  },
+  {
+    "id": 86,
+    "kategori": "ekonometri",
+    "kelime": "ramsey reset testi",
+    "aciklama": "regresyon modelinde ihmal edilen değişkenler veya yanlış matematiksel biçim bulunup bulunmadığını test eden yöntem.",
+    "yasakli_kelimeler": [
+      "spesifikasyon",
+      "kuvvetler",
+      "kalıp hatası",
+      "doğrusallık",
+      "f testi"
+    ]
+  },
+  {
+    "id": 87,
+    "kategori": "ekonometri",
+    "kelime": "sargan testi",
+    "aciklama": "araç değişken modellerinde kullanılan araçların model dışı ve geçerli olup olmadığını sınayan aşırı belirleme testi.",
+    "yasakli_kelimeler": [
+      "aşırı belirleme",
+      "enstrüman",
+      "araç",
+      "hansen j",
+      "geçerlilik"
+    ]
+  },
+  {
+    "id": 88,
+    "kategori": "ekonometri",
+    "kelime": "hansen j testi",
+    "aciklama": "genelleştirilmiş momentler yönteminde aşırı belirleme kısıtlarının ve moment koşullarının tutarlılığını test eden istatistik.",
+    "yasakli_kelimeler": [
+      "gmm",
+      "moment",
+      "araç değişken",
+      "sargan",
+      "kısıt"
+    ]
+  },
+  {
+    "id": 89,
+    "kategori": "ekonometri",
+    "kelime": "dinamik panel veri",
+    "aciklama": "açıklayıcı değişkenler arasında bağımlı değişkenin geçmiş gecikmeli değerinin de yer aldığı panel regresyon modeli.",
+    "yasakli_kelimeler": [
+      "arellano bond",
+      "gecikme",
+      "fark",
+      "gmm",
+      "panel"
+    ]
+  },
+  {
+    "id": 90,
+    "kategori": "ekonometri",
+    "kelime": "arellano-bond tahmincisi",
+    "aciklama": "dinamik panel modellerinde içsellik ve gecikmeli bağımlı değişken sorununu birinci farklar ve gmm ile çözen tahminci.",
+    "yasakli_kelimeler": [
+      "fark gmm",
+      "dinamik panel",
+      "araç",
+      "gecikme",
+      "enstrüman"
+    ]
+  },
+  {
+    "id": 91,
+    "kategori": "ekonometri",
+    "kelime": "havuzlanmış en küçük kareler",
+    "aciklama": "panel veride birimler ve zaman boyutları arasındaki bireysel farklılıkları yok sayarak tüm veriyi tek bir kütle gibi tahmin etme.",
+    "yasakli_kelimeler": [
+      "pooled ols",
+      "panel",
+      "farksız",
+      "bireysel etki",
+      "basit"
+    ]
+  },
+  {
+    "id": 92,
+    "kategori": "ekonometri",
+    "kelime": "zayıf araç problemi",
+    "aciklama": "kullanılan araç değişkenin içsel açıklayıcı değişkenle çok zayıf bir korelasyona sahip olması durumu.",
+    "yasakli_kelimeler": [
+      "enstrüman",
+      "f kuralı",
+      "ilişki",
+      "yanlılık",
+      "güçsüz"
+    ]
+  },
+  {
+    "id": 93,
+    "kategori": "ekonometri",
+    "kelime": "yerel ortalama tedavi etkisi",
+    "aciklama": "araç değişken yönteminde sadece araç değişkenin teşvikiyle davranış değiştiren uyanlar grubu üzerindeki etki.",
+    "yasakli_kelimeler": [
+      "late",
+      "nedensellik",
+      "araç",
+      "tedavi",
+      "uyumlu"
+    ]
+  },
+  {
+    "id": 94,
+    "kategori": "ekonometri",
+    "kelime": "ölçüm hatası",
+    "aciklama": "ekonomik verilerin toplanması veya ölçülmesi sırasında ortaya çıkan ve katsayıları sıfıra doğru zayıflatan hata.",
+    "yasakli_kelimeler": [
+      "sönümleme",
+      "yanlılık",
+      "veri",
+      "kayıt",
+      "hata"
+    ]
+  },
+  {
+    "id": 95,
+    "kategori": "ekonometri",
+    "kelime": "sahte regresyon",
+    "aciklama": "aralarında hiçbir mantıksal nedensellik bağı olmayan iki durağan dışı zaman serisinin yüksek r-kare vermesi.",
+    "yasakli_kelimeler": [
+      "spurious",
+      "trend",
+      "durağan olmama",
+      "aldatıcı",
+      "ilişkisiz"
+    ]
+  },
+  {
+    "id": 96,
+    "kategori": "ekonometri",
+    "kelime": "ortogonalite",
+    "aciklama": "iki vektörün veya rastgele değişkenin iç çarpımının sıfır olması, yani birbirine tamamen dik ve bağımsız olması durumu.",
+    "yasakli_kelimeler": [
+      "diklik",
+      "bağımsız",
+      "kovaryans",
+      "sıfır",
+      "ilişkisiz"
+    ]
+  },
+  {
+    "id": 97,
+    "kategori": "ekonometri",
+    "kelime": "hacimsel tahmin",
+    "aciklama": "geleceğe yönelik makroekonomik projeksiyonlarda güven sınırlarını ve olası dalgalanma aralığını belirleme süreci.",
+    "yasakli_kelimeler": [
+      "öngörü",
+      "projeksiyon",
+      "tahmin",
+      "senaryo",
+      "gelecek"
+    ]
+  },
+  {
+    "id": 98,
+    "kategori": "ekonometri",
+    "kelime": "trend durağanlık",
+    "aciklama": "deterministik bir zaman trendi seriden arındırıldığında durağan hale gelen stokastik süreç türü.",
+    "yasakli_kelimeler": [
+      "deterministik",
+      "zaman",
+      "arındırma",
+      "trend",
+      "fark"
+    ]
+  },
+  {
+    "id": 99,
+    "kategori": "ekonometri",
+    "kelime": "fark durağanlık",
+    "aciklama": "stokastik trend içeren bir serinin birinci veya daha yüksek mertebeden farkı alındığında durağan hale gelmesi.",
+    "yasakli_kelimeler": [
+      "birinci fark",
+      "stokastik trend",
+      "birim kök",
+      "durağan",
+      "arındırma"
+    ]
+  },
+  {
+    "id": 100,
+    "kategori": "ekonometri",
+    "kelime": "çekirdek yoğunluk tahmini",
+    "aciklama": "bir rassal değişkenin olasılık yoğunluk fonksiyonunu parametrik olmayan bir şekilde tahmin etme yöntemi.",
+    "yasakli_kelimeler": [
+      "kernel",
+      "nonparametrik",
+      "bant genişliği",
+      "histogram",
+      "yoğunluk"
+    ]
+  }
+]

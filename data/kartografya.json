@@ -1,0 +1,1302 @@
+[
+  {
+    "kelime": "harita",
+    "aciklama": "yeryüzünün tamamının veya bir parçasının belirli bir ölçeğe göre küçültülerek düzlem üzerine aktarılmış grafik çizimi.",
+    "yasakli_kelimeler": [
+      "kroki",
+      "atlas",
+      "ölçek",
+      "yeryüzü",
+      "projeksiyon"
+    ],
+    "id": 1,
+    "kategori": "kartografya"
+  },
+  {
+    "kelime": "ölçek",
+    "aciklama": "harita üzerindeki bir uzunluk ile bu uzunluğun arazideki gerçek karşılığı arasındaki küçültme oranı.",
+    "yasakli_kelimeler": [
+      "oran",
+      "küçültme",
+      "kesir",
+      "çizgi ölçek",
+      "harita uzunluğu"
+    ],
+    "id": 2,
+    "kategori": "kartografya"
+  },
+  {
+    "kelime": "projeksiyon",
+    "aciklama": "küre veya elipsoit şeklindeki yer yüzeyini en az deformasyonla iki boyutlu düzlem kağıda aktarma matematik sistemi.",
+    "yasakli_kelimeler": [
+      "izdüşüm",
+      "küre",
+      "düzlem",
+      "bozulma",
+      "silindirik"
+    ],
+    "id": 3,
+    "kategori": "kartografya"
+  },
+  {
+    "kelime": "lejant",
+    "aciklama": "haritalarda kullanılan özel işaretlerin, renklerin, çizgilerin ve sembollerin ne anlama geldiğini açıklayan harita anahtarı tablosu.",
+    "yasakli_kelimeler": [
+      "harita anahtarı",
+      "semboller",
+      "işaret tablosu",
+      "açıklama",
+      "simge"
+    ],
+    "id": 4,
+    "kategori": "kartografya"
+  },
+  {
+    "kelime": "izohips",
+    "aciklama": "deniz seviyesine göre aynı yükseltiye sahip noktaların birleştirilmesiyle elde edilen kapalı eşyükselti eğrisi.",
+    "yasakli_kelimeler": [
+      "eşyükselti",
+      "eğri",
+      "rakım",
+      "topoğrafya",
+      "yükseklik"
+    ],
+    "id": 5,
+    "kategori": "kartografya"
+  },
+  {
+    "kelime": "izobat",
+    "aciklama": "deniz veya göllerde su yüzeyinden itibaren aynı derinliğe sahip noktaları birleştiren eşderinlik eğrisi.",
+    "yasakli_kelimeler": [
+      "eşderinlik",
+      "derinlik eğrisi",
+      "batimetri",
+      "deniz tabanı",
+      "izohips"
+    ],
+    "id": 6,
+    "kategori": "kartografya"
+  },
+  {
+    "kelime": "meridyen",
+    "aciklama": "kuzey ve güney kutup noktalarını birleştiren ve ekvatoru dik kesen eşit uzunluktaki hayali yarım çemberler.",
+    "yasakli_kelimeler": [
+      "boylam",
+      "greenwich",
+      "kutup",
+      "ekvator",
+      "paralel"
+    ],
+    "id": 7,
+    "kategori": "kartografya"
+  },
+  {
+    "kelime": "paralel",
+    "aciklama": "ekvator düzlemine paralel olarak çizilen ve doğu-batı doğrultusunda uzanan hayali enlem daireleri.",
+    "yasakli_kelimeler": [
+      "enlem",
+      "ekvator",
+      "kutup dairesi",
+      "derece",
+      "meridyen"
+    ],
+    "id": 8,
+    "kategori": "kartografya"
+  },
+  {
+    "kelime": "ekvator",
+    "aciklama": "dünyayı kuzey ve güney yarımküre olmak üzere iki eşit parçaya bölen en büyük enlem dairesi.",
+    "yasakli_kelimeler": [
+      "sıfır derece",
+      "enlem",
+      "yarımküre",
+      "kutup",
+      "çevre"
+    ],
+    "id": 9,
+    "kategori": "kartografya"
+  },
+  {
+    "kelime": "boylam",
+    "aciklama": "başlangıç meridyeni olan greenwich'e göre doğuya veya batıya doğru açısal mesafe değeri.",
+    "yasakli_kelimeler": [
+      "meridyen",
+      "greenwich",
+      "derece",
+      "zaman farkı",
+      "enlem"
+    ],
+    "id": 10,
+    "kategori": "kartografya"
+  },
+  {
+    "kelime": "enlem",
+    "aciklama": "yeryüzündeki herhangi bir noktanın ekvator düzlemine olan açısal uzaklık derecesi.",
+    "yasakli_kelimeler": [
+      "ekvator",
+      "paralel",
+      "açısal uzaklık",
+      "kuzey güney",
+      "boylam"
+    ],
+    "id": 11,
+    "kategori": "kartografya"
+  },
+  {
+    "kelime": "greenwich",
+    "aciklama": "londra'da bulunan ve uluslararası kabul gören sıfır dereceli başlangıç meridyeninin geçtiği gözlemevi.",
+    "yasakli_kelimeler": [
+      "başlangıç meridyeni",
+      "sıfır meridyeni",
+      "londra",
+      "gözlemevi",
+      "boylam"
+    ],
+    "id": 12,
+    "kategori": "kartografya"
+  },
+  {
+    "kelime": "datum",
+    "aciklama": "yeryüzündeki noktaların coğrafi koordinatlarını ve yüksekliklerini hesaplamak için referans alınan matematiksel başlangıç yüzeyi.",
+    "yasakli_kelimeler": [
+      "referans yüzeyi",
+      "koordinat sistemi",
+      "wgs84",
+      "elipsoit",
+      "jeodezi"
+    ],
+    "id": 13,
+    "kategori": "kartografya"
+  },
+  {
+    "kelime": "jeoit",
+    "aciklama": "dünyanın yerçekimi potansiyel alanına dik olan ve ortalama deniz seviyesiyle çakışan gerçek fiziksel şekli.",
+    "yasakli_kelimeler": [
+      "dünyanın şekli",
+      "yerçekimi",
+      "deniz seviyesi",
+      "fiziksel yüzey",
+      "elipsoit"
+    ],
+    "id": 14,
+    "kategori": "kartografya"
+  },
+  {
+    "kelime": "elipsoit",
+    "aciklama": "kutuplardan basık ekvatordan şişkin olan dünyanın şeklini matematiksel formüllerle temsil eden geometrik referans cismi.",
+    "yasakli_kelimeler": [
+      "geometrik şekil",
+      "dönel cisim",
+      "kutuplardan basık",
+      "jeoit",
+      "datum"
+    ],
+    "id": 15,
+    "kategori": "kartografya"
+  },
+  {
+    "kelime": "topoğrafya",
+    "aciklama": "bir arazinin doğal ve yapay tüm yer şekillerini, engebe ve yükseltilerini ayrıntılı olarak gösteren harita alanı.",
+    "yasakli_kelimeler": [
+      "yer şekilleri",
+      "kabartma",
+      "arazi engebesi",
+      "yükselti",
+      "izohips"
+    ],
+    "id": 16,
+    "kategori": "kartografya"
+  },
+  {
+    "kelime": "batimetri",
+    "aciklama": "okyanus, deniz ve göl tabanlarının derinliklerini, sualtı topoğrafyasını ölçme ve haritalandırma bilimi.",
+    "yasakli_kelimeler": [
+      "su altı haritası",
+      "deniz derinliği",
+      "izobat",
+      "sonar",
+      "derinlik ölçümü"
+    ],
+    "id": 17,
+    "kategori": "kartografya"
+  },
+  {
+    "kelime": "hipsometri",
+    "aciklama": "yeryüzünün deniz seviyesinden yüksekte kalan kara parçalarının yükselti dağılımını ölçme ve renklerle haritalama bilimi.",
+    "yasakli_kelimeler": [
+      "yükseklik ölçümü",
+      "renklendirme yöntemi",
+      "rakım",
+      "yükselti basamakları",
+      "batimetri zıddı"
+    ],
+    "id": 18,
+    "kategori": "kartografya"
+  },
+  {
+    "kelime": "kroki",
+    "aciklama": "bir yerin veya bölgenin ölçek kullanılmadan, kuşbakışı görünüşle ve kabataslak çizilmiş basit planı.",
+    "yasakli_kelimeler": [
+      "ölçeksiz çizim",
+      "kabataslak",
+      "kuşbakışı",
+      "taslak plan",
+      "harita"
+    ],
+    "id": 19,
+    "kategori": "kartografya"
+  },
+  {
+    "kelime": "plan",
+    "aciklama": "bir binayı, mahalleyi veya küçük bir arsayı çok büyük ölçekle ve tam ayrıntılarıyla gösteren teknik çizim.",
+    "yasakli_kelimeler": [
+      "büyük ölçek",
+      "mimari çizim",
+      "arsa krokisi",
+      "ayrıntılı harita",
+      "kadastro"
+    ],
+    "id": 20,
+    "kategori": "kartografya"
+  },
+  {
+    "kelime": "atlas",
+    "aciklama": "dünya, kıtalar veya ülkeler hakkında coğrafi ve tematik haritaları bir arada toplayan ciltli harita kitabı.",
+    "yasakli_kelimeler": [
+      "harita kitabı",
+      "cilt",
+      "coğrafya albümü",
+      "koleksiyon",
+      "haritalar"
+    ],
+    "id": 21,
+    "kategori": "kartografya"
+  },
+  {
+    "kelime": "kadastro",
+    "aciklama": "ülkedeki tüm arazilerin, mülklerin ve parsellerin sınırlarını, sahiplik haklarını ve değerlerini resmi olarak tespit eden harita sistemi.",
+    "yasakli_kelimeler": [
+      "tapu",
+      "mülkiyet",
+      "parsel",
+      "sınır tespiti",
+      "harita müdürlüğü"
+    ],
+    "id": 22,
+    "kategori": "kartografya"
+  },
+  {
+    "kelime": "portolan",
+    "aciklama": "ortaçağda akdeniz denizcilerinin kıyıları, limanları ve pusula rüzgar güllerini gösteren parşömen üzerine çizili deniz haritası.",
+    "yasakli_kelimeler": [
+      "deniz haritası",
+      "pusula gülü",
+      "ortaçağ",
+      "kıyı haritası",
+      "parşömen"
+    ],
+    "id": 23,
+    "kategori": "kartografya"
+  },
+  {
+    "kelime": "paskalya haritası",
+    "aciklama": "ortaçağ avrupasında dünyayı doğusu üstte olacak şekilde t ve o harfleriyle gösteren dinsel dünya haritası.",
+    "yasakli_kelimeler": [
+      "t-o haritası",
+      "ortaçağ dünyası",
+      "kudüs merkezli",
+      "dini harita",
+      "asya avrupa afrika"
+    ],
+    "id": 24,
+    "kategori": "kartografya"
+  },
+  {
+    "kelime": "mercator",
+    "aciklama": "özellikle deniz seyrüseferinde pusula yönlerini doğru gösteren ancak kutuplara doğru alanları aşırı büyüten silindirik projeksiyon.",
+    "yasakli_kelimeler": [
+      "silindirik projeksiyon",
+      "denizcilik haritası",
+      "açı koruyan",
+      "grönland yanılsaması",
+      "harita projeksiyonu"
+    ],
+    "id": 25,
+    "kategori": "kartografya"
+  },
+  {
+    "kelime": "robinson",
+    "aciklama": "dünya haritalarında alan ve açı bozulmalarını görsel olarak dengeli dağıtmak amacıyla tasarlanmış kesintili psödosilindirik projeksiyon.",
+    "yasakli_kelimeler": [
+      "dünya haritası",
+      "denge projeksiyonu",
+      "kompromis",
+      "atlas projeksiyonu",
+      "küresel görünüm"
+    ],
+    "id": 26,
+    "kategori": "kartografya"
+  },
+  {
+    "kelime": "peters",
+    "aciklama": "üçüncü dünya ülkelerinin ve afrika'nın gerçek yüzölçümü oranlarını koruyarak ekvator kuşağını dar ve uzun gösteren alan koruyan projeksiyon.",
+    "yasakli_kelimeler": [
+      "alan koruyan",
+      "afrika boyutu",
+      "gall peters",
+      "üçüncü dünya",
+      "projeksiyon"
+    ],
+    "id": 27,
+    "kategori": "kartografya"
+  },
+  {
+    "kelime": "konformal",
+    "aciklama": "harita üzerinde küçük alanlardaki açıları ve şekilleri orijinaline sadık kalarak hiç bozmadan koruyan projeksiyon türü.",
+    "yasakli_kelimeler": [
+      "açı koruyan",
+      "şekil koruma",
+      "açısal doğruluk",
+      "mercator",
+      "bozulma"
+    ],
+    "id": 28,
+    "kategori": "kartografya"
+  },
+  {
+    "kelime": "eşdeğer",
+    "aciklama": "haritada kara ve deniz alanlarının birbirine olan yüzölçümü oranlarını gerçeğe tam sadık kalarak koruyan projeksiyon türü.",
+    "yasakli_kelimeler": [
+      "alan koruyan",
+      "yüzölçümü dengesi",
+      "eşalanlı",
+      "projeksiyon tipi",
+      "oran"
+    ],
+    "id": 29,
+    "kategori": "kartografya"
+  },
+  {
+    "kelime": "eşuzaklıklı",
+    "aciklama": "harita üzerindeki belirli bir merkez noktadan diğer tüm noktalara olan mesafeleri doğru ölçekle koruyan projeksiyon türü.",
+    "yasakli_kelimeler": [
+      "uzaklık koruyan",
+      "mesafe ölçeği",
+      "ekidistant",
+      "merkez uzaklığı",
+      "radyal hat"
+    ],
+    "id": 30,
+    "kategori": "kartografya"
+  },
+  {
+    "kelime": "koordinat",
+    "aciklama": "bir noktanın yeryüzündeki veya harita düzlemindeki kesin konumunu belirten enlem-boylam veya x-y sayısal değerleri.",
+    "yasakli_kelimeler": [
+      "enlem boylam",
+      "konum değeri",
+      "x y ekseni",
+      "derece dakika",
+      "lokasyon"
+    ],
+    "id": 31,
+    "kategori": "kartografya"
+  },
+  {
+    "kelime": "coğrafi bilgi sistemi",
+    "aciklama": "yeryüzüne ait mekansal verilerin toplanması, depolanması, analiz edilmesi ve haritalandırılmasını sağlayan bilgisayar sistemi.",
+    "yasakli_kelimeler": [
+      "cbs",
+      "gis",
+      "mekansal analiz",
+      "sayısal harita",
+      "yazılım"
+    ],
+    "id": 32,
+    "kategori": "kartografya"
+  },
+  {
+    "kelime": "uzaktan algılama",
+    "aciklama": "uydular veya uçaklar vasıtasıyla fiziki temas olmaksızın yeryüzü hakkında veri ve görüntü toplama teknolojisi.",
+    "yasakli_kelimeler": [
+      "uydu görüntüsü",
+      "hava fotoğrafı",
+      "sensör",
+      "temassız ölçüm",
+      "spektral"
+    ],
+    "id": 33,
+    "kategori": "kartografya"
+  },
+  {
+    "kelime": "fotogrametri",
+    "aciklama": "uçak veya insansız hava araçlarından çekilen bindirmeli fotoğrafları geometrik olarak işleyerek harita ve 3b model üretme tekniği.",
+    "yasakli_kelimeler": [
+      "hava fotoğrafı",
+      "stereoskopi",
+      "bindirme oranı",
+      "ölçme tekniği",
+      "ortofoto"
+    ],
+    "id": 34,
+    "kategori": "kartografya"
+  },
+  {
+    "kelime": "ortofoto",
+    "aciklama": "arazi engebesi, kamera eğikliği ve lens bozulmalarından arındırılarak harita gibi ölçekli hale getirilmiş hava fotoğrafı.",
+    "yasakli_kelimeler": [
+      "düzeltilmiş fotoğraf",
+      "ölçekli hava resmi",
+      "fotogrametri ürünü",
+      "geometrik düzeltme",
+      "uydu fotoğrafı"
+    ],
+    "id": 35,
+    "kategori": "kartografya"
+  },
+  {
+    "kelime": "vektör veri",
+    "aciklama": "coğrafi bilgi sistemlerinde nesneleri nokta, çizgi ve poligon koordinat geometrileriyle temsil eden veri modeli.",
+    "yasakli_kelimeler": [
+      "nokta çizgi poligon",
+      "mekansal model",
+      "raster zıddı",
+      "koordinat çifti",
+      "cbs verisi"
+    ],
+    "id": 36,
+    "kategori": "kartografya"
+  },
+  {
+    "kelime": "raster veri",
+    "aciklama": "coğrafi alanı eşit boyutlu piksel hücrelerinden oluşan bir matris ızgarasıyla temsil eden görüntü veri modeli.",
+    "yasakli_kelimeler": [
+      "piksel ızgarası",
+      "hücre matrisi",
+      "piksel tabanlı",
+      "uydu resmi",
+      "vektör zıddı"
+    ],
+    "id": 37,
+    "kategori": "kartografya"
+  },
+  {
+    "kelime": "piksel",
+    "aciklama": "sayısal bir raster haritanın veya uydu görüntüsünün temsil edebildiği en küçük mekansal çözünürlük hücresi.",
+    "yasakli_kelimeler": [
+      "çözünürlük",
+      "en küçük birim",
+      "kare hücre",
+      "görüntü noktası",
+      "matris"
+    ],
+    "id": 38,
+    "kategori": "kartografya"
+  },
+  {
+    "kelime": "poligon",
+    "aciklama": "vektör haritalarda göl, orman, parsel veya il sınırı gibi kapalı alanları temsil eden çokgen coğrafi geometri.",
+    "yasakli_kelimeler": [
+      "çokgen",
+      "kapalı alan",
+      "vektör şekli",
+      "alan geometrisi",
+      "parsel sınırları"
+    ],
+    "id": 39,
+    "kategori": "kartografya"
+  },
+  {
+    "kelime": "nirengi",
+    "aciklama": "harita yapımında arazide konumları ve birbirlerine olan açıları hassas aletlerle ölçülen üçgenleme referans ağı noktaları.",
+    "yasakli_kelimeler": [
+      "üçgenleme",
+      "jeodezik nokta",
+      "teodolit ölçümü",
+      "baz hattı",
+      "koordinat ağı"
+    ],
+    "id": 40,
+    "kategori": "kartografya"
+  },
+  {
+    "kelime": "poligon hattı",
+    "aciklama": "nirengi noktaları arasına yerleştirilen ve daha detaylı arazi alımı yapılmasını sağlayan kırık hatlı ölçme noktaları dizisi.",
+    "yasakli_kelimeler": [
+      "dizi ölçümü",
+      "jeodezi",
+      "ölçme noktası",
+      "kırık hat",
+      "kadastro alımı"
+    ],
+    "id": 41,
+    "kategori": "kartografya"
+  },
+  {
+    "kelime": "teodolit",
+    "aciklama": "haritacılıkta ve jeodezide arazideki yatay ve düşey açıları çok yüksek hassasiyetle ölçmeye yarayan optik alet.",
+    "yasakli_kelimeler": [
+      "açı ölçer",
+      "harita aleti",
+      "optik alet",
+      "nivo",
+      "total station"
+    ],
+    "id": 42,
+    "kategori": "kartografya"
+  },
+  {
+    "kelime": "total station",
+    "aciklama": "elektronik teodolit ve mesafe ölçeri mikroişlemciyle birleştiren modern haritacılık ölçme cihazı.",
+    "yasakli_kelimeler": [
+      "elektronik takimetre",
+      "mesafe ölçümü",
+      "prizma",
+      "sayısal haritacılık",
+      "teodolit"
+    ],
+    "id": 43,
+    "kategori": "kartografya"
+  },
+  {
+    "kelime": "nivo",
+    "aciklama": "haritacılıkta iki nokta arasındaki yükseklik farkını yatay bir görüş hattı kurarak mira yardımıyla ölçen alet.",
+    "yasakli_kelimeler": [
+      "yükseklik ölçer",
+      "mira",
+      "tesviye",
+      "kot farkı",
+      "optik seviye"
+    ],
+    "id": 44,
+    "kategori": "kartografya"
+  },
+  {
+    "kelime": "mira",
+    "aciklama": "nivo ile yapılan nivelman çalışmalarında düşey kot farkını okumak için araziye dikilen santimetre bölümlü ahşap veya alüminyum cetvel.",
+    "yasakli_kelimeler": [
+      "nivelman cetveli",
+      "ölçü çıtası",
+      "nivo hedefi",
+      "kot okuma",
+      "bölümlü skala"
+    ],
+    "id": 45,
+    "kategori": "kartografya"
+  },
+  {
+    "kelime": "nivelman",
+    "aciklama": "yeryüzündeki noktaların yükseklik farklarını veya deniz seviyesinden olan mutlak kotlarını belirleme işlemi.",
+    "yasakli_kelimeler": [
+      "yükseklik belirleme",
+      "kot alma",
+      "nivo ölçümü",
+      "tesviye",
+      "geometrik nivelman"
+    ],
+    "id": 46,
+    "kategori": "kartografya"
+  },
+  {
+    "kelime": "gps",
+    "aciklama": "dünya yörüngesindeki uydulardan sinyal alarak yeryüzündeki herhangi bir yerin kesin koordinat ve rakımını veren küresel konumlama sistemi.",
+    "yasakli_kelimeler": [
+      "küresel konumlama",
+      "uydu seyrüseferi",
+      "navigasyon",
+      "koordinat bulma",
+      "gnss"
+    ],
+    "id": 47,
+    "kategori": "kartografya"
+  },
+  {
+    "kelime": "gnss",
+    "aciklama": "gps, glonass, galileo ve beidou gibi tüm küresel uydu seyrüsefer sistemlerinin ortak uluslararası çatı adı.",
+    "yasakli_kelimeler": [
+      "küresel uydu sistemi",
+      "navigasyon uyduları",
+      "galileo",
+      "glonass",
+      "gps şemsiyesi"
+    ],
+    "id": 48,
+    "kategori": "kartografya"
+  },
+  {
+    "kelime": "jeodezi",
+    "aciklama": "dünyanın şeklini, boyutlarını, yerçekimi alanını ve zamanla meydana gelen kabuk deformasyonlarını matematiksel olarak ölçen bilim dalı.",
+    "yasakli_kelimeler": [
+      "yerölçümü",
+      "dünyanın şekli",
+      "yerçekimi alanı",
+      "harita mühendisliği",
+      "jeoit"
+    ],
+    "id": 49,
+    "kategori": "kartografya"
+  },
+  {
+    "kelime": "kartogram",
+    "aciklama": "istatistiksel verilerin büyüklüğüne göre ülke veya bölgelerin coğrafi sınırlarının kasten deforme edilerek çizildiği tematik harita.",
+    "yasakli_kelimeler": [
+      "bozulmuş harita",
+      "istatistik haritası",
+      "alan deformasyonu",
+      "nüfus haritası",
+      "tematik gösterim"
+    ],
+    "id": 50,
+    "kategori": "kartografya"
+  },
+  {
+    "kelime": "kloroplet",
+    "aciklama": "istatistiki verileri önceden belirlenmiş idari sınır bölgelerinde renk tonlarının koyuluğuyla derecelendirerek gösteren harita.",
+    "yasakli_kelimeler": [
+      "renk tonlama",
+      "tematik harita",
+      "istatistiksel boyama",
+      "derecelendirme",
+      "idari bölge"
+    ],
+    "id": 51,
+    "kategori": "kartografya"
+  },
+  {
+    "kelime": "izoplet",
+    "aciklama": "sıcaklık veya basınç gibi sürekli coğrafi yüzeylerin dağılımını gösteren eşdeğer çizgileriyle hazırlanmış harita türü.",
+    "yasakli_kelimeler": [
+      "eşdeğer eğrileri",
+      "sürekli veri haritası",
+      "izoterm",
+      "izobar",
+      "tematik hat"
+    ],
+    "id": 52,
+    "kategori": "kartografya"
+  },
+  {
+    "kelime": "izoterm",
+    "aciklama": "meteoroloji ve fiziki coğrafya haritalarında aynı sıcaklık değerine sahip noktaları birleştiren eğri.",
+    "yasakli_kelimeler": [
+      "eşsıcaklık",
+      "sıcaklık eğrisi",
+      "termal harita",
+      "derece çizgisi",
+      "izobar"
+    ],
+    "id": 53,
+    "kategori": "kartografya"
+  },
+  {
+    "kelime": "izobar",
+    "aciklama": "hava durumu ve iklim haritalarında aynı atmosferik basınç değerine sahip noktaları birleştiren eğri.",
+    "yasakli_kelimeler": [
+      "eşbasınç",
+      "atmosfer basıncı",
+      "hava durumu",
+      "milibar",
+      "alçak basınç"
+    ],
+    "id": 54,
+    "kategori": "kartografya"
+  },
+  {
+    "kelime": "azimut",
+    "aciklama": "kuzey yönünden itibaren saat yönünde bir hedefin doğrultusuna kadar ölçülen 0 ile 360 derece arasındaki yatay açı.",
+    "yasakli_kelimeler": [
+      "pusula açısı",
+      "kuzeyden sapma",
+      "istikamet açısı",
+      "yatay yön",
+      "kerteriz"
+    ],
+    "id": 55,
+    "kategori": "kartografya"
+  },
+  {
+    "kelime": "kerteriz",
+    "aciklama": "denizcilikte ve arazide bir cismin veya fenerin manyetik kuzeye veya gemi pruvasına göre yön açısı.",
+    "yasakli_kelimeler": [
+      "pusula yönü",
+      "yön açısı",
+      "seyrüsefer",
+      "azimut",
+      "istikamet"
+    ],
+    "id": 56,
+    "kategori": "kartografya"
+  },
+  {
+    "kelime": "manyetik sapma",
+    "aciklama": "coğrafi gerçek kuzey kutbu ile pusula iğnesinin gösterdiği manyetik kuzey kutbu arasındaki açısal fark.",
+    "yasakli_kelimeler": [
+      "deklinasyon",
+      "manyetik kuzey",
+      "gerçek kuzey",
+      "pusula iğnesi",
+      "sapma açısı"
+    ],
+    "id": 57,
+    "kategori": "kartografya"
+  },
+  {
+    "kelime": "gerçek kuzey",
+    "aciklama": "dünyanın dönme ekseninin yeryüzünü kestiği kuzey kutup noktasının doğrudan yönü.",
+    "yasakli_kelimeler": [
+      "coğrafi kuzey",
+      "kutup noktası",
+      "manyetik kuzey zıddı",
+      "harita kuzeyi",
+      "meridyen yönü"
+    ],
+    "id": 58,
+    "kategori": "kartografya"
+  },
+  {
+    "kelime": "manyetik kuzey",
+    "aciklama": "dünyanın manyetik alan çizgilerinin birleştiği ve pusulanın ibresinin her zaman yöneldiği hareketli kutup noktası.",
+    "yasakli_kelimeler": [
+      "pusula kuzeyi",
+      "manyetik kutup",
+      "ibre yönü",
+      "gerçek kuzey zıddı",
+      "sapma"
+    ],
+    "id": 59,
+    "kategori": "kartografya"
+  },
+  {
+    "kelime": "izogonik",
+    "aciklama": "dünya üzerinde manyetik sapma açısının aynı değere sahip olduğu noktaları birleştiren harita eğrisi.",
+    "yasakli_kelimeler": [
+      "eşsapma eğrisi",
+      "manyetik sapma",
+      "pusula düzeltmesi",
+      "deklinasyon hattı",
+      "eğri"
+    ],
+    "id": 60,
+    "kategori": "kartografya"
+  },
+  {
+    "kelime": "genelleştirme",
+    "aciklama": "küçük ölçekli haritalara geçerken arazi detaylarının seçilip sadeleştirilmesi ve önemsiz ayrıntıların elenmesi işlemi.",
+    "yasakli_kelimeler": [
+      "sadeleştirme",
+      "kartografik seçim",
+      "detay eleme",
+      "ölçek küçültme",
+      "karikatürize"
+    ],
+    "id": 61,
+    "kategori": "kartografya"
+  },
+  {
+    "kelime": "semboloji",
+    "aciklama": "harita üzerinde yeryüzü nesnelerini ve tematik olguları ifade etmek için kullanılan grafik işaret kuralları sistemi.",
+    "yasakli_kelimeler": [
+      "harita işaretleri",
+      "grafik gösterim",
+      "simgeleştirme",
+      "görsel hiyerarşi",
+      "lejant"
+    ],
+    "id": 62,
+    "kategori": "kartografya"
+  },
+  {
+    "kelime": "görsel değişkenler",
+    "aciklama": "kartografide harita sembollerini birbirinden ayırt etmek için kullanılan konum, boyut, şekil, renk, ton ve yön öğeleri.",
+    "yasakli_kelimeler": [
+      "bertin ilkeleri",
+      "boyut ve şekil",
+      "renk ve ton",
+      "grafik gösterim",
+      "kartografik tasarım"
+    ],
+    "id": 63,
+    "kategori": "kartografya"
+  },
+  {
+    "kelime": "tematik harita",
+    "aciklama": "belirli bir konuyu, nüfusu, jeolojiyi, iklimi veya ekonomik olguyu özel olarak göstermek amacıyla hazırlanan harita türü.",
+    "yasakli_kelimeler": [
+      "konu haritası",
+      "özel amaçlı harita",
+      "nüfus dağılımı",
+      "istatistik haritası",
+      "fiziki harita zıddı"
+    ],
+    "id": 64,
+    "kategori": "kartografya"
+  },
+  {
+    "kelime": "fiziki harita",
+    "aciklama": "yeryüzünün dağ, ova, vadi, göl ve deniz gibi doğal coğrafi engebe ve yer şekillerini yükselti renkleriyle gösteren harita.",
+    "yasakli_kelimeler": [
+      "yer şekilleri",
+      "kabartma",
+      "doğal harita",
+      "yükselti basamağı",
+      "beşeri zıddı"
+    ],
+    "id": 65,
+    "kategori": "kartografya"
+  },
+  {
+    "kelime": "siyasi harita",
+    "aciklama": "ülkelerin sınırlarını, başkentlerini, komşuluk ilişkilerini ve idari bölünüşlerini gösteren harita.",
+    "yasakli_kelimeler": [
+      "ülke sınırları",
+      "idari bölünüş",
+      "devletler",
+      "başkent",
+      "mülki harita"
+    ],
+    "id": 66,
+    "kategori": "kartografya"
+  },
+  {
+    "kelime": "mülki harita",
+    "aciklama": "bir ülkenin il, ilçe, belde ve belediye gibi idari yönetim birimlerinin sınırlarını gösteren resmi harita türü.",
+    "yasakli_kelimeler": [
+      "idari harita",
+      "il sınırları",
+      "ilçe bölünüşü",
+      "belediye haritası",
+      "siyasi harita"
+    ],
+    "id": 67,
+    "kategori": "kartografya"
+  },
+  {
+    "kelime": "hidrografi",
+    "aciklama": "haritalarda akarsular, göller, denizler ve yer altı sularının dağılımını, rejimini ve özelliklerini gösteren su haritacılığı dalı.",
+    "yasakli_kelimeler": [
+      "su kaynakları",
+      "akarsu ağı",
+      "göl haritası",
+      "nehirler",
+      "drenaj"
+    ],
+    "id": 68,
+    "kategori": "kartografya"
+  },
+  {
+    "kelime": "orografi",
+    "aciklama": "haritalarda dağ sıralarının, tepelerin ve sıradağ zincirlerinin coğrafi uzanış ve dağılımını tasvir eden kabartma dalı.",
+    "yasakli_kelimeler": [
+      "dağ bilimi",
+      "sıradağlar",
+      "dağ uzanışı",
+      "tepeler",
+      "yükselti sistemi"
+    ],
+    "id": 69,
+    "kategori": "kartografya"
+  },
+  {
+    "kelime": "dijital yükseklik modeli",
+    "aciklama": "yeryüzü topoğrafyasının yükseklik değerlerini düzenli piksel ızgarası veya tin üçgen ağıyla temsil eden sayısal veri tabanı.",
+    "yasakli_kelimeler": [
+      "dem",
+      "dtm",
+      "sayısal arazi modeli",
+      "tin",
+      "yükseklik ızgarası"
+    ],
+    "id": 70,
+    "kategori": "kartografya"
+  },
+  {
+    "kelime": "tin",
+    "aciklama": "engebeli arazilerin yükseklik yüzeyini düzensiz dağılmış noktaları birleştiren üçgen yüzeylerle modelleyen vektör arazi yapısı.",
+    "yasakli_kelimeler": [
+      "üçgen model",
+      "düzensiz üçgen ağı",
+      "delaunay",
+      "sayısal arazi",
+      "dem vektörü"
+    ],
+    "id": 71,
+    "kategori": "kartografya"
+  },
+  {
+    "kelime": "gölgelendirme",
+    "aciklama": "haritadaki yer şekillerine genellikle kuzeybatıdan sanal bir ışık verilerek kabartma ve derinlik hissi kazandırma tekniği.",
+    "yasakli_kelimeler": [
+      "kabartma hissi",
+      "ışık ve gölge",
+      "hillshade",
+      "plastik etki",
+      "kuzeybatı ışığı"
+    ],
+    "id": 72,
+    "kategori": "kartografya"
+  },
+  {
+    "kelime": "eşyükselti adımı",
+    "aciklama": "topografya haritasında birbirini takip eden iki izohips eğrisi arasındaki sabit düşey yükseklik farkı.",
+    "yasakli_kelimeler": [
+      "ekidistans",
+      "izohips aralığı",
+      "düşey aralık",
+      "yükseklik farkı",
+      "izohips adımı"
+    ],
+    "id": 73,
+    "kategori": "kartografya"
+  },
+  {
+    "kelime": "sırt",
+    "aciklama": "topografya haritasında izohipslerin 'v' veya 'u' şeklinde yükseltinin azaldığı yöne doğru yaptığı tepe çıkıntısı.",
+    "yasakli_kelimeler": [
+      "dağ sırtı",
+      "tepe hattı",
+      "vadi zıddı",
+      "su bölümü",
+      "izohips çıkıntısı"
+    ],
+    "id": 74,
+    "kategori": "kartografya"
+  },
+  {
+    "kelime": "boyun",
+    "aciklama": "iki tepe veya zirve arasında kalan ve geçit veren alçak eyer şeklindeki topoğrafik geçiş noktası.",
+    "yasakli_kelimeler": [
+      "eyer",
+      "iki tepe arası",
+      "geçit",
+      "bel",
+      "topografya"
+    ],
+    "id": 75,
+    "kategori": "kartografya"
+  },
+  {
+    "kelime": "çanak",
+    "aciklama": "izohips haritalarında eğrilerin içeriye doğru dönük ok işaretleriyle gösterildiği kapalı çukurluk alanı.",
+    "yasakli_kelimeler": [
+      "kapalı çukur",
+      "ok işareti",
+      "krater",
+      "düden",
+      "derinleşen çukur"
+    ],
+    "id": 76,
+    "kategori": "kartografya"
+  },
+  {
+    "kelime": "falez",
+    "aciklama": "deniz veya göl kıyısında dalga aşındırmasıyla oluşmuş ve izohipslerin birbirine neredeyse yapışık geçtiği dik uçurum.",
+    "yasakli_kelimeler": [
+      "yalıyar",
+      "uçurum",
+      "dik kıyı",
+      "dalga aşınımı",
+      "kıyı yarı"
+    ],
+    "id": 77,
+    "kategori": "kartografya"
+  },
+  {
+    "kelime": "kanyon",
+    "aciklama": "akarsuyun dirençli kalker tabakalarını derine aşındırmasıyla oluşan ve çok sık izohipslerle temsil edilen dik ve derin vadi.",
+    "yasakli_kelimeler": [
+      "derin vadi",
+      "boğaz vadi",
+      "kalker aşınması",
+      "dik yamaç",
+      "akarsu yarığı"
+    ],
+    "id": 78,
+    "kategori": "kartografya"
+  },
+  {
+    "kelime": "delta",
+    "aciklama": "akarsuların taşıdığı alüvyonları denize döküldüğü yerde biriktirmesiyle oluşan ve çok seyrek izohips barındıran düz üçgen ova.",
+    "yasakli_kelimeler": [
+      "alüvyon ovası",
+      "nehir ağzı",
+      "üçgen ova",
+      "çukurova",
+      "birikinti ovası"
+    ],
+    "id": 79,
+    "kategori": "kartografya"
+  },
+  {
+    "kelime": "menderes",
+    "aciklama": "eğimin azaldığı tabanlı vadilerde akarsuyun 's' harfi benzeri büklümler çizerek akmasıyla oluşan kıvrım.",
+    "yasakli_kelimeler": [
+      "büklüm",
+      "kıvrım",
+      "akarsu yatağı",
+      "tabanlı vadi",
+      "salınım"
+    ],
+    "id": 80,
+    "kategori": "kartografya"
+  },
+  {
+    "kelime": "plato",
+    "aciklama": "akarsular tarafından derin vadilerle yarılmış ancak genel hatlarıyla deniz seviyesinden yüksekte kalan dalgalı düzlük.",
+    "yasakli_kelimeler": [
+      "yayla",
+      "yüksek düzlük",
+      "derin vadi",
+      "aşınım düzlüğü",
+      "ova zıddı"
+    ],
+    "id": 81,
+    "kategori": "kartografya"
+  },
+  {
+    "kelime": "su bölümü çizgisi",
+    "aciklama": "farklı akarsu havzalarını birbirinden ayıran ve dağların en yüksek sırt noktalarından geçen doğal sınır hattı.",
+    "yasakli_kelimeler": [
+      "havza sınırı",
+      "sırt çizgisi",
+      "akış yönü",
+      "dağ omurgası",
+      "drenaj ayrımı"
+    ],
+    "id": 82,
+    "kategori": "kartografya"
+  },
+  {
+    "kelime": "drenaj ağı",
+    "aciklama": "bir havzadaki ana akarsu ile ona bağlanan tüm kolların harita üzerindeki ağaç dallanması şeklindeki çizimi.",
+    "yasakli_kelimeler": [
+      "akarsu sistemi",
+      "akarsu kolları",
+      "havza akışı",
+      "dendritik",
+      "su ağı"
+    ],
+    "id": 83,
+    "kategori": "kartografya"
+  },
+  {
+    "kelime": "morfoloji",
+    "aciklama": "kartografyada yer kabuğunun biçimsel ve engebeli unsurlarını harita üzerinde tasvir etme disiplini.",
+    "yasakli_kelimeler": [
+      "şekilbilim",
+      "yer şekilleri",
+      "kabartma biçimi",
+      "jeomorfoloji",
+      "arazi formu"
+    ],
+    "id": 84,
+    "kategori": "kartografya"
+  },
+  {
+    "kelime": "kesit",
+    "aciklama": "topografya haritasında belirlenen iki nokta arasındaki yer şeklinin dikey profilini çıkaran çizim tekniği.",
+    "yasakli_kelimeler": [
+      "profil",
+      "dikey görünüm",
+      "enine kesit",
+      "arazi eğimi",
+      "yükseklik profili"
+    ],
+    "id": 85,
+    "kategori": "kartografya"
+  },
+  {
+    "kelime": "eğim",
+    "aciklama": "arazideki iki nokta arasındaki düşey yükseklik farkının aralarındaki yatay mesafeye bölünmesiyle bulunan diklik oranı.",
+    "yasakli_kelimeler": [
+      "meyil",
+      "yüzde eğim",
+      "tanjant",
+      "yokuş",
+      "kot farkı"
+    ],
+    "id": 86,
+    "kategori": "kartografya"
+  },
+  {
+    "kelime": "küresel geometri",
+    "aciklama": "düzlem geometri kurallarının geçersiz olduğu, meridyen ve paralellerin kesişimlerini hesaplayan küre yüzeyi matematiği.",
+    "yasakli_kelimeler": [
+      "küre yüzeyi",
+      "üçgen açıları",
+      "radyan",
+      "büyük daire",
+      "geodezik"
+    ],
+    "id": 87,
+    "kategori": "kartografya"
+  },
+  {
+    "kelime": "büyük daire",
+    "aciklama": "merkezi dünyanın merkeziyle çakışan ve küreyi iki eşit yarımküreye bölen en kısa uçuş rotalarını veren çember.",
+    "yasakli_kelimeler": [
+      "en kısa rota",
+      "ortodromi",
+      "küre kesiti",
+      "havacılık rotası",
+      "ekvator"
+    ],
+    "id": 88,
+    "kategori": "kartografya"
+  },
+  {
+    "kelime": "loksodrom",
+    "aciklama": "harita üzerinde tüm meridyenleri aynı sabit açıyla keserek ilerleyen ve mercator projeksiyonunda düz çizgi olan seyir rotası.",
+    "yasakli_kelimeler": [
+      "sabit rota",
+      "pusula hattı",
+      "kerteriz çizgisi",
+      "mercator çizgisi",
+      "deniz rotası"
+    ],
+    "id": 89,
+    "kategori": "kartografya"
+  },
+  {
+    "kelime": "ortodromi",
+    "aciklama": "küre yüzeyinde iki nokta arasındaki en kısa mesafeyi oluşturan büyük daire yayı rotası.",
+    "yasakli_kelimeler": [
+      "büyük daire rotası",
+      "en kısa yol",
+      "havacılık rotası",
+      "loksodrom zıddı",
+      "küresel rota"
+    ],
+    "id": 90,
+    "kategori": "kartografya"
+  },
+  {
+    "kelime": "lambert projeksiyonu",
+    "aciklama": "özellikle orta enlemlerdeki doğu-batı doğrultusunda uzanan ülkeleri minimum deformasyonla gösteren konik projeksiyon türü.",
+    "yasakli_kelimeler": [
+      "konik projeksiyon",
+      "orta enlemler",
+      "açı koruyan",
+      "standart paralel",
+      "hava haritası"
+    ],
+    "id": 91,
+    "kategori": "kartografya"
+  },
+  {
+    "kelime": "utm",
+    "aciklama": "dünyayı 6 derecelik boylam aralıklarıyla 60 fusa bölen ve metrik koordinat üreten evrensel transvers mercator sistemi.",
+    "yasakli_kelimeler": [
+      "transverse mercator",
+      "altı derecelik dilim",
+      "metrik koordinat",
+      "askeri harita",
+      "fus"
+    ],
+    "id": 92,
+    "kategori": "kartografya"
+  },
+  {
+    "kelime": "dilim orta meridyeni",
+    "aciklama": "utm projeksiyonunda her bir projeksiyon diliminin tam ortasından geçen ve deformasyonun sıfır olduğu referans boylamı.",
+    "yasakli_kelimeler": [
+      "merkez meridyen",
+      "orta meridyen",
+      "utm dilimi",
+      "sıfır deformasyon",
+      "boylam"
+    ],
+    "id": 93,
+    "kategori": "kartografya"
+  },
+  {
+    "kelime": "jeoreferans",
+    "aciklama": "sayısal bir raster haritayı veya hava fotoğrafını yeryüzündeki gerçek koordinat sistemine oturtarak sabitleme işlemi.",
+    "yasakli_kelimeler": [
+      "koordinatlandırma",
+      "harita sabitleme",
+      "yer koordinatı",
+      "kontrol noktası",
+      "cbs düzeltme"
+    ],
+    "id": 94,
+    "kategori": "kartografya"
+  },
+  {
+    "kelime": "yer kontrol noktası",
+    "aciklama": "hava fotoğraflarında veya taranmış haritalarda koordinatları arazide bilinen ve jeoreferanslamada kullanılan sabit nirengi hedefi.",
+    "yasakli_kelimeler": [
+      "gcp",
+      "kontrol noktası",
+      "koordinat hedefi",
+      "jeoreferans",
+      "yer imi"
+    ],
+    "id": 95,
+    "kategori": "kartografya"
+  },
+  {
+    "kelime": "topoloji",
+    "aciklama": "cbs'de mekansal nesnelerin koordinat değişimlerinden etkilenmeyen komşuluk, bitişiklik ve kapsama gibi geometrik ilişkileri bütünü.",
+    "yasakli_kelimeler": [
+      "mekansal ilişki",
+      "komşuluk",
+      "bitişiklik",
+      "geometrik kural",
+      "cbs yapısı"
+    ],
+    "id": 96,
+    "kategori": "kartografya"
+  },
+  {
+    "kelime": "tampon analiz",
+    "aciklama": "cbs'de bir nokta, yol veya akarsuyun etrafında belirlenen belirli bir mesafe genişliğinde koruma veya etki kuşağı oluşturma işlemi.",
+    "yasakli_kelimeler": [
+      "buffer",
+      "etki kuşağı",
+      "koruma bandı",
+      "yarıçap alanı",
+      "mekansal analiz"
+    ],
+    "id": 97,
+    "kategori": "kartografya"
+  },
+  {
+    "kelime": "bindirme analizi",
+    "aciklama": "cbs ortamında farklı tematik katmanların üst üste bindirilerek kesişim, birleşim veya fark alanlarının tespiti işlemi.",
+    "yasakli_kelimeler": [
+      "overlay",
+      "katman çakıştırma",
+      "kesişim analizi",
+      "harita katmanları",
+      "mekansal sorgu"
+    ],
+    "id": 98,
+    "kategori": "kartografya"
+  },
+  {
+    "kelime": "kartometre",
+    "aciklama": "basılı haritalar üzerinde eğri çizgilerin, akarsuların ve kıvrımlı yolların gerçek uzunluğunu ölçmek için tekerleği gezdirilen küçük alet.",
+    "yasakli_kelimeler": [
+      "kurvimetre",
+      "eğri ölçer",
+      "harita tekerleği",
+      "mesafe aleti",
+      "yol uzunluğu"
+    ],
+    "id": 99,
+    "kategori": "kartografya"
+  },
+  {
+    "kelime": "planimetre",
+    "aciklama": "harita üzerinde şekli düzensiz olan göl, ada, orman gibi kapalı poligonların alanını mekanik veya dijital olarak ölçen aygıt.",
+    "yasakli_kelimeler": [
+      "alan ölçer",
+      "mekanik hesaplayıcı",
+      "harita alanı",
+      "kutup planimetresi",
+      "poligon hesabı"
+    ],
+    "id": 100,
+    "kategori": "kartografya"
+  }
+]

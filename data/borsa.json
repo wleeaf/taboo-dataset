@@ -1,0 +1,1302 @@
+[
+  {
+    "id": 1,
+    "kategori": "borsa",
+    "kelime": "hisse senedi",
+    "aciklama": "bir anonim ortaklığın sermaye payını temsil eden ve sahibine ortaklık hakları sağlayan menkul kıymet.",
+    "yasakli_kelimeler": [
+      "pay",
+      "lot",
+      "şirket",
+      "temettü",
+      "borsa"
+    ]
+  },
+  {
+    "id": 2,
+    "kategori": "borsa",
+    "kelime": "halka arz",
+    "aciklama": "bir şirketin hisse senetlerinin sermaye piyasasında ilk kez geniş yatırımcı kitlesine satışa sunulması süreci.",
+    "yasakli_kelimeler": [
+      "ipo",
+      "talep toplama",
+      "izahname",
+      "bist",
+      "birincil piyasa"
+    ]
+  },
+  {
+    "id": 3,
+    "kategori": "borsa",
+    "kelime": "izahname",
+    "aciklama": "halka arz edilecek şirketin mali durumunu, faaliyetlerini ve risklerini detaylıca açıklayan yasal belge.",
+    "yasakli_kelimeler": [
+      "spk",
+      "halka arz",
+      "doküman",
+      "bilgi",
+      "onay"
+    ]
+  },
+  {
+    "id": 4,
+    "kategori": "borsa",
+    "kelime": "temettü",
+    "aciklama": "şirketin yıllık faaliyetleri sonucu elde ettiği net kârın ortaklarına hisseleri oranında dağıtılan kısmı.",
+    "yasakli_kelimeler": [
+      "kâr payı",
+      "dağıtım",
+      "hissedar",
+      "getiri",
+      "nakit"
+    ]
+  },
+  {
+    "id": 5,
+    "kategori": "borsa",
+    "kelime": "bedelli sermaye artırımı",
+    "aciklama": "şirketin mevcut ortaklarından yeni sermaye koymalarını talep ederek ödenmiş sermayesini artırması işlemi.",
+    "yasakli_kelimeler": [
+      "rüçhan hakkı",
+      "nakit",
+      "sermaye",
+      "hisse",
+      "katılım"
+    ]
+  },
+  {
+    "id": 6,
+    "kategori": "borsa",
+    "kelime": "bedelsiz sermaye artırımı",
+    "aciklama": "şirketin iç kaynaklarını veya kâr yedeklerini sermayeye ekleyerek ortaklarına bedava hisse dağıtması.",
+    "yasakli_kelimeler": [
+      "iç kaynak",
+      "yedekler",
+      "ücretsiz pay",
+      "bölünme",
+      "sermaye"
+    ]
+  },
+  {
+    "id": 7,
+    "kategori": "borsa",
+    "kelime": "rüçhan hakkı",
+    "aciklama": "mevcut pay sahiplerinin şirketin bedelli sermaye artırımına öncelikli olarak katılma hakkı.",
+    "yasakli_kelimeler": [
+      "öncelik",
+      "bedelli",
+      "kupon",
+      "pay alımı",
+      "hisse"
+    ]
+  },
+  {
+    "id": 8,
+    "kategori": "borsa",
+    "kelime": "piyasa değeri",
+    "aciklama": "bir şirketin toplam hisse senedi sayısının borsa piyasasındaki güncel hisse fiyatı ile çarpımı.",
+    "yasakli_kelimeler": [
+      "market cap",
+      "değerleme",
+      "fiyat",
+      "hisse adedi",
+      "büyüklük"
+    ]
+  },
+  {
+    "id": 9,
+    "kategori": "borsa",
+    "kelime": "fiyat kazanç oranı",
+    "aciklama": "hisse senedi fiyatının hisse başına düşen net kâra bölünmesiyle bulunan temel değerleme çarpanı.",
+    "yasakli_kelimeler": [
+      "f/k",
+      "kârlılık",
+      "çarpan",
+      "hisse fiyatı",
+      "değerleme"
+    ]
+  },
+  {
+    "id": 10,
+    "kategori": "borsa",
+    "kelime": "piyasa değeri defter değeri",
+    "aciklama": "şirketin borsa piyasa değerinin muhasebesel özkaynak tutarına bölünmesiyle hesaplanan oran.",
+    "yasakli_kelimeler": [
+      "pd/dd",
+      "özkaynak",
+      "çarpan",
+      "bilanço",
+      "oran"
+    ]
+  },
+  {
+    "id": 11,
+    "kategori": "borsa",
+    "kelime": "hisse başına kâr",
+    "aciklama": "şirketin dönem net kârının toplam hisse senedi adedine bölünmesiyle hesaplanan kârlılık göstergesi.",
+    "yasakli_kelimeler": [
+      "eps",
+      "net kâr",
+      "hisse adedi",
+      "temel analiz",
+      "kazaç"
+    ]
+  },
+  {
+    "id": 12,
+    "kategori": "borsa",
+    "kelime": "temel analiz",
+    "aciklama": "şirketin mali tablolarını, sektör konumunu ve makroekonomik verileri inceleyerek adil değerini belirleme yöntemi.",
+    "yasakli_kelimeler": [
+      "bilanço",
+      "gelir tablosu",
+      "değerleme",
+      "şirket",
+      "rasyo"
+    ]
+  },
+  {
+    "id": 13,
+    "kategori": "borsa",
+    "kelime": "teknik analiz",
+    "aciklama": "geçmiş fiyat ve işlem hacmi grafiklerini matematiksel göstergelerle inceleyerek gelecekteki eğilimleri tahmin etme.",
+    "yasakli_kelimeler": [
+      "grafik",
+      "formasyon",
+      "indikatör",
+      "destek",
+      "direnç"
+    ]
+  },
+  {
+    "id": 14,
+    "kategori": "borsa",
+    "kelime": "destek seviyesi",
+    "aciklama": "teknik analizde alımların güçlenerek fiyatın daha fazla düşmesini engellediği yatay veya eğik fiyat düzeyi.",
+    "yasakli_kelimeler": [
+      "dip",
+      "taban",
+      "alış",
+      "grafik",
+      "direnç"
+    ]
+  },
+  {
+    "id": 15,
+    "kategori": "borsa",
+    "kelime": "direnç seviyesi",
+    "aciklama": "teknik analizde satış baskısının yoğunlaşarak hisse fiyatının yükselişini durdurduğu tavan fiyat bölgesi.",
+    "yasakli_kelimeler": [
+      "tavan",
+      "satış baskısı",
+      "zirve",
+      "grafik",
+      "destek"
+    ]
+  },
+  {
+    "id": 16,
+    "kategori": "borsa",
+    "kelime": "stop-loss",
+    "aciklama": "yatırımcının zararını belirli bir eşikte sınırlamak için önceden tanımladığı otomatik satış emir türü.",
+    "yasakli_kelimeler": [
+      "zarar kes",
+      "risk yönetimi",
+      "emir",
+      "fiyat eşiği",
+      "otomatik"
+    ]
+  },
+  {
+    "id": 17,
+    "kategori": "borsa",
+    "kelime": "take-profit",
+    "aciklama": "hisse fiyatı hedeflenen kâr seviyesine ulaştığında pozisyonu kapatarak kazancı realize eden satış emri.",
+    "yasakli_kelimeler": [
+      "kâr al",
+      "hedef fiyat",
+      "pozisyon kapatma",
+      "emir",
+      "kazanç"
+    ]
+  },
+  {
+    "id": 18,
+    "kategori": "borsa",
+    "kelime": "kaldıraç",
+    "aciklama": "yatırımcının sahip olduğu özkaynaktan çok daha büyük tutarda pozisyon açmasını sağlayan borçlanma mekanizması.",
+    "yasakli_kelimeler": [
+      "viop",
+      "forex",
+      "teminat",
+      "katlama",
+      "pozisyon"
+    ]
+  },
+  {
+    "id": 19,
+    "kategori": "borsa",
+    "kelime": "viop",
+    "aciklama": "vadeli işlem ve opsiyon sözleşmelerinin alınıp satıldığı borsa istanbul bünyesindeki türev piyasa.",
+    "yasakli_kelimeler": [
+      "vadeli",
+      "opsiyon",
+      "türev",
+      "bist",
+      "kontrat"
+    ]
+  },
+  {
+    "id": 20,
+    "kategori": "borsa",
+    "kelime": "vadeli işlem sözleşmesi",
+    "aciklama": "belirli bir varlığı gelecekteki bir tarihte bugünden anlaşılan fiyattan alma veya satma yükümlülüğü getiren kontrat.",
+    "yasakli_kelimeler": [
+      "futures",
+      "forward",
+      "kontrat",
+      "teslimat",
+      "türev"
+    ]
+  },
+  {
+    "id": 21,
+    "kategori": "borsa",
+    "kelime": "opsiyon sözleşmesi",
+    "aciklama": "alıcısına belirli bir tarihe kadar bir varlığı sabit bir fiyattan alma veya satma hakkı veren sözleşme.",
+    "yasakli_kelimeler": [
+      "call",
+      "put",
+      "prim",
+      "kullanım fiyatı",
+      "hak"
+    ]
+  },
+  {
+    "id": 22,
+    "kategori": "borsa",
+    "kelime": "alım opsiyonu",
+    "aciklama": "sahibine belirli bir vadeye kadar dayanak varlığı önceden belirlenen fiyattan satın alma hakkı tanıyan türev ürün.",
+    "yasakli_kelimeler": [
+      "call option",
+      "prim",
+      "satın alma",
+      "kullanım fiyatı",
+      "yükseliş"
+    ]
+  },
+  {
+    "id": 23,
+    "kategori": "borsa",
+    "kelime": "satım opsiyonu",
+    "aciklama": "sahibine belirli bir vadeye kadar dayanak varlığı önceden belirlenen fiyattan satma hakkı tanıyan türev ürün.",
+    "yasakli_kelimeler": [
+      "put option",
+      "düşüş",
+      "korunma",
+      "kullanım fiyatı",
+      "satış"
+    ]
+  },
+  {
+    "id": 24,
+    "kategori": "borsa",
+    "kelime": "volatilite",
+    "aciklama": "bir finansal varlığın fiyatında belirli bir zaman diliminde meydana gelen dalgalanmaların şiddeti ve hızı.",
+    "yasakli_kelimeler": [
+      "oynaklık",
+      "dalgalanma",
+      "sapma",
+      "risk",
+      "belirsizlik"
+    ]
+  },
+  {
+    "id": 25,
+    "kategori": "borsa",
+    "kelime": "korku endeksi",
+    "aciklama": "s&p 500 opsiyon fiyatlarından türetilen ve piyasadaki 30 günlük oynaklık ve endişe beklentisini ölçen endeks.",
+    "yasakli_kelimeler": [
+      "vix",
+      "volatilite endeksi",
+      "panik",
+      "risk iştahı",
+      "dalgalanma"
+    ]
+  },
+  {
+    "id": 26,
+    "kategori": "borsa",
+    "kelime": "boğa piyasası",
+    "aciklama": "hisse senedi fiyatlarının genel olarak uzun süreli bir yükseliş trendinde ve iyimserlik havasında olduğu dönem.",
+    "yasakli_kelimeler": [
+      "bull market",
+      "yükseliş",
+      "iyimser",
+      "trend",
+      "yeşil"
+    ]
+  },
+  {
+    "id": 27,
+    "kategori": "borsa",
+    "kelime": "ayı piyasası",
+    "aciklama": "hisse senedi fiyatlarının zirveden en az yüzde 20 düştüğü ve kötümserliğin hakim olduğu piyasa dönemi.",
+    "yasakli_kelimeler": [
+      "bear market",
+      "düşüş",
+      "kötümser",
+      "satış",
+      "kırmızı"
+    ]
+  },
+  {
+    "id": 28,
+    "kategori": "borsa",
+    "kelime": "açığa satış",
+    "aciklama": "yatırımcının mülkiyetinde olmayan hisse senedini ödünç alıp satarak fiyat düşüşünden kâr elde etme işlemi.",
+    "yasakli_kelimeler": [
+      "short",
+      "düşüşten kazanma",
+      "ödünç pay",
+      "pozisyon",
+      "satış"
+    ]
+  },
+  {
+    "id": 29,
+    "kategori": "borsa",
+    "kelime": "kredili işlem",
+    "aciklama": "yatırımcının aracı kurumdan borç para alarak özkaynağından daha fazla tutarda hisse senedi satın alması.",
+    "yasakli_kelimeler": [
+      "özkaynak oranı",
+      "aracı kurum",
+      "borç",
+      "faiz",
+      "kaldıraç"
+    ]
+  },
+  {
+    "id": 30,
+    "kategori": "borsa",
+    "kelime": "özkaynak tamamlama çağrısı",
+    "aciklama": "kredili veya vadeli pozisyonlarda teminat tutarının yasal limitin altına düşmesi üzerine yapılan ek teminat talebi.",
+    "yasakli_kelimeler": [
+      "margin call",
+      "teminat tamamlama",
+      "viop",
+      "likidasyon",
+      "aracı kurum"
+    ]
+  },
+  {
+    "id": 31,
+    "kategori": "borsa",
+    "kelime": "işlem hacmi",
+    "aciklama": "belirli bir zaman diliminde bir hisse senedinde veya tüm borsada el değiştiren payların toplam parasal tutarı.",
+    "yasakli_kelimeler": [
+      "lot",
+      "ciro",
+      "likidite",
+      "miktar",
+      "para girişi"
+    ]
+  },
+  {
+    "id": 32,
+    "kategori": "borsa",
+    "kelime": "lot",
+    "aciklama": "borsada hisse senetlerinin işlem görmesinde kullanılan ve borsa istanbul'da 1 adede denk gelen standart işlem birimi.",
+    "yasakli_kelimeler": [
+      "adet",
+      "hisse",
+      "birim",
+      "alım satım",
+      "miktar"
+    ]
+  },
+  {
+    "id": 33,
+    "kategori": "borsa",
+    "kelime": "bist 100",
+    "aciklama": "borsa istanbul'da piyasa değeri ve işlem hacmi en yüksek 100 şirketin paylarından oluşan gösterge endeks.",
+    "yasakli_kelimeler": [
+      "endeks",
+      "gösterge",
+      "xu100",
+      "ana endeks",
+      "şirketler"
+    ]
+  },
+  {
+    "id": 34,
+    "kategori": "borsa",
+    "kelime": "bist 30",
+    "aciklama": "borsa istanbul'da en büyük 30 şirketin hisselerinden oluşan ve viop sözleşmelerine dayanak teşkil eden endeks.",
+    "yasakli_kelimeler": [
+      "xu030",
+      "lokomotif",
+      "büyük hisseler",
+      "viop",
+      "endeks"
+    ]
+  },
+  {
+    "id": 35,
+    "kategori": "borsa",
+    "kelime": "devre kesici",
+    "aciklama": "bir hissede veya endekste aşırı fiyat dalgalanması yaşandığında işlemlerin geçici olarak durdurulması mekanizması.",
+    "yasakli_kelimeler": [
+      "panik satışı",
+      "durdurma",
+      "seans",
+      "fiyat marjı",
+      "otomatik"
+    ]
+  },
+  {
+    "id": 36,
+    "kategori": "borsa",
+    "kelime": "taban fiyat",
+    "aciklama": "bir hisse senedinin bir seans içerisinde işlem görebileceği izin verilen en düşük fiyat sınırı.",
+    "yasakli_kelimeler": [
+      "fiyat marjı",
+      "alt sınır",
+      "düşüş limiti",
+      "yüzde 10",
+      "tavan"
+    ]
+  },
+  {
+    "id": 37,
+    "kategori": "borsa",
+    "kelime": "tavan fiyat",
+    "aciklama": "bir hisse senedinin bir seans içerisinde görebileceği izin verilen en yüksek fiyat sınırı.",
+    "yasakli_kelimeler": [
+      "üst sınır",
+      "fiyat marjı",
+      "yüzde 10",
+      "yükseliş",
+      "taban"
+    ]
+  },
+  {
+    "id": 38,
+    "kategori": "borsa",
+    "kelime": "derinlik tablosu",
+    "aciklama": "farklı fiyat kademelerinde bekleyen alış ve satış emirlerinin miktarını gösteren anlık borsa ekranı.",
+    "yasakli_kelimeler": [
+      "kademe",
+      "tahta",
+      "alış satış",
+      "bekleyen emir",
+      "ekran"
+    ]
+  },
+  {
+    "id": 39,
+    "kategori": "borsa",
+    "kelime": "limit emir",
+    "aciklama": "alım veya satım işleminin yatırımcının belirttiği fiyattan veya daha iyi bir fiyattan gerçekleşmesini isteyen emir.",
+    "yasakli_kelimeler": [
+      "belirli fiyat",
+      "piyasa emri",
+      "gerçekleşme",
+      "emir tipi",
+      "tahta"
+    ]
+  },
+  {
+    "id": 40,
+    "kategori": "borsa",
+    "kelime": "piyasa emri",
+    "aciklama": "fiyata bakılmaksızın tahtadaki en iyi mevcut fiyattan derhal eşleşip gerçekleşen işlem talimatı.",
+    "yasakli_kelimeler": [
+      "anlık",
+      "fiyatsız",
+      "en iyi fiyat",
+      "hızlı eşleşme",
+      "limit emir"
+    ]
+  },
+  {
+    "id": 41,
+    "kategori": "borsa",
+    "kelime": "portföy",
+    "aciklama": "bir yatırımcının riskini dağıtmak amacıyla sahip olduğu hisse, tahvil, fon gibi finansal varlıkların bütünü.",
+    "yasakli_kelimeler": [
+      "sepet",
+      "çeşitlendirme",
+      "yatırım",
+      "varlıklar",
+      "dağılım"
+    ]
+  },
+  {
+    "id": 42,
+    "kategori": "borsa",
+    "kelime": "çeşitlendirme",
+    "aciklama": "tüm sermayeyi tek bir varlığa yatırmak yerine farklı enstrümanlara yayarak riski azaltma stratejisi.",
+    "yasakli_kelimeler": [
+      "aynı sepete koymama",
+      "risk dağıtma",
+      "portföy",
+      "korelasyon",
+      "varlık"
+    ]
+  },
+  {
+    "id": 43,
+    "kategori": "borsa",
+    "kelime": "sistematik risk",
+    "aciklama": "faiz, enflasyon veya savaş gibi tüm piyasayı etkileyen ve çeşitlendirme ile yok edilemeyen genel risk.",
+    "yasakli_kelimeler": [
+      "piyasa riski",
+      "beta",
+      "makroekonomik",
+      "kaçınılmaz",
+      "kriz"
+    ]
+  },
+  {
+    "id": 44,
+    "kategori": "borsa",
+    "kelime": "sistematik olmayan risk",
+    "aciklama": "sadece belirli bir şirkete veya sektöre özgü olan ve portföy çeşitlendirmesiyle ortadan kaldırılabilen risk.",
+    "yasakli_kelimeler": [
+      "şirkete özgü",
+      "çeşitlendirme",
+      "yönetilebilir",
+      "sektörel",
+      "firma"
+    ]
+  },
+  {
+    "id": 45,
+    "kategori": "borsa",
+    "kelime": "beta katsayısı",
+    "aciklama": "bir hisse senedinin piyasa endeksindeki hareketlere karşı gösterdiği duyarlılığı ve göreceli riskini ölçen katsayı.",
+    "yasakli_kelimeler": [
+      "piyasa duyarlılığı",
+      "risk ölçüsü",
+      "endeks",
+      "volatilite",
+      "capm"
+    ]
+  },
+  {
+    "id": 46,
+    "kategori": "borsa",
+    "kelime": "sermaye varlıklarını fiyatlama modeli",
+    "aciklama": "bir varlığın beklenen getirisini risksiz faiz oranı ve varlığın beta katsayısına dayandırarak açıklayan model.",
+    "yasakli_kelimeler": [
+      "capm",
+      "beta",
+      "risksiz faiz",
+      "risk primi",
+      "beklenen getiri"
+    ]
+  },
+  {
+    "id": 47,
+    "kategori": "borsa",
+    "kelime": "sharpe oranı",
+    "aciklama": "bir portföyün risksiz faiz oranının üzerinde sağladığı fazla getirinin toplam riskine bölünmesiyle hesaplanan oran.",
+    "yasakli_kelimeler": [
+      "fazla getiri",
+      "standart sapma",
+      "risk ayarlı",
+      "performans",
+      "metrik"
+    ]
+  },
+  {
+    "id": 48,
+    "kategori": "borsa",
+    "kelime": "treynor oranı",
+    "aciklama": "portföyün sağladığı fazla getiriyi sistematik risk ölçütü olan beta katsayısına oranlayan performans metriği.",
+    "yasakli_kelimeler": [
+      "beta",
+      "sistematik risk",
+      "fazla getiri",
+      "performans",
+      "sharpe"
+    ]
+  },
+  {
+    "id": 49,
+    "kategori": "borsa",
+    "kelime": "jensen alfası",
+    "aciklama": "bir portföyün riskine göre sermaye varlıklarını fiyatlama modelinin öngördüğü getirinin ne kadar üzerinde getiri sağladığı.",
+    "yasakli_kelimeler": [
+      "alfa",
+      "aşırı getiri",
+      "capm",
+      "fon yöneticisi",
+      "başarı"
+    ]
+  },
+  {
+    "id": 50,
+    "kategori": "borsa",
+    "kelime": "yatırım fonu",
+    "aciklama": "tasarruf sahiplerinden toplanan paralarla profesyonel yöneticiler tarafından yönetilen kolektif yatırım portföyü.",
+    "yasakli_kelimeler": [
+      "tefas",
+      "portföy yönetim",
+      "katılma payı",
+      "kolektif",
+      "sepet"
+    ]
+  },
+  {
+    "id": 51,
+    "kategori": "borsa",
+    "kelime": "borsa yatırım fonu",
+    "aciklama": "bir endeksi veya varlığı takip eden ve hisse senedi gibi gün boyunca borsada alınıp satılan yatırım fonu.",
+    "yasakli_kelimeler": [
+      "etf",
+      "byf",
+      "endeks takip",
+      "gün içi",
+      "likit"
+    ]
+  },
+  {
+    "id": 52,
+    "kategori": "borsa",
+    "kelime": "tefas",
+    "aciklama": "türkiye'deki tüm yatırım fonlarının tek bir platform üzerinden alınıp satılmasını sağlayan elektronik fon pazarı.",
+    "yasakli_kelimeler": [
+      "fon platformu",
+      "takasbank",
+      "fon karşılaştırma",
+      "menkul",
+      "işlem"
+    ]
+  },
+  {
+    "id": 53,
+    "kategori": "borsa",
+    "kelime": "aracı kurum",
+    "aciklama": "sermaye piyasasında yatırımcılar adına hisse senedi ve türev araç alım satımına aracılık eden lisanslı finansal şirket.",
+    "yasakli_kelimeler": [
+      "komisyon",
+      "broker",
+      "yatırım kuruluşu",
+      "hesap",
+      "bist üyesi"
+    ]
+  },
+  {
+    "id": 54,
+    "kategori": "borsa",
+    "kelime": "broker",
+    "aciklama": "finansal piyasalarda kendi adına değil müşterisi adına ve komisyon karşılığında alım satım yapan aracı profesyonel.",
+    "yasakli_kelimeler": [
+      "komisyoncu",
+      "temsilci",
+      "aracı",
+      "emir ileten",
+      "dealer"
+    ]
+  },
+  {
+    "id": 55,
+    "kategori": "borsa",
+    "kelime": "dealer",
+    "aciklama": "kendi portföyü ve namı hesabına piyasada sürekli alım satım yaparak piyasaya likidite sağlayan tüccar veya kurum.",
+    "yasakli_kelimeler": [
+      "kendi adına",
+      "piyasa yapıcı",
+      "kotasyon",
+      "alım satım",
+      "broker"
+    ]
+  },
+  {
+    "id": 56,
+    "kategori": "borsa",
+    "kelime": "piyasa yapıcı",
+    "aciklama": "belirli bir hisse senedinde sürekli çift taraflı alış ve satış kotasyonu vererek likiditeyi destekleyen aracı kurum.",
+    "yasakli_kelimeler": [
+      "kotasyon",
+      "likidite",
+      "çift taraflı",
+      "spread",
+      "sorumluluk"
+    ]
+  },
+  {
+    "id": 57,
+    "kategori": "borsa",
+    "kelime": "spread",
+    "aciklama": "bir menkul kıymetin piyasadaki en iyi alış fiyatı ile en iyi satış fiyatı arasındaki fark.",
+    "yasakli_kelimeler": [
+      "fark",
+      "makas",
+      "alış satış",
+      "likidite",
+      "kotasyon"
+    ]
+  },
+  {
+    "id": 58,
+    "kategori": "borsa",
+    "kelime": "manipülasyon",
+    "aciklama": "yapay fiyat veya işlem hacmi oluşturarak yatırımcıları yanıltıp haksız kazanç sağlamaya yönelik yasa dışı piyasa dolandırıcılığı.",
+    "yasakli_kelimeler": [
+      "spekülasyon",
+      "ceza",
+      "yapay fiyat",
+      "dolandırıcılık",
+      "spk suçu"
+    ]
+  },
+  {
+    "id": 59,
+    "kategori": "borsa",
+    "kelime": "spekülasyon",
+    "aciklama": "gelecekteki fiyat hareketlerini doğru tahmin ederek risk alıp yasal çerçevede kâr elde etme faaliyeti.",
+    "yasakli_kelimeler": [
+      "fiyat tahmini",
+      "risk alma",
+      "yasal",
+      "kâr arayışı",
+      "arbitraj"
+    ]
+  },
+  {
+    "id": 60,
+    "kategori": "borsa",
+    "kelime": "içeriden öğrenenlerin ticareti",
+    "aciklama": "kamuya henüz açıklanmamış gizli şirket bilgilerini kullanarak borsa işlemlerinden haksız kazanç elde etme suçu.",
+    "yasakli_kelimeler": [
+      "insider trading",
+      "gizli bilgi",
+      "spk",
+      "sızdırma",
+      "suç"
+    ]
+  },
+  {
+    "id": 61,
+    "kategori": "borsa",
+    "kelime": "spk",
+    "aciklama": "türkiye sermaye piyasalarını denetleyen, düzenleyen ve yatırımcı haklarını koruyan bağımsız kamu otoritesi.",
+    "yasakli_kelimeler": [
+      "sermaye piyasası kurulu",
+      "denetim",
+      "bülten",
+      "halka arz onayı",
+      "ceza"
+    ]
+  },
+  {
+    "id": 62,
+    "kategori": "borsa",
+    "kelime": "kamuyu aydınlatma platformu",
+    "aciklama": "halka açık şirketlerin finansal raporlarını ve özel durum açıklamalarını yayınlamak zorunda olduğu elektronik sistem.",
+    "yasakli_kelimeler": [
+      "kap",
+      "özel durum",
+      "şirket haberi",
+      "bildirim",
+      "şeffaflık"
+    ]
+  },
+  {
+    "id": 63,
+    "kategori": "borsa",
+    "kelime": "mkk",
+    "aciklama": "sermaye piyasası araçlarının kaydi olarak hak sahipleri bazında izlendiği merkezi kayıt kuruluşu.",
+    "yasakli_kelimeler": [
+      "merkezi kayıt",
+      "sicil",
+      "kaydileştirme",
+      "hisse saklama",
+      "yatırımcı"
+    ]
+  },
+  {
+    "id": 64,
+    "kategori": "borsa",
+    "kelime": "fiili dolaşımdaki pay oranı",
+    "aciklama": "bir şirketin toplam sermayesinin borsada serbestçe alınıp satılabilen ve kurucu ortaklarca tutulmayan yüzdesi.",
+    "yasakli_kelimeler": [
+      "halka açıklık",
+      "oran",
+      "yüzde",
+      "likidite",
+      "endeks ağırlığı"
+    ]
+  },
+  {
+    "id": 65,
+    "kategori": "borsa",
+    "kelime": "ağırlıklı ortalama fiyat",
+    "aciklama": "bir seans boyunca yapılan işlemlerin işlem hacmi ağırlıkları dikkate alınarak hesaplanan hisse fiyatı.",
+    "yasakli_kelimeler": [
+      "aof",
+      "seans ortalaması",
+      "hacim",
+      "uzlaşma",
+      "işlem"
+    ]
+  },
+  {
+    "id": 66,
+    "kategori": "borsa",
+    "kelime": "kapanış seansı",
+    "aciklama": "sürekli müzayedenin bitiminden sonra gün sonu kapanış fiyatını belirlemek için yapılan tek fiyatlı seans bölümü.",
+    "yasakli_kelimeler": [
+      "kapanış fiyatı",
+      "tek fiyat",
+      "seans sonu",
+      "eşleşme",
+      "gün bitimi"
+    ]
+  },
+  {
+    "id": 67,
+    "kategori": "borsa",
+    "kelime": "göreli güç endeksi",
+    "aciklama": "bir hissenin son dönemdeki kazanç ve kayıplarını karşılaştırarak aşırı alım veya aşırı satım bölgesini gösteren osilatör.",
+    "yasakli_kelimeler": [
+      "rsi",
+      "aşırı alım",
+      "aşırı satım",
+      "indikatör",
+      "osilatör"
+    ]
+  },
+  {
+    "id": 68,
+    "kategori": "borsa",
+    "kelime": "macd",
+    "aciklama": "iki farklı hareketli ortalamanın farkını ve sinyal çizgisini kullanarak trend dönüşlerini gösteren teknik indikatör.",
+    "yasakli_kelimeler": [
+      "hareketli ortalama",
+      "kesişim",
+      "histogram",
+      "sinyal",
+      "indikatör"
+    ]
+  },
+  {
+    "id": 69,
+    "kategori": "borsa",
+    "kelime": "bollinger bantları",
+    "aciklama": "fiyatın hareketli ortalamasının üzerine ve altına standart sapma eklenerek oluşturulan volatilite kanalı.",
+    "yasakli_kelimeler": [
+      "bant",
+      "standart sapma",
+      "oynaklık kanalı",
+      "üst bant",
+      "alt bant"
+    ]
+  },
+  {
+    "id": 70,
+    "kategori": "borsa",
+    "kelime": "hareketli ortalama",
+    "aciklama": "belirli bir gün sayısındaki hisse fiyatlarının ortalamasını alarak fiyat gürültüsünü filtreleyen teknik araç.",
+    "yasakli_kelimeler": [
+      "ortalama",
+      "sma",
+      "ema",
+      "trend çizgisi",
+      "50 günlük"
+    ]
+  },
+  {
+    "id": 71,
+    "kategori": "borsa",
+    "kelime": "fibonacci düzeltmesi",
+    "aciklama": "bir fiyat dalgasının ardından gelebilecek olası geri çekilme veya düzeltme seviyelerini belirleyen oranlar.",
+    "yasakli_kelimeler": [
+      "altın oran",
+      "yüzde 61.8",
+      "düzeltme",
+      "destek",
+      "teknik analiz"
+    ]
+  },
+  {
+    "id": 72,
+    "kategori": "borsa",
+    "kelime": "mum grafiği",
+    "aciklama": "açılış, kapanış, en yüksek ve en düşük fiyatları gövde ve gölgelerle gösteren popüler grafik türü.",
+    "yasakli_kelimeler": [
+      "japon",
+      "açılış kapanış",
+      "gövde",
+      "fitil",
+      "grafik"
+    ]
+  },
+  {
+    "id": 73,
+    "kategori": "borsa",
+    "kelime": "doji",
+    "aciklama": "açılış ve kapanış fiyatlarının neredeyse birbirine eşit olduğu piyasadaki kararsızlığı gösteren mum formasyonu.",
+    "yasakli_kelimeler": [
+      "mum",
+      "kararsızlık",
+      "açılış",
+      "kapanış",
+      "artı işareti"
+    ]
+  },
+  {
+    "id": 74,
+    "kategori": "borsa",
+    "kelime": "omuz baş omuz formasyonu",
+    "aciklama": "yükseliş trendinin sonlandığını ve güçlü bir düşüş trendinin başlayacağını haber veren dönüş formasyonu.",
+    "yasakli_kelimeler": [
+      "oboo",
+      "boyun çizgisi",
+      "dönüş",
+      "zirve",
+      "trend"
+    ]
+  },
+  {
+    "id": 75,
+    "kategori": "borsa",
+    "kelime": "çift dip formasyonu",
+    "aciklama": "fiyatın aynı dip seviyesini iki kez test edip kıramamasıyla başlayan teknik yükseliş formasyonu.",
+    "yasakli_kelimeler": [
+      "w formasyonu",
+      "dönüş",
+      "dip",
+      "destek",
+      "yükseliş trendi"
+    ]
+  },
+  {
+    "id": 76,
+    "kategori": "borsa",
+    "kelime": "trend",
+    "aciklama": "finansal varlık fiyatlarının belirli bir zaman diliminde izlediği genel yukarı, aşağı veya yatay yönelim.",
+    "yasakli_kelimeler": [
+      "yön",
+      "yükselen",
+      "alçalan",
+      "kanal",
+      "çizgi"
+    ]
+  },
+  {
+    "id": 77,
+    "kategori": "borsa",
+    "kelime": "gap",
+    "aciklama": "önemli bir haber veya beklenti nedeniyle bir günün açılış fiyatının önceki kapanıştan belirgin kopuk açılması.",
+    "yasakli_kelimeler": [
+      "fiyat boşluğu",
+      "açılış",
+      "kopuş",
+      "boşluk",
+      "sıçrama"
+    ]
+  },
+  {
+    "id": 78,
+    "kategori": "borsa",
+    "kelime": "arbitraj",
+    "aciklama": "aynı menkul kıymetin farklı piyasalardaki anlık fiyat farkından sıfır riskle kâr elde etme işlemi.",
+    "yasakli_kelimeler": [
+      "fiyat farkı",
+      "risksiz kâr",
+      "aynı varlık",
+      "piyasalar arası",
+      "eşzamanlı"
+    ]
+  },
+  {
+    "id": 79,
+    "kategori": "borsa",
+    "kelime": "likidasyon",
+    "aciklama": "kaldıraçlı bir pozisyonda teminatın tükenmesi sonucu aracı kurumun pozisyonu zorla kapatması.",
+    "yasakli_kelimeler": [
+      "margin call",
+      "patlama",
+      "pozisyon kapanması",
+      "teminat",
+      "zorunlu satış"
+    ]
+  },
+  {
+    "id": 80,
+    "kategori": "borsa",
+    "kelime": "algoritmik işlem",
+    "aciklama": "önceden programlanmış matematiksel kurallar ve kodlar ile insan müdahalesi olmadan otomatik alım satım yapılması.",
+    "yasakli_kelimeler": [
+      "robot",
+      "yazılım",
+      "otomatik",
+      "kod",
+      "emir iletimi"
+    ]
+  },
+  {
+    "id": 81,
+    "kategori": "borsa",
+    "kelime": "yüksek frekanslı işlem",
+    "aciklama": "milisaniyeler ve mikrosaniyeler mertebesinde devasa işlem hacimleriyle çalışan süper hızlı algoritmik ticaret.",
+    "yasakli_kelimeler": [
+      "hft",
+      "milisaniye",
+      "süper hızlı",
+      "emir iptali",
+      "sunucu"
+    ]
+  },
+  {
+    "id": 82,
+    "kategori": "borsa",
+    "kelime": "emir defteri",
+    "aciklama": "borsada belirli bir hisse için sisteme iletilen tüm bekleyen alış ve satış emirlerinin kayıtlı olduğu veri tabanı.",
+    "yasakli_kelimeler": [
+      "tahta",
+      "fiyat önceliği",
+      "zaman önceliği",
+      "derinlik",
+      "kuyruk"
+    ]
+  },
+  {
+    "id": 83,
+    "kategori": "borsa",
+    "kelime": "zaman önceliği",
+    "aciklama": "aynı fiyat seviyesinden girilen emirlerde sisteme daha erken ulaşan emrin önce eşleşmesi kuralı.",
+    "yasakli_kelimeler": [
+      "öncelik kuralı",
+      "eşleşme",
+      "kuyruk",
+      "saat",
+      "fiyat önceliği"
+    ]
+  },
+  {
+    "id": 84,
+    "kategori": "borsa",
+    "kelime": "fiyat önceliği",
+    "aciklama": "daha yüksek fiyatlı alış emirlerinin ve daha düşük fiyatlı satış emirlerinin ilk sırada işlem görmesi kuralı.",
+    "yasakli_kelimeler": [
+      "en iyi teklif",
+      "eşleşme",
+      "kural",
+      "alış satış",
+      "zaman önceliği"
+    ]
+  },
+  {
+    "id": 85,
+    "kategori": "borsa",
+    "kelime": "bloke",
+    "aciklama": "satış emri girildiğinde veya teminat gösterildiğinde hisse senetlerinin işlem tamamlanana kadar dondurulması.",
+    "yasakli_kelimeler": [
+      "dondurma",
+      "kısıtlama",
+      "teminat",
+      "takas",
+      "hareketsiz"
+    ]
+  },
+  {
+    "id": 86,
+    "kategori": "borsa",
+    "kelime": "t+2 takas süresi",
+    "aciklama": "borsada hisse senedi alım satımında takas ve nakit mutabakatının işlemin ardından ikinci iş günü gerçekleşmesi kuralı.",
+    "yasakli_kelimeler": [
+      "iki iş günü",
+      "mutabakat",
+      "takas",
+      "nakit geçişi",
+      "para hesabı"
+    ]
+  },
+  {
+    "id": 87,
+    "kategori": "borsa",
+    "kelime": "virman",
+    "aciklama": "hisse senetlerinin bir aracı kurumdaki hesaptan başka bir aracı kurumdaki hesaba mülkiyet değişmeden aktarılması.",
+    "yasakli_kelimeler": [
+      "transfer",
+      "hesaplar arası",
+      "aktarım",
+      "mkk",
+      "pay taşıma"
+    ]
+  },
+  {
+    "id": 88,
+    "kategori": "borsa",
+    "kelime": "kurumsal yatırımcı",
+    "aciklama": "emeklilik fonları, sigorta şirketleri veya yatırım ortaklıkları gibi büyük sermayelerle profesyonel yatırım yapan tüzel kişiler.",
+    "yasakli_kelimeler": [
+      "fonlar",
+      "bireysel olmayan",
+      "profesyonel",
+      "büyük sermaye",
+      "tüzel kişi"
+    ]
+  },
+  {
+    "id": 89,
+    "kategori": "borsa",
+    "kelime": "bireysel yatırımcı",
+    "aciklama": "kendi kişisel tasarrufları ve küçük sermayesiyle kendi adına borsada alım satım yapan gerçek kişi.",
+    "yasakli_kelimeler": [
+      "küçük yatırımcı",
+      "halk",
+      "gerçek kişi",
+      "birey",
+      "şahıs"
+    ]
+  },
+  {
+    "id": 90,
+    "kategori": "borsa",
+    "kelime": "değer yatırımı",
+    "aciklama": "piyasa fiyatı gerçek içsel değerinin oldukça altında olan sağlam şirket hisselerini uzun vadeli satın alma felsefesi.",
+    "yasakli_kelimeler": [
+      "warren buffett",
+      "içsel değer",
+      "ucuz hisse",
+      "uzun vade",
+      "temel analiz"
+    ]
+  },
+  {
+    "id": 91,
+    "kategori": "borsa",
+    "kelime": "büyüme yatırımı",
+    "aciklama": "gelirleri ve kârı sektör ortalamasının çok üzerinde hızla büyüyen şirketlere yüksek çarpanlara rağmen yatırım yapma.",
+    "yasakli_kelimeler": [
+      "growth",
+      "hızlı büyüme",
+      "teknoloji",
+      "yüksek f/k",
+      "gelecek potansiyeli"
+    ]
+  },
+  {
+    "id": 92,
+    "kategori": "borsa",
+    "kelime": "içsel değer",
+    "aciklama": "şirketin gelecekte üreteceği tüm serbest nakit akışlarının bugüne indirgenmesiyle hesaplanan gerçek temel değeri.",
+    "yasakli_kelimeler": [
+      "indirgenmiş nakit",
+      "dcf",
+      "gerçek değer",
+      "piyasa fiyatı",
+      "adil değer"
+    ]
+  },
+  {
+    "id": 93,
+    "kategori": "borsa",
+    "kelime": "indirgenmiş nakit akımı",
+    "aciklama": "şirketin gelecekteki beklenen nakit akışlarını ağırlıklı ortalama sermaye maliyeti ile iskonto eden değerleme modeli.",
+    "yasakli_kelimeler": [
+      "dcf",
+      "iskonto",
+      "nakit akışı",
+      "wacc",
+      "değerleme"
+    ]
+  },
+  {
+    "id": 94,
+    "kategori": "borsa",
+    "kelime": "ağırlıklı ortalama sermaye maliyeti",
+    "aciklama": "şirketin borç ve özkaynak finansmanının maliyetlerinin sermaye yapısındaki paylarıyla ağırlıklandırılmış ortalaması.",
+    "yasakli_kelimeler": [
+      "wacc",
+      "sermaye maliyeti",
+      "iskonto oranı",
+      "borç maliyeti",
+      "özkaynak"
+    ]
+  },
+  {
+    "id": 95,
+    "kategori": "borsa",
+    "kelime": "faaliyet kârı",
+    "aciklama": "şirketin ana faaliyetlerinden elde ettiği brüt kârdan operasyonel faaliyet giderlerinin düşülmesiyle kalan kâr.",
+    "yasakli_kelimeler": [
+      "esas faaliyet",
+      "operasyonel",
+      "ebit",
+      "gelir tablosu",
+      "satış kârı"
+    ]
+  },
+  {
+    "id": 96,
+    "kategori": "borsa",
+    "kelime": "favök",
+    "aciklama": "faiz, amortisman ve vergi öncesi kâr tutarını göstererek operasyonel nakit yaratma gücünü ölçen finansal metrik.",
+    "yasakli_kelimeler": [
+      "ebitda",
+      "amortisman",
+      "faiz",
+      "vergi",
+      "operasyonel nakit"
+    ]
+  },
+  {
+    "id": 97,
+    "kategori": "borsa",
+    "kelime": "özkaynak kârlılığı",
+    "aciklama": "şirketin net dönem kârının toplam özkaynaklarına bölünmesiyle hissedarların sermayesinin verimliliğini ölçen rasyo.",
+    "yasakli_kelimeler": [
+      "roe",
+      "özkaynak",
+      "verimlilik",
+      "hissedar getirisi",
+      "net kâr"
+    ]
+  },
+  {
+    "id": 98,
+    "kategori": "borsa",
+    "kelime": "aktif kârlılığı",
+    "aciklama": "şirketin net kârının sahip olduğu tüm varlıklara bölünmesiyle varlıkların ne kadar verimli kullanıldığını gösteren oran.",
+    "yasakli_kelimeler": [
+      "roa",
+      "toplam varlık",
+      "bilanço",
+      "verim",
+      "net kâr"
+    ]
+  },
+  {
+    "id": 99,
+    "kategori": "borsa",
+    "kelime": "cari oran",
+    "aciklama": "dönen varlıkların kısa vadeli yabancı kaynaklara bölünmesiyle şirketin kısa vadeli borç ödeme gücünü ölçen likidite oranı.",
+    "yasakli_kelimeler": [
+      "dönen varlık",
+      "kısa vadeli borç",
+      "likidite",
+      "rasyo",
+      "çalışma sermayesi"
+    ]
+  },
+  {
+    "id": 100,
+    "kategori": "borsa",
+    "kelime": "asit test oranı",
+    "aciklama": "stoklar hariç dönen varlıkların kısa vadeli borçlara bölünmesiyle hesaplanan en katı likidite göstergesi.",
+    "yasakli_kelimeler": [
+      "likit oran",
+      "stoksuz",
+      "kısa vadeli yükümlülük",
+      "nakit",
+      "hızlı oran"
+    ]
+  }
+]

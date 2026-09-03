@@ -1,0 +1,1302 @@
+[
+  {
+    "id": 1,
+    "kategori": "termodinamik",
+    "kelime": "entropi",
+    "aciklama": "bir sistemin mikroskobik düzensizliğinin veya kullanılamaz termal enerjisinin ölçüsü.",
+    "yasakli_kelimeler": [
+      "düzensizlik",
+      "termodinamik",
+      "kaos",
+      "enerji",
+      "ikinci yasa"
+    ]
+  },
+  {
+    "id": 2,
+    "kategori": "termodinamik",
+    "kelime": "entalpi",
+    "aciklama": "bir sistemin iç enerjisi ile basınç-hacim çarpımının toplamına eşit olan termodinamik potansiyel.",
+    "yasakli_kelimeler": [
+      "ısı",
+      "iç enerji",
+      "basınç",
+      "hacim",
+      "reaksiyon"
+    ]
+  },
+  {
+    "id": 3,
+    "kategori": "termodinamik",
+    "kelime": "adivabatik süreç",
+    "aciklama": "sistem ile çevresi arasında hiçbir ısı alışverişi gerçekleşmeden meydana gelen termodinamik değişim.",
+    "yasakli_kelimeler": [
+      "ısı",
+      "yalıtım",
+      "çevre",
+      "genleşme",
+      "sıkışma"
+    ]
+  },
+  {
+    "id": 4,
+    "kategori": "termodinamik",
+    "kelime": "izotermal süreç",
+    "aciklama": "termodinamik bir sistemin sıcaklığının süreç boyunca sabit kaldığı durum.",
+    "yasakli_kelimeler": [
+      "sıcaklık",
+      "sabit",
+      "basınç",
+      "hacim",
+      "boyle"
+    ]
+  },
+  {
+    "id": 5,
+    "kategori": "termodinamik",
+    "kelime": "izobarik süreç",
+    "aciklama": "sistem üzerindeki basıncın süreç boyunca sabit tutulduğu termodinamik dönüşüm.",
+    "yasakli_kelimeler": [
+      "basınç",
+      "sabit",
+      "charles",
+      "hacim",
+      "piston"
+    ]
+  },
+  {
+    "id": 6,
+    "kategori": "termodinamik",
+    "kelime": "izokorik süreç",
+    "aciklama": "sistemin hacminin süreç boyunca sabit kaldığı ve mekanik iş yapılmayan dönüşüm.",
+    "yasakli_kelimeler": [
+      "hacim",
+      "sabit",
+      "iş",
+      "kapalı kap",
+      "basınç"
+    ]
+  },
+  {
+    "id": 7,
+    "kategori": "termodinamik",
+    "kelime": "carnot çevrimi",
+    "aciklama": "iki farklı sıcaklık rezervuarı arasında çalışan en yüksek teorik verime sahip tersinir çevrim.",
+    "yasakli_kelimeler": [
+      "çevrim",
+      "verim",
+      "tersinir",
+      "motor",
+      "rezervuar"
+    ]
+  },
+  {
+    "id": 8,
+    "kategori": "termodinamik",
+    "kelime": "gibbs serbest enerjisi",
+    "aciklama": "sabit sıcaklık ve basınçta bir sistemden elde edilebilecek maksimum tersinir işi belirleyen potansiyel.",
+    "yasakli_kelimeler": [
+      "spontan",
+      "entalpi",
+      "entropi",
+      "denge",
+      "reaksiyon"
+    ]
+  },
+  {
+    "id": 9,
+    "kategori": "termodinamik",
+    "kelime": "helmholtz serbest enerjisi",
+    "aciklama": "sabit sıcaklık ve hacimde kapalı bir termodinamik sistemden elde edilebilecek yararlı iş potansiyeli.",
+    "yasakli_kelimeler": [
+      "sabit hacim",
+      "iş",
+      "potansiyel",
+      "termodinamik",
+      "sıcaklık"
+    ]
+  },
+  {
+    "id": 10,
+    "kategori": "termodinamik",
+    "kelime": "mutlak sıfır",
+    "aciklama": "moleküler hareketin teorik olarak minimuma indiği sıfır kelvin sıcaklık noktası.",
+    "yasakli_kelimeler": [
+      "kelvin",
+      "sıcaklık",
+      "üçüncü yasa",
+      "hareket",
+      "soğuk"
+    ]
+  },
+  {
+    "id": 11,
+    "kategori": "termodinamik",
+    "kelime": "ısı sığası",
+    "aciklama": "bir maddenin sıcaklığını bir birim artırmak için gereken ısı enerjisi miktarı.",
+    "yasakli_kelimeler": [
+      "özgül ısı",
+      "kalori",
+      "sıcaklık",
+      "enerji",
+      "joule"
+    ]
+  },
+  {
+    "id": 12,
+    "kategori": "termodinamik",
+    "kelime": "tersinir süreç",
+    "aciklama": "çevrede ve sistemde hiçbir net değişiklik bırakmadan başlangıç durumuna geri döndürülebilen ideal süreç.",
+    "yasakli_kelimeler": [
+      "tersinmez",
+      "ideal",
+      "denge",
+      "kayıp",
+      "yol"
+    ]
+  },
+  {
+    "id": 13,
+    "kategori": "termodinamik",
+    "kelime": "tersinmez süreç",
+    "aciklama": "entropi artışı nedeniyle kendiliğinden meydana gelen ve sistem ile çevreyi başlangıç haline getiremeyen süreç.",
+    "yasakli_kelimeler": [
+      "entropi",
+      "doğal",
+      "sürtünme",
+      "kayıp",
+      "kendiliğinden"
+    ]
+  },
+  {
+    "id": 14,
+    "kategori": "termodinamik",
+    "kelime": "joule-thomson etkisi",
+    "aciklama": "bir gazın yalıtılmış bir vanadan geçerek genleşmesi sırasında sıcaklığında meydana gelen değişim.",
+    "yasakli_kelimeler": [
+      "genleşme",
+      "gaz",
+      "soğuma",
+      "kısılma",
+      "basınç"
+    ]
+  },
+  {
+    "id": 15,
+    "kategori": "termodinamik",
+    "kelime": "iç enerji",
+    "aciklama": "bir sistemin mikroskobik ölçekteki tüm kinetik ve potansiyel enerjilerinin toplamı.",
+    "yasakli_kelimeler": [
+      "molekül",
+      "kinetik",
+      "potansiyel",
+      "birinci yasa",
+      "mikroskobik"
+    ]
+  },
+  {
+    "id": 16,
+    "kategori": "termodinamik",
+    "kelime": "ideal gaz yasası",
+    "aciklama": "basınç, hacim, sıcaklık ve madde miktarı arasındaki ilişkiyi pv=nrt denklemiyle tanımlayan model.",
+    "yasakli_kelimeler": [
+      "basınç",
+      "hacim",
+      "sıcaklık",
+      "mol",
+      "denklem"
+    ]
+  },
+  {
+    "id": 17,
+    "kategori": "termodinamik",
+    "kelime": "van der waals denklemi",
+    "aciklama": "gerçek gazların moleküller arası çekim kuvvetlerini ve hacimlerini hesaba katan durum denklemi.",
+    "yasakli_kelimeler": [
+      "gerçek gaz",
+      "çekim",
+      "hacim",
+      "düzeltme",
+      "molekül"
+    ]
+  },
+  {
+    "id": 18,
+    "kategori": "termodinamik",
+    "kelime": "kritik nokta",
+    "aciklama": "sıvı ve gaz fazları arasındaki yoğunluk farkının yok olduğu sıcaklık ve basınç eşiği.",
+    "yasakli_kelimeler": [
+      "faz",
+      "sıvı",
+      "gaz",
+      "yoğunluk",
+      "süperkritik"
+    ]
+  },
+  {
+    "id": 19,
+    "kategori": "termodinamik",
+    "kelime": "üçlü nokta",
+    "aciklama": "bir maddenin katı, sıvı ve gaz fazlarının termodinamik dengede bir arada bulunduğu tekil koşul.",
+    "yasakli_kelimeler": [
+      "katı",
+      "sıvı",
+      "gaz",
+      "denge",
+      "faz diyagramı"
+    ]
+  },
+  {
+    "id": 20,
+    "kategori": "termodinamik",
+    "kelime": "faz diyagramı",
+    "aciklama": "farklı sıcaklık ve basınç koşullarında bir maddenin hangi fiziksel halde bulunacağını gösteren grafik.",
+    "yasakli_kelimeler": [
+      "grafik",
+      "basınç",
+      "sıcaklık",
+      "durum",
+      "eğri"
+    ]
+  },
+  {
+    "id": 21,
+    "kategori": "termodinamik",
+    "kelime": "clausius-clapeyron denklemi",
+    "aciklama": "tek bileşenli bir sistemin faz geçişi sırasındaki buhar basıncı ile sıcaklık ilişkisini veren bağıntı.",
+    "yasakli_kelimeler": [
+      "buharlaşma",
+      "faz geçişi",
+      "basınç",
+      "sıcaklık",
+      "entalpi"
+    ]
+  },
+  {
+    "id": 22,
+    "kategori": "termodinamik",
+    "kelime": "rankine çevrimi",
+    "aciklama": "buhar gücü santrallerinde ısı enerjisini mekanik işe dönüştürmek için kullanılan temel çevrim.",
+    "yasakli_kelimeler": [
+      "buhar",
+      "santral",
+      "türbin",
+      "kondenser",
+      "kazan"
+    ]
+  },
+  {
+    "id": 23,
+    "kategori": "termodinamik",
+    "kelime": "brayton çevrimi",
+    "aciklama": "gaz türbinleri ve jet motorlarının çalışma prensibini oluşturan açık veya kapalı termodinamik çevrim.",
+    "yasakli_kelimeler": [
+      "türbin",
+      "kompresör",
+      "jet motoru",
+      "gaz",
+      "yanma"
+    ]
+  },
+  {
+    "id": 24,
+    "kategori": "termodinamik",
+    "kelime": "otto çevrimi",
+    "aciklama": "dört zamanlı bujili içten yanmalı motorların idealize edilmiş termodinamik çevrimi.",
+    "yasakli_kelimeler": [
+      "motor",
+      "buji",
+      "benzin",
+      "zaman",
+      "sıkıştırma"
+    ]
+  },
+  {
+    "id": 25,
+    "kategori": "termodinamik",
+    "kelime": "diesel çevrimi",
+    "aciklama": "yakıtın sıkıştırılmış yüksek sıcaklıktaki hava ile kendiliğinden tutuştuğu içten yanmalı motor çevrimi.",
+    "yasakli_kelimeler": [
+      "motor",
+      "püskürtme",
+      "sıkıştırma",
+      "yakıt",
+      "yanma"
+    ]
+  },
+  {
+    "id": 26,
+    "kategori": "termodinamik",
+    "kelime": "stirling çevrimi",
+    "aciklama": "dıştan yanmalı, rejeneratör içeren ve iki izotermal iki izokorik süreçten oluşan kapalı çevrim.",
+    "yasakli_kelimeler": [
+      "dıştan yanmalı",
+      "rejeneratör",
+      "kapalı",
+      "verim",
+      "motor"
+    ]
+  },
+  {
+    "id": 27,
+    "kategori": "termodinamik",
+    "kelime": "ekserji",
+    "aciklama": "bir sistemin belirli bir çevre ortamıyla dengeye gelene kadar üretebileceği maksimum kullanılabilir iş.",
+    "yasakli_kelimeler": [
+      "kullanılabilirlik",
+      "iş",
+      "çevre",
+      "kayıp",
+      "yıkım"
+    ]
+  },
+  {
+    "id": 28,
+    "kategori": "termodinamik",
+    "kelime": "anerji",
+    "aciklama": "bir enerjinin çevre koşullarında mekanik veya yararlı işe dönüştürülemeyen atık kısmı.",
+    "yasakli_kelimeler": [
+      "atık",
+      "iş",
+      "dönüşüm",
+      "kayıp",
+      "çevre"
+    ]
+  },
+  {
+    "id": 29,
+    "kategori": "termodinamik",
+    "kelime": "termodinamiğin sıfırıncı yasası",
+    "aciklama": "üçüncü bir sistemle termal dengede olan iki sistemin birbiriyle de dengede olduğunu belirten ilke.",
+    "yasakli_kelimeler": [
+      "termal denge",
+      "sıcaklık",
+      "termometre",
+      "yasa",
+      "ölçüm"
+    ]
+  },
+  {
+    "id": 30,
+    "kategori": "termodinamik",
+    "kelime": "termodinamiğin birinci yasası",
+    "aciklama": "enerjinin yoktan var edilemeyeceğini ve vardan yok edilemeyeceğini savunan enerjinin korunumu ilkesi.",
+    "yasakli_kelimeler": [
+      "korunum",
+      "enerji",
+      "iş",
+      "ısı",
+      "iç enerji"
+    ]
+  },
+  {
+    "id": 31,
+    "kategori": "termodinamik",
+    "kelime": "termodinamiğin ikinci yasası",
+    "aciklama": "izole bir sistemin toplam entropisinin kendiliğinden olan süreçlerde her zaman artacağını belirten kural.",
+    "yasakli_kelimeler": [
+      "entropi",
+      "artış",
+      "ok",
+      "ısı akışı",
+      "clausius"
+    ]
+  },
+  {
+    "id": 32,
+    "kategori": "termodinamik",
+    "kelime": "termodinamiğin üçüncü yasası",
+    "aciklama": "kusursuz bir kristalin mutlak sıfır sıcaklığında entropisinin sıfıra eşit olduğunu ifade eden yasa.",
+    "yasakli_kelimeler": [
+      "mutlak sıfır",
+      "kristal",
+      "entropi",
+      "nernst",
+      "kelvin"
+    ]
+  },
+  {
+    "id": 33,
+    "kategori": "termodinamik",
+    "kelime": "fugisite",
+    "aciklama": "gerçek bir gazın termodinamik hesaplamalarda ideal gaz gibi davranmasını sağlayan etkin basınç ölçüsü.",
+    "yasakli_kelimeler": [
+      "etkin basınç",
+      "gerçek gaz",
+      "katsayı",
+      "denge",
+      "kimyasal potansiyel"
+    ]
+  },
+  {
+    "id": 34,
+    "kategori": "termodinamik",
+    "kelime": "kimyasal potansiyel",
+    "aciklama": "bir sisteme sabit sıcaklık ve basınçta bir mol madde eklendiğinde serbest enerjideki değişim oranı.",
+    "yasakli_kelimeler": [
+      "serbest enerji",
+      "mol",
+      "madde",
+      "faz dengesi",
+      "potansiyel"
+    ]
+  },
+  {
+    "id": 35,
+    "kategori": "termodinamik",
+    "kelime": "gibbs-duhem denklemi",
+    "aciklama": "termodinamik bir sistemdeki kimyasal potansiyeller, sıcaklık ve basınç değişimleri arasındaki ilişkiyi kuran denklem.",
+    "yasakli_kelimeler": [
+      "kimyasal potansiyel",
+      "ilişki",
+      "bileşen",
+      "diferansiyel",
+      "bağıntı"
+    ]
+  },
+  {
+    "id": 36,
+    "kategori": "termodinamik",
+    "kelime": "maxwell ilişkileri",
+    "aciklama": "termodinamik potansiyellerin ikinci türevlerinin simetrisinden türetilen durum değişkenleri arası eşitlikler kümesi.",
+    "yasakli_kelimeler": [
+      "türev",
+      "potansiyel",
+      "eşitlik",
+      "simetri",
+      "değişken"
+    ]
+  },
+  {
+    "id": 37,
+    "kategori": "termodinamik",
+    "kelime": "kapalı sistem",
+    "aciklama": "çevresiyle enerji alışverişi yapabilen ancak kütle veya madde geçişine izin vermeyen termodinamik sınır.",
+    "yasakli_kelimeler": [
+      "madde",
+      "kütle",
+      "enerji",
+      "sınır",
+      "çevre"
+    ]
+  },
+  {
+    "id": 38,
+    "kategori": "termodinamik",
+    "kelime": "açık sistem",
+    "aciklama": "sınırları üzerinden çevresiyle hem kütle hem de enerji alışverişi yapabilen kontrol hacmi.",
+    "yasakli_kelimeler": [
+      "kontrol hacmi",
+      "kütle akışı",
+      "madde",
+      "giriş",
+      "çıkış"
+    ]
+  },
+  {
+    "id": 39,
+    "kategori": "termodinamik",
+    "kelime": "izole sistem",
+    "aciklama": "çevresiyle ne kütle ne de ısı veya iş şeklinde hiçbir enerji transferi yapmayan sistem.",
+    "yasakli_kelimeler": [
+      "yalıtılmış",
+      "kütle",
+      "enerji",
+      "etkileşim",
+      "evren"
+    ]
+  },
+  {
+    "id": 40,
+    "kategori": "termodinamik",
+    "kelime": "süperkritik akışkan",
+    "aciklama": "kritik sıcaklık ve basıncının üzerinde gaz gibi yayılan ancak sıvı gibi çözücü özellik gösteren madde durumu.",
+    "yasakli_kelimeler": [
+      "kritik",
+      "çözücü",
+      "faz",
+      "karbondioksit",
+      "yoğunluk"
+    ]
+  },
+  {
+    "id": 41,
+    "kategori": "termodinamik",
+    "kelime": "gizli ısı",
+    "aciklama": "bir maddenin sıcaklığı değişmeksizin sadece fiziksel hal değiştirmesi sırasında aldığı veya verdiği enerji.",
+    "yasakli_kelimeler": [
+      "faz değişimi",
+      "erime",
+      "buharlaşma",
+      "sıcaklık",
+      "entalpi"
+    ]
+  },
+  {
+    "id": 42,
+    "kategori": "termodinamik",
+    "kelime": "duyulur ısı",
+    "aciklama": "bir maddenin fazında değişiklik olmadan yalnızca sıcaklığında artış veya azalışa neden olan termal enerji.",
+    "yasakli_kelimeler": [
+      "sıcaklık değişimi",
+      "termometre",
+      "özgül ısı",
+      "faz",
+      "ölçüm"
+    ]
+  },
+  {
+    "id": 43,
+    "kategori": "termodinamik",
+    "kelime": "termal denge",
+    "aciklama": "temasta olan iki veya daha fazla sistem arasında net ısı akışının durduğu ve sıcaklıkların eşitlendiği durum.",
+    "yasakli_kelimeler": [
+      "sıcaklık",
+      "denge",
+      "ısı akışı",
+      "temas",
+      "sıfırıncı yasa"
+    ]
+  },
+  {
+    "id": 44,
+    "kategori": "termodinamik",
+    "kelime": "mekanik denge",
+    "aciklama": "sistemin tüm noktalarındaki basıncın eşit olduğu ve dengelenmemiş kuvvet bulunmadığı durum.",
+    "yasakli_kelimeler": [
+      "basınç",
+      "kuvvet",
+      "denge",
+      "hareket",
+      "gerilme"
+    ]
+  },
+  {
+    "id": 45,
+    "kategori": "termodinamik",
+    "kelime": "kimyasal denge",
+    "aciklama": "ileri ve geri reaksiyon hızlarının eşitlendiği ve bileşenlerin kimyasal potansiyellerinin sabitlendiği durum.",
+    "yasakli_kelimeler": [
+      "reaksiyon",
+      "hız",
+      "bileşim",
+      "potansiyel",
+      "konsantrasyon"
+    ]
+  },
+  {
+    "id": 46,
+    "kategori": "termodinamik",
+    "kelime": "politropik süreç",
+    "aciklama": "basınç ve hacim arasındaki ilişkinin pv^n=sabit genel bağıntısıyla ifade edildiği gaz süreci.",
+    "yasakli_kelimeler": [
+      "üs",
+      "gaz",
+      "sıkışma",
+      "genleşme",
+      "bağıntı"
+    ]
+  },
+  {
+    "id": 47,
+    "kategori": "termodinamik",
+    "kelime": "kvazi-statik süreç",
+    "aciklama": "sistemin her an termodinamik dengeye sonsuz yakın kalacak şekilde son derece yavaş gerçekleştiği süreç.",
+    "yasakli_kelimeler": [
+      "yavaş",
+      "denge",
+      "adım",
+      "sonsuz küçük",
+      "tersinir"
+    ]
+  },
+  {
+    "id": 48,
+    "kategori": "termodinamik",
+    "kelime": "kalorimetre",
+    "aciklama": "kimyasal veya fiziksel reaksiyonlar sırasında açığa çıkan ya da soğurulan ısı miktarını ölçen cihaz.",
+    "yasakli_kelimeler": [
+      "ısı",
+      "ölçüm",
+      "bomba",
+      "reaksiyon",
+      "cihaz"
+    ]
+  },
+  {
+    "id": 49,
+    "kategori": "termodinamik",
+    "kelime": "buharlaşma entalpisi",
+    "aciklama": "belirli bir basınçta sıvı haldeki birim kütledeki maddenin gaz fazına geçmesi için gereken ısı miktarı.",
+    "yasakli_kelimeler": [
+      "sıvı",
+      "gaz",
+      "kaynama",
+      "buhar",
+      "ısı"
+    ]
+  },
+  {
+    "id": 50,
+    "kategori": "termodinamik",
+    "kelime": "erime entalpisi",
+    "aciklama": "katı bir maddenin erime noktasında sıvı hale geçebilmesi için soğurması gereken ısı enerjisi.",
+    "yasakli_kelimeler": [
+      "katı",
+      "sıvı",
+      "erime",
+      "donma",
+      "ısı"
+    ]
+  },
+  {
+    "id": 51,
+    "kategori": "termodinamik",
+    "kelime": "süblimleşme",
+    "aciklama": "katı fazdaki bir maddenin sıvı hale uğramaksızın doğrudan gaz fazına geçmesi süreci.",
+    "yasakli_kelimeler": [
+      "katı",
+      "gaz",
+      "sıvı",
+      "kuru buz",
+      "faz"
+    ]
+  },
+  {
+    "id": 52,
+    "kategori": "termodinamik",
+    "kelime": "kırağılaşma",
+    "aciklama": "gaz fazındaki bir maddenin ara faz olan sıvıya geçmeden doğrudan katı hale dönüşmesi olayı.",
+    "yasakli_kelimeler": [
+      "gaz",
+      "katı",
+      "faz",
+      "buhar",
+      "yoğuşma"
+    ]
+  },
+  {
+    "id": 53,
+    "kategori": "termodinamik",
+    "kelime": "boltzmann sabiti",
+    "aciklama": "bireysel parçacıkların kinetik enerjisi ile mutlak sıcaklık arasındaki ilişkiyi kuran temel fizik sabiti.",
+    "yasakli_kelimeler": [
+      "istatistiksel",
+      "sabit",
+      "entropi",
+      "kinetik",
+      "k"
+    ]
+  },
+  {
+    "id": 54,
+    "kategori": "termodinamik",
+    "kelime": "bölüşüm fonksiyonu",
+    "aciklama": "istatistiksel mekanikte bir sistemin tüm mikroskobik durumlarının olasılık toplamını ifade eden matematiksel fonksiyon.",
+    "yasakli_kelimeler": [
+      "istatistik",
+      "durum",
+      "olasılık",
+      "mikroskopik",
+      "fonksiyon"
+    ]
+  },
+  {
+    "id": 55,
+    "kategori": "termodinamik",
+    "kelime": "mikro durum",
+    "aciklama": "termodinamik bir sistemi oluşturan tüm parçacıkların belirli bir andaki tam konumsal ve momentum dağılımı.",
+    "yasakli_kelimeler": [
+      "makro durum",
+      "parçacık",
+      "konum",
+      "momentum",
+      "olasılık"
+    ]
+  },
+  {
+    "id": 56,
+    "kategori": "termodinamik",
+    "kelime": "makro durum",
+    "aciklama": "bir sistemin basınç, hacim ve sıcaklık gibi gözlemlenebilir toplu özellikleriyle belirlenen genel durumu.",
+    "yasakli_kelimeler": [
+      "gözlem",
+      "toplu",
+      "basınç",
+      "sıcaklık",
+      "mikro durum"
+    ]
+  },
+  {
+    "id": 57,
+    "kategori": "termodinamik",
+    "kelime": "ısı pompası",
+    "aciklama": "düşük sıcaklıktaki bir ortamdan ısıyı alıp mekanik iş yardımıyla yüksek sıcaklıktaki ortama aktaran cihaz.",
+    "yasakli_kelimeler": [
+      "soğutma",
+      "ısıtma",
+      "cop",
+      "kompresör",
+      "tersine çevrim"
+    ]
+  },
+  {
+    "id": 58,
+    "kategori": "termodinamik",
+    "kelime": "soğutma çevrimi",
+    "aciklama": "kapalı bir çevrimde soğutucu akışkanın buharlaşıp yoğuşması yoluyla kapalı bir ortamdan ısı çeken düzenek.",
+    "yasakli_kelimeler": [
+      "akışkan",
+      "kondenser",
+      "evaporatör",
+      "buhar",
+      "kompresör"
+    ]
+  },
+  {
+    "id": 59,
+    "kategori": "termodinamik",
+    "kelime": "etkinlik katsayısı",
+    "aciklama": "ısı pompaları ve soğutucularda elde edilen faydalı ısının harcanan işe oranını gösteren performans parametresi.",
+    "yasakli_kelimeler": [
+      "cop",
+      "performans",
+      "oran",
+      "iş",
+      "verim"
+    ]
+  },
+  {
+    "id": 60,
+    "kategori": "termodinamik",
+    "kelime": "ısı değiştirici",
+    "aciklama": "aralarında sıcaklık farkı bulunan iki veya daha fazla akışkan arasında ısı transferini sağlayan ekipman.",
+    "yasakli_kelimeler": [
+      "transfer",
+      "akışkan",
+      "eşanjör",
+      "plaka",
+      "boru"
+    ]
+  },
+  {
+    "id": 61,
+    "kategori": "termodinamik",
+    "kelime": "kondansatör",
+    "aciklama": "buhar çevriminde türbinden çıkan egzoz buharını soğutarak tekrar sıvı suya dönüştüren ısı değiştirici.",
+    "yasakli_kelimeler": [
+      "yoğuşturucu",
+      "buhar",
+      "soğutma",
+      "sıvı",
+      "çevrim"
+    ]
+  },
+  {
+    "id": 62,
+    "kategori": "termodinamik",
+    "kelime": "evaporatör",
+    "aciklama": "soğutucu akışkanın düşük basınçta ortamdan ısı çekerek kaynayıp buharlaştığı ısı eşanjörü ünitesi.",
+    "yasakli_kelimeler": [
+      "buharlaştırıcı",
+      "soğutma",
+      "akışkan",
+      "ısı alma",
+      "ünite"
+    ]
+  },
+  {
+    "id": 63,
+    "kategori": "termodinamik",
+    "kelime": "termodinamik verim",
+    "aciklama": "bir ısı motorunun ürettiği net mekanik işin sisteme verilen toplam ısı enerjisine olan oranı.",
+    "yasakli_kelimeler": [
+      "iş",
+      "ısı",
+      "motor",
+      "oran",
+      "kayıp"
+    ]
+  },
+  {
+    "id": 64,
+    "kategori": "termodinamik",
+    "kelime": "izentropik verim",
+    "aciklama": "türbin veya kompresör gibi gerçek adyabatik cihazların tersinir ideal duruma kıyasla performans ölçüsü.",
+    "yasakli_kelimeler": [
+      "ideal",
+      "türbin",
+      "kompresör",
+      "gerçek",
+      "entropi"
+    ]
+  },
+  {
+    "id": 65,
+    "kategori": "termodinamik",
+    "kelime": "sıkıştırılabilirlik faktörü",
+    "aciklama": "gerçek bir gazın davranışının ideal gaz denkleminden sapma miktarını belirten z çarpanı.",
+    "yasakli_kelimeler": [
+      "z",
+      "sapma",
+      "ideal gaz",
+      "gerçek gaz",
+      "oran"
+    ]
+  },
+  {
+    "id": 66,
+    "kategori": "termodinamik",
+    "kelime": "indirgenmiş sıcaklık",
+    "aciklama": "bir maddenin mutlak sıcaklığının kendi kritik sıcaklığına bölünmesiyle elde edilen boyutsuz değişken.",
+    "yasakli_kelimeler": [
+      "boyutsuz",
+      "kritik",
+      "oran",
+      "sıcaklık",
+      "karşılık durumlar"
+    ]
+  },
+  {
+    "id": 67,
+    "kategori": "termodinamik",
+    "kelime": "indirgenmiş basınç",
+    "aciklama": "bir akışkanın gerçek basıncının kritik basıncına oranı olarak tanımlanan boyutsuz termodinamik büyüklük.",
+    "yasakli_kelimeler": [
+      "boyutsuz",
+      "kritik",
+      "basınç",
+      "oran",
+      "durum"
+    ]
+  },
+  {
+    "id": 68,
+    "kategori": "termodinamik",
+    "kelime": "karşılık gelen durumlar ilkesi",
+    "aciklama": "aynı indirgenmiş basınç ve indirgenmiş sıcaklığa sahip tüm gazların benzer sıkıştırılabilirlik faktörü sergilediği teorem.",
+    "yasakli_kelimeler": [
+      "indirgenmiş",
+      "ilke",
+      "genel",
+      "sapma",
+      "davranış"
+    ]
+  },
+  {
+    "id": 69,
+    "kategori": "termodinamik",
+    "kelime": "isıl iletkenlik",
+    "aciklama": "bir malzemenin moleküler çarpışmalar veya elektron transferi yoluyla ısı enerjisini iletme kabiliyeti.",
+    "yasakli_kelimeler": [
+      "iletim",
+      "fourier",
+      "transfer",
+      "malzeme",
+      "akı"
+    ]
+  },
+  {
+    "id": 70,
+    "kategori": "termodinamik",
+    "kelime": "taşınım",
+    "aciklama": "ısı enerjisinin katı bir yüzey ile temas halindeki hareketli bir akışkan arasında kütle hareketiyle aktarılması.",
+    "yasakli_kelimeler": [
+      "konveksiyon",
+      "akışkan",
+      "hareket",
+      "newton",
+      "ısı transferi"
+    ]
+  },
+  {
+    "id": 71,
+    "kategori": "termodinamik",
+    "kelime": "ışınım",
+    "aciklama": "maddenin elektromanyetik dalgalar yayarak hiçbir aracı ortama ihtiyaç duymadan gerçekleştirdiği ısı transferi türü.",
+    "yasakli_kelimeler": [
+      "radyasyon",
+      "dalga",
+      "stefan-boltzmann",
+      "foton",
+      "vakum"
+    ]
+  },
+  {
+    "id": 72,
+    "kategori": "termodinamik",
+    "kelime": "kara cisim",
+    "aciklama": "üzerine düşen tüm elektromanyetik ışınımı soğuran ve teorik olarak en yüksek ışıma gücüne sahip ideal nesne.",
+    "yasakli_kelimeler": [
+      "soğurma",
+      "ışıma",
+      "planck",
+      "ideal",
+      "foton"
+    ]
+  },
+  {
+    "id": 73,
+    "kategori": "termodinamik",
+    "kelime": "stefan-boltzmann yasası",
+    "aciklama": "bir kara cismin birim alandan yaydığı toplam termal ışıma gücünün mutlak sıcaklığın dördüncü kuvvetiyle orantılı olduğunu belirten yasa.",
+    "yasakli_kelimeler": [
+      "dördüncü kuvvet",
+      "ışıma",
+      "güç",
+      "sıcaklık",
+      "sabiti"
+    ]
+  },
+  {
+    "id": 74,
+    "kategori": "termodinamik",
+    "kelime": "wien kayma yasası",
+    "aciklama": "kara cisim ışımasının spektral tepe dalga boyunun mutlak sıcaklık arttıkça daha kısa dalga boylarına kaydığını gösteren bağıntı.",
+    "yasakli_kelimeler": [
+      "dalga boyu",
+      "tepe",
+      "sıcaklık",
+      "kayma",
+      "spektrum"
+    ]
+  },
+  {
+    "id": 75,
+    "kategori": "termodinamik",
+    "kelime": "fourier ısı iletim yasası",
+    "aciklama": "bir malzemedeki ısı akı yoğunluğunun sıcaklık gradyanı ile doğru orantılı olduğunu ifade eden temel denklem.",
+    "yasakli_kelimeler": [
+      "iletim",
+      "gradyan",
+      "akı",
+      "doğru orantı",
+      "sıcaklık farkı"
+    ]
+  },
+  {
+    "id": 76,
+    "kategori": "termodinamik",
+    "kelime": "termodinamik potansiyel",
+    "aciklama": "bir sistemin enerji durumunu ve denge koşullarını matematiksel olarak tanımlayan skaler durum fonksiyonu.",
+    "yasakli_kelimeler": [
+      "serbest enerji",
+      "entalpi",
+      "fonksiyon",
+      "durum",
+      "denge"
+    ]
+  },
+  {
+    "id": 77,
+    "kategori": "termodinamik",
+    "kelime": "özgül hacim",
+    "aciklama": "bir maddenin birim kütlesinin kapladığı hacim miktarını belirten yoğunluğun çarpmaya göre tersi büyüklük.",
+    "yasakli_kelimeler": [
+      "yoğunluk",
+      "kütle",
+      "hacim",
+      "birim",
+      "tersi"
+    ]
+  },
+  {
+    "id": 78,
+    "kategori": "termodinamik",
+    "kelime": "özgül ısı oranı",
+    "aciklama": "bir gazın sabit basınçtaki ısı sığasının sabit hacimdeki ısı sığasına bölünmesiyle elde edilen boyutsuz katsayı.",
+    "yasakli_kelimeler": [
+      "gamma",
+      "oran",
+      "adyabatik üs",
+      "kapasite",
+      "gaz"
+    ]
+  },
+  {
+    "id": 79,
+    "kategori": "termodinamik",
+    "kelime": "doyma sıcaklığı",
+    "aciklama": "saf bir maddenin belirli bir basınç altında kaynamaya veya faz değiştirmeye başladığı sıcaklık değeri.",
+    "yasakli_kelimeler": [
+      "kaynama",
+      "basınç",
+      "faz değişimi",
+      "doygunluk",
+      "sıvı"
+    ]
+  },
+  {
+    "id": 80,
+    "kategori": "termodinamik",
+    "kelime": "doyma basıncı",
+    "aciklama": "saf bir maddenin belirli bir sıcaklıkta faz değiştirdiği ve buharıyla dengede kaldığı buhar basıncı.",
+    "yasakli_kelimeler": [
+      "buhar",
+      "denge",
+      "kaynama",
+      "sıcaklık",
+      "sıvı"
+    ]
+  },
+  {
+    "id": 81,
+    "kategori": "termodinamik",
+    "kelime": "aşırı kızgın buhar",
+    "aciklama": "belirli bir basınçtaki doyma sıcaklığının üzerinde ısıtılmış ve içinde hiç sıvı damlacığı barındırmayan gaz hali.",
+    "yasakli_kelimeler": [
+      "kızgın",
+      "doyma",
+      "türbin",
+      "sıcaklık",
+      "gaz"
+    ]
+  },
+  {
+    "id": 82,
+    "kategori": "termodinamik",
+    "kelime": "sıkıştırılmış sıvı",
+    "aciklama": "belirli bir sıcaklık için geçerli olan doyma basıncından daha yüksek basınç altında bulunan sıvı hali.",
+    "yasakli_kelimeler": [
+      "alt soğutulmuş",
+      "basınç",
+      "doyma",
+      "sıvı",
+      "kaynamamış"
+    ]
+  },
+  {
+    "id": 83,
+    "kategori": "termodinamik",
+    "kelime": "kuruluk derecesi",
+    "aciklama": "doygun bir sıvı-buhar karışımındaki buhar kütlesinin karışımın toplam kütlesine olan oranı.",
+    "yasakli_kelimeler": [
+      "buhar",
+      "karışım",
+      "oran",
+      "kütle",
+      "x"
+    ]
+  },
+  {
+    "id": 84,
+    "kategori": "termodinamik",
+    "kelime": "mollier diyagramı",
+    "aciklama": "buhar sistemlerinin analizinde kullanılan ve entalpiyi entropinin bir fonksiyonu olarak gösteren termodinamik grafik.",
+    "yasakli_kelimeler": [
+      "entalpi",
+      "entropi",
+      "grafik",
+      "buhar",
+      "türbin"
+    ]
+  },
+  {
+    "id": 85,
+    "kategori": "termodinamik",
+    "kelime": "ts diyagramı",
+    "aciklama": "termodinamik çevrimlerin analizinde sıcaklığı düşey entropiyi yatay eksende gösteren koordinat grafiği.",
+    "yasakli_kelimeler": [
+      "sıcaklık",
+      "entropi",
+      "alan",
+      "iş",
+      "çevrim"
+    ]
+  },
+  {
+    "id": 86,
+    "kategori": "termodinamik",
+    "kelime": "pv diyagramı",
+    "aciklama": "kapalı veya açık bir sistemin basınç ve hacim değişimlerini göstererek yapılan mekanik işi temsil eden grafik.",
+    "yasakli_kelimeler": [
+      "basınç",
+      "hacim",
+      "iş",
+      "alan",
+      "gösterge"
+    ]
+  },
+  {
+    "id": 87,
+    "kategori": "termodinamik",
+    "kelime": "isentropik süreç",
+    "aciklama": "sistem boyunca entropi değerinin sabit kaldığı sürtünmesiz ve adyabatik tersinir durum değişimi.",
+    "yasakli_kelimeler": [
+      "entropi",
+      "sabit",
+      "tersinir",
+      "adyabatik",
+      "sürtünmesiz"
+    ]
+  },
+  {
+    "id": 88,
+    "kategori": "termodinamik",
+    "kelime": "durum değişkeni",
+    "aciklama": "bir sistemin o andaki halini tanımlayan ve sürece gelinen geçmiş yoldan bağımsız olan büyüklük.",
+    "yasakli_kelimeler": [
+      "fonksiyon",
+      "bağımsız",
+      "yol",
+      "basınç",
+      "sıcaklık"
+    ]
+  },
+  {
+    "id": 89,
+    "kategori": "termodinamik",
+    "kelime": "yol fonksiyonu",
+    "aciklama": "değeri sistemin bir durumdan diğerine geçerken izlediği termodinamik rotaya doğrudan bağlı olan ısı ve iş gibi büyüklükler.",
+    "yasakli_kelimeler": [
+      "yol",
+      "ısı",
+      "iş",
+      "süreç",
+      "bağımlı"
+    ]
+  },
+  {
+    "id": 90,
+    "kategori": "termodinamik",
+    "kelime": "kısmi basınç",
+    "aciklama": "bir gaz karışımındaki tek bir bileşenin tek başına tüm hacmi kaplaması durumunda uygulayacağı varsayımsal basınç.",
+    "yasakli_kelimeler": [
+      "dalton",
+      "karışım",
+      "gaz",
+      "bileşen",
+      "toplam"
+    ]
+  },
+  {
+    "id": 91,
+    "kategori": "termodinamik",
+    "kelime": "dalton kısmi basınçlar yasası",
+    "aciklama": "bir gaz karışımının toplam basıncının karışımı oluşturan gazların kısmi basınçlarının toplamına eşit olduğunu belirten yasa.",
+    "yasakli_kelimeler": [
+      "toplam basınç",
+      "karışım",
+      "gaz",
+      "toplam",
+      "bileşen"
+    ]
+  },
+  {
+    "id": 92,
+    "kategori": "termodinamik",
+    "kelime": "amagat hacimler yasası",
+    "aciklama": "bir gaz karışımının toplam hacminin aynı sıcaklık ve basınçta bileşen gazların kısmi hacimleri toplamına eşitliği.",
+    "yasakli_kelimeler": [
+      "hacim",
+      "kısmi",
+      "karışım",
+      "toplam",
+      "gaz"
+    ]
+  },
+  {
+    "id": 93,
+    "kategori": "termodinamik",
+    "kelime": "kütle korunumu ilkesi",
+    "aciklama": "termodinamik bir kontrol hacminde kütlenin yoktan var olamayacağını ve zamanla sistem kütlesindeki değişimin net giriş çıkışa eşitliğini belirten ilke.",
+    "yasakli_kelimeler": [
+      "süreklilik",
+      "kontrol hacmi",
+      "akış",
+      "giriş",
+      "çıkış"
+    ]
+  },
+  {
+    "id": 94,
+    "kategori": "termodinamik",
+    "kelime": "lüle",
+    "aciklama": "akışkanın basıncını düşürerek hızını ve kinetik enerjisini artırmak amacıyla tasarlanmış değişken kesitli kanal.",
+    "yasakli_kelimeler": [
+      "hız",
+      "basınç",
+      "kesit",
+      "akışkan",
+      "nozul"
+    ]
+  },
+  {
+    "id": 95,
+    "kategori": "termodinamik",
+    "kelime": "difüzör",
+    "aciklama": "akışkanın kinetik enerjisini düşürerek basıncını yükseltmek amacıyla tasarlanmış kanal parçası.",
+    "yasakli_kelimeler": [
+      "basınç",
+      "yavaşlama",
+      "hız",
+      "kesit",
+      "akış"
+    ]
+  },
+  {
+    "id": 96,
+    "kategori": "termodinamik",
+    "kelime": "rejenerasyon",
+    "aciklama": "bir güç çevriminde türbinden çekilen kısmi buharla kazan besleme suyunun önceden ısıtılarak verimin artırılması yöntemi.",
+    "yasakli_kelimeler": [
+      "besleme suyu",
+      "ön ısıtma",
+      "çevrim",
+      "verim",
+      "kazan"
+    ]
+  },
+  {
+    "id": 97,
+    "kategori": "termodinamik",
+    "kelime": "ara ısıtma",
+    "aciklama": "türbinin yüksek basınç kademesinden çıkan buharın kazana geri gönderilerek yeniden ısıtılıp düşük basınca verilmesi işlemi.",
+    "yasakli_kelimeler": [
+      "türbin",
+      "tekrar",
+      "nem",
+      "kazan",
+      "buhar"
+    ]
+  },
+  {
+    "id": 98,
+    "kategori": "termodinamik",
+    "kelime": "termoelektrik etki",
+    "aciklama": "sıcaklık farkının doğrudan elektrik gerilimine veya elektrik akımının sıcaklık farkına dönüşmesini sağlayan fiziksel olgu.",
+    "yasakli_kelimeler": [
+      "seebeck",
+      "peltier",
+      "gerilim",
+      "sıcaklık farkı",
+      "akım"
+    ]
+  },
+  {
+    "id": 99,
+    "kategori": "termodinamik",
+    "kelime": "peltier etkisi",
+    "aciklama": "iki farklı iletkenden akım geçtiğinde birleşme noktasında ısının soğurulması veya açığa çıkması olayı.",
+    "yasakli_kelimeler": [
+      "soğutma",
+      "akım",
+      "birleşme",
+      "termoelektrik",
+      "yarı iletken"
+    ]
+  },
+  {
+    "id": 100,
+    "kategori": "termodinamik",
+    "kelime": "seebeck etkisi",
+    "aciklama": "iki farklı iletkenin birleşim noktaları arasındaki sıcaklık farkının kapalı devrede elektrik gerilimi oluşturması prensibi.",
+    "yasakli_kelimeler": [
+      "sıcaklık farkı",
+      "gerilim",
+      "termokupl",
+      "voltaj",
+      "akım"
+    ]
+  }
+]

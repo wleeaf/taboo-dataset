@@ -100,14 +100,14 @@
   {
     "id": 8,
     "kategori": "kimya",
-    "kelime": "van der waals kuvvetleri",
-    "aciklama": "kalıcı veya geçici dipoller arasında meydana gelen zayıf moleküller arası çekim kuvvetlerinin genel adı.",
+    "kelime": "van der waals",
+    "aciklama": "Moleküller arasında kalıcı veya geçici dipollerden kaynaklanan zayıf çekim kuvvetleri.",
     "yasakli_kelimeler": [
-      "london",
-      "dipol-dipol",
-      "zayıf etkileşim",
       "çekim",
-      "anlık"
+      "dipol",
+      "molekül",
+      "zayıf",
+      "london"
     ],
     "zorluk": "kolay"
   },
@@ -926,14 +926,14 @@
   {
     "id": 67,
     "kategori": "kimya",
-    "kelime": "yüksek performanslı sıvı kromatografisi",
-    "aciklama": "çözünmüş bileşenleri yüksek basınç altında dolgulu mikro tanecikli kolonlardan geçirerek çok hızlı ayıran hassas kromatografi.",
+    "kelime": "hplc",
+    "aciklama": "Karışımları yüksek basınç altında sıvı fazda bileşenlerine ayıran kromatografi tekniği.",
     "yasakli_kelimeler": [
-      "hplc",
-      "yüksek basınç",
-      "sıvı faz",
+      "kromatografi",
+      "sıvı",
       "kolon",
-      "ayırma"
+      "ayırma",
+      "analiz"
     ],
     "zorluk": "orta"
   },
@@ -1066,42 +1066,42 @@
   {
     "id": 77,
     "kategori": "kimya",
-    "kelime": "brønsted-lowry asit-baz teorisi",
-    "aciklama": "asidi sulu veya susuz ortamda proton verici, bazı ise proton alıcı kimyasal madde olarak tanımlayan kuram.",
+    "kelime": "brønsted bazı",
+    "aciklama": "Kimyasal tepkimede ortamdan hidrojen iyonu (proton) alan madde.",
     "yasakli_kelimeler": [
-      "proton verici",
-      "proton alıcı",
-      "eşlenik çift",
-      "h+",
-      "kuram"
+      "proton",
+      "asit",
+      "hidrojen",
+      "alıcı",
+      "lowry"
     ],
     "zorluk": "orta"
   },
   {
     "id": 78,
     "kategori": "kimya",
-    "kelime": "lewis asit-baz teorisi",
-    "aciklama": "asidi bağ oluşturmak üzere bir elektron çifti kabul eden, bazı ise ortaklanmamış bir elektron çifti veren tür sayan en geniş teori.",
+    "kelime": "lewis asidi",
+    "aciklama": "Kimyasal bağ oluşumu sırasında elektron çifti kabul eden kimyasal tür.",
     "yasakli_kelimeler": [
-      "elektron çifti kabulü",
-      "elektron donörü",
-      "koordinasyon",
-      "geniş",
-      "kuram"
+      "elektron",
+      "çift",
+      "baz",
+      "akseptör",
+      "oktet"
     ],
     "zorluk": "orta"
   },
   {
     "id": 79,
     "kategori": "kimya",
-    "kelime": "arrhenius asit-baz teorisi",
-    "aciklama": "suya atıldığında hidrojen iyonu veren maddeleri asit, hidroksit iyonu veren maddeleri baz olarak sınıflandıran ilk klasik tanım.",
+    "kelime": "arrhenius asidi",
+    "aciklama": "Sulu çözeltisinde hidrojen iyonu (H+) derişimini artıran klasik asit tanımı.",
     "yasakli_kelimeler": [
       "sulu çözelti",
-      "h+",
-      "oh-",
-      "hidrojen iyonu",
-      "hidroksit"
+      "hidrojen",
+      "iyon",
+      "baz",
+      "derişim"
     ],
     "zorluk": "kolay"
   },

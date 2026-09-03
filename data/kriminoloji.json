@@ -548,14 +548,14 @@
   {
     "id": 40,
     "kategori": "kriminoloji",
-    "kelime": "kan lekesi model analizi",
-    "aciklama": "olay yerindeki kan sıçramalarının boyutu, şekli ve açısını inceleyerek darbenin yönü ve eylemin mekaniğini saptama yöntemi.",
+    "kelime": "kan lekesi analizi",
+    "aciklama": "Olay yerindeki kan sıçrama desenlerini ve açılarını inceleyen adli yöntem.",
     "yasakli_kelimeler": [
-      "bpa",
-      "kan sıçraması",
-      "açı hesabı",
-      "orijin noktası",
-      "darbe yönü"
+      "sıçrama",
+      "damla",
+      "açı",
+      "adli tıp",
+      "olay yeri"
     ],
     "zorluk": "orta"
   },
@@ -590,14 +590,14 @@
   {
     "id": 43,
     "kategori": "kriminoloji",
-    "kelime": "kendi bildirim çalışmaları",
-    "aciklama": "bireylerin anonim olarak geçmişte işledikleri suçları bizzat itiraf etmelerine dayanan kriminolojik araştırma yöntemi.",
+    "kelime": "öz bildirim",
+    "aciklama": "Bireylerin kendi işledikleri suçları ya da mağduriyetlerini anketle beyan etmesi yöntemi.",
     "yasakli_kelimeler": [
-      "öz bildirim",
       "anket",
+      "beyan",
       "itiraf",
-      "gençlik suçluluğu",
-      "anket tekniği"
+      "anketör",
+      "gizli suç"
     ],
     "zorluk": "orta"
   },
@@ -758,42 +758,42 @@
   {
     "id": 55,
     "kategori": "kriminoloji",
-    "kelime": "yeniden suç işleme oranı",
-    "aciklama": "tahliye edilen hükümlülerin belirli bir süre içerisinde tekrar suç işleyerek adalet sistemine geri dönme yüzdesi.",
+    "kelime": "mükerrerlik",
+    "aciklama": "Cezasını çeken veya tahliye olan bir suçlunun yeniden suç işlemesi durumu (residivizm).",
     "yasakli_kelimeler": [
+      "tekrar",
       "residivizm",
-      "tekerrür",
-      "tahliye sonrası",
-      "oran",
-      "başarısız infaz"
+      "sabıka",
+      "cezaevi",
+      "hükümlü"
     ],
     "zorluk": "orta"
   },
   {
     "id": 56,
     "kategori": "kriminoloji",
-    "kelime": "durumsal suç önleme",
-    "aciklama": "çevresel tasarımı değiştirerek suç işlemenin fırsatlarını azaltmayı, riskini artırmayı ve getirisini düşürmeyi amaçlayan teknik.",
+    "kelime": "suç önleme",
+    "aciklama": "Suçun ortaya çıkmasını engellemek için güvenlik, çevre ve caydırıcılık tedbirleri alma.",
     "yasakli_kelimeler": [
-      "fırsat azaltma",
-      "clarke",
-      "çevre düzeni",
-      "hedef sertleştirme",
-      "güvenlik önlemi"
+      "caydırıcılık",
+      "tedbir",
+      "güvenlik",
+      "fırsat",
+      "asayiş"
     ],
     "zorluk": "orta"
   },
   {
     "id": 57,
     "kategori": "kriminoloji",
-    "kelime": "çevresel tasarım yoluyla suç önleme",
-    "aciklama": "fiziksel mimari, aydınlatma ve kentsel planlama yoluyla suç fırsatlarını azaltmayı ve doğal gözetimi artırmayı hedefleyen yöntem.",
+    "kelime": "durağan gözetim",
+    "aciklama": "Suç şüphelilerini veya mekanları sabit bir noktadan fiziki olarak izleme yöntemi.",
     "yasakli_kelimeler": [
-      "cpted",
-      "mimari",
-      "aydınlatma",
-      "doğal gözetim",
-      "kentsel plan"
+      "takip",
+      "izleme",
+      "pusu",
+      "sabit",
+      "tarassut"
     ],
     "zorluk": "orta"
   },
@@ -842,27 +842,27 @@
   {
     "id": 61,
     "kategori": "kriminoloji",
-    "kelime": "sıcak noktalar polisliği",
-    "aciklama": "suç haritalama verilerine göre suçların yoğun olarak işlendiği belirli coğrafi mikro alanlara polis devriyelerinin yoğunlaştırılması stratejisi.",
+    "kelime": "nokta devriyesi",
+    "aciklama": "Suç oranının yoğunlaştığı belirli coğrafi alanlara odaklanan polislik uygulaması.",
     "yasakli_kelimeler": [
-      "hot spots",
-      "devriye",
-      "suç haritası",
+      "sıcak nokta",
       "yoğunluk",
-      "hedefli denetim"
+      "ekip",
+      "odak",
+      "asayiş"
     ],
     "zorluk": "orta"
   },
   {
     "id": 62,
     "kategori": "kriminoloji",
-    "kelime": "problem odaklı polislik",
-    "aciklama": "polisin olaylara tek tek müdahale etmek yerine suçların altında yatan kök nedenleri analiz ederek kalıcı çözümler üretmesi yaklaşımı.",
+    "kelime": "proaktif polislik",
+    "aciklama": "Suç oluştuktan sonra müdahale etmek yerine, suçu doğuran kök nedenleri önceden çözme yaklaşımı.",
     "yasakli_kelimeler": [
-      "goldstein",
-      "sara modeli",
-      "kök neden",
-      "kalıcı çözüm",
+      "önleyici",
+      "reaktif",
+      "tedbir",
+      "sorun",
       "analiz"
     ],
     "zorluk": "orta"
@@ -982,28 +982,28 @@
   {
     "id": 71,
     "kategori": "kriminoloji",
-    "kelime": "genel gerginlik teorisi",
-    "aciklama": "olumlu hedeflere ulaşamama, olumlu uyarıcıların kaybı veya olumsuz durumlara maruz kalmanın yarattığı öfke ve hayal kırıklığının suça yönelttiği kuramı.",
+    "kelime": "gerginlik teorisi",
+    "aciklama": "Toplumsal hedeflere meşru yollarla ulaşamamanın yarattığı baskının suça yol açtığını savunan teori.",
     "yasakli_kelimeler": [
       "agnew",
-      "gerginlik",
-      "öfke",
-      "başa çıkma",
-      "negatif duygular"
+      "baskı",
+      "hedef",
+      "stres",
+      "uyumsuzluk"
     ],
     "zorluk": "orta"
   },
   {
     "id": 72,
     "kategori": "kriminoloji",
-    "kelime": "yaşam döngüsü kriminolojisi",
-    "aciklama": "suçlu davranışın çocukluktan yaşlılığa kadar farklı yaşam evrelerinde başlama, devam etme ve sonlanma süreçlerini inceleyen yaklaşım.",
+    "kelime": "suç kariyeri",
+    "aciklama": "Bireyin suç işlemeye başlama, sürdürme ve sonlandırma evrelerini inceleyen yaklaşım.",
     "yasakli_kelimeler": [
-      "yaşam boyu",
-      "sampson ve laub",
-      "dönüm noktaları",
-      "suçtan vazgeçme",
-      "gelişimsel"
+      "yaşam döngüsü",
+      "başlangıç",
+      "bırakma",
+      "evre",
+      "süreklilik"
     ],
     "zorluk": "orta"
   },
@@ -1150,14 +1150,14 @@
   {
     "id": 83,
     "kategori": "kriminoloji",
-    "kelime": "suç yer değiştirme",
-    "aciklama": "alınan güvenlik tedbirleri sonucunda suçun tamamen engellenemeyip başka bir zamana, mekana, hedefe veya yönteme kayması olgusu.",
+    "kelime": "yer değiştirme",
+    "aciklama": "Bir bölgede alınan önlemler sonucu suçun zaman, mekan veya hedef olarak başka alana kayması.",
     "yasakli_kelimeler": [
-      "yer değiştirme",
-      "mekan kayması",
-      "zaman değişimi",
-      "fırsat",
-      "kaçınma"
+      "kayma",
+      "mekan",
+      "hedef",
+      "zaman",
+      "önlem"
     ],
     "zorluk": "orta"
   },
@@ -1206,14 +1206,14 @@
   {
     "id": 87,
     "kategori": "kriminoloji",
-    "kelime": "sıfır tolerans polisliği",
-    "aciklama": "en küçük kabahat ve düzensizliklerin bile cezasız bırakılmayarak katı şekilde cezalandırıldığı, kırık pencerelere dayalı polislik stratejisi.",
+    "kelime": "sıfır tolerans",
+    "aciklama": "En küçük kabahat veya kural ihlaline dahi tavizsiz cezai işlem uygulayan katı kolluk politikası.",
     "yasakli_kelimeler": [
-      "new york modeli",
-      "tavizsizlik",
-      "küçük suçlar",
-      "baskıcı devriye",
-      "katı ceza"
+      "tavizsiz",
+      "kabahat",
+      "ceza",
+      "katı",
+      "ihlal"
     ],
     "zorluk": "orta"
   },
@@ -1346,14 +1346,14 @@
   {
     "id": 97,
     "kategori": "kriminoloji",
-    "kelime": "ateşli silah atış artığı",
-    "aciklama": "silah patladığında kovan ve namludan dışarı saçılıp atıcının ellerine ve giysilerine bulaşan mikroskobik barut ve metal parçacıkları.",
+    "kelime": "atış artığı",
+    "aciklama": "Ateşli silah patladığında ele, giysilere ve çevreye dağılan barut ve metal parçacıkları.",
     "yasakli_kelimeler": [
-      "gsr",
-      "barut izi",
-      "atış mesafesi",
-      "kurşun baryum",
-      "el svabı"
+      "barut",
+      "svap",
+      "ateşli silah",
+      "tetik",
+      "parçacık"
     ],
     "zorluk": "orta"
   },

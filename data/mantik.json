@@ -324,14 +324,14 @@
   {
     "id": 24,
     "kategori": "mantik",
-    "kelime": "karşılıklı koşullu önerme",
-    "aciklama": "iki önermenin ancak ve ancak aynı doğruluk değerine sahip olduklarında doğru sayıldığı bağlaç.",
+    "kelime": "ancak ve ancak",
+    "aciklama": "İki önermenin doğruluk değerleri birbirine eşit olduğunda doğru çıkan çift gerektirme bağlacı.",
     "yasakli_kelimeler": [
-      "ancak ve ancak",
-      "eşdeğerlik",
-      "denklik",
+      "çift gerektirme",
       "bağlaç",
-      "çift gerektirme"
+      "doğruluk",
+      "eşdeğerlik",
+      "koşul"
     ],
     "zorluk": "kolay"
   },
@@ -576,14 +576,14 @@
   {
     "id": 42,
     "kategori": "mantik",
-    "kelime": "cehalete başvurma safsatası",
-    "aciklama": "bir şeyin yanlışlığının kanıtlanamamış olmasını onun doğruluğuna delil sayma yanılgısı.",
+    "kelime": "bilgisizlik safsatası",
+    "aciklama": "Bir şeyin aksinin ispatlanamamış olmasını onun doğruluğuna veya yanlışlığına kanıt gösterme hatası.",
     "yasakli_kelimeler": [
-      "argumentum ad ignorantiam",
-      "bilgisizlik",
+      "cehalet",
       "ispat",
       "kanıt",
-      "yokluk"
+      "yanılgı",
+      "bilinmeyen"
     ],
     "zorluk": "kolay"
   },
@@ -604,14 +604,14 @@
   {
     "id": 44,
     "kategori": "mantik",
-    "kelime": "otoriteye başvurma safsatası",
-    "aciklama": "konusunda yetkin olmayan veya alakasız bir otorite figürünün sözünü mutlak kanıt sunma.",
+    "kelime": "otorite safsatası",
+    "aciklama": "Bir iddianın doğruluğunu, iddiacının uzmanlık alanı dışındaki bir otoriteye veya şöhrete dayandırma yanılgısı.",
     "yasakli_kelimeler": [
-      "ad verecundiam",
-      "otorite",
       "uzman",
       "ünlü",
-      "dayanak"
+      "kanıt",
+      "dayanak",
+      "yanılgı"
     ],
     "zorluk": "kolay"
   },
@@ -856,28 +856,28 @@
   {
     "id": 62,
     "kategori": "mantik",
-    "kelime": "öncülü doğrulama safsatası",
-    "aciklama": "'eğer p ise q' ve 'q' öncüllerinden hatalı biçimde 'p' sonucuna varma mantık yanılgısı.",
+    "kelime": "öncülü doğrulama",
+    "aciklama": "Koşullu önermede 'ise' kısmındaki ilk bileşeni doğru kabul ederek yapılan çıkarım.",
     "yasakli_kelimeler": [
-      "affirming the consequent",
-      "safsata",
+      "modus ponens",
       "koşullu",
-      "hata",
-      "sonuç"
+      "önerme",
+      "bileşen",
+      "çıkarım"
     ],
     "zorluk": "orta"
   },
   {
     "id": 63,
     "kategori": "mantik",
-    "kelime": "art bileşeni inkar safsatası",
-    "aciklama": "'eğer p ise q' ve 'değil p' öncüllerinden yanılgıyla 'değil q' sonucunu çıkarma hatası.",
+    "kelime": "ardılı inkar",
+    "aciklama": "Koşullu bir önermede sonucun yanlışlığından hareketle şartın da yanlış olduğu sonucuna varan geçerli akıl yürütme kuralı.",
     "yasakli_kelimeler": [
-      "denying the antecedent",
-      "safsata",
-      "öncül",
-      "şart",
-      "hata"
+      "modus tollens",
+      "koşul",
+      "çıkarım",
+      "mantık",
+      "geçerli"
     ],
     "zorluk": "orta"
   },
@@ -1052,14 +1052,14 @@
   {
     "id": 76,
     "kategori": "mantik",
-    "kelime": "tarski doğruluk tanımı",
-    "aciklama": "bir önermenin doğruluğunu meta-dil ve nesne-dil ayrımı üzerinden tanımlayan anlambilim modeli.",
+    "kelime": "doğruluk tanımı",
+    "aciklama": "Tarski tarafından geliştirilen ve 'kar beyazdır ancak ve ancak kar beyazsa' biçiminde ifade edilen semantik doğruluk teorisi.",
     "yasakli_kelimeler": [
-      "alfred tarski",
-      "meta-dil",
-      "anlambilim",
-      "doğruluk",
-      "model"
+      "tarski",
+      "semantik",
+      "önerme",
+      "gerçeklik",
+      "felsefe"
     ],
     "zorluk": "zor"
   },
@@ -1094,14 +1094,14 @@
   {
     "id": 79,
     "kategori": "mantik",
-    "kelime": "klasik olmayan mantık",
-    "aciklama": "üçüncü halin imkansızlığını veya ikili doğruluk değerini aşan çağdaş mantık sistemleri ailesi.",
+    "kelime": "kiplik mantığı",
+    "aciklama": "Önermelerin yalnızca doğruluk değerlerini değil, zorunluluk ve olasılık gibi kiplerini de inceleyen mantık dalı.",
     "yasakli_kelimeler": [
-      "bulanık",
-      "sezgisel",
-      "kipsel",
-      "doğruluk derecesi",
-      "çok değerli"
+      "zorunluluk",
+      "olasılık",
+      "modal",
+      "mümkün",
+      "kip"
     ],
     "zorluk": "orta"
   },
@@ -1150,14 +1150,14 @@
   {
     "id": 83,
     "kategori": "mantik",
-    "kelime": "yanlış analoji safsatası",
-    "aciklama": "aralarında temel ve belirleyici hiçbir benzerlik olmayan iki durumu benzeterek hatalı hüküm kurma.",
+    "kelime": "hatalı benzetme",
+    "aciklama": "Aralarında temel veya belirleyici bir benzerlik bulunmayan iki olgu arasında kurulan geçersiz kıyas.",
     "yasakli_kelimeler": [
+      "analoji",
+      "kıyas",
       "benzetme",
       "safsata",
-      "analoji",
-      "alakasız",
-      "hata"
+      "yanılgı"
     ],
     "zorluk": "kolay"
   },
@@ -1248,28 +1248,28 @@
   {
     "id": 90,
     "kategori": "mantik",
-    "kelime": "ilgisiz sonuç safsatası",
-    "aciklama": "sunulan kanıtların savunulan iddiayla hiçbir mantıksal bağ taşımaması durumu.",
+    "kelime": "ilgisiz sonuç",
+    "aciklama": "Öne sürülen öncüllerden tartışılan konuyla hiçbir mantıksal bağı bulunmayan bir neticeye varma safsatası.",
     "yasakli_kelimeler": [
-      "ignoratio elenchi",
+      "alakasız",
       "safsata",
-      "bağlantısız",
-      "argüman",
-      "alakasız"
+      "netice",
+      "bağlantı",
+      "iddia"
     ],
     "zorluk": "orta"
   },
   {
     "id": 91,
     "kategori": "mantik",
-    "kelime": "özel ricacı safsatası",
-    "aciklama": "kendi iddiası çürütüldüğünde kurala keyfi ve gerekçesiz biçimde istisnalar uydurma hilesi.",
+    "kelime": "çifte standart",
+    "aciklama": "Kendisi veya kendi tarafı için özel ayrıcalık talep ederken aynı durumu başkalarına uygulamama tutumu.",
     "yasakli_kelimeler": [
-      "special pleading",
+      "ayrıcalık",
+      "taraf",
       "istisna",
       "kayırma",
-      "bahane",
-      "safsata"
+      "kural"
     ],
     "zorluk": "orta"
   },

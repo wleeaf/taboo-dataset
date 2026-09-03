@@ -492,14 +492,14 @@
   {
     "id": 36,
     "kategori": "ceza",
-    "kelime": "kişiyi hürriyetinden yoksun kılma",
-    "aciklama": "bir kimsenin bir yere gitmek veya bir yerde kalmak serbestisini hukuka aykırı şekilde fiilen engelleme suçu.",
+    "kelime": "hürriyetten yoksun kılma",
+    "aciklama": "bir kimseyi hukuka aykırı şekilde bir yere kapatarak veya serbestçe hareket etmesini engelleyerek alıkoyma suçu.",
     "yasakli_kelimeler": [
       "alıkoyma",
       "kaçırma",
-      "hürriyet",
-      "serbesti",
-      "hapsolma"
+      "özgürlük",
+      "hapsetme",
+      "kapatma"
     ],
     "zorluk": "kolay"
   },
@@ -660,28 +660,28 @@
   {
     "id": 48,
     "kategori": "ceza",
-    "kelime": "suç delillerini yok etme",
-    "aciklama": "gerçeğin meydana çıkmasını engellemek amacıyla bir suçun maddi delillerini yok etme, silme, gizleme veya değiştirme suçu.",
+    "kelime": "delil karartma",
+    "aciklama": "bir suçun ortaya çıkmasını engellemek amacıyla maddi kanıtları, izleri veya belgeleri yok etme ya da değiştirme eylemi.",
     "yasakli_kelimeler": [
-      "delil karartma",
-      "tahrif",
-      "iz yok etme",
+      "kanıt",
+      "yok etme",
       "gizleme",
-      "adli tıp"
+      "tahrif",
+      "tck"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 49,
     "kategori": "ceza",
-    "kelime": "halkı kin ve düşmanlığa tahrik",
-    "aciklama": "farklı sosyal sınıf, ırk, din veya mezhep özelliklerine sahip kitleleri birbirine karşı alenen düşmanca eylemlere kışkırtma.",
+    "kelime": "halkı kin tahriki",
+    "aciklama": "toplumun farklı sosyal, ırki veya dini kesimlerini birbirine karşı düşmanlığa ve şiddete teşvik etme suçu.",
     "yasakli_kelimeler": [
-      "tahrik",
       "kışkırtma",
-      "kamu barışı",
       "düşmanlık",
-      "toplumsal ayrım"
+      "kamu barışı",
+      "ayrımcılık",
+      "nefret"
     ],
     "zorluk": "kolay"
   },
@@ -814,14 +814,14 @@
   {
     "id": 59,
     "kategori": "ceza",
-    "kelime": "hükmün açıklanmasının geri bırakılması",
-    "aciklama": "sanığa yüklenen cezanın belirli yasal şartlarla beş yıl süreyle hukuki sonuç doğurmayarak askıya alınması.",
+    "kelime": "hagb kararı",
+    "aciklama": "sanığa verilen iki yıl veya daha az süreli hapis cezasının belirli bir denetim süresi boyunca sonuç doğurmamasını sağlayan kurum.",
     "yasakli_kelimeler": [
-      "hagb",
-      "denetim süresi",
+      "hükmün açıklanması",
+      "denetim",
       "beş yıl",
-      "sabıka kaydı",
-      "mahkumiyet"
+      "sabıka",
+      "erteleme"
     ],
     "zorluk": "kolay"
   },
@@ -870,14 +870,14 @@
   {
     "id": 63,
     "kategori": "ceza",
-    "kelime": "kovuşturmaya yer olmadığı kararı",
-    "aciklama": "soruşturma evresi sonunda yeterli delil bulunmaması veya kovuşturma olanağının kalmaması halinde savcılıkça verilen takipsizlik kararı.",
+    "kelime": "takipsizlik kararı",
+    "aciklama": "savcılığın soruşturma sonucunda dava açmaya yeterli delil bulamaması veya suç unsuru oluşmaması halinde verdiği karar.",
     "yasakli_kelimeler": [
-      "takipsizlik",
       "kyok",
-      "savcılık",
-      "itiraz",
-      "dava açmama"
+      "savcı",
+      "kovuşturma",
+      "dava açmama",
+      "soruşturma"
     ],
     "zorluk": "orta"
   },
@@ -1010,14 +1010,14 @@
   {
     "id": 73,
     "kategori": "ceza",
-    "kelime": "telekomünikasyon yoluyla iletişimin denetlenmesi",
-    "aciklama": "şüpheli veya sanığın telefon, e-posta ve benzeri araçlarla kurduğu iletişimin dinlenmesi, kayda alınması ve tespiti tedbiri.",
+    "kelime": "iletişimin denetlenmesi",
+    "aciklama": "suç soruşturmasında hakim kararıyla şüphelinin telefon, mesajlaşma ve internet trafiğinin gizlice dinlenmesi ve kaydedilmesi.",
     "yasakli_kelimeler": [
       "dinleme",
       "kayıt",
       "tape",
       "telefon",
-      "istihbarat"
+      "teknik takip"
     ],
     "zorluk": "orta"
   },
@@ -1136,14 +1136,14 @@
   {
     "id": 82,
     "kategori": "ceza",
-    "kelime": "ceza verilmesine yer olmadığı kararı",
-    "aciklama": "fiilin suç oluşturmasına rağmen yaş küçüklüğü, akıl hastalığı veya meşru müdafaa gibi nedenlerle faile ceza uygulanmaması hükmü.",
+    "kelime": "cezasızlık kararı",
+    "aciklama": "eylemin suç olmasına rağmen akıl hastalığı, yaş küçüklüğü veya zorunluluk hali gibi nedenlerle faile ceza tertip edilmemesi hükmü.",
     "yasakli_kelimeler": [
       "kusursuzluk",
       "akıl hastalığı",
       "yaş küçüklüğü",
       "hüküm",
-      "cezasızlık"
+      "yaptırım"
     ],
     "zorluk": "orta"
   },

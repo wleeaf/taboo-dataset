@@ -226,14 +226,14 @@
   {
     "id": 17,
     "kategori": "termodinamik",
-    "kelime": "van der waals denklemi",
-    "aciklama": "gerçek gazların moleküller arası çekim kuvvetlerini ve hacimlerini hesaba katan durum denklemi.",
+    "kelime": "van der waals",
+    "aciklama": "gerçek gazların moleküller arası çekim kuvvetlerini ve molekül hacimlerini hesaba katarak durumunu açıklayan denklem.",
     "yasakli_kelimeler": [
       "gerçek gaz",
-      "çekim",
-      "hacim",
-      "düzeltme",
-      "molekül"
+      "molekül hacmi",
+      "çekim kuvveti",
+      "ideal sapma",
+      "denklem"
     ],
     "zorluk": "zor"
   },
@@ -940,14 +940,14 @@
   {
     "id": 68,
     "kategori": "termodinamik",
-    "kelime": "karşılık gelen durumlar ilkesi",
-    "aciklama": "aynı indirgenmiş basınç ve indirgenmiş sıcaklığa sahip tüm gazların benzer sıkıştırılabilirlik faktörü sergilediği teorem.",
+    "kelime": "uygun durumlar ilkesi",
+    "aciklama": "tüm akışkanların indirgenmiş basınç ve indirgenmiş sıcaklık değerleri eşit olduğunda benzer sıkıştırılabilirlik katsayısına sahip olduğunu belirten termodinamik ilke.",
     "yasakli_kelimeler": [
-      "indirgenmiş",
-      "ilke",
-      "genel",
-      "sapma",
-      "davranış"
+      "indirgenmiş sıcaklık",
+      "indirgenmiş basınç",
+      "sıkıştırılabilirlik",
+      "kritik nokta",
+      "benzerlik"
     ],
     "zorluk": "zor"
   },
@@ -1038,14 +1038,14 @@
   {
     "id": 75,
     "kategori": "termodinamik",
-    "kelime": "fourier ısı iletim yasası",
-    "aciklama": "bir malzemedeki ısı akı yoğunluğunun sıcaklık gradyanı ile doğru orantılı olduğunu ifade eden temel denklem.",
+    "kelime": "fourier ısı iletimi",
+    "aciklama": "bir katı madde içindeki ısı iletim hızının sıcaklık gradyanı ve temas yüzey alanı ile doğru orantılı olduğunu ifade eden yasa.",
     "yasakli_kelimeler": [
-      "iletim",
+      "iletim katsayısı",
       "gradyan",
-      "akı",
-      "doğru orantı",
-      "sıcaklık farkı"
+      "katı iletim",
+      "sıcaklık farkı",
+      "akı"
     ],
     "zorluk": "zor"
   },
@@ -1262,14 +1262,14 @@
   {
     "id": 91,
     "kategori": "termodinamik",
-    "kelime": "dalton kısmi basınçlar yasası",
-    "aciklama": "bir gaz karışımının toplam basıncının karışımı oluşturan gazların kısmi basınçlarının toplamına eşit olduğunu belirten yasa.",
+    "kelime": "dalton yasası",
+    "aciklama": "bir gaz karışımının toplam basıncının, karışımı oluşturan gazların her birinin kısmi basınçlarının toplamına eşit olduğunu belirten temel kimya yasası.",
     "yasakli_kelimeler": [
+      "kısmi basınç",
+      "karışım gazı",
       "toplam basınç",
-      "karışım",
-      "gaz",
-      "toplam",
-      "bileşen"
+      "hacim",
+      "mol kesri"
     ],
     "zorluk": "zor"
   },

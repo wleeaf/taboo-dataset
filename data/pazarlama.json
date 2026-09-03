@@ -100,56 +100,56 @@
   {
     "id": 8,
     "kategori": "pazarlama",
-    "kelime": "akla ilk gelen marka",
-    "aciklama": "belirli bir sektör veya ürün grubu sorulduğunda tüketicinin zihnine ilk olarak gelen marka.",
+    "kelime": "akılda kalıcılık",
+    "aciklama": "bir markanın veya reklamın tüketici hafızasında yer etmesi ve kolayca hatırlanabilme düzeyi.",
     "yasakli_kelimeler": [
-      "top of mind",
+      "marka",
       "hatırlanma",
-      "ilk sıra",
-      "bilinirlik",
-      "lider"
+      "hafıza",
+      "tüketici",
+      "bilinirlik"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 9,
     "kategori": "pazarlama",
-    "kelime": "müşteri yaşam boyu değeri",
-    "aciklama": "bir müşterinin işletmeyle kurduğu tüm ilişki süresi boyunca firmaya kazandıracağı tahmini net kâr.",
+    "kelime": "müşteri ömür değeri",
+    "aciklama": "bir müşterinin şirketle olan tüm ilişkisi süresince şirkete sağlayacağı tahmin edilen toplam net ekonomik değer.",
     "yasakli_kelimeler": [
-      "clv",
-      "ltv",
-      "kârlılık",
-      "müşteri ilişkisi",
-      "ömür"
+      "değer",
+      "kâr",
+      "sadakat",
+      "gelir",
+      "tüketici"
     ],
     "zorluk": "zor"
   },
   {
     "id": 10,
     "kategori": "pazarlama",
-    "kelime": "müşteri edinme maliyeti",
-    "aciklama": "pazarlama ve satış harcamalarının bu harcamalarla kazanılan yeni müşteri sayısına bölünmesiyle bulunan tutar.",
+    "kelime": "müşteri edinme bedeli",
+    "aciklama": "yeni bir müşteriyi kazanmak için pazarlama ve satış faaliyetlerine harcanan toplam maliyet.",
     "yasakli_kelimeler": [
-      "cac",
-      "harcama",
-      "yeni müşteri",
       "kazanma",
-      "reklam bütçesi"
+      "harcama",
+      "pazarlama",
+      "satış",
+      "maliyet"
     ],
     "zorluk": "zor"
   },
   {
     "id": 11,
     "kategori": "pazarlama",
-    "kelime": "müşteri terk oranı",
-    "aciklama": "belirli bir zaman dilimi içinde aboneliğini iptal eden veya ürünü kullanmayı bırakan müşteri yüzdesi.",
+    "kelime": "müşteri kaybı",
+    "aciklama": "abonelerin veya tüketicilerin belirli bir dönemde bir hizmeti veya ürünü satın almayı bırakma durumu.",
     "yasakli_kelimeler": [
-      "churn rate",
       "kayıp",
-      "ayrılma",
-      "abonelik iptali",
-      "yüzde"
+      "oran",
+      "bırakma",
+      "abonelik",
+      "terk"
     ],
     "zorluk": "zor"
   },
@@ -240,28 +240,28 @@
   {
     "id": 18,
     "kategori": "pazarlama",
-    "kelime": "tıklama başına maliyet",
+    "kelime": "tıklama maliyeti",
     "aciklama": "dijital reklamcılıkta kullanıcının yayınlanan reklama her tıkladığında reklamverenin ödediği birim ücret.",
     "yasakli_kelimeler": [
-      "cpc",
-      "tıklama",
-      "reklam ücreti",
-      "adwords",
-      "harcama"
+      "reklam",
+      "ücret",
+      "ziyaretçi",
+      "kampanya",
+      "bütçe"
     ],
     "zorluk": "orta"
   },
   {
     "id": 19,
     "kategori": "pazarlama",
-    "kelime": "bin gösterim başına maliyet",
-    "aciklama": "bir dijital reklamın bin kez görüntülenmesi karşılığında reklamverene fatura edilen standart maliyet birimi.",
+    "kelime": "gösterim maliyeti",
+    "aciklama": "dijital reklamlarda reklamın bin kez görüntülenmesi karşılığında ödenen standart birim ücret.",
     "yasakli_kelimeler": [
-      "cpm",
+      "bin",
+      "reklam",
       "gösterim",
-      "bin adet",
-      "reklam bütçesi",
-      "görüntülenme"
+      "ücret",
+      "bütçe"
     ],
     "zorluk": "zor"
   },
@@ -534,28 +534,28 @@
   {
     "id": 39,
     "kategori": "pazarlama",
-    "kelime": "kaymak alma fiyatlandırması",
-    "aciklama": "pazara yeni ve yenilikçi bir ürün sürerken başlangıçta yüksek fiyat uygulayıp zamanla fiyatı kademeli düşürme.",
+    "kelime": "kaymak tabaka fiyatlandırması",
+    "aciklama": "yeni ve yenilikçi bir ürün piyasaya sürülürken önce yüksek fiyattan satıp zamanla fiyatı kademeli düşürme stratejisi.",
     "yasakli_kelimeler": [
-      "skimming",
       "yüksek fiyat",
       "yeni ürün",
-      "teknoloji",
-      "kademeli düşüş"
+      "fiyat stratejisi",
+      "lansman",
+      "kademeli"
     ],
     "zorluk": "zor"
   },
   {
     "id": 40,
     "kategori": "pazarlama",
-    "kelime": "pazara nüfuz etme fiyatlandırması",
-    "aciklama": "pazara hızla girmek ve yüksek pazar payı kapmak amacıyla başlangıçta kasıtlı olarak çok düşük fiyat uygulama.",
+    "kelime": "penetrasyon fiyatlandırması",
+    "aciklama": "pazara yeni girerken hızlıca pazar payı ve müşteri kazanmak için kasıtlı olarak çok düşük fiyattan satışa başlama taktiği.",
     "yasakli_kelimeler": [
-      "penetrasyon",
       "düşük fiyat",
       "pazar payı",
-      "sürüm",
-      "rekabet"
+      "giriş",
+      "fiyat stratejisi",
+      "sürüm"
     ],
     "zorluk": "zor"
   },
@@ -618,14 +618,14 @@
   {
     "id": 45,
     "kategori": "pazarlama",
-    "kelime": "müşteri ilişkileri yönetimi",
-    "aciklama": "işletmenin mevcut ve potansiyel müşterilerle olan tüm etkileşimlerini organize eden ve analiz eden sistem.",
+    "kelime": "müşteri ilişkileri",
+    "aciklama": "şirketin mevcut ve potansiyel müşterilerle olan tüm iletişimini, sadakatini ve deneyimini yönetme süreci.",
     "yasakli_kelimeler": [
-      "crm",
-      "veri tabanı",
       "sadakat",
-      "müşteri memnuniyeti",
-      "yazılım"
+      "iletişim",
+      "deneyim",
+      "yönetim",
+      "hizmet"
     ],
     "zorluk": "kolay"
   },
@@ -674,14 +674,14 @@
   {
     "id": 49,
     "kategori": "pazarlama",
-    "kelime": "etnoğrafik pazar araştırması",
-    "aciklama": "tüketicilerin ürünleri kendi doğal yaşam alanlarında ve günlük rutinlerinde nasıl kullandıklarını gözlemleme yöntemi.",
+    "kelime": "etnografik araştırma",
+    "aciklama": "tüketici davranışlarını kendi doğal yaşam ortamlarında ve bağlamlarında doğrudan gözlemleyerek anlama yöntemi.",
     "yasakli_kelimeler": [
       "gözlem",
+      "kültür",
+      "tüketici",
       "doğal ortam",
-      "antropoloji",
-      "kullanıcı testi",
-      "nitel"
+      "davranış"
     ],
     "zorluk": "zor"
   },
@@ -744,14 +744,14 @@
   {
     "id": 54,
     "kategori": "pazarlama",
-    "kelime": "etki alanı adı",
-    "aciklama": "bir markanın internetteki dijital kimliğini ve web adresini temsil eden tescilli isim.",
+    "kelime": "alan adı",
+    "aciklama": "internet üzerindeki bir web sitesinin ağdaki adresini belirten ve hatırlanmasını kolaylaştıran tescilli isim.",
     "yasakli_kelimeler": [
-      "domain",
       "web sitesi",
-      "url",
-      "internet adresi",
-      "tescil"
+      "internet",
+      "adres",
+      "tescil",
+      "uzantı"
     ],
     "zorluk": "orta"
   },
@@ -772,14 +772,14 @@
   {
     "id": 56,
     "kategori": "pazarlama",
-    "kelime": "harekete geçirici mesaj",
-    "aciklama": "kullanıcıyı hemen satın al, kaydol veya tıkla gibi belirli bir eylemi yapmaya teşvik eden buton veya metin.",
+    "kelime": "eylem çağrısı",
+    "aciklama": "web sitelerinde veya reklamlarda kullanıcıyı belirli bir eylemi gerçekleştirmeye teşvik eden buton veya ifade.",
     "yasakli_kelimeler": [
-      "cta",
-      "call to action",
       "buton",
-      "hemen al",
-      "eylem"
+      "tıklama",
+      "mesaj",
+      "dönüşüm",
+      "yönlendirme"
     ],
     "zorluk": "orta"
   },
@@ -828,14 +828,14 @@
   {
     "id": 60,
     "kategori": "pazarlama",
-    "kelime": "gerçek zamanlı teklif verme",
-    "aciklama": "bir web sayfası yüklenirken milisaniyeler içinde reklamverenlerin o gösterim için açık artırmaya katılması sistemi.",
+    "kelime": "programatik teklif",
+    "aciklama": "dijital reklam alanlarının anlık açık artırma usulüyle otomatik algoritmalar üzerinden alınıp satılması.",
     "yasakli_kelimeler": [
-      "rtb",
       "açık artırma",
-      "milisaniye",
-      "gösterim",
-      "teklif"
+      "reklam alanı",
+      "otomatik",
+      "dijital",
+      "anlık"
     ],
     "zorluk": "zor"
   },
@@ -926,14 +926,14 @@
   {
     "id": 67,
     "kategori": "pazarlama",
-    "kelime": "özel etiketli ürün",
-    "aciklama": "üreticisi başka bir fabrika olduğu halde zincir marketin veya perakendecinin kendi markasıyla ucuza sattığı ürün.",
+    "kelime": "fason marka",
+    "aciklama": "büyük perakende zincirlerinin kendi adları veya tescilli markaları altında ürettirip reyonlarında sattığı özel ürün.",
     "yasakli_kelimeler": [
-      "private label",
       "market markası",
-      "fason",
-      "ucuz alternatif",
-      "zincir mağaza"
+      "perakende",
+      "üretim",
+      "reyon",
+      "ucuz"
     ],
     "zorluk": "orta"
   },
@@ -968,28 +968,28 @@
   {
     "id": 70,
     "kategori": "pazarlama",
-    "kelime": "bütünleşik kanal pazarlaması",
-    "aciklama": "tüm satış kanallarının birbirine tam entegre olarak müşteriye kesintisiz ve tutarlı tek bir alışveriş deneyimi sunması.",
+    "kelime": "omnichannel",
+    "aciklama": "müşteriye fiziksel mağaza, mobil uygulama ve web sitesi gibi tüm temas noktalarında kesintisiz tek bir alışveriş deneyimi sunma yaklaşımı.",
     "yasakli_kelimeler": [
-      "omnichannel",
-      "kesintisiz",
-      "entegre",
-      "mağaza ve online",
-      "deneyim"
+      "kanal",
+      "bütünleşik",
+      "deneyim",
+      "mağaza",
+      "çevrim içi"
     ],
     "zorluk": "zor"
   },
   {
     "id": 71,
     "kategori": "pazarlama",
-    "kelime": "bütünleşik pazarlama iletişimi",
-    "aciklama": "reklam, halkla ilişkiler, doğrudan satış gibi tüm iletişim unsurlarının tek bir tutarlı mesaj vermek üzere uyumlu çalışması.",
+    "kelime": "bütünleşik iletişim",
+    "aciklama": "tüm pazarlama ve halkla ilişkiler mesajlarının tüm mecralarda tutarlı ve uyumlu tek bir sesle iletilmesi.",
     "yasakli_kelimeler": [
-      "imc",
-      "iletişim",
-      "tutarlı mesaj",
-      "uyum",
-      "halkla ilişkiler"
+      "tutarlılık",
+      "mesaj",
+      "halkla ilişkiler",
+      "mecra",
+      "reklam"
     ],
     "zorluk": "zor"
   },
@@ -1178,14 +1178,14 @@
   {
     "id": 85,
     "kategori": "pazarlama",
-    "kelime": "kullanıcı tarafından oluşturulan içerik",
-    "aciklama": "markanın müşterileri tarafından gönüllü olarak üretilen ve paylaşılan video, fotoğraf ve kullanıcı yorumları.",
+    "kelime": "kullanıcı içeriği",
+    "aciklama": "tüketiciler veya takipçiler tarafından marka, ürün veya hizmet hakkında gönüllü olarak üretilen paylaşımlar.",
     "yasakli_kelimeler": [
-      "ugc",
-      "tüketici paylaşımı",
-      "organik içerik",
-      "sosyal kanıt",
-      "yorumlar"
+      "tüketici",
+      "paylaşım",
+      "üretim",
+      "sosyal medya",
+      "yorum"
     ],
     "zorluk": "orta"
   },
@@ -1220,14 +1220,14 @@
   {
     "id": 88,
     "kategori": "pazarlama",
-    "kelime": "fırsatı kaçırma korkusu",
-    "aciklama": "tüketicilerin başkalarının yararlandığı popüler bir trendi veya indirimi kaçırmaktan duyduğu endişe.",
+    "kelime": "kaçırma korkusu",
+    "aciklama": "sosyal medyada veya kampanyalarda başkalarının yararlandığı avantajlı bir fırsatın dışında kalma endişesi.",
     "yasakli_kelimeler": [
-      "fomo",
-      "kaçırma endişesi",
-      "trend",
-      "acil satın alma",
-      "psikoloji"
+      "korku",
+      "fırsat",
+      "endişe",
+      "sosyal medya",
+      "kampanya"
     ],
     "zorluk": "zor"
   },
@@ -1318,14 +1318,14 @@
   {
     "id": 95,
     "kategori": "pazarlama",
-    "kelime": "fiyat kırma savaşı",
-    "aciklama": "rakiplerin birbirlerinin müşterilerini kapmak için fiyatları sürekli indirerek kârlılıkları sıfırladığı yıkıcı rekabet.",
+    "kelime": "fiyat savaşı",
+    "aciklama": "rakip şirketlerin pazar payı kapmak veya birbirini ezmek amacıyla karşılıklı olarak sürekli fiyat indirimine gitmesi.",
     "yasakli_kelimeler": [
-      "yıkıcı rekabet",
-      "indirim yarışı",
-      "zararına satış",
-      "fiyat savaşı",
-      "kârsızlık"
+      "indirim",
+      "rekabet",
+      "zarar",
+      "rakip",
+      "kırma"
     ],
     "zorluk": "orta"
   },

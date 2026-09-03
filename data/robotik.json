@@ -58,14 +58,14 @@
   {
     "id": 5,
     "kategori": "robotik",
-    "kelime": "fırçasız doğru akım motoru",
-    "aciklama": "mekanik kömür veya fırça yerine elektronik komutasyonla çalışan, yüksek tork ve verim sağlayan motor.",
+    "kelime": "fırçasız motor",
+    "aciklama": "mekanik kömür ve fırça yerine elektronik sürücüyle çalışan, yüksek verimli ve uzun ömürlü elektrik motoru.",
     "yasakli_kelimeler": [
-      "verim",
-      "komutasyon",
-      "kömür",
-      "tork",
-      "rotor"
+      "doğru akım",
+      "bobin",
+      "sürücü",
+      "rotasyon",
+      "kıvılcım"
     ],
     "zorluk": "zor"
   },
@@ -184,14 +184,14 @@
   {
     "id": 14,
     "kategori": "robotik",
-    "kelime": "robot çalışma uzayı",
-    "aciklama": "robot manipülatörünün geometrik ve mekanik sınırları dahilinde uç elemanıyla fiziksel olarak erişebildiği tüm hacim.",
+    "kelime": "çalışma uzayı",
+    "aciklama": "bir robot manipülatörünün veya uç elemanının fiziksel olarak uzanıp erişebildiği tüm geometrik noktaların kümesi.",
     "yasakli_kelimeler": [
       "erişim",
-      "alan",
+      "kol",
       "hacim",
-      "sınır",
-      "geometri"
+      "koordinat",
+      "noktalar"
     ],
     "zorluk": "zor"
   },
@@ -520,14 +520,14 @@
   {
     "id": 38,
     "kategori": "robotik",
-    "kelime": "eşzamanlı konumlandırma ve haritalama",
-    "aciklama": "bilinmeyen bir ortama bırakılan robotun bir yandan harita çıkarırken diğer yandan harita üzerindeki kendi yerini belirlemesi süreci.",
+    "kelime": "slam",
+    "aciklama": "bir robotun bilinmeyen bir ortamda gezinirken eşzamanlı olarak hem ortamın haritasını çıkarması hem de kendi konumunu belirlemesi süreci.",
     "yasakli_kelimeler": [
-      "harita",
+      "haritalama",
       "konum",
-      "bilinmeyen",
-      "sensör",
-      "döngü kapama"
+      "otonom",
+      "lazer sensör",
+      "navigasyon"
     ],
     "zorluk": "zor"
   },
@@ -674,28 +674,28 @@
   {
     "id": 49,
     "kategori": "robotik",
-    "kelime": "hızla keşfeden rastgele ağaç",
-    "aciklama": "yüksek serbestlik dereceli robotların engelli karmaşık alanlarda yolunu bulması için uzayda rastgele dallanan ağaç algoritması.",
+    "kelime": "rastgele ağaç algoritması",
+    "aciklama": "robot kolu veya otonom araçlar için yüksek boyutlu engelli ortamlarda hızla çarpışmasız yol planlayan arama yöntemi.",
     "yasakli_kelimeler": [
-      "rastgele",
-      "ağaç",
-      "örnekleme",
+      "yol planlama",
+      "engeller",
       "dallanma",
-      "yol"
+      "rota",
+      "örnekleme"
     ],
     "zorluk": "zor"
   },
   {
     "id": 50,
     "kategori": "robotik",
-    "kelime": "yapay potansiyel alan",
-    "aciklama": "hedefin robota çekici kuvvet, engellerin ise itici kuvvet uyguladığı matematiksel sanal alan modeli.",
+    "kelime": "potansiyel alan yöntemi",
+    "aciklama": "hedefin çekim, engellerin ise itim gücü uyguladığı varsayımına dayanan yapay zeka tabanlı yol planlama tekniği.",
     "yasakli_kelimeler": [
-      "çekici",
-      "itici",
-      "kuvvet",
-      "sanal",
-      "alan"
+      "çekim gücü",
+      "itme",
+      "engel",
+      "fiziksel model",
+      "rota"
     ],
     "zorluk": "zor"
   },
@@ -786,14 +786,14 @@
   {
     "id": 57,
     "kategori": "robotik",
-    "kelime": "birleşik robot tanımlama formatı",
-    "aciklama": "bir robotun tüm görsel parçalarını, eklemlerini, eylemsizlik matrislerini xml biçiminde tanımlayan standart dosya formatı.",
+    "kelime": "urdf formatı",
+    "aciklama": "robotik işletim sisteminde robotun eklemlerini, linklerini ve geometrik yapısını tanımlayan standart xml tabanlı dosya formatı.",
     "yasakli_kelimeler": [
-      "xml",
+      "robot modeli",
       "eklem",
-      "tanımlama",
-      "görsel",
-      "uzuv"
+      "link",
+      "xml",
+      "simülasyon"
     ],
     "zorluk": "zor"
   },
@@ -884,14 +884,14 @@
   {
     "id": 64,
     "kategori": "robotik",
-    "kelime": "ters sarkaç modeli",
-    "aciklama": "insansı veya iki tekerlekli denge robotlarının ağırlık merkezinin kontrolünü modellemek için kullanılan temel fiziksel sistem.",
+    "kelime": "ters sarkaç",
+    "aciklama": "iki ayaklı insansı robotların dengede kalmasını ve yürümesini matematiksel olarak modellemek için kullanılan fiziksel denge sistemi.",
     "yasakli_kelimeler": [
       "denge",
       "ağırlık merkezi",
-      "sarkaç",
-      "kararsız",
-      "düşme"
+      "dik durma",
+      "salınım",
+      "yürüme"
     ],
     "zorluk": "orta"
   },
@@ -1290,14 +1290,14 @@
   {
     "id": 93,
     "kategori": "robotik",
-    "kelime": "kayış kasnak mekanizması",
-    "aciklama": "motor milindeki dönme hareketini belirli bir mesafedeki diğer mile esnek dişli bant aracılığıyla aktaran güç iletim sistemi.",
+    "kelime": "kayış kasnak",
+    "aciklama": "dönme hareketini ve torku miller arasında esnek bir bant yardımıyla kayma olmadan ileten mekanik aktarma organı.",
     "yasakli_kelimeler": [
-      "dişli kayış",
+      "kayış",
       "kasnak",
-      "aktarım",
-      "gergi",
-      "esnek"
+      "tork",
+      "aktarma",
+      "mil"
     ],
     "zorluk": "kolay"
   },
@@ -1332,14 +1332,14 @@
   {
     "id": 96,
     "kategori": "robotik",
-    "kelime": "kollaboratif güvenlik alanı",
-    "aciklama": "insan yaklaştığında robotun hızını otomatik düşürdüğü, temas halinde ise anında acil fren yaptığı lazer tarayıcılı koruma bölgesi.",
+    "kelime": "güvenli çalışma alanı",
+    "aciklama": "endüstriyel işbirlikçi robotların insan operatör yaklaştığında yavaşladığı veya durduğu sensörle korunan bölge.",
     "yasakli_kelimeler": [
+      "emniyet",
+      "ortak çalışma",
+      "bölge",
       "lazer alan",
-      "yavaşlama",
-      "koruma",
-      "acil durdurma",
-      "mesafe"
+      "insan operatör"
     ],
     "zorluk": "kolay"
   },
@@ -1360,14 +1360,14 @@
   {
     "id": 98,
     "kategori": "robotik",
-    "kelime": "görüntü işlemeli yönlendirme",
-    "aciklama": "üretim hattındaki parçaların konum ve açılarını endüstriyel kameralarla tespit edip robota tutma koordinatını bildiren vizyon sistemi.",
+    "kelime": "görüntü yönlendirmeli robot",
+    "aciklama": "üzerindeki kameralardan aldığı görsel verileri anlık işleyerek parçaları algılayan ve yönünü belirleyen robotik sistem.",
     "yasakli_kelimeler": [
       "kamera",
-      "tespit",
-      "vizyon",
-      "koordinat",
-      "poz"
+      "görme",
+      "algılama",
+      "uç eleman",
+      "yönlendirme"
     ],
     "zorluk": "orta"
   },

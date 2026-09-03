@@ -562,14 +562,14 @@
   {
     "id": 41,
     "kategori": "algoritmalar",
-    "kelime": "en uzun ortak alt dizi",
-    "aciklama": "iki farklı dizide elemanların sırasını bozmadan ortak olarak bulunan en uzun dizilimi bulma problemi.",
+    "kelime": "ortak alt dizi",
+    "aciklama": "verilen diziler arasında sırası bozulmadan ortak olarak bulunan en büyük eleman grubunu dinamik programlamayla bulma problemi.",
     "yasakli_kelimeler": [
       "lcs",
       "dinamik programlama",
-      "dizgi",
-      "alt dizi",
-      "benzerlik"
+      "karakter",
+      "dizi",
+      "ortak"
     ],
     "zorluk": "zor"
   },
@@ -1332,14 +1332,14 @@
   {
     "id": 96,
     "kategori": "algoritmalar",
-    "kelime": "hızlı ve yavaş işaretçi",
-    "aciklama": "bağlı bir listede döngü olup olmadığını anlamak için farklı hızlarda ilerleyen iki imleç yöntemi.",
+    "kelime": "kaplumbağa ve tavşan",
+    "aciklama": "bağlı listelerde döngü olup olmadığını bulmak için biri bir adım diğeri iki adım ilerleyen iki işaretçi tekniği.",
     "yasakli_kelimeler": [
       "floyd",
-      "döngü",
-      "kaplumbağa",
-      "tavşan",
-      "bağlı liste"
+      "döngü tespiti",
+      "işaretçi",
+      "pointer",
+      "hızlı yavaş"
     ],
     "zorluk": "zor"
   },
@@ -1360,14 +1360,14 @@
   {
     "id": 98,
     "kategori": "algoritmalar",
-    "kelime": "en küçük ortak ata",
-    "aciklama": "bir ağaç yapısında verilen iki farklı düğümün paylaştığı köke en yakın ortak üst düğüm.",
+    "kelime": "en yakın ata",
+    "aciklama": "bir ağaç veya hiyerarşik veri yapısında iki düğümün her ikisinin de soyundan geldiği en derin düğüm.",
     "yasakli_kelimeler": [
       "lca",
-      "ata",
       "ağaç",
-      "kök",
-      "düğüm"
+      "düğüm",
+      "ebeveyn",
+      "kök"
     ],
     "zorluk": "kolay"
   },

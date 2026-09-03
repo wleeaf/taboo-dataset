@@ -198,14 +198,14 @@
   {
     "id": 15,
     "kategori": "demircilik",
-    "kelime": "demirci mengenesı",
-    "aciklama": "ağır balyoz ve çekiç darbelerini doğrudan zemine iletmek için bacağı yere kadar uzanan sağlam mengene.",
+    "kelime": "demirci mengenesi",
+    "aciklama": "ağır balyoz ve çekiç darbelerini doğrudan zemine ileten, bacaklı ve kalın çelik çenelere sahip mengene.",
     "yasakli_kelimeler": [
       "ayaklı mengene",
       "bacak",
       "sıkıştırma",
-      "darbe iletme",
-      "çelik mengene"
+      "darbe",
+      "çelik"
     ],
     "zorluk": "kolay"
   },
@@ -604,28 +604,28 @@
   {
     "id": 44,
     "kategori": "demircilik",
-    "kelime": "sledgehamer",
-    "aciklama": "demirci kalfasının örs üzerindeki kütüğe ustasının işaret ettiği noktalara sertçe vurduğu büyük balyoz.",
+    "kelime": "demirci balyozu",
+    "aciklama": "örs üzerindeki sıcak demiri güçlü vuruşlarla biçimlendirmek için çift elle sallanan ağır çekiç.",
     "yasakli_kelimeler": [
-      "kalfa çekici",
-      "büyük tokmak",
-      "ağır balyoz",
-      "dövme vuruşu",
-      "iki elli çekiç"
+      "balyoz",
+      "tokmak",
+      "iki elli",
+      "örs",
+      "dövme"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 45,
     "kategori": "demircilik",
-    "kelime": "kılıç yapımı",
-    "aciklama": "yüksek karbonlu çeliği dövüp menevişleyerek keskin, esnek ve dayanıklı kılıç namlusu üretme ustalığı.",
+    "kelime": "kılıç dövme",
+    "aciklama": "yüksek karbonlu çeliği ocakta tavlayıp örste döverek keskin ve esnek kılıç namlusu üretme zanaatı.",
     "yasakli_kelimeler": [
       "namlu",
-      "kılıç dövme",
       "meneviş",
-      "keskinleştirme",
-      "kabza"
+      "keskin",
+      "kabza",
+      "çelik"
     ],
     "zorluk": "kolay"
   },
@@ -688,14 +688,14 @@
   {
     "id": 50,
     "kategori": "demircilik",
-    "kelime": "kama yapımı",
-    "aciklama": "çift ağızlı sivri hançer ve kamaların örs üzerinde dövülerek sertleştirilmesi ve parlatılması zanaatı.",
+    "kelime": "kama dövme",
+    "aciklama": "çift ağızlı sivri hançer ve bıçakların ocakta ısıtılıp örs üzerinde şekillendirilmesi.",
     "yasakli_kelimeler": [
+      "hançer",
+      "bıçak",
+      "sivri",
       "çift ağız",
-      "hançer dövme",
-      "sivri uç",
-      "kama dövme",
-      "bıçakçılık"
+      "namlu"
     ],
     "zorluk": "kolay"
   },
@@ -898,14 +898,14 @@
   {
     "id": 65,
     "kategori": "demircilik",
-    "kelime": "miğfer dövme",
-    "aciklama": "tek parça demir levhadan çekiç vuruşlarıyla başı koruyan içi çukur metal başlık biçimlendirme zanaatı.",
+    "kelime": "miğfer yapımı",
+    "aciklama": "demir levhayı çekiç vuruşlarıyla çukurlaştırıp bombe vererek başı koruyan zırh başlığı üretme.",
     "yasakli_kelimeler": [
-      "kask dövme",
-      "metal başlık",
-      "çukurlaştırma",
-      "zırhçı",
-      "kubbe dövme"
+      "kask",
+      "zırh",
+      "başlık",
+      "metal",
+      "dövme"
     ],
     "zorluk": "kolay"
   },
@@ -1038,14 +1038,14 @@
   {
     "id": 75,
     "kategori": "demircilik",
-    "kelime": "kazma yapımı",
-    "aciklama": "toprak ve kaya kazımında kullanılan ağır demir aletin uçlarını örste tavlayıp sertleştirerek sivriltme.",
+    "kelime": "kazma dövme",
+    "aciklama": "toprak ve kaya kazımında kullanılan sivri veya yassı uçlu ağır demir aletin örste üretilmesi.",
     "yasakli_kelimeler": [
-      "sivri uç",
-      "sap yuvası",
-      "kazıcı alet",
-      "sert uç dövme",
-      "toprak aleti"
+      "alet",
+      "sap",
+      "toprak",
+      "kazıcı",
+      "çelik"
     ],
     "zorluk": "kolay"
   },
@@ -1178,14 +1178,14 @@
   {
     "id": 85,
     "kategori": "demircilik",
-    "kelime": "kurşun döküm ağırlık",
-    "aciklama": "örs tabanına veya çalışma sehpasının altına titreşimi tamamen yok etmek için dökülen ağır kurşun kütle.",
+    "kelime": "örs takozu",
+    "aciklama": "örsün altına konulan ve çekiç vuruşlarının oluşturduğu titreşim ile sesi emen ağır kütük veya kurşun taban.",
     "yasakli_kelimeler": [
-      "titreşim yutucu",
-      "ağır taban",
-      "darbe emici kurşun",
-      "sehpa ağırlığı",
-      "yankı önleme"
+      "kütük",
+      "taban",
+      "titreşim",
+      "ağırlık",
+      "sehpa"
     ],
     "zorluk": "orta"
   },
@@ -1248,14 +1248,14 @@
   {
     "id": 90,
     "kategori": "demircilik",
-    "kelime": "delik genişletme malafası",
-    "aciklama": "sıcak demirdeki delikleri istenilen çapa ve yuvarlaklığa ulaştırmak için deliğe çakılan konik çelik mil.",
+    "kelime": "genişletme malafası",
+    "aciklama": "sıcak demirdeki delikleri istenilen çapa ve düzgün daire kesitine getirmek için içine çakılan konik çelik mil.",
     "yasakli_kelimeler": [
-      "konik mil",
-      "malafa pimi",
-      "delik büyütme",
-      "sap yuvası malafası",
-      "çelik koni"
+      "malafa",
+      "konik",
+      "delik açma",
+      "pim",
+      "çelik"
     ],
     "zorluk": "zor"
   },
@@ -1276,14 +1276,14 @@
   {
     "id": 92,
     "kategori": "demircilik",
-    "kelime": "tırmık yapımı",
-    "aciklama": "tarla ve bahçeleri temizlemek için demir lamaya tek tek sivri dişlerin çekiçle perçinlenip dövülmesi.",
+    "kelime": "tırmık dövme",
+    "aciklama": "toprağı veya samanı düzeltmek için demir lamaya tek tek dişlerin kaynatılıp dövülmesi işlemi.",
     "yasakli_kelimeler": [
-      "demir diş",
-      "bahçe tırmığı",
-      "perçinli lama",
-      "hasat aleti",
-      "toprak düzleme"
+      "bahçe",
+      "diş",
+      "tarla",
+      "hasat",
+      "lama"
     ],
     "zorluk": "kolay"
   },
@@ -1332,14 +1332,14 @@
   {
     "id": 96,
     "kategori": "demircilik",
-    "kelime": "asmakilit gövdesi",
-    "aciklama": "tarihi sandık ve kapı asma kilitlerinin yekpare demir kütükten oyularak ve dövülerek üretilen kalın zırhı.",
+    "kelime": "asma kilit gövdesi",
+    "aciklama": "tarihi sandık ve kapı asma kilitlerinin yekpare demirden dövülerek içi oyulan dış zırh kısmı.",
     "yasakli_kelimeler": [
-      "demir kilit",
-      "dövme gövde",
-      "anahtar yuvası",
-      "sandık kilidi",
-      "emniyet demiri"
+      "kilit",
+      "anahtar",
+      "emniyet",
+      "sandık",
+      "dövme demir"
     ],
     "zorluk": "kolay"
   },
@@ -1360,14 +1360,14 @@
   {
     "id": 98,
     "kategori": "demircilik",
-    "kelime": "yay çeliği dövme",
-    "aciklama": "yaprak yay ve zembereklerin esnekliğini kaybetmemesi için kontrollü sıcaklıkta dövülüp yağda sulanması.",
+    "kelime": "yay çeliği",
+    "aciklama": "yaprak yay ve zembereklerin esnekliğini kaybetmemesi için özel su verilip dövülen yüksek karbonlu alaşım.",
     "yasakli_kelimeler": [
       "makas yayı",
-      "esnek çelik",
+      "esnek",
       "zemberek",
-      "yaprak yay",
-      "süspansiyon demiri"
+      "süspansiyon",
+      "tavlama"
     ],
     "zorluk": "orta"
   },

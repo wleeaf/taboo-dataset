@@ -268,14 +268,14 @@
   {
     "id": 20,
     "kategori": "kripto",
-    "kelime": "merkez bankası dijital parası",
-    "aciklama": "egemen bir devletin merkez bankası tarafından resmi olarak basılan ve yasal geçerliliği olan dijital para birimi.",
+    "kelime": "dijital para",
+    "aciklama": "Devletlerin merkez bankaları tarafından çıkarılan ve teminat altına alınan resmi dijital para birimi.",
     "yasakli_kelimeler": [
+      "merkez bankası",
       "cbdc",
-      "devlet",
-      "resmi",
-      "itibar",
-      "fiat"
+      "itibari",
+      "elektronik",
+      "resmi"
     ],
     "zorluk": "kolay"
   },
@@ -380,14 +380,14 @@
   {
     "id": 28,
     "kategori": "kripto",
-    "kelime": "sıfır bilgi dürümleri",
-    "aciklama": "yüzlerce işlemi zincir dışında bir araya getirip tek bir kriptografik geçerlilik kanıtıyla ana zincire bildiren teknoloji.",
+    "kelime": "zk-rollup",
+    "aciklama": "İşlemleri katman 2'de toplayıp sıfır bilgi kanıtıyla ana ağa onaylatan ölçekleme çözümü.",
     "yasakli_kelimeler": [
-      "zk rollup",
-      "geçerlilik kanıtı",
-      "katman",
-      "hız",
-      "sıkıştırma"
+      "katman 2",
+      "sıfır bilgi",
+      "ölçekleme",
+      "ispat",
+      "ethereum"
     ],
     "zorluk": "orta"
   },
@@ -492,28 +492,28 @@
   {
     "id": 36,
     "kategori": "kripto",
-    "kelime": "akıllı sözleşme denetimi",
-    "aciklama": "yayınlanmadan önce sözleşme kodunun güvenlik açıkları ve mantık hatalarına karşı uzman şirketlerce incelenmesi.",
+    "kelime": "sözleşme denetimi",
+    "aciklama": "Akıllı sözleşmelerin kodlarındaki güvenlik açıklarını ve hataları bulmak için yapılan uzman incelemesi.",
     "yasakli_kelimeler": [
-      "audit",
       "güvenlik",
+      "kod",
       "açık",
-      "inceleme",
-      "kod"
+      "audit",
+      "akıllı"
     ],
     "zorluk": "orta"
   },
   {
     "id": 37,
     "kategori": "kripto",
-    "kelime": "yüzde elli bir saldırısı",
-    "aciklama": "bir madencilik ağındaki hesaplama gücünün çoğunluğunu ele geçirerek işlemleri tersine çevirme veya çift harcama yapma tehdidi.",
+    "kelime": "yüzde 51 saldırısı",
+    "aciklama": "Bir madencilik veya doğrulama ağındaki bilgi işlem gücünün çoğunluğunu ele geçirerek yapılan saldırı.",
     "yasakli_kelimeler": [
-      "saldırı",
+      "hash gücü",
       "çoğunluk",
-      "çift harcama",
-      "ağ gücü",
-      "madencilik"
+      "çifte harcama",
+      "madenci",
+      "blokzincir"
     ],
     "zorluk": "orta"
   },
@@ -576,14 +576,14 @@
   {
     "id": 42,
     "kategori": "kripto",
-    "kelime": "kara para aklamayı önleme",
-    "aciklama": "yasa dışı gelirlerin finansal ve kripto sistemler aracılığıyla meşrulaştırılmasını engellemeye yönelik yasal düzenlemeler bütünü.",
+    "kelime": "aml",
+    "aciklama": "Finansal sistemde yasadışı yollardan elde edilen fonların aklanmasını engellemeye yönelik uyum kuralları.",
     "yasakli_kelimeler": [
-      "aml",
-      "yasa dışı",
-      "denetim",
-      "meşru",
-      "mali suç"
+      "kara para",
+      "aklama",
+      "mevzuat",
+      "kyc",
+      "finans"
     ],
     "zorluk": "kolay"
   },
@@ -618,14 +618,14 @@
   {
     "id": 45,
     "kategori": "kripto",
-    "kelime": "halı çekme dolandırıcılığı",
-    "aciklama": "bir kripto projesi ekibinin yatırımcılardan para topladıktan sonra havuzdaki tüm likiditeyi çekip kayıplara karışması.",
+    "kelime": "rug pull",
+    "aciklama": "Kripto proje geliştiricilerinin likiditeyi çekip yatırımcıları ortada bırakarak kaçması dolandırıcılığı.",
     "yasakli_kelimeler": [
-      "rug pull",
-      "vurgun",
-      "kaçma",
       "likidite",
-      "dolandırıcılık"
+      "dolandırıcılık",
+      "kaçış",
+      "yatırımcı",
+      "havuz"
     ],
     "zorluk": "kolay"
   },
@@ -660,14 +660,14 @@
   {
     "id": 48,
     "kategori": "kripto",
-    "kelime": "kesintiye uğratma cezası",
-    "aciklama": "hisse kanıtı sistemlerinde ağ kurallarını ihlal eden veya çevrimdışı kalan doğrulayıcıların kilitli fonlarının yakılması.",
+    "kelime": "slashing",
+    "aciklama": "Hatalı veya kötü niyetli işlem doğrulayan PoS doğrulayıcılarının stake ettikleri teminatın kesilmesi.",
     "yasakli_kelimeler": [
-      "slashing",
       "ceza",
-      "hisse",
-      "yakılma",
-      "doğrulayıcı"
+      "doğrulayıcı",
+      "stake",
+      "kesinti",
+      "kötü niyet"
     ],
     "zorluk": "orta"
   },
@@ -772,14 +772,14 @@
   {
     "id": 56,
     "kategori": "kripto",
-    "kelime": "korku ve açgözlülük endeksi",
-    "aciklama": "piyasa duyarlılığını, yatırımcı psikolojisini ve aşırı alım-satım eğilimlerini 0 ile 100 arasında ölçen gösterge.",
+    "kelime": "açgözlülük endeksi",
+    "aciklama": "Kripto piyasasındaki duygu durumunu korkudan aşırı iyimserliğe kadar 0-100 arasında ölçen gösterge.",
     "yasakli_kelimeler": [
-      "endeks",
-      "psikoloji",
-      "duyarlılık",
-      "panik",
-      "açgözlü"
+      "korku",
+      "piyasa",
+      "duygu",
+      "gösterge",
+      "panik"
     ],
     "zorluk": "kolay"
   },
@@ -828,14 +828,14 @@
   {
     "id": 60,
     "kategori": "kripto",
-    "kelime": "korku belirsizlik ve şüphe",
-    "aciklama": "piyasada panik yaratarak fiyatları düşürmek amacıyla kasıtlı olarak yayılan yanıltıcı olumsuz haberler.",
+    "kelime": "fud",
+    "aciklama": "Piyasada panik ve şüphe yayarak yatırımcıların varlıklarını zararına satmasını amaçlayan manipülasyon.",
     "yasakli_kelimeler": [
-      "fud",
-      "karalama",
+      "korku",
+      "şüphe",
+      "belirsizlik",
       "panik",
-      "olumsuz haber",
-      "algı"
+      "manipülasyon"
     ],
     "zorluk": "kolay"
   },
@@ -912,14 +912,14 @@
   {
     "id": 66,
     "kategori": "kripto",
-    "kelime": "gizlilik odaklı kripto para",
-    "aciklama": "özel şifreleme yöntemleriyle göndericiyi, alıcıyı ve transfer tutarını tamamen gizleyen anonim kripto para sınıfı.",
+    "kelime": "gizlilik parası",
+    "aciklama": "İşlem taraflarını ve transfer tutarlarını kriptografik yöntemlerle gizleyen kripto para türü.",
     "yasakli_kelimeler": [
       "monero",
-      "zcash",
-      "anonimlik",
-      "gizleme",
-      "izlenemez"
+      "anonim",
+      "işlem",
+      "izlenemez",
+      "zcash"
     ],
     "zorluk": "orta"
   },
@@ -1010,14 +1010,14 @@
   {
     "id": 73,
     "kategori": "kripto",
-    "kelime": "kriptografik tuzak kapı",
-    "aciklama": "gizli bir anahtar olmadan bir yönde hesaplanması kolay ancak tersine çevrilmesi neredeyse imkansız olan matematiksel fonksiyon.",
+    "kelime": "arka kapı",
+    "aciklama": "Bir şifreleme algoritması veya yazılımda güvenlik önlemlerini aşmak için gizlice bırakılan geçit.",
     "yasakli_kelimeler": [
-      "trapdoor",
-      "tek yönlü",
-      "anahtar",
-      "tersine çevirme",
-      "fonksiyon"
+      "tuzak",
+      "güvenlik",
+      "sızma",
+      "açık",
+      "şifreleme"
     ],
     "zorluk": "zor"
   },
@@ -1094,14 +1094,14 @@
   {
     "id": 79,
     "kategori": "kripto",
-    "kelime": "solidity programlama dili",
-    "aciklama": "ethereum ve uyumlu blokzincirlerde akıllı sözleşmeler yazmak için tasarlanmış nesne yönelimli programlama dili.",
+    "kelime": "solidity",
+    "aciklama": "Ethereum ve EVM uyumlu blokzincirlerde akıllı sözleşmeler yazmak için kullanılan nesne yönelimli dil.",
     "yasakli_kelimeler": [
-      "yazılım",
-      "kodlama",
       "akıllı sözleşme",
+      "ethereum",
+      "kodlama",
       "evm",
-      "geliştirici"
+      "dil"
     ],
     "zorluk": "orta"
   },
@@ -1220,14 +1220,14 @@
   {
     "id": 88,
     "kategori": "kripto",
-    "kelime": "önceden işlem kapma",
-    "aciklama": "bekleyen işlemleri bellek havuzunda görüp daha yüksek gaz ücreti ödeyerek işlemi öne geçirme fırsatçılığı.",
+    "kelime": "front running",
+    "aciklama": "Bekleyen bir işlemi mempool'da görüp daha yüksek gas ücreti ödeyerek önüne geçme işlemi.",
     "yasakli_kelimeler": [
-      "front running",
-      "mev",
-      "gaz yarışı",
-      "sıra kapma",
-      "mempool"
+      "mempool",
+      "gas",
+      "işlem",
+      "madenci",
+      "mev"
     ],
     "zorluk": "orta"
   },
@@ -1318,14 +1318,14 @@
   {
     "id": 95,
     "kategori": "kripto",
-    "kelime": "kripto karıştırma servisi",
-    "aciklama": "kripto paraları bir havuzda karıştırarak fonların kökenini ve cüzdanlar arasındaki bağı koparmayı amaçlayan gizlilik aracı.",
+    "kelime": "kripto mikseri",
+    "aciklama": "Farklı kullanıcılardan gelen kripto varlıkları karıştırarak fonların takip edilebilirliğini kaldıran servis.",
     "yasakli_kelimeler": [
-      "mixer",
+      "karıştırma",
       "tornado cash",
-      "iz silme",
-      "havuz",
-      "anonimleştirme"
+      "gizlilik",
+      "takip",
+      "kara para"
     ],
     "zorluk": "orta"
   },
@@ -1388,14 +1388,14 @@
   {
     "id": 100,
     "kategori": "kripto",
-    "kelime": "akıllı sözleşme yükseltilebilirliği",
-    "aciklama": "değiştirilemez blokzincir üzerinde vekil sözleşmeler kullanarak kuralları ve kod mantığını güncelleme imkanı veren mimari.",
+    "kelime": "yükseltilebilirlik",
+    "aciklama": "Proxy mimarisi kullanılarak değiştirilemez akıllı sözleşmelerin mantığının sonradan güncellenebilmesi.",
     "yasakli_kelimeler": [
       "proxy",
-      "vekil",
+      "akıllı sözleşme",
       "güncelleme",
-      "değiştirilemezlik",
-      "mantık"
+      "mantık",
+      "değiştirilemez"
     ],
     "zorluk": "zor"
   }

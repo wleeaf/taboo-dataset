@@ -30,14 +30,14 @@
   {
     "id": 3,
     "kategori": "ekonometri",
-    "kelime": "en küçük kareler yöntemi",
-    "aciklama": "gözlenen değerler ile modelden tahmin edilen değerler arasındaki farkların kareleri toplamını minimize eden tahminci.",
+    "kelime": "en küçük kareler",
+    "aciklama": "gözlenen değerler ile tahmin edilen regresyon çizgisi arasındaki hata kareleri toplamını en aza indiren temel tahmin yöntemi.",
     "yasakli_kelimeler": [
       "ols",
+      "regresyon",
       "hata payı",
-      "kare",
       "tahmin",
-      "artık"
+      "doğru"
     ],
     "zorluk": "kolay"
   },
@@ -86,14 +86,14 @@
   {
     "id": 7,
     "kategori": "ekonometri",
-    "kelime": "iki aşamalı en küçük kareler",
-    "aciklama": "içsellik problemini çözmek için araç değişkenlerin iki adımda kullanıldığı tahmin tekniği.",
+    "kelime": "iki aşamalı ols",
+    "aciklama": "içsellik sorununu çözmek için araç değişken kullanarak regresyonu iki basamakta tahmin eden yöntem.",
     "yasakli_kelimeler": [
-      "2sls",
-      "araç",
-      "aşama",
-      "tahminci",
-      "regresyon"
+      "araç değişken",
+      "içsellik",
+      "tahmin",
+      "regresyon",
+      "kareler"
     ],
     "zorluk": "zor"
   },
@@ -492,28 +492,28 @@
   {
     "id": 36,
     "kategori": "ekonometri",
-    "kelime": "genelleştirilmiş momentler yöntemi",
-    "aciklama": "teorik moment koşullarını örneklem momentleriyle eşleştirerek parametre tahmini yapan yarı parametrik yöntem.",
+    "kelime": "momentler yöntemi",
+    "aciklama": "örneklem momentlerini anakütle momentlerine eşitleyerek parametre tahmini yapan genelleştirilmiş istatistiki yöntem.",
     "yasakli_kelimeler": [
       "gmm",
-      "moment",
-      "araç değişken",
-      "aşırı belirleme",
-      "hansen"
+      "parametre",
+      "tahmin",
+      "beklenen değer",
+      "araç değişken"
     ],
     "zorluk": "zor"
   },
   {
     "id": 37,
     "kategori": "ekonometri",
-    "kelime": "genelleştirilmiş en küçük kareler",
-    "aciklama": "değişen varyans veya otokorelasyon varlığında veriyi dönüştürerek etkin tahminler elde eden yöntem.",
+    "kelime": "ağırlıklı regresyon",
+    "aciklama": "değişen varyans veya otokorelasyon durumunda hata terimlerini ağırlıklandırarak etkin tahmin sağlayan genelleştirilmiş regresyon.",
     "yasakli_kelimeler": [
       "gls",
-      "ağırlıklı",
-      "varyans",
-      "dönüşüm",
-      "etkinlik"
+      "değişen varyans",
+      "ağırlık",
+      "etkinlik",
+      "en küçük kareler"
     ],
     "zorluk": "orta"
   },
@@ -982,14 +982,14 @@
   {
     "id": 71,
     "kategori": "ekonometri",
-    "kelime": "heckman iki aşamalı düzeltmesi",
-    "aciklama": "örneklem seçim yanlılığını gidermek için mills ters oranını regresyona ekleyen ekonometrik model.",
+    "kelime": "heckman düzeltmesi",
+    "aciklama": "örneklem seçim yanlılığını gidermek için ters mills oranını modele dahil eden iki aşamalı ekonometrik yöntem.",
     "yasakli_kelimeler": [
-      "mills oranı",
       "seçim yanlılığı",
-      "sansürlü",
-      "probit",
-      "tahmin"
+      "örneklem",
+      "ters mills",
+      "sansürlü veri",
+      "iki aşamalı"
     ],
     "zorluk": "zor"
   },
@@ -1150,14 +1150,14 @@
   {
     "id": 83,
     "kategori": "ekonometri",
-    "kelime": "ihmal edilmiş değişken yanlılığı",
-    "aciklama": "modele dahil edilmesi gereken önemli bir açıklayıcı değişkenin dışarıda bırakılmasıyla katsayıların sapmalı çıkması.",
+    "kelime": "dışlanan değişken yanlılığı",
+    "aciklama": "bağımlı değişkeni etkileyen ve modeldeki bir değişkenle ilişkili olan önemli bir faktörün modele katılmamasıyla oluşan hata.",
     "yasakli_kelimeler": [
       "omitted variable",
       "yanlılık",
-      "eksik",
       "hata terimi",
-      "korelasyon"
+      "içsellik",
+      "eksik model"
     ],
     "zorluk": "orta"
   },
@@ -1262,14 +1262,14 @@
   {
     "id": 91,
     "kategori": "ekonometri",
-    "kelime": "havuzlanmış en küçük kareler",
-    "aciklama": "panel veride birimler ve zaman boyutları arasındaki bireysel farklılıkları yok sayarak tüm veriyi tek bir kütle gibi tahmin etme.",
+    "kelime": "havuzlanmış regresyon",
+    "aciklama": "panel verilerde zaman ve birim boyutunu dikkate almayarak tüm gözlemleri tek bir havuzda birleştirip tahmin eden model.",
     "yasakli_kelimeler": [
       "pooled ols",
-      "panel",
-      "farksız",
-      "bireysel etki",
-      "basit"
+      "panel veri",
+      "kesit",
+      "zaman serisi",
+      "sabit etki"
     ],
     "zorluk": "orta"
   },
@@ -1290,14 +1290,14 @@
   {
     "id": 93,
     "kategori": "ekonometri",
-    "kelime": "yerel ortalama tedavi etkisi",
-    "aciklama": "araç değişken yönteminde sadece araç değişkenin teşvikiyle davranış değiştiren uyanlar grubu üzerindeki etki.",
+    "kelime": "yerel tedavi etkisi",
+    "aciklama": "araç değişken yaklaşımında sadece araca uyum sağlayan alt grup için tahmin edilen ortalama nedensel etki.",
     "yasakli_kelimeler": [
       "late",
       "nedensellik",
-      "araç",
-      "tedavi",
-      "uyumlu"
+      "araç değişken",
+      "etki",
+      "uyum sağlayan"
     ],
     "zorluk": "zor"
   },

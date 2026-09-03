@@ -86,14 +86,14 @@
   {
     "id": 7,
     "kategori": "telekomunikasyon",
-    "kelime": "dik frekans bölmeli çoğullama",
-    "aciklama": "yüksek hızlı veri akışını birbirine matematiksel olarak dik çok sayıda yavaş alt taşıyıcıya bölerek ileten modern kablosuz teknoloji.",
+    "kelime": "ofdm",
+    "aciklama": "geniş bir frekans bandını birbirine dik birçok dar alt taşıyıcıya bölerek veri ileten gelişmiş modülasyon tekniği.",
     "yasakli_kelimeler": [
       "alt taşıyıcı",
       "diklik",
-      "taşıyıcı",
-      "kablosuz",
-      "spektrum"
+      "modülasyon",
+      "kablosuz veri",
+      "geniş bant"
     ],
     "zorluk": "zor"
   },
@@ -142,14 +142,14 @@
   {
     "id": 11,
     "kategori": "telekomunikasyon",
-    "kelime": "dalga boyu bölmeli çoğullama",
-    "aciklama": "tek bir fiber optik kablo içinden farklı renklerdeki veya dalga boylarındaki lazer ışıklarını aynı anda geçirerek kapasiteyi katlama.",
+    "kelime": "wdm",
+    "aciklama": "tek bir fiber optik kıl üzerinden farklı dalga boylarındaki lazer ışıklarını aynı anda ileterek kapasiteyi artıran teknoloji.",
     "yasakli_kelimeler": [
       "fiber optik",
-      "lazer",
       "dalga boyu",
-      "ışık",
-      "renk"
+      "lazer ışığı",
+      "çoğullama",
+      "kapasite"
     ],
     "zorluk": "zor"
   },
@@ -338,14 +338,14 @@
   {
     "id": 25,
     "kategori": "telekomunikasyon",
-    "kelime": "beşinci nesil yeni radyo",
-    "aciklama": "çok yüksek hız, son derece düşük gecikme ve devasa cihaz bağlantı yoğunluğu sunan küresel kablosuz iletişim standardı.",
+    "kelime": "5g yeni radyo",
+    "aciklama": "beşinci nesil hücresel ağlar için geliştirilmiş, ultra düşük gecikmeli ve yüksek hızlı küresel kablosuz iletişim standardı.",
     "yasakli_kelimeler": [
-      "mobil",
+      "5g",
+      "hücresel ağ",
       "yüksek hız",
-      "gecikme",
-      "standart",
-      "hücresel"
+      "düşük gecikme",
+      "anten standardı"
     ],
     "zorluk": "zor"
   },
@@ -366,14 +366,14 @@
   {
     "id": 27,
     "kategori": "telekomunikasyon",
-    "kelime": "çoklu girdi çoklu çıktı",
-    "aciklama": "aynı radyo kanalında birden çok alıcı ve verici anten kullanarak veri aktarım hızını ve sinyal güvenilirliğini artıran teknoloji.",
+    "kelime": "mimo",
+    "aciklama": "kablosuz veri iletiminde sinyal kalitesini ve hızını artırmak için hem alıcıda hem vericide birden fazla anten kullanılması.",
     "yasakli_kelimeler": [
-      "anten",
-      "çoklu",
-      "verici",
-      "alıcı",
-      "uzamsal"
+      "çoklu anten",
+      "alıcı verici",
+      "uzamsal çoğullama",
+      "sinyal",
+      "kablosuz hız"
     ],
     "zorluk": "zor"
   },
@@ -422,13 +422,13 @@
   {
     "id": 31,
     "kategori": "telekomunikasyon",
-    "kelime": "açık radyo erişim ağı",
-    "aciklama": "baz istasyonu donanım ve yazılımlarını tescilli tekel üreticilerden kurtarıp açık standartlı arayüzlerle çalıştıran telekom yaklaşımı.",
+    "kelime": "open ran",
+    "aciklama": "baz istasyonu donanımı ile yazılımını birbirinden ayırarak operatörlerin farklı üreticilerden açık arayüzlerle ekipman kullanmasını sağlayan mimari.",
     "yasakli_kelimeler": [
-      "açık kaynak",
-      "birlikte çalışabilirlik",
-      "standart",
-      "üretici",
+      "baz istasyonu",
+      "açık mimari",
+      "yazılım ayrımı",
+      "radyo şebekesi",
       "arayüz"
     ],
     "zorluk": "zor"
@@ -660,14 +660,14 @@
   {
     "id": 48,
     "kategori": "telekomunikasyon",
-    "kelime": "serbest uzay yol kaybı",
-    "aciklama": "elektromanyetik dalgaların hiçbir engel olmadan boşlukta yayılırken mesafenin karesiyle ters orantılı olarak enerjisini kaybetmesi.",
+    "kelime": "yol kaybı",
+    "aciklama": "radyo dalgasının kaynaktan alıcıya doğru yayılırken mesafeye bağlı olarak sinyal gücünün azalması ve zayıflaması.",
     "yasakli_kelimeler": [
-      "boşluk",
+      "sinyal zayıflaması",
       "mesafe",
-      "yayılma",
-      "kayıp",
-      "geometrik"
+      "güç düşüşü",
+      "uzaklaşma",
+      "anten iletimi"
     ],
     "zorluk": "zor"
   },
@@ -814,28 +814,28 @@
   {
     "id": 59,
     "kategori": "telekomunikasyon",
-    "kelime": "tam çift yönlü iletişim",
-    "aciklama": "her iki tarafın da aynı anda birbirine sinyal gönderebildiği ve alabildiği kesintisiz eşzamanlı iletişim türü.",
+    "kelime": "tam çift yön",
+    "aciklama": "verilerin aynı anda ve eşzamanlı olarak her iki yönde de kesintisiz iletilebildiği iletişim kanalı.",
     "yasakli_kelimeler": [
       "eşzamanlı",
-      "karşılıklı",
-      "aynı anda",
-      "çift yön",
-      "iletişim"
+      "çift taraflı",
+      "iki yönlü",
+      "iletişim kanalı",
+      "aynı anda"
     ],
     "zorluk": "orta"
   },
   {
     "id": 60,
     "kategori": "telekomunikasyon",
-    "kelime": "yarı çift yönlü iletişim",
-    "aciklama": "telsizlerde olduğu gibi her iki yönde de iletişim sağlanabilen fakat aynı anda sadece tek bir tarafın konuşabildiği sistem.",
+    "kelime": "yarı çift yön",
+    "aciklama": "verilerin her iki yönde de iletilebildiği fakat aynı anda değil, sırayla tek yönde aktarıldığı iletişim kanalı.",
     "yasakli_kelimeler": [
-      "telsiz",
       "sırayla",
-      "tek taraf",
-      "mandallı",
-      "iletişim"
+      "telsiz mantığı",
+      "tek yönlü geçiş",
+      "haberleşme",
+      "kanal payı"
     ],
     "zorluk": "orta"
   },
@@ -954,14 +954,14 @@
   {
     "id": 69,
     "kategori": "telekomunikasyon",
-    "kelime": "ip üzerinden ses iletimi",
-    "aciklama": "analog ses dalgalarını dijital veri paketlerine dönüştürerek internet ve ip ağları üzerinden telefon görüşmesi yapma teknolojisi.",
+    "kelime": "voip",
+    "aciklama": "sesli konuşmaların geleneksel telefon hatları yerine internet protokolü üzerinden dijital paketler halinde iletilmesi.",
     "yasakli_kelimeler": [
-      "telefon",
-      "internet",
-      "paket",
-      "arama",
-      "ses"
+      "internet araması",
+      "ses paketleri",
+      "dijital telefon",
+      "şebeke",
+      "protokol"
     ],
     "zorluk": "kolay"
   },
@@ -996,28 +996,28 @@
   {
     "id": 72,
     "kategori": "telekomunikasyon",
-    "kelime": "gerçek zamanlı aktarım protokolü",
-    "aciklama": "canlı ses ve video akışlarını zaman damgası ve sıra numarası ekleyerek gecikmesiz taşımak için udp üzerinde çalışan protokol.",
+    "kelime": "rtp",
+    "aciklama": "ses ve video gibi zaman duyarlı medya akışlarının internet üzerinden gerçek zamanlı aktarılmasını sağlayan ağ protokolü.",
     "yasakli_kelimeler": [
-      "canlı akış",
-      "zaman damgası",
-      "udp",
-      "ses",
-      "video"
+      "akış iletimi",
+      "ses video",
+      "paket aktarımı",
+      "zaman duyarlı",
+      "protokol"
     ],
     "zorluk": "orta"
   },
   {
     "id": 73,
     "kategori": "telekomunikasyon",
-    "kelime": "çoklu protokol etiket anahtarlama",
-    "aciklama": "karmaşık ip yönlendirme tabloları yerine paketlere kısa etiketler yapıştırarak omurga ağlarda ultra hızlı paket yönlendiren teknoloji.",
+    "kelime": "mpls",
+    "aciklama": "büyük ağlarda veri paketlerine kısa etiketler ekleyerek yönlendiricilerin karmaşık adres tabloları yerine hızlıca etiketle yönlendirme yapmasını sağlayan teknoloji.",
     "yasakli_kelimeler": [
       "etiket",
       "yönlendirme",
-      "omurga",
-      "hızlı",
-      "anahtarlama"
+      "hızlı paket",
+      "omurga ağı",
+      "trafik mühendisliği"
     ],
     "zorluk": "zor"
   },
@@ -1066,14 +1066,14 @@
   {
     "id": 77,
     "kategori": "telekomunikasyon",
-    "kelime": "önce en kısa yolu aç",
-    "aciklama": "bir kurumsal yerel ağ içindeki tüm yönlendiricilerin bağlantı durumu veritabanını paylaşarak dijkstra algoritmasıyla en iyi rotayı bulduğu protokol.",
+    "kelime": "ospf",
+    "aciklama": "ip ağlarında paketlerin kaynaktan hedefe en kısa yoldan gitmesini sağlayan açık ve yaygın bir iç yönlendirme protokolü.",
     "yasakli_kelimeler": [
       "en kısa yol",
-      "iç yönlendirme",
-      "bağlantı durumu",
+      "yönlendirme",
       "dijkstra",
-      "harita"
+      "iç protokol",
+      "paket rotası"
     ],
     "zorluk": "orta"
   },
@@ -1164,14 +1164,14 @@
   {
     "id": 84,
     "kategori": "telekomunikasyon",
-    "kelime": "gigabit pasif optik ağ",
-    "aciklama": "santral ile aboneler arasında elektriksel güç gerektirmeyen optik bölücüler kullanarak fiber interneti evlere dağıtan şebeke standardı.",
+    "kelime": "gpon",
+    "aciklama": "santralden son kullanıcıya kadar tek bir fiber kılı pasif optik bölücülerle bölüştürerek yüksek hızlı internet sunan pasif optik ağ mimarisi.",
     "yasakli_kelimeler": [
-      "pasif",
       "fiber internet",
-      "bölücü",
+      "pasif bölücü",
       "santral",
-      "abone"
+      "yüksek hız",
+      "geniş bant"
     ],
     "zorluk": "zor"
   },
@@ -1234,28 +1234,28 @@
   {
     "id": 89,
     "kategori": "telekomunikasyon",
-    "kelime": "kod bölmeli çoklu erişim",
-    "aciklama": "tüm kullanıcıların aynı frekansı ve aynı zaman dilimini kullandığı, birbirlerinin sinyalini benzersiz matematiksel kodlarla ayırdığı mobil erişim yöntemi.",
+    "kelime": "cdma",
+    "aciklama": "aynı frekans bandını kullanan birden fazla kullanıcının verilerini her birine benzersiz bir kod atayarak ayıran çoklu erişim yöntemi.",
     "yasakli_kelimeler": [
-      "kod",
-      "aynı frekans",
-      "ortogonal",
-      "üçüncü nesil",
-      "erişim"
+      "benzersiz kod",
+      "çoklu erişim",
+      "şifreleme",
+      "frekans bandı",
+      "hücresel"
     ],
     "zorluk": "orta"
   },
   {
     "id": 90,
     "kategori": "telekomunikasyon",
-    "kelime": "küresel mobil iletişim sistemi",
-    "aciklama": "dijital hücresel telefon görüşmelerini ve sms mesajlaşmasını dünya çapında standartlaştıran ikinci nesil kablosuz ağ standardı.",
+    "kelime": "gsm",
+    "aciklama": "dünya genelinde mobil telefon haberleşmesinde yaygın olarak kullanılan ikinci nesil küresel hücresel ağ standardı.",
     "yasakli_kelimeler": [
-      "ikinci nesil",
-      "küresel",
-      "sim kart",
-      "ses",
-      "standart"
+      "cep telefonu",
+      "hücresel ağ",
+      "şebeke",
+      "2g standardı",
+      "sim kart"
     ],
     "zorluk": "orta"
   },
@@ -1276,28 +1276,28 @@
   {
     "id": 92,
     "kategori": "telekomunikasyon",
-    "kelime": "lte üzerinden ses iletimi",
-    "aciklama": "geleneksel 2g veya 3g ses şebekelerine düşmeden doğrudan 4g lte veri kanalı üzerinden kristal berraklığında hd ses görüşmesi yapma teknolojisi.",
+    "kelime": "volte",
+    "aciklama": "sesli aramaların dördüncü nesil lte veri ağı üzerinden yüksek ses kalitesiyle gerçekleştirilmesini sağlayan teknoloji.",
     "yasakli_kelimeler": [
-      "hd ses",
-      "dördüncü nesil",
-      "telefon görüşmesi",
-      "paket",
-      "berraklık"
+      "4g lte",
+      "yüksek ses kalitesi",
+      "arama şebekesi",
+      "dijital ses",
+      "mobil görüşme"
     ],
     "zorluk": "orta"
   },
   {
     "id": 93,
     "kategori": "telekomunikasyon",
-    "kelime": "uzun menzilli geniş alan ağı",
-    "aciklama": "nesnelerin interneti sensörlerinin madeni parayla yıllarca çalışan pillerle kilometrelerce öteden çok düşük güçle küçük veriler iletmesini sağlayan protokol.",
+    "kelime": "lorawan",
+    "aciklama": "düşük güç tüketen nesnelerin interneti cihazlarının kilometrelerce mesafeden kablosuz veri aktarmasını sağlayan uzun menzilli geniş alan ağı protokolü.",
     "yasakli_kelimeler": [
-      "nesnelerin interneti",
-      "düşük güç",
       "uzun menzil",
-      "sensör",
-      "pil"
+      "düşük güç",
+      "iot",
+      "pil ömrü",
+      "sensör ağı"
     ],
     "zorluk": "orta"
   },
@@ -1360,14 +1360,14 @@
   {
     "id": 98,
     "kategori": "telekomunikasyon",
-    "kelime": "optik zaman alanı reflektometresi",
-    "aciklama": "fiber kabloya lazer darbeleri gönderip geri yansıyan ışığı ölçerek kablodaki kırıkları, ek noktalarını ve kayıpları tespit eden cihaz.",
+    "kelime": "otdr",
+    "aciklama": "fiber optik kablolardaki kırıkları, ek kayıplarını ve hat uzunluğunu ışık darbeleri gönderip yansımasını ölçerek bulan test cihazı.",
     "yasakli_kelimeler": [
-      "fiber",
-      "kırık tespit",
-      "yansıma",
-      "ölçüm aleti",
-      "lazer darbesi"
+      "fiber optik test",
+      "kırık tespiti",
+      "ışık yansıması",
+      "zayıflama ölçümü",
+      "cihaz"
     ],
     "zorluk": "zor"
   },

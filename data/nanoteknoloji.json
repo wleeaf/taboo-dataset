@@ -142,8 +142,8 @@
   {
     "id": 11,
     "kategori": "nanoteknoloji",
-    "kelime": "aşağıdan yukarıya yaklaşım",
-    "aciklama": "malzemeleri ve yapıları tek tek atomları ve molekülleri bir araya getirerek inşa etme nano sentez stratejisi.",
+    "kelime": "alttan yukarı",
+    "aciklama": "Nanoyapıları atom ve molekülleri kimyasal veya fiziksel olarak tek tek birleştirerek inşa etme yaklaşımı.",
     "yasakli_kelimeler": [
       "bottom up",
       "atom",
@@ -156,8 +156,8 @@
   {
     "id": 12,
     "kategori": "nanoteknoloji",
-    "kelime": "yukarıdan aşağıya yaklaşım",
-    "aciklama": "büyük kütleli malzemeleri aşındırma, öğütme veya oyma yoluyla küçülterek nano yapılara dönüştürme yöntemi.",
+    "kelime": "üstten aşağı",
+    "aciklama": "Büyük kütleli malzemeleri aşındırma, litografi veya öğütme ile nanometre boyutuna küçültme yöntemi.",
     "yasakli_kelimeler": [
       "top down",
       "aşındırma",
@@ -184,13 +184,13 @@
   {
     "id": 14,
     "kategori": "nanoteknoloji",
-    "kelime": "hedefe yönelik ilaç iletimi",
-    "aciklama": "nano taşıyıcılar kullanarak ilacın sağlıklı hücrelere zarar vermeden yalnızca hasta hücrelere salınması yöntemi.",
+    "kelime": "hedefli ilaç",
+    "aciklama": "Kanser gibi hastalıklarda ilacın sadece hastalıklı hücrelere giderek yan etkileri azaltmasını sağlayan nanotaşıyıcı sistem.",
     "yasakli_kelimeler": [
       "kanser",
       "taşıyıcı",
       "tümör",
-      "ilaç",
+      "iletim",
       "yan etki"
     ],
     "zorluk": "kolay"
@@ -366,42 +366,42 @@
   {
     "id": 27,
     "kategori": "nanoteknoloji",
-    "kelime": "kimyasal buhar biriktirme",
-    "aciklama": "gaz fazındaki kimyasal öncüllerin yüksek sıcaklıkta tepkimeye girerek yüzeyde ince katı filmler oluşturduğu kaplama tekniği.",
+    "kelime": "cvd kaplama",
+    "aciklama": "Uçucu gaz fazındaki öncül maddelerin kimyasal tepkimesiyle yüzeyde ince film tabakası oluşturma tekniği.",
     "yasakli_kelimeler": [
-      "cvd",
       "buhar",
       "gaz",
       "film",
-      "kaplama"
+      "reaksiyon",
+      "biriktirme"
     ],
     "zorluk": "orta"
   },
   {
     "id": 28,
     "kategori": "nanoteknoloji",
-    "kelime": "fiziksel buhar biriktirme",
-    "aciklama": "malzemenin vakum altında buharlaştırılarak veya sıçratılarak altlık üzerine nano kalınlıkta ince film halinde çökeltilmesi.",
+    "kelime": "pvd kaplama",
+    "aciklama": "Katı hedefin vakum ortamında buharlaştırılıp altlık üzerine çökeltilmesiyle yapılan fiziksel kaplama yöntemi.",
     "yasakli_kelimeler": [
-      "pvd",
       "vakum",
       "sıçratma",
       "buharlaşma",
-      "çökeltme"
+      "çökeltme",
+      "fiziksel"
     ],
     "zorluk": "orta"
   },
   {
     "id": 29,
     "kategori": "nanoteknoloji",
-    "kelime": "atomik katman biriktirme",
-    "aciklama": "birbirini takip eden kendiliğinden sınırlı gaz reaksiyonlarıyla yüzeyde atom atom film büyüten yüksek hassasiyetli teknik.",
+    "kelime": "ald tekniği",
+    "aciklama": "Öncül gazları sırayla göndererek malzeme yüzeyinde tek atom veya molekül kalınlığında film büyütme yöntemi.",
     "yasakli_kelimeler": [
-      "ald",
       "tek katman",
       "hassas",
       "öncül",
-      "film"
+      "film",
+      "kaplama"
     ],
     "zorluk": "orta"
   },
@@ -422,22 +422,22 @@
   {
     "id": 31,
     "kategori": "nanoteknoloji",
-    "kelime": "elektron demeti litografisi",
-    "aciklama": "odaklanmış yüksek enerjili bir elektron ışını ile yüzeydeki duyarlı kimyasal katmana nano desenler yazma tekniği.",
+    "kelime": "elektron litografisi",
+    "aciklama": "Elektron demetiyle resist üzerine doğrudan çizim yaparak nanometre çözünürlükte desen çıkarma işlemi.",
     "yasakli_kelimeler": [
       "e-beam",
       "ışın",
       "çözünürlük",
       "elektron",
-      "yazma"
+      "desen"
     ],
     "zorluk": "orta"
   },
   {
     "id": 32,
     "kategori": "nanoteknoloji",
-    "kelime": "nano gözenekli malzeme",
-    "aciklama": "yapısında nanometre boyutlarında düzenli boşluklar ve kanallar barındıran, filtreleme ve gaz depolamada kullanılan yapı.",
+    "kelime": "nanogözenek",
+    "aciklama": "Boyutları 1 ile 100 nanometre arasında değişen, gaz depolama ve filtrelemede kullanılan mikroskobik delikli yapı.",
     "yasakli_kelimeler": [
       "gözenek",
       "boşluk",
@@ -548,22 +548,22 @@
   {
     "id": 40,
     "kategori": "nanoteknoloji",
-    "kelime": "titanyum dioksit nano parçacığı",
-    "aciklama": "güneş kremlerinde uv ışınlarını kırmak ve fotokatalitik kendi kendini temizleyen camlarda kullanılan beyaz mineral parçacık.",
+    "kelime": "titanyum dioksit",
+    "aciklama": "Güneş kremlerinde UV engelleyici ve fotokatalitik olarak kullanılan beyaz inorganik nano parçacık.",
     "yasakli_kelimeler": [
       "güneş kremi",
       "tio2",
       "uv",
       "fotokataliz",
-      "beyaz"
+      "parçacık"
     ],
     "zorluk": "orta"
   },
   {
     "id": 41,
     "kategori": "nanoteknoloji",
-    "kelime": "gümüş nano parçacığı",
-    "aciklama": "yüksek antibakteriyel özellikleri sayesinde medikal bandajlarda ve tekstilde bakteri üremesini engelleyen nano parçacık.",
+    "kelime": "nano gümüş",
+    "aciklama": "Güçlü antibakteriyel özellikleri sebebiyle pansuman, yara örtüsü ve kaplamalarda kullanılan gümüş parçacıkları.",
     "yasakli_kelimeler": [
       "antibakteriyel",
       "gümüş",
@@ -576,8 +576,8 @@
   {
     "id": 42,
     "kategori": "nanoteknoloji",
-    "kelime": "altın nano parçacığı",
-    "aciklama": "optik özellikleri boyuta göre değişen, kanser fototermal terapisinde ve biyosensörlerde yaygın kullanılan soy metal nano yapısı.",
+    "kelime": "nano altın",
+    "aciklama": "Farklı boyutlarında kırmızı ve mor renkler veren, kanser tanısında ve biyosensörlerde kullanılan altın parçacıkları.",
     "yasakli_kelimeler": [
       "altın",
       "renk",
@@ -660,28 +660,28 @@
   {
     "id": 48,
     "kategori": "nanoteknoloji",
-    "kelime": "nano baskı litografisi",
-    "aciklama": "nano ölçekli kabartma kalıbın polimer tabakaya fiziksel olarak bastırılmasıyla yüksek çözünürlüklü desen oluşturma tekniği.",
+    "kelime": "nano baskı",
+    "aciklama": "Sert bir nanokalıbı ısı veya UV altında polimer tabakaya presleyerek desen kopyalama tekniği.",
     "yasakli_kelimeler": [
       "damgalama",
       "kalıp",
       "baskı",
       "polimer",
-      "mekanik"
+      "pres"
     ],
     "zorluk": "orta"
   },
   {
     "id": 49,
     "kategori": "nanoteknoloji",
-    "kelime": "odaklanmış iyon demeti",
-    "aciklama": "ince bir galyum iyonu demetiyle malzemeleri nano hassasiyetle kesme, aşındırma ve mikro kesit alma aracı.",
+    "kelime": "iyon demeti",
+    "aciklama": "Hızlandırılmış galyum iyonlarıyla malzemeleri atomik hassasiyette kesip oymaya yarayan sistem.",
     "yasakli_kelimeler": [
       "fib",
       "galyum",
-      "iyon",
       "aşındırma",
-      "kesit"
+      "kesit",
+      "mikroskop"
     ],
     "zorluk": "orta"
   },
@@ -716,28 +716,28 @@
   {
     "id": 52,
     "kategori": "nanoteknoloji",
-    "kelime": "x-ışını fotoelektron spektroskopisi",
-    "aciklama": "numune yüzeyine x-ışını gönderip kopan fotoelektronların kinetik enerjisini ölçerek elemental kimyasal analizi yapan yöntem.",
+    "kelime": "xps analizi",
+    "aciklama": "X-ışınlarıyla yüzeyden koparılan fotoelektronların enerjisini ölçerek element ve bağ tespiti yapan yöntem.",
     "yasakli_kelimeler": [
-      "xps",
       "yüzey analizi",
       "fotoelektron",
       "element",
-      "bağ enerjisi"
+      "bağ enerjisi",
+      "x-ışını"
     ],
     "zorluk": "orta"
   },
   {
     "id": 53,
     "kategori": "nanoteknoloji",
-    "kelime": "dinamik ışık saçılması",
-    "aciklama": "süspansiyondaki nano parçacıkların brownian hareketinden kaynaklanan ışık şiddeti dalgalanmalarını ölçerek boyut analizi yapan teknik.",
+    "kelime": "dls analizi",
+    "aciklama": "Sıvıdaki nano parçacıkların Brown hareketinden saçılan lazer ışığını inceleyerek boyut dağılımı ölçen yöntem.",
     "yasakli_kelimeler": [
-      "dls",
       "parçacık boyutu",
       "brown hareketi",
       "lazer",
-      "saçılma"
+      "saçılma",
+      "kolloid"
     ],
     "zorluk": "orta"
   },
@@ -772,8 +772,8 @@
   {
     "id": 56,
     "kategori": "nanoteknoloji",
-    "kelime": "van der waals kuvvetleri",
-    "aciklama": "nano ölçekte nesneler arasındaki kalıcı veya geçici dipol kutuplanmalarından doğan zayıf moleküller arası çekim kuvveti.",
+    "kelime": "van der waals",
+    "aciklama": "Atomlar ve moleküller arasında elektriksel kutuplanmalardan kaynaklanan zayıf çekim etkileşimi.",
     "yasakli_kelimeler": [
       "çekim",
       "dipol",
@@ -926,8 +926,8 @@
   {
     "id": 67,
     "kategori": "nanoteknoloji",
-    "kelime": "nano gözenekli membran",
-    "aciklama": "tuz iyonlarını tutarken su moleküllerini geçiren veya gazları ayıran son derece seçici nano filtre zarı.",
+    "kelime": "nanomembran",
+    "aciklama": "Tuzdan arındırma ve su tasfiyesinde belirli iyon ve molekülleri süzen nanometre gözenekli seçici zar.",
     "yasakli_kelimeler": [
       "tuzdan arındırma",
       "zar",
@@ -996,11 +996,11 @@
   {
     "id": 72,
     "kategori": "nanoteknoloji",
-    "kelime": "silika nano parçacığı",
-    "aciklama": "gözenekli yapısına ilaç yüklenebilen ve kontrollü salınım sağlayan silikon dioksit bazlı dayanıklı taşıyıcı.",
+    "kelime": "nano silika",
+    "aciklama": "Silisyum dioksit bazlı, gözenekli yapısıyla ilaç taşıyıcı ve takviye dolgu olarak kullanılan nanoparçacık.",
     "yasakli_kelimeler": [
       "sio2",
-      "ilaç salınımı",
+      "ilaç iletimi",
       "gözenek",
       "cam",
       "taşıyıcı"
@@ -1010,14 +1010,14 @@
   {
     "id": 73,
     "kategori": "nanoteknoloji",
-    "kelime": "kontrollü ilaç salınımı",
-    "aciklama": "nano taşıyıcı içindeki etken maddenin belirli bir ph, sıcaklık veya enzime maruz kaldığında yavaşça serbest kalması.",
+    "kelime": "kontrollü salım",
+    "aciklama": "Vücuda verilen ilacın belirli bir zaman diliminde veya belirli bir pH/sıcaklıkta yavaşça serbest bırakılması.",
     "yasakli_kelimeler": [
+      "ilaç",
       "zaman",
       "hedef",
-      "serbest kalma",
       "tetikleyici",
-      "ph"
+      "kapsül"
     ],
     "zorluk": "orta"
   },
@@ -1080,14 +1080,14 @@
   {
     "id": 78,
     "kategori": "nanoteknoloji",
-    "kelime": "yanal akış testi",
-    "aciklama": "gebelik ve hızlı antijen testlerinde kullanılan, altın nano parçacıklarıyla renkli çizgi oluşturan tanı kiti.",
+    "kelime": "hızlı test",
+    "aciklama": "Gebelik veya virüs testlerinde kılcal akış ve nano altın işaretleyicilerle dakikalar içinde sonuç veren tanı kiti.",
     "yasakli_kelimeler": [
-      "hızlı test",
       "çizgi",
       "antijen",
       "gebelik",
-      "altın parçacık"
+      "altın parçacık",
+      "kit"
     ],
     "zorluk": "orta"
   },
@@ -1108,14 +1108,14 @@
   {
     "id": 80,
     "kategori": "nanoteknoloji",
-    "kelime": "tek elektron transistörü",
-    "aciklama": "kuantum ada üzerindeki tek bir elektronun tünelleme hareketini kontrol ederek çalışan aşırı hassas anahtar.",
+    "kelime": "tek elektron",
+    "aciklama": "Coulomb blokajı prensibiyle tek bir elektronun tünelleme hareketini anahtarlayan nanocihaz.",
     "yasakli_kelimeler": [
-      "tek elektron",
       "ada",
       "tünelleme",
       "anahtarlama",
-      "coulomb ablukası"
+      "coulomb ablukası",
+      "transistör"
     ],
     "zorluk": "orta"
   },
@@ -1136,14 +1136,14 @@
   {
     "id": 82,
     "kategori": "nanoteknoloji",
-    "kelime": "nano mekanik rezonatör",
-    "aciklama": "çok yüksek frekanslarda titreşerek tek bir molekülün kütlesini bile tartabilecek hassasiyetteki nano terazi.",
+    "kelime": "nanorezonatör",
+    "aciklama": "Mekanik titreşim frekansı sayesinde tek bir molekülün veya virüsün kütlesini ölçebilen minyatür algılayıcı.",
     "yasakli_kelimeler": [
       "kütle",
       "frekans",
       "titreşim",
       "terazi",
-      "hassas tartım"
+      "tartım"
     ],
     "zorluk": "orta"
   },
@@ -1178,14 +1178,14 @@
   {
     "id": 85,
     "kategori": "nanoteknoloji",
-    "kelime": "kendi kendini onaran malzeme",
-    "aciklama": "içerisinde nano kapsüller barındıran ve mikroskobik çatlaklar oluştuğunda bu kapsüller patlayarak çatlağı kapatan malzeme.",
+    "kelime": "kendini onarma",
+    "aciklama": "İçindeki mikro kapsüller patlayarak oluşan çatlakları dış müdahale olmadan kendiliğinden tamir eden malzeme.",
     "yasakli_kelimeler": [
       "çatlak",
       "kapsül",
       "iyileşme",
-      "onarım",
-      "akıllı malzeme"
+      "akıllı malzeme",
+      "polimer"
     ],
     "zorluk": "kolay"
   },
@@ -1290,42 +1290,42 @@
   {
     "id": 93,
     "kategori": "nanoteknoloji",
-    "kelime": "mikro elektromekanik sistemler",
-    "aciklama": "küçük boyutlu sensör ve mekanik parçaları tek bir silikon mikro çip üzerinde birleştiren entegre cihaz teknolojisi.",
+    "kelime": "mems",
+    "aciklama": "Mikron boyutundaki mekanik ve elektronik unsurları tek bir silikon çipte birleştiren mikro sistemler.",
     "yasakli_kelimeler": [
-      "mems",
       "silikon",
       "çip",
       "mikro",
-      "sensör"
+      "sensör",
+      "ivmeölçer"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 94,
     "kategori": "nanoteknoloji",
-    "kelime": "nano elektromekanik sistemler",
-    "aciklama": "elektrik ve mekanik parçaların nanometre boyutlarına indirgendiği aşırı düşük güçle çalışan nano ölçekli sistemler.",
+    "kelime": "nems",
+    "aciklama": "Nanometre ölçeğindeki elektrik ve hareket mekanizmalarını entegre eden ultra hassas sistemler.",
     "yasakli_kelimeler": [
-      "nems",
       "mekanik",
       "çip",
       "minyatür",
-      "aktüatör"
+      "aktüatör",
+      "nanoteknoloji"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 95,
     "kategori": "nanoteknoloji",
-    "kelime": "fotovoltaik nano hücre",
-    "aciklama": "güneş ışığını soğurmak için kuantum noktaları ve nano teller kullanarak verimi artıran yeni nesil güneş pili.",
+    "kelime": "nanogüneş hücresi",
+    "aciklama": "Işığı emme ve elektron iletimini artırmak için kuantum noktaları veya nano teller kullanan fotovoltaik hücre.",
     "yasakli_kelimeler": [
       "güneş pili",
       "fotovoltaik",
       "elektrik üretimi",
       "verim",
-      "güneş paneli"
+      "panel"
     ],
     "zorluk": "orta"
   },
@@ -1360,14 +1360,14 @@
   {
     "id": 98,
     "kategori": "nanoteknoloji",
-    "kelime": "termal arayüz malzemesi",
-    "aciklama": "işlemci ile soğutucu arasındaki mikroskobik pürüzleri doldurarak ısı iletimini maksimize eden karbon katkılı nano macun.",
+    "kelime": "termal macun",
+    "aciklama": "İşlemci ile soğutucu blok arasındaki mikroskobik boşlukları doldurarak ısı transferini sağlayan nano katkılı bileşik.",
     "yasakli_kelimeler": [
-      "termal macun",
       "soğutucu",
       "işlemci",
       "ısı iletimi",
-      "macun"
+      "macun",
+      "fan"
     ],
     "zorluk": "orta"
   },
@@ -1388,12 +1388,12 @@
   {
     "id": 100,
     "kategori": "nanoteknoloji",
-    "kelime": "yeşil nano sentez",
-    "aciklama": "toksik kimyasallar yerine bitki özütleri, mantarlar veya bakteriler kullanarak çevre dostu yollarla nano parçacık üretimi.",
+    "kelime": "yeşil sentez",
+    "aciklama": "Zararlı kimyasallar yerine bitki özütleri ve mikroorganizmaları kullanarak çevre dostu nano parçacık üretme yöntemi.",
     "yasakli_kelimeler": [
       "çevre dostu",
       "bitki özütü",
-      "toksik olmayan",
+      "toksik",
       "sürdürülebilir",
       "biyo-sentez"
     ],

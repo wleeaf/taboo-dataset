@@ -660,14 +660,14 @@
   {
     "id": 48,
     "kategori": "optik",
-    "kelime": "optik yol uzunluğu",
-    "aciklama": "ışığın bir ortamda katettiği geometrik mesafenin ortamın kırılma indisi ile çarpımı sonucu elde edilen eşdeğer boşluk mesafesi.",
+    "kelime": "optik yol",
+    "aciklama": "Işığın bir ortamda katettiği geometrik mesafenin ortamın kırılma indisiyle çarpımı olan faz mesafesi.",
     "yasakli_kelimeler": [
       "indis",
       "geometrik",
       "mesafe",
       "faz",
-      "boşluk"
+      "kırılma"
     ],
     "zorluk": "orta"
   },
@@ -702,8 +702,8 @@
   {
     "id": 51,
     "kategori": "optik",
-    "kelime": "çeyrek dalga plakası",
-    "aciklama": "birbirine dik iki optik eksen arasında doksan derecelik faz farkı yaratarak doğrusal ışığı dairesel polarize ışığa çeviren levha.",
+    "kelime": "çeyrek dalga",
+    "aciklama": "Işığın dik polarizasyon bileşenleri arasında 90 derecelik faz farkı oluşturan çift kırılımlı plaka.",
     "yasakli_kelimeler": [
       "dairesel",
       "gecikme",
@@ -716,8 +716,8 @@
   {
     "id": 52,
     "kategori": "optik",
-    "kelime": "yarım dalga plakası",
-    "aciklama": "dik polarizasyon bileşenleri arasında yüz seksen derecelik faz farkı oluşturarak doğrusal polarizasyon eksenini döndüren optik bileşen.",
+    "kelime": "yarım dalga",
+    "aciklama": "Işığın dik polarizasyon bileşenleri arasında 180 derecelik faz farkı oluşturup polarizasyonu döndüren plaka.",
     "yasakli_kelimeler": [
       "döndürme",
       "yüz seksen",
@@ -870,28 +870,28 @@
   {
     "id": 63,
     "kategori": "optik",
-    "kelime": "fotonik bant aralığı",
-    "aciklama": "fotonik kristallerde fotonların yapı içinde hiçbir doğrultuda yayılamadığı yasaklı enerji veya frekans bölgesi.",
+    "kelime": "fotonik bant",
+    "aciklama": "Fotonik kristallerde belirli dalga boyundaki ışık fotonlarının geçişinin engellendiği yasak aralık.",
     "yasakli_kelimeler": [
       "yasak bölge",
       "frekans",
       "enerji",
       "yayılma",
-      "durma"
+      "kristal"
     ],
     "zorluk": "zor"
   },
   {
     "id": 64,
     "kategori": "optik",
-    "kelime": "yansıma önleyici kaplama",
-    "aciklama": "mercek yüzeyine uygulanan ve yıkıcı girişim yoluyla ışık kaybını önleyip geçirgenliği artıran çok ince dielektrik film.",
+    "kelime": "antirefle kaplama",
+    "aciklama": "Gözlük camı ve merceklerde ışığın geri yansımasını engelleyip geçirgenliği artıran ince katman.",
     "yasakli_kelimeler": [
-      "kaplama",
       "mercek",
       "girişim",
       "parlama",
-      "geçirgenlik"
+      "geçirgenlik",
+      "yansıma"
     ],
     "zorluk": "kolay"
   },
@@ -1136,14 +1136,14 @@
   {
     "id": 82,
     "kategori": "optik",
-    "kelime": "toplam iç yansıma mikroskobu",
-    "aciklama": "avanik alan dalgasını kullanarak yalnızca hücre zarı ve temas yüzeyindeki olayları son derece ince kesitte görüntüleyen teknik.",
+    "kelime": "tirf mikroskobu",
+    "aciklama": "Tam iç yansımadan doğan evanesan dalgalarla hücre zarına çok yakın 100 nm'lik katmanı aydınlatan mikroskop.",
     "yasakli_kelimeler": [
-      "tirf",
-      "avanik alan",
+      "evanesan",
       "hücre zarı",
       "ince katman",
-      "yansıma"
+      "yansıma",
+      "floresan"
     ],
     "zorluk": "zor"
   },
@@ -1164,14 +1164,14 @@
   {
     "id": 84,
     "kategori": "optik",
-    "kelime": "optik koherens tomografisi",
-    "aciklama": "düşük koheranslı kızılötesi ışık interferometrisi ile biyolojik dokulardan mikrometre çözünürlüğünde kesit görüntüleri alan yöntem.",
+    "kelime": "optik tomografi",
+    "aciklama": "Düşük koherensli ışık girişimini kullanarak göz retinası ve dokulardan mikrometre çözünürlükte kesit alan yöntem.",
     "yasakli_kelimeler": [
       "oct",
       "göz",
       "kesit",
       "retina",
-      "tomografi"
+      "koherens"
     ],
     "zorluk": "orta"
   },
@@ -1234,14 +1234,14 @@
   {
     "id": 89,
     "kategori": "optik",
-    "kelime": "ikinci harmonik üretimi",
-    "aciklama": "merkezcil simetrisi olmayan bir kristale giren iki fotonun birleşerek tam iki kat frekansta yeni bir foton oluşturması olayı.",
+    "kelime": "ikinci harmonik",
+    "aciklama": "Doğrusal olmayan optik kristalde iki fotonun birleşip frekansı iki katına çıkmış tek foton yayması süreci.",
     "yasakli_kelimeler": [
       "frekans katlama",
       "foton",
       "kristal",
-      "çift frekans",
-      "lazer"
+      "lazer",
+      "çift frekans"
     ],
     "zorluk": "zor"
   },
@@ -1346,14 +1346,14 @@
   {
     "id": 97,
     "kategori": "optik",
-    "kelime": "fresnel yansıma katsayısı",
-    "aciklama": "iki farklı dielektrik ortam sınırında polarizasyona bağlı olarak yansıyan ve iletilen dalga genliklerini belirleyen formül.",
+    "kelime": "fresnel katsayıları",
+    "aciklama": "İki farklı kırılma indisine sahip ortam sınırında ışığın yansıma ve iletim genliklerini hesaplayan oranlar.",
     "yasakli_kelimeler": [
       "katsayı",
       "arayüzey",
       "genlik",
       "polarizasyon",
-      "denklem"
+      "kırılma"
     ],
     "zorluk": "zor"
   },

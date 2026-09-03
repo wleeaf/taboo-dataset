@@ -58,14 +58,14 @@
   {
     "id": 5,
     "kategori": "mekatronik",
-    "kelime": "fırçasız doğru akım motoru",
-    "aciklama": "mekanik fırça ve kollektör yerine elektronik anahtarlama ile çalışan, uzun ömürlü ve yüksek verimli elektrik motoru.",
+    "kelime": "fırçasız motor",
+    "aciklama": "Kollektör ve mekanik fırça yerine elektronik sürücü ile bobinleri anahtarlanan verimli motor.",
     "yasakli_kelimeler": [
       "bldc",
-      "fırçasız",
-      "kollektör",
-      "verim",
-      "rotor"
+      "stator",
+      "rotor",
+      "elektronik",
+      "sürücü"
     ],
     "zorluk": "kolay"
   },
@@ -156,14 +156,14 @@
   {
     "id": 12,
     "kategori": "mekatronik",
-    "kelime": "programlanabilir mantıksal denetleyici",
-    "aciklama": "endüstriyel tesislerdeki zorlu koşullarda üretim hatlarını ve makineleri otomatik yöneten dayanıklı kontrol bilgisayarı.",
+    "kelime": "plc",
+    "aciklama": "Fabrika otomasyonunda sensör ve aktüatörleri yöneten endüstriyel programlanabilir bilgisayar.",
     "yasakli_kelimeler": [
-      "plc",
       "otomasyon",
-      "merdiven mantığı",
+      "endüstriyel",
+      "ladder",
       "fabrika",
-      "röle"
+      "denetleyici"
     ],
     "zorluk": "kolay"
   },
@@ -562,14 +562,14 @@
   {
     "id": 41,
     "kategori": "mekatronik",
-    "kelime": "eriyik yığma modelleme",
-    "aciklama": "termo-plastik filamenti ısıtılmış bir nozuldan eriterek baskı tablası üzerine katman katman seren 3d baskı yöntemi.",
+    "kelime": "fdm",
+    "aciklama": "Termoplastik filamentin nozülde eritilip katman katman serilerek 3D parça üretildiği yöntem.",
     "yasakli_kelimeler": [
-      "fdm",
+      "üç boyutlu",
       "filament",
-      "nozul",
-      "katman",
-      "tabla"
+      "yazıcı",
+      "nozül",
+      "katman"
     ],
     "zorluk": "orta"
   },
@@ -590,28 +590,28 @@
   {
     "id": 43,
     "kategori": "mekatronik",
-    "kelime": "otomatik yönlendirmeli araç",
-    "aciklama": "fabrika zeminine çekilen manyetik şeritleri, optik çizgileri veya lazer reflektörleri takip ederek malzeme taşıyan araç.",
+    "kelime": "agv",
+    "aciklama": "Fabrika veya depolarda zemin çizgilerini, manyetik şeritleri veya lazeri izleyerek yük taşıyan otonom araç.",
     "yasakli_kelimeler": [
-      "agv",
-      "şerit takip",
-      "manyetik bant",
-      "fabrika içi",
-      "taşıma"
+      "taşıyıcı",
+      "depo",
+      "fabrika",
+      "otonom",
+      "yük"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 44,
     "kategori": "mekatronik",
-    "kelime": "eşzamanlı konumlandırma ve haritalama",
-    "aciklama": "bir robotun daha önce hiç bilmediği bir ortama girdiğinde haritayı çıkarırken aynı anda kendi konumunu belirlemesi algoritması.",
+    "kelime": "slam",
+    "aciklama": "Robotun bilinmeyen bir ortamda gezinirken hem harita çıkarıp hem de kendi konumunu belirlemesi.",
     "yasakli_kelimeler": [
-      "slam",
       "harita",
       "konum",
-      "lazer",
-      "keşif"
+      "robot",
+      "lidar",
+      "gezinme"
     ],
     "zorluk": "orta"
   },
@@ -632,14 +632,14 @@
   {
     "id": 46,
     "kategori": "mekatronik",
-    "kelime": "uçuş süresi sensörü",
-    "aciklama": "ışık veya ses dalgasının hedefe çarpıp geri dönmesi için geçen zamanı ölçerek mesafeyi yüksek hızla tespit eden sensör.",
+    "kelime": "tof sensörü",
+    "aciklama": "Işık sinyalinin hedefe gidip dönme süresini ölçerek çok hassas mesafe ve derinlik hesaplayan algılayıcı.",
     "yasakli_kelimeler": [
-      "tof",
+      "mesafe",
       "ışık hızı",
-      "mesafe ölçümü",
-      "yansıma",
-      "zaman"
+      "uçuş süresi",
+      "derinlik",
+      "foton"
     ],
     "zorluk": "orta"
   },
@@ -884,14 +884,14 @@
   {
     "id": 64,
     "kategori": "mekatronik",
-    "kelime": "dağıtılmış kontrol sistemi",
-    "aciklama": "büyük rafineriler ve enerji santrallerinde kontrolün tek bir merkez yerine tesis geneline dağıtılmış kontrolörlerle yapıldığı yapı.",
+    "kelime": "dcs",
+    "aciklama": "Büyük sanayi tesislerinde ve rafinerilerde kontrolün alt işlemcilere paylaştırıldığı dağıtılmış otomasyon sistemi.",
     "yasakli_kelimeler": [
-      "dcs",
-      "rafineri",
-      "santral",
-      "otomasyon",
-      "kontrolör"
+      "proses",
+      "fabrika",
+      "merkezi",
+      "scada",
+      "rafineri"
     ],
     "zorluk": "orta"
   },
@@ -968,14 +968,14 @@
   {
     "id": 70,
     "kategori": "mekatronik",
-    "kelime": "gerçek zamanlı işletim sistemi",
-    "aciklama": "kritik mekatronik görevleri ve kesmeleri kesin olarak belirlenmiş zaman sınırları ve gecikmeler içinde yürüten özel işletim sistemi.",
+    "kelime": "rtos",
+    "aciklama": "Belirli zaman kısıtlamalarına kesin şekilde uyarak görevleri milisaniye hassasiyetinde yürüten işletim sistemi.",
     "yasakli_kelimeler": [
-      "rtos",
-      "kesme",
-      "deterministik",
-      "gecikme",
-      "gömülü"
+      "gerçek zaman",
+      "milisaniye",
+      "gömülü",
+      "işletim sistemi",
+      "gecikme"
     ],
     "zorluk": "orta"
   },
@@ -1206,56 +1206,56 @@
   {
     "id": 87,
     "kategori": "mekatronik",
-    "kelime": "kilitlenmeyi önleyici fren sistemi",
-    "aciklama": "ani frenleme anında tekerleklerin kilitlenip kaymasını önlemek için hidrolik fren basıncını saniyede onlarca kez açıp kapatan mekatronik sistem.",
+    "kelime": "abs",
+    "aciklama": "Ani frende tekerleklerin kilitlenmesini engelleyerek direksiyon hakimiyetini koruyan emniyet sistemi.",
     "yasakli_kelimeler": [
-      "abs",
       "fren",
+      "tekerlek",
+      "kilitlenme",
       "kayma",
-      "tekerlek kilitlenmesi",
-      "basınç"
+      "araba"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 88,
     "kategori": "mekatronik",
-    "kelime": "elektronik denge programı",
-    "aciklama": "aracın savrulma ve kayma tehlikesini sensörlerle algılayıp ilgili tekerleklere otomatik bağımsız fren uygulayarak rotada tutan sistem.",
+    "kelime": "esp",
+    "aciklama": "Aracın virajda savrulmasını algılayıp bağımsız tekerleklere fren uygulayarak rotayı koruyan sürüş destek sistemi.",
     "yasakli_kelimeler": [
-      "esp",
       "savrulma",
       "viraj",
-      "bağımsız fren",
-      "kayma"
+      "denge",
+      "kayma",
+      "stabilite"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 89,
     "kategori": "mekatronik",
-    "kelime": "yakıt enjeksiyon sistemi",
-    "aciklama": "motor kontrol ünitesinden gelen elektrik sinyaliyle silindirlere optimum yakıt püskürten hassas solenoid valf memesi.",
+    "kelime": "enjeksiyon",
+    "aciklama": "Yakıtı silindirlere veya emme manifolduna yüksek basınçla püskürten elektronik kontrollü besleme düzeneği.",
     "yasakli_kelimeler": [
-      "püskürtme",
-      "enjektör",
-      "ecu",
       "yakıt",
-      "meme"
+      "enjektör",
+      "benzin",
+      "püskürtme",
+      "motor"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 90,
     "kategori": "mekatronik",
-    "kelime": "gaz teli yerine kablo ile kontrol",
-    "aciklama": "gaz pedalı ile motor kelebeği arasındaki mekanik kabloyu kaldırıp pedaldaki sensör sinyaliyle motoru süren elektronik gaz kelebeği.",
+    "kelime": "drive by wire",
+    "aciklama": "Gaz, fren veya direksiyonda mekanik bağlantılar yerine tamamen elektronik sinyallerle yönlendirme yapılması.",
     "yasakli_kelimeler": [
-      "drive by wire",
-      "elektronik gaz",
-      "pedal sensörü",
-      "kelebek",
-      "mekaniksiz"
+      "kablo",
+      "elektronik",
+      "gaz pedalı",
+      "aktüatör",
+      "mekanik bağlantı"
     ],
     "zorluk": "orta"
   },
@@ -1304,14 +1304,14 @@
   {
     "id": 94,
     "kategori": "mekatronik",
-    "kelime": "mekanik kam mili",
-    "aciklama": "dönme hareketini özel profilli çıkıntıları vasıtasıyla valf veya iticilerde itme-çekme hareketine dönüştüren şaft.",
+    "kelime": "kam mili",
+    "aciklama": "İçten yanmalı motorlarda subapların açılıp kapanma zamanlamasını mekanik loblarla ayarlayan mil.",
     "yasakli_kelimeler": [
       "subap",
       "eksantrik",
       "profil",
       "itici",
-      "motor şaftı"
+      "motor"
     ],
     "zorluk": "kolay"
   },
@@ -1346,14 +1346,14 @@
   {
     "id": 97,
     "kategori": "mekatronik",
-    "kelime": "elektronik hız kontrolü",
-    "aciklama": "bataryadan gelen dc akımı fırçasız motora iletilecek üç fazlı ac güce çeviren ve motor devrini ayarlayan sürücü kartı.",
+    "kelime": "esc sürücü",
+    "aciklama": "Fırçasız motorlara giden akımı düzenleyerek dönüş hızını hassas biçimde kontrol eden elektronik devre.",
     "yasakli_kelimeler": [
-      "esc",
-      "fırçasız sürücü",
       "hız kontrol",
       "dron",
-      "motor kartı"
+      "motor sürücü",
+      "pwm",
+      "fırçasız"
     ],
     "zorluk": "orta"
   },
@@ -1374,14 +1374,14 @@
   {
     "id": 99,
     "kategori": "mekatronik",
-    "kelime": "kızılötesi engel algılayıcı",
-    "aciklama": "kızılötesi led ile ışık yayıp fototransistör ile yansıyan ışığı algılayarak önündeki nesneyi tespit eden ucuz sensör.",
+    "kelime": "kızılötesi sensör",
+    "aciklama": "Yaydığı kızılötesi ışığın engelden yansımasını algılayarak önündeki cisimleri tespit eden modül.",
     "yasakli_kelimeler": [
-      "kızılötesi led",
-      "fotodiyot",
       "engel",
       "yansıma",
-      "yakınlık"
+      "yakınlık",
+      "fotodiyot",
+      "ışık"
     ],
     "zorluk": "kolay"
   },

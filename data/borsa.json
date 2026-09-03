@@ -128,14 +128,14 @@
   {
     "id": 10,
     "kategori": "borsa",
-    "kelime": "piyasa değeri defter değeri",
-    "aciklama": "şirketin borsa piyasa değerinin muhasebesel özkaynak tutarına bölünmesiyle hesaplanan oran.",
+    "kelime": "pd/dd oranı",
+    "aciklama": "bir şirketin borsadaki piyasa değerinin bilançodaki defter değerine bölünmesiyle bulunan temel değerleme çarpanı.",
     "yasakli_kelimeler": [
-      "pd/dd",
-      "özkaynak",
+      "piyasa değeri",
+      "defter değeri",
       "çarpan",
-      "bilanço",
-      "oran"
+      "oran",
+      "özsermaye"
     ],
     "zorluk": "orta"
   },
@@ -632,14 +632,14 @@
   {
     "id": 46,
     "kategori": "borsa",
-    "kelime": "sermaye varlıklarını fiyatlama modeli",
-    "aciklama": "bir varlığın beklenen getirisini risksiz faiz oranı ve varlığın beta katsayısına dayandırarak açıklayan model.",
+    "kelime": "capm modeli",
+    "aciklama": "bir hisse senedinin veya portföyün beklenen getirisini piyasa riski ve beta katsayısı üzerinden hesaplayan finansal model.",
     "yasakli_kelimeler": [
-      "capm",
+      "sermaye varlıkları",
       "beta",
-      "risksiz faiz",
-      "risk primi",
-      "beklenen getiri"
+      "beklenen getiri",
+      "piyasa riski",
+      "finans"
     ],
     "zorluk": "orta"
   },
@@ -884,14 +884,14 @@
   {
     "id": 64,
     "kategori": "borsa",
-    "kelime": "fiili dolaşımdaki pay oranı",
-    "aciklama": "bir şirketin toplam sermayesinin borsada serbestçe alınıp satılabilen ve kurucu ortaklarca tutulmayan yüzdesi.",
+    "kelime": "fiili dolaşım oranı",
+    "aciklama": "bir şirketin sermayesini temsil eden paylardan borsada alınıp satılmaya hazır olan kısmının toplam sermayeye oranı.",
     "yasakli_kelimeler": [
       "halka açıklık",
-      "oran",
+      "pay",
+      "borsa",
       "yüzde",
-      "likidite",
-      "endeks ağırlığı"
+      "tedavül"
     ],
     "zorluk": "orta"
   },
@@ -1024,13 +1024,13 @@
   {
     "id": 74,
     "kategori": "borsa",
-    "kelime": "omuz baş omuz formasyonu",
-    "aciklama": "yükseliş trendinin sonlandığını ve güçlü bir düşüş trendinin başlayacağını haber veren dönüş formasyonu.",
+    "kelime": "omuz baş omuz",
+    "aciklama": "teknik analizde yükselen bir trendin sona erdiğini ve düşüşün başlayacağını gösteren üç tepeli formasyon.",
     "yasakli_kelimeler": [
-      "oboo",
+      "obo",
+      "formasyon",
+      "tepe",
       "boyun çizgisi",
-      "dönüş",
-      "zirve",
       "trend"
     ],
     "zorluk": "orta"
@@ -1304,14 +1304,14 @@
   {
     "id": 94,
     "kategori": "borsa",
-    "kelime": "ağırlıklı ortalama sermaye maliyeti",
-    "aciklama": "şirketin borç ve özkaynak finansmanının maliyetlerinin sermaye yapısındaki paylarıyla ağırlıklandırılmış ortalaması.",
+    "kelime": "ortalama sermaye maliyeti",
+    "aciklama": "bir şirketin borç ve özkaynak finansmanının ağırlıklarına göre hesaplanan genel finansman maliyeti oranı.",
     "yasakli_kelimeler": [
       "wacc",
-      "sermaye maliyeti",
-      "iskonto oranı",
-      "borç maliyeti",
-      "özkaynak"
+      "özkaynak",
+      "borç",
+      "ağırlıklı ortalama",
+      "finansman"
     ],
     "zorluk": "zor"
   },

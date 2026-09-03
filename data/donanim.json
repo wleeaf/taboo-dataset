@@ -352,28 +352,28 @@
   {
     "id": 26,
     "kategori": "donanim",
-    "kelime": "çift veri hızlı bellek",
-    "aciklama": "saat sinyalinin hem yükselen hem de düşen kenarında veri transferi yaparak bant genişliğini ikiye katlayan ram standardı.",
+    "kelime": "ddr bellek",
+    "aciklama": "saat sinyalinin her iki kenarında da veri aktarımı yaparak bant genişliğini artıran bellek standardı.",
     "yasakli_kelimeler": [
       "ram",
-      "sinyal",
-      "transfer",
-      "kenar",
-      "nesil"
+      "hız",
+      "nesil",
+      "çift veri",
+      "bant genişliği"
     ],
     "zorluk": "orta"
   },
   {
     "id": 27,
     "kategori": "donanim",
-    "kelime": "hata düzeltme kodlu bellek",
-    "aciklama": "sunucularda veri bozulmalarını ve bellek hatalarını anlık tespit edip otomatik düzelten özel güvenilir ram modülü.",
+    "kelime": "ecc bellek",
+    "aciklama": "sunucularda veri bozulmalarını ve bellek hatalarını anlık tespit edip otomatik düzelten güvenilir ram.",
     "yasakli_kelimeler": [
       "sunucu",
+      "hata düzeltme",
       "güvenilirlik",
-      "düzeltme",
-      "hata",
-      "bozulma"
+      "bozulma",
+      "ram"
     ],
     "zorluk": "zor"
   },
@@ -576,28 +576,28 @@
   {
     "id": 42,
     "kategori": "donanim",
-    "kelime": "alanda programlanabilir kapı dizisi",
-    "aciklama": "üretildikten sonra tasarımcının mantıksal donanım mimarisini donanım tanımlama dilleriyle baştan yapılandırabildiği çip.",
+    "kelime": "fpga çipi",
+    "aciklama": "üretildikten sonra donanım tanımlama dilleriyle mantıksal mimarisi baştan programlanabilen entegre devre.",
     "yasakli_kelimeler": [
+      "kapı dizisi",
       "programlanabilir",
-      "donanım",
-      "kapı",
       "mantık",
-      "yapılandırma"
+      "çip",
+      "verilog"
     ],
     "zorluk": "zor"
   },
   {
     "id": 43,
     "kategori": "donanim",
-    "kelime": "uygulamaya özel entegre devre",
-    "aciklama": "genel amaçlı kullanım yerine yalnızca belirli bir algoritmik görevi en yüksek hız ve verimle yapmak üzere tasarlanan silikon çip.",
+    "kelime": "asic çipi",
+    "aciklama": "yalnızca belirli bir algoritmik görevi en yüksek hız ve verimle yerine getirmek üzere üretilen özel silikon yonga.",
     "yasakli_kelimeler": [
       "özel amaçlı",
       "madencilik",
-      "entegre",
-      "çip",
-      "sabit"
+      "entegre devre",
+      "silikon",
+      "kripto"
     ],
     "zorluk": "zor"
   },
@@ -814,14 +814,14 @@
   {
     "id": 59,
     "kategori": "donanim",
-    "kelime": "her yönden kapılı transistör",
-    "aciklama": "kapı elektrodunun transistörün iletken kanallarını dört bir yandan tamamen sarmalayarak üstün kontrol sağladığı ileri mimari.",
+    "kelime": "gaafet transistör",
+    "aciklama": "kapı elektrodunun akım kanalını dört bir yandan sarmalayarak sızıntıyı önlediği ileri nanometre transistör mimarisi.",
     "yasakli_kelimeler": [
       "kapı",
-      "sarmalama",
-      "nano",
+      "nanometre",
+      "mimari",
       "kanal",
-      "mimari"
+      "finfet"
     ],
     "zorluk": "zor"
   },
@@ -982,14 +982,14 @@
   {
     "id": 71,
     "kategori": "donanim",
-    "kelime": "seri çevre birimi arayüzü",
-    "aciklama": "kısa mesafelerde mikrodenetleyiciler ile sensörler veya bellekler arasında tam çift yönlü hızlı veri aktaran eşzamanlı veri yolu.",
+    "kelime": "spi arayüzü",
+    "aciklama": "mikrodenetleyiciler ile çevresel birimler arasında tam çift yönlü ve hızlı veri aktaran seri haberleşme protokolü.",
     "yasakli_kelimeler": [
-      "eşzamanlı",
-      "veri yolu",
-      "sensör",
-      "çift yönlü",
-      "iletişim"
+      "seri haberleşme",
+      "mikrodenetleyici",
+      "protokol",
+      "miso",
+      "mosi"
     ],
     "zorluk": "zor"
   },
@@ -1080,14 +1080,14 @@
   {
     "id": 78,
     "kategori": "donanim",
-    "kelime": "yüksek bant genişlikli bellek",
-    "aciklama": "bellek yongalarının silikon ara katman üzerine dikey olarak üst üste istiflendiği ultra hızlı 3b bellek mimarisi.",
+    "kelime": "hbm bellek",
+    "aciklama": "bellek katmanlarının dikey istiflenmesiyle elde edilen yüksek bant genişlikli yeni nesil grafik belleği.",
     "yasakli_kelimeler": [
       "istifleme",
       "dikey",
-      "üç boyutlu",
       "bant genişliği",
-      "katman"
+      "ekran kartı",
+      "ara katman"
     ],
     "zorluk": "zor"
   },

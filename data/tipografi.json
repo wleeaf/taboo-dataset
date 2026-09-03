@@ -170,28 +170,28 @@
   {
     "id": 13,
     "kategori": "tipografi",
-    "kelime": "küçük harf yüksekliği",
-    "aciklama": "küçük harflerin ana gövdesini sınırlandıran ve x-yüksekliğini belirleyen hayali yatay hat.",
+    "kelime": "gövde yüksekliği",
+    "aciklama": "yazı karakterlerinde uzantısı olmayan küçük harflerin taban çizgisinden ölçülen dikey yüksekliği.",
     "yasakli_kelimeler": [
-      "üst hat",
-      "x çizgisi",
+      "taban çizgisi",
       "küçük harf",
-      "hizalama",
-      "referans"
+      "harf boyu",
+      "font ölçüsü",
+      "oran"
     ],
     "zorluk": "zor"
   },
   {
     "id": 14,
     "kategori": "tipografi",
-    "kelime": "büyük harf yüksekliği",
-    "aciklama": "büyük harflerin taban çizgisinden tepe noktasına kadar olan dikey yüksekliği.",
+    "kelime": "büyük harf boyu",
+    "aciklama": "bir yazı tipindeki büyük harflerin taban çizgisinden tepeye kadar olan düşey yüksekliği.",
     "yasakli_kelimeler": [
-      "cap height",
       "büyük harf",
-      "yükseklik",
-      "ölçü",
-      "tavan"
+      "taban çizgisi",
+      "tepe",
+      "font boyu",
+      "oran"
     ],
     "zorluk": "zor"
   },
@@ -688,14 +688,14 @@
   {
     "id": 50,
     "kategori": "tipografi",
-    "kelime": "küçük büyük harf",
-    "aciklama": "büyük harf formunda tasarlanmış ancak boyut olarak küçük harflerin x-yüksekliğinde olan karakter.",
+    "kelime": "küçük büyükler",
+    "aciklama": "büyük harf biçiminde tasarlanmış ancak küçük harflerin gövde yüksekliğine eşit boyutta olan tipografik harf seti.",
     "yasakli_kelimeler": [
-      "small caps",
-      "kapital",
-      "küçük kapital",
-      "başlık",
-      "vurgu"
+      "küçük harf boyu",
+      "büyük harf stili",
+      "font",
+      "metin dizgisi",
+      "başlık"
     ],
     "zorluk": "zor"
   },
@@ -912,14 +912,14 @@
   {
     "id": 66,
     "kategori": "tipografi",
-    "kelime": "paragraf başı girintisi",
-    "aciklama": "paragrafın ilk satırının sol kenardan belirli bir miktar içeriden başlatılması kuralı.",
+    "kelime": "paragraf girintisi",
+    "aciklama": "paragrafın ilk satırının sol kenardan belirli bir miktar içeriden başlatılması düzeni.",
     "yasakli_kelimeler": [
-      "içeriden başlama",
-      "girinti",
-      "tab",
-      "paragraf başı",
-      "satır başı"
+      "ilk satır",
+      "içeri alma",
+      "hizalama",
+      "satır başı",
+      "boşluk"
     ],
     "zorluk": "orta"
   },
@@ -1164,14 +1164,14 @@
   {
     "id": 84,
     "kategori": "tipografi",
-    "kelime": "çift yönlü yazı",
-    "aciklama": "arapça veya ibranice gibi sağdan sola akan alfabelerle soldan sağa dillerin bir arada dizilmesi.",
+    "kelime": "bidi metin",
+    "aciklama": "aynı metin içinde hem soldan sağa hem de sağdan sola yazılan dillerin bir arada kullanıldığı çift yönlü dizgi.",
     "yasakli_kelimeler": [
-      "bidi",
-      "sağdan sola",
       "yön",
-      "metin akışı",
-      "alfabe"
+      "sağdan sola",
+      "soldan sağa",
+      "arapça metin",
+      "dizgi"
     ],
     "zorluk": "orta"
   },
@@ -1234,14 +1234,14 @@
   {
     "id": 89,
     "kategori": "tipografi",
-    "kelime": "sayfa kenar boşluğu",
-    "aciklama": "sayfanın kesim kenarları ile metin bloğunun sınırları arasında kalan boş çerçeve alanı.",
+    "kelime": "kenar boşluğu",
+    "aciklama": "sayfa kenarları ile metin veya görsel bloğu arasında bırakılan boşluk alanı.",
     "yasakli_kelimeler": [
-      "marjin",
-      "kenar payı",
-      "çerçeve",
+      "marj",
       "sayfa kenarı",
-      "beyaz alan"
+      "boşluk",
+      "mizanpaj",
+      "baskı"
     ],
     "zorluk": "kolay"
   },
@@ -1304,14 +1304,14 @@
   {
     "id": 94,
     "kategori": "tipografi",
-    "kelime": "çizgi sonu boşluğu",
-    "aciklama": "kelime aralarının fazla açılmasını önlemek için satır sonlarına yerleştirilen boşluk metali.",
+    "kelime": "satır sonu tireleme",
+    "aciklama": "satıra sığmayan kelimelerin hecesinden uygun şekilde tire işaretiyle ayrılarak alt satıra geçirilmesi.",
     "yasakli_kelimeler": [
-      "spatium",
-      "boşluk bloğu",
-      "dizgi",
-      "kurşun",
-      "satır"
+      "tire",
+      "heceleme",
+      "satır sonu",
+      "bölme",
+      "dizgi"
     ],
     "zorluk": "orta"
   },

@@ -86,14 +86,14 @@
   {
     "id": 7,
     "kategori": "pedagoji",
-    "kelime": "düzey belirleyici değerlendirme",
-    "aciklama": "dönem veya ünite sonunda öğrencinin başarı düzeyini tespit etmek amacıyla yapılan notlandırma sınavı.",
+    "kelime": "düzey belirleme",
+    "aciklama": "öğretim sürecinin sonunda öğrencilerin başarı ve kazanım seviyesini not vermek amacıyla ölçme işlemi.",
     "yasakli_kelimeler": [
-      "summative",
-      "final",
-      "not",
+      "not verme",
+      "başarı",
       "sınav",
-      "dönem sonu"
+      "ölçme",
+      "sonuç"
     ],
     "zorluk": "zor"
   },
@@ -184,14 +184,14 @@
   {
     "id": 14,
     "kategori": "pedagoji",
-    "kelime": "problem dayalı öğrenme",
-    "aciklama": "öğrencilerin gerçek hayattan karmaşık bir senaryoyu grupça araştırarak çözdüğü öğrenme tekniği.",
+    "kelime": "probleme dayalı öğrenme",
+    "aciklama": "öğrencilerin gerçek hayattan alınmış karmaşık senaryolar ve problemler üzerinden bilgiye ulaştığı aktif öğrenme yöntemi.",
     "yasakli_kelimeler": [
+      "problem",
       "senaryo",
-      "araştırma",
-      "problem çözme",
-      "vaka",
-      "otantik"
+      "çözüm",
+      "aktif",
+      "gerçek hayat"
     ],
     "zorluk": "kolay"
   },
@@ -212,42 +212,42 @@
   {
     "id": 16,
     "kategori": "pedagoji",
-    "kelime": "buluş yoluyla öğrenme",
-    "aciklama": "öğretmenin rehberliğinde öğrencinin örnekleri inceleyerek genel kurala veya ilkeye kendisinin ulaştığı model.",
+    "kelime": "buluş yolu",
+    "aciklama": "öğretmenin rehberliğinde öğrencilerin örnekleri inceleyerek kural ve genellemelere kendilerinin ulaştığı öğretim stratejisi.",
     "yasakli_kelimeler": [
       "bruner",
-      "tümevarım",
-      "keşif",
       "örnek",
-      "kural"
+      "keşif",
+      "rehberlik",
+      "genelleme"
     ],
     "zorluk": "orta"
   },
   {
     "id": 17,
     "kategori": "pedagoji",
-    "kelime": "sunuş yoluyla öğretim",
-    "aciklama": "bilgilerin öğretmen tarafından organize edilip kavram haritaları ve ön örgütleyicilerle anlamlı aktarılması.",
+    "kelime": "sunuş yolu",
+    "aciklama": "bilgilerin öğretmen tarafından kavram haritaları ve anlamlı bir yapıyla öğrencilere doğrudan aktarıldığı geleneksel öğretim stratejisi.",
     "yasakli_kelimeler": [
       "ausubel",
-      "ön örgütleyici",
-      "anlamlı öğrenme",
-      "tümdengelim",
-      "aktarım"
+      "doğrudan",
+      "aktarım",
+      "kavram haritası",
+      "anlamlı"
     ],
     "zorluk": "orta"
   },
   {
     "id": 18,
     "kategori": "pedagoji",
-    "kelime": "tam öğrenme modeli",
-    "aciklama": "ek süre ve nitelikli öğretim olanakları sağlandığında sınıftaki her öğrencinin hedefe ulaşabileceği kuram.",
+    "kelime": "tam öğrenme",
+    "aciklama": "yeterli zaman ve uygun ek öğrenme imkanları sağlandığında hemen her öğrencinin hedeflenen kazanımlara ulaşabileceğini savunan model.",
     "yasakli_kelimeler": [
       "bloom",
       "ek süre",
-      "yüzde yetmiş",
-      "ünite",
-      "tamamlama"
+      "izleme testi",
+      "tamamlama",
+      "hedef"
     ],
     "zorluk": "kolay"
   },
@@ -268,14 +268,14 @@
   {
     "id": 20,
     "kategori": "pedagoji",
-    "kelime": "çoklu zeka kuramı",
-    "aciklama": "insan zekâsının tekil bir iq puanından ibaret olmayıp müzik, doğa, kinestetik gibi alanlara ayrıldığı model.",
+    "kelime": "çoklu zeka",
+    "aciklama": "insan zekasının tek bir iq puanıyla sınırlı olmadığını, müziksel, uzamsal gibi farklı boyutları bulunduğunu öne süren kuram.",
     "yasakli_kelimeler": [
-      "howard gardner",
-      "alan",
-      "iq",
-      "bedensel",
-      "müzikal"
+      "gardner",
+      "zeka alanı",
+      "boyut",
+      "farklı yetenek",
+      "iq"
     ],
     "zorluk": "kolay"
   },
@@ -296,13 +296,13 @@
   {
     "id": 22,
     "kategori": "pedagoji",
-    "kelime": "bankacı eğitim modeli",
-    "aciklama": "öğrenciyi boş bir hesap, öğretmeni ise oraya pasif bilgi yatıran otorite sayan geleneksel eğitim eleştirisi.",
+    "kelime": "bankacı eğitim",
+    "aciklama": "öğrencinin boş bir kap, öğretmenin ise bilgi yatıran kişi olarak görüldüğü eleştirilen geleneksel pasif aktarım yaklaşımı.",
     "yasakli_kelimeler": [
-      "freire",
-      "pasif alıcı",
-      "hesap",
-      "geleneksel",
+      "paulo freire",
+      "ezber",
+      "pasif",
+      "kap",
       "eleştiri"
     ],
     "zorluk": "zor"
@@ -590,14 +590,14 @@
   {
     "id": 43,
     "kategori": "pedagoji",
-    "kelime": "altı şapkalı düşünme",
-    "aciklama": "bireylerin farklı şapkaları takarak tarafsız, duygusal, eleştirel ve yaratıcı bakış açılarını sırayla denediği yöntem.",
+    "kelime": "altı şapka",
+    "aciklama": "düşünme sürecini objektif, duygusal, yaratıcı gibi farklı rollere bölerek çok boyutlu karar almayı sağlayan teknik.",
     "yasakli_kelimeler": [
       "edward de bono",
-      "şapka",
       "renkler",
-      "bakış açısı",
-      "düşünme"
+      "düşünme",
+      "karar",
+      "farklı bakış"
     ],
     "zorluk": "kolay"
   },
@@ -632,14 +632,14 @@
   {
     "id": 46,
     "kategori": "pedagoji",
-    "kelime": "balık kılçığı tekniği",
-    "aciklama": "karmaşık bir problemin alt nedenlerini bir balık iskeleti biçimindeki şemaya yerleştirerek analiz etme.",
+    "kelime": "balık kılçığı",
+    "aciklama": "bir problemin kök nedenlerini ve alt faktörlerini görsel ve sistematik olarak analiz etmeye yarayan diyagram tekniği.",
     "yasakli_kelimeler": [
       "ishikawa",
       "neden sonuç",
+      "kök neden",
       "diyagram",
-      "iskelet",
-      "problem"
+      "analiz"
     ],
     "zorluk": "orta"
   },
@@ -800,28 +800,28 @@
   {
     "id": 58,
     "kategori": "pedagoji",
-    "kelime": "bilişsel yük kuramı",
-    "aciklama": "çalışma belleğinin sınırlı kapasitesi göz önüne alınarak öğretim materyallerinin aşırı yük bindirmeden tasarlanması ilkesi.",
+    "kelime": "bilişsel yük",
+    "aciklama": "öğrenme sırasında çalışan belleğin kapasitesini zorlayan içsel ve dışsal zihinsel çaba miktarı.",
     "yasakli_kelimeler": [
-      "sweller",
-      "çalışma belleği",
+      "çalışan bellek",
       "kapasite",
+      "zihin",
       "aşırı yük",
-      "bellek"
+      "sweller"
     ],
     "zorluk": "zor"
   },
   {
     "id": 59,
     "kategori": "pedagoji",
-    "kelime": "ikili kodlama kuramı",
-    "aciklama": "bilginin belleğe hem sözel hem de görsel kanallardan ayrı ayrı kodlandığında daha kalıcı öğrenildiği modeli.",
+    "kelime": "ikili kodlama",
+    "aciklama": "bilgilerin zihinde hem sözel hem de görsel kodlar halinde eşzamanlı işlenerek hatırlamayı güçlendirmesi kuramı.",
     "yasakli_kelimeler": [
       "paivio",
       "sözel",
       "görsel",
-      "çift kanal",
-      "hafıza"
+      "hafıza",
+      "çift kod"
     ],
     "zorluk": "zor"
   },
@@ -842,14 +842,14 @@
   {
     "id": 61,
     "kategori": "pedagoji",
-    "kelime": "geri getirme pratiği",
-    "aciklama": "bilgiyi pasifçe yeniden okumak yerine belleği zorlayarak aktif biçimde hatırlamaya çalışma alıştırması.",
+    "kelime": "hatırlama pratiği",
+    "aciklama": "öğrenilen bilgilerin test ve alıştırmalarla hafızadan geri çağrılması yoluyla kalıcılığı artıran öğrenme tekniği.",
     "yasakli_kelimeler": [
-      "retrieval practice",
-      "test etkisi",
-      "hatırlama",
       "hafıza",
-      "aktif çağrışım"
+      "geri çağırma",
+      "test",
+      "kalıcılık",
+      "tekrar"
     ],
     "zorluk": "orta"
   },
@@ -1066,14 +1066,14 @@
   {
     "id": 77,
     "kategori": "pedagoji",
-    "kelime": "balık akvaryumu tekniği",
-    "aciklama": "iç çemberdeki öğrencilerin tartıştığı, dış çemberdeki öğrencilerin ise onları gözlemleyip not aldığı yöntem.",
+    "kelime": "akvaryum tekniği",
+    "aciklama": "iç içe iki çember oluşturularak içtekilerin tartışıp dıştakilerin onları gözlemlediği sınıf içi tartışma yöntemi.",
     "yasakli_kelimeler": [
-      "fishbowl",
-      "iç çember",
-      "dış halka",
+      "çember",
+      "tartışma",
+      "iç dış",
       "gözlem",
-      "tartışma"
+      "sınıf"
     ],
     "zorluk": "zor"
   },
@@ -1122,28 +1122,28 @@
   {
     "id": 81,
     "kategori": "pedagoji",
-    "kelime": "ayrışık grup çalışması",
-    "aciklama": "farklı yetenek ve başarı seviyelerindeki öğrencilerin birbirine destek olması için aynı masaya yerleştirilmesi.",
+    "kelime": "heterojen grup",
+    "aciklama": "farklı yetenek, başarı seviyesi ve ilgi alanlarına sahip öğrencilerin bir arada çalıştığı karma sınıf grubu.",
     "yasakli_kelimeler": [
-      "heterojen",
-      "farklı düzey",
-      "işbirlikli grup",
+      "farklı seviye",
       "karma",
-      "seviye"
+      "çeşitlilik",
+      "başarı düzeyi",
+      "birlikte"
     ],
     "zorluk": "orta"
   },
   {
     "id": 82,
     "kategori": "pedagoji",
-    "kelime": "bağdaşık grup çalışması",
-    "aciklama": "benzer öğrenme hızına veya özel ilgi alanlarına sahip aynı seviyedeki öğrencilerin bir araya getirilmesi.",
+    "kelime": "homojen grup",
+    "aciklama": "benzer başarı, ilgi veya yetenek düzeyindeki öğrencilerin bir araya getirildiği sınıf içi çalışma grubu.",
     "yasakli_kelimeler": [
-      "homojen",
+      "benzer seviye",
       "aynı düzey",
-      "seviye grubu",
-      "denk",
-      "küme"
+      "küme",
+      "yeteneğe göre",
+      "akran"
     ],
     "zorluk": "orta"
   },
@@ -1178,14 +1178,14 @@
   {
     "id": 85,
     "kategori": "pedagoji",
-    "kelime": "evrensel tasarım ilkesi",
-    "aciklama": "öğretim müfredatının ve ortamının baştan itibaren tüm öğrenci çeşitliliğine erişilebilir tasarlanması felsefesi.",
+    "kelime": "evrensel tasarım",
+    "aciklama": "öğretim ortamı ve materyallerinin tüm öğrencilerin engelsiz ve eşit şekilde erişebileceği biçimde baştan planlanması.",
     "yasakli_kelimeler": [
-      "udl",
       "erişilebilirlik",
-      "çeşitlilik",
-      "herkes için",
-      "tasarım"
+      "kapsayıcılık",
+      "engelsiz",
+      "materyal",
+      "eşitlik"
     ],
     "zorluk": "orta"
   },

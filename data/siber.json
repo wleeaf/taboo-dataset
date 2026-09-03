@@ -170,28 +170,28 @@
   {
     "id": 13,
     "kategori": "siber",
-    "kelime": "siteler arası betik çalıştırma",
-    "aciklama": "güvenilir kabul edilen web sitelerine kötü amaçlı istemci taraflı betiklerin enjekte edilmesi zafiyeti.",
+    "kelime": "xss",
+    "aciklama": "web uygulamalarındaki açıklardan yararlanılarak kurbanın tarayıcısında zararlı javascript kodları çalıştırma saldırısı.",
     "yasakli_kelimeler": [
-      "javascript",
       "tarayıcı",
-      "betik",
+      "javascript",
       "enjeksiyon",
-      "istemci"
+      "betik",
+      "çerez çalma"
     ],
     "zorluk": "zor"
   },
   {
     "id": 14,
     "kategori": "siber",
-    "kelime": "siteler arası istek sahteciliği",
-    "aciklama": "yetkilendirilmiş bir kullanıcının tarayıcısına bilgisi dışında hedef web sitesinde işlem yaptırma saldırısı.",
+    "kelime": "csrf",
+    "aciklama": "kullanıcının oturum açtığı güvenli bir web sitesinde haberi olmadan yetkisiz eylemler ve istekler yaptırma saldırısı.",
     "yasakli_kelimeler": [
       "istek",
       "oturum",
-      "sahte",
-      "kullanıcı",
-      "tarayıcı"
+      "sahtecilik",
+      "kullanıcı yetkisi",
+      "kurban"
     ],
     "zorluk": "zor"
   },
@@ -296,14 +296,14 @@
   {
     "id": 22,
     "kategori": "siber",
-    "kelime": "çok faktörlü kimlik doğrulama",
-    "aciklama": "hesaba girişte sadece parola değil ek olarak sms, uygulama kodu veya biyometrik veri gibi ek katmanlar isteme yöntemi.",
+    "kelime": "çok faktörlü doğrulama",
+    "aciklama": "kullanıcı hesabına girişte parola yanında sms, e-posta veya parmak izi gibi ek kanıtlar isteme güvenlik yöntemi.",
     "yasakli_kelimeler": [
-      "iki aşamalı",
-      "kod",
-      "sms",
-      "doğrulama",
-      "güvenlik"
+      "parola",
+      "ek kanıt",
+      "güvenlik kodu",
+      "parmak izi",
+      "onay"
     ],
     "zorluk": "kolay"
   },
@@ -912,14 +912,14 @@
   {
     "id": 66,
     "kategori": "siber",
-    "kelime": "komuta ve kontrol sunucusu",
-    "aciklama": "saldırganın ele geçirdiği botnet veya truva atlarına emirler gönderdiği ve sızdırılan verileri topladığı merkezi sunucu.",
+    "kelime": "komuta kontrol sunucusu",
+    "aciklama": "zombi bilgisayarları veya botnet ağındaki virüslü cihazları uzaktan yönetmek ve yönlendirmek için saldırganlarca kullanılan ana sunucu.",
     "yasakli_kelimeler": [
-      "merkez",
-      "emir",
-      "sunucu",
-      "yönetim",
-      "zombi"
+      "botnet",
+      "zombi",
+      "uzaktan yönetim",
+      "saldırgan",
+      "talimat"
     ],
     "zorluk": "zor"
   },
@@ -1122,28 +1122,28 @@
   {
     "id": 81,
     "kategori": "siber",
-    "kelime": "rol tabanlı erişim kontrolü",
-    "aciklama": "kullanıcılara yetkilerin bireysel olarak değil, kurumdaki iş unvanlarına ve görev tanımlarına göre atandığı güvenlik modeli.",
+    "kelime": "rol tabanlı erişim",
+    "aciklama": "kullanıcıların şirket içi rol ve pozisyonlarına göre sistemdeki kaynaklara erişim izinlerinin otomatik belirlenmesi.",
     "yasakli_kelimeler": [
-      "rol",
       "yetki",
-      "unvan",
-      "görev",
-      "erişim"
+      "pozisyon",
+      "erişim",
+      "izinler",
+      "kullanıcı unvanı"
     ],
     "zorluk": "orta"
   },
   {
     "id": 82,
     "kategori": "siber",
-    "kelime": "en az yetki ilkesi",
-    "aciklama": "bir kullanıcıya veya programa yalnızca görevini yerine getirebilmesi için kesinlikle gerekli olan asgari izinlerin verilmesi kuralı.",
+    "kelime": "en düşük yetki",
+    "aciklama": "bir kullanıcının veya programın yalnızca görevini yerine getirebilmesi için gereken minimum haklara sahip olması ilkesi.",
     "yasakli_kelimeler": [
-      "asgari",
-      "izin",
+      "asgari yetki",
       "kısıtlama",
-      "yetki",
-      "prensip"
+      "güvenlik prensibi",
+      "haklar",
+      "erişim"
     ],
     "zorluk": "orta"
   },
@@ -1220,14 +1220,14 @@
   {
     "id": 88,
     "kategori": "siber",
-    "kelime": "taktik teknik ve prosedürler",
-    "aciklama": "siber saldırganların veya grupların operasyonlarını yürütürken sergilediği karakteristik davranış ve yöntem desenleri.",
+    "kelime": "saldırı teknikleri",
+    "aciklama": "siber saldırganların sistemlere sızmak, yayılmak ve veri çalmak için izlediği sistematik taktik ve yöntemler bütünü.",
     "yasakli_kelimeler": [
-      "davranış",
-      "yöntem",
-      "desen",
       "saldırgan",
-      "analiz"
+      "yöntem",
+      "taktik",
+      "davranış örüntüsü",
+      "siber istihbarat"
     ],
     "zorluk": "orta"
   },

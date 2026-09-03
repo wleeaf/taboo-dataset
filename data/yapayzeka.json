@@ -282,14 +282,14 @@
   {
     "id": 21,
     "kategori": "yapayzeka",
-    "kelime": "k en yakın komşu",
-    "aciklama": "yeni bir veri noktasını öklid gibi bir mesafe ölçütüyle en yakınındaki önceden etiketli komşularına bakarak sınıflandıran yöntem.",
+    "kelime": "knn",
+    "aciklama": "yeni bir veri noktasının sınıfını veya değerini öznitelik uzayında kendisine en yakın k adet komşunun çoğunluğuna bakarak belirleyen makine öğrenmesi algoritması.",
     "yasakli_kelimeler": [
-      "mesafe",
       "komşu",
-      "öklid",
+      "öznitelik",
+      "mesafe",
       "sınıflandırma",
-      "nokta"
+      "vektör"
     ],
     "zorluk": "zor"
   },
@@ -688,14 +688,14 @@
   {
     "id": 50,
     "kategori": "yapayzeka",
-    "kelime": "geri çağırmayla zenginleştirilmiş üretim",
-    "aciklama": "dil modelinin yanıt üretirken harici bir bilgi tabanından güncel belgeleri sorgulayıp bağlama ekleyerek doğruluğu artırması.",
+    "kelime": "rag",
+    "aciklama": "büyük dil modellerinin harici bir bilgi tabanından veya belgelerden ilgili verileri çekerek daha doğru ve güncel yanıtlar üretmesini sağlayan mimari.",
     "yasakli_kelimeler": [
-      "rag",
-      "belge",
-      "arama",
-      "bağlam",
-      "harici"
+      "bilgi tabanı",
+      "vektör arama",
+      "belge çekme",
+      "dil modeli",
+      "üretim"
     ],
     "zorluk": "zor"
   },
@@ -716,14 +716,14 @@
   {
     "id": 52,
     "kategori": "yapayzeka",
-    "kelime": "uzun kısa süreli bellek",
-    "aciklama": "özel kapı mekanizmaları sayesinde tekrarlayan sinir ağlarındaki kaybolan gradyan sorununu çözen hafıza hücresi yapısı.",
+    "kelime": "lstm",
+    "aciklama": "geleneksel tekrarlayan ağlardaki kaybolan gradyan sorununu aşarak zaman serileri ve metinlerde uzun süreli bağımlılıkları öğrenen özel yapay sinir ağı birimi.",
     "yasakli_kelimeler": [
-      "lstm",
-      "kapı",
-      "unutma",
-      "bellek",
-      "gradyan"
+      "tekrarlayan ağ",
+      "hücre durumu",
+      "unutma kapısı",
+      "uzun bellek",
+      "zaman serisi"
     ],
     "zorluk": "zor"
   },
@@ -898,14 +898,14 @@
   {
     "id": 65,
     "kategori": "yapayzeka",
-    "kelime": "insan geri bildirimiyle pekiştirmeli öğrenme",
-    "aciklama": "dil modellerinin yanıtlarını insanların tercihlerine göre ödül modeli eğiterek hizalama tekniği.",
+    "kelime": "rlhf",
+    "aciklama": "büyük dil modellerini insanların verdiği tercih ve puanlama geri bildirimleriyle hizalayarak daha güvenli ve yararlı hale getiren pekiştirmeli öğrenme tekniği.",
     "yasakli_kelimeler": [
-      "rlhf",
-      "tercih",
-      "ödül",
+      "insan tercihi",
       "hizalama",
-      "insan kontrolü"
+      "pekiştirme",
+      "ödül modeli",
+      "dil modeli"
     ],
     "zorluk": "zor"
   },
@@ -1304,14 +1304,14 @@
   {
     "id": 94,
     "kategori": "yapayzeka",
-    "kelime": "çok modlu yapay zeka",
-    "aciklama": "metin, ses, görüntü ve video gibi birden çok farklı veri biçimini aynı anda anlayıp birlikte işleyebilen sistem.",
+    "kelime": "multimodal yapay zeka",
+    "aciklama": "metin, görüntü, ses ve video gibi birden fazla farklı veri türünü aynı anda anlayıp birlikte işleyebilen gelişmiş yapay zeka sistemleri.",
     "yasakli_kelimeler": [
-      "multimodal",
-      "görüntü",
-      "ses",
-      "metin",
-      "birleşik"
+      "veri türü",
+      "metin ve görüntü",
+      "ses işleme",
+      "çoklu kip",
+      "bütünleşik model"
     ],
     "zorluk": "orta"
   },

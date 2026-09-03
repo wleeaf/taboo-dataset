@@ -212,36 +212,36 @@
   {
     "id": 16,
     "kategori": "metalurji",
-    "kelime": "küresel grafitli dökme demir",
-    "aciklama": "magnezyum ilavesiyle içindeki karbonu küreler haline getirilip tokluğu artırılmış dayanıklı döküm türü.",
+    "kelime": "sfero döküm",
+    "aciklama": "İçindeki grafitleri küre haline getirilerek darbe tokluğu ve sünekliği artırılmış kaliteli dökme demir.",
     "yasakli_kelimeler": [
+      "küresel",
       "grafit",
-      "küre",
-      "sfero",
       "magnezyum",
-      "sünek"
+      "sünek",
+      "demir"
     ],
     "zorluk": "orta"
   },
   {
     "id": 17,
     "kategori": "metalurji",
-    "kelime": "kır dökme demir",
-    "aciklama": "karbonun lamel yani yaprakçık grafitler halinde serbest kaldığı, titreşim sönümleme yeteneği yüksek malzeme.",
+    "kelime": "gri döküm",
+    "aciklama": "Grafiti lamel şeklinde dağılmış, titreşim sönümleme kabiliyeti yüksek ama kırılgan dökme demir türü.",
     "yasakli_kelimeler": [
       "lamel",
       "grafit",
       "titreşim",
       "kırılgan",
-      "gri"
+      "kır döküm"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 18,
     "kategori": "metalurji",
-    "kelime": "beyaz dökme demir",
-    "aciklama": "tüm karbonun sementit fazında bağlı kaldığı, kırılma yüzeyi açık renkli ve aşırı aşınmaya dirençli döküm.",
+    "kelime": "ak döküm",
+    "aciklama": "Karbonu tamamen sementit halinde bağlı olan, aşırı sert ve aşınmaya dayanıklı beyaz kırıklı dökme demir.",
     "yasakli_kelimeler": [
       "sementit",
       "aşınma",
@@ -506,14 +506,14 @@
   {
     "id": 37,
     "kategori": "metalurji",
-    "kelime": "vakum ark ergitme",
-    "aciklama": "titanyum ve süperalaşımlar gibi reaktif metalleri gazlardan arındırmak için vakumda elektrik arkıyla ergitme yöntemi.",
+    "kelime": "ark ergitme",
+    "aciklama": "Yüksek sıcaklıklı elektrik arkı kullanarak reaktif metalleri ve alaşımları saflaştırıp eriten yöntem.",
     "yasakli_kelimeler": [
       "vakum",
       "ark",
-      "rafinasyon",
       "titanyum",
-      "gaz giderme"
+      "rafinasyon",
+      "elektrot"
     ],
     "zorluk": "zor"
   },
@@ -576,56 +576,56 @@
   {
     "id": 42,
     "kategori": "metalurji",
-    "kelime": "çentik darbe testi",
-    "aciklama": "ortasında çentik açılmış malzemenin sarkaçlı bir tokmakla kırılarak darbe tokluğunun ölçülmesi yöntemi.",
+    "kelime": "darbe testi",
+    "aciklama": "Malzemenin ani darbelere karşı kırılma enerjisini ve tokluğunu ölçen sarkaçlı mekanik deney.",
     "yasakli_kelimeler": [
       "charpy",
       "tokluk",
       "sarkaç",
       "kırılma",
-      "enerji"
+      "çentik"
     ],
     "zorluk": "orta"
   },
   {
     "id": 43,
     "kategori": "metalurji",
-    "kelime": "brinell sertlik testi",
-    "aciklama": "metal yüzeyine sert çelik veya tungsten karbür bir bilyenin belirli yükle bastırılarak iz çapının ölçülmesi.",
+    "kelime": "brinell sertliği",
+    "aciklama": "Sertleştirilmiş çelik veya karbür bilyenin malzemeye bastırılmasıyla oluşan izin çapından bulunan sertlik.",
     "yasakli_kelimeler": [
       "bilye",
-      "sertlik",
       "iz",
       "yük",
-      "ölçüm"
+      "ölçüm",
+      "metal"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 44,
     "kategori": "metalurji",
-    "kelime": "vickers sertlik testi",
-    "aciklama": "malzeme yüzeyine tabanı kare olan elmas piramit batıcı uçla yük uygulanıp köşegen uzunluğunun incelenmesi.",
+    "kelime": "vickers sertliği",
+    "aciklama": "Kare tabanlı elmas piramit batıcı uç kullanılarak mikro ve makro sertliği ölçme yöntemi.",
     "yasakli_kelimeler": [
       "elmas",
       "piramit",
-      "sertlik",
       "köşegen",
-      "mikrosertlik"
+      "mikrosertlik",
+      "iz"
     ],
     "zorluk": "orta"
   },
   {
     "id": 45,
     "kategori": "metalurji",
-    "kelime": "rockwell sertlik testi",
-    "aciklama": "konik elmas uç veya çelik bilye ile ön ve ana yük uygulanarak kalıcı batma derinliğinin doğrudan ölçülmesi.",
+    "kelime": "rockwell sertliği",
+    "aciklama": "Elmas koni veya çelik bilyenin ön ve ana yük altında malzemeye batma derinliği farkıyla ölçülen sertlik.",
     "yasakli_kelimeler": [
       "batma derinliği",
       "elmas koni",
-      "sertlik",
       "kadran",
-      "ölçek"
+      "ölçek",
+      "yük"
     ],
     "zorluk": "kolay"
   },

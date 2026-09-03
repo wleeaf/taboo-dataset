@@ -30,14 +30,14 @@
   {
     "id": 3,
     "kategori": "iktisat",
-    "kelime": "azalan marjinal verimler kanunu",
-    "aciklama": "diğer üretim faktörleri sabitken tek bir faktör artırıldığında elde edilen ek ürün miktarının zamanla azalması.",
+    "kelime": "azalan verimler",
+    "aciklama": "üretimde diğer girdiler sabitken tek bir girdinin miktarı artırıldığında elde edilen ek verimin zamanla düşmesi.",
     "yasakli_kelimeler": [
-      "üretim fonksiyonu",
       "marjinal ürün",
-      "sabit faktör",
-      "değişken girdi",
-      "verim"
+      "üretim faktörü",
+      "girdi",
+      "kapasite",
+      "verimlilik"
     ],
     "zorluk": "zor"
   },
@@ -688,28 +688,28 @@
   {
     "id": 50,
     "kategori": "iktisat",
-    "kelime": "ödemeler dengesi bilançosu",
-    "aciklama": "bir ülkenin yerleşikleri ile dünyanın geri kalanı arasında belirli dönemde gerçekleşen tüm ekonomik işlemlerin muhasebe kaydı.",
+    "kelime": "ödemeler dengesi",
+    "aciklama": "bir ülkenin diğer tüm ülkelerle belirli bir dönemde gerçekleştirdiği tüm ekonomik ve finansal işlemlerin muhasebe kaydı.",
     "yasakli_kelimeler": [
-      "cari hesap",
+      "cari denge",
       "sermaye hesabı",
-      "rezervler",
-      "net hata ve noksan",
-      "dış bakiye"
+      "döviz",
+      "rezerv",
+      "dış ticaret"
     ],
     "zorluk": "orta"
   },
   {
     "id": 51,
     "kategori": "iktisat",
-    "kelime": "satın alma gücü paritesi",
-    "aciklama": "farklı ülkelerdeki para birimlerinin aynı mal ve hizmet sepetini satın alabilme gücünü eşitleyen teorik döviz kuru kuru.",
+    "kelime": "satın alma gücü",
+    "aciklama": "aynı mal ve hizmet sepetini farklı ülkelerde satın alabilme yeteneğini ve para birimlerinin reel değerini kıyaslayan kavram.",
     "yasakli_kelimeler": [
-      "sagp",
-      "tek fiyat kanunu",
-      "döviz kuru",
-      "big mac endeksi",
-      "uluslararası sepet"
+      "parite",
+      "sepet",
+      "enflasyon",
+      "reel kur",
+      "big mac"
     ],
     "zorluk": "zor"
   },
@@ -884,14 +884,14 @@
   {
     "id": 64,
     "kategori": "iktisat",
-    "kelime": "marjinal teknik ikame oranı",
-    "aciklama": "aynı üretim miktarını korumak koşuluyla bir birim sermaye yerine kaç birim emek ikame edilebileceğini belirten katsayı.",
+    "kelime": "teknik ikame oranı",
+    "aciklama": "aynı üretim miktarını korumak şartıyla bir birim sermaye yerine kaç birim emek ikame edilebileceğini gösteren oran.",
     "yasakli_kelimeler": [
       "mrts",
       "eşürün eğrisi",
-      "emek sermaye",
-      "üretim faktörleri",
-      "teknolojik ikame"
+      "emek",
+      "sermaye",
+      "üretim faktörü"
     ],
     "zorluk": "zor"
   },

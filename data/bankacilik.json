@@ -380,14 +380,14 @@
   {
     "id": 28,
     "kategori": "bankacilik",
-    "kelime": "son borç verme mercii",
-    "aciklama": "likidite sıkışıklığı yaşayan bankalara sistemik krizi önlemek amacıyla merkez bankasının fon sağlaması rolü.",
+    "kelime": "nihai borç mercii",
+    "aciklama": "bankacılık sisteminde likidite krizi yaşandığında bankalara teminat karşılığı acil kredi açan merkez bankası fonksiyonu.",
     "yasakli_kelimeler": [
-      "lender of last resort",
-      "kurtarma",
-      "likidite",
       "merkez bankası",
-      "acil"
+      "kriz",
+      "likidite",
+      "son borç",
+      "kredi"
     ],
     "zorluk": "orta"
   },
@@ -842,14 +842,14 @@
   {
     "id": 61,
     "kategori": "bankacilik",
-    "kelime": "net istikrarlı fonlama oranı",
-    "aciklama": "bankanın uzun vadeli aktiflerini bir yıldan uzun vadeli güvenilir kaynaklarla finanse etmesini zorunlu kılan kural.",
+    "kelime": "istikrarlı fonlama oranı",
+    "aciklama": "bankaların uzun vadeli varlıklarını güvenilir ve istikrarlı kaynaklarla finanse etmesini zorunlu kılan basel kuralı.",
     "yasakli_kelimeler": [
+      "net istikrarlı",
       "nsfr",
-      "bir yıl",
-      "fonlama",
-      "istikrar",
-      "basel"
+      "basel",
+      "mevduat",
+      "likidite"
     ],
     "zorluk": "kolay"
   },

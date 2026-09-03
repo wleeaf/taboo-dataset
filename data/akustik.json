@@ -828,14 +828,14 @@
   {
     "id": 60,
     "kategori": "akustik",
-    "kelime": "fletcher munson eğrileri",
-    "aciklama": "insan kulağının farklı frekanslardaki sesleri eşit gürlükte duyabilmesi için gereken basınç seviyelerini gösteren eğriler.",
+    "kelime": "eş duyum eğrisi",
+    "aciklama": "insan kulağının farklı frekanslardaki sesleri aynı şiddette algılamasını sağlayan ses basınç düzeylerini gösteren eğri.",
     "yasakli_kelimeler": [
-      "duyma",
-      "kulak",
-      "eğri",
-      "basınç",
-      "gürlük"
+      "fletcher munson",
+      "işitme",
+      "fon",
+      "desibel",
+      "frekans"
     ],
     "zorluk": "orta"
   },
@@ -1388,14 +1388,14 @@
   {
     "id": 100,
     "kategori": "akustik",
-    "kelime": "akustik geribildirim iptali",
-    "aciklama": "mikrofon ve hoparlör arasındaki yankı döngüsünü dijital algoritmalarla tespit edip kesen işlem.",
+    "kelime": "geribildirim engelleme",
+    "aciklama": "mikrofon ve hoparlör arasındaki ses döngüsünü faz tersleme veya frekans kaydırma ile yok eden ses işlemcisi işlevi.",
     "yasakli_kelimeler": [
-      "dijital",
-      "çınlama",
-      "algoritma",
+      "feedback",
+      "ötme",
+      "ıslık",
       "iptal",
-      "döngü"
+      "bastırma"
     ],
     "zorluk": "zor"
   }

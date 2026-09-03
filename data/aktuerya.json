@@ -100,14 +100,14 @@
   {
     "id": 8,
     "kategori": "aktuerya",
-    "kelime": "muallak hasar karşılığı",
-    "aciklama": "meydana gelmiş fakat henüz hesabı tamamlanmamış veya ödenmemiş hasarlar için ayrılan karşılık.",
+    "kelime": "muallak hasar",
+    "aciklama": "meydana gelmiş ancak henüz tazminat ödemesi tamamlanmamış veya miktarı kesinleşmemiş zararlar için şirketin ayırdığı karşılık.",
     "yasakli_kelimeler": [
-      "rezerv",
-      "hasar",
       "karşılık",
-      "ibnr",
-      "ödeme"
+      "tazminat",
+      "bekleyen",
+      "hasar dosyası",
+      "ihtiyat"
     ],
     "zorluk": "orta"
   },
@@ -128,14 +128,14 @@
   {
     "id": 10,
     "kategori": "aktuerya",
-    "kelime": "kazanılmamış primler karşılığı",
-    "aciklama": "yürürlükteki poliçelerin gelecek hesap dönemine sarkan günlerine isabet eden prim kısmı.",
+    "kelime": "kazanılmamış prim",
+    "aciklama": "yürürlükteki poliçelerin vadesi henüz dolmamış gelecek günlerine isabet eden ve ertelenen prim tutarı.",
     "yasakli_kelimeler": [
-      "dönemsellik",
-      "rezerv",
-      "prim",
+      "karşılık",
+      "dönem",
       "gelecek",
-      "gün"
+      "ertelenmiş",
+      "poliçe"
     ],
     "zorluk": "orta"
   },
@@ -254,14 +254,14 @@
   {
     "id": 19,
     "kategori": "aktuerya",
-    "kelime": "hasar tespit raporu",
-    "aciklama": "eksper tarafından hazırlanan ve meydana gelen zararın tutarını ve nedenini belirten resmi evrak.",
+    "kelime": "hasar tespiti",
+    "aciklama": "kaza veya riziko sonrasında oluşan maddi kaybın eksper tarafından yerinde incelenip tutanağa bağlanması işlemi.",
     "yasakli_kelimeler": [
       "eksper",
       "rapor",
-      "tutar",
-      "kaza",
-      "zarar"
+      "tutanak",
+      "zarar",
+      "inceleme"
     ],
     "zorluk": "kolay"
   },
@@ -436,14 +436,14 @@
   {
     "id": 32,
     "kategori": "aktuerya",
-    "kelime": "aktüeryal kazanç ve kayıp",
-    "aciklama": "emeklilik planlarındaki aktüeryal varsayımlar ile gerçekleşen durum arasındaki farktan doğan sapma.",
+    "kelime": "aktüeryal kazanç",
+    "aciklama": "varsayılan demografik ve finansal tahminlerin gerçekleşen durumla veya değişen beklentilerle kıyaslanması sonucu lehte doğan fark.",
     "yasakli_kelimeler": [
-      "sapma",
-      "varsayım",
+      "kayıp",
       "fark",
       "fon",
-      "yükümlülük"
+      "tahmin",
+      "fayda"
     ],
     "zorluk": "orta"
   },
@@ -1024,14 +1024,14 @@
   {
     "id": 74,
     "kategori": "aktuerya",
-    "kelime": "kıdem tazminatı karşılığı",
-    "aciklama": "çalışanların gelecekte hak kazanacağı kıdem tazminatlarının aktüeryal yöntemlerle bilançoya yazılan provizyonu.",
+    "kelime": "kıdem karşılığı",
+    "aciklama": "çalışanların gelecekte hak kazanacağı yasal işten ayrılma tazminatları için aktüeryal hesapla bilançoya konulan yükümlülük.",
     "yasakli_kelimeler": [
       "tazminat",
+      "işten ayrılma",
       "çalışan",
-      "provizyon",
-      "iş kanunu",
-      "karşılık"
+      "karşılık",
+      "yükümlülük"
     ],
     "zorluk": "orta"
   },
@@ -1290,14 +1290,14 @@
   {
     "id": 93,
     "kategori": "aktuerya",
-    "kelime": "zincir merdiven metodu",
-    "aciklama": "geçmiş hasar gelişim verilerini kullanarak gelecekteki muallak hasarları tahmin etmeye yarayan aktüeryal teknik.",
+    "kelime": "zincir merdiven",
+    "aciklama": "geçmiş yılların hasar gelişim verilerini üçgen tablolar halinde kullanarak nihai hasar tutarını tahmin etme yöntemi.",
     "yasakli_kelimeler": [
-      "chain ladder",
-      "ibnr",
-      "hasar",
-      "gelişim",
-      "üçgen"
+      "üçgen",
+      "hasar gelişimi",
+      "tahmin",
+      "muallak",
+      "metot"
     ],
     "zorluk": "zor"
   },
@@ -1374,14 +1374,14 @@
   {
     "id": 99,
     "kategori": "aktuerya",
-    "kelime": "ömür boyu yenileme garantisi",
-    "aciklama": "sağlık sigortasında belirli bir yaştan ve hasarsız dönemden sonra şirketin poliçeyi tek taraflı iptal edememesi taahhüdü.",
+    "kelime": "yenileme garantisi",
+    "aciklama": "özel sağlık sigortalarında belirli bir süreden sonra sigortalının yeni çıkan hastalıkları sebebiyle poliçesinin iptal edilememesi güvencesi.",
     "yasakli_kelimeler": [
-      "garanti",
+      "ömür boyu",
       "sağlık",
-      "yenileme",
-      "iptal",
-      "taahhüt"
+      "poliçe",
+      "güvence",
+      "garanti"
     ],
     "zorluk": "orta"
   },

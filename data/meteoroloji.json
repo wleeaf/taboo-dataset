@@ -4,699 +4,1399 @@
     "kategori": "meteoroloji",
     "kelime": "antisiklon",
     "aciklama": "merkezinde yüksek hava basıncı bulunan ve çevresine doğru alçalıcı hava hareketleri oluşturan atmosferik sistem.",
-    "yasakli_kelimeler": ["yüksek basınç", "rüzgar", "alçalıcı", "açık hava", "fırtına"]
+    "yasakli_kelimeler": [
+      "yüksek basınç",
+      "rüzgar",
+      "alçalıcı",
+      "açık hava",
+      "fırtına"
+    ],
+    "zorluk": "kolay"
   },
   {
     "id": 2,
     "kategori": "meteoroloji",
     "kelime": "siklon",
     "aciklama": "alçak basınç merkezi çevresinde dönerek yükselen ve genellikle fırtına getiren hava kütlesi.",
-    "yasakli_kelimeler": ["alçak basınç", "dönme", "fırtına", "yükselici", "hortum"]
+    "yasakli_kelimeler": [
+      "alçak basınç",
+      "dönme",
+      "fırtına",
+      "yükselici",
+      "hortum"
+    ],
+    "zorluk": "kolay"
   },
   {
     "id": 3,
     "kategori": "meteoroloji",
     "kelime": "coriolis kuvveti",
     "aciklama": "dünya'nın kendi ekseni etrafında dönmesi sebebiyle hava akımlarının yönünde sapmaya yol açan kuvvet.",
-    "yasakli_kelimeler": ["dönüş", "dünya", "sapma", "sağ", "sol"]
+    "yasakli_kelimeler": [
+      "dönüş",
+      "dünya",
+      "sapma",
+      "sağ",
+      "sol"
+    ],
+    "zorluk": "kolay"
   },
   {
     "id": 4,
     "kategori": "meteoroloji",
     "kelime": "tropopoz",
     "aciklama": "troposfer ile stratosfer arasındaki sıcaklığın düşmesinin durduğu ve hava olaylarının sınırlandığı tabaka.",
-    "yasakli_kelimeler": ["troposfer", "stratosfer", "sınır", "katman", "atmosfer"]
+    "yasakli_kelimeler": [
+      "troposfer",
+      "stratosfer",
+      "sınır",
+      "katman",
+      "atmosfer"
+    ],
+    "zorluk": "orta"
   },
   {
     "id": 5,
     "kategori": "meteoroloji",
     "kelime": "troposfer",
     "aciklama": "atmosferin yer kabuğuna en yakın olan ve hava olaylarının neredeyse tamamının gerçekleştiği en alt katmanı.",
-    "yasakli_kelimeler": ["alt", "katman", "hava durumu", "bulut", "oksijen"]
+    "yasakli_kelimeler": [
+      "alt",
+      "katman",
+      "hava durumu",
+      "bulut",
+      "oksijen"
+    ],
+    "zorluk": "kolay"
   },
   {
     "id": 6,
     "kategori": "meteoroloji",
     "kelime": "kümülonimbus",
     "aciklama": "gökyüzünde dikey olarak yükselen, şimşek, gök gürültüsü ve şiddetli sağanak yağış getiren dev fırtına bulutu.",
-    "yasakli_kelimeler": ["fırtına", "şimşek", "gök gürültüsü", "sağanak", "dikey"]
+    "yasakli_kelimeler": [
+      "fırtına",
+      "şimşek",
+      "gök gürültüsü",
+      "sağanak",
+      "dikey"
+    ],
+    "zorluk": "kolay"
   },
   {
     "id": 7,
     "kategori": "meteoroloji",
     "kelime": "sirrüs",
     "aciklama": "yüksek irtifalarda bulunan, tamamen buz kristallerinden oluşan ince, lifli ve tül benzeri bulut türü.",
-    "yasakli_kelimeler": ["buz", "tül", "yüksek", "ince", "lif"]
+    "yasakli_kelimeler": [
+      "buz",
+      "tül",
+      "yüksek",
+      "ince",
+      "lif"
+    ],
+    "zorluk": "kolay"
   },
   {
     "id": 8,
     "kategori": "meteoroloji",
     "kelime": "stratus",
     "aciklama": "gökyüzünü alçaktan gri ve tekdüze bir örtü gibi kaplayan, çiseleme yağışına yol açabilen tabakalı bulut.",
-    "yasakli_kelimeler": ["alçak", "gri", "tabaka", "çiseleme", "sis"]
+    "yasakli_kelimeler": [
+      "alçak",
+      "gri",
+      "tabaka",
+      "çiseleme",
+      "sis"
+    ],
+    "zorluk": "kolay"
   },
   {
     "id": 9,
     "kategori": "meteoroloji",
     "kelime": "kümülüs",
     "aciklama": "tabanı düz, üst kısmı kubbe veya karnabahar biçiminde kabarık, güneşli güzel havalarda görülen beyaz pamuksu bulut.",
-    "yasakli_kelimeler": ["pamuk", "beyaz", "güzel hava", "karnabahar", "kubbe"]
+    "yasakli_kelimeler": [
+      "pamuk",
+      "beyaz",
+      "güzel hava",
+      "karnabahar",
+      "kubbe"
+    ],
+    "zorluk": "kolay"
   },
   {
     "id": 10,
     "kategori": "meteoroloji",
     "kelime": "sıcak cephe",
     "aciklama": "sıcak hava kütlesinin soğuk hava kütlesinin üzerine doğru tırmanarak uzun süreli ve sakin yağışlar bıraktığı sınır hattı.",
-    "yasakli_kelimeler": ["soğuk", "kütle", "çakışma", "tırmanma", "yağış"]
+    "yasakli_kelimeler": [
+      "soğuk",
+      "kütle",
+      "çakışma",
+      "tırmanma",
+      "yağış"
+    ],
+    "zorluk": "kolay"
   },
   {
     "id": 11,
     "kategori": "meteoroloji",
     "kelime": "soğuk cephe",
     "aciklama": "yoğun soğuk havanın sıcak havanın altına hızla girerek ani ve şiddetli fırtınalara yol açtığı atmosferik hat.",
-    "yasakli_kelimeler": ["hızlı", "ani", "kama", "sıcak", "fırtına"]
+    "yasakli_kelimeler": [
+      "hızlı",
+      "ani",
+      "kama",
+      "sıcak",
+      "fırtına"
+    ],
+    "zorluk": "kolay"
   },
   {
     "id": 12,
     "kategori": "meteoroloji",
     "kelime": "oklüzyon cephe",
     "aciklama": "hızlı ilerleyen soğuk bir cephenin önündeki sıcak cepheye yetişip sıcak havayı tamamen yukarı kaldırmasıyla oluşan karmaşık sınır.",
-    "yasakli_kelimeler": ["birleşme", "yakalama", "kapanma", "üçlü", "cephe"]
+    "yasakli_kelimeler": [
+      "birleşme",
+      "yakalama",
+      "kapanma",
+      "üçlü",
+      "cephe"
+    ],
+    "zorluk": "orta"
   },
   {
     "id": 13,
     "kategori": "meteoroloji",
     "kelime": "jet akımı",
     "aciklama": "üst troposferde batıdan doğuya doğru çok yüksek hızla esen dar ve kıvrımlı rüzgar nehirleri.",
-    "yasakli_kelimeler": ["yüksek irtifa", "hızlı", "rüzgar", "uçak", "batı"]
+    "yasakli_kelimeler": [
+      "yüksek irtifa",
+      "hızlı",
+      "rüzgar",
+      "uçak",
+      "batı"
+    ],
+    "zorluk": "kolay"
   },
   {
     "id": 14,
     "kategori": "meteoroloji",
     "kelime": "rossby dalgası",
     "aciklama": "kutup havası ile tropikal hava arasındaki sıcaklık farkından kaynaklanan devasa atmosferik salınım dalgaları.",
-    "yasakli_kelimeler": ["dalga", "salınım", "jet", "kıvrım", "kutup"]
+    "yasakli_kelimeler": [
+      "dalga",
+      "salınım",
+      "jet",
+      "kıvrım",
+      "kutup"
+    ],
+    "zorluk": "orta"
   },
   {
     "id": 15,
     "kategori": "meteoroloji",
     "kelime": "kutup girdabı",
     "aciklama": "kutup bölgeleri üzerinde kış aylarında güçlenen, son derece soğuk havayı hapseden geniş alçak basınç sistemi.",
-    "yasakli_kelimeler": ["polar vortex", "soğuk", "dondurucu", "girdap", "kutup"]
+    "yasakli_kelimeler": [
+      "polar vortex",
+      "soğuk",
+      "dondurucu",
+      "girdap",
+      "kutup"
+    ],
+    "zorluk": "kolay"
   },
   {
     "id": 16,
     "kategori": "meteoroloji",
     "kelime": "fön rüzgarı",
     "aciklama": "dağ yamacını aşarak diğer taraftan alçalırken adyabatik olarak her yüz metrede bir derece ısınan kuru rüzgar.",
-    "yasakli_kelimeler": ["dağ", "yamaç", "sıcak", "kuru", "ısınma"]
+    "yasakli_kelimeler": [
+      "dağ",
+      "yamaç",
+      "sıcak",
+      "kuru",
+      "ısınma"
+    ],
+    "zorluk": "kolay"
   },
   {
     "id": 17,
     "kategori": "meteoroloji",
     "kelime": "alize",
     "aciklama": "dönencelerden ekvatora doğru yıl boyu düzenli olarak esen tropikal ticaret rüzgarları.",
-    "yasakli_kelimeler": ["ekvator", "dönence", "düzenli", "ticaret", "tropik"]
+    "yasakli_kelimeler": [
+      "ekvator",
+      "dönence",
+      "düzenli",
+      "ticaret",
+      "tropik"
+    ],
+    "zorluk": "kolay"
   },
   {
     "id": 18,
     "kategori": "meteoroloji",
     "kelime": "muson",
     "aciklama": "karalar ile denizlerin mevsimlik farklı ısınması sonucu yön değiştiren ve güney asya'da sele yol açan mevsim rüzgarı.",
-    "yasakli_kelimeler": ["asya", "yağmur", "mevsim", "hindistan", "yön değiştirme"]
+    "yasakli_kelimeler": [
+      "asya",
+      "yağmur",
+      "mevsim",
+      "hindistan",
+      "yön değiştirme"
+    ],
+    "zorluk": "kolay"
   },
   {
     "id": 19,
     "kategori": "meteoroloji",
     "kelime": "çiğ noktası",
     "aciklama": "havadaki nemin doymuş hale gelerek su buharından sıvı damlacıklarına yoğuşmaya başladığı sıcaklık derecesi.",
-    "yasakli_kelimeler": ["yoğuşma", "nem", "doyma", "sıcaklık", "damla"]
+    "yasakli_kelimeler": [
+      "yoğuşma",
+      "nem",
+      "doyma",
+      "sıcaklık",
+      "damla"
+    ],
+    "zorluk": "kolay"
   },
   {
     "id": 20,
     "kategori": "meteoroloji",
     "kelime": "bağıl nem",
     "aciklama": "havada bulunan su buharı miktarının o sıcaklıkta havanın taşıyabileceği maksimum neme olan yüzdelik oranı.",
-    "yasakli_kelimeler": ["yüzde", "oran", "buhar", "taşıma", "doygunluk"]
+    "yasakli_kelimeler": [
+      "yüzde",
+      "oran",
+      "buhar",
+      "taşıma",
+      "doygunluk"
+    ],
+    "zorluk": "kolay"
   },
   {
     "id": 21,
     "kategori": "meteoroloji",
     "kelime": "mutlak nem",
     "aciklama": "bir metreküp havanın içinde gram cinsinden bulunan gerçek su buharı kütlesi.",
-    "yasakli_kelimeler": ["gram", "metreküp", "kütle", "miktar", "buhar"]
+    "yasakli_kelimeler": [
+      "gram",
+      "metreküp",
+      "kütle",
+      "miktar",
+      "buhar"
+    ],
+    "zorluk": "kolay"
   },
   {
     "id": 22,
     "kategori": "meteoroloji",
     "kelime": "adyabatik soğuma",
     "aciklama": "yükselen bir hava parselinin dışarıyla ısı alışverişi yapmadan sadece genleşmesi sebebiyle soğuması süreci.",
-    "yasakli_kelimeler": ["genleşme", "basınç", "ısı değişimi", "yükselme", "termodinamik"]
+    "yasakli_kelimeler": [
+      "genleşme",
+      "basınç",
+      "ısı değişimi",
+      "yükselme",
+      "termodinamik"
+    ],
+    "zorluk": "orta"
   },
   {
     "id": 23,
     "kategori": "meteoroloji",
     "kelime": "sıcaklık terselmesi",
     "aciklama": "normalin aksine yükseklere çıkıldıkça havanın soğumak yerine ısınması ve kirli havanın yere çökmesi olayı.",
-    "yasakli_kelimeler": ["enversiyon", "yükseklik", "ters", "kirlilik", "sis"]
+    "yasakli_kelimeler": [
+      "enversiyon",
+      "yükseklik",
+      "ters",
+      "kirlilik",
+      "sis"
+    ],
+    "zorluk": "kolay"
   },
   {
     "id": 24,
     "kategori": "meteoroloji",
     "kelime": "radyasyon sisi",
     "aciklama": "açık ve durgun gecelerde yer yüzeyinin hızla ısı kaybetmesiyle yer seviyesindeki havanın soğuyup yoğuşması sonucu oluşan sis.",
-    "yasakli_kelimeler": ["gece", "soğuma", "zemin", "durgun", "yoğuşma"]
+    "yasakli_kelimeler": [
+      "gece",
+      "soğuma",
+      "zemin",
+      "durgun",
+      "yoğuşma"
+    ],
+    "zorluk": "orta"
   },
   {
     "id": 25,
     "kategori": "meteoroloji",
     "kelime": "adveksiyon sisi",
     "aciklama": "ılık ve nemli bir hava kütlesinin daha soğuk bir kara ya da su yüzeyinin üzerinden yatay geçerken soğumasıyla beliren sis.",
-    "yasakli_kelimeler": ["yatay", "hareket", "deniz", "ılık", "soğuk yüzey"]
+    "yasakli_kelimeler": [
+      "yatay",
+      "hareket",
+      "deniz",
+      "ılık",
+      "soğuk yüzey"
+    ],
+    "zorluk": "orta"
   },
   {
     "id": 26,
     "kategori": "meteoroloji",
     "kelime": "yamaç sisi",
     "aciklama": "nemli havanın bir dağ yamacı boyunca yükselirken soğuyup yoğunlaşmasıyla oluşan sis türü.",
-    "yasakli_kelimeler": ["dağ", "tepe", "yükselme", "yamaç", "orografik"]
+    "yasakli_kelimeler": [
+      "dağ",
+      "tepe",
+      "yükselme",
+      "yamaç",
+      "orografik"
+    ],
+    "zorluk": "orta"
   },
   {
     "id": 27,
     "kategori": "meteoroloji",
     "kelime": "orografik yağış",
     "aciklama": "nem yüklü rüzgarların dağ kütlesine çarparak yükselmesi ve soğuması sonucunda dağın denize bakan yüzüne bıraktığı yağış.",
-    "yasakli_kelimeler": ["dağ", "çarparak", "karadeniz", "yamaç", "bariyer"]
+    "yasakli_kelimeler": [
+      "dağ",
+      "çarparak",
+      "karadeniz",
+      "yamaç",
+      "bariyer"
+    ],
+    "zorluk": "orta"
   },
   {
     "id": 28,
     "kategori": "meteoroloji",
     "kelime": "konvektif yağış",
     "aciklama": "güneşin ısıttığı yer yüzeyindeki havanın hafifleyip dikey olarak yükselmesiyle aniden oluşan kırkikindi tipi yağış.",
-    "yasakli_kelimeler": ["ısınma", "dikey", "yükselme", "kırkikindi", "öğleden sonra"]
+    "yasakli_kelimeler": [
+      "ısınma",
+      "dikey",
+      "yükselme",
+      "kırkikindi",
+      "öğleden sonra"
+    ],
+    "zorluk": "orta"
   },
   {
     "id": 29,
     "kategori": "meteoroloji",
     "kelime": "cephesel yağış",
     "aciklama": "farklı sıcaklık ve yoğunluktaki iki hava kütlesinin karşılaştığı sınır hattında meydana gelen yaygın yağışlar.",
-    "yasakli_kelimeler": ["kütle", "karşılaşma", "çakışma", "sınır", "soğuk-sıcak"]
+    "yasakli_kelimeler": [
+      "kütle",
+      "karşılaşma",
+      "çakışma",
+      "sınır",
+      "soğuk-sıcak"
+    ],
+    "zorluk": "orta"
   },
   {
     "id": 30,
     "kategori": "meteoroloji",
     "kelime": "graupel",
     "aciklama": "aşırı soğumuş su damlacıklarının düşen bir kar kristali üzerine yapışıp donmasıyla oluşan yumuşak kar paleti veya buz kırıntısı.",
-    "yasakli_kelimeler": ["kar paleti", "donma", "buz", "yumuşak", "yuvarlak"]
+    "yasakli_kelimeler": [
+      "kar paleti",
+      "donma",
+      "buz",
+      "yumuşak",
+      "yuvarlak"
+    ],
+    "zorluk": "orta"
   },
   {
     "id": 31,
     "kategori": "meteoroloji",
     "kelime": "donan yağmur",
     "aciklama": "havadan sıvı halde düşen ancak sıfır derecenin altındaki soğuk zeminle temas ettiği anda buza dönüşen tehlikeli yağış.",
-    "yasakli_kelimeler": ["aşırı soğumuş", "buzlanma", "temas", "zemin", "şeffaf buz"]
+    "yasakli_kelimeler": [
+      "aşırı soğumuş",
+      "buzlanma",
+      "temas",
+      "zemin",
+      "şeffaf buz"
+    ],
+    "zorluk": "kolay"
   },
   {
     "id": 32,
     "kategori": "meteoroloji",
     "kelime": "kırağı",
     "aciklama": "sıfırın altındaki berrak gecelerde havadaki su buharının sıvılaşmadan doğrudan katılaşarak çimen ve arabaları kaplaması.",
-    "yasakli_kelimeler": ["donma", "beyaz", "kristal", "çimen", "süblimleşme"]
+    "yasakli_kelimeler": [
+      "donma",
+      "beyaz",
+      "kristal",
+      "çimen",
+      "süblimleşme"
+    ],
+    "zorluk": "kolay"
   },
   {
     "id": 33,
     "kategori": "meteoroloji",
     "kelime": "kırç",
     "aciklama": "aşırı soğumuş sis damlacıklarının rüzgarla ağaç dallarına, tellere çarparak oluşturduğu kalın ve pürüzlü buz tabakası.",
-    "yasakli_kelimeler": ["sis", "buz", "dal", "tel", "rüzgar"]
+    "yasakli_kelimeler": [
+      "sis",
+      "buz",
+      "dal",
+      "tel",
+      "rüzgar"
+    ],
+    "zorluk": "orta"
   },
   {
     "id": 34,
     "kategori": "meteoroloji",
     "kelime": "çiğ",
     "aciklama": "geceleyin yer yüzeyinin soğumasıyla havadaki su buharının yaprak ve otlar üzerinde minik damlalar halinde yoğuşması.",
-    "yasakli_kelimeler": ["damla", "yaprak", "sabah", "yoğuşma", "ot"]
+    "yasakli_kelimeler": [
+      "damla",
+      "yaprak",
+      "sabah",
+      "yoğuşma",
+      "ot"
+    ],
+    "zorluk": "kolay"
   },
   {
     "id": 35,
     "kategori": "meteoroloji",
     "kelime": "barometre",
     "aciklama": "atmosferik hava basıncını milibar veya hektopaskal cinsinden ölçmeye yarayan meteorolojik alet.",
-    "yasakli_kelimeler": ["basınç", "ölçüm", "cıva", "hektopaskal", "tüp"]
+    "yasakli_kelimeler": [
+      "basınç",
+      "ölçüm",
+      "cıva",
+      "hektopaskal",
+      "tüp"
+    ],
+    "zorluk": "kolay"
   },
   {
     "id": 36,
     "kategori": "meteoroloji",
     "kelime": "higrometre",
     "aciklama": "ortamdaki havanın nem oranını veya su buharı miktarını belirlemek için kullanılan ölçüm cihazı.",
-    "yasakli_kelimeler": ["nem", "rutubet", "ölçer", "cihaz", "kıl"]
+    "yasakli_kelimeler": [
+      "nem",
+      "rutubet",
+      "ölçer",
+      "cihaz",
+      "kıl"
+    ],
+    "zorluk": "kolay"
   },
   {
     "id": 37,
     "kategori": "meteoroloji",
     "kelime": "anemometre",
     "aciklama": "rüzgarın esiş hızını ve bazen yönünü ölçmek için kullanılan döner kepçeli ya da pervaneli aygıt.",
-    "yasakli_kelimeler": ["rüzgar", "hız", "kepçe", "ölçer", "fırdöndü"]
+    "yasakli_kelimeler": [
+      "rüzgar",
+      "hız",
+      "kepçe",
+      "ölçer",
+      "fırdöndü"
+    ],
+    "zorluk": "kolay"
   },
   {
     "id": 38,
     "kategori": "meteoroloji",
     "kelime": "plüviyometre",
     "aciklama": "belirli bir zaman aralığında metrekareye düşen yağmur miktarını milimetre cinsinden toplayıp ölçen ölçek kabı.",
-    "yasakli_kelimeler": ["yağmur", "ölçer", "milimetre", "silindir", "toplama"]
+    "yasakli_kelimeler": [
+      "yağmur",
+      "ölçer",
+      "milimetre",
+      "silindir",
+      "toplama"
+    ],
+    "zorluk": "kolay"
   },
   {
     "id": 39,
     "kategori": "meteoroloji",
     "kelime": "izobar",
     "aciklama": "hava durumu haritalarında atmosfer basıncı eşit olan noktaları birbirine bağlayan eşbasınç eğrisi.",
-    "yasakli_kelimeler": ["eşbasınç", "harita", "çizgi", "eğri", "aynı"]
+    "yasakli_kelimeler": [
+      "eşbasınç",
+      "harita",
+      "çizgi",
+      "eğri",
+      "aynı"
+    ],
+    "zorluk": "kolay"
   },
   {
     "id": 40,
     "kategori": "meteoroloji",
     "kelime": "izoterm",
     "aciklama": "sinoptik haritalarda sıcaklık değerleri birbirine eşit olan coğrafi noktaları birleştiren eşsıcaklık çizgisi.",
-    "yasakli_kelimeler": ["eşsıcaklık", "çizgi", "derece", "harita", "nokta"]
+    "yasakli_kelimeler": [
+      "eşsıcaklık",
+      "çizgi",
+      "derece",
+      "harita",
+      "nokta"
+    ],
+    "zorluk": "kolay"
   },
   {
     "id": 41,
     "kategori": "meteoroloji",
     "kelime": "izohips",
     "aciklama": "meteorolojide belirli bir standart basınç seviyesinin yerden yüksekliğini gösteren eşyükseklik eğrisi.",
-    "yasakli_kelimeler": ["eşyükseklik", "seviye", "irtifa", "geopotansiyel", "eğri"]
+    "yasakli_kelimeler": [
+      "eşyükseklik",
+      "seviye",
+      "irtifa",
+      "geopotansiyel",
+      "eğri"
+    ],
+    "zorluk": "kolay"
   },
   {
     "id": 42,
     "kategori": "meteoroloji",
     "kelime": "derece gün",
     "aciklama": "binaların ısıtma veya soğutma ihtiyaçlarını tahmin etmek için ortalama sıcaklığın eşik değerden sapmasını gösteren indeks.",
-    "yasakli_kelimeler": ["enerji", "ısıtma", "soğutma", "indeks", "tüketim"]
+    "yasakli_kelimeler": [
+      "enerji",
+      "ısıtma",
+      "soğutma",
+      "indeks",
+      "tüketim"
+    ],
+    "zorluk": "orta"
   },
   {
     "id": 43,
     "kategori": "meteoroloji",
     "kelime": "virga",
     "aciklama": "buluttan yağış olarak düşen ancak yer seviyesine ulaşamadan kuru hava katmanında buharlaşıp kaybolan yağış çizgileri.",
-    "yasakli_kelimeler": ["buharlaşma", "yere değmeyen", "yağmur", "kuru", "iz"]
+    "yasakli_kelimeler": [
+      "buharlaşma",
+      "yere değmeyen",
+      "yağmur",
+      "kuru",
+      "iz"
+    ],
+    "zorluk": "zor"
   },
   {
     "id": 44,
     "kategori": "meteoroloji",
     "kelime": "mammatus",
     "aciklama": "genellikle fırtına bulutlarının alt tabanında sarkan kese veya meme benzeri dairesel kabarcık bulut deseni.",
-    "yasakli_kelimeler": ["kese", "torba", "fırtına", "bulut tabanı", "sarkıntı"]
+    "yasakli_kelimeler": [
+      "kese",
+      "torba",
+      "fırtına",
+      "bulut tabanı",
+      "sarkıntı"
+    ],
+    "zorluk": "orta"
   },
   {
     "id": 45,
     "kategori": "meteoroloji",
     "kelime": "altokümülüs",
     "aciklama": "orta irtifalarda görülen, koyun sürüsü ya da balık sırtı şeklinde dizilmiş dalgalı beyaz veya gri bulut kütlesi.",
-    "yasakli_kelimeler": ["orta katman", "koyun", "dalgalı", "küme", "balık sırtı"]
+    "yasakli_kelimeler": [
+      "orta katman",
+      "koyun",
+      "dalgalı",
+      "küme",
+      "balık sırtı"
+    ],
+    "zorluk": "orta"
   },
   {
     "id": 46,
     "kategori": "meteoroloji",
     "kelime": "stratocumulus",
     "aciklama": "geniş alanları kaplayan, aralarından yer yer gökyüzünün göründüğü düşük irtifalı yuvarlak yığınlı bulut örtüsü.",
-    "yasakli_kelimeler": ["tabaka", "yığın", "alçak", "gri", "aralıklı"]
+    "yasakli_kelimeler": [
+      "tabaka",
+      "yığın",
+      "alçak",
+      "gri",
+      "aralıklı"
+    ],
+    "zorluk": "orta"
   },
   {
     "id": 47,
     "kategori": "meteoroloji",
     "kelime": "nimbostratus",
     "aciklama": "bütün gökyüzünü karanlık bir tül gibi kaplayan, saatlerce kesintisiz ve tekdüze yağmur veya kar bırakan kalın bulut.",
-    "yasakli_kelimeler": ["karanlık", "kesintisiz", "yağmur bulutu", "kasvet", "kalın"]
+    "yasakli_kelimeler": [
+      "karanlık",
+      "kesintisiz",
+      "yağmur bulutu",
+      "kasvet",
+      "kalın"
+    ],
+    "zorluk": "orta"
   },
   {
     "id": 48,
     "kategori": "meteoroloji",
     "kelime": "mercek bulutu",
     "aciklama": "dağ tepelerinin üzerinde hava dalgalanmaları sebebiyle oluşan, uçan daireye benzeyen pürüzsüz durağan bulut.",
-    "yasakli_kelimeler": ["lentiküler", "dağ", "uçan daire", "dalga", "oval"]
+    "yasakli_kelimeler": [
+      "lentiküler",
+      "dağ",
+      "uçan daire",
+      "dalga",
+      "oval"
+    ],
+    "zorluk": "orta"
   },
   {
     "id": 49,
     "kategori": "meteoroloji",
     "kelime": "hadley hücresi",
     "aciklama": "ekvator ile dönenceler arasında havanın yükselip kutba doğru akması ve çökelmesiyle oluşan dev konveksiyon hücresi.",
-    "yasakli_kelimeler": ["dolaşım", "ekvator", "dönence", "hücre", "tropik"]
+    "yasakli_kelimeler": [
+      "dolaşım",
+      "ekvator",
+      "dönence",
+      "hücre",
+      "tropik"
+    ],
+    "zorluk": "orta"
   },
   {
     "id": 50,
     "kategori": "meteoroloji",
     "kelime": "ferrel hücresi",
     "aciklama": "orta enlemlerde hadley ve polar hücreleri arasında yer alan ters yönlü dolaylı atmosferik dolaşım döngüsü.",
-    "yasakli_kelimeler": ["orta enlem", "hücre", "dolaşım", "çark", "üçlü"]
+    "yasakli_kelimeler": [
+      "orta enlem",
+      "hücre",
+      "dolaşım",
+      "çark",
+      "üçlü"
+    ],
+    "zorluk": "orta"
   },
   {
     "id": 51,
     "kategori": "meteoroloji",
     "kelime": "rüzgar kayması",
     "aciklama": "atmosferde kısa bir mesafe içinde rüzgarın hızında veya yönünde meydana gelen ani ve tehlikeli değişim.",
-    "yasakli_kelimeler": ["wind shear", "uçak", "ani", "türbülans", "yön"]
+    "yasakli_kelimeler": [
+      "wind shear",
+      "uçak",
+      "ani",
+      "türbülans",
+      "yön"
+    ],
+    "zorluk": "orta"
   },
   {
     "id": 52,
     "kategori": "meteoroloji",
     "kelime": "mikropatlama",
     "aciklama": "fırtına bulutunun içinden yere doğru aniden inen ve yer yüzeyine çarparak her yöne dağılan yıkıcı hava sütunu.",
-    "yasakli_kelimeler": ["downburst", "aşağı yönlü", "ani rüzgar", "uçak kazası", "sütun"]
+    "yasakli_kelimeler": [
+      "downburst",
+      "aşağı yönlü",
+      "ani rüzgar",
+      "uçak kazası",
+      "sütun"
+    ],
+    "zorluk": "orta"
   },
   {
     "id": 53,
     "kategori": "meteoroloji",
     "kelime": "süper hücre",
     "aciklama": "içinde dikey bir dönme hareketi (mezosiklon) barındıran, dev dolu ve şiddetli hortumlar üreten en tehlikeli fırtına.",
-    "yasakli_kelimeler": ["mezosiklon", "dolu", "hortum", "dönen fırtına", "tehlikeli"]
+    "yasakli_kelimeler": [
+      "mezosiklon",
+      "dolu",
+      "hortum",
+      "dönen fırtına",
+      "tehlikeli"
+    ],
+    "zorluk": "orta"
   },
   {
     "id": 54,
     "kategori": "meteoroloji",
     "kelime": "derecho",
     "aciklama": "yüzlerce kilometre boyunca düz bir hat üzerinde ilerleyerek kasırga gücünde rüzgar hasarı veren yay fırtınası kompleksi.",
-    "yasakli_kelimeler": ["düz hat", "fırtına", "yay", "geniş", "hasar"]
+    "yasakli_kelimeler": [
+      "düz hat",
+      "fırtına",
+      "yay",
+      "geniş",
+      "hasar"
+    ],
+    "zorluk": "zor"
   },
   {
     "id": 55,
     "kategori": "meteoroloji",
     "kelime": "habub",
     "aciklama": "çöl fırtınası veya gök gürültülü sağanakların önünde yükselen devasa bir toz ve kum duvarı.",
-    "yasakli_kelimeler": ["toz fırtınası", "kum", "duvar", "çöl", "ani"]
+    "yasakli_kelimeler": [
+      "toz fırtınası",
+      "kum",
+      "duvar",
+      "çöl",
+      "ani"
+    ],
+    "zorluk": "zor"
   },
   {
     "id": 56,
     "kategori": "meteoroloji",
     "kelime": "bora",
     "aciklama": "kışın karla kaplı yüksek yaylalardan adriyatik veya ege kıyılarına doğru hızla esen dondurucu ve kuru rüzgar.",
-    "yasakli_kelimeler": ["adriyatik", "soğuk", "katabatik", "şiddetli", "yayla"]
+    "yasakli_kelimeler": [
+      "adriyatik",
+      "soğuk",
+      "katabatik",
+      "şiddetli",
+      "yayla"
+    ],
+    "zorluk": "orta"
   },
   {
     "id": 57,
     "kategori": "meteoroloji",
     "kelime": "mistral",
     "aciklama": "fransa'nın iç kısımlarından rhone vadisi boyunca akdeniz kıyılarına esen çok kuvvetli ve serin kuzey rüzgarı.",
-    "yasakli_kelimeler": ["fransa", "vadi", "akdeniz", "kuzey", "kuru rüzgar"]
+    "yasakli_kelimeler": [
+      "fransa",
+      "vadi",
+      "akdeniz",
+      "kuzey",
+      "kuru rüzgar"
+    ],
+    "zorluk": "orta"
   },
   {
     "id": 58,
     "kategori": "meteoroloji",
     "kelime": "siroko",
     "aciklama": "sahra çölü'nden kuzey afrika ve akdeniz'e doğru esen sıcak, boğucu ve toz yüklü güney rüzgarı.",
-    "yasakli_kelimeler": ["sahra", "çöl", "sıcak", "toz", "akdeniz"]
+    "yasakli_kelimeler": [
+      "sahra",
+      "çöl",
+      "sıcak",
+      "toz",
+      "akdeniz"
+    ],
+    "zorluk": "orta"
   },
   {
     "id": 59,
     "kategori": "meteoroloji",
     "kelime": "lodos",
     "aciklama": "türkiye'de güneybatıdan esen, kışın karları hızla eriten, deniz ulaşımını aksatan ılık ve sert rüzgar.",
-    "yasakli_kelimeler": ["güneybatı", "baş ağrısı", "deniz", "soba", "erime"]
+    "yasakli_kelimeler": [
+      "güneybatı",
+      "baş ağrısı",
+      "deniz",
+      "soba",
+      "erime"
+    ],
+    "zorluk": "kolay"
   },
   {
     "id": 60,
     "kategori": "meteoroloji",
     "kelime": "poyraz",
     "aciklama": "kuzeydoğudan esen, kış aylarında kar fırtınası ve keskin soğuk getiren kuru rüzgar türü.",
-    "yasakli_kelimeler": ["kuzeydoğu", "soğuk", "kar", "keskin", "sert"]
+    "yasakli_kelimeler": [
+      "kuzeydoğu",
+      "soğuk",
+      "kar",
+      "keskin",
+      "sert"
+    ],
+    "zorluk": "kolay"
   },
   {
     "id": 61,
     "kategori": "meteoroloji",
     "kelime": "meltem",
     "aciklama": "yaz aylarında karalar ile denizlerin günlük ısınma farkından doğan, gündüz denizden gece karadan esen tatlı serin rüzgar.",
-    "yasakli_kelimeler": ["ege", "günlük", "kıyı", "serin", "deniz meltemi"]
+    "yasakli_kelimeler": [
+      "ege",
+      "günlük",
+      "kıyı",
+      "serin",
+      "deniz meltemi"
+    ],
+    "zorluk": "kolay"
   },
   {
     "id": 62,
     "kategori": "meteoroloji",
     "kelime": "katabatik rüzgar",
     "aciklama": "yüksek buzullarda veya dağ platolarında soğuyan ağır havanın yerçekimi etkisiyle vadilere doğru aşağı akması.",
-    "yasakli_kelimeler": ["yerçekimi", "aşağı", "dağdan inen", "yoğun", "soğuk akıntı"]
+    "yasakli_kelimeler": [
+      "yerçekimi",
+      "aşağı",
+      "dağdan inen",
+      "yoğun",
+      "soğuk akıntı"
+    ],
+    "zorluk": "orta"
   },
   {
     "id": 63,
     "kategori": "meteoroloji",
     "kelime": "anabatik rüzgar",
     "aciklama": "gündüz güneş ışığıyla ısınan dağ yamaçları boyunca vadiden yukarıya doğru yükselen ılık hava akımı.",
-    "yasakli_kelimeler": ["yamaç", "yukarı", "ısınma", "vadi rüzgarı", "gündüz"]
+    "yasakli_kelimeler": [
+      "yamaç",
+      "yukarı",
+      "ısınma",
+      "vadi rüzgarı",
+      "gündüz"
+    ],
+    "zorluk": "orta"
   },
   {
     "id": 64,
     "kategori": "meteoroloji",
     "kelime": "hortum",
     "aciklama": "fırtına bulutunun altından yere kadar uzanan, dönen huni biçimli çok şiddetli hava sütunu.",
-    "yasakli_kelimeler": ["tornado", "huni", "dönme", "yıkım", "fırtına"]
+    "yasakli_kelimeler": [
+      "tornado",
+      "huni",
+      "dönme",
+      "yıkım",
+      "fırtına"
+    ],
+    "zorluk": "kolay"
   },
   {
     "id": 65,
     "kategori": "meteoroloji",
     "kelime": "su hortumu",
     "aciklama": "deniz veya göl yüzeyinde oluşan ve su damlacıklarını yukarı doğru çeken dönen sütun girdabı.",
-    "yasakli_kelimeler": ["deniz", "su", "hortum", "girdap", "göl"]
+    "yasakli_kelimeler": [
+      "deniz",
+      "su",
+      "hortum",
+      "girdap",
+      "göl"
+    ],
+    "zorluk": "kolay"
   },
   {
     "id": 66,
     "kategori": "meteoroloji",
     "kelime": "kasırga",
     "aciklama": "tropikal okyanuslar üzerinde gelişen, merkezinde sakin bir göz bulunan yüzlerce kilometre genişlikteki devasa fırtına.",
-    "yasakli_kelimeler": ["hurrican", "tayfun", "okyanus", "göz", "tropikal"]
+    "yasakli_kelimeler": [
+      "hurrican",
+      "tayfun",
+      "okyanus",
+      "göz",
+      "tropikal"
+    ],
+    "zorluk": "kolay"
   },
   {
     "id": 67,
     "kategori": "meteoroloji",
     "kelime": "fırtına gözü",
     "aciklama": "kasırgaların tam merkezinde rüzgarın durulduğu, gökyüzünün açıldığı dairesel alçak basınç çukuru.",
-    "yasakli_kelimeler": ["merkez", "sakin", "kasırga", "çukur", "açık hava"]
+    "yasakli_kelimeler": [
+      "merkez",
+      "sakin",
+      "kasırga",
+      "çukur",
+      "açık hava"
+    ],
+    "zorluk": "kolay"
   },
   {
     "id": 68,
     "kategori": "meteoroloji",
     "kelime": "fırtına kabarması",
     "aciklama": "kasırga rüzgarlarının ve aşırı düşük basıncın deniz seviyesini yükselterek kıyıları sular altında bırakması.",
-    "yasakli_kelimeler": ["kıyı", "taşkın", "deniz seviyesi", "kasırga", "dalga"]
+    "yasakli_kelimeler": [
+      "kıyı",
+      "taşkın",
+      "deniz seviyesi",
+      "kasırga",
+      "dalga"
+    ],
+    "zorluk": "orta"
   },
   {
     "id": 69,
     "kategori": "meteoroloji",
     "kelime": "el nino",
     "aciklama": "pasifik okyanusu'nun orta ve doğu kısımlarındaki yüzey sularının periyodik olarak ısınmasıyla küresel iklimi bozan fenomen.",
-    "yasakli_kelimeler": ["pasifik", "okyanus", "ısınma", "küresel", "hava dengesi"]
+    "yasakli_kelimeler": [
+      "pasifik",
+      "okyanus",
+      "ısınma",
+      "küresel",
+      "hava dengesi"
+    ],
+    "zorluk": "kolay"
   },
   {
     "id": 70,
     "kategori": "meteoroloji",
     "kelime": "la nina",
     "aciklama": "tropikal pasifik sularının normalden çok daha fazla soğuyarak kuraklık ve sert kış dalgalanmalarına yol açması hali.",
-    "yasakli_kelimeler": ["soğuma", "pasifik", "okyanus", "zıt", "kardeş"]
+    "yasakli_kelimeler": [
+      "soğuma",
+      "pasifik",
+      "okyanus",
+      "zıt",
+      "kardeş"
+    ],
+    "zorluk": "kolay"
   },
   {
     "id": 71,
     "kategori": "meteoroloji",
     "kelime": "kuzey atlantik salınımı",
     "aciklama": "izlanda alçak basıncı ile azor yüksek basıncı arasındaki basınç farklarının avrupa hava koşullarını belirlemesi.",
-    "yasakli_kelimeler": ["nao", "izlanda", "azor", "avrupa", "basınç farkı"]
+    "yasakli_kelimeler": [
+      "nao",
+      "izlanda",
+      "azor",
+      "avrupa",
+      "basınç farkı"
+    ],
+    "zorluk": "orta"
   },
   {
     "id": 72,
     "kategori": "meteoroloji",
     "kelime": "morina",
     "aciklama": "buzulların hareketiyle sürüklenip vadilerin kenarlarında ve uçlarında biriken taş, çakıl ve toprak yığını.",
-    "yasakli_kelimeler": ["buzul", "taş", "moren", "sürüklenme", "tortu"]
+    "yasakli_kelimeler": [
+      "buzul",
+      "taş",
+      "moren",
+      "sürüklenme",
+      "tortu"
+    ],
+    "zorluk": "zor"
   },
   {
     "id": 73,
     "kategori": "meteoroloji",
     "kelime": "albedo etkisi",
     "aciklama": "kutup buzullarının ve kar örtüsünün güneş ışınlarını atmosfere geri yansıtarak dünyayı serin tutma yeteneği.",
-    "yasakli_kelimeler": ["yansıtma", "buzul", "beyaz", "güneş ışığı", "ısı koruma"]
+    "yasakli_kelimeler": [
+      "yansıtma",
+      "buzul",
+      "beyaz",
+      "güneş ışığı",
+      "ısı koruma"
+    ],
+    "zorluk": "kolay"
   },
   {
     "id": 74,
     "kategori": "meteoroloji",
     "kelime": "sera etkisi",
     "aciklama": "atmosferdeki karbondioksit ve su buharı gibi gazların yeryüzünden yansıyan kızılötesi ısıyı tutarak gezegeni ısıtması.",
-    "yasakli_kelimeler": ["karbondioksit", "küresel ısınma", "gaz", "ısı tutma", "tuzak"]
+    "yasakli_kelimeler": [
+      "karbondioksit",
+      "küresel ısınma",
+      "gaz",
+      "ısı tutma",
+      "tuzak"
+    ],
+    "zorluk": "kolay"
   },
   {
     "id": 75,
     "kategori": "meteoroloji",
     "kelime": "ozon tabakası",
     "aciklama": "stratosferde güneşten gelen öldürücü ultraviyole ışınlarını filtreleyen üç oksijenli gaz tabakası.",
-    "yasakli_kelimeler": ["stratosfer", "morötesi", "filtre", "delik", "üç atom"]
+    "yasakli_kelimeler": [
+      "stratosfer",
+      "morötesi",
+      "filtre",
+      "delik",
+      "üç atom"
+    ],
+    "zorluk": "kolay"
   },
   {
     "id": 76,
     "kategori": "meteoroloji",
     "kelime": "sinoptik harita",
     "aciklama": "geniş bir coğrafyada aynı anda yapılan gözlemlerle basınç, cephe ve yağış durumlarını gösteren analiz haritası.",
-    "yasakli_kelimeler": ["harita", "tahmin", "sembol", "cephe çizgisi", "aynı an"]
+    "yasakli_kelimeler": [
+      "harita",
+      "tahmin",
+      "sembol",
+      "cephe çizgisi",
+      "aynı an"
+    ],
+    "zorluk": "orta"
   },
   {
     "id": 77,
     "kategori": "meteoroloji",
     "kelime": "radyosonda",
     "aciklama": "meteoroloji balonuna bağlanarak atmosferin dikey katmanlarındaki basınç, sıcaklık ve nemi ölçüp telsizle ileten alet.",
-    "yasakli_kelimeler": ["balon", "ölçüm kutusu", "yükselme", "telsiz", "dikey profil"]
+    "yasakli_kelimeler": [
+      "balon",
+      "ölçüm kutusu",
+      "yükselme",
+      "telsiz",
+      "dikey profil"
+    ],
+    "zorluk": "orta"
   },
   {
     "id": 78,
     "kategori": "meteoroloji",
     "kelime": "doppler radarı",
     "aciklama": "yağışın şiddetini ve bulut içi hava damlacıklarının hareket hızını frekans kaymasıyla saptayan hava radarı.",
-    "yasakli_kelimeler": ["radar", "yağış", "yankı", "frekans", "bulut hareketi"]
+    "yasakli_kelimeler": [
+      "radar",
+      "yağış",
+      "yankı",
+      "frekans",
+      "bulut hareketi"
+    ],
+    "zorluk": "kolay"
   },
   {
     "id": 79,
     "kategori": "meteoroloji",
     "kelime": "şimşek",
     "aciklama": "aynı bulutun farklı kısımları veya iki ayrı bulut arasında meydana gelen yüksek voltajlı elektrik deşarjı parıltısı.",
-    "yasakli_kelimeler": ["elektrik", "parlama", "bulut", "yıldırım", "voltaj"]
+    "yasakli_kelimeler": [
+      "elektrik",
+      "parlama",
+      "bulut",
+      "yıldırım",
+      "voltaj"
+    ],
+    "zorluk": "kolay"
   },
   {
     "id": 80,
     "kategori": "meteoroloji",
     "kelime": "yıldırım",
     "aciklama": "yüklü bir fırtına bulutu ile yer yüzeyi arasında gerçekleşen şiddetli ve yıkıcı elektrik akımı çarpması.",
-    "yasakli_kelimeler": ["paratoner", "toprak", "çarpma", "akım", "ağaç"]
+    "yasakli_kelimeler": [
+      "paratoner",
+      "toprak",
+      "çarpma",
+      "akım",
+      "ağaç"
+    ],
+    "zorluk": "kolay"
   },
   {
     "id": 81,
     "kategori": "meteoroloji",
     "kelime": "gök gürültüsü",
     "aciklama": "şimşek kanalındaki havanın aniden binlerce dereceye ısınıp patlayıcı şekilde genleşmesiyle oluşan ses dalgası.",
-    "yasakli_kelimeler": ["ses", "patlama", "genleşme", "gürültü", "şimşekten sonra"]
+    "yasakli_kelimeler": [
+      "ses",
+      "patlama",
+      "genleşme",
+      "gürültü",
+      "şimşekten sonra"
+    ],
+    "zorluk": "kolay"
   },
   {
     "id": 82,
     "kategori": "meteoroloji",
     "kelime": "rüzgar çorabı",
     "aciklama": "havaalanlarında ve viyadüklerde rüzgarın yönünü ve yaklaşık şiddetini görsel olarak bildiren kumaş koni.",
-    "yasakli_kelimeler": ["havalimanı", "koni", "kumaş", "yön", "turuncu"]
+    "yasakli_kelimeler": [
+      "havalimanı",
+      "koni",
+      "kumaş",
+      "yön",
+      "turuncu"
+    ],
+    "zorluk": "kolay"
   },
   {
     "id": 83,
     "kategori": "meteoroloji",
     "kelime": "rüzgar gülü",
     "aciklama": "bir bölgede rüzgarların yıl boyunca hangi yönlerden ne sıklıkla ve hızla estiğini gösteren dairesel diyagram.",
-    "yasakli_kelimeler": ["grafik", "yön frekansı", "esme yönü", "hisse", "diyagram"]
+    "yasakli_kelimeler": [
+      "grafik",
+      "yön frekansı",
+      "esme yönü",
+      "hisse",
+      "diyagram"
+    ],
+    "zorluk": "kolay"
   },
   {
     "id": 84,
     "kategori": "meteoroloji",
     "kelime": "hissedilen sıcaklık",
     "aciklama": "termometre değerinin rüzgar hızı ve bağıl nem oranıyla birleşerek insan vücudu üzerinde bıraktığı sıcaklık etkisi.",
-    "yasakli_kelimeler": ["vücut", "nem", "rüzgar etkisi", "algılanan", "terleme"]
+    "yasakli_kelimeler": [
+      "vücut",
+      "nem",
+      "rüzgar etkisi",
+      "algılanan",
+      "terleme"
+    ],
+    "zorluk": "kolay"
   },
   {
     "id": 85,
     "kategori": "meteoroloji",
     "kelime": "don günü",
     "aciklama": "gün içerisindeki en düşük hava sıcaklığının sıfır santigrat derecenin veya altına indiği gün.",
-    "yasakli_kelimeler": ["sıfır altı", "tarım", "buzlanma", "gece", "en düşük"]
+    "yasakli_kelimeler": [
+      "sıfır altı",
+      "tarım",
+      "buzlanma",
+      "gece",
+      "en düşük"
+    ],
+    "zorluk": "kolay"
   },
   {
     "id": 86,
     "kategori": "meteoroloji",
     "kelime": "tropikal gece",
     "aciklama": "gece boyunca en düşük sıcaklığın yirmi santigrat derecenin altına inmediği bunaltıcı yaz gecesi.",
-    "yasakli_kelimeler": ["yirmi derece", "bunaltıcı", "uyku", "yaz", "en az"]
+    "yasakli_kelimeler": [
+      "yirmi derece",
+      "bunaltıcı",
+      "uyku",
+      "yaz",
+      "en az"
+    ],
+    "zorluk": "kolay"
   },
   {
     "id": 87,
     "kategori": "meteoroloji",
     "kelime": "ısı adası",
     "aciklama": "betonarme yapılar, asfalt ve enerji tüketimi nedeniyle büyük şehir merkezlerinin kırsal alanlardan çok daha sıcak olması.",
-    "yasakli_kelimeler": ["şehir", "beton", "asfalt", "kırsal", "sıcaklık farkı"]
+    "yasakli_kelimeler": [
+      "şehir",
+      "beton",
+      "asfalt",
+      "kırsal",
+      "sıcaklık farkı"
+    ],
+    "zorluk": "kolay"
   },
   {
     "id": 88,
     "kategori": "meteoroloji",
     "kelime": "kuru hava",
     "aciklama": "içerisinde su buharı bulunmayan veya bağıl nem oranı son derece düşük olan atmosferik hava bileşimi.",
-    "yasakli_kelimeler": ["nemsiz", "kurak", "çöl", "buharsız", "statik"]
+    "yasakli_kelimeler": [
+      "nemsiz",
+      "kurak",
+      "çöl",
+      "buharsız",
+      "statik"
+    ],
+    "zorluk": "kolay"
   },
   {
     "id": 89,
     "kategori": "meteoroloji",
     "kelime": "kriyosfer",
     "aciklama": "dünya üzerinde kar örtüsü, buzullar, donmuş toprak ve deniz buzlarının oluşturduğu soğuk kabuk küresi.",
-    "yasakli_kelimeler": ["buzul", "donmuş", "kutup kuşağı", "küre", "kar örtüsü"]
+    "yasakli_kelimeler": [
+      "buzul",
+      "donmuş",
+      "kutup kuşağı",
+      "küre",
+      "kar örtüsü"
+    ],
+    "zorluk": "orta"
   },
   {
     "id": 90,
     "kategori": "meteoroloji",
     "kelime": "permafrost",
     "aciklama": "kuzey kutup bölgesinde en az iki yıl boyunca sürekli olarak sıfır derecenin altında donmuş halde kalan toprak tabakası.",
-    "yasakli_kelimeler": ["donmuş toprak", "sibirya", "metan", "çözülme", "tundra"]
+    "yasakli_kelimeler": [
+      "donmuş toprak",
+      "sibirya",
+      "metan",
+      "çözülme",
+      "tundra"
+    ],
+    "zorluk": "kolay"
   },
   {
     "id": 91,
     "kategori": "meteoroloji",
     "kelime": "tipi",
     "aciklama": "şiddetli rüzgarın yeni yağan veya yerde biriken kuru karları havaya savurarak görüş mesafesini sıfıra indirmesi.",
-    "yasakli_kelimeler": ["kar", "savurma", "görüş", "fırtına", "blizzard"]
+    "yasakli_kelimeler": [
+      "kar",
+      "savurma",
+      "görüş",
+      "fırtına",
+      "blizzard"
+    ],
+    "zorluk": "kolay"
   },
   {
     "id": 92,
     "kategori": "meteoroloji",
     "kelime": "pasa",
     "aciklama": "rüzgar hızında anlık olarak gerçekleşen kısa süreli, keskin ve sert hız artışı.",
-    "yasakli_kelimeler": ["hamle", "ani artış", "rüzgar darbesi", "esinti", "şiddet"]
+    "yasakli_kelimeler": [
+      "hamle",
+      "ani artış",
+      "rüzgar darbesi",
+      "esinti",
+      "şiddet"
+    ],
+    "zorluk": "zor"
   },
   {
     "id": 93,
     "kategori": "meteoroloji",
     "kelime": "hale",
     "aciklama": "yüksek sirrüs bulutlarındaki altıgen buz kristallerinin güneş veya ay ışığını kırmasıyla oluşan parlak dairesel çember.",
-    "yasakli_kelimeler": ["çember", "halka", "güneş", "buz kristali", "kırılma"]
+    "yasakli_kelimeler": [
+      "çember",
+      "halka",
+      "güneş",
+      "buz kristali",
+      "kırılma"
+    ],
+    "zorluk": "kolay"
   },
   {
     "id": 94,
     "kategori": "meteoroloji",
     "kelime": "yalancı güneş",
     "aciklama": "güneşin her iki yanında yirmi iki derece açıyla beliren parlak renkli ışık lekeleri optik olayı.",
-    "yasakli_kelimeler": ["parhelyon", "yan", "leke", "buz prizması", "çift"]
+    "yasakli_kelimeler": [
+      "parhelyon",
+      "yan",
+      "leke",
+      "buz prizması",
+      "çift"
+    ],
+    "zorluk": "orta"
   },
   {
     "id": 95,
     "kategori": "meteoroloji",
     "kelime": "gökkuşağı",
     "aciklama": "güneş ışığının yağmur damlaları içine girerken kırılması, yansıması ve renk tayfına ayrılmasıyla gökte beliren yay.",
-    "yasakli_kelimeler": ["renk", "damla", "yay", "kırılma", "yedi"]
+    "yasakli_kelimeler": [
+      "renk",
+      "damla",
+      "yay",
+      "kırılma",
+      "yedi"
+    ],
+    "zorluk": "kolay"
   },
   {
     "id": 96,
     "kategori": "meteoroloji",
     "kelime": "asit yağmuru",
     "aciklama": "sanayi gazlarının atmosferdeki su buharıyla birleşerek sülfürik ve nitrik asit oluşturup yağışla toprağa inmesi.",
-    "yasakli_kelimeler": ["kükürt", "kirlilik", "ph", "orman zararı", "aşınma"]
+    "yasakli_kelimeler": [
+      "kükürt",
+      "kirlilik",
+      "ph",
+      "orman zararı",
+      "aşınma"
+    ],
+    "zorluk": "kolay"
   },
   {
     "id": 97,
     "kategori": "meteoroloji",
     "kelime": "çiy noktası çöküntüsü",
     "aciklama": "hava sıcaklığı ile çiğ noktası arasındaki fark olup havanın doygunluktan ne kadar uzak olduğunu gösteren değer.",
-    "yasakli_kelimeler": ["fark", "kuru hava", "doygunluk", "açıklık", "nem payı"]
+    "yasakli_kelimeler": [
+      "fark",
+      "kuru hava",
+      "doygunluk",
+      "açıklık",
+      "nem payı"
+    ],
+    "zorluk": "orta"
   },
   {
     "id": 98,
     "kategori": "meteoroloji",
     "kelime": "evapotranspirasyon",
     "aciklama": "toprak ve su yüzeylerinden buharlaşma ile bitkilerin terleme yoluyla atmosfere verdiği toplam su buharı miktarı.",
-    "yasakli_kelimeler": ["buharlaşma", "terleme", "bitki", "toprak kaybı", "döngü"]
+    "yasakli_kelimeler": [
+      "buharlaşma",
+      "terleme",
+      "bitki",
+      "toprak kaybı",
+      "döngü"
+    ],
+    "zorluk": "orta"
   },
   {
     "id": 99,
     "kategori": "meteoroloji",
     "kelime": "kuru termometre",
     "aciklama": "psikrometre üzerinde doğrudan ortam hava sıcaklığını gösteren ve haznesi ıslatılmamış normal termometre.",
-    "yasakli_kelimeler": ["psikrometre", "ortam", "ıslak olmayan", "sıcaklık", "ölçüm"]
+    "yasakli_kelimeler": [
+      "psikrometre",
+      "ortam",
+      "ıslak olmayan",
+      "sıcaklık",
+      "ölçüm"
+    ],
+    "zorluk": "kolay"
   },
   {
     "id": 100,
     "kategori": "meteoroloji",
     "kelime": "ıslak termometre",
     "aciklama": "haznesi ıslak bezle sarılarak havadaki su buharlaşması hızına bağlı soğumayı ölçen nem tayin aygıtı.",
-    "yasakli_kelimeler": ["bez", "buharlaşma", "nem oranı", "soğuma", "psikrometre"]
+    "yasakli_kelimeler": [
+      "bez",
+      "buharlaşma",
+      "nem oranı",
+      "soğuma",
+      "psikrometre"
+    ],
+    "zorluk": "kolay"
   }
 ]

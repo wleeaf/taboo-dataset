@@ -170,28 +170,28 @@
   {
     "id": 13,
     "kategori": "siber",
-    "kelime": "xss",
-    "aciklama": "web uygulamalarındaki açıklardan yararlanılarak kurbanın tarayıcısında zararlı javascript kodları çalıştırma saldırısı.",
+    "kelime": "zararlı betik çalıştırma",
+    "aciklama": "güvenilir bir web sayfasına zararlı istemci kodları enjekte ederek kullanıcıların tarayıcı oturumlarını veya çerezlerini ele geçirme saldırısı.",
     "yasakli_kelimeler": [
-      "tarayıcı",
-      "javascript",
-      "enjeksiyon",
-      "betik",
-      "çerez çalma"
+      "tarayıcı açığı",
+      "çerez hırsızlığı",
+      "istemci saldırısı",
+      "kod enjeksiyonu",
+      "oturum çalma"
     ],
     "zorluk": "zor"
   },
   {
     "id": 14,
     "kategori": "siber",
-    "kelime": "csrf",
-    "aciklama": "kullanıcının oturum açtığı güvenli bir web sitesinde haberi olmadan yetkisiz eylemler ve istekler yaptırma saldırısı.",
+    "kelime": "istek sahteciliği",
+    "aciklama": "kullanıcının oturum açmış olduğu bir sitede haberi olmadan yetkili işlemler veya para transferleri yapmasını sağlayan açık türü.",
     "yasakli_kelimeler": [
-      "istek",
-      "oturum",
-      "sahtecilik",
-      "kullanıcı yetkisi",
-      "kurban"
+      "kullanıcı oturumu",
+      "onaysız işlem",
+      "yetkisiz emir",
+      "oturum açığı",
+      "tarayıcı kandırma"
     ],
     "zorluk": "zor"
   },
@@ -548,28 +548,28 @@
   {
     "id": 40,
     "kategori": "siber",
-    "kelime": "siem",
-    "aciklama": "çeşitli ağ cihazları ve sunuculardan günlük kayıtlarını toplayıp korelasyon ve analiz yaparak tehditleri saptayan yazılım.",
+    "kelime": "güvenlik olayı yönetimi",
+    "aciklama": "kurum ağındaki tüm cihazlardan güvenlik günlüklerini toplayıp eşleştirerek siber tehditleri tespit eden merkezi sistem.",
     "yasakli_kelimeler": [
-      "günlük",
-      "log",
-      "korelasyon",
-      "analiz",
-      "olay"
+      "günlük kaydı",
+      "olay tespiti",
+      "merkezi izleme",
+      "tehdit analizi",
+      "korelasyon"
     ],
     "zorluk": "orta"
   },
   {
     "id": 41,
     "kategori": "siber",
-    "kelime": "soar",
-    "aciklama": "güvenlik operasyonlarında tekrarlayan görevleri otomatikleştiren ve olaylara koordineli hızlı yanıt veren sistem.",
+    "kelime": "güvenlik otomasyonu",
+    "aciklama": "siber güvenlik uyarılarına karşı müdahale adımlarını ve olay yanıt süreçlerini otomatik olarak yürüten teknoloji.",
     "yasakli_kelimeler": [
-      "otomasyon",
-      "orkestrasyon",
-      "yanıt",
-      "müdahale",
-      "süreç"
+      "olay müdahalesi",
+      "otomatik yanıt",
+      "iş akışı",
+      "tehdit giderme",
+      "süreç yönetimi"
     ],
     "zorluk": "zor"
   },
@@ -744,42 +744,42 @@
   {
     "id": 54,
     "kategori": "siber",
-    "kelime": "dns zehirlenmesi",
-    "aciklama": "alan adı sunucusunun önbelleğindeki adreslerin değiştirilerek kullanıcıların sahte web sitelerine yönlendirilmesi suçu.",
+    "kelime": "önbellek zehirlenmesi",
+    "aciklama": "sunucunun adres tablosuna sahte kayıtlar ekleyerek kullanıcıları gitmek istedikleri site yerine dolandırıcı bir adrese yönlendirme saldırısı.",
     "yasakli_kelimeler": [
-      "alan adı",
-      "yönlendirme",
-      "ip",
-      "sunucu",
-      "önbellek"
+      "sahte yönlendirme",
+      "isim çözümleme",
+      "tablo tahrifatı",
+      "sahte adres",
+      "sunucu manipülasyonu"
     ],
     "zorluk": "zor"
   },
   {
     "id": 55,
     "kategori": "siber",
-    "kelime": "arp saptırma",
-    "aciklama": "yerel ağdaki cihazlara sahte arp mesajları göndererek saldırganın kendi mac adresini ağ geçidi gibi tanıtması saldırısı.",
+    "kelime": "adres çözümleme zehirlemesi",
+    "aciklama": "yerel ağda sahte adres eşleme mesajları yayınlayarak trafiği araya girip dinleyen korsanın cihazı üzerinden akıtma yöntemi.",
     "yasakli_kelimeler": [
-      "yerel ağ",
-      "mac adresi",
-      "sahte",
-      "paket",
-      "yönlendirici"
+      "yerel ağ tuzağı",
+      "fiziksel adres eşleme",
+      "araya girme",
+      "ağ dinleme",
+      "sahte paket yayma"
     ],
     "zorluk": "zor"
   },
   {
     "id": 56,
     "kategori": "siber",
-    "kelime": "ip sahteciliği",
-    "aciklama": "ağ paketlerinin başlığındaki kaynak adres bilgisini değiştirerek saldırının kimden geldiğini gizleme veya yetki aşımı yöntemi.",
+    "kelime": "kaynak adres sahteciliği",
+    "aciklama": "ağ paketlerinin başlık kısmındaki gönderen adresini değiştirerek trafiğin başka bir kaynaktan geliyormuş gibi gösterilmesi hilesi.",
     "yasakli_kelimeler": [
-      "kaynak",
-      "başlık",
-      "adres",
-      "paket",
-      "taklit"
+      "sahte gönderici",
+      "paket başlığı",
+      "kimlik gizleme",
+      "ağ paketi",
+      "sahte bilgi"
     ],
     "zorluk": "kolay"
   },
@@ -1024,28 +1024,28 @@
   {
     "id": 74,
     "kategori": "siber",
-    "kelime": "ssl soyma",
-    "aciklama": "kullanıcı ile sunucu arasındaki şifreli https bağlantısını araya girerek güvensiz düz http bağlantısına dönüştürme saldırısı.",
+    "kelime": "güvenli bağlantı düşürme",
+    "aciklama": "tarayıcı ile sunucu arasındaki şifreli bağlantıyı araya girerek şifresiz düz metin bağlantıya zorlayıp verileri okuma tekniği.",
     "yasakli_kelimeler": [
-      "şifresiz",
-      "dönüştürme",
-      "bağlantı",
-      "araya girme",
-      "protokol"
+      "şifresiz bağlantı",
+      "şifre kırma",
+      "aradaki adam",
+      "bağlantı geriletme",
+      "düz metin aktarımı"
     ],
     "zorluk": "zor"
   },
   {
     "id": 75,
     "kategori": "siber",
-    "kelime": "tls el sıkışması",
-    "aciklama": "istemci ile sunucunun güvenli bir oturum başlatmak için şifreleme anahtarları ve algoritmaları üzerinde uzlaştığı başlangıç süreci.",
+    "kelime": "güvenli el sıkışma",
+    "aciklama": "istemci ile sunucu arasında şifreli veri aktarımı başlamadan önce sertifika doğrulama ve oturum şifresi belirleme süreci.",
     "yasakli_kelimeler": [
-      "protokol",
-      "başlangıç",
-      "şifreleme",
-      "anahtar",
-      "uzlaşma"
+      "şifreli iletişim",
+      "sertifika kontrolü",
+      "oturum anahtarı",
+      "bağlantı başlangıcı",
+      "güvenlik uzlaşması"
     ],
     "zorluk": "zor"
   },

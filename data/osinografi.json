@@ -30,28 +30,28 @@
   {
     "id": 3,
     "kategori": "osinografi",
-    "kelime": "upwelling",
-    "aciklama": "rüzgarın kıyı sularını açığa sürüklemesiyle derinlerdeki soğuk ve besin maddesi açısından zengin suların yüzeye çıkması.",
+    "kelime": "yüzeye yükselme akıntısı",
+    "aciklama": "derin, soğuk ve besin açısından zengin deniz sularının rüzgar etkisiyle kıyı boyunca yüzeye çıkması olayı.",
     "yasakli_kelimeler": [
-      "derin su",
-      "besin",
-      "yükselme",
-      "balıkçılık",
-      "soğuk su"
+      "soğuk dip suyu",
+      "besin tuzu zenginliği",
+      "balıkçılık verimi",
+      "kıyı rüzgarı",
+      "dikey yükseliş"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 4,
     "kategori": "osinografi",
-    "kelime": "downwelling",
-    "aciklama": "yüzey sularının kıyıda birikerek okyanusun derinliklerine doğru batması ve oksijeni dip katmanlara taşıması olayı.",
+    "kelime": "derine çökme akıntısı",
+    "aciklama": "yüzeydeki suların yoğunlaşarak veya rüzgar sürüklemesiyle okyanus derinliklerine doğru batması süreci.",
     "yasakli_kelimeler": [
-      "batma",
-      "yüzey suyu",
-      "çökme",
-      "oksijen",
-      "upwelling zıttı"
+      "yüzey suyu batması",
+      "derin tabaka",
+      "oksijen taşıma",
+      "alçalan akıntı",
+      "düşey hareket"
     ],
     "zorluk": "kolay"
   },
@@ -282,14 +282,14 @@
   {
     "id": 21,
     "kategori": "osinografi",
-    "kelime": "guyot",
-    "aciklama": "geçmişte dalga aşındırmasıyla tepesi düzleşip sular altına gömülmüş sönmüş su altı volkanik dağı.",
+    "kelime": "düz tepeli dağ",
+    "aciklama": "bir zamanlar ada iken dalga aşındırmasıyla zirvesi düzleşip okyanus tabanına batmış volkanik dağ.",
     "yasakli_kelimeler": [
-      "düz tepeli",
-      "denizaltı dağı",
-      "erozyon",
-      "volkanik tepe",
-      "batık masa"
+      "denizaltı tepesi",
+      "düz zirve",
+      "volkanik masa",
+      "dalga aşınması",
+      "batık ada"
     ],
     "zorluk": "orta"
   },
@@ -341,11 +341,11 @@
     "kelime": "okyanus asitlenmesi",
     "aciklama": "atmosferdeki fazla karbondioksitin okyanus sularında çözünerek karbonik asit oluşturması ve ph değerini düşürmesi.",
     "yasakli_kelimeler": [
-      "ph düşüşü",
-      "karbondioksit",
+      "asitlik artışı",
+      "karbondioksit emilimi",
       "kabuk erimesi",
       "karbonik asit",
-      "asitlik"
+      "mercan tahribatı"
     ],
     "zorluk": "kolay"
   },
@@ -506,14 +506,14 @@
   {
     "id": 37,
     "kategori": "osinografi",
-    "kelime": "ctd cihazı",
-    "aciklama": "okyanus araştırmalarında iletkenlik, sıcaklık ve derinlik parametrelerini aynı anda hassas ölçen temel elektronik kule.",
+    "kelime": "derinlik iletkenlik iskandili",
+    "aciklama": "denize sarkıtılarak farklı derinliklerdeki iletkenlik, tuzluluk ve sıcaklık değerlerini ölçen araştırma probu.",
     "yasakli_kelimeler": [
-      "iletkenlik",
-      "tuzluluk ölçer",
-      "derinlik sondası",
-      "rozet şişesi",
-      "araştırma aleti"
+      "tuzluluk ölçümü",
+      "su iletkenliği",
+      "derinlik sensörü",
+      "rozet numune şişesi",
+      "araştırma probu"
     ],
     "zorluk": "orta"
   },
@@ -646,14 +646,14 @@
   {
     "id": 47,
     "kategori": "osinografi",
-    "kelime": "rip akıntısı",
-    "aciklama": "kıyıya çarpan dalgaların geri dönüşte kum tepecikleri arasından açık denize doğru kanalize olarak hızla aktığı çeken akıntı.",
+    "kelime": "çeken akıntı",
+    "aciklama": "kıyıya vuran dalgaların dar bir kanaldan açık denize doğru hızla geri dönmesiyle oluşan tehlikeli akıntı.",
     "yasakli_kelimeler": [
-      "çeken akıntı",
+      "açığa sürükleyen kanal",
       "boğulma tehlikesi",
-      "karadeniz",
-      "açığa sürükleyen",
-      "kanal"
+      "kıyı yarığı",
+      "karadeniz kumsalları",
+      "hızlı dönüş"
     ],
     "zorluk": "kolay"
   },
@@ -789,11 +789,11 @@
     "kelime": "benguela akıntısı",
     "aciklama": "afrika'nın güneybatı kıyıları boyunca kuzeye doğru ilerleyerek namib çölü'nün oluşumuna yol açan soğuk su akıntısı.",
     "yasakli_kelimeler": [
-      "namib çölü",
+      "namib çölü kıyısı",
       "güney afrika",
       "soğuk akıntı",
-      "atlantik",
-      "upwelling bölgesi"
+      "atlantik okyanusu",
+      "zengin balıkçılık"
     ],
     "zorluk": "orta"
   },
@@ -814,14 +814,14 @@
   {
     "id": 59,
     "kategori": "osinografi",
-    "kelime": "sofar kanalı",
-    "aciklama": "okyanus içinde sıcaklık ve basınç dengesi sebebiyle ses hızının minimuma indiği ve ses dalgalarının binlerce kilometre uzağa iletildiği tabaka.",
+    "kelime": "derin ses kanalı",
+    "aciklama": "okyanusta sıcaklık ve basınç dengesiyle ses hızının en düşük olduğu ve ses dalgalarının binlerce kilometre yayıldığı tabaka.",
     "yasakli_kelimeler": [
-      "ses kanalı",
       "akustik dalga",
-      "balina sesi",
-      "denizaltı iletişimi",
-      "refraksiyon"
+      "balina haberleşmesi",
+      "denizaltı dinleme",
+      "ses hızı kırılması",
+      "uzun menzil"
     ],
     "zorluk": "orta"
   },
@@ -1027,11 +1027,11 @@
     "kelime": "kalsit kompanzasyonu",
     "aciklama": "Derin okyanusta kalsiyum karbonatın çözünme hızının çökme hızına eşitlendiği derinlik sınırı (CCD).",
     "yasakli_kelimeler": [
-      "ccd",
-      "erime dengesi",
-      "kalker",
-      "tortu",
-      "kalsit"
+      "erime eşiği",
+      "kalker çözünmesi",
+      "deniz dibi tortusu",
+      "kalsiyum karbonat",
+      "derinlik sınırı"
     ],
     "zorluk": "zor"
   },

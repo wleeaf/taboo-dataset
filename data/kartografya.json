@@ -644,28 +644,28 @@
     "zorluk": "orta"
   },
   {
-    "kelime": "gps",
-    "aciklama": "dünya yörüngesindeki uydulardan sinyal alarak yeryüzündeki herhangi bir yerin kesin koordinat ve rakımını veren küresel konumlama sistemi.",
+    "kelime": "küresel konumlama sistemi",
+    "aciklama": "dünya yörüngesindeki uydulardan gelen sinyallerle yeryüzündeki kesin konumu belirleyen sistem.",
     "yasakli_kelimeler": [
-      "küresel konumlama",
       "uydu seyrüseferi",
       "navigasyon",
-      "koordinat bulma",
-      "gnss"
+      "koordinat",
+      "yörünge",
+      "harita"
     ],
     "id": 47,
     "kategori": "kartografya",
     "zorluk": "kolay"
   },
   {
-    "kelime": "gnss",
-    "aciklama": "gps, glonass, galileo ve beidou gibi tüm küresel uydu seyrüsefer sistemlerinin ortak uluslararası çatı adı.",
+    "kelime": "uydu seyrüsefer ağı",
+    "aciklama": "yeryüzünde coğrafi konum belirlemeyi sağlayan küresel ve bölgesel uydu filolarının genel adı.",
     "yasakli_kelimeler": [
-      "küresel uydu sistemi",
-      "navigasyon uyduları",
       "galileo",
       "glonass",
-      "gps şemsiyesi"
+      "konumlandırma",
+      "seyrüsefer",
+      "yörünge"
     ],
     "id": 48,
     "kategori": "kartografya",
@@ -969,25 +969,25 @@
     "kelime": "dijital yükseklik modeli",
     "aciklama": "yeryüzü topoğrafyasının yükseklik değerlerini düzenli piksel ızgarası veya tin üçgen ağıyla temsil eden sayısal veri tabanı.",
     "yasakli_kelimeler": [
-      "dem",
-      "dtm",
-      "sayısal arazi modeli",
-      "tin",
-      "yükseklik ızgarası"
+      "yükseklik verisi",
+      "üçgenleme",
+      "piksel",
+      "kabartma",
+      "sayısal arazi"
     ],
     "id": 70,
     "kategori": "kartografya",
     "zorluk": "orta"
   },
   {
-    "kelime": "tin",
-    "aciklama": "engebeli arazilerin yükseklik yüzeyini düzensiz dağılmış noktaları birleştiren üçgen yüzeylerle modelleyen vektör arazi yapısı.",
+    "kelime": "düzensiz üçgen ağı",
+    "aciklama": "arazi yüzeyini tepe noktaları rasgele dağılmış üçgen dilimler halinde modelleyen vektörel yapı.",
     "yasakli_kelimeler": [
-      "üçgen model",
-      "düzensiz üçgen ağı",
-      "delaunay",
       "sayısal arazi",
-      "dem vektörü"
+      "delaunay",
+      "yükseklik",
+      "yüzey modeli",
+      "örgü"
     ],
     "id": 71,
     "kategori": "kartografya",
@@ -1274,14 +1274,14 @@
     "zorluk": "orta"
   },
   {
-    "kelime": "utm",
-    "aciklama": "dünyayı 6 derecelik boylam aralıklarıyla 60 fusa bölen ve metrik koordinat üreten evrensel transvers mercator sistemi.",
+    "kelime": "evrensel enlem merkatoru",
+    "aciklama": "dünyayı altışar derecelik altmış düşey dilime bölerek metrik koordinat üreten projeksiyon sistemi.",
     "yasakli_kelimeler": [
       "transverse mercator",
       "altı derecelik dilim",
       "metrik koordinat",
-      "askeri harita",
-      "fus"
+      "projeksiyon",
+      "meridyen"
     ],
     "id": 92,
     "kategori": "kartografya",
@@ -1291,11 +1291,11 @@
     "kelime": "dilim orta meridyeni",
     "aciklama": "utm projeksiyonunda her bir projeksiyon diliminin tam ortasından geçen ve deformasyonun sıfır olduğu referans boylamı.",
     "yasakli_kelimeler": [
-      "merkez meridyen",
-      "orta meridyen",
-      "utm dilimi",
-      "sıfır deformasyon",
-      "boylam"
+      "meridyen",
+      "projeksiyon",
+      "boylam",
+      "orta çizgi",
+      "referans"
     ],
     "id": 93,
     "kategori": "kartografya",

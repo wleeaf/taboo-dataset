@@ -86,14 +86,14 @@
   {
     "id": 7,
     "kategori": "matbaacilik",
-    "kelime": "cmyk",
-    "aciklama": "matbaacılıkta renkli baskının temelini oluşturan dört ana pigment mürekkep rengi sistemi.",
+    "kelime": "dört renkli baskı",
+    "aciklama": "mavi, kırmızı, sarı ve siyah ana boyaların tramlanarak üst üste basılmasıyla tüm tonları üreten renk düzeni.",
     "yasakli_kelimeler": [
       "camgöbeği",
       "macenta",
-      "sarı",
-      "siyah",
-      "dört renk"
+      "ana boyalar",
+      "renk ayrımı",
+      "ofset mürekkebi"
     ],
     "zorluk": "kolay"
   },
@@ -131,25 +131,25 @@
     "kelime": "baskı kalıbı",
     "aciklama": "üzerindeki kimyasal katmanla görüntüyü mürekkep tutan ve tutmayan bölgelere ayıran alüminyum levha.",
     "yasakli_kelimeler": [
-      "alüminyum",
-      "ctp",
-      "levha",
-      "plaka",
-      "ofset"
+      "alüminyum levha",
+      "doğrudan pozlama",
+      "ofset silindiri",
+      "mürekkep aktarımı",
+      "metal plaka"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 11,
     "kategori": "matbaacilik",
-    "kelime": "ctp",
-    "aciklama": "bilgisayardaki dijital tasarımların doğrudan lazerle ofset baskı kalıbına işlenmesi teknolojisi.",
+    "kelime": "doğrudan kalıba pozlama",
+    "aciklama": "sayfa tasarımlarının film ara aşaması olmadan doğrudan bilgisayardan metal ofset kalıbına lazerle yazılması.",
     "yasakli_kelimeler": [
-      "lazer",
-      "kalıp",
-      "pozlama",
-      "dijital",
-      "termal"
+      "lazer ışını",
+      "termal plaka",
+      "dijital aktarım",
+      "filmsiz baskı",
+      "metal kalıp"
     ],
     "zorluk": "orta"
   },
@@ -159,39 +159,39 @@
     "kelime": "tram",
     "aciklama": "baskıda ton geçişlerini ve fotoğrafları oluşturmak için kullanılan mikro mürekkep noktacıkları ağı.",
     "yasakli_kelimeler": [
-      "nokta",
-      "çözünürlük",
-      "lpi",
-      "geçiş",
-      "noktacık"
+      "küçük noktacık",
+      "çözünürlük sıklığı",
+      "tonlama geçişi",
+      "tarama açısı",
+      "baskı sıklığı"
     ],
     "zorluk": "orta"
   },
   {
     "id": 13,
     "kategori": "matbaacilik",
-    "kelime": "lpi",
-    "aciklama": "bir inçlik çizgi boyunca yer alan tram noktası sayısını belirten baskı çözünürlük birimi.",
+    "kelime": "satır tram sıklığı",
+    "aciklama": "baskı kalitesini ve tram inceliğini belirleyen inç başına düşen satır sayısı ölçü birimi.",
     "yasakli_kelimeler": [
-      "çözünürlük",
-      "inç",
-      "çizgi",
-      "tram",
-      "kalite"
+      "çözünürlük ölçüsü",
+      "tram noktası",
+      "inç başına satır",
+      "baskı detayı",
+      "nokta sıklığı"
     ],
     "zorluk": "orta"
   },
   {
     "id": 14,
     "kategori": "matbaacilik",
-    "kelime": "dpi",
-    "aciklama": "dijital görüntülerin veya yazıcıların bir inçte oluşturduğu nokta çözünürlük standardı.",
+    "kelime": "inç başına nokta",
+    "aciklama": "yazıcı, tarayıcı ve dijital görsellerin keskinlik ve çözünürlük kalitesini gösteren yoğunluk ölçüsü.",
     "yasakli_kelimeler": [
-      "inç",
-      "nokta",
-      "dijital",
       "çözünürlük",
-      "yoğunluk"
+      "nokta yoğunluğu",
+      "keskinlik birimi",
+      "sayısal görüntü",
+      "piksel sıklığı"
     ],
     "zorluk": "kolay"
   },
@@ -467,10 +467,10 @@
     "kelime": "kısmi lak",
     "aciklama": "baskı yüzeyinin sadece belirli yazı veya logo alanlarına parlak uv vernik uygulanması işlemi.",
     "yasakli_kelimeler": [
-      "uv vernik",
-      "parlaklık",
-      "logo",
-      "lokal",
+      "parlak yüzey",
+      "lokal cila",
+      "bölgesel parlatma",
+      "özel vernik",
       "vurgu"
     ],
     "zorluk": "orta"
@@ -968,14 +968,14 @@
   {
     "id": 70,
     "kategori": "matbaacilik",
-    "kelime": "rip yazılımı",
-    "aciklama": "grafik tasarımları baskı makinesinin anlayacağı raster tram noktalarına çeviren yazılım işlemcisi.",
+    "kelime": "tarama işlemcisi yazılımı",
+    "aciklama": "vektörel ve metin biçimindeki grafik dosyalarını baskı kafasının veya lazerin okuyabileceği noktalara dönüştüren yazılım.",
     "yasakli_kelimeler": [
-      "raster",
-      "işlemci",
-      "çevirici",
-      "nokta",
-      "dijital"
+      "piksel dökümü",
+      "kalıp pozlayıcı",
+      "vektör çevrimi",
+      "nokta deseni",
+      "sayfa çıktısı"
     ],
     "zorluk": "orta"
   },
@@ -1069,11 +1069,11 @@
     "kelime": "nemlendirme suyu",
     "aciklama": "ofset baskıda kalıbın hidrofil kısımlarını ıslatan su, alkol ve katkı maddesi karışımı.",
     "yasakli_kelimeler": [
-      "alkol",
-      "fountain solution",
-      "ıslatma",
-      "asitlik",
-      "ph"
+      "alkol katkısı",
+      "ıslatma haznesi",
+      "asitlik dengesi",
+      "yağlı mürekkep",
+      "ofset silindiri"
     ],
     "zorluk": "orta"
   },
@@ -1248,14 +1248,14 @@
   {
     "id": 90,
     "kategori": "matbaacilik",
-    "kelime": "uv kurutma",
-    "aciklama": "uv mürekkeplerinin ultraviyole ışık lambaları altından geçerken saliseler içinde polimerleşip donması.",
+    "kelime": "morötesi ışınla kurutma",
+    "aciklama": "özel kimyasal mürekkeplerin morötesi ışık altında polimerleşerek anında kurumasını sağlayan fırınlama işlemi.",
     "yasakli_kelimeler": [
-      "morötesi",
+      "morötesi lamba",
+      "anında sertleşme",
       "polimerizasyon",
-      "anında kuruma",
-      "lamba",
-      "ışın"
+      "ışın kurutucu",
+      "hızlı sabitleme"
     ],
     "zorluk": "orta"
   },

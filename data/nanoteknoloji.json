@@ -75,11 +75,11 @@
     "kelime": "atomik kuvvet mikroskobu",
     "aciklama": "çok sivri bir prob ucu ile numune yüzeyi arasındaki atomlar arası çekme ve itme kuvvetlerini ölçen mikroskop türü.",
     "yasakli_kelimeler": [
-      "afm",
-      "prob",
-      "kuvvet",
-      "konsol",
-      "yüzey"
+      "ince prob ucu",
+      "kuvvet sensörü",
+      "esnek konsol",
+      "yüzey haritası",
+      "atomik temas"
     ],
     "zorluk": "kolay"
   },
@@ -296,14 +296,14 @@
   {
     "id": 22,
     "kategori": "nanoteknoloji",
-    "kelime": "dna origami",
-    "aciklama": "uzun tek sarmallı dna zincirinin kısa zımba dizileriyle katlanarak istenen iki ve üç boyutlu nano şekillere büründürülmesi.",
+    "kelime": "nükleik asit origamisi",
+    "aciklama": "uzun tek sarmallı genetik zincirlerin kısa zımba dizilimleriyle nano ölçekli şekillere katlanması.",
     "yasakli_kelimeler": [
-      "katlama",
-      "sarmal",
-      "zımba",
-      "şekil",
-      "genetik"
+      "katlama sanatı",
+      "sarmal bağlama",
+      "zımba dizisi",
+      "nano kalıp",
+      "moleküler montaj"
     ],
     "zorluk": "orta"
   },
@@ -366,42 +366,42 @@
   {
     "id": 27,
     "kategori": "nanoteknoloji",
-    "kelime": "cvd kaplama",
-    "aciklama": "Uçucu gaz fazındaki öncül maddelerin kimyasal tepkimesiyle yüzeyde ince film tabakası oluşturma tekniği.",
+    "kelime": "kimyasal buhar biriktirme",
+    "aciklama": "reaktif gazların sıcak bir yüzey üzerinde tepkimeye girerek ince katı tabaka oluşturması süreci.",
     "yasakli_kelimeler": [
-      "buhar",
-      "gaz",
-      "film",
-      "reaksiyon",
-      "biriktirme"
+      "gaz reaksiyonu",
+      "sıcak yüzey",
+      "ince film",
+      "fırınlama çökelmesi",
+      "kaplama tabakası"
     ],
     "zorluk": "orta"
   },
   {
     "id": 28,
     "kategori": "nanoteknoloji",
-    "kelime": "pvd kaplama",
-    "aciklama": "Katı hedefin vakum ortamında buharlaştırılıp altlık üzerine çökeltilmesiyle yapılan fiziksel kaplama yöntemi.",
+    "kelime": "fiziksel buhar biriktirme",
+    "aciklama": "katı hedefin yüksek vakumda buharlaştırılarak altlık üzerine yoğunlaştırıldığı kaplama işlemi.",
     "yasakli_kelimeler": [
-      "vakum",
-      "sıçratma",
+      "yüksek vakum",
+      "hedef sıçratma",
       "buharlaşma",
-      "çökeltme",
-      "fiziksel"
+      "çöktürme tekniği",
+      "yüzey tabakası"
     ],
     "zorluk": "orta"
   },
   {
     "id": 29,
     "kategori": "nanoteknoloji",
-    "kelime": "ald tekniği",
-    "aciklama": "Öncül gazları sırayla göndererek malzeme yüzeyinde tek atom veya molekül kalınlığında film büyütme yöntemi.",
+    "kelime": "atomik katman biriktirme",
+    "aciklama": "gaz öncüllerin ardışık olarak yüzeyle etkileşip tek bir atom kalınlığında kontrollü film oluşturduğu yöntem.",
     "yasakli_kelimeler": [
-      "tek katman",
-      "hassas",
-      "öncül",
-      "film",
-      "kaplama"
+      "tek atom kalınlığı",
+      "öncül kimyasal",
+      "ardışık gaz akışı",
+      "kontrollü kaplama",
+      "ince zemin"
     ],
     "zorluk": "orta"
   },
@@ -552,10 +552,10 @@
     "aciklama": "Güneş kremlerinde UV engelleyici ve fotokatalitik olarak kullanılan beyaz inorganik nano parçacık.",
     "yasakli_kelimeler": [
       "güneş kremi",
-      "tio2",
-      "uv",
+      "morötesi filtre",
       "fotokataliz",
-      "parçacık"
+      "beyaz pigment",
+      "parçacık tozu"
     ],
     "zorluk": "orta"
   },
@@ -716,28 +716,28 @@
   {
     "id": 52,
     "kategori": "nanoteknoloji",
-    "kelime": "xps analizi",
-    "aciklama": "X-ışınlarıyla yüzeyden koparılan fotoelektronların enerjisini ölçerek element ve bağ tespiti yapan yöntem.",
+    "kelime": "fotoelektron spektroskopisi",
+    "aciklama": "yüzeye gönderilen ışınların kopardığı elektronların kinetik enerjisini ölçerek element analizi yapan yöntem.",
     "yasakli_kelimeler": [
       "yüzey analizi",
-      "fotoelektron",
-      "element",
-      "bağ enerjisi",
-      "x-ışını"
+      "elektron koparma",
+      "bağlanma enerjisi",
+      "element tanıma",
+      "spektrum tepe"
     ],
     "zorluk": "orta"
   },
   {
     "id": 53,
     "kategori": "nanoteknoloji",
-    "kelime": "dls analizi",
-    "aciklama": "Sıvıdaki nano parçacıkların Brown hareketinden saçılan lazer ışığını inceleyerek boyut dağılımı ölçen yöntem.",
+    "kelime": "dinamik ışık saçılması",
+    "aciklama": "sıvı içindeki nanoparçacıkların brown hareketinden kaynaklanan ışık saçılma değişimini ölçen analiz yöntemi.",
     "yasakli_kelimeler": [
       "parçacık boyutu",
-      "brown hareketi",
-      "lazer",
-      "saçılma",
-      "kolloid"
+      "akışkan hareketi",
+      "lazer saçılması",
+      "kolloidal süspansiyon",
+      "hidrodinamik çap"
     ],
     "zorluk": "orta"
   },
@@ -1027,11 +1027,11 @@
     "kelime": "akıllı polimer",
     "aciklama": "sıcaklık veya ph gibi ortam koşullarındaki ufak değişimlere fiziksel şekil veya şişme tepkisi veren nano polimer.",
     "yasakli_kelimeler": [
-      "uyaran",
-      "şişme",
-      "ph duyarlı",
-      "tepki",
-      "sıcaklık"
+      "dış uyaran",
+      "şişme hareketi",
+      "asitlik tepkisi",
+      "sıcaklık değişimi",
+      "duyarlı jel"
     ],
     "zorluk": "kolay"
   },
@@ -1290,28 +1290,28 @@
   {
     "id": 93,
     "kategori": "nanoteknoloji",
-    "kelime": "mems",
-    "aciklama": "Mikron boyutundaki mekanik ve elektronik unsurları tek bir silikon çipte birleştiren mikro sistemler.",
+    "kelime": "mikroelektromekanik sistemler",
+    "aciklama": "mikron boyutundaki mekanik dişlileri ve elektronik devreleri tek bir silikon çipte birleştiren teknoloji.",
     "yasakli_kelimeler": [
-      "silikon",
-      "çip",
-      "mikro",
-      "sensör",
-      "ivmeölçer"
+      "silikon yonga",
+      "minyatür sensör",
+      "ivmeölçer çipi",
+      "mikro mekanik",
+      "entegre devre"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 94,
     "kategori": "nanoteknoloji",
-    "kelime": "nems",
-    "aciklama": "Nanometre ölçeğindeki elektrik ve hareket mekanizmalarını entegre eden ultra hassas sistemler.",
+    "kelime": "nanoelektromekanik sistemler",
+    "aciklama": "nano ölçekli mekanik hareketli parçalarla elektriksel bileşenleri entegre eden ileri duyarga düzenekleri.",
     "yasakli_kelimeler": [
-      "mekanik",
-      "çip",
-      "minyatür",
-      "aktüatör",
-      "nanoteknoloji"
+      "nano sensör",
+      "moleküler boyutta aktüatör",
+      "yüksek hassasiyet",
+      "atomik titreşim",
+      "silikon nano"
     ],
     "zorluk": "kolay"
   },

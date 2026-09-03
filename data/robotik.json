@@ -520,28 +520,28 @@
   {
     "id": 38,
     "kategori": "robotik",
-    "kelime": "slam",
-    "aciklama": "bir robotun bilinmeyen bir ortamda gezinirken eşzamanlı olarak hem ortamın haritasını çıkarması hem de kendi konumunu belirlemesi süreci.",
+    "kelime": "eşzamanlı haritalama",
+    "aciklama": "otonom bir robotun bilinmeyen bir ortamda gezinirken hem kendi konumunu belirlemesi hem de çevrenin haritasını çıkarması işlemi.",
     "yasakli_kelimeler": [
-      "haritalama",
-      "konum",
-      "otonom",
-      "lazer sensör",
-      "navigasyon"
+      "konum belirleme",
+      "otonom navigasyon",
+      "lazer tarayıcı",
+      "bilinmeyen ortam",
+      "sensör füzyonu"
     ],
     "zorluk": "zor"
   },
   {
     "id": 39,
     "kategori": "robotik",
-    "kelime": "görsel slam",
-    "aciklama": "haritalama ve konum kestirimi için pahalı lazerler yerine sadece monoküler veya stereo kamera görüntülerinden yararlanan yöntem.",
+    "kelime": "kameralı konumlandırma",
+    "aciklama": "robotun kamera sensörlerinden gelen görüntüleri ve görsel öznitelikleri kullanarak ortamda yerini bulması ve yönünü tayin etmesi.",
     "yasakli_kelimeler": [
-      "kamera",
-      "görüntü",
+      "görsel algı",
+      "görüntü işleme",
       "özellik noktası",
-      "harita",
-      "görsel"
+      "kamera sensörü",
+      "optik takip"
     ],
     "zorluk": "zor"
   },
@@ -702,14 +702,14 @@
   {
     "id": 51,
     "kategori": "robotik",
-    "kelime": "pid kontrolörü",
-    "aciklama": "ölçülen hata değerinin oransal, integral ve türevsel bileşenlerini hesaplayarak motorlara düzeltici kontrol sinyali üreten kapalı döngü algoritması.",
+    "kelime": "oransal denetleyici",
+    "aciklama": "robotik sistemlerde hata payını oransal, integral ve türev hesaplarıyla sıfırlayarak motor hızını veya pozisyonunu kontrol eden algoritma.",
     "yasakli_kelimeler": [
-      "oransal",
-      "integral",
-      "türev",
-      "hata",
-      "döngü"
+      "kapalı döngü",
+      "hata payı",
+      "türevsel hesap",
+      "geri besleme",
+      "motor kontrolü"
     ],
     "zorluk": "zor"
   },

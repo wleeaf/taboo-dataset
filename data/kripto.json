@@ -229,10 +229,10 @@
     "kelime": "merkeziyetsiz otonom organizasyon",
     "aciklama": "yönetim kararlarının token sahiplerinin oylarıyla ve akıllı sözleşmelerle yürütüldüğü hiyerarşisiz topluluk yapısı.",
     "yasakli_kelimeler": [
-      "dao",
+      "akıllı sözleşme",
       "yönetim",
       "oylama",
-      "topluluk",
+      "topluluk kuruluşu",
       "şirket"
     ],
     "zorluk": "kolay"
@@ -243,11 +243,11 @@
     "kelime": "nitelikli fikri tapu",
     "aciklama": "dijital sanat, müzik veya koleksiyon parçalarının blokzincir üzerinde mülkiyetini belgeleyen benzersiz dijital varlık.",
     "yasakli_kelimeler": [
-      "nft",
-      "benzersiz",
+      "benzersiz varlık",
+      "dijital sanat",
       "mülkiyet",
-      "sanat",
-      "koleksiyon"
+      "koleksiyon",
+      "blokzincir kaydı"
     ],
     "zorluk": "kolay"
   },
@@ -436,14 +436,14 @@
   {
     "id": 32,
     "kategori": "kripto",
-    "kelime": "kripto airdrop",
-    "aciklama": "yeni bir blokzincir projesinin veya protokolün topluluğa tanıtım amacıyla ücretsiz token dağıtması.",
+    "kelime": "karşılıksız jeton dağıtımı",
+    "aciklama": "yeni bir blokzincir projesinin tanıtım amacıyla kullanıcılara bedelsiz dijital varlık dağıtması.",
     "yasakli_kelimeler": [
-      "bedava",
-      "dağıtım",
-      "ödül",
-      "topluluk",
-      "tanıtım"
+      "bedava varlık",
+      "dağıtım kampanyası",
+      "topluluk ödülü",
+      "tanıtım",
+      "cüzdan"
     ],
     "zorluk": "kolay"
   },
@@ -576,14 +576,14 @@
   {
     "id": 42,
     "kategori": "kripto",
-    "kelime": "aml",
-    "aciklama": "Finansal sistemde yasadışı yollardan elde edilen fonların aklanmasını engellemeye yönelik uyum kuralları.",
+    "kelime": "kara para önleme",
+    "aciklama": "yasa dışı yollarla elde edilen fonların finansal sisteme sokulmasını engellemeye yönelik denetim kuralları.",
     "yasakli_kelimeler": [
-      "kara para",
+      "mali suç",
       "aklama",
-      "mevzuat",
-      "kyc",
-      "finans"
+      "mevzuat kuralları",
+      "kimlik doğrulama",
+      "finansal denetim"
     ],
     "zorluk": "kolay"
   },
@@ -618,14 +618,14 @@
   {
     "id": 45,
     "kategori": "kripto",
-    "kelime": "rug pull",
-    "aciklama": "Kripto proje geliştiricilerinin likiditeyi çekip yatırımcıları ortada bırakarak kaçması dolandırıcılığı.",
+    "kelime": "likidite boşaltma",
+    "aciklama": "kripto projelerinde kurucuların toplanan havuz fonlarını aniden çekerek kaçması dolandırıcılığı.",
     "yasakli_kelimeler": [
-      "likidite",
-      "dolandırıcılık",
+      "fon",
+      "havuz",
       "kaçış",
-      "yatırımcı",
-      "havuz"
+      "vurgun",
+      "dolandırıcılık"
     ],
     "zorluk": "kolay"
   },
@@ -828,14 +828,14 @@
   {
     "id": 60,
     "kategori": "kripto",
-    "kelime": "fud",
-    "aciklama": "Piyasada panik ve şüphe yayarak yatırımcıların varlıklarını zararına satmasını amaçlayan manipülasyon.",
+    "kelime": "korku yayma",
+    "aciklama": "piyasada panik satışı yaratmak amacıyla olumsuz ve teyitsiz haberlerin kasten dolaşıma sokulması.",
     "yasakli_kelimeler": [
-      "korku",
-      "şüphe",
+      "panik satışı",
+      "güvensizlik ortamı",
       "belirsizlik",
-      "panik",
-      "manipülasyon"
+      "manipülasyon",
+      "algı yönetimi"
     ],
     "zorluk": "kolay"
   },
@@ -1125,8 +1125,8 @@
     "kelime": "erc-721 standardı",
     "aciklama": "blokzincirde her bir tokenın benzersiz özelliklere sahip olmasını tanımlayan nft standardı.",
     "yasakli_kelimeler": [
-      "nft",
-      "benzersiz",
+      "benzersiz varlık",
+      "dijital tapu",
       "standart",
       "koleksiyon",
       "mülkiyet"
@@ -1220,14 +1220,14 @@
   {
     "id": 88,
     "kategori": "kripto",
-    "kelime": "front running",
-    "aciklama": "Bekleyen bir işlemi mempool'da görüp daha yüksek gas ücreti ödeyerek önüne geçme işlemi.",
+    "kelime": "işlem sırası kapma",
+    "aciklama": "onay bekleyen büyük bir işlemi görüp daha yüksek komisyon ödeyerek önüne geçme taktiği.",
     "yasakli_kelimeler": [
-      "mempool",
-      "gas",
-      "işlem",
-      "madenci",
-      "mev"
+      "bekleme havuzu",
+      "yüksek komisyon",
+      "sıra kapma",
+      "madenci önceliği",
+      "arbitraj"
     ],
     "zorluk": "orta"
   },
@@ -1360,14 +1360,14 @@
   {
     "id": 98,
     "kategori": "kripto",
-    "kelime": "yönetim tokenı",
-    "aciklama": "sahiplerine merkeziyetsiz bir protokolün geleceğine dair teklif sunma ve oylamalarda oy kullanma hakkı tanıyan varlık.",
+    "kelime": "oy hakkı varlığı",
+    "aciklama": "merkeziyetsiz bir protokolün geleceğine dair kararlarda sahiplerine oy hakkı tanıyan dijital birim.",
     "yasakli_kelimeler": [
-      "governance",
-      "oy hakkı",
-      "dao",
-      "teklif",
-      "protokol"
+      "yönetişim",
+      "oylama hakkı",
+      "topluluk kararı",
+      "teklif sunma",
+      "protokol kuralı"
     ],
     "zorluk": "orta"
   },

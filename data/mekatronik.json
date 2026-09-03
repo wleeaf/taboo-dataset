@@ -16,14 +16,14 @@
   {
     "id": 2,
     "kategori": "mekatronik",
-    "kelime": "aktüatör",
-    "aciklama": "kontrol sinyalini mekanik kuvvete veya harekete dönüştürerek sistemdeki eylemi gerçekleştiren tahrik elemanı.",
+    "kelime": "mantıksal denetleyici",
+    "aciklama": "endüstriyel üretim hatlarında makineleri ve sensörleri kontrol eden mikroişlemcili cihaz.",
     "yasakli_kelimeler": [
-      "eyleyici",
-      "tahrik",
-      "motor",
-      "hareket",
-      "kuvvet"
+      "endüstri",
+      "otomasyon",
+      "kontrol",
+      "makine",
+      "fabrika"
     ],
     "zorluk": "kolay"
   },
@@ -114,14 +114,14 @@
   {
     "id": 9,
     "kategori": "mekatronik",
-    "kelime": "pid kontrolörü",
-    "aciklama": "hata payının oransal, integral ve türevsel bileşenlerini hesaplayarak sisteme düzeltici etki uygulayan algoritma.",
+    "kelime": "oransal integral denetleyici",
+    "aciklama": "hedef değer ile ölçülen değer arasındaki hata payını üç farklı matematiksel yöntemle anlık düzelten denetim algoritması.",
     "yasakli_kelimeler": [
-      "oransal",
-      "integral",
-      "türev",
-      "hata",
-      "kazanç"
+      "kapalı çevrim",
+      "hata giderme",
+      "kazanç katsayısı",
+      "geri bildirim",
+      "ayar sistemi"
     ],
     "zorluk": "kolay"
   },
@@ -156,14 +156,14 @@
   {
     "id": 12,
     "kategori": "mekatronik",
-    "kelime": "plc",
-    "aciklama": "Fabrika otomasyonunda sensör ve aktüatörleri yöneten endüstriyel programlanabilir bilgisayar.",
+    "kelime": "programlanabilir mantıksal denetleyici",
+    "aciklama": "fabrikalardaki makine ve montaj hatlarının otomasyonunu sağlayan dayanıklı endüstriyel bilgisayar ünitesi.",
     "yasakli_kelimeler": [
-      "otomasyon",
-      "endüstriyel",
-      "ladder",
-      "fabrika",
-      "denetleyici"
+      "otomasyon beyni",
+      "endüstriyel kontrol",
+      "fabrika panosu",
+      "giriş çıkış modülü",
+      "otomatik üretim"
     ],
     "zorluk": "kolay"
   },
@@ -173,11 +173,11 @@
     "kelime": "merdiven diyagramı",
     "aciklama": "plc programlamada kullanılan, röleli kumanda devreleri şemalarına benzeyen görsel ve grafiksel mantık dili.",
     "yasakli_kelimeler": [
-      "ladder",
-      "plc",
-      "kontak",
-      "röle",
-      "grafik"
+      "basamaklı çizim",
+      "kontak mantığı",
+      "röle dizilimi",
+      "grafiksel arayüz",
+      "denetleyici dili"
     ],
     "zorluk": "orta"
   },
@@ -495,11 +495,11 @@
     "kelime": "bilyalı vidalı mil",
     "aciklama": "vidalı mil ve somun arasındaki bilyalar sayesinde dönme hareketini son derece düşük sürtünmeyle doğrusal harekete çeviren düzenek.",
     "yasakli_kelimeler": [
-      "cnc",
-      "doğrusal",
-      "somun",
-      "bilya",
-      "sürtünmesiz"
+      "döner somun",
+      "doğrusal hareket",
+      "bilye yuvası",
+      "sürtünmesiz ilerleme",
+      "eksen tahriki"
     ],
     "zorluk": "orta"
   },
@@ -509,25 +509,25 @@
     "kelime": "doğrusal kılavuz kızak",
     "aciklama": "ağır iş parçalarının veya takım tezgahı eksenlerinin düz bir çizgi boyunca pürüzsüz kaymasını sağlayan ray ve araba sistemi.",
     "yasakli_kelimeler": [
-      "ray",
-      "araba",
-      "doğrusal yatak",
-      "cnc ekseni",
-      "kayma"
+      "ray yatağı",
+      "hareketli araba",
+      "doğrusal kızak",
+      "hassas kayma",
+      "tezgah ekseni"
     ],
     "zorluk": "orta"
   },
   {
     "id": 38,
     "kategori": "mekatronik",
-    "kelime": "cnc takım tezgahı",
-    "aciklama": "bilgisayar kodlarıyla yönetilen servo motorlar sayesinde metalleri ve malzemeleri talaş kaldırarak işleyen otomatik tezgah.",
+    "kelime": "sayısal denetimli tezgah",
+    "aciklama": "bilgisayardan yüklenen hassas koordinat kodlarıyla metalleri otomatik işleyen talaşlı imalat tezgahı.",
     "yasakli_kelimeler": [
-      "g-kodu",
-      "freze",
-      "torna",
       "talaşlı imalat",
-      "otomasyon"
+      "otomatik freze",
+      "torna aynası",
+      "koordinatlı kesim",
+      "takım yolu"
     ],
     "zorluk": "kolay"
   },
@@ -537,11 +537,11 @@
     "kelime": "g-kodu",
     "aciklama": "cnc tezgahlarına ve 3 boyutlu yazıcılara nereye, hangi hızda ve nasıl hareket edeceklerini söyleyen standart programlama dili.",
     "yasakli_kelimeler": [
-      "koordinat",
-      "cnc",
-      "yazıcı kodu",
-      "hareket komutu",
-      "takım yolu"
+      "koordinat satırı",
+      "takım yolu komutu",
+      "üretim dili",
+      "hareket yönü",
+      "kesim parametresi"
     ],
     "zorluk": "kolay"
   },
@@ -562,14 +562,14 @@
   {
     "id": 41,
     "kategori": "mekatronik",
-    "kelime": "fdm",
-    "aciklama": "Termoplastik filamentin nozülde eritilip katman katman serilerek 3D parça üretildiği yöntem.",
+    "kelime": "eriyik biriktirme modelleme",
+    "aciklama": "termoplastik filamenti ısıtıcı uçta eritip katman katman yüzeye sererek parça üreten katmanlı imalat tekniği.",
     "yasakli_kelimeler": [
-      "üç boyutlu",
-      "filament",
-      "yazıcı",
-      "nozül",
-      "katman"
+      "termoplastik tel",
+      "ısıtıcı nozül",
+      "katman birleştirme",
+      "üç boyutlu baskı",
+      "tabla yapışması"
     ],
     "zorluk": "orta"
   },
@@ -590,28 +590,28 @@
   {
     "id": 43,
     "kategori": "mekatronik",
-    "kelime": "agv",
-    "aciklama": "Fabrika veya depolarda zemin çizgilerini, manyetik şeritleri veya lazeri izleyerek yük taşıyan otonom araç.",
+    "kelime": "otomatik yönlendirmeli taşıyıcı",
+    "aciklama": "fabrika veya depolarda zemin çizgilerini veya manyetik izleri takip ederek yük taşıyan tekerlekli robot.",
     "yasakli_kelimeler": [
-      "taşıyıcı",
-      "depo",
-      "fabrika",
-      "otonom",
-      "yük"
+      "sürücüsüz yük arabası",
+      "depo robotu",
+      "manyetik izleme",
+      "palet nakliyesi",
+      "iç taşıma"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 44,
     "kategori": "mekatronik",
-    "kelime": "slam",
-    "aciklama": "Robotun bilinmeyen bir ortamda gezinirken hem harita çıkarıp hem de kendi konumunu belirlemesi.",
+    "kelime": "eşzamanlı haritalama",
+    "aciklama": "otonom robotların bilinmeyen bir ortamda gezinirken hem çevre haritasını çıkarması hem kendi konumunu saptaması.",
     "yasakli_kelimeler": [
-      "harita",
-      "konum",
-      "robot",
-      "lidar",
-      "gezinme"
+      "çevre haritası",
+      "anlık konum",
+      "otonom gezinme",
+      "lazer tarayıcı",
+      "yol bulma"
     ],
     "zorluk": "orta"
   },
@@ -632,14 +632,14 @@
   {
     "id": 46,
     "kategori": "mekatronik",
-    "kelime": "tof sensörü",
-    "aciklama": "Işık sinyalinin hedefe gidip dönme süresini ölçerek çok hassas mesafe ve derinlik hesaplayan algılayıcı.",
+    "kelime": "uçuş süresi sensörü",
+    "aciklama": "gönderilen ışık fotonlarının hedefe çarpıp geri dönüş süresini ölçerek çok hassas mesafe bilgisi veren algılayıcı.",
     "yasakli_kelimeler": [
-      "mesafe",
-      "ışık hızı",
-      "uçuş süresi",
-      "derinlik",
-      "foton"
+      "mesafe tayini",
+      "ışık hızı hesabı",
+      "foton yansıması",
+      "derinlik haritası",
+      "hassas algılayıcı"
     ],
     "zorluk": "orta"
   },
@@ -873,25 +873,25 @@
     "kelime": "modbus protokolü",
     "aciklama": "endüstriyel elektronik cihazlar ve plc sistemleri arasında rs-485 hattı üzerinden seri haberleşme sağlayan köklü standart.",
     "yasakli_kelimeler": [
-      "rs485",
       "seri haberleşme",
-      "endüstriyel",
-      "master slave",
-      "plc"
+      "endüstriyel protokol",
+      "ana uydu ilişkisi",
+      "cihaz ağı",
+      "veri hattı"
     ],
     "zorluk": "orta"
   },
   {
     "id": 64,
     "kategori": "mekatronik",
-    "kelime": "dcs",
-    "aciklama": "Büyük sanayi tesislerinde ve rafinerilerde kontrolün alt işlemcilere paylaştırıldığı dağıtılmış otomasyon sistemi.",
+    "kelime": "dağıtık kontrol sistemi",
+    "aciklama": "büyük kimya ve rafineri tesislerinde tüm prosesin alt denetleyiciler ağıyla parçalara bölünerek yönetildiği sistem.",
     "yasakli_kelimeler": [
-      "proses",
-      "fabrika",
-      "merkezi",
-      "scada",
-      "rafineri"
+      "proses yönetimi",
+      "rafineri otomasyonu",
+      "merkezi izleme",
+      "alt denetleyiciler",
+      "tesis kontrolü"
     ],
     "zorluk": "orta"
   },
@@ -968,14 +968,14 @@
   {
     "id": 70,
     "kategori": "mekatronik",
-    "kelime": "rtos",
-    "aciklama": "Belirli zaman kısıtlamalarına kesin şekilde uyarak görevleri milisaniye hassasiyetinde yürüten işletim sistemi.",
+    "kelime": "gerçek zaman sistemi",
+    "aciklama": "gömülü mekatronik donanımlarda görevlerin kesin zaman sınırları ve gecikmesiz önceliklerle çalıştırıldığı sistem.",
     "yasakli_kelimeler": [
-      "gerçek zaman",
-      "milisaniye",
-      "gömülü",
-      "işletim sistemi",
-      "gecikme"
+      "gömülü yazılım",
+      "kesin zamanlama",
+      "gecikmesiz tepki",
+      "görev önceliği",
+      "mikrodenetleyici sistemi"
     ],
     "zorluk": "orta"
   },
@@ -1206,28 +1206,28 @@
   {
     "id": 87,
     "kategori": "mekatronik",
-    "kelime": "abs",
-    "aciklama": "Ani frende tekerleklerin kilitlenmesini engelleyerek direksiyon hakimiyetini koruyan emniyet sistemi.",
+    "kelime": "kilitlenme önleyici fren",
+    "aciklama": "araçlarda sert frenleme anında tekerleklerin kilitlenip kaymasını önleyerek direksiyon hakimiyetini koruyan sistem.",
     "yasakli_kelimeler": [
-      "fren",
-      "tekerlek",
-      "kilitlenme",
-      "kayma",
-      "araba"
+      "fren güvenliği",
+      "tekerlek kilitlenmesi",
+      "kaymayı önleme",
+      "kızaklama engeli",
+      "direksiyon hakimiyeti"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 88,
     "kategori": "mekatronik",
-    "kelime": "esp",
-    "aciklama": "Aracın virajda savrulmasını algılayıp bağımsız tekerleklere fren uygulayarak rotayı koruyan sürüş destek sistemi.",
+    "kelime": "elektronik denge programı",
+    "aciklama": "virajlarda veya ani manevralarda aracın savrulmasını önlemek için ilgili tekerleklere otomatik fren uygulayan düzenek.",
     "yasakli_kelimeler": [
-      "savrulma",
-      "viraj",
-      "denge",
-      "kayma",
-      "stabilite"
+      "savrulma önleyici",
+      "viraj dengesi",
+      "tekerlek freni",
+      "kayma kontrolü",
+      "yol tutuş"
     ],
     "zorluk": "kolay"
   },
@@ -1248,14 +1248,14 @@
   {
     "id": 90,
     "kategori": "mekatronik",
-    "kelime": "drive by wire",
-    "aciklama": "Gaz, fren veya direksiyonda mekanik bağlantılar yerine tamamen elektronik sinyallerle yönlendirme yapılması.",
+    "kelime": "kablolu sürüş sistemi",
+    "aciklama": "direksiyon veya gaz pedalındaki mekanik milleri kaldırıp yerine elektrik sinyalleri ve aktüatörler koyan teknoloji.",
     "yasakli_kelimeler": [
-      "kablo",
-      "elektronik",
-      "gaz pedalı",
-      "aktüatör",
-      "mekanik bağlantı"
+      "elektrikli direksiyon",
+      "mekaniksiz aktarım",
+      "elektronik gaz",
+      "sinyal kontrolü",
+      "aktüatörlü sürüş"
     ],
     "zorluk": "orta"
   },
@@ -1346,14 +1346,14 @@
   {
     "id": 97,
     "kategori": "mekatronik",
-    "kelime": "esc sürücü",
-    "aciklama": "Fırçasız motorlara giden akımı düzenleyerek dönüş hızını hassas biçimde kontrol eden elektronik devre.",
+    "kelime": "elektronik hız denetleyicisi",
+    "aciklama": "dron ve robotlardaki fırçasız elektrik motorlarının devir sayısını yüksek frekanslı sinyallerle ayarlayan sürücü devre.",
     "yasakli_kelimeler": [
-      "hız kontrol",
-      "dron",
-      "motor sürücü",
-      "pwm",
-      "fırçasız"
+      "motor sürücü kartı",
+      "fırçasız motor kontrolü",
+      "devir ayarı",
+      "dron sürücüsü",
+      "üç fazlı çıkış"
     ],
     "zorluk": "orta"
   },

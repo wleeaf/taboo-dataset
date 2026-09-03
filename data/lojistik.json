@@ -285,25 +285,25 @@
     "kelime": "konteyner",
     "aciklama": "uluslararası standart boyutlarda üretilmiş, içine yük konulan dayanıklı çelik kutu.",
     "yasakli_kelimeler": [
-      "teu",
-      "çelik",
-      "gemi",
-      "kasa",
-      "yük"
+      "standart birim",
+      "çelik kasa",
+      "gemi taşımacılığı",
+      "intermodal",
+      "yük sandığı"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 22,
     "kategori": "lojistik",
-    "kelime": "teu",
-    "aciklama": "yirmi ayaklık konteyner birimini ifade eden uluslararası standart kapasite ölçüsü.",
+    "kelime": "yirmi ayaklık konteyner",
+    "aciklama": "uluslararası deniz taşımacılığında gemi ve liman kapasitelerini ölçmekte temel alınan standart yük birimi.",
     "yasakli_kelimeler": [
-      "konteyner",
-      "standart",
-      "kapasite",
-      "yirmi",
-      "ölçü"
+      "standart sandık",
+      "kapasite ölçütü",
+      "gemi yükü",
+      "uluslararası birim",
+      "yükleme hacmi"
     ],
     "zorluk": "orta"
   },
@@ -383,67 +383,67 @@
     "kelime": "incoterms",
     "aciklama": "uluslararası ticarette teslim şekilleri ve tarafların sorumluluklarını belirleyen kurallar bütünü.",
     "yasakli_kelimeler": [
-      "fob",
-      "cif",
-      "teslim",
-      "kurallar",
-      "ticaret"
+      "dış ticaret",
+      "teslim şekli",
+      "sorumluluk paylaşımı",
+      "masraf bölüşümü",
+      "uluslararası kural"
     ],
     "zorluk": "orta"
   },
   {
     "id": 29,
     "kategori": "lojistik",
-    "kelime": "fob",
-    "aciklama": "satıcının malı belirlenen limanda geminin bordasına teslim etmesi kuralı.",
+    "kelime": "gemide masrafsız teslim",
+    "aciklama": "satıcının malları yükleme limanında gemi bordasına aktarmasıyla sorumluluğun alıcıya geçtiği ticaret terimi.",
     "yasakli_kelimeler": [
-      "liman",
-      "gemi",
-      "bord",
-      "incoterms",
-      "masraf"
+      "yükleme limanı",
+      "gemi bordası",
+      "navlun alıcıya",
+      "satıcı sorumluluğu",
+      "dış ticaret"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 30,
     "kategori": "lojistik",
-    "kelime": "cif",
-    "aciklama": "satıcının mal bedeli, navlun ve sigorta masraflarını üstlendiği teslim şekli.",
+    "kelime": "mal bedeli navlun",
+    "aciklama": "satıcının mal bedeliyle birlikte varış limanına kadarki deniz navlunu ve taşıma sigortasını üstlendiği teslim şekli.",
     "yasakli_kelimeler": [
-      "sigorta",
-      "navlun",
-      "maliyet",
-      "liman",
-      "teslim"
+      "taşıma sigortası",
+      "deniz navlunu",
+      "varış limanı",
+      "satıcı masrafı",
+      "teslim kuralı"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 31,
     "kategori": "lojistik",
-    "kelime": "exworks",
-    "aciklama": "satıcının malı kendi tesislerinde alıcının tasarrufuna bırakarak teslim ettiği kural.",
+    "kelime": "iş yerinde teslim",
+    "aciklama": "satıcının malları kendi fabrikasında alıcının tasarrufuna bırakmasıyla tüm risk ve masrafın alıcıya geçtiği yöntem.",
     "yasakli_kelimeler": [
-      "fabrika",
-      "teslim",
-      "satıcı",
-      "alıcı",
-      "masraf"
+      "fabrika çıkışı",
+      "alıcı yükümlülüğü",
+      "depo teslimi",
+      "nakliye hariç",
+      "ihracat masrafı"
     ],
     "zorluk": "orta"
   },
   {
     "id": 32,
     "kategori": "lojistik",
-    "kelime": "ddp",
-    "aciklama": "satıcının tüm gümrük vergileri ve masraflar ödenmiş olarak malı alıcıya teslimi.",
+    "kelime": "gümrük vergileri ödenmiş",
+    "aciklama": "satıcının malları ithalat vergilerini ve gümrük harçlarını ödeyerek alıcının kapısına kadar teslim ettiği kural.",
     "yasakli_kelimeler": [
-      "gümrük",
-      "vergi",
-      "kapı",
-      "sorumluluk",
-      "harç"
+      "ithalat vergisi",
+      "kapıda teslim",
+      "satıcı güvencesi",
+      "gümrükleme",
+      "tüm masraflar"
     ],
     "zorluk": "orta"
   },
@@ -506,28 +506,28 @@
   {
     "id": 37,
     "kategori": "lojistik",
-    "kelime": "milk run",
-    "aciklama": "tek bir aracın belirli bir rota üzerinde birden fazla tedarikçiden mal toplayıp tek fabrikaya getirmesi.",
+    "kelime": "ring seferli toplama",
+    "aciklama": "tek bir aracın belirlenen dairesel rota boyunca birden fazla tedarikçiyi dolaşıp yük toplayarak fabrikaya getirmesi.",
     "yasakli_kelimeler": [
-      "süt turu",
-      "tedarikçi",
-      "rota",
-      "toplama",
-      "sefer"
+      "dairesel rota",
+      "tedarikçi turu",
+      "düzenli sefer",
+      "ortak toplama",
+      "araç optimizasyonu"
     ],
     "zorluk": "orta"
   },
   {
     "id": 38,
     "kategori": "lojistik",
-    "kelime": "just in time",
-    "aciklama": "parçaların ve malzemelerin tam ihtiyaç duyulduğu anda üretim hattına ulaşmasını hedefleyen sistem.",
+    "kelime": "tam zamanında üretim",
+    "aciklama": "stok maliyetlerini ve israfı sıfırlamak için malzemelerin tam ihtiyaç duyulduğu anda tedarik edilip işlenmesi.",
     "yasakli_kelimeler": [
-      "zamanında",
       "sıfır stok",
-      "yalın",
-      "israf",
-      "üretim"
+      "yalın yaklaşım",
+      "israf önleme",
+      "anlık tedarik",
+      "akış sistemi"
     ],
     "zorluk": "kolay"
   },
@@ -604,42 +604,42 @@
   {
     "id": 44,
     "kategori": "lojistik",
-    "kelime": "rfid",
-    "aciklama": "nesnelerin radyo dalgaları yardımıyla uzaktan kablosuz olarak kimliklendirilmesi teknolojisi.",
+    "kelime": "radyo dalgalı tanıma",
+    "aciklama": "nesnelerin üzerine yerleştirilen yongalara radyo frekansı göndererek uzaktan kablosuz bilgi okuma sistemi.",
     "yasakli_kelimeler": [
-      "radyo",
-      "etiket",
-      "çip",
-      "kablosuz",
-      "frekans"
+      "kablosuz okuyucu",
+      "akıllı etiket",
+      "radyo sinyali",
+      "temassız takip",
+      "elektronik kimlik"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 45,
     "kategori": "lojistik",
-    "kelime": "wms",
-    "aciklama": "depo operasyonlarını, giriş-çıkışları ve yerleşimleri dijital olarak yöneten depo yönetim yazılımı.",
+    "kelime": "depo yönetim sistemi",
+    "aciklama": "mal kabulünden sevkiyata kadar depodaki tüm malzeme hareketlerini ve stok yerleşimini yöneten yazılım.",
     "yasakli_kelimeler": [
-      "yazılım",
-      "depo",
-      "yönetim",
-      "envanter",
-      "otomasyon"
+      "envanter takibi",
+      "raf yerleşimi",
+      "stok yazılımı",
+      "barkodlu toplama",
+      "depo operasyonu"
     ],
     "zorluk": "orta"
   },
   {
     "id": 46,
     "kategori": "lojistik",
-    "kelime": "tms",
-    "aciklama": "nakliye ve dağıtım süreçlerinin planlanması ve izlenmesi için kullanılan ulaşım yönetim yazılımı.",
+    "kelime": "taşıma yönetim sistemi",
+    "aciklama": "nakliye operasyonlarının planlanması, rota optimizasyonu, navlun maliyetleri ve araç takibini sağlayan yazılım.",
     "yasakli_kelimeler": [
-      "nakliye",
-      "taşıma",
-      "yazılım",
-      "rota",
-      "yönetim"
+      "nakliye yazılımı",
+      "rota optimizasyonu",
+      "araç filo takibi",
+      "navlun hesabı",
+      "sevkiyat planı"
     ],
     "zorluk": "orta"
   },
@@ -691,11 +691,11 @@
     "kelime": "otomatik kılavuzlu araç",
     "aciklama": "depo veya fabrikada ray veya optik hatları takip ederek insansız yük taşıyan robotik taşıt.",
     "yasakli_kelimeler": [
-      "agv",
-      "robot",
-      "insansız",
-      "kılavuz",
-      "taşıyıcı"
+      "insansız taşıyıcı",
+      "manyetik şerit",
+      "depo içi taşıma",
+      "otonom araba",
+      "iç lojistik"
     ],
     "zorluk": "orta"
   },
@@ -1097,25 +1097,25 @@
     "kelime": "tehlikeli madde",
     "aciklama": "yanıcı, patlayıcı veya zehirli niteliği nedeniyle özel taşıma kurallarına tabi kimyasal yük.",
     "yasakli_kelimeler": [
-      "adr",
-      "yanıcı",
-      "patlayıcı",
-      "zehir",
-      "kimyasal"
+      "karayolu yönetmeliği",
+      "yanıcı madde",
+      "turuncu plaka",
+      "patlayıcı yük",
+      "zehirli kimyasal"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 80,
     "kategori": "lojistik",
-    "kelime": "adr sözleşmesi",
-    "aciklama": "tehlikeli malların karayolu ile uluslararası taşınmasına ilişkin avrupa anlaşması.",
+    "kelime": "tehlikeli yük taşımacılığı",
+    "aciklama": "yanıcı, patlayıcı veya zehirli kimyasalların karayollarında güvenle nakledilmesini düzenleyen uluslararası mevzuat.",
     "yasakli_kelimeler": [
-      "karayolu",
-      "tehlikeli",
-      "kurallar",
-      "belge",
-      "tabela"
+      "turuncu tabela",
+      "özel ambalajlama",
+      "karayolu güvenliği",
+      "uluslararası mevzuat",
+      "şoför sertifikası"
     ],
     "zorluk": "orta"
   },

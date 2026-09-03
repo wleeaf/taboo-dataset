@@ -282,14 +282,14 @@
   {
     "id": 21,
     "kategori": "yapayzeka",
-    "kelime": "knn",
-    "aciklama": "yeni bir veri noktasının sınıfını veya değerini öznitelik uzayında kendisine en yakın k adet komşunun çoğunluğuna bakarak belirleyen makine öğrenmesi algoritması.",
+    "kelime": "en yakın komşu",
+    "aciklama": "yeni bir veri noktasını öznitelik uzayında kendisine en yakın konumdaki örneklerin çoğunluk sınıfına bakarak etiketleyen yöntem.",
     "yasakli_kelimeler": [
-      "komşu",
-      "öznitelik",
-      "mesafe",
-      "sınıflandırma",
-      "vektör"
+      "mesafe ölçümü",
+      "öznitelik uzayı",
+      "çoğunluk oylaması",
+      "sınıflandırma yöntemi",
+      "vektör mesafesi"
     ],
     "zorluk": "zor"
   },
@@ -688,14 +688,14 @@
   {
     "id": 50,
     "kategori": "yapayzeka",
-    "kelime": "rag",
-    "aciklama": "büyük dil modellerinin harici bir bilgi tabanından veya belgelerden ilgili verileri çekerek daha doğru ve güncel yanıtlar üretmesini sağlayan mimari.",
+    "kelime": "getirme destekli üretim",
+    "aciklama": "büyük dil modellerinin harici bir bilgi bankasından ilgili dökümanları sorgulayıp çekerek daha doğru ve kaynaklı cevap üretmesini sağlayan mimari.",
     "yasakli_kelimeler": [
-      "bilgi tabanı",
-      "vektör arama",
-      "belge çekme",
-      "dil modeli",
-      "üretim"
+      "harici bilgi tabanı",
+      "belge arama getirme",
+      "vektör sorgulama",
+      "kaynaklı üretim",
+      "bilgi zenginleştirme"
     ],
     "zorluk": "zor"
   },
@@ -716,14 +716,14 @@
   {
     "id": 52,
     "kategori": "yapayzeka",
-    "kelime": "lstm",
-    "aciklama": "geleneksel tekrarlayan ağlardaki kaybolan gradyan sorununu aşarak zaman serileri ve metinlerde uzun süreli bağımlılıkları öğrenen özel yapay sinir ağı birimi.",
+    "kelime": "uzun süreli bellek",
+    "aciklama": "özel giriş, çıkış ve unutma kapıları sayesinde zaman serilerinde geçmiş bilgileri kaybetmeden hatırlayan sinir ağı mimarisi.",
     "yasakli_kelimeler": [
-      "tekrarlayan ağ",
-      "hücre durumu",
       "unutma kapısı",
-      "uzun bellek",
-      "zaman serisi"
+      "zaman serisi belleği",
+      "hücre durumu",
+      "geçmiş bilgi koruma",
+      "tekrarlayan ağ yapısı"
     ],
     "zorluk": "zor"
   },
@@ -898,14 +898,14 @@
   {
     "id": 65,
     "kategori": "yapayzeka",
-    "kelime": "rlhf",
-    "aciklama": "büyük dil modellerini insanların verdiği tercih ve puanlama geri bildirimleriyle hizalayarak daha güvenli ve yararlı hale getiren pekiştirmeli öğrenme tekniği.",
+    "kelime": "insan geri bildirimli",
+    "aciklama": "büyük dil modellerini insanların puanladığı ve tercih ettiği yanıtlarla ödüllendirerek daha faydalı ve güvenli hale getiren öğrenme tekniği.",
     "yasakli_kelimeler": [
       "insan tercihi",
-      "hizalama",
-      "pekiştirme",
       "ödül modeli",
-      "dil modeli"
+      "model hizalama",
+      "pekiştirmeli eğitim",
+      "güvenlik iyileştirme"
     ],
     "zorluk": "zor"
   },
@@ -1304,14 +1304,14 @@
   {
     "id": 94,
     "kategori": "yapayzeka",
-    "kelime": "multimodal yapay zeka",
-    "aciklama": "metin, görüntü, ses ve video gibi birden fazla farklı veri türünü aynı anda anlayıp birlikte işleyebilen gelişmiş yapay zeka sistemleri.",
+    "kelime": "çok kipli model",
+    "aciklama": "yalnızca metinle sınırlı kalmayıp görüntü, ses, video ve sayısal verileri aynı anda anlayıp birlikte işleyebilen yapay zeka sistemi.",
     "yasakli_kelimeler": [
-      "veri türü",
       "metin ve görüntü",
-      "ses işleme",
-      "çoklu kip",
-      "bütünleşik model"
+      "sesli video işleme",
+      "farklı veri türleri",
+      "bütünleşik algılama",
+      "çoklu duyu modeli"
     ],
     "zorluk": "orta"
   },

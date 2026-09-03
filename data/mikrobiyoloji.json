@@ -369,11 +369,11 @@
     "kelime": "asidofil",
     "aciklama": "çok düşük ph değerine sahip asidik ortamlarda optimal şekilde çoğalan canlı.",
     "yasakli_kelimeler": [
-      "asit",
-      "ph",
-      "düşük",
-      "ortam",
-      "ekstremofil"
+      "asitli ortam",
+      "düşük hidrojen derecesi",
+      "zorlu yaşam",
+      "ekstremofil canlı",
+      "asit gölü"
     ],
     "zorluk": "orta"
   },
@@ -383,11 +383,11 @@
     "kelime": "alkalifil",
     "aciklama": "yüksek ph değerine sahip bazik ve alkali ortamlarda yaşamayı tercih eden mikrop.",
     "yasakli_kelimeler": [
-      "alkali",
-      "bazik",
-      "ph",
-      "yüksek",
-      "ekstremofil"
+      "alkali çevre",
+      "bazik ortam",
+      "yüksek bazlık",
+      "tuz gölü",
+      "ekstremofil mikrop"
     ],
     "zorluk": "orta"
   },
@@ -1024,28 +1024,28 @@
   {
     "id": 74,
     "kategori": "mikrobiyoloji",
-    "kelime": "mık",
-    "aciklama": "bir antibiyotiğin bakterinin gözle görülür üremesini engelleyen en düşük derişimi.",
+    "kelime": "asgari durdurucu derişim",
+    "aciklama": "bir antibiyotiğin bakterinin gözle görülür üremesini tamamen engellediği en düşük yoğunluk seviyesi.",
     "yasakli_kelimeler": [
-      "konsantrasyon",
-      "en düşük",
-      "inhibisyon",
-      "antibiyotik",
-      "üreme"
+      "üreme engeli",
+      "antibiyotik dozu",
+      "duyarlılık testi",
+      "seyreltme yöntemi",
+      "bakteri durdurma"
     ],
     "zorluk": "orta"
   },
   {
     "id": 75,
     "kategori": "mikrobiyoloji",
-    "kelime": "mbk",
-    "aciklama": "bir antibiyotiğin bakterilerin tamamını öldürebilmesi için gereken en düşük derişimi.",
+    "kelime": "asgari öldürücü derişim",
+    "aciklama": "bakterilerin tamamına yakınını doğrudan öldürerek yok eden asgari antibiyotik konsantrasyonu.",
     "yasakli_kelimeler": [
-      "öldürücü",
-      "en düşük",
-      "bakterisit",
-      "antibiyotik",
-      "konsantrasyon"
+      "canlılık sonlandırma",
+      "bakteri öldürme",
+      "ölümcül doz",
+      "ekim testi",
+      "mikrop kırıcı"
     ],
     "zorluk": "orta"
   },
@@ -1150,14 +1150,14 @@
   {
     "id": 83,
     "kategori": "mikrobiyoloji",
-    "kelime": "pcr",
-    "aciklama": "hedef dna bölgesini enzimatik olarak çoğaltarak mikrobiyal patojenleri tespit eden teknik.",
+    "kelime": "polimeraz zincir reaksiyonu",
+    "aciklama": "hedef dna parçasını enzimler ve sıcaklık döngüleri yardımıyla laboratuvarda milyonlarca kez çoğaltma yöntemi.",
     "yasakli_kelimeler": [
-      "dna",
-      "çoğaltma",
-      "polimeraz",
-      "zincir",
-      "amplifikasyon"
+      "genetik çoğaltma",
+      "zincirleme kopya",
+      "ısı döngüsü",
+      "enzim sentezi",
+      "hedef nükleik"
     ],
     "zorluk": "kolay"
   },

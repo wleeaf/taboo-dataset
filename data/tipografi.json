@@ -114,14 +114,14 @@
   {
     "id": 9,
     "kategori": "tipografi",
-    "kelime": "x yüksekliği",
-    "aciklama": "bir yazı karakterinde 'x' gibi küçük harflerin taban çizgisi ile üst sınırı arasındaki dikey yükseklik.",
+    "kelime": "küçük harf boyu",
+    "aciklama": "bir yazı karakterinde uzantısı olmayan küçük harflerin taban çizgisi ile üst gövde sınırı arasındaki dikey yükseklik.",
     "yasakli_kelimeler": [
-      "küçük harf",
-      "yükseklik",
-      "boyut",
-      "ölçü",
-      "taban"
+      "gövde yüksekliği",
+      "taban çizgisi mesafesi",
+      "dikey ölçü",
+      "harf ölçeği",
+      "küçük yazı boyutu"
     ],
     "zorluk": "zor"
   },
@@ -212,42 +212,42 @@
   {
     "id": 16,
     "kategori": "tipografi",
-    "kelime": "bold",
-    "aciklama": "harf vuruşlarının ve gövde kalınlığının standarttan belirgin şekilde daha kalın ve etli olması.",
+    "kelime": "kalın yazı stili",
+    "aciklama": "metinde önemli başlık veya kelimeleri dikkat çekecek şekilde normalden daha etli, tok ve koyu gösteren yazı stili.",
     "yasakli_kelimeler": [
-      "kalın",
-      "vurgulu",
-      "koyu",
-      "siyah",
-      "ağırlık"
+      "vurgulu harf",
+      "koyu dizgi",
+      "siyah metin",
+      "etli gövde",
+      "ağır vuruş"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 17,
     "kategori": "tipografi",
-    "kelime": "open type",
-    "aciklama": "hem truetype hem postscript formatlarını destekleyen ve gelişmiş tipografik özellikler sunan font standardı.",
+    "kelime": "gelişmiş font standardı",
+    "aciklama": "farklı platformlarda sorunsuz çalışan, binlerce glif ve gelişmiş ligatür desteği barındıran modern dijital yazı tipi standardı.",
     "yasakli_kelimeler": [
-      "font",
-      "format",
-      "truetype",
-      "postscript",
-      "vektör"
+      "dijital yazı formatı",
+      "çapraz platform tipi",
+      "zengin glif desteği",
+      "vektör standardı",
+      "bağlantılı harf"
     ],
     "zorluk": "zor"
   },
   {
     "id": 18,
     "kategori": "tipografi",
-    "kelime": "truetype",
-    "aciklama": "apple ve microsoft tarafından ekran ve yazıcı netliği için ortaklaşa geliştirilen yaygın dijital font formatı.",
+    "kelime": "ölçeklenebilir font",
+    "aciklama": "bilgisayar ekranlarında ve yazıcı çıktılarında her punto boyutunda pikselsiz ve net okunacak şekilde geliştirilen vektörel yazı formatı.",
     "yasakli_kelimeler": [
-      "ttf",
-      "dijital font",
-      "format",
-      "ekran",
-      "yazı"
+      "vektörel yazı formatı",
+      "ekran netliği",
+      "yazıcı yazı tipi",
+      "punto ölçekleme",
+      "dijital harf biçimi"
     ],
     "zorluk": "zor"
   },
@@ -282,14 +282,14 @@
   {
     "id": 21,
     "kategori": "tipografi",
-    "kelime": "monospaced",
-    "aciklama": "her harf ve karakterin yatayda birbirine eşit genişlikte bir alan kapladığı sabit aralıklı daktilo fontu.",
+    "kelime": "sabit aralıklı yazı",
+    "aciklama": "tüm harf ve rakamların yatayda tamamen aynı sütun genişliğini kapladığı daktilo tarzı yazı stili.",
     "yasakli_kelimeler": [
-      "sabit aralık",
-      "daktilo",
-      "kodlama",
-      "eşit genişlik",
-      "courier"
+      "eşit harf genişliği",
+      "daktilo yazısı",
+      "kodlama fontu",
+      "sütun hizalı metin",
+      "sabit sütun"
     ],
     "zorluk": "zor"
   },
@@ -562,14 +562,14 @@
   {
     "id": 41,
     "kategori": "tipografi",
-    "kelime": "blackletter",
-    "aciklama": "orta çağ avrupasında el yazması eserlerde ve ilk matbaa baskılarında kullanılan kırık gotik yazı türü.",
+    "kelime": "gotik yazı tarzı",
+    "aciklama": "orta çağ avrupası el yazmalarında ve ilk matbaada kullanılan köşeli, sivri kırılmalı ve süslü kaligrafik yazı stili.",
     "yasakli_kelimeler": [
-      "gotik",
-      "fraktur",
-      "orta çağ",
-      "kaligrafi",
-      "el yazması"
+      "orta çağ harfleri",
+      "kırık uçlu kaligrafi",
+      "gutenberg matbaası",
+      "sivri köşeli yazı",
+      "el yazması stili"
     ],
     "zorluk": "zor"
   },
@@ -632,28 +632,28 @@
   {
     "id": 46,
     "kategori": "tipografi",
-    "kelime": "em boşluğu",
-    "aciklama": "kullanılan fontun punto büyüklüğüne tam olarak eşit olan yatay boşluk birimi.",
+    "kelime": "tam kare boşluk",
+    "aciklama": "dizgide genişliği kullanılan yazı boyutunun tam punto ölçüsüne eşit olan geleneksel tipografik kare boşluk birimi.",
     "yasakli_kelimeler": [
-      "kare boşluk",
-      "ölçü",
-      "tipografi",
-      "boşluk birimi",
-      "nispi boşluk"
+      "punto genişliği",
+      "kare harf aralığı",
+      "tipografik aralık",
+      "gövde ölçülü ara",
+      "baskı boşluğu"
     ],
     "zorluk": "zor"
   },
   {
     "id": 47,
     "kategori": "tipografi",
-    "kelime": "en boşluğu",
-    "aciklama": "em boşluğunun tam yarısına denk gelen tipografik yatay boşluk genişliği.",
+    "kelime": "yarım kare boşluk",
+    "aciklama": "tam kare boşluğun yarısına eşit olan, sözcük aralarında ve metin ritminde kullanılan tipografik yatay aralık.",
     "yasakli_kelimeler": [
-      "yarım em",
-      "boşluk",
-      "ölçü",
-      "metin aralığı",
-      "tipografi"
+      "yarım aralık",
+      "sözcük arası mesafe",
+      "tipografik ölçü birimi",
+      "ince yatay mesafe",
+      "boşluk ölçüsü"
     ],
     "zorluk": "zor"
   },
@@ -870,14 +870,14 @@
   {
     "id": 63,
     "kategori": "tipografi",
-    "kelime": "çift katlı g",
-    "aciklama": "hem üst gövdesi hem alt döngüsü kapalı olup birbirine boyunla bağlanan geleneksel küçük g harfi formu.",
+    "kelime": "çift döngülü harf",
+    "aciklama": "geleneksel serifli yazı tiplerinde hem üst gövdesi hem alt kuyruğu kapalı iki yuvarlaktan oluşan klasik küçük harf formu.",
     "yasakli_kelimeler": [
-      "döngü",
-      "iki gözlü",
-      "klasik g",
-      "çift göz",
-      "harf"
+      "iki halkalı harf",
+      "kapalı alt döngü",
+      "geleneksel küçük form",
+      "çift gözlü tasarım",
+      "klasik glif"
     ],
     "zorluk": "orta"
   },
@@ -1164,14 +1164,14 @@
   {
     "id": 84,
     "kategori": "tipografi",
-    "kelime": "bidi metin",
-    "aciklama": "aynı metin içinde hem soldan sağa hem de sağdan sola yazılan dillerin bir arada kullanıldığı çift yönlü dizgi.",
+    "kelime": "çift yönlü dizgi",
+    "aciklama": "aynı sayfa veya paragrafta hem soldan sağa hem de sağdan sola yazılan dillerin bir arada doğru dizilmesi işlemi.",
     "yasakli_kelimeler": [
-      "yön",
-      "sağdan sola",
-      "soldan sağa",
-      "arapça metin",
-      "dizgi"
+      "sağdan sola yazım",
+      "ters yönlü dizgi",
+      "iki yönlü paragraf",
+      "farklı alfabe düzeni",
+      "metin yönü uyumu"
     ],
     "zorluk": "orta"
   },

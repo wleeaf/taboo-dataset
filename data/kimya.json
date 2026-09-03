@@ -258,7 +258,7 @@
     "aciklama": "ortamın ph değerine göre renk değiştirerek titrasyonun eşdeğerlik veya dönüm noktasına ulaştığını gösteren organik boya.",
     "yasakli_kelimeler": [
       "renk değiştirme",
-      "ph",
+      "asitlik derecesi",
       "turnusol",
       "fenolftalein",
       "dönüm noktası"
@@ -285,7 +285,7 @@
     "kelime": "tampon çözelti",
     "aciklama": "az miktarda kuvvetli asit veya baz eklendiğinde kendi ph değerindeki değişime direnç gösteren zayıf asit-baz karışımı.",
     "yasakli_kelimeler": [
-      "ph koruma",
+      "asitlik dengesi",
       "direnç",
       "zayıf asit",
       "eşlenik baz",
@@ -299,11 +299,11 @@
     "kelime": "henderson-hasselbalch denklemi",
     "aciklama": "bir tampon çözeltinin ph değerini zayıf asidin pka değeri ve eşlenik baz/asit derişim oranından hesaplayan formül.",
     "yasakli_kelimeler": [
-      "pka",
+      "asitlik hesabı",
       "tampon",
-      "ph hesabı",
       "logaritma",
-      "eşlenik"
+      "eşlenik",
+      "denge sabiti"
     ],
     "zorluk": "orta"
   },
@@ -324,28 +324,28 @@
   {
     "id": 24,
     "kategori": "kimya",
-    "kelime": "ph",
-    "aciklama": "bir sulu çözeltideki hidrojen veya hidronyum iyonu molar derişiminin eksi on tabanına göre logaritması.",
+    "kelime": "asitlik derecesi",
+    "aciklama": "bir sulu çözeltideki hidrojen iyonlarının derişimini eksi logaritmik ölçekte belirten ölçü.",
     "yasakli_kelimeler": [
-      "asitlik",
-      "logaritma",
       "hidronyum",
+      "logaritma",
       "bazlık",
-      "skala"
+      "ölçek",
+      "nötr"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 25,
     "kategori": "kimya",
-    "kelime": "poh",
-    "aciklama": "bir çözeltideki hidroksit iyonu derişiminin eksi on tabanına göre logaritmasını ifade eden bazlık ölçüsü.",
+    "kelime": "bazlık derecesi",
+    "aciklama": "bir çözeltide bulunan hidroksit iyonlarının derişimini logaritmik değerle gösteren ölçüt.",
     "yasakli_kelimeler": [
       "hidroksit",
-      "oh",
-      "baz",
+      "alkali",
       "eksi logaritma",
-      "on dört"
+      "on dört",
+      "derişim"
     ],
     "zorluk": "kolay"
   },
@@ -667,7 +667,7 @@
       "ara ürün",
       "üçüncül",
       "kararsız",
-      "sn1"
+      "yer değiştirme"
     ],
     "zorluk": "orta"
   },
@@ -688,28 +688,28 @@
   {
     "id": 50,
     "kategori": "kimya",
-    "kelime": "sn1 tepkimesi",
-    "aciklama": "hız belirleyen basamağında sadece substratın yer aldığı iki basamaklı karbokatyon ara ürünü üzerinden yürüyen yer değiştirme tepkimesi.",
+    "kelime": "tek moleküllü ornatma",
+    "aciklama": "hız belirleyen basamağında sadece bir molekülün yer aldığı iki basamaklı nükleofilik ornatma reaksiyonu.",
     "yasakli_kelimeler": [
-      "tek moleküllü",
       "karbokatyon",
       "ayrılan grup",
       "rasemizasyon",
-      "nükleofilik"
+      "nükleofil",
+      "hız basamağı"
     ],
     "zorluk": "orta"
   },
   {
     "id": 51,
     "kategori": "kimya",
-    "kelime": "sn2 tepkimesi",
-    "aciklama": "nükleofilin arkadan saldırması ve ayrılan grubun çıkmasının aynı anda tek bir geçiş durumunda gerçekleştiği yer değiştirme.",
+    "kelime": "iki moleküllü ornatma",
+    "aciklama": "nükleofilin bağ kopmasıyla eşzamanlı olarak arkadan saldırdığı tek basamaklı ornatma süreci.",
     "yasakli_kelimeler": [
-      "iki moleküllü",
       "arkadan saldırı",
-      "walden terselmesi",
+      "walden evrilmesi",
       "geçiş durumu",
-      "tek basamak"
+      "tek basamak",
+      "nükleofil"
     ],
     "zorluk": "orta"
   },
@@ -926,14 +926,14 @@
   {
     "id": 67,
     "kategori": "kimya",
-    "kelime": "hplc",
-    "aciklama": "Karışımları yüksek basınç altında sıvı fazda bileşenlerine ayıran kromatografi tekniği.",
+    "kelime": "sıvı kromatografisi",
+    "aciklama": "çözücü karışımının yüksek basınç altında dolgulu bir kolondan geçirilerek bileşenlerine ayrıldığı analiz tekniği.",
     "yasakli_kelimeler": [
-      "kromatografi",
-      "sıvı",
       "kolon",
+      "hareketli faz",
+      "sabit faz",
       "ayırma",
-      "analiz"
+      "basınç"
     ],
     "zorluk": "orta"
   },
@@ -957,11 +957,11 @@
     "kelime": "nükleer manyetik rezonans",
     "aciklama": "güçlü manyetik alan altındaki atom çekirdeklerinin radyo frekansı dalgalarını soğurmasıyla molekül yapısını aydınlatan teknik.",
     "yasakli_kelimeler": [
-      "nmr",
       "çekirdek spini",
       "kimyasal kayma",
       "radyo dalgası",
-      "manyetik alan"
+      "manyetik alan",
+      "rezonans"
     ],
     "zorluk": "orta"
   },
@@ -974,7 +974,7 @@
       "titreşim",
       "fonksiyonel grup",
       "dalga sayısı",
-      "ftir",
+      "absorbans",
       "bağ"
     ],
     "zorluk": "orta"
@@ -985,7 +985,7 @@
     "kelime": "morötesi-görünür bölge spektroskopisi",
     "aciklama": "moleküllerdeki değerlik elektronlarının morötesi veya görünür ışığı soğurarak yüksek enerji orbitallerine geçişini ölçen analiz.",
     "yasakli_kelimeler": [
-      "uv-vis",
+      "görünür bölge",
       "elektronik geçiş",
       "absorbans",
       "beer-lambert",
@@ -1279,11 +1279,11 @@
     "kelime": "x-ışını kırınımı",
     "aciklama": "x-ışınlarının kristal kafes düzlemlerinden bragg yasasına göre saçılmasıyla katıların üç boyutlu atomik yapısını çözen yöntem.",
     "yasakli_kelimeler": [
-      "xrd",
-      "bragg",
+      "bragg yasası",
       "kristal yapı",
       "örgü",
-      "kırınım deseni"
+      "kırınım deseni",
+      "dalga boyu"
     ],
     "zorluk": "orta"
   },

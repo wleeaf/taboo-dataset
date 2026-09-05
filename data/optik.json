@@ -661,7 +661,7 @@
     "id": 48,
     "kategori": "optik",
     "kelime": "optik yol",
-    "aciklama": "Işığın bir ortamda katettiği geometrik mesafenin ortamın kırılma indisiyle çarpımı olan faz mesafesi.",
+    "aciklama": "ışığın bir ortamda katettiği geometrik mesafenin ortamın kırılma indisiyle çarpımı olan faz mesafesi.",
     "yasakli_kelimeler": [
       "indis",
       "geometrik",
@@ -703,7 +703,7 @@
     "id": 51,
     "kategori": "optik",
     "kelime": "çeyrek dalga",
-    "aciklama": "Işığın dik polarizasyon bileşenleri arasında 90 derecelik faz farkı oluşturan çift kırılımlı plaka.",
+    "aciklama": "ışığın dik polarizasyon bileşenleri arasında 90 derecelik faz farkı oluşturan çift kırılımlı plaka.",
     "yasakli_kelimeler": [
       "dairesel",
       "gecikme",
@@ -717,7 +717,7 @@
     "id": 52,
     "kategori": "optik",
     "kelime": "yarım dalga",
-    "aciklama": "Işığın dik polarizasyon bileşenleri arasında 180 derecelik faz farkı oluşturup polarizasyonu döndüren plaka.",
+    "aciklama": "ışığın dik polarizasyon bileşenleri arasında 180 derecelik faz farkı oluşturup polarizasyonu döndüren plaka.",
     "yasakli_kelimeler": [
       "döndürme",
       "yüz seksen",
@@ -871,7 +871,7 @@
     "id": 63,
     "kategori": "optik",
     "kelime": "fotonik bant",
-    "aciklama": "Fotonik kristallerde belirli dalga boyundaki ışık fotonlarının geçişinin engellendiği yasak aralık.",
+    "aciklama": "fotonik kristallerde belirli dalga boyundaki ışık fotonlarının geçişinin engellendiği yasak aralık.",
     "yasakli_kelimeler": [
       "yasak bölge",
       "frekans",
@@ -885,7 +885,7 @@
     "id": 64,
     "kategori": "optik",
     "kelime": "antirefle kaplama",
-    "aciklama": "Gözlük camı ve merceklerde ışığın geri yansımasını engelleyip geçirgenliği artıran ince katman.",
+    "aciklama": "gözlük camı ve merceklerde ışığın geri yansımasını engelleyip geçirgenliği artıran ince katman.",
     "yasakli_kelimeler": [
       "mercek",
       "girişim",
@@ -1165,7 +1165,7 @@
     "id": 84,
     "kategori": "optik",
     "kelime": "optik tomografi",
-    "aciklama": "Düşük koherensli ışık girişimini kullanarak göz retinası ve dokulardan mikrometre çözünürlükte kesit alan yöntem.",
+    "aciklama": "düşük koherensli ışık girişimini kullanarak göz retinası ve dokulardan mikrometre çözünürlükte kesit alan yöntem.",
     "yasakli_kelimeler": [
       "oct",
       "göz",
@@ -1235,7 +1235,7 @@
     "id": 89,
     "kategori": "optik",
     "kelime": "ikinci harmonik",
-    "aciklama": "Doğrusal olmayan optik kristalde iki fotonun birleşip frekansı iki katına çıkmış tek foton yayması süreci.",
+    "aciklama": "doğrusal olmayan optik kristalde iki fotonun birleşip frekansı iki katına çıkmış tek foton yayması süreci.",
     "yasakli_kelimeler": [
       "frekans katlama",
       "foton",
@@ -1347,7 +1347,7 @@
     "id": 97,
     "kategori": "optik",
     "kelime": "fresnel katsayıları",
-    "aciklama": "İki farklı kırılma indisine sahip ortam sınırında ışığın yansıma ve iletim genliklerini hesaplayan oranlar.",
+    "aciklama": "iki farklı kırılma indisine sahip ortam sınırında ışığın yansıma ve iletim genliklerini hesaplayan oranlar.",
     "yasakli_kelimeler": [
       "katsayı",
       "arayüzey",
@@ -1398,5 +1398,2105 @@
       "odak"
     ],
     "zorluk": "kolay"
+  },
+  {
+    "id": 101,
+    "kategori": "optik",
+    "kelime": "düzlem ayna",
+    "aciklama": "yansıtıcı yüzeyi tamamen düz olan ve cismin simetrik, eşit boyda sanal görüntüsünü oluşturan klasik ayna.",
+    "yasakli_kelimeler": [
+      "düz yüzey",
+      "sanal görüntü",
+      "eşit boy",
+      "simetrik",
+      "ayna"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 102,
+    "kategori": "optik",
+    "kelime": "düzlem dalga",
+    "aciklama": "dalga cepheleri birbirine paralel sonsuz düzlemler halinde ilerleyen ideal elektromanyetik dalga modeli.",
+    "yasakli_kelimeler": [
+      "paralel düzlemler",
+      "dalga cephesi",
+      "sonsuz düzlem",
+      "ilerleyen dalga",
+      "elektromanyetik"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 103,
+    "kategori": "optik",
+    "kelime": "ışık demeti",
+    "aciklama": "aynı kaynaktan çıkarak birbirine paralel veya ıraksak biçimde uzayda ilerleyen çok sayıda ışık ışını topluluğu.",
+    "yasakli_kelimeler": [
+      "ışın topluluğu",
+      "paralel ışık",
+      "demet",
+      "aydınlatma",
+      "huzme"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 104,
+    "kategori": "optik",
+    "kelime": "ışık ışını",
+    "aciklama": "ışığın homojen bir ortamda yayılma yönünü temsil eden geometrik ve doğrusal çizgi modeli.",
+    "yasakli_kelimeler": [
+      "doğrusal çizgi",
+      "yayılma yönü",
+      "geometrik optik",
+      "ok işareti",
+      "ışın"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 105,
+    "kategori": "optik",
+    "kelime": "ışık kaynağı",
+    "aciklama": "kendi içinde enerji dönüşümü yaparak çevresine görünür elektromanyetik ışıma yayan güneş veya lamba gibi cisim.",
+    "yasakli_kelimeler": [
+      "lamba",
+      "güneş",
+      "aydınlatıcı",
+      "ışık yayan",
+      "ampul"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 106,
+    "kategori": "optik",
+    "kelime": "noktasal kaynak",
+    "aciklama": "boyutları aydınlattığı ortama kıyasla ihmal edilecek kadar küçük olan ve her yöne eşit ışık yayan ideal kaynak.",
+    "yasakli_kelimeler": [
+      "küçük boyut",
+      "her yöne ışık",
+      "ideal kaynak",
+      "geometrik nokta",
+      "aydınlatma"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 107,
+    "kategori": "optik",
+    "kelime": "gölge",
+    "aciklama": "saydam olmayan opak bir cismin ışık ışınlarının geçişini engellemesiyle arkasındaki ekranda oluşan karanlık bölge.",
+    "yasakli_kelimeler": [
+      "opak cisim",
+      "karanlık bölge",
+      "ışık geçirmeyen",
+      "silüet",
+      "ekran"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 108,
+    "kategori": "optik",
+    "kelime": "yarı gölge",
+    "aciklama": "geniş bir ışık kaynağının cisim tarafından yalnızca kısmen perdelendiği ve az ışık alan alacakaranlık kuşak.",
+    "yasakli_kelimeler": [
+      "kısmi karanlık",
+      "alacakaranlık",
+      "tam gölge kenarı",
+      "geniş kaynak",
+      "az ışık"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 109,
+    "kategori": "optik",
+    "kelime": "tam gölge",
+    "aciklama": "kaynaktan çıkan hiçbir ışık ışınının doğrudan ulaşamadığı zifiri karanlık merkezi gölge alanı.",
+    "yasakli_kelimeler": [
+      "zifiri karanlık",
+      "hiç ışık almayan",
+      "merkezi alan",
+      "opak cisim arkası",
+      "gölge"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 110,
+    "kategori": "optik",
+    "kelime": "aydınlanma şiddeti",
+    "aciklama": "birim yüzeye dik olarak düşen ışık akısı miktarını belirten ve birimi lüks olan fotometrik büyüklük.",
+    "yasakli_kelimeler": [
+      "lüks",
+      "birim yüzey",
+      "ışık akısı",
+      "aydınlatma miktarı",
+      "e harfi"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 111,
+    "kategori": "optik",
+    "kelime": "ışık şiddeti",
+    "aciklama": "bir noktasal ışık kaynağının belirli bir yönde birim katı açı içine yaydığı ışık gücü olup birimi kandela olan nicelik.",
+    "yasakli_kelimeler": [
+      "kandela",
+      "katı açı",
+      "kaynak gücü",
+      "yönlü ışıma",
+      "mum gücü"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 112,
+    "kategori": "optik",
+    "kelime": "ışık akısı",
+    "aciklama": "bir ışık kaynağından birim zamanda yayılan toplam algılanabilir ışık enerjisi olup birimi lümen olan nicelik.",
+    "yasakli_kelimeler": [
+      "lümen",
+      "toplam enerji",
+      "kaynak çıktısı",
+      "fi simgesi",
+      "görünür güç"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 113,
+    "kategori": "optik",
+    "kelime": "lümen",
+    "aciklama": "bir kandela ışık şiddetindeki noktasal kaynağın bir steradyanlık katı açıya yaydığı ışık akısı birimi.",
+    "yasakli_kelimeler": [
+      "ışık akısı birimi",
+      "ampul parlaklığı",
+      "kandela ilişkisi",
+      "lm simgesi",
+      "fotometri"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 114,
+    "kategori": "optik",
+    "kelime": "lüks",
+    "aciklama": "bir metrekarelik yüzeye homojen olarak düşen bir lümenlik ışık akısına karşılık gelen aydınlanma birimi.",
+    "yasakli_kelimeler": [
+      "aydınlanma birimi",
+      "metrekare başına lümen",
+      "lx simgesi",
+      "ortam aydınlığı",
+      "fotometre"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 115,
+    "kategori": "optik",
+    "kelime": "kandela",
+    "aciklama": "uluslararası birim sisteminde yedi temel büyüklükten biri olan ışık şiddeti standart ölçü birimi.",
+    "yasakli_kelimeler": [
+      "temel birim",
+      "ışık şiddeti",
+      "cd simgesi",
+      "mum ışığı",
+      "uluslararası sistem"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 116,
+    "kategori": "optik",
+    "kelime": "fotometri",
+    "aciklama": "insan gözünün duyarlılık eğrisini dikkate alarak ışığın parlaklığını ve aydınlatma gücünü ölçen bilim dalı.",
+    "yasakli_kelimeler": [
+      "ışık ölçümü",
+      "lüksmetre",
+      "insan gözü duyarlılığı",
+      "parlaklık hesabı",
+      "optik dalı"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 117,
+    "kategori": "optik",
+    "kelime": "prizma",
+    "aciklama": "birbirine paralel olmayan iki parlatılmış düzlem yüzeye sahip, ışığı kıran ve renklere ayıran şeffaf optik blok.",
+    "yasakli_kelimeler": [
+      "üçgen cam",
+      "ışığı kırma",
+      "renklere ayırma",
+      "newton deneyi",
+      "şeffaf blok"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 118,
+    "kategori": "optik",
+    "kelime": "optik prizma",
+    "aciklama": "cam veya kuvars gibi saydam malzemelerden yapılan, ışığı saptırmak, ters çevirmek veya tayfına ayrıştırmak için kullanılan eleman.",
+    "yasakli_kelimeler": [
+      "ışık saptırma",
+      "tayf ayrıştırma",
+      "cam eleman",
+      "yansıtma",
+      "dürbün içi"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 119,
+    "kategori": "optik",
+    "kelime": "yakınsak mercek",
+    "aciklama": "ortası kenarlarına göre daha kalın olan ve üzerine gelen paralel ışık demetini odak noktasında toplayan ince kenarlı mercek.",
+    "yasakli_kelimeler": [
+      "ince kenarlı",
+      "ışığı toplayan",
+      "büyüteç merceği",
+      "odakta birleşme",
+      "dışbükey"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 120,
+    "kategori": "optik",
+    "kelime": "ıraksak mercek",
+    "aciklama": "kenarları ortasından daha kalın olan ve üzerine düşen paralel ışık ışınlarını sanki odaktan çıkıyormuş gibi dağıtan mercek.",
+    "yasakli_kelimeler": [
+      "kalın kenarlı",
+      "ışığı dağıtan",
+      "içbükey",
+      "miyop camı",
+      "dağıtıcı"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 121,
+    "kategori": "optik",
+    "kelime": "kalın mercek",
+    "aciklama": "mercek kalınlığının yüzey eğrilik yarıçaplarına kıyasla ihmal edilemediği ve iki ayrı ana düzleme sahip optik mercek.",
+    "yasakli_kelimeler": [
+      "geometrik kalınlık",
+      "ihmal edilemez",
+      "iki ana düzlem",
+      "mercek formülü",
+      "hesaplama"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 122,
+    "kategori": "optik",
+    "kelime": "ince mercek",
+    "aciklama": "merkez kalınlığının odak uzaklığı yanında çok küçük sayılarak tek bir optik merkez noktasıyla hesaplanan ideal mercek.",
+    "yasakli_kelimeler": [
+      "ihmal edilebilir kalınlık",
+      "ideal mercek",
+      "optik merkez",
+      "mercek formülü",
+      "yakınsama"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 123,
+    "kategori": "optik",
+    "kelime": "bikonveks mercek",
+    "aciklama": "her iki yüzeyi de dışarıya doğru küresel olarak kavislenmiş çift taraflı dışbükey yakınsak mercek türü.",
+    "yasakli_kelimeler": [
+      "çift dışbükey",
+      "iki yüzü kavisli",
+      "büyüteç",
+      "ışık toplama",
+      "mercek"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 124,
+    "kategori": "optik",
+    "kelime": "bikonkav mercek",
+    "aciklama": "her iki yüzeyi de içe doğru oyulmuş, iki taraflı içbükey yapısıyla ışığı geniş açıyla dağıtan mercek.",
+    "yasakli_kelimeler": [
+      "çift içbükey",
+      "iki yüzü çukur",
+      "ışık dağıtma",
+      "ıraksak",
+      "mercek"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 125,
+    "kategori": "optik",
+    "kelime": "menisküs mercek",
+    "aciklama": "bir yüzeyi dışbükey diğer yüzeyi içbükey hilal biçimli olan ve gözlük camlarında sık kullanılan mercek.",
+    "yasakli_kelimeler": [
+      "hilal biçimli",
+      "bir yüzü çukur bir yüzü tümsek",
+      "gözlük camı",
+      "kavisli",
+      "düzeltici"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 126,
+    "kategori": "optik",
+    "kelime": "silindirik mercek",
+    "aciklama": "yalnızca tek bir eksende kırma gücüne sahip olan ve gözdeki astigmat kusurunu düzeltmek için kullanılan özel mercek.",
+    "yasakli_kelimeler": [
+      "astigmat düzeltme",
+      "tek eksenli kırma",
+      "silindir yüzey",
+      "çizgi odak",
+      "gözlük"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 127,
+    "kategori": "optik",
+    "kelime": "asal eksen",
+    "aciklama": "bir merceğin veya küresel aynanın eğrilik merkezlerinden ve tepe noktasından geçen hayali simetri ekseni.",
+    "yasakli_kelimeler": [
+      "simetri ekseni",
+      "merkezden geçen çizgi",
+      "tepe noktası",
+      "optik eksen",
+      "doğrultu"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 128,
+    "kategori": "optik",
+    "kelime": "optik merkez",
+    "aciklama": "merceğin tam ortasında bulunan ve üzerinden geçen ışık ışınlarının hiçbir kırılmaya uğramadan dosdoğru yol aldığı nokta.",
+    "yasakli_kelimeler": [
+      "kırılmadan geçen",
+      "tam orta nokta",
+      "mercek merkezi",
+      "asal eksen üzeri",
+      "doğrultu"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 129,
+    "kategori": "optik",
+    "kelime": "eğrilik yarıçapı",
+    "aciklama": "küresel ayna veya mercek yüzeyinin ait olduğu kürenin geometrik merkezine olan uzaklık mesafesi.",
+    "yasakli_kelimeler": [
+      "küre yarıçapı",
+      "eğrilik merkezi",
+      "odak uzaklığının iki katı",
+      "r harfi",
+      "geometrik ölçü"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 130,
+    "kategori": "optik",
+    "kelime": "tepe noktası",
+    "aciklama": "küresel aynanın veya mercek yüzeyinin asal eksenle kesiştiği geometrik tepe ve kutup noktası.",
+    "yasakli_kelimeler": [
+      "kesişim noktası",
+      "asal eksen ucu",
+      "ayna ortası",
+      "kutup noktası",
+      "t harfi"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 131,
+    "kategori": "optik",
+    "kelime": "gerçek görüntü",
+    "aciklama": "kırılan veya yansıyan ışınların bizzat kendilerinin kesişmesiyle oluşan ve bir perde üzerine düşürülebilen görüntü.",
+    "yasakli_kelimeler": [
+      "perdeye düşen",
+      "ışınların kesişimi",
+      "ters duran",
+      "sanal karşıtı",
+      "çukur ayna görüntüsü"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 132,
+    "kategori": "optik",
+    "kelime": "sanal görüntü",
+    "aciklama": "ışınların kendilerinin değil uzantılarının kesişmesiyle oluşan, perdeye düşürülemeyen ancak ayna içinde görülen zahiri görüntü.",
+    "yasakli_kelimeler": [
+      "zahiri görüntü",
+      "uzantı kesişimi",
+      "düzlem ayna",
+      "perdeye düşmez",
+      "ayna içi"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 133,
+    "kategori": "optik",
+    "kelime": "ters görüntü",
+    "aciklama": "optik sistemden çıkan ışınların kesişmesi sonucu cismin baş aşağı konumda oluşan optik görüntüsü.",
+    "yasakli_kelimeler": [
+      "baş aşağı",
+      "gerçek görüntü yönü",
+      "odak ötesi",
+      "mercek çıkışı",
+      "yön"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 134,
+    "kategori": "optik",
+    "kelime": "düz görüntü",
+    "aciklama": "oluşan görüntünün cisimle aynı dikey yönelimde, başı yukarıda ve ayakları aşağıda görünmesi hali.",
+    "yasakli_kelimeler": [
+      "baş yukarıda",
+      "cisimle aynı yön",
+      "düzlem ayna",
+      "sanal görüntü",
+      "yönelim"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 135,
+    "kategori": "optik",
+    "kelime": "büyütme oranı",
+    "aciklama": "oluşan görüntünün boyunun cismin gerçek boyuna veya görüntü uzaklığının cisim uzaklığına olan oranı.",
+    "yasakli_kelimeler": [
+      "görüntü boyu",
+      "cisim boyu",
+      "oran",
+      "yakınlaştırma katı",
+      "büyütme gücü"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 136,
+    "kategori": "optik",
+    "kelime": "netlik derinliği",
+    "aciklama": "bir kamera veya optik cihazda odaklanan noktanın önünde ve arkasında net olarak kabul edilen alan derinliği.",
+    "yasakli_kelimeler": [
+      "net alan",
+      "fluluk sınırı",
+      "diyafram etkisi",
+      "kamera odağı",
+      "derinlik"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 137,
+    "kategori": "optik",
+    "kelime": "odak düzlemi",
+    "aciklama": "asal eksene dik olarak odak noktasından geçen ve sonsuzdaki cisimlerin görüntüsünün toplandığı hayali düzlem.",
+    "yasakli_kelimeler": [
+      "odak noktası dikliği",
+      "sensör yüzeyi",
+      "görüntü düzlemi",
+      "sonsuz odak",
+      "düzlem"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 138,
+    "kategori": "optik",
+    "kelime": "alan derinliği",
+    "aciklama": "fotoğrafçılıkta ve optikte diyafram kısıldıkça artan, nesnenin önü ile arkasındaki kabul edilebilir net bölge aralığı.",
+    "yasakli_kelimeler": [
+      "diyafram kısma",
+      "net bölge",
+      "boke karşıtı",
+      "fotoğraf alanı",
+      "aralık"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 139,
+    "kategori": "optik",
+    "kelime": "diyafram",
+    "aciklama": "objektifin içine giren ışık miktarını ve alan derinliğini ayarlayan açılıp kapanabilir mekanik bıçaklı delik.",
+    "yasakli_kelimeler": [
+      "f değeri",
+      "ışık miktarı",
+      "açıklık",
+      "bıçaklar",
+      "kamera ayarı"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 140,
+    "kategori": "optik",
+    "kelime": "enstantane",
+    "aciklama": "fotoğraf makinesinde örtücünün açılarak ışığın sensör veya film üzerine düşme süresini belirleyen perde hızı.",
+    "yasakli_kelimeler": [
+      "örtücü hızı",
+      "pozlama süresi",
+      "perde süresi",
+      "saniyenin kesri",
+      "deklanşör"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 141,
+    "kategori": "optik",
+    "kelime": "ışık hızı",
+    "aciklama": "boşlukta saniyede yaklaşık üç yüz bin kilometre olan ve fizikteki evrensel hız sınırı kabul edilen sabit değer.",
+    "yasakli_kelimeler": [
+      "üç yüz bin km",
+      "saniyede",
+      "boşlukta hız",
+      "c sabiti",
+      "evrensel sınır"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 142,
+    "kategori": "optik",
+    "kelime": "kırılma açısı",
+    "aciklama": "farklı yoğunluktaki ortama geçen ışık ışınının yüzey normaliyle yaptığı geometrik sapma açısı.",
+    "yasakli_kelimeler": [
+      "yüzey normali",
+      "ikinci ortam",
+      "snell açısı",
+      "sapma derecesi",
+      "açı"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 143,
+    "kategori": "optik",
+    "kelime": "gelme açısı",
+    "aciklama": "kaynaktan gelen gelen ışının yüzeyin dikme çizgisi olan yüzey normaliyle yaptığı açı.",
+    "yasakli_kelimeler": [
+      "gelen ışın",
+      "yüzey normali",
+      "giriş açısı",
+      "yansıma açısına eşit",
+      "açı"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 144,
+    "kategori": "optik",
+    "kelime": "yansıma açısı",
+    "aciklama": "yansıtıcı yüzeyden geri dönen yansıyan ışının yüzey normali ile yaptığı ve gelme açısına eşit olan açı.",
+    "yasakli_kelimeler": [
+      "yansıyan ışın",
+      "gelme açısına eşit",
+      "yüzey normali",
+      "yansıma kuralı",
+      "derece"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 145,
+    "kategori": "optik",
+    "kelime": "yüzey normali",
+    "aciklama": "ışığın çarptığı noktada yüzeye tam doksan derece dik olarak çizilen hayali referans doğrusu.",
+    "yasakli_kelimeler": [
+      "doksan derece",
+      "dik çizgi",
+      "referans hattı",
+      "açı ölçümü",
+      "n harfi"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 146,
+    "kategori": "optik",
+    "kelime": "serap olayı",
+    "aciklama": "çölde veya sıcak asfaltta ısınan havanın kırıcılık indisinin düşmesiyle gökyüzünün yerde su birikintisi gibi yansıması.",
+    "yasakli_kelimeler": [
+      "sıcak asfalt",
+      "çöl yanılsaması",
+      "tam yansıma",
+      "su birikintisi sanma",
+      "sıcak hava katmanı"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 147,
+    "kategori": "optik",
+    "kelime": "gökkuşağı",
+    "aciklama": "güneş ışınlarının yağmur damlaları içinde kırılarak, tam iç yansıma yaparak ve dispersiyonla yedi renge ayrılması doğa olayı.",
+    "yasakli_kelimeler": [
+      "yağmur damlası",
+      "yedi renk",
+      "güneş ışığı",
+      "tam yansıma",
+      "gökyüzü kemeri"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 148,
+    "kategori": "optik",
+    "kelime": "hale olayı",
+    "aciklama": "yüksek sirrüs bulutlarındaki altıgen buz kristallerinin ışığı kırmasıyla güneş veya ayın etrafında beliren parlak halka.",
+    "yasakli_kelimeler": [
+      "buz kristalleri",
+      "güneş halkası",
+      "ay çemberi",
+      "sirrüs bulutu",
+      "yirmi iki derece"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 149,
+    "kategori": "optik",
+    "kelime": "yanardönerlik",
+    "aciklama": "sabun köpüğü, kelebek kanadı veya cd yüzeyinde ince film girişimi sonucu bakış açısına göre değişen gökkuşağı renkleri.",
+    "yasakli_kelimeler": [
+      "sabun köpüğü",
+      "ince film girişimi",
+      "kelebek kanadı",
+      "renk değişimi",
+      "bakış açısı"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 150,
+    "kategori": "optik",
+    "kelime": "optik illüzyon",
+    "aciklama": "ışık, renk ve desenlerin göz ve beyin arasındaki algılama mekanizmasını yanıltmasıyla oluşan görsel göz aldanması.",
+    "yasakli_kelimeler": [
+      "göz aldanması",
+      "yanılsama",
+      "beyin algısı",
+      "görsel hile",
+      "yanıltıcı resim"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 151,
+    "kategori": "optik",
+    "kelime": "dürbün",
+    "aciklama": "iki gözle birden bakılarak uzaktaki nesneleri büyütmek için prizmalar ve mercekler dizisi içeren taşınabilir optik alet.",
+    "yasakli_kelimeler": [
+      "çift gözlü",
+      "uzak büyütme",
+      "porro prizma",
+      "mercekler",
+      "avcı aleti"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 152,
+    "kategori": "optik",
+    "kelime": "teleskop",
+    "aciklama": "uzaktaki yıldızları, gezegenleri ve gök cisimlerini incelemek için ışığı dev aynalar veya merceklerle toplayan gözlem aracı.",
+    "yasakli_kelimeler": [
+      "gökbilim",
+      "yıldız gözlemi",
+      "galileo",
+      "aynalı mercekli",
+      "uzay aracı"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 153,
+    "kategori": "optik",
+    "kelime": "optik mikroskop",
+    "aciklama": "gözle görülemeyecek kadar küçük hücre ve mikroorganizmaları görünür ışık ve mercek kombinasyonlarıyla binlerce kez büyüten alet.",
+    "yasakli_kelimeler": [
+      "hücre inceleme",
+      "büyütme",
+      "objektif oküler",
+      "mikrop",
+      "biyoloji laboratuvarı"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 154,
+    "kategori": "optik",
+    "kelime": "büyüteç",
+    "aciklama": "saplı bir çerçeveye monte edilmiş tek bir dışbükey yakınsak mercekten oluşan basit büyütme aracı.",
+    "yasakli_kelimeler": [
+      "yakınsak cam",
+      "sherlock holmes",
+      "yazı büyütme",
+      "mercek",
+      "gözlem"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 155,
+    "kategori": "optik",
+    "kelime": "periskop",
+    "aciklama": "denizaltılarda suyun altından su üstünü görebilmek için kırk beşer derecelik iki ayna veya prizmayla çalışan tüp.",
+    "yasakli_kelimeler": [
+      "denizaltı",
+      "su üstü gözlemi",
+      "iki ayna",
+      "kırk beş derece",
+      "gizli bakış"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 156,
+    "kategori": "optik",
+    "kelime": "projeksiyon",
+    "aciklama": "bilgisayardan veya video kaynağından gelen görüntü sinyalini güçlü lambası ve mercekleriyle büyük perdeye yansıtan cihaz.",
+    "yasakli_kelimeler": [
+      "perdeye yansıtma",
+      "sunum cihazı",
+      "güçlü lamba",
+      "sinema yansıtıcı",
+      "cihaz"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 157,
+    "kategori": "optik",
+    "kelime": "kamera obskura",
+    "aciklama": "karanlık bir odanın veya kutunun tek bir iğne deliğinden giren ışığın karşı duvara ters görüntü oluşturduğu ilk optik düzenek.",
+    "yasakli_kelimeler": [
+      "iğne deliği",
+      "karanlık oda",
+      "ters görüntü",
+      "fotoğrafın atası",
+      "ibn heysem"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 158,
+    "kategori": "optik",
+    "kelime": "fotoğraf makinesi",
+    "aciklama": "mercek sistemiyle ışığı toplayıp diyafram ve örtücü kontrolüyle sensör üzerine kaydeden görüntü yakalama aygıtı.",
+    "yasakli_kelimeler": [
+      "kamera",
+      "fotoğraf çekme",
+      "deklanşör",
+      "sensör",
+      "objektif"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 159,
+    "kategori": "optik",
+    "kelime": "göz merceği",
+    "aciklama": "kirpiksi kaslar tarafından gerilip gevşetilerek yakındaki ve uzaktaki cisimlere akomodasyon sağlayan doğal esnek canlı mercek.",
+    "yasakli_kelimeler": [
+      "göz içi",
+      "kristalin",
+      "odaklama kası",
+      "katarakt yeri",
+      "doğal mercek"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 160,
+    "kategori": "optik",
+    "kelime": "kornea",
+    "aciklama": "gözün en önünde yer alan, ışığın ilk kırıldığı ve göze girmesini sağlayan saat camı biçimindeki saydam tabaka.",
+    "yasakli_kelimeler": [
+      "saydam tabaka",
+      "göz önü",
+      "ilk kırılma",
+      "lazer çizdirme",
+      "saat camı"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 161,
+    "kategori": "optik",
+    "kelime": "retina",
+    "aciklama": "gözün en arka kısmında yer alan, fotoreseptör hücreleriyle ışığı elektrik sinyallerine çevirip beyne ileten ağ tabaka.",
+    "yasakli_kelimeler": [
+      "ağ tabaka",
+      "fotoreseptör",
+      "sarı nokta",
+      "görüntü düşen yer",
+      "koni ve çubuk"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 162,
+    "kategori": "optik",
+    "kelime": "göz bebeği",
+    "aciklama": "irisin ortasında yer alan, aydınlıkta küçülüp karanlıkta büyüyerek göze giren ışık miktarını ayarlayan delik.",
+    "yasakli_kelimeler": [
+      "pupil",
+      "karanlıkta büyüyen",
+      "aydınlıkta küçülen",
+      "iris ortası",
+      "siyah delik"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 163,
+    "kategori": "optik",
+    "kelime": "iris",
+    "aciklama": "içerdiği pigmentlerle göze mavi, yeşil veya kahverengi rengini veren ve göz bebeğinin açıklığını kontrol eden kaslı diyafram.",
+    "yasakli_kelimeler": [
+      "göz rengi",
+      "kaslı tabaka",
+      "pigment",
+      "göz bebeği ayarı",
+      "renkli kısım"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 164,
+    "kategori": "optik",
+    "kelime": "sarı leke",
+    "aciklama": "retinanın tam merkezinde yoğun koni hücreleri barındıran ve en keskin, en net renkli görmeyi sağlayan çukur nokta.",
+    "yasakli_kelimeler": [
+      "fovea",
+      "en net görme",
+      "koni yoğunluğu",
+      "retina merkezi",
+      "keskin görüş"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 165,
+    "kategori": "optik",
+    "kelime": "kör nokta",
+    "aciklama": "görme sinirlerinin retinadan çıkıp beyne yöneldiği, üzerinde hiç fotoreseptör hücresi bulunmayan ışıksız alan.",
+    "yasakli_kelimeler": [
+      "reseptörsüz",
+      "görme siniri çıkışı",
+      "algılanamayan yer",
+      "retina boşluğu",
+      "görülmeyen"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 166,
+    "kategori": "optik",
+    "kelime": "miyopi",
+    "aciklama": "göz küresinin önden arkaya uzun olması sebebiyle görüntünün retinanın önüne düşmesi ve uzağı net görememe kusuru.",
+    "yasakli_kelimeler": [
+      "uzağı görememe",
+      "kalın kenarlı mercek",
+      "retina önü odak",
+      "göz kusuru",
+      "eksi numara"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 167,
+    "kategori": "optik",
+    "kelime": "hipermetropi",
+    "aciklama": "göz küresinin kısa olması sebebiyle görüntünün retinanın arkasına düşmesi ve yakını net görememe kusuru.",
+    "yasakli_kelimeler": [
+      "yakını görememe",
+      "ince kenarlı mercek",
+      "retina arkası odak",
+      "artı numara",
+      "göz kusuru"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 168,
+    "kategori": "optik",
+    "kelime": "presbiyopi",
+    "aciklama": "kırk yaşından sonra göz merceğinin esnekliğini kaybetmesiyle ortaya çıkan yaşa bağlı yakın görme zafiyeti.",
+    "yasakli_kelimeler": [
+      "yaşlılık kusuru",
+      "kırk yaş üstü",
+      "mercek esneklik kaybı",
+      "okuma gözlüğü",
+      "yakın görmeme"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 169,
+    "kategori": "optik",
+    "kelime": "kontakt lens",
+    "aciklama": "korneanın üzerine doğrudan takılarak göz kusurlarını düzelten ince şeffaf hidrojelli kırma diski.",
+    "yasakli_kelimeler": [
+      "kornea üzeri",
+      "gözlük yerine",
+      "lens solüsyonu",
+      "şeffaf disk",
+      "numaralı"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 170,
+    "kategori": "optik",
+    "kelime": "gözlük camı",
+    "aciklama": "gözün odaklama kusurlarını telafi etmek için diyoptri derecesine göre yontulan mineral veya organik kırma merceği.",
+    "yasakli_kelimeler": [
+      "çerçeve içi",
+      "organik mineral",
+      "diyoptri",
+      "göz kusuru düzeltme",
+      "numaralı cam"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 171,
+    "kategori": "optik",
+    "kelime": "görme alanı",
+    "aciklama": "baş ve gözler tamamen sabit tutulduğunda gözün aynı anda görebildiği uzaydaki toplam açısal açıklık.",
+    "yasakli_kelimeler": [
+      "görülen açı",
+      "periferik görüş",
+      "sabit bakış",
+      "açısal açıklık",
+      "görme sahası"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 172,
+    "kategori": "optik",
+    "kelime": "görme keskinliği",
+    "aciklama": "gözün iki ayrı noktayı veya ince detayları birbirinden ayırt edebilme optik çözümleme kapasitesi.",
+    "yasakli_kelimeler": [
+      "netlik derecesi",
+      "snellen tablosu",
+      "ayrıntı seçme",
+      "on üzerinden on",
+      "çözünürlük"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 173,
+    "kategori": "optik",
+    "kelime": "renk körlüğü",
+    "aciklama": "retinadaki koni hücrelerinin eksikliği sebebiyle özellikle kırmızı ile yeşil renklerin ayırt edilemediği genetik durum.",
+    "yasakli_kelimeler": [
+      "kırmızı yeşil",
+      "ishihara testi",
+      "daltonizm",
+      "ayırt edememe",
+      "koni eksikliği"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 174,
+    "kategori": "optik",
+    "kelime": "koni hücresi",
+    "aciklama": "retinada aydınlık ortamda çalışan, kırmızı, yeşil ve mavi dalga boylarını algılayıp renkli görmeyi sağlayan hücre.",
+    "yasakli_kelimeler": [
+      "renkli görme",
+      "gündüz görüşü",
+      "retina hücresi",
+      "üç tip",
+      "fotoreseptör"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 175,
+    "kategori": "optik",
+    "kelime": "çubuk hücresi",
+    "aciklama": "gece veya loş ışıkta çalışan, renklere duyarsız olup yalnızca ışık yoğunluğunu algılayan aşırı hassas hücre.",
+    "yasakli_kelimeler": [
+      "loş ışık",
+      "gece görüşü",
+      "siyah beyaz",
+      "rodopsin",
+      "retina fotoreseptörü"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 176,
+    "kategori": "optik",
+    "kelime": "görünür ışık",
+    "aciklama": "üç yüz seksen ile yedi yüz elli nanometre dalga boyu aralığında insan gözü tarafından algılanabilen tayf bölgesi.",
+    "yasakli_kelimeler": [
+      "nanometre aralığı",
+      "insan gözü",
+      "mor ve kırmızı arası",
+      "spektrum",
+      "renkler"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 177,
+    "kategori": "optik",
+    "kelime": "kızılötesi ışık",
+    "aciklama": "görünür kırmızının ötesinde yer alan, sıcak cisimlerin yaydığı ve termal kameralarla algılanan ışıma.",
+    "yasakli_kelimeler": [
+      "infrared",
+      "termal kamera",
+      "ısı ışıması",
+      "kırmızı ötesi",
+      "uzaktan kumanda"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 178,
+    "kategori": "optik",
+    "kelime": "morötesi ışık",
+    "aciklama": "mordan daha kısa dalga boyuna sahip, güneşten gelen ve florasan maddeleri parlatan yüksek enerjili ışın.",
+    "yasakli_kelimeler": [
+      "ultraviyole",
+      "uv ışını",
+      "güneş yanığı",
+      "kısa dalga boyu",
+      "bronzlaşma"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 179,
+    "kategori": "optik",
+    "kelime": "tayf",
+    "aciklama": "ışığın bir prizmadan geçirilerek dalga boylarına göre kırılarak oluşturduğu mordan kırmızıya uzanan renk şeridi.",
+    "yasakli_kelimeler": [
+      "spektrum",
+      "renk şeridi",
+      "prizma dağılımı",
+      "dalga boyları",
+      "gökkuşağı dizisi"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 180,
+    "kategori": "optik",
+    "kelime": "foton enerjisi",
+    "aciklama": "bir ışık kuantumunun taşıdığı, planck sabiti ile frekansının çarpımına eşit olan temel enerji miktarı.",
+    "yasakli_kelimeler": [
+      "planck sabiti",
+      "frekans çarpımı",
+      "ışık kuantumu",
+      "elektronvolt",
+      "h çarpı nü"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 181,
+    "kategori": "optik",
+    "kelime": "dalga boyu",
+    "aciklama": "ardışık iki dalga tepesi veya iki dalga çukuru arasındaki, ışığın rengini doğrudan belirleyen fiziksel mesafe.",
+    "yasakli_kelimeler": [
+      "iki tepe arası",
+      "lamda simgesi",
+      "renk belirleyici",
+      "nanometre",
+      "frekans tersi"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 182,
+    "kategori": "optik",
+    "kelime": "ışık frekansı",
+    "aciklama": "bir saniye içinde belirli bir noktadan geçen ışık dalgalarının sayısı olup hertz cinsinden ölçülen değer.",
+    "yasakli_kelimeler": [
+      "saniyedeki dalga",
+      "hertz",
+      "dalga boyuyla ters",
+      "ışık titreşimi",
+      "foton enerjisi"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 183,
+    "kategori": "optik",
+    "kelime": "ışık dalgası",
+    "aciklama": "uzayda birbirine dik elektrik ve manyetik alanların salınarak ışık hızında yayılmasıyla oluşan enine dalga.",
+    "yasakli_kelimeler": [
+      "elektromanyetik dalga",
+      "enine dalga",
+      "elektrik ve manyetik alan",
+      "yayılma",
+      "ışık hızı"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 184,
+    "kategori": "optik",
+    "kelime": "monokromatik ışık",
+    "aciklama": "tek bir dalga boyuna veya aşırı dar bir frekans aralığına sahip olan tek renkli saf ışık.",
+    "yasakli_kelimeler": [
+      "tek renkli",
+      "tek dalga boyu",
+      "lazer ışığı",
+      "saf ışık",
+      "ayrışmayan"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 185,
+    "kategori": "optik",
+    "kelime": "beyaz ışık",
+    "aciklama": "görünür spektrumdaki tüm renklerin ve dalga boylarının bir arada dengeli olarak bulunmasıyla oluşan bileşik ışık.",
+    "yasakli_kelimeler": [
+      "tüm renklerin karışımı",
+      "güneş ışığı",
+      "bileşik ışık",
+      "prizmada ayrışan",
+      "polikromatik"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 186,
+    "kategori": "optik",
+    "kelime": "difüz yansıma",
+    "aciklama": "pürüzlü ve mat yüzeylere çarpan paralel ışık demetinin her yöne rastgele açılarak saçılması olayı.",
+    "yasakli_kelimeler": [
+      "dağınık yansıma",
+      "pürüzlü yüzey",
+      "mat zemin",
+      "her yöne saçılma",
+      "parlamayan"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 187,
+    "kategori": "optik",
+    "kelime": "düzgün yansıma",
+    "aciklama": "kusursuz parlatılmış ayna yüzeyine gelen paralel ışık ışınlarının paralelliklerini koruyarak tek bir yöne yansıması.",
+    "yasakli_kelimeler": [
+      "ayna yansıması",
+      "paralel geri dönüş",
+      "kusursuz yüzey",
+      "speküler",
+      "net görüntü"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 188,
+    "kategori": "optik",
+    "kelime": "retroreflektör",
+    "aciklama": "üzerine gelen ışığı geliş açısı ne olursa olsun tam geldiği yöne geri yansıtan prizmatik kedi gözü elemanı.",
+    "yasakli_kelimeler": [
+      "kedi gözü",
+      "geldiği yöne yansıtma",
+      "yol butonu",
+      "köşe küpü prizması",
+      "trafik reflektörü"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 189,
+    "kategori": "optik",
+    "kelime": "optik kaplama",
+    "aciklama": "mercek ve prizma yüzeylerine yansımayı azaltmak veya yansıtıcılığı artırmak için buharlaştırılan mikronluk ince katman.",
+    "yasakli_kelimeler": [
+      "ince film",
+      "yansıma önleyici",
+      "antirefle",
+      "mercek kaplaması",
+      "vakum kaplama"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 190,
+    "kategori": "optik",
+    "kelime": "yansıtıcı ayna",
+    "aciklama": "üzerine düşen ışığın neredeyse tamamını yansıtarak optik sistemlerde ışığın rotasını değiştiren optik ayna.",
+    "yasakli_kelimeler": [
+      "rota değiştirme",
+      "ayna",
+      "yansıtıcı yüzey",
+      "kaplamalı cam",
+      "yansıtma"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 191,
+    "kategori": "optik",
+    "kelime": "dielektrik ayna",
+    "aciklama": "farklı kırıcılık indisli şeffaf ince katmanların girişim etkisiyle belirli dalga boylarını yüzde doksan dokuz yansıtan ayna.",
+    "yasakli_kelimeler": [
+      "yüksek yansıtıcılık",
+      "lazer aynası",
+      "girişim kaplaması",
+      "metal içermeyen",
+      "katmanlı"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 192,
+    "kategori": "optik",
+    "kelime": "yarı geçirgen",
+    "aciklama": "üzerine gelen ışık demetinin yarısını yansıtıp diğer yarısını dosdoğru geçiren özel ışın bölücü ayna.",
+    "yasakli_kelimeler": [
+      "yüzde elli",
+      "ışın bölücü",
+      "yarısı geçen",
+      "casus ayna",
+      "iki yönlü ayna"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 193,
+    "kategori": "optik",
+    "kelime": "nötr filtre",
+    "aciklama": "renk dengesini hiç bozmadan tüm dalga boylarındaki ışığı eşit oranda zayıflatan koyu renkli kamera filtresi.",
+    "yasakli_kelimeler": [
+      "nd filtre",
+      "renk bozmayan",
+      "ışık zayıflatma",
+      "uzun pozlama",
+      "koyu cam"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 194,
+    "kategori": "optik",
+    "kelime": "polarize filtre",
+    "aciklama": "cam ve su yüzeylerindeki parlamaları engelleyen, gökyüzünün mavisini koyulaştıran polarizasyon camı.",
+    "yasakli_kelimeler": [
+      "parlama engelleme",
+      "su yansıması",
+      "güneş gözlüğü",
+      "kutuplanma",
+      "cpl filtre"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 195,
+    "kategori": "optik",
+    "kelime": "renk filtresi",
+    "aciklama": "belirli renklerdeki dalga boylarını geçirip diğer renkleri soğurarak renkli ışık demeti üreten boyalı cam.",
+    "yasakli_kelimeler": [
+      "kırmızı yeşil mavi",
+      "renk seçici",
+      "soğurma",
+      "boyalı cam",
+      "fotografi filtresi"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 196,
+    "kategori": "optik",
+    "kelime": "optik cam",
+    "aciklama": "içinde hiçbir hava kabarcığı ve gerilim bulunmayan, kırıcılık indisi ve dağılımı tam bilinen yüksek saflıkta cam.",
+    "yasakli_kelimeler": [
+      "saf cam",
+      "kabarcıksız",
+      "flint ve crown",
+      "mercek camı",
+      "yüksek kalite"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 197,
+    "kategori": "optik",
+    "kelime": "kuvars cam",
+    "aciklama": "saf silisyum dioksitten üretilen ve ultraviyole ışınlarını normal cam gibi kesmeyip geçiren dayanıklı optik cam.",
+    "yasakli_kelimeler": [
+      "uv geçiren",
+      "saf silika",
+      "yüksek sıcaklık",
+      "morötesi geçirgen",
+      "optik eleman"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 198,
+    "kategori": "optik",
+    "kelime": "fotometre",
+    "aciklama": "bir ışık kaynağının şiddetini veya yüzeydeki aydınlanma düzeyini fotosel ile ölçen optik ölçüm aygıtı.",
+    "yasakli_kelimeler": [
+      "ışık ölçer",
+      "lüksmetre",
+      "fotoselli cihaz",
+      "aydınlık ölçümü",
+      "parlaklık tayini"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 199,
+    "kategori": "optik",
+    "kelime": "ışık polarizasyonu",
+    "aciklama": "her yönde titreşen doğal ışık dalgalarının tek bir titreşim düzlemine sınırlandırılması fiziksel süreci.",
+    "yasakli_kelimeler": [
+      "titreşim düzlemi",
+      "kutuplanma",
+      "polarizör",
+      "tek yönlü dalga",
+      "polaroid"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 200,
+    "kategori": "optik",
+    "kelime": "mercek parlaması",
+    "aciklama": "güçlü ışık kaynaklarına karşı çekim yaparken mercek içi istenmeyen iç yansımalarla karede oluşan parlak halka ve lekeler.",
+    "yasakli_kelimeler": [
+      "lens flare",
+      "istenmeyen iç yansıma",
+      "parlak leke",
+      "güneşe karşı çekim",
+      "parasoley çözümü"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "kategori": "optik",
+    "kelime": "yansıtmak",
+    "aciklama": "ışık ışınının ayna gibi pürüzsüz yüzeye çarpıp geri dönmesi",
+    "yasakli_kelimeler": [
+      "ayna",
+      "ışık",
+      "çarpmak",
+      "dönmek",
+      "yüzey"
+    ],
+    "zorluk": "kolay",
+    "id": 201
+  },
+  {
+    "kategori": "optik",
+    "kelime": "kırmak",
+    "aciklama": "ışığın bir saydam ortamdan diğerine geçerken yön değiştirmesi",
+    "yasakli_kelimeler": [
+      "saydam",
+      "ortam",
+      "ışık",
+      "açı",
+      "yön"
+    ],
+    "zorluk": "kolay",
+    "id": 202
+  },
+  {
+    "kategori": "optik",
+    "kelime": "odaklamak",
+    "aciklama": "mercek yardımıyla ışık ışınlarını tek bir noktada toplamak",
+    "yasakli_kelimeler": [
+      "mercek",
+      "odak noktası",
+      "toplamak",
+      "ışın",
+      "nokta"
+    ],
+    "zorluk": "kolay",
+    "id": 203
+  },
+  {
+    "kategori": "optik",
+    "kelime": "büyütmek",
+    "aciklama": "büyüteç veya mikroskopla küçük nesnelerin görüntüsünü iri göstermek",
+    "yasakli_kelimeler": [
+      "büyüteç",
+      "mikroskop",
+      "görüntü",
+      "iri",
+      "mercek"
+    ],
+    "zorluk": "kolay",
+    "id": 204
+  },
+  {
+    "kategori": "optik",
+    "kelime": "küçültmek",
+    "aciklama": "kalın kenarlı mercekle cismin görüntüsünü daha ufak hale getirmek",
+    "yasakli_kelimeler": [
+      "ufak",
+      "mercek",
+      "görüntü",
+      "boyut",
+      "kalın kenarlı"
+    ],
+    "zorluk": "kolay",
+    "id": 205
+  },
+  {
+    "kategori": "optik",
+    "kelime": "aydınlatmak",
+    "aciklama": "karanlık odaya veya cisme ışık kaynağı yönlendirip görünür kılmak",
+    "yasakli_kelimeler": [
+      "ışık",
+      "fener",
+      "lamba",
+      "karanlık",
+      "görünür"
+    ],
+    "zorluk": "kolay",
+    "id": 206
+  },
+  {
+    "kategori": "optik",
+    "kelime": "gözlük takmak",
+    "aciklama": "görme kusurunu düzeltmek için burun üstüne camlı çerçeve koymak",
+    "yasakli_kelimeler": [
+      "çerçeve",
+      "cam",
+      "numara",
+      "göz",
+      "kusur"
+    ],
+    "zorluk": "kolay",
+    "id": 207
+  },
+  {
+    "kategori": "optik",
+    "kelime": "gözlemlemek",
+    "aciklama": "teleskopla gece gökyüzündeki yıldızları ve gezegenleri izlemek",
+    "yasakli_kelimeler": [
+      "teleskop",
+      "yıldız",
+      "gökyüzü",
+      "izlemek",
+      "bakmak"
+    ],
+    "zorluk": "kolay",
+    "id": 208
+  },
+  {
+    "kategori": "optik",
+    "kelime": "parlamak",
+    "aciklama": "yüzeyin üzerine düşen ışıkla ışıltılı ve parlak görünmesi",
+    "yasakli_kelimeler": [
+      "ışıltı",
+      "parlak",
+      "parıltı",
+      "yüzey",
+      "ışık"
+    ],
+    "zorluk": "kolay",
+    "id": 209
+  },
+  {
+    "kategori": "optik",
+    "kelime": "gölge düşürmek",
+    "aciklama": "opak cismin ışığın önüne geçerek arkasında karanlık alan yaratması",
+    "yasakli_kelimeler": [
+      "opak",
+      "karanlık",
+      "ışık engeli",
+      "siluet",
+      "arka"
+    ],
+    "zorluk": "kolay",
+    "id": 210
+  },
+  {
+    "kategori": "optik",
+    "kelime": "renklere ayırmak",
+    "aciklama": "cam prizmadan geçen beyaz ışığı gökkuşağı tayfına bölmek",
+    "yasakli_kelimeler": [
+      "prizma",
+      "tayf",
+      "gökkuşağı",
+      "kırmızı mor",
+      "beyaz ışık"
+    ],
+    "zorluk": "kolay",
+    "id": 211
+  },
+  {
+    "kategori": "optik",
+    "kelime": "filtrelemek",
+    "aciklama": "renkli cam filtre ile belirli dalga boyundaki ışıkları süzmek",
+    "yasakli_kelimeler": [
+      "süzmek",
+      "polarize",
+      "cam",
+      "filtre",
+      "dalga"
+    ],
+    "zorluk": "kolay",
+    "id": 212
+  },
+  {
+    "kategori": "optik",
+    "kelime": "tam yansıma yapmak",
+    "aciklama": "ışığın sınır açısından büyük açıyla gelip tamamen aynı ortama dönmesi",
+    "yasakli_kelimeler": [
+      "sınır açısı",
+      "fiber optik",
+      "kırılma",
+      "ortam",
+      "açı"
+    ],
+    "zorluk": "orta",
+    "id": 213
+  },
+  {
+    "kategori": "optik",
+    "kelime": "polarize etmek",
+    "aciklama": "farklı yönlerde titreşen ışık dalgalarını tek bir düzlemde titreştirmek",
+    "yasakli_kelimeler": [
+      "polarizasyon",
+      "düzlem",
+      "titreşim",
+      "güneş gözlüğü",
+      "filtre"
+    ],
+    "zorluk": "orta",
+    "id": 214
+  },
+  {
+    "kategori": "optik",
+    "kelime": "kırınım oluşturmak",
+    "aciklama": "ışık dalgasının dar bir yarıktan geçerken bükülüp dairesel yayılması",
+    "yasakli_kelimeler": [
+      "yarık",
+      "bükülme",
+      "difraksiyon",
+      "dalga",
+      "engel"
+    ],
+    "zorluk": "orta",
+    "id": 215
+  },
+  {
+    "kategori": "optik",
+    "kelime": "girişim deseni kurmak",
+    "aciklama": "iki koherent ışık dalgasının üst üste binerek aydınlık ve karanlık saçaklar yapması",
+    "yasakli_kelimeler": [
+      "aydınlık karanlık",
+      "saçak",
+      "çift yarık",
+      "young",
+      "dalga"
+    ],
+    "zorluk": "orta",
+    "id": 216
+  },
+  {
+    "kategori": "optik",
+    "kelime": "lazer üretmek",
+    "aciklama": "uyarılmış ışıma ile aynı fazlı ve tek renkli yoğun ışık demeti çıkarmak",
+    "yasakli_kelimeler": [
+      "lazer",
+      "aynı faz",
+      "monokromatik",
+      "ışıma",
+      "yoğun"
+    ],
+    "zorluk": "orta",
+    "id": 217
+  },
+  {
+    "kategori": "optik",
+    "kelime": "diyoptri hesaplamak",
+    "aciklama": "merceğin odak uzaklığının tersini alarak kırma gücünü bulmak",
+    "yasakli_kelimeler": [
+      "odak uzaklığı",
+      "kırma gücü",
+      "numara",
+      "metre",
+      "mercek"
+    ],
+    "zorluk": "orta",
+    "id": 218
+  },
+  {
+    "kategori": "optik",
+    "kelime": "mercek temizlemek",
+    "aciklama": "mikroskop veya kamera camını mikro fiber bez ve solüsyonla silmek",
+    "yasakli_kelimeler": [
+      "mikrofiber",
+      "solüsyon",
+      "toz",
+      "kamera",
+      "çizik"
+    ],
+    "zorluk": "orta",
+    "id": 219
+  },
+  {
+    "kategori": "optik",
+    "kelime": "kontakt lens takmak",
+    "aciklama": "kornea yüzeyine doğrudan ince şeffaf polimer mercek yerleştirmek",
+    "yasakli_kelimeler": [
+      "kornea",
+      "lens",
+      "solüsyon",
+      "göz",
+      "şeffaf"
+    ],
+    "zorluk": "orta",
+    "id": 220
+  },
+  {
+    "kategori": "optik",
+    "kelime": "ışık soğurmak",
+    "aciklama": "koyu renkli maddenin üzerine düşen foton enerjisini emip ısıya çevirmesi",
+    "yasakli_kelimeler": [
+      "absorbsiyon",
+      "emilim",
+      "foton",
+      "siyah",
+      "enerji"
+    ],
+    "zorluk": "orta",
+    "id": 221
+  },
+  {
+    "kategori": "optik",
+    "kelime": "dispersiyon yaşamak",
+    "aciklama": "farklı frekanstaki renklerin cam içinde farklı hızlarla kırılarak dağılması",
+    "yasakli_kelimeler": [
+      "dağılma",
+      "frekans",
+      "hız farkı",
+      "prizma",
+      "kırılma indisi"
+    ],
+    "zorluk": "orta",
+    "id": 222
+  },
+  {
+    "kategori": "optik",
+    "kelime": "netlik ayarı yapmak",
+    "aciklama": "objektifin odak bileziğini çevirerek görüntüyü keskinleştirmek",
+    "yasakli_kelimeler": [
+      "fokus",
+      "keskinlik",
+      "bilezik",
+      "objektif",
+      "bulanıklık"
+    ],
+    "zorluk": "orta",
+    "id": 223
+  },
+  {
+    "kategori": "optik",
+    "kelime": "paralaks hatası yapmak",
+    "aciklama": "gözün bakış açısı değiştiğinde nesnenin konumunun kaymış görünmesi",
+    "yasakli_kelimeler": [
+      "bakış açısı",
+      "konum kayması",
+      "ölçüm",
+      "hata",
+      "açı"
+    ],
+    "zorluk": "orta",
+    "id": 224
+  },
+  {
+    "kategori": "optik",
+    "kelime": "diyafram kısmak",
+    "aciklama": "objektif içindeki metal yaprakları daraltıp içeri giren ışığı azaltmak",
+    "yasakli_kelimeler": [
+      "f değeri",
+      "alan derinliği",
+      "ışık miktarı",
+      "yaprak",
+      "apertür"
+    ],
+    "zorluk": "orta",
+    "id": 225
+  },
+  {
+    "kategori": "optik",
+    "kelime": "sanal görüntü oluşturmak",
+    "aciklama": "ışınların uzantılarının kesişmesiyle düz aynanın arkasında görüntü doğması",
+    "yasakli_kelimeler": [
+      "düz ayna",
+      "uzantı",
+      "zahiri",
+      "ayna arkası",
+      "kesişim"
+    ],
+    "zorluk": "orta",
+    "id": 226
+  },
+  {
+    "kategori": "optik",
+    "kelime": "gerçek görüntü düşürmek",
+    "aciklama": "ışınların bizzat kendilerinin kesişip perde üzerinde ters görüntü yapması",
+    "yasakli_kelimeler": [
+      "perde",
+      "ters",
+      "ışın kesişimi",
+      "çukur ayna",
+      "odak"
+    ],
+    "zorluk": "orta",
+    "id": 227
+  },
+  {
+    "kategori": "optik",
+    "kelime": "fiberle veri iletmek",
+    "aciklama": "cam kablo içindeki tam yansımalarla ışık hızında dijital sinyal taşımak",
+    "yasakli_kelimeler": [
+      "fiber optik",
+      "cam kablo",
+      "sinyal",
+      "internet",
+      "ışık hızı"
+    ],
+    "zorluk": "orta",
+    "id": 228
+  },
+  {
+    "kategori": "optik",
+    "kelime": "küresel aberasyon oluşmak",
+    "aciklama": "mercek kenarından geçen ışınların merkezden geçenlerle aynı noktada odaklanamaması",
+    "yasakli_kelimeler": [
+      "aberasyon",
+      "kusur",
+      "kenar",
+      "odak sapması",
+      "bulanıklık"
+    ],
+    "zorluk": "orta",
+    "id": 229
+  },
+  {
+    "kategori": "optik",
+    "kelime": "renk sapması yaşamak",
+    "aciklama": "merceğin farklı renkleri farklı noktalarda odaklayıp kenarlarda gökkuşağı yapması",
+    "yasakli_kelimeler": [
+      "kromatik",
+      "gökkuşağı kenar",
+      "odak farkı",
+      "mercek",
+      "mor saçak"
+    ],
+    "zorluk": "orta",
+    "id": 230
+  },
+  {
+    "kategori": "optik",
+    "kelime": "spektrometre ile ölçmek",
+    "aciklama": "ışık kaynağının hangi dalga boylarında ne kadar enerji yaydığını grafiğe dökmek",
+    "yasakli_kelimeler": [
+      "dalga boyu",
+      "spektrum",
+      "nanometre",
+      "cihaz",
+      "grafik"
+    ],
+    "zorluk": "orta",
+    "id": 231
+  },
+  {
+    "kategori": "optik",
+    "kelime": "hologram basmak",
+    "aciklama": "lazer ışınlarının girişimiyle 3 boyutlu derinlikli optik görüntü kaydetmek",
+    "yasakli_kelimeler": [
+      "3 boyut",
+      "derinlik",
+      "lazer",
+      "girişim",
+      "kayıt"
+    ],
+    "zorluk": "orta",
+    "id": 232
+  },
+  {
+    "kategori": "optik",
+    "kelime": "kollimatörden geçirmek",
+    "aciklama": "dağınık çıkan ışık ışınlarını birbirine paralel düzgün demete dönüştürmek",
+    "yasakli_kelimeler": [
+      "paralel demet",
+      "dağınık",
+      "yarık",
+      "düzleştirme",
+      "ışın"
+    ],
+    "zorluk": "orta",
+    "id": 233
+  },
+  {
+    "kategori": "optik",
+    "kelime": "antirefle kaplamak",
+    "aciklama": "gözlük camına ince dielektrik tabaka sürerek parlamayı ve yansımayı sıfırlamak",
+    "yasakli_kelimeler": [
+      "yansıma önleyici",
+      "kaplama",
+      "cam",
+      "yeşil parlama",
+      "parlama"
+    ],
+    "zorluk": "orta",
+    "id": 234
+  },
+  {
+    "kategori": "optik",
+    "kelime": "astigmat düzeltmek",
+    "aciklama": "silindirik mercek kullanarak korneadaki eğrilik farkını dengelemek",
+    "yasakli_kelimeler": [
+      "silindirik",
+      "kornea eğriliği",
+      "aks",
+      "görme kusuru",
+      "torik"
+    ],
+    "zorluk": "orta",
+    "id": 235
+  },
+  {
+    "kategori": "optik",
+    "kelime": "lümen ölçmek",
+    "aciklama": "fotometre cihazıyla bir ampulün yaydığı toplam görünür ışık akısını hesaplamak",
+    "yasakli_kelimeler": [
+      "ışık akısı",
+      "lüks",
+      "fotometre",
+      "ampul",
+      "kandela"
+    ],
+    "zorluk": "orta",
+    "id": 236
+  },
+  {
+    "kategori": "optik",
+    "kelime": "snell yasasını uygulamak",
+    "aciklama": "kırılma indisleri ve gelme açılarının sinüsleri arasındaki bağıntıyı çözmek",
+    "yasakli_kelimeler": [
+      "sinüs",
+      "kırılma indisi",
+      "n1 n2",
+      "gelme açısı",
+      "formül"
+    ],
+    "zorluk": "zor",
+    "id": 237
+  },
+  {
+    "kategori": "optik",
+    "kelime": "brewster açısını bulmak",
+    "aciklama": "yansıyan ışığın tamamen çizgisel polarize olduğu özel gelme açısını hesaplamak",
+    "yasakli_kelimeler": [
+      "kutup açısı",
+      "tam polarizasyon",
+      "tanjant",
+      "yansıma",
+      "kırılma"
+    ],
+    "zorluk": "zor",
+    "id": 238
+  },
+  {
+    "kategori": "optik",
+    "kelime": "çift kırılma göstermek",
+    "aciklama": "kalsit kristalinin içine giren ışığı iki farklı kırılma indisiyle iki ayrı ışına bölmesi",
+    "yasakli_kelimeler": [
+      "birefringence",
+      "kalsit",
+      "olağan ışın",
+      "kristal",
+      "anizotropik"
+    ],
+    "zorluk": "zor",
+    "id": 239
+  },
+  {
+    "kategori": "optik",
+    "kelime": "fresnel katsayısı çıkarmak",
+    "aciklama": "dielektrik arayüzeyde s ve p polarizasyonlu ışığın yansıma ve iletim oranlarını bulmak",
+    "yasakli_kelimeler": [
+      "s polarizasyon",
+      "p polarizasyon",
+      "arayüz",
+      "yansıma katsayısı",
+      "denklem"
+    ],
+    "zorluk": "zor",
+    "id": 240
+  },
+  {
+    "kategori": "optik",
+    "kelime": "fourier optiği işlemek",
+    "aciklama": "merceklerin odak düzleminde optik görüntünün iki boyutlu uzamsal frekans fourier dönüşümü",
+    "yasakli_kelimeler": [
+      "uzamsal frekans",
+      "fourier dönüşümü",
+      "odak düzlemi",
+      "optik filtreleme",
+      "kırınım"
+    ],
+    "zorluk": "zor",
+    "id": 241
+  },
+  {
+    "kategori": "optik",
+    "kelime": "sayısal açıklık hesaplamak",
+    "aciklama": "mikroskop objektifinin ortam kırma indisi ve ışık toplama yarı açısının sinüsünü çarpmak",
+    "yasakli_kelimeler": [
+      "numerical aperture",
+      "na",
+      "çözünürlük",
+      "sinüs alfa",
+      "objektif"
+    ],
+    "zorluk": "zor",
+    "id": 242
+  },
+  {
+    "kategori": "optik",
+    "kelime": "abbé sınırını aşmak",
+    "aciklama": "süper çözünürlüklü flüoresan mikroskopisiyle kırınım sınırının altına inmek",
+    "yasakli_kelimeler": [
+      "kırınım sınırı",
+      "sted",
+      "süper çözünürlük",
+      "flüoresan",
+      "dalga boyu yarısı"
+    ],
+    "zorluk": "zor",
+    "id": 243
+  },
+  {
+    "kategori": "optik",
+    "kelime": "metamateryalle bükmek",
+    "aciklama": "negatif kırılma indisine sahip yapay yapılarla ışığı cismin etrafından dolaştırmak",
+    "yasakli_kelimeler": [
+      "negatif indis",
+      "görünmezlik pelerini",
+      "yapay malzeme",
+      "bükme",
+      "ters kırılma"
+    ],
+    "zorluk": "zor",
+    "id": 244
+  },
+  {
+    "kategori": "optik",
+    "kelime": "evanescent dalga yakalamak",
+    "aciklama": "tam yansıma arayüzeyinin hemen ötesinde eksponansiyel sönen kaybolan dalga alanı",
+    "yasakli_kelimeler": [
+      "sönen dalga",
+      "arayüzey",
+      "üstel",
+      "eksponansiyel",
+      "yakın alan"
+    ],
+    "zorluk": "zor",
+    "id": 245
+  },
+  {
+    "kategori": "optik",
+    "kelime": "optik cımbızla tutmak",
+    "aciklama": "odaklanmış lazer demetinin foton momentum kuvvetiyle tekil bakteriyi havada asılı tutmak",
+    "yasakli_kelimeler": [
+      "lazer",
+      "foton momentumu",
+      "yakalama",
+      "mikro parçacık",
+      "arthur ashkin"
+    ],
+    "zorluk": "zor",
+    "id": 246
+  },
+  {
+    "kategori": "optik",
+    "kelime": "faz farkını girişimle ölçmek",
+    "aciklama": "iki koherent ışık kolunun birleşimindeki faz kaymasını girişimölçerle bulmak",
+    "yasakli_kelimeler": [
+      "faz kayması",
+      "girişimölçer",
+      "koherent",
+      "dalga",
+      "ışın ayırıcı"
+    ],
+    "zorluk": "zor",
+    "id": 247
+  },
+  {
+    "kategori": "optik",
+    "kelime": "akromatik dublet birleştirmek",
+    "aciklama": "crown ve flint camından yapılmış iki zıt merceği yapıştırıp renk sapmasını sıfırlamak",
+    "yasakli_kelimeler": [
+      "crown",
+      "flint",
+      "yapıştırma",
+      "renk hatası",
+      "düzeltme"
+    ],
+    "zorluk": "zor",
+    "id": 248
+  },
+  {
+    "kategori": "optik",
+    "kelime": "akusto-optik modülasyon",
+    "aciklama": "kristal içine verilen ultrasonik ses dalgalarıyla ışığın yönünü ve şiddetini değiştirmek",
+    "yasakli_kelimeler": [
+      "ultrasonik",
+      "kristal",
+      "ses dalgası",
+      "modülatör",
+      "bragg"
+    ],
+    "zorluk": "zor",
+    "id": 249
+  },
+  {
+    "kategori": "optik",
+    "kelime": "pockels hücresi anahtarlamak",
+    "aciklama": "elektrik alan uygulandığında kristalin çift kırıcılığını değiştirerek hızlı optik kapı açmak",
+    "yasakli_kelimeler": [
+      "elektro-optik",
+      "kristal",
+      "anahtarlama",
+      "voltaj",
+      "q-switch"
+    ],
+    "zorluk": "zor",
+    "id": 250
   }
 ]

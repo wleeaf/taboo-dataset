@@ -1398,5 +1398,2105 @@
       "kararlı"
     ],
     "zorluk": "orta"
+  },
+  {
+    "id": 101,
+    "kategori": "algoritmalar",
+    "kelime": "doğrusal arama",
+    "aciklama": "bir veri kümesindeki elemanları ilk baştan sonuna kadar sırayla inceleyerek aranan değeri bulan yöntem.",
+    "yasakli_kelimeler": [
+      "arama",
+      "liste",
+      "sırayla",
+      "eleman",
+      "baştan"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 102,
+    "kategori": "algoritmalar",
+    "kelime": "üçlü arama",
+    "aciklama": "sıralı bir diziyi üç parçaya bölerek hedef elemanın hangi aralıkta olduğunu belirleyen arama yöntemi.",
+    "yasakli_kelimeler": [
+      "arama",
+      "üç",
+      "bölme",
+      "sıralı",
+      "aralık"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 103,
+    "kategori": "algoritmalar",
+    "kelime": "atlama araması",
+    "aciklama": "sıralı bir listede sabit adımlarla ileriye atlayarak aranan değerin bulunduğu bloğu tespit eden algoritma.",
+    "yasakli_kelimeler": [
+      "blok",
+      "adım",
+      "sabit",
+      "atlamak",
+      "sıralı"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 104,
+    "kategori": "algoritmalar",
+    "kelime": "enterpolasyon araması",
+    "aciklama": "düzgün dağılmış sıralı dizilerde aranan elemanın konumunu değer tahmin formülüyle bulan algoritma.",
+    "yasakli_kelimeler": [
+      "tahmin",
+      "dağılım",
+      "sıralı",
+      "arama",
+      "konum"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 105,
+    "kategori": "algoritmalar",
+    "kelime": "üstel arama",
+    "aciklama": "aralık sınırlarını iki katına çıkararak ilerleyip ardından bulunan aralıkta ikili arama yapan yöntem.",
+    "yasakli_kelimeler": [
+      "aralık",
+      "katlama",
+      "ikili arama",
+      "sınır",
+      "üst"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 106,
+    "kategori": "algoritmalar",
+    "kelime": "rastgele yürüyüş",
+    "aciklama": "bir çizgede veya olasılık uzayında her adımda rastgele bir komşuya geçerek ilerleyen stokastik algoritma.",
+    "yasakli_kelimeler": [
+      "stokastik",
+      "adım",
+      "graf",
+      "olasılık",
+      "rastgele"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 107,
+    "kategori": "algoritmalar",
+    "kelime": "saçma sıralama",
+    "aciklama": "dizinin elemanlarını rastgele karıştırıp dizinin sıralı olup olmadığını kontrol eden son derece verimsiz yöntem.",
+    "yasakli_kelimeler": [
+      "rastgele",
+      "karıştırma",
+      "şans",
+      "verimsiz",
+      "bogosort"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 108,
+    "kategori": "algoritmalar",
+    "kelime": "kokteyl sıralaması",
+    "aciklama": "kabarcık sıralamasının diziyi her iki yönde sırayla tarayarak elemanları yer değiştiren çift yönlü türevi.",
+    "yasakli_kelimeler": [
+      "kabarcık",
+      "çift yönlü",
+      "sağ",
+      "sol",
+      "çalkalama"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 109,
+    "kategori": "algoritmalar",
+    "kelime": "cüce sıralaması",
+    "aciklama": "elemanları karşılaştırıp yanlış sıradaysa geri doğru takas yaparak ilerleyen bahçe cücesi mantıklı algoritma.",
+    "yasakli_kelimeler": [
+      "bahçe",
+      "takas",
+      "ilerleme",
+      "geri",
+      "gnome"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 110,
+    "kategori": "algoritmalar",
+    "kelime": "tek-çift sıralaması",
+    "aciklama": "ardışık tek ve çift indisli eleman çiftlerini paralel biçimde karşılaştırıp takas eden sıralama algoritması.",
+    "yasakli_kelimeler": [
+      "tek",
+      "çift",
+      "indis",
+      "paralel",
+      "takas"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 111,
+    "kategori": "algoritmalar",
+    "kelime": "krep sıralaması",
+    "aciklama": "elemanları sadece dizinin belirli bir önekini ters çevirme işlemi kullanarak sıralayan yöntem.",
+    "yasakli_kelimeler": [
+      "ters çevirme",
+      "spatula",
+      "önek",
+      "yığın",
+      "pancake"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 112,
+    "kategori": "algoritmalar",
+    "kelime": "bitonik sıralama",
+    "aciklama": "önce artan ve sonra azalan bitonik diziler oluşturup bunları birleştiren paralel donanıma uygun sıralama yöntemi.",
+    "yasakli_kelimeler": [
+      "artan",
+      "azalan",
+      "paralel",
+      "birleştirme",
+      "donanım"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 113,
+    "kategori": "algoritmalar",
+    "kelime": "ağaç sıralaması",
+    "aciklama": "tüm elemanları bir ikili arama ağacına ekleyip ardından ağacı sırayla dolaşarak sıralı liste elde eden yöntem.",
+    "yasakli_kelimeler": [
+      "arama ağacı",
+      "dolaşma",
+      "inorder",
+      "ekleme",
+      "ikili"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 114,
+    "kategori": "algoritmalar",
+    "kelime": "güvercin yuvası",
+    "aciklama": "eleman değer aralığının az olduğu durumlarda değerleri ilgili yuvalara atayarak çalışan sıralama tekniği.",
+    "yasakli_kelimeler": [
+      "yuva",
+      "pigeonhole",
+      "aralık",
+      "indis",
+      "anahtar"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 115,
+    "kategori": "algoritmalar",
+    "kelime": "blok sıralaması",
+    "aciklama": "verileri küçük bloklara ayırıp her bloğu sıraladıktan sonra blokları verimli şekilde birleştiren yöntem.",
+    "yasakli_kelimeler": [
+      "parça",
+      "birleştirme",
+      "küçük",
+      "bellek",
+      "öbek"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 116,
+    "kategori": "algoritmalar",
+    "kelime": "kütüphane sıralaması",
+    "aciklama": "eklemeli sıralamanın aralara boşluklar bırakarak yeni elemanların daha hızlı eklenmesini sağlayan uyarlaması.",
+    "yasakli_kelimeler": [
+      "boşluk",
+      "kitap",
+      "raf",
+      "ekleme",
+      "hızlı"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 117,
+    "kategori": "algoritmalar",
+    "kelime": "turnuva sıralaması",
+    "aciklama": "elemanları ikili eşleşmelerle bir eleme ağacında yarıştırarak en küçük ya da en büyüğü bulan sıralama tekniği.",
+    "yasakli_kelimeler": [
+      "eleme",
+      "maç",
+      "kazanan",
+      "ağaç",
+      "yarışma"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 118,
+    "kategori": "algoritmalar",
+    "kelime": "köprü bulma",
+    "aciklama": "bir grafikten çıkarıldığında bağlı bileşen sayısını artıran kritik kenarları tespit eden algoritma.",
+    "yasakli_kelimeler": [
+      "kenar",
+      "bağlantı",
+      "kopma",
+      "bileşen",
+      "graf"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 119,
+    "kategori": "algoritmalar",
+    "kelime": "eklem noktası",
+    "aciklama": "çizgeden silindiğinde çizgenin ayrık parçalara bölünmesine neden olan kritik tepe noktası.",
+    "yasakli_kelimeler": [
+      "düğüm",
+      "tepe",
+      "bölünme",
+      "kesilme",
+      "artikülasyon"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 120,
+    "kategori": "algoritmalar",
+    "kelime": "kapsayan ağaç",
+    "aciklama": "bağlantılı bir çizgenin tüm düğümlerini döngü içermeyecek biçimde birleştiren alt çizge.",
+    "yasakli_kelimeler": [
+      "döngüsüz",
+      "ağaç",
+      "bağlantılı",
+      "düğüm",
+      "kenar"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 121,
+    "kategori": "algoritmalar",
+    "kelime": "euler yolu",
+    "aciklama": "bir çizgedeki her kenardan tam olarak bir kez geçen patika veya dolaşım.",
+    "yasakli_kelimeler": [
+      "kenar",
+      "bir kez",
+      "köprü",
+      "tur",
+      "dolaşım"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 122,
+    "kategori": "algoritmalar",
+    "kelime": "hamilton yolu",
+    "aciklama": "bir çizgedeki tüm tepe noktalarından tam olarak bir kez geçen kesintisiz yol.",
+    "yasakli_kelimeler": [
+      "düğüm",
+      "tepe",
+      "ziyaret",
+      "döngü",
+      "bir kez"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 123,
+    "kategori": "algoritmalar",
+    "kelime": "klik problemi",
+    "aciklama": "bir çizge içinde birbirine tüm kenarlarla tamamen bağlı alt kümeleri bulma problemi.",
+    "yasakli_kelimeler": [
+      "alt küme",
+      "tam bağlı",
+      "kenar",
+      "düğüm",
+      "maksimum"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 124,
+    "kategori": "algoritmalar",
+    "kelime": "tepe örtüsü",
+    "aciklama": "çizgedeki her kenarın en az bir ucunu kapsayan minimum sayıdaki tepe düğüm kümesi.",
+    "yasakli_kelimeler": [
+      "düğüm",
+      "kenar",
+      "kapsama",
+      "uç",
+      "minimum"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 125,
+    "kategori": "algoritmalar",
+    "kelime": "akış ağı",
+    "aciklama": "her kenarının belirli bir taşıma kapasitesi olduğu ve kaynaktan hedefe veri akıtılan yönlü çizge.",
+    "yasakli_kelimeler": [
+      "kaynak",
+      "hedef",
+      "kapasite",
+      "akış",
+      "boru"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 126,
+    "kategori": "algoritmalar",
+    "kelime": "dinic algoritması",
+    "aciklama": "akış ağlarında seviye grafları ve engelleyici akışlar kullanarak maksimum akışı hesaplayan hızlı yöntem.",
+    "yasakli_kelimeler": [
+      "akış",
+      "seviye",
+      "maksimum",
+      "kapasite",
+      "ağ"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 127,
+    "kategori": "algoritmalar",
+    "kelime": "johnson algoritması",
+    "aciklama": "ağırlıklı ve negatif kenarlı çizgelerde tüm düğüm çiftleri arasındaki en kısa yolları bulan algoritma.",
+    "yasakli_kelimeler": [
+      "en kısa yol",
+      "negatif",
+      "tüm çiftler",
+      "yeniden ağırlıklandırma",
+      "kenar"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 128,
+    "kategori": "algoritmalar",
+    "kelime": "hopcroft-karp algoritması",
+    "aciklama": "iki parçalı çizgelerde maksimum eşleşmeyi polinom zamanda bulan verimli çizge algoritması.",
+    "yasakli_kelimeler": [
+      "eşleme",
+      "iki parçalı",
+      "maksimum",
+      "genişletici yol",
+      "çizge"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 129,
+    "kategori": "algoritmalar",
+    "kelime": "macar algoritması",
+    "aciklama": "bipartit eşleme tabanlı atama problemlerinde toplam maliyeti en aza indiren optimizasyon yöntemi.",
+    "yasakli_kelimeler": [
+      "atama",
+      "maliyet",
+      "eşleştirme",
+      "matris",
+      "en küçük"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 130,
+    "kategori": "algoritmalar",
+    "kelime": "baskın küme",
+    "aciklama": "çizgedeki diğer tüm düğümlerin bu kümedeki en az bir düğüme komşu olduğu tepe alt kümesi.",
+    "yasakli_kelimeler": [
+      "komşu",
+      "alt küme",
+      "tepe",
+      "kapsama",
+      "çizge"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 131,
+    "kategori": "algoritmalar",
+    "kelime": "bağımsız küme",
+    "aciklama": "bir çizgede seçilen hiçbir düğümün birbirine doğrudan bir kenarla bağlı olmadığı tepe kümesi.",
+    "yasakli_kelimeler": [
+      "bağlantısız",
+      "kenarsız",
+      "komşusuz",
+      "alt küme",
+      "tepe"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 132,
+    "kategori": "algoritmalar",
+    "kelime": "graf izomorfizmi",
+    "aciklama": "iki farklı çizgenin yapısal ve bağlantısal açıdan birebir aynı olup olmadığını belirleme problemi.",
+    "yasakli_kelimeler": [
+      "birebir",
+      "yapısal",
+      "benzerlik",
+      "düğüm",
+      "eşdeğer"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 133,
+    "kategori": "algoritmalar",
+    "kelime": "komşuluk matrisi",
+    "aciklama": "bir çizgedeki tepeler arasında kenar olup olmadığını ikili değerlerle gösteren iki boyutlu tablo.",
+    "yasakli_kelimeler": [
+      "matris",
+      "tablo",
+      "kenar",
+      "düğüm",
+      "bağlantı"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 134,
+    "kategori": "algoritmalar",
+    "kelime": "komşuluk listesi",
+    "aciklama": "her tepe noktasının bağlı olduğu komşu tepeleri birer bağlantılı listede tutan veri yapısı.",
+    "yasakli_kelimeler": [
+      "liste",
+      "düğüm",
+      "kenar",
+      "bellek",
+      "komşu"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 135,
+    "kategori": "algoritmalar",
+    "kelime": "derece dizisi",
+    "aciklama": "bir çizgedeki tüm tepelerin sahip olduğu kenar sayılarının sıralı listesi.",
+    "yasakli_kelimeler": [
+      "kenar sayısı",
+      "tepe",
+      "sıralı",
+      "dizi",
+      "bağlantı"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 136,
+    "kategori": "algoritmalar",
+    "kelime": "asiklik çizge",
+    "aciklama": "içerisinde başlangıç noktasına geri dönen hiçbir kapalı döngü bulundurmayan yönlü veya yönsüz çizge.",
+    "yasakli_kelimeler": [
+      "döngüsüz",
+      "ağaç",
+      "yönlü",
+      "çevrim",
+      "yol"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 137,
+    "kategori": "algoritmalar",
+    "kelime": "sonek ağacı",
+    "aciklama": "bir metnin tüm soneklerini temsil eden ve hızlı kalıp arama sağlayan basık önek ağacı yapısı.",
+    "yasakli_kelimeler": [
+      "sonek",
+      "metin",
+      "arama",
+      "önek",
+      "harf"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 138,
+    "kategori": "algoritmalar",
+    "kelime": "sonek dizisi",
+    "aciklama": "bir dizgenin tüm soneklerinin sözlük sırasına göre sıralanmış başlangıç indislerini tutan tamsayı dizisi.",
+    "yasakli_kelimeler": [
+      "sözlük sırası",
+      "indis",
+      "metin",
+      "sıralı",
+      "sonek"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 139,
+    "kategori": "algoritmalar",
+    "kelime": "manacher algoritması",
+    "aciklama": "bir dize içindeki en uzun palindrom alt dizgiyi doğrusal zaman karmaşıklığında bulan algoritma.",
+    "yasakli_kelimeler": [
+      "palindrom",
+      "simetri",
+      "doğrusal",
+      "en uzun",
+      "metin"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 140,
+    "kategori": "algoritmalar",
+    "kelime": "aho-corasick algoritması",
+    "aciklama": "metin içinde birden fazla anahtar kelimeyi aynı anda tek bir taramada arayan dize eşleme yöntemi.",
+    "yasakli_kelimeler": [
+      "çoklu",
+      "arama",
+      "otomat",
+      "sözlük",
+      "kalıp"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 141,
+    "kategori": "algoritmalar",
+    "kelime": "dize eşleme",
+    "aciklama": "uzun bir metin bloğu içinde belirli bir aranan kelime deseninin geçtiği yerleri saptama işlemi.",
+    "yasakli_kelimeler": [
+      "desen",
+      "metin",
+      "arama",
+      "karakter",
+      "bulma"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 142,
+    "kategori": "algoritmalar",
+    "kelime": "hamming mesafesi",
+    "aciklama": "aynı uzunluktaki iki dizgi arasında birbirine karşılık gelen farklı karakterlerin toplam sayısı.",
+    "yasakli_kelimeler": [
+      "fark",
+      "uzunluk",
+      "karakter",
+      "mesafe",
+      "eşit"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 143,
+    "kategori": "algoritmalar",
+    "kelime": "jaccard benzerliği",
+    "aciklama": "iki kümenin kesişim büyüklüğünün birleşim büyüklüğüne oranıyla hesaplanan benzerlik metriği.",
+    "yasakli_kelimeler": [
+      "kesişim",
+      "birleşim",
+      "küme",
+      "oran",
+      "benzerlik"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 144,
+    "kategori": "algoritmalar",
+    "kelime": "ngram analizi",
+    "aciklama": "bir metni ardışık n adet harf veya kelimeden oluşan parçalara bölerek istatistiksel inceleme yöntemi.",
+    "yasakli_kelimeler": [
+      "ardışık",
+      "parça",
+      "istatistik",
+      "metin",
+      "dil"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 145,
+    "kategori": "algoritmalar",
+    "kelime": "palindrom kontrolü",
+    "aciklama": "bir kelimenin veya cümlenin tersten okunuşunun düz okunuşuyla özdeş olup olmadığını anlama işlemi.",
+    "yasakli_kelimeler": [
+      "ters",
+      "düz",
+      "okuma",
+      "simetrik",
+      "harf"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 146,
+    "kategori": "algoritmalar",
+    "kelime": "uzunluk kodlaması",
+    "aciklama": "arka arkaya tekrar eden aynı verileri veri ve tekrar sayısı ikilisi olarak sıkıştıran yöntem.",
+    "yasakli_kelimeler": [
+      "tekrar",
+      "sayı",
+      "sıkıştırma",
+      "ardışık",
+      "karakter"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 147,
+    "kategori": "algoritmalar",
+    "kelime": "aritmetik kodlama",
+    "aciklama": "bir mesaj dizisini sıfır ile bir arasındaki tek bir kayan noktalı kesir sayısına dönüştüren kayıpsız sıkıştırma.",
+    "yasakli_kelimeler": [
+      "kesir",
+      "olasılık",
+      "aralık",
+      "sıkıştırma",
+      "sıfır bir"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 148,
+    "kategori": "algoritmalar",
+    "kelime": "lempel-ziv algoritması",
+    "aciklama": "metin içindeki tekrarlanan dizgileri sözlük oluşturarak daha kısa referanslarla değiştiren sıkıştırma yöntemi.",
+    "yasakli_kelimeler": [
+      "sözlük",
+      "sıkıştırma",
+      "referans",
+      "tekrar",
+      "kayıpsız"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 149,
+    "kategori": "algoritmalar",
+    "kelime": "soundex algoritması",
+    "aciklama": "kelimeleri telaffuzlarına ve fonetik benzerliklerine göre harf ve rakam koduna çeviren indeksleme tekniği.",
+    "yasakli_kelimeler": [
+      "telaffuz",
+      "fonetik",
+      "ses",
+      "okunuş",
+      "kod"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 150,
+    "kategori": "algoritmalar",
+    "kelime": "metafon algoritması",
+    "aciklama": "ingilizce ve diğer dillerde kelimeleri fonetik telaffuzlarına göre eşleştiren gelişmiş ses benzerliği algoritması.",
+    "yasakli_kelimeler": [
+      "ses",
+      "benzerlik",
+      "fonetik",
+      "kodlama",
+      "eşleme"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 151,
+    "kategori": "algoritmalar",
+    "kelime": "dize hizalama",
+    "aciklama": "biyolojik dizilimlerde veya metinlerde benzerlikleri maksimize etmek için karakterler arasına boşluk koyarak eşleme.",
+    "yasakli_kelimeler": [
+      "hizalama",
+      "boşluk",
+      "biyoloji",
+      "dizi",
+      "gen"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 152,
+    "kategori": "algoritmalar",
+    "kelime": "asal çarpanlar",
+    "aciklama": "bir bileşik tamsayıyı kendisini tam bölen asal sayıların çarpımı biçiminde ifade etme işlemi.",
+    "yasakli_kelimeler": [
+      "bölme",
+      "sayı",
+      "çarpım",
+      "tamsayı",
+      "asallık"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 153,
+    "kategori": "algoritmalar",
+    "kelime": "modüler üs",
+    "aciklama": "büyük bir sayının üssünün modüler aritmetik altında karesini alarak çok hızlı hesaplanması yöntemi.",
+    "yasakli_kelimeler": [
+      "üs",
+      "mod",
+      "kalan",
+      "büyük sayı",
+      "kuvvet"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 154,
+    "kategori": "algoritmalar",
+    "kelime": "kalan teoremi",
+    "aciklama": "aralarında asal modüllere göre kalanları verilen bir sistemin ortak tekil çözümünü bulan yöntem.",
+    "yasakli_kelimeler": [
+      "kalan",
+      "modül",
+      "çin",
+      "bölme",
+      "sistem"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 155,
+    "kategori": "algoritmalar",
+    "kelime": "fermat testi",
+    "aciklama": "fermat'nın küçük teoremine dayanarak bir sayının asal olup olmadığını olasılıksal inceleyen yöntem.",
+    "yasakli_kelimeler": [
+      "asallık",
+      "küçük teorem",
+      "olasılık",
+      "üs",
+      "sayı"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 156,
+    "kategori": "algoritmalar",
+    "kelime": "pollard algoritması",
+    "aciklama": "büyük tamsayıların asal çarpanlarını doğum günü paradoksu ve döngü tespiti mantığıyla bulan yöntem.",
+    "yasakli_kelimeler": [
+      "çarpan",
+      "döngü",
+      "asal",
+      "bölme",
+      "tamsayı"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 157,
+    "kategori": "algoritmalar",
+    "kelime": "ayrık logaritma",
+    "aciklama": "modüler tabanda verilen bir üslü değerin bilinmeyen üssünü bulma üzerine kurulu zor matematiksel problem.",
+    "yasakli_kelimeler": [
+      "üs",
+      "logaritma",
+      "modül",
+      "şifreleme",
+      "taban"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 158,
+    "kategori": "algoritmalar",
+    "kelime": "matris çarpımı",
+    "aciklama": "iki matrisin satır ve sütun elemanlarının çarpımlarının toplanmasıyla yeni bir matris elde etme işlemi.",
+    "yasakli_kelimeler": [
+      "satır",
+      "sütun",
+      "çarpma",
+      "cebir",
+      "boyut"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 159,
+    "kategori": "algoritmalar",
+    "kelime": "gauss elemesi",
+    "aciklama": "lineer denklem sistemlerini satır işlemleri yaparak üst üçgensel matris biçimine dönüştürüp çözme yöntemi.",
+    "yasakli_kelimeler": [
+      "denklem",
+      "satır",
+      "üçgen",
+      "çözüm",
+      "matris"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 160,
+    "kategori": "algoritmalar",
+    "kelime": "lu ayrışımı",
+    "aciklama": "kare bir matrisi alt üçgensel ve üst üçgensel iki matrisin çarpımı olarak ayrıştıran teknik.",
+    "yasakli_kelimeler": [
+      "alt",
+      "üst",
+      "üçgensel",
+      "çarpan",
+      "matris"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 161,
+    "kategori": "algoritmalar",
+    "kelime": "newton yöntemi",
+    "aciklama": "bir fonksiyonun türevini ve teğet doğrularını kullanarak köklerini ardışık yaklaşımlarla bulan analiz tekniği.",
+    "yasakli_kelimeler": [
+      "türev",
+      "teğet",
+      "kök",
+      "fonksiyon",
+      "yaklaşım"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 162,
+    "kategori": "algoritmalar",
+    "kelime": "kirişler yöntemi",
+    "aciklama": "türev hesaplamadan fonksiyon üzerinde iki noktadan geçen kesen doğrular yardımıyla kök arayan sayısal yöntem.",
+    "yasakli_kelimeler": [
+      "kök",
+      "kiriş",
+      "kesen",
+      "türevsiz",
+      "nokta"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 163,
+    "kategori": "algoritmalar",
+    "kelime": "ikiye bölme",
+    "aciklama": "sürekli bir fonksiyonun zıt işaretli olduğu aralığı sürekli ortadan bölerek sıfır noktasını bulan algoritma.",
+    "yasakli_kelimeler": [
+      "orta",
+      "aralık",
+      "işaret",
+      "kök",
+      "bisection"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 164,
+    "kategori": "algoritmalar",
+    "kelime": "sayısal integral",
+    "aciklama": "analitik olarak integrali alınamayan fonksiyonların eğri altında kalan alanını yaklaşık hesaplama yöntemleri.",
+    "yasakli_kelimeler": [
+      "alan",
+      "eğri",
+      "yaklaşık",
+      "hesap",
+      "fonksiyon"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 165,
+    "kategori": "algoritmalar",
+    "kelime": "simpson kuralı",
+    "aciklama": "alanı hesaplanacak eğriyi parabolik yay parçaları ile modelleyerek integral tahmini yapan sayısal teknik.",
+    "yasakli_kelimeler": [
+      "parabol",
+      "eğri",
+      "alan",
+      "tahmin",
+      "integral"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 166,
+    "kategori": "algoritmalar",
+    "kelime": "yamuk kuralı",
+    "aciklama": "eğri altındaki alanı küçük yamuklara bölerek yaklaşık integral değeri hesaplayan basit sayısal yöntem.",
+    "yasakli_kelimeler": [
+      "yamuk",
+      "alan",
+      "bölme",
+      "yaklaşık",
+      "yükseklik"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 167,
+    "kategori": "algoritmalar",
+    "kelime": "cholesky ayrışımı",
+    "aciklama": "simetrik ve pozitif tanımlı matrisleri bir alt üçgensel matris ve transpozunun çarpımına ayıran yöntem.",
+    "yasakli_kelimeler": [
+      "simetrik",
+      "pozitif",
+      "transpoz",
+      "üçgensel",
+      "matris"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 168,
+    "kategori": "algoritmalar",
+    "kelime": "özdeğer hesabı",
+    "aciklama": "bir lineer dönüşümün doğrultusunu değiştirmeyip sadece ölçeklendirdiği skaler sayıları bulma işlemi.",
+    "yasakli_kelimeler": [
+      "özvektör",
+      "skaler",
+      "matris",
+      "dönüşüm",
+      "ölçek"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 169,
+    "kategori": "algoritmalar",
+    "kelime": "dışbükey kabuk",
+    "aciklama": "düzlemdeki bir grup noktanın tamamını içine alan en küçük dışbükey çokgeni oluşturma geometrisi.",
+    "yasakli_kelimeler": [
+      "nokta",
+      "dışbükey",
+      "çokgen",
+      "çevreleme",
+      "geometri"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 170,
+    "kategori": "algoritmalar",
+    "kelime": "graham taraması",
+    "aciklama": "noktaları kutupsal açılarına göre sıralayıp yığın kullanarak dışbükey kabuğu doğrusal zamanda bulan algoritma.",
+    "yasakli_kelimeler": [
+      "kabuk",
+      "açı",
+      "sıralama",
+      "yığın",
+      "dönüş"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 171,
+    "kategori": "algoritmalar",
+    "kelime": "jarvis yürüyüşü",
+    "aciklama": "bir noktadan başlayıp hediye paketi sarar gibi en dıştaki noktaları tek tek seçerek kabuk oluşturan yöntem.",
+    "yasakli_kelimeler": [
+      "hediye",
+      "paketleme",
+      "en dış",
+      "yürüyüş",
+      "nokta"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 172,
+    "kategori": "algoritmalar",
+    "kelime": "chan algoritması",
+    "aciklama": "noktaları küçük gruplara bölerek dışbükey kabuğu optimal zamanda hesaplayan gelişmiş geometri algoritması.",
+    "yasakli_kelimeler": [
+      "optimal",
+      "küçük grup",
+      "kabuk",
+      "geometri",
+      "karmaşıklık"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 173,
+    "kategori": "algoritmalar",
+    "kelime": "doğru kesişimi",
+    "aciklama": "düzlemde verilen iki veya daha fazla doğrunun ortak temas noktasını belirleme işlemi.",
+    "yasakli_kelimeler": [
+      "kesişme",
+      "doğru",
+      "çizgi",
+      "nokta",
+      "ortak"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 174,
+    "kategori": "algoritmalar",
+    "kelime": "öklid mesafesi",
+    "aciklama": "n boyutlu uzayda iki nokta arasındaki kuş uçuşu geometrik doğrusal uzaklığı hesaplayan metrik.",
+    "yasakli_kelimeler": [
+      "uzaklık",
+      "geometri",
+      "nokta",
+      "kareler toplamı",
+      "pisagor"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 175,
+    "kategori": "algoritmalar",
+    "kelime": "voronoi diyagramı",
+    "aciklama": "düzlemi her bir tohum noktaya en yakın olan bölgelere göre çokgen alanlara ayıran geometrik bölümleme.",
+    "yasakli_kelimeler": [
+      "bölge",
+      "hücre",
+      "tohum",
+      "yakınlık",
+      "düzlem"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 176,
+    "kategori": "algoritmalar",
+    "kelime": "delaunay üçgenlemesi",
+    "aciklama": "noktaların çevrel çemberlerinin içinde başka nokta kalmayacak şekilde üçgenlere ayrılması yöntemi.",
+    "yasakli_kelimeler": [
+      "çember",
+      "üçgen",
+      "ağ",
+      "örgü",
+      "çevrel"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 177,
+    "kategori": "algoritmalar",
+    "kelime": "poligon alanı",
+    "aciklama": "köşe koordinatları bilinen bir çokgenin yüzölçümünü ayakkabı bağı formülüyle hesaplama tekniği.",
+    "yasakli_kelimeler": [
+      "yüzölçümü",
+      "köşe",
+      "koordinat",
+      "çokgen",
+      "bağcık"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 178,
+    "kategori": "algoritmalar",
+    "kelime": "nokta konumlandırma",
+    "aciklama": "verilen bir sorgu noktasının düzlemdeki hangi poligonun veya bölgenin içinde kaldığını bulma işlemi.",
+    "yasakli_kelimeler": [
+      "bölge",
+      "içinde",
+      "sorgu",
+      "konum",
+      "poligon"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 179,
+    "kategori": "algoritmalar",
+    "kelime": "tuzlama yöntemi",
+    "aciklama": "parolaları özetlemeden önce rastgele ek veri ekleyerek gökkuşağı tablosu saldırılarını engelleyen teknik.",
+    "yasakli_kelimeler": [
+      "parola",
+      "ek",
+      "gökkuşağı",
+      "özet",
+      "rastgele"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 180,
+    "kategori": "algoritmalar",
+    "kelime": "kriptografik özet",
+    "aciklama": "herhangi bir boyuttaki veriden tek yönlü ve sabit uzunlukta benzersiz parmak izi üreten matematiksel fonksiyon.",
+    "yasakli_kelimeler": [
+      "parmak izi",
+      "tek yönlü",
+      "sabit",
+      "şifreleme",
+      "çakışma"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 181,
+    "kategori": "algoritmalar",
+    "kelime": "simetrik şifreleme",
+    "aciklama": "veriyi şifrelemek ve deşifre etmek için aynı gizli anahtarın kullanıldığı kriptografik sistem.",
+    "yasakli_kelimeler": [
+      "tek anahtar",
+      "aynı",
+      "şifre",
+      "gizli",
+      "kripto"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 182,
+    "kategori": "algoritmalar",
+    "kelime": "asimetrik şifreleme",
+    "aciklama": "biri açık diğeri gizli olmak üzere iki farklı anahtar çiftiyle çalışan güvenlik mekanizması.",
+    "yasakli_kelimeler": [
+      "çift anahtar",
+      "açık anahtar",
+      "özel",
+      "şifre",
+      "güvenlik"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 183,
+    "kategori": "algoritmalar",
+    "kelime": "dijital imza",
+    "aciklama": "bir belgenin kim tarafından oluşturulduğunu ve değiştirilmediğini doğrulayan elektronik onay mührü.",
+    "yasakli_kelimeler": [
+      "doğrulama",
+      "mühür",
+      "bütünlük",
+      "özel anahtar",
+      "imza"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 184,
+    "kategori": "algoritmalar",
+    "kelime": "doğrusal yoklama",
+    "aciklama": "özet tablosundaki çakışmalarda bir sonraki boş yuvayı sırayla ardışık olarak arayan açık adresleme biçimi.",
+    "yasakli_kelimeler": [
+      "çakışma",
+      "boş yuva",
+      "ardışık",
+      "tablo",
+      "adım"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 185,
+    "kategori": "algoritmalar",
+    "kelime": "karesel yoklama",
+    "aciklama": "çakışma durumunda adımları karesel artışlarla büyüterek kümelenmeyi azaltan arama yaklaşımı.",
+    "yasakli_kelimeler": [
+      "kare",
+      "çakışma",
+      "kümelenme",
+      "adım",
+      "yuva"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 186,
+    "kategori": "algoritmalar",
+    "kelime": "çift karma",
+    "aciklama": "özet tablosunda çakışma yaşandığında ikinci bir bağımsız özet fonksiyonu kullanarak sonraki konumu belirleme.",
+    "yasakli_kelimeler": [
+      "ikinci",
+      "fonksiyon",
+      "çakışma",
+      "adres",
+      "tablo"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 187,
+    "kategori": "algoritmalar",
+    "kelime": "guguklu karma",
+    "aciklama": "yeni eleman geldiğinde mevcut elemanı başka bir tabloya kovarak çalışan sabit zamanlı karma tekniği.",
+    "yasakli_kelimeler": [
+      "kovma",
+      "kuş",
+      "iki tablo",
+      "yuva",
+      "yer değiştirme"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 188,
+    "kategori": "algoritmalar",
+    "kelime": "tutarlı karma",
+    "aciklama": "sunucu eklenip çıkarıldığında yalnızca minimum sayıda anahtarın taşınmasını sağlayan dairesel karma tekniği.",
+    "yasakli_kelimeler": [
+      "sunucu",
+      "dağıtık",
+      "halka",
+      "anahtar",
+      "taşınma"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 189,
+    "kategori": "algoritmalar",
+    "kelime": "tepe tırmanma",
+    "aciklama": "her adımda sadece mevcut durumdan daha iyi olan en yakın komşuya geçerek zirveye ulaşmayı hedefleyen algoritma.",
+    "yasakli_kelimeler": [
+      "zirve",
+      "komşu",
+      "yokuş",
+      "adım",
+      "en iyi"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 190,
+    "kategori": "algoritmalar",
+    "kelime": "ışın araması",
+    "aciklama": "genişlik öncelikli aramada her seviyede sadece en umut verici sabit sayıdaki durumu saklayarak ilerleyen yöntem.",
+    "yasakli_kelimeler": [
+      "genişlik",
+      "seviye",
+      "budama",
+      "ışın",
+      "durum"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 191,
+    "kategori": "algoritmalar",
+    "kelime": "tabu araması",
+    "aciklama": "yerel optimumdan kaçmak için son ziyaret edilen adımları bir yasaklı listesinde tutarak arama yapan yöntem.",
+    "yasakli_kelimeler": [
+      "yasaklı liste",
+      "döngü",
+      "hafıza",
+      "optimum",
+      "kaçış"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 192,
+    "kategori": "algoritmalar",
+    "kelime": "doğrusal programlama",
+    "aciklama": "belirli doğrusal kısıtlar altında doğrusal bir amaç fonksiyonunu en büyük veya en küçük yapma tekniği.",
+    "yasakli_kelimeler": [
+      "kısıt",
+      "amaç",
+      "maksimize",
+      "matematik",
+      "denklem"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 193,
+    "kategori": "algoritmalar",
+    "kelime": "simpleks algoritması",
+    "aciklama": "doğrusal programlama problemlerini çokyüzlü geometrik şeklin köşeleri boyunca dolaşarak çözen algoritma.",
+    "yasakli_kelimeler": [
+      "köşe",
+      "çokyüzlü",
+      "çözüm",
+      "doğrusal",
+      "adım"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 194,
+    "kategori": "algoritmalar",
+    "kelime": "hiyerarşik kümeleme",
+    "aciklama": "verileri ağaç benzeri bir dendrogram yapısı kurarak adım adım birleştiren veya bölen kümeleme yaklaşımı.",
+    "yasakli_kelimeler": [
+      "ağaç",
+      "dendrogram",
+      "birleştirme",
+      "seviye",
+      "küme"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 195,
+    "kategori": "algoritmalar",
+    "kelime": "yoğunluk kümelemesi",
+    "aciklama": "noktaların birbirine yakın olduğu yüksek yoğunluklu bölgeleri küme, seyrek noktaları ise gürültü sayan yöntem.",
+    "yasakli_kelimeler": [
+      "gürültü",
+      "yoğunluk",
+      "seyrek",
+      "yarıçap",
+      "komşuluk"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 196,
+    "kategori": "algoritmalar",
+    "kelime": "beklenti maksimizasyonu",
+    "aciklama": "gizli değişkenler içeren istatistiksel modellerde parametreleri tahmin etmek için kullanılan yinelemeli yöntem.",
+    "yasakli_kelimeler": [
+      "gizli",
+      "tahmin",
+      "yineleme",
+      "olasılık",
+      "parametre"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 197,
+    "kategori": "algoritmalar",
+    "kelime": "bileşen analizi",
+    "aciklama": "yüksek boyutlu verilerdeki varyansı koruyarak daha az sayıda ortogonal eksene indirgeme tekniği.",
+    "yasakli_kelimeler": [
+      "boyut indirgeme",
+      "varyans",
+      "özvektör",
+      "eksen",
+      "dönüşüm"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 198,
+    "kategori": "algoritmalar",
+    "kelime": "lojistik regresyon",
+    "aciklama": "verilen bağımsız değişkenlere göre ikili bir sonucun ortaya çıkma olasılığını sigmoit eğrisiyle modelleyen algoritma.",
+    "yasakli_kelimeler": [
+      "olasılık",
+      "sigmoit",
+      "sınıflandırma",
+      "ikili",
+      "model"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 199,
+    "kategori": "algoritmalar",
+    "kelime": "doğrusal regresyon",
+    "aciklama": "bağımlı ve bağımsız değişkenler arasındaki ilişkiyi düz bir çizgi denklemiyle en uygun biçimde açıklayan yöntem.",
+    "yasakli_kelimeler": [
+      "düz çizgi",
+      "tahmin",
+      "ilişki",
+      "eğim",
+      "nokta"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 200,
+    "kategori": "algoritmalar",
+    "kelime": "geri yayılım",
+    "aciklama": "yapay sinir ağlarında çıkış hatasını geriye doğru yayarak zincir kuralıyla ağırlıkları güncelleyen temel algoritma.",
+    "yasakli_kelimeler": [
+      "hata",
+      "zincir kuralı",
+      "ağırlık",
+      "türev",
+      "sinir ağı"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "kategori": "algoritmalar",
+    "kelime": "sıralamak",
+    "aciklama": "elemanları belirli bir kurala veya büyüklüğe göre dizmek",
+    "yasakli_kelimeler": [
+      "dizi",
+      "küçükten büyüğe",
+      "quick",
+      "merge",
+      "bubble"
+    ],
+    "zorluk": "kolay",
+    "id": 201
+  },
+  {
+    "kategori": "algoritmalar",
+    "kelime": "arama yapmak",
+    "aciklama": "bir veri kümesi içinde belirli bir değeri bulmaya çalışmak",
+    "yasakli_kelimeler": [
+      "binary",
+      "linear",
+      "bulmak",
+      "anahtar",
+      "liste"
+    ],
+    "zorluk": "kolay",
+    "id": 202
+  },
+  {
+    "kategori": "algoritmalar",
+    "kelime": "kod yazmak",
+    "aciklama": "bilgisayarın anlayacağı dilde komutlar dizisi oluşturmak",
+    "yasakli_kelimeler": [
+      "program",
+      "yazılım",
+      "dil",
+      "satır",
+      "metin"
+    ],
+    "zorluk": "kolay",
+    "id": 203
+  },
+  {
+    "kategori": "algoritmalar",
+    "kelime": "hata ayıklamak",
+    "aciklama": "programdaki yazım veya mantık kusurlarını bulup düzeltmek",
+    "yasakli_kelimeler": [
+      "debug",
+      "bug",
+      "hata",
+      "çözmek",
+      "kod"
+    ],
+    "zorluk": "kolay",
+    "id": 204
+  },
+  {
+    "kategori": "algoritmalar",
+    "kelime": "döngüye sokmak",
+    "aciklama": "belirli bir kod bloğunu şart sağlandığı sürece tekrar tekrar çalıştırmak",
+    "yasakli_kelimeler": [
+      "for",
+      "while",
+      "tekrar",
+      "sonsuz",
+      "sayaç"
+    ],
+    "zorluk": "kolay",
+    "id": 205
+  },
+  {
+    "kategori": "algoritmalar",
+    "kelime": "değer atamak",
+    "aciklama": "bir değişkene hafızada saklanacak veri yüklemek",
+    "yasakli_kelimeler": [
+      "değişken",
+      "eşittir",
+      "sayı",
+      "saklamak",
+      "hafıza"
+    ],
+    "zorluk": "kolay",
+    "id": 206
+  },
+  {
+    "kategori": "algoritmalar",
+    "kelime": "fonksiyon çağırmak",
+    "aciklama": "tanımlanmış bir kod bloğunu ismini belirterek yürütmek",
+    "yasakli_kelimeler": [
+      "parametre",
+      "metot",
+      "çalıştırmak",
+      "çağrı",
+      "dönüş"
+    ],
+    "zorluk": "kolay",
+    "id": 207
+  },
+  {
+    "kategori": "algoritmalar",
+    "kelime": "şart koşmak",
+    "aciklama": "kodun akışını belirli bir koşulun doğruluğuna göre yönlendirmek",
+    "yasakli_kelimeler": [
+      "if",
+      "else",
+      "koşul",
+      "doğru",
+      "yanlış"
+    ],
+    "zorluk": "kolay",
+    "id": 208
+  },
+  {
+    "kategori": "algoritmalar",
+    "kelime": "veri saklamak",
+    "aciklama": "bilgileri bellekte veya diskte daha sonra kullanmak üzere tutmak",
+    "yasakli_kelimeler": [
+      "depolama",
+      "bellek",
+      "kayıt",
+      "hafıza",
+      "dosya"
+    ],
+    "zorluk": "kolay",
+    "id": 209
+  },
+  {
+    "kategori": "algoritmalar",
+    "kelime": "çıktı üretmek",
+    "aciklama": "işlenen verilerin sonucunu ekrana veya dosyaya yazdırmak",
+    "yasakli_kelimeler": [
+      "print",
+      "ekran",
+      "sonuç",
+      "yazdırmak",
+      "return"
+    ],
+    "zorluk": "kolay",
+    "id": 210
+  },
+  {
+    "kategori": "algoritmalar",
+    "kelime": "değer döndürmek",
+    "aciklama": "bir fonksiyonun işlem bittikten sonra çağrıldığı yere sonuç iletmesi",
+    "yasakli_kelimeler": [
+      "return",
+      "sonuç",
+      "fonksiyon",
+      "çıktı",
+      "cevap"
+    ],
+    "zorluk": "kolay",
+    "id": 211
+  },
+  {
+    "kategori": "algoritmalar",
+    "kelime": "girdi almak",
+    "aciklama": "kullanıcıdan veya dış kaynaktan işlenmek üzere veri okumak",
+    "yasakli_kelimeler": [
+      "input",
+      "klavye",
+      "okumak",
+      "veri",
+      "kullanıcı"
+    ],
+    "zorluk": "kolay",
+    "id": 212
+  },
+  {
+    "kategori": "algoritmalar",
+    "kelime": "özyineleme yapmak",
+    "aciklama": "bir fonksiyonun problemi çözmek için kendi kendini çağırması",
+    "yasakli_kelimeler": [
+      "rekürsif",
+      "kendini çağırma",
+      "taban durum",
+      "yığın",
+      "çağrı"
+    ],
+    "zorluk": "orta",
+    "id": 213
+  },
+  {
+    "kategori": "algoritmalar",
+    "kelime": "bellek ayırmak",
+    "aciklama": "işletim sisteminden programın kullanımı için ram alanı talep etmek",
+    "yasakli_kelimeler": [
+      "ram",
+      "hafıza",
+      "malloc",
+      "tahsis",
+      "alan"
+    ],
+    "zorluk": "orta",
+    "id": 214
+  },
+  {
+    "kategori": "algoritmalar",
+    "kelime": "indekslemek",
+    "aciklama": "verilere hızlı erişim için anahtar ve konum eşleştirmesi oluşturmak",
+    "yasakli_kelimeler": [
+      "dizin",
+      "hızlı erişim",
+      "anahtar",
+      "tablo",
+      "sıra"
+    ],
+    "zorluk": "orta",
+    "id": 215
+  },
+  {
+    "kategori": "algoritmalar",
+    "kelime": "graf gezmek",
+    "aciklama": "düğümler ve kenarlardan oluşan ağ yapısındaki tüm elemanları dolaşmak",
+    "yasakli_kelimeler": [
+      "bfs",
+      "dfs",
+      "düğüm",
+      "kenar",
+      "dolaşma"
+    ],
+    "zorluk": "orta",
+    "id": 216
+  },
+  {
+    "kategori": "algoritmalar",
+    "kelime": "yığına eklemek",
+    "aciklama": "son giren ilk çıkar mantığındaki veri yapısına eleman koymak",
+    "yasakli_kelimeler": [
+      "push",
+      "stack",
+      "lifo",
+      "tepe",
+      "yığın"
+    ],
+    "zorluk": "orta",
+    "id": 217
+  },
+  {
+    "kategori": "algoritmalar",
+    "kelime": "kuyruktan çıkarmak",
+    "aciklama": "ilk giren ilk çıkar mantığındaki veri yapısından sıradaki elemanı almak",
+    "yasakli_kelimeler": [
+      "dequeue",
+      "queue",
+      "fifo",
+      "sıra",
+      "baş"
+    ],
+    "zorluk": "orta",
+    "id": 218
+  },
+  {
+    "kategori": "algoritmalar",
+    "kelime": "ağaç dengelemek",
+    "aciklama": "ikili arama ağacının derinliğini minimize ederek arama hızını korumak",
+    "yasakli_kelimeler": [
+      "avl",
+      "red black",
+      "rotasyon",
+      "derinlik",
+      "kök"
+    ],
+    "zorluk": "orta",
+    "id": 219
+  },
+  {
+    "kategori": "algoritmalar",
+    "kelime": "böl ve yönet uygulamak",
+    "aciklama": "büyük problemi küçük alt parçalara bölüp çözümleri birleştirmek",
+    "yasakli_kelimeler": [
+      "parçalamak",
+      "alt problem",
+      "birleştirmek",
+      "merge",
+      "strateji"
+    ],
+    "zorluk": "orta",
+    "id": 220
+  },
+  {
+    "kategori": "algoritmalar",
+    "kelime": "açgözlü yaklaşmak",
+    "aciklama": "her adımda o an için en kazançlı görünen yerel tercihi yapmak",
+    "yasakli_kelimeler": [
+      "greedy",
+      "yerel optimum",
+      "en iyi",
+      "adım",
+      "tercih"
+    ],
+    "zorluk": "orta",
+    "id": 221
+  },
+  {
+    "kategori": "algoritmalar",
+    "kelime": "karmaşıklık hesaplamak",
+    "aciklama": "algoritmanın çalışma süresi ve bellek tüketimini matematiksel ifade etmek",
+    "yasakli_kelimeler": [
+      "big o",
+      "zaman",
+      "alan",
+      "büyüme hızı",
+      "performans"
+    ],
+    "zorluk": "orta",
+    "id": 222
+  },
+  {
+    "kategori": "algoritmalar",
+    "kelime": "çakışma çözmek",
+    "aciklama": "özetleme tablosunda aynı indekse denk gelen verileri ayrıştırmak",
+    "yasakli_kelimeler": [
+      "collision",
+      "hash",
+      "zincirleme",
+      "açık adresleme",
+      "tablo"
+    ],
+    "zorluk": "orta",
+    "id": 223
+  },
+  {
+    "kategori": "algoritmalar",
+    "kelime": "en kısa yol bulmak",
+    "aciklama": "ağ üzerindeki iki düğüm arasındaki minimum maliyetli rotayı hesaplamak",
+    "yasakli_kelimeler": [
+      "dijkstra",
+      "a star",
+      "rota",
+      "mesafe",
+      "maliyet"
+    ],
+    "zorluk": "orta",
+    "id": 224
+  },
+  {
+    "kategori": "algoritmalar",
+    "kelime": "bağlı liste oluşturmak",
+    "aciklama": "elemanların birbirini işaretçiyle gösterdiği dinamik liste kurmak",
+    "yasakli_kelimeler": [
+      "pointer",
+      "düğüm",
+      "işaretçi",
+      "linked list",
+      "sonraki"
+    ],
+    "zorluk": "orta",
+    "id": 225
+  },
+  {
+    "kategori": "algoritmalar",
+    "kelime": "ikili aramak",
+    "aciklama": "sıralı diziyi her adımda ortadan ikiye bölerek veriyi logaritmik hızda bulmak",
+    "yasakli_kelimeler": [
+      "binary search",
+      "orta",
+      "yarıya bölmek",
+      "sıralı",
+      "logaritmik"
+    ],
+    "zorluk": "orta",
+    "id": 226
+  },
+  {
+    "kategori": "algoritmalar",
+    "kelime": "dizi kopyalamak",
+    "aciklama": "bellekteki bir dizinin elemanlarını başka bir bellek alanına aktarmak",
+    "yasakli_kelimeler": [
+      "aktarma",
+      "klonlama",
+      "derin kopyalama",
+      "hafıza",
+      "eleman"
+    ],
+    "zorluk": "orta",
+    "id": 227
+  },
+  {
+    "kategori": "algoritmalar",
+    "kelime": "matris çarpmak",
+    "aciklama": "satır ve sütun elemanlarının skaler çarpımlarıyla yeni matris üretmek",
+    "yasakli_kelimeler": [
+      "satır",
+      "sütun",
+      "strassen",
+      "çarpım",
+      "boyut"
+    ],
+    "zorluk": "orta",
+    "id": 228
+  },
+  {
+    "kategori": "algoritmalar",
+    "kelime": "metin eşleştirmek",
+    "aciklama": "uzun bir metin içinde belirli bir alt dizgiyi algoritmalarla aramak",
+    "yasakli_kelimeler": [
+      "kmp",
+      "string matching",
+      "rabin karp",
+      "alt dize",
+      "arama"
+    ],
+    "zorluk": "orta",
+    "id": 229
+  },
+  {
+    "kategori": "algoritmalar",
+    "kelime": "optimizasyon yapmak",
+    "aciklama": "kodun çalışma hızını ve kaynak tüketimini en iyi seviyeye getirmek",
+    "yasakli_kelimeler": [
+      "iyileştirme",
+      "hızlandırma",
+      "verimlilik",
+      "kaynak",
+      "performans"
+    ],
+    "zorluk": "orta",
+    "id": 230
+  },
+  {
+    "kategori": "algoritmalar",
+    "kelime": "iş parçacığı senkronize etmek",
+    "aciklama": "aynı anda çalışan paralel kod bloklarının veri çakışmasını engellemek",
+    "yasakli_kelimeler": [
+      "thread",
+      "mutex",
+      "kilit",
+      "paralel",
+      "yarış durumu"
+    ],
+    "zorluk": "orta",
+    "id": 231
+  },
+  {
+    "kategori": "algoritmalar",
+    "kelime": "veri sıkıştırmak",
+    "aciklama": "bilgiyi daha az bit kullanarak kayıpsız veya kayıplı kodlamak",
+    "yasakli_kelimeler": [
+      "huffman",
+      "gzip",
+      "boyut küçültme",
+      "kodlama",
+      "bit"
+    ],
+    "zorluk": "orta",
+    "id": 232
+  },
+  {
+    "kategori": "algoritmalar",
+    "kelime": "tip dönüşümü yapmak",
+    "aciklama": "bir veri tipini başka bir veri tipine programatik çevirmek",
+    "yasakli_kelimeler": [
+      "casting",
+      "integer",
+      "string",
+      "çevirme",
+      "değişken"
+    ],
+    "zorluk": "orta",
+    "id": 233
+  },
+  {
+    "kategori": "algoritmalar",
+    "kelime": "prototip üretmek",
+    "aciklama": "algoritmanın mantığını test etmek için hızlı ve basit bir taslak kod yazmak",
+    "yasakli_kelimeler": [
+      "taslak",
+      "deneme",
+      "test",
+      "model",
+      "çalışır"
+    ],
+    "zorluk": "orta",
+    "id": 234
+  },
+  {
+    "kategori": "algoritmalar",
+    "kelime": "istisna yakalamak",
+    "aciklama": "çalışma zamanında oluşan beklenmedik hataları programı çökertmeden yönetmek",
+    "yasakli_kelimeler": [
+      "try catch",
+      "exception",
+      "hata",
+      "fırlatmak",
+      "çökme"
+    ],
+    "zorluk": "orta",
+    "id": 235
+  },
+  {
+    "kategori": "algoritmalar",
+    "kelime": "önbelleğe almak",
+    "aciklama": "sık kullanılan işlem sonuçlarını hızlı erişilen belleğe kaydetmek",
+    "yasakli_kelimeler": [
+      "cache",
+      "lru",
+      "hızlı erişim",
+      "saklama",
+      "performans"
+    ],
+    "zorluk": "orta",
+    "id": 236
+  },
+  {
+    "kategori": "algoritmalar",
+    "kelime": "dinamik programlamak",
+    "aciklama": "alt problemlerin çözümlerini tabloya kaydedip tekrar kullanmak",
+    "yasakli_kelimeler": [
+      "memoization",
+      "tabulation",
+      "alt problem",
+      "optimal alt yapı",
+      "çözüm"
+    ],
+    "zorluk": "zor",
+    "id": 237
+  },
+  {
+    "kategori": "algoritmalar",
+    "kelime": "geri iz sürmek",
+    "aciklama": "çözüm uzayında çıkmaza girildiğinde önceki adıma dönüp diğer yolu denemek",
+    "yasakli_kelimeler": [
+      "backtracking",
+      "sudoku",
+      "n queens",
+      "geri dönmek",
+      "ağaç"
+    ],
+    "zorluk": "zor",
+    "id": 238
+  },
+  {
+    "kategori": "algoritmalar",
+    "kelime": "bellek sızıntısı önlemek",
+    "aciklama": "kullanımı biten dinamik bellek alanlarını serbest bırakmak",
+    "yasakli_kelimeler": [
+      "memory leak",
+      "free",
+      "çöp toplayıcı",
+      "ram",
+      "tahsis"
+    ],
+    "zorluk": "zor",
+    "id": 239
+  },
+  {
+    "kategori": "algoritmalar",
+    "kelime": "asenkron çalıştırmak",
+    "aciklama": "ana program akışını bloke etmeden arka planda işlem yürütmek",
+    "yasakli_kelimeler": [
+      "async",
+      "await",
+      "bloke etmeyen",
+      "arka plan",
+      "paralel"
+    ],
+    "zorluk": "zor",
+    "id": 240
+  },
+  {
+    "kategori": "algoritmalar",
+    "kelime": "serileştirmek",
+    "aciklama": "bellekteki karmaşık nesneyi iletilmek veya saklanmak üzere bayt dizisine çevirmek",
+    "yasakli_kelimeler": [
+      "serialization",
+      "json",
+      "bayt",
+      "nesne",
+      "aktarma"
+    ],
+    "zorluk": "zor",
+    "id": 241
+  },
+  {
+    "kategori": "algoritmalar",
+    "kelime": "kriptografik özetlemek",
+    "aciklama": "girdi verisinden tek yönlü sabit uzunlukta güvenli karma üretmek",
+    "yasakli_kelimeler": [
+      "sha256",
+      "hash",
+      "tek yönlü",
+      "özet",
+      "güvenlik"
+    ],
+    "zorluk": "zor",
+    "id": 242
+  },
+  {
+    "kategori": "algoritmalar",
+    "kelime": "çöp toplamak",
+    "aciklama": "çalışma ortamının erişilemeyen nesnelerin belleğini otomatik geri kazanması",
+    "yasakli_kelimeler": [
+      "garbage collection",
+      "otomatik",
+      "ram",
+      "nesne",
+      "temizlik"
+    ],
+    "zorluk": "zor",
+    "id": 243
+  },
+  {
+    "kategori": "algoritmalar",
+    "kelime": "vektörize etmek",
+    "aciklama": "döngü yerine tek bir komutla birden çok veri üzerinde simdi işlemi yapmak",
+    "yasakli_kelimeler": [
+      "simd",
+      "paralel",
+      "numpy",
+      "işlemci",
+      "dizi"
+    ],
+    "zorluk": "zor",
+    "id": 244
+  },
+  {
+    "kategori": "algoritmalar",
+    "kelime": "topolojik sıralamak",
+    "aciklama": "yönlü döngüsüz grafta bağımlılık sırasına göre düğümleri dizmek",
+    "yasakli_kelimeler": [
+      "dag",
+      "bağımlılık",
+      "yönlü graf",
+      "döngüsüz",
+      "düğüm"
+    ],
+    "zorluk": "zor",
+    "id": 245
+  },
+  {
+    "kategori": "algoritmalar",
+    "kelime": "kapsüllemek",
+    "aciklama": "nesne yönelimli programlamada veri ve metotları dışarıdan gizleyerek paketlemek",
+    "yasakli_kelimeler": [
+      "encapsulation",
+      "private",
+      "gizleme",
+      "sınıf",
+      "nesne"
+    ],
+    "zorluk": "zor",
+    "id": 246
+  },
+  {
+    "kategori": "algoritmalar",
+    "kelime": "ağaç rotasyonu yapmak",
+    "aciklama": "kendi kendini dengeleyen ağaçlarda sola veya sağa döndürme işlemi uygulamak",
+    "yasakli_kelimeler": [
+      "sol sağ",
+      "avl",
+      "denge",
+      "döndürme",
+      "düğüm"
+    ],
+    "zorluk": "zor",
+    "id": 247
+  },
+  {
+    "kategori": "algoritmalar",
+    "kelime": "bloom filtresi kurmak",
+    "aciklama": "bir elemanın kümede olup olmadığını olasılıksal ve az bellekle sınamak",
+    "yasakli_kelimeler": [
+      "olasılıksal",
+      "bit dizisi",
+      "küme",
+      "varlık",
+      "hafıza"
+    ],
+    "zorluk": "zor",
+    "id": 248
+  },
+  {
+    "kategori": "algoritmalar",
+    "kelime": "np tamlığa indirgemek",
+    "aciklama": "bir problemi bilinen zor bir probleme polinom zamanda dönüştürmek",
+    "yasakli_kelimeler": [
+      "reduction",
+      "polinom zaman",
+      "zorluk",
+      "ispat",
+      "karmaşıklık"
+    ],
+    "zorluk": "zor",
+    "id": 249
+  },
+  {
+    "kategori": "algoritmalar",
+    "kelime": "yapılandırılmış programlamak",
+    "aciklama": "goto komutları yerine bloklar ve fonksiyonlarla düzenli kod akışı kurmak",
+    "yasakli_kelimeler": [
+      "blok",
+      "goto",
+      "düzenli",
+      "fonksiyonel",
+      "akış"
+    ],
+    "zorluk": "zor",
+    "id": 250
   }
 ]

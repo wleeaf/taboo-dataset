@@ -1398,5 +1398,2105 @@
       "yoğunluk"
     ],
     "zorluk": "zor"
+  },
+  {
+    "id": 101,
+    "kategori": "ekonometri",
+    "kelime": "bağımlı değişken",
+    "aciklama": "regresyon modelinde diğer değişkenlerin etkilediği ve değeri model tarafından açıklanmaya çalışılan sonuç değişkeni.",
+    "yasakli_kelimeler": [
+      "sonuç",
+      "açıklanan",
+      "regresyon",
+      "model",
+      "etkilenen"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 102,
+    "kategori": "ekonometri",
+    "kelime": "bağımsız değişken",
+    "aciklama": "modelde bağımlı değişkenin değişimini açıklamak ve tahmin etmek amacıyla kullanılan sebep değişkeni.",
+    "yasakli_kelimeler": [
+      "açıklayan",
+      "sebep",
+      "etki",
+      "regresyon",
+      "girdi"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 103,
+    "kategori": "ekonometri",
+    "kelime": "açıklayıcı değişken",
+    "aciklama": "bağımlı değişkendeki varyasyonun neden kaynaklandığını istatistiksel olarak açıklamak için modele eklenen değişken.",
+    "yasakli_kelimeler": [
+      "bağımsız",
+      "varyasyon",
+      "model",
+      "katsayı",
+      "tahmin"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 104,
+    "kategori": "ekonometri",
+    "kelime": "kontrol değişkeni",
+    "aciklama": "asıl ilgilenilen ilişkinin yanıltıcı çıkmasını önlemek amacıyla modelde sabit tutulan yardımcı değişken.",
+    "yasakli_kelimeler": [
+      "sabit",
+      "yardımcı",
+      "yanlılık",
+      "arındırma",
+      "ilişki"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 105,
+    "kategori": "ekonometri",
+    "kelime": "gecikmeli değişken",
+    "aciklama": "bir değişkenin geçmiş dönemlerdeki değerlerinin bugünkü değer üzerindeki etkisini ölçmek için modele konan gecikmiş hali.",
+    "yasakli_kelimeler": [
+      "geçmiş",
+      "dönem",
+      "zaman",
+      "gecikme",
+      "seri"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 106,
+    "kategori": "ekonometri",
+    "kelime": "içsel değişken",
+    "aciklama": "değeri sistem içindeki denklemler tarafından belirlenen ve modelin hata terimiyle korelasyonlu olabilen değişken.",
+    "yasakli_kelimeler": [
+      "sistem",
+      "model içi",
+      "hata terimi",
+      "korelasyon",
+      "belirlenen"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 107,
+    "kategori": "ekonometri",
+    "kelime": "dışsal değişken",
+    "aciklama": "değeri modelin dışındaki faktörlerce önceden belirlenen ve hata terimiyle ilişkisiz olduğu varsayılan değişken.",
+    "yasakli_kelimeler": [
+      "model dışı",
+      "ilişkisiz",
+      "hata",
+      "bağımsız",
+      "varsayım"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 108,
+    "kategori": "ekonometri",
+    "kelime": "hedef değişken",
+    "aciklama": "tahmin veya politika analizinde gelecekteki değerine ulaşılmaya veya yönlendirilmeye çalışılan temel iktisadi büyüklük.",
+    "yasakli_kelimeler": [
+      "politika",
+      "tahmin",
+      "amaç",
+      "iktisat",
+      "ulaşmak"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 109,
+    "kategori": "ekonometri",
+    "kelime": "sürekli değişken",
+    "aciklama": "belirli bir aralıkta sonsuz sayıda ondalıklı veya kesirli değer alabilen ölçülebilir değişken türü.",
+    "yasakli_kelimeler": [
+      "ondalık",
+      "aralık",
+      "kesirli",
+      "sonsuz",
+      "ölçüm"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 110,
+    "kategori": "ekonometri",
+    "kelime": "kesikli değişken",
+    "aciklama": "sadece belirli tamsayı değerleri alabilen ve genellikle sayma yoluyla elde edilen değişken cinsi.",
+    "yasakli_kelimeler": [
+      "tamsayı",
+      "sayma",
+      "kesintili",
+      "adet",
+      "değer"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 111,
+    "kategori": "ekonometri",
+    "kelime": "kategorik değişken",
+    "aciklama": "sayısal bir büyüklük ifade etmeyen, verileri niteliklerine veya sınıflarına göre ayıran değişken türü.",
+    "yasakli_kelimeler": [
+      "nitelik",
+      "sınıf",
+      "grup",
+      "sayısal olmayan",
+      "etiket"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 112,
+    "kategori": "ekonometri",
+    "kelime": "ikili değişken",
+    "aciklama": "yalnızca sıfır veya bir gibi iki farklı durumdan birini alarak varlık veya yokluk belirten değişken.",
+    "yasakli_kelimeler": [
+      "sıfır",
+      "bir",
+      "kukla",
+      "var yok",
+      "durum"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 113,
+    "kategori": "ekonometri",
+    "kelime": "gizil değişken",
+    "aciklama": "doğrudan gözlemlenemeyen ancak gözlemlenen diğer göstergeler yardımıyla varlığı ve etkisi tahmin edilen örtük değişken.",
+    "yasakli_kelimeler": [
+      "gözlenemeyen",
+      "örtük",
+      "vekil",
+      "faktör",
+      "ölçülemeyen"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 114,
+    "kategori": "ekonometri",
+    "kelime": "önceden belirlenmiş",
+    "aciklama": "mevcut dönemdeki model denkleminde cari hata teriminden bağımsız olduğu kabul edilen dışsal veya gecikmeli değişken.",
+    "yasakli_kelimeler": [
+      "gecikmeli",
+      "dışsal",
+      "cari",
+      "bağımsız",
+      "dönem"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 115,
+    "kategori": "ekonometri",
+    "kelime": "hata terimi",
+    "aciklama": "bağımlı değişkendeki değişimin modelde yer almayan faktörlerden kaynaklanan rassal ve açıklanamayan kısmı.",
+    "yasakli_kelimeler": [
+      "artık",
+      "rassal",
+      "açıklanamayan",
+      "kalıntı",
+      "sapma"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 116,
+    "kategori": "ekonometri",
+    "kelime": "eğim katsayısı",
+    "aciklama": "bağımsız değişkendeki bir birimlik artışın bağımlı değişken üzerinde yarattığı ortalama değişimi gösteren katsayı.",
+    "yasakli_kelimeler": [
+      "katsayı",
+      "bir birim",
+      "eğim",
+      "artış",
+      "marjinal"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 117,
+    "kategori": "ekonometri",
+    "kelime": "sabit terim",
+    "aciklama": "modeldeki tüm bağımsız değişkenlerin değeri sıfır olduğunda bağımlı değişkenin alması beklenen başlangıç değeri.",
+    "yasakli_kelimeler": [
+      "kesişim",
+      "sıfır",
+      "başlangıç",
+      "katsayı",
+      "sabit"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 118,
+    "kategori": "ekonometri",
+    "kelime": "parametre tahmini",
+    "aciklama": "ana kütleye ait bilinmeyen regresyon parametrelerinin örneklem verileri kullanılarak matematiksel formüllerle hesaplanması.",
+    "yasakli_kelimeler": [
+      "ana kütle",
+      "örneklem",
+      "katsayı",
+      "tahmin",
+      "hesaplama"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 119,
+    "kategori": "ekonometri",
+    "kelime": "katsayı tahmini",
+    "aciklama": "regresyon denklemindeki eğim ve sabit parametrelerin örneklemden elde edilen somut sayısal değerleri.",
+    "yasakli_kelimeler": [
+      "sayısal",
+      "tahminci",
+      "regresyon",
+      "değer",
+      "katsayı"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 120,
+    "kategori": "ekonometri",
+    "kelime": "basit regresyon",
+    "aciklama": "sadece bir bağımlı ve bir bağımsız değişken arasındaki doğrusal ilişkiyi modelleyen en temel regresyon türü.",
+    "yasakli_kelimeler": [
+      "tek değişken",
+      "doğrusal",
+      "ilişki",
+      "temel",
+      "model"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 121,
+    "kategori": "ekonometri",
+    "kelime": "çoklu regresyon",
+    "aciklama": "bağımlı bir değişkenin iki veya daha fazla bağımsız değişken tarafından eş zamanlı açıklandığı model yapısı.",
+    "yasakli_kelimeler": [
+      "birden çok",
+      "bağımsız",
+      "değişken",
+      "açıklama",
+      "model"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 122,
+    "kategori": "ekonometri",
+    "kelime": "doğrusal regresyon",
+    "aciklama": "değişkenler arasındaki ilişkinin parametrelere göre doğrusal bir denklemle ifade edildiği standart yöntem.",
+    "yasakli_kelimeler": [
+      "doğru",
+      "parametre",
+      "çizgi",
+      "ilişki",
+      "denklem"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 123,
+    "kategori": "ekonometri",
+    "kelime": "kantil regresyon",
+    "aciklama": "verinin ortalaması yerine medyan veya belirli yüzdelik dilimleri üzerinden bağımlı değişkeni modelleyen yöntem.",
+    "yasakli_kelimeler": [
+      "yüzdelik",
+      "medyan",
+      "çeyreklik",
+      "dilim",
+      "ortalama"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 124,
+    "kategori": "ekonometri",
+    "kelime": "sırt regresyonu",
+    "aciklama": "çoklu doğrusal bağlantı durumunda katsayıların kareleri toplamına ceza ekleyerek aşırı uyumu engelleyen yöntem.",
+    "yasakli_kelimeler": [
+      "ceza",
+      "bağlantı",
+      "ridge",
+      "kare",
+      "düzenlileştirme"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 125,
+    "kategori": "ekonometri",
+    "kelime": "kement regresyonu",
+    "aciklama": "katsayıların mutlak değerler toplamına ceza uygulayarak bazı katsayıları tam sıfır yapıp değişken seçimi sağlayan yöntem.",
+    "yasakli_kelimeler": [
+      "lasso",
+      "mutlak değer",
+      "sıfırlama",
+      "değişken seçimi",
+      "ceza"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 126,
+    "kategori": "ekonometri",
+    "kelime": "sağlam regresyon",
+    "aciklama": "verideki aşırı aykırı değerlerin tahmin sonuçlarını saptırmasını engelleyen dayanıklı regresyon yaklaşımı.",
+    "yasakli_kelimeler": [
+      "aykırı değer",
+      "dayanıklı",
+      "robust",
+      "sapma",
+      "uç değer"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 127,
+    "kategori": "ekonometri",
+    "kelime": "adımsal regresyon",
+    "aciklama": "modele istatistiksel anlamlılığına göre sırayla değişken ekleyip çıkaran otomatik model kurma yöntemi.",
+    "yasakli_kelimeler": [
+      "adım adım",
+      "otomatik",
+      "ekleme",
+      "çıkarma",
+      "anlamlılık"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 128,
+    "kategori": "ekonometri",
+    "kelime": "parçalı regresyon",
+    "aciklama": "verinin farklı aralıklarında farklı eğimlere sahip doğruların kırılma noktalarında birbirine bağlandığı regresyon.",
+    "yasakli_kelimeler": [
+      "kırılma",
+      "parça",
+      "aralık",
+      "eğim",
+      "spline"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 129,
+    "kategori": "ekonometri",
+    "kelime": "polinomsal regresyon",
+    "aciklama": "bağımsız değişkenin karesi veya küpü gibi üstel kuvvetlerini modele dahil ederek eğrisel ilişkileri yakalayan analiz.",
+    "yasakli_kelimeler": [
+      "kare",
+      "küp",
+      "kuvvet",
+      "eğrisel",
+      "derece"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 130,
+    "kategori": "ekonometri",
+    "kelime": "hipotez testi",
+    "aciklama": "örneklem verilerine dayanarak ana kütle parametreleri hakkında ileri sürülen bir iddianın doğruluğunu sınama süreci.",
+    "yasakli_kelimeler": [
+      "iddia",
+      "sınama",
+      "karar",
+      "reddetmek",
+      "örneklem"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 131,
+    "kategori": "ekonometri",
+    "kelime": "sıfır hipotezi",
+    "aciklama": "test edilen değişkenler arasında hiçbir etki, fark veya ilişki bulunmadığını savunan temel başlangıç hipotezi.",
+    "yasakli_kelimeler": [
+      "etkisiz",
+      "h0",
+      "başlangıç",
+      "farksız",
+      "temel"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 132,
+    "kategori": "ekonometri",
+    "kelime": "alternatif hipotez",
+    "aciklama": "sıfır hipotezinin reddedilmesi durumunda kabul edilen ve bir etkinin veya farkın var olduğunu iddia eden sav.",
+    "yasakli_kelimeler": [
+      "h1",
+      "iddia",
+      "fark",
+      "reddetmek",
+      "karşıt"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 133,
+    "kategori": "ekonometri",
+    "kelime": "alfa hatası",
+    "aciklama": "gerçekte doğru olan bir sıfır hipotezinin örneklemdeki şans eseri dalgalanmalar nedeniyle yanlışlıkla reddedilmesi.",
+    "yasakli_kelimeler": [
+      "tip bir",
+      "yanlış ret",
+      "anlamlılık",
+      "doğru hipotez",
+      "hata"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 134,
+    "kategori": "ekonometri",
+    "kelime": "beta hatası",
+    "aciklama": "gerçekte yanlış olan bir sıfır hipotezinin test sonucunda reddedilemeyip yanlışlıkla kabul edilmesi durumu.",
+    "yasakli_kelimeler": [
+      "tip iki",
+      "yanlış kabul",
+      "güç",
+      "hata",
+      "reddedememek"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 135,
+    "kategori": "ekonometri",
+    "kelime": "anlamlılık düzeyi",
+    "aciklama": "sıfır hipotezini yanlışlıkla reddetme riskini gösteren ve genellikle yüzde bir ya da yüzde beş olarak seçilen olasılık.",
+    "yasakli_kelimeler": [
+      "yüzde beş",
+      "alfa",
+      "olasılık",
+      "risk",
+      "seviye"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 136,
+    "kategori": "ekonometri",
+    "kelime": "güven düzeyi",
+    "aciklama": "hesaplanan güven aralığının gerçek ana kütle parametresini içerme olasılığını belirten yüzde doksan beş gibi değer.",
+    "yasakli_kelimeler": [
+      "yüzde doksan beş",
+      "güven aralığı",
+      "olasılık",
+      "tahmin",
+      "doğruluk"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 137,
+    "kategori": "ekonometri",
+    "kelime": "kritik değer",
+    "aciklama": "istatistik tablosundan bulunan ve test istatistiğinin ret bölgesine düşüp düşmediğini belirleyen sınır eşiği.",
+    "yasakli_kelimeler": [
+      "eşik",
+      "tablo",
+      "sınır",
+      "ret",
+      "değer"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 138,
+    "kategori": "ekonometri",
+    "kelime": "test istatistiği",
+    "aciklama": "örneklem verilerinden formülle hesaplanan ve kritik değerle karşılaştırılarak hipotez hakkında karar verdiren rakam.",
+    "yasakli_kelimeler": [
+      "hesaplanan",
+      "formül",
+      "karar",
+      "t değeri",
+      "karşılaştırma"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 139,
+    "kategori": "ekonometri",
+    "kelime": "çift kuyruk",
+    "aciklama": "etkinin yönü belirtilmeden parametrenin sıfırdan farklı olup olmadığını dağılımın her iki ucunda test etme biçimi.",
+    "yasakli_kelimeler": [
+      "iki yön",
+      "farklılık",
+      "kuyruk",
+      "sağ sol",
+      "uç"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 140,
+    "kategori": "ekonometri",
+    "kelime": "tek kuyruk",
+    "aciklama": "alternatif hipotezin parametrenin sadece pozitif ya da negatif yönde olduğunu iddia ettiği tek yönlü test yaklaşımı.",
+    "yasakli_kelimeler": [
+      "tek yön",
+      "büyük",
+      "küçük",
+      "kuyruk",
+      "yönlü"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 141,
+    "kategori": "ekonometri",
+    "kelime": "red bölgesi",
+    "aciklama": "hesaplanan test istatistiğinin içine düşmesi durumunda sıfır hipotezinin reddedildiği olasılık dağılım alanı.",
+    "yasakli_kelimeler": [
+      "bölge",
+      "kritik sınır",
+      "reddetmek",
+      "kuyruk",
+      "alan"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 142,
+    "kategori": "ekonometri",
+    "kelime": "normallik testi",
+    "aciklama": "regresyon hata terimlerinin veya verilerin çan eğrisi şeklindeki normal dağılıma uyup uymadığını inceleyen test.",
+    "yasakli_kelimeler": [
+      "çan eğrisi",
+      "normal dağılım",
+      "hata terimi",
+      "uyum",
+      "sınama"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 143,
+    "kategori": "ekonometri",
+    "kelime": "jarque-bera testi",
+    "aciklama": "verilerin çarpıklık ve basıklık katsayılarını kullanarak normal dağılımdan sapıp sapmadığını sınayan popüler ekonometrik test.",
+    "yasakli_kelimeler": [
+      "çarpıklık",
+      "basıklık",
+      "normallik",
+      "ki-kare",
+      "test"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 144,
+    "kategori": "ekonometri",
+    "kelime": "shapiro-wilk testi",
+    "aciklama": "özellikle küçük örneklem hacimlerinde verilerin normallik varsayımını sağlama gücü yüksek olan istatistiksel test.",
+    "yasakli_kelimeler": [
+      "küçük örneklem",
+      "normallik",
+      "güçlü",
+      "varsayım",
+      "test"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 145,
+    "kategori": "ekonometri",
+    "kelime": "çarpıklık",
+    "aciklama": "bir olasılık dağılımının ortalamaya göre simetriden ne kadar uzaklaştığını ve hangi yöne uzandığını gösteren ölçü.",
+    "yasakli_kelimeler": [
+      "simetri",
+      "asimetri",
+      "sağa çarpık",
+      "sola çarpık",
+      "kuyruk"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 146,
+    "kategori": "ekonometri",
+    "kelime": "basıklık",
+    "aciklama": "dağılımın tepe noktasının dikliğini ve kuyruklarındaki aşırı değer yoğunluğunu normal dağılıma kıyasla ölçen katsayı.",
+    "yasakli_kelimeler": [
+      "tepe",
+      "diklik",
+      "kurtosis",
+      "kalın kuyruk",
+      "ölçü"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 147,
+    "kategori": "ekonometri",
+    "kelime": "normal dağılım",
+    "aciklama": "ortalaması etrafında tamamen simetrik olan ve çan eğrisi biçiminde tanımlanan en temel sürekli olasılık dağılımı.",
+    "yasakli_kelimeler": [
+      "çan eğrisi",
+      "gauss",
+      "simetrik",
+      "ortalama",
+      "dağılım"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 148,
+    "kategori": "ekonometri",
+    "kelime": "t dağılımı",
+    "aciklama": "küçük örneklemlerde ana kütle standart sapması bilinmediğinde katsayı testlerinde kullanılan kalın kuyruklu simetrik dağılım.",
+    "yasakli_kelimeler": [
+      "student",
+      "küçük örneklem",
+      "serbestlik",
+      "kalın kuyruk",
+      "test"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 149,
+    "kategori": "ekonometri",
+    "kelime": "ki-kare dağılımı",
+    "aciklama": "standart normal değişkenlerin kareleri toplamıyla türetilen ve varyans testleri ile uyum iyiliğinde kullanılan dağılım.",
+    "yasakli_kelimeler": [
+      "kare",
+      "toplam",
+      "pozitif",
+      "serbestlik",
+      "uyum"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 150,
+    "kategori": "ekonometri",
+    "kelime": "f dağılımı",
+    "aciklama": "iki bağımsız ki-kare değişkeninin serbestlik derecelerine oranlanmasıyla elde edilen ve modelin genel anlamlılığını sınayan dağılım.",
+    "yasakli_kelimeler": [
+      "oran",
+      "genel anlamlılık",
+      "varyans",
+      "model testi",
+      "fisher"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 151,
+    "kategori": "ekonometri",
+    "kelime": "standart sapma",
+    "aciklama": "verilerin aritmetik ortalamadan ne kadar dağıldığını ve değişkenlik gösterdiğini belirten varyansın karekökü.",
+    "yasakli_kelimeler": [
+      "karekök",
+      "varyans",
+      "dağılım",
+      "ortalama",
+      "yayılım"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 152,
+    "kategori": "ekonometri",
+    "kelime": "aritmetik ortalama",
+    "aciklama": "tüm veri değerlerinin toplanıp gözlem sayısına bölünmesiyle elde edilen en yaygın merkezi eğilim ölçüsü.",
+    "yasakli_kelimeler": [
+      "toplam",
+      "bölüm",
+      "merkezi eğilim",
+      "ortalama",
+      "gözlem sayısı"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 153,
+    "kategori": "ekonometri",
+    "kelime": "medyan",
+    "aciklama": "küçükten büyüğe sıralanmış bir veri dizisini tam ortadan iki eşit parçaya bölen merkezdeki orta değer.",
+    "yasakli_kelimeler": [
+      "ortanca",
+      "sıralama",
+      "orta",
+      "yüzde elli",
+      "değer"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 154,
+    "kategori": "ekonometri",
+    "kelime": "mod",
+    "aciklama": "bir veri kümesinde frekansı en yüksek olan ve en sık tekrarlanan tepe değeri.",
+    "yasakli_kelimeler": [
+      "tepe değer",
+      "en çok",
+      "frekans",
+      "tekrar",
+      "küme"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 155,
+    "kategori": "ekonometri",
+    "kelime": "persentil",
+    "aciklama": "sıralı bir veriyi yüz eşit parçaya bölerek belirli bir yüzdenin altında kalan sınırı gösteren yüzdelik dilim.",
+    "yasakli_kelimeler": [
+      "yüzdelik",
+      "dilim",
+      "sıralı",
+      "yüz parça",
+      "sınır"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 156,
+    "kategori": "ekonometri",
+    "kelime": "çeyreklik",
+    "aciklama": "sıralanmış veriyi yüzde yirmi beşerlik dört eşit gruba ayıran istatistiksel sınır değerleri.",
+    "yasakli_kelimeler": [
+      "dört parça",
+      "yüzde yirmi beş",
+      "çeyrek",
+      "kutu grafiği",
+      "dilim"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 157,
+    "kategori": "ekonometri",
+    "kelime": "serpilme diyagramı",
+    "aciklama": "iki değişken arasındaki ilişkinin yönünü ve gücünü görmek için noktalar halinde çizilen iki boyutlu grafik.",
+    "yasakli_kelimeler": [
+      "nokta",
+      "grafik",
+      "iki boyut",
+      "ilişki",
+      "dağılım"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 158,
+    "kategori": "ekonometri",
+    "kelime": "histogram",
+    "aciklama": "sürekli verilerin belirli aralıklara bölünerek her aralıktaki sıklığın bitişik sütunlarla gösterildiği frekans grafiği.",
+    "yasakli_kelimeler": [
+      "sütun",
+      "frekans",
+      "aralık",
+      "grafik",
+      "dağılım"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 159,
+    "kategori": "ekonometri",
+    "kelime": "kutu grafiği",
+    "aciklama": "verinin medyanını, çeyrekliklerini ve aykırı değerlerini tek bir kutu ve bıyık çizgileriyle özetleyen görsel grafik.",
+    "yasakli_kelimeler": [
+      "bıyık",
+      "kutu",
+      "medyan",
+      "aykırı değer",
+      "çeyreklik"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 160,
+    "kategori": "ekonometri",
+    "kelime": "korelogram",
+    "aciklama": "zaman serisinde farklı gecikmelerdeki otokorelasyon katsayılarını çubuklar halinde gösteren tanısal grafik.",
+    "yasakli_kelimeler": [
+      "gecikme",
+      "otokorelasyon",
+      "çubuk",
+      "zaman serisi",
+      "grafik"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 161,
+    "kategori": "ekonometri",
+    "kelime": "kısmi otokorelasyon",
+    "aciklama": "aradaki diğer tüm gecikmelerin etkisi arındırıldıktan sonra iki zaman dönemi arasında kalan net korelasyon ölçüsü.",
+    "yasakli_kelimeler": [
+      "arındırma",
+      "gecikme",
+      "net",
+      "zaman",
+      "korelasyon"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 162,
+    "kategori": "ekonometri",
+    "kelime": "mevsimsellik",
+    "aciklama": "ekonomik zaman serilerinde yılın belirli aylarında veya çeyreklerinde düzenli olarak tekrarlanan dönemsel dalgalanma.",
+    "yasakli_kelimeler": [
+      "yıl",
+      "çeyrek",
+      "dönemsel",
+      "dalgalanma",
+      "tekrar"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 163,
+    "kategori": "ekonometri",
+    "kelime": "mevsimsel düzeltme",
+    "aciklama": "serideki takvim ve bayram gibi dönemsel mevsim etkilerini matematiksel filtrelerle temizleyip ana eğilimi çıkarma işlemi.",
+    "yasakli_kelimeler": [
+      "arındırma",
+      "takvim",
+      "temizleme",
+      "etki",
+      "düzeltme"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 164,
+    "kategori": "ekonometri",
+    "kelime": "trend bileşeni",
+    "aciklama": "bir iktisadi zaman serisinin uzun dönem boyunca sergilediği kalıcı yukarı veya aşağı yönlü temel eğilim.",
+    "yasakli_kelimeler": [
+      "uzun dönem",
+      "eğilim",
+      "artış",
+      "azalış",
+      "yön"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 165,
+    "kategori": "ekonometri",
+    "kelime": "çevrimsel bileşen",
+    "aciklama": "trend etrafında birkaç yıla yayılan ekonomik canlanma ve durgunluk döngülerini yansıtan dalga hareketi.",
+    "yasakli_kelimeler": [
+      "döngü",
+      "konjonktür",
+      "canlanma",
+      "durgunluk",
+      "dalga"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 166,
+    "kategori": "ekonometri",
+    "kelime": "filtreleme",
+    "aciklama": "zaman serisindeki gürültü ve geçici dalgalanmaları ayıklayarak alttaki saf trend veya çevrimi çıkarma tekniği.",
+    "yasakli_kelimeler": [
+      "ayıklama",
+      "gürültü",
+      "trend",
+      "dalgalanma",
+      "seri"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 167,
+    "kategori": "ekonometri",
+    "kelime": "hodrick-prescott filtresi",
+    "aciklama": "makroekonomik serileri yumuşatılmış bir uzun dönem trendi ile konjonktürel çevrimsel bileşene ayıran yaygın filtreleme yöntemi.",
+    "yasakli_kelimeler": [
+      "lambda",
+      "makroekonomi",
+      "trend",
+      "çevrim",
+      "yumuşatma"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 168,
+    "kategori": "ekonometri",
+    "kelime": "kalman filtresi",
+    "aciklama": "zaman içinde değişen parametreleri ve gözlemlenemeyen durum değişkenlerini ardışık güncellemelerle tahmin eden algoritma.",
+    "yasakli_kelimeler": [
+      "durum uzayı",
+      "ardışık",
+      "algoritma",
+      "güncelleme",
+      "değişen"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 169,
+    "kategori": "ekonometri",
+    "kelime": "üstel düzeltme",
+    "aciklama": "geçmiş verilere zamana bağlı olarak üstel biçimde azalan ağırlıklar vererek kısa vadeli öngörü üreten yöntem.",
+    "yasakli_kelimeler": [
+      "ağırlık",
+      "azalan",
+      "kısa vade",
+      "öngörü",
+      "üstel"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 170,
+    "kategori": "ekonometri",
+    "kelime": "tahmin hatası",
+    "aciklama": "modelin öngördüğü değer ile gelecekte fiilen gerçekleşen gerçek değer arasındaki matematiksel fark.",
+    "yasakli_kelimeler": [
+      "gerçekleşen",
+      "öngörü",
+      "fark",
+      "yanılma",
+      "sapma"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 171,
+    "kategori": "ekonometri",
+    "kelime": "öngörü ufku",
+    "aciklama": "model yardımıyla bugünden başlayarak geleceğe doğru tahmin yapılan toplam ay veya yıl dönemi süresi.",
+    "yasakli_kelimeler": [
+      "gelecek",
+      "süre",
+      "dönem",
+      "ufuk",
+      "ilerisi"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 172,
+    "kategori": "ekonometri",
+    "kelime": "örneklem içi",
+    "aciklama": "modelin parametrelerini tahmin etmek ve denklemi kurmak için doğrudan kullanılan mevcut veri kümesi dönemi.",
+    "yasakli_kelimeler": [
+      "kurulum",
+      "veri seti",
+      "mevcut",
+      "dönem",
+      "tahmin"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 173,
+    "kategori": "ekonometri",
+    "kelime": "örneklem dışı",
+    "aciklama": "model tahmininde kullanılmayıp modelin geleceği öngörme başarısını tarafsızca test etmek için ayrılan veri bölümü.",
+    "yasakli_kelimeler": [
+      "test",
+      "ayrılan",
+      "başarı",
+      "öngörü",
+      "tarafsız"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 174,
+    "kategori": "ekonometri",
+    "kelime": "çapraz doğrulama",
+    "aciklama": "veriyi eğitim ve test parçalarına bölerek modelin genelleme yeteneğini ve aşırı uyumunu sınayan yöntem.",
+    "yasakli_kelimeler": [
+      "eğitim",
+      "test",
+      "bölme",
+      "genelleme",
+      "aşırı uyum"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 175,
+    "kategori": "ekonometri",
+    "kelime": "yeniden örnekleme",
+    "aciklama": "mevcut örneklem verisinden tekrar tekrar rastgele alt kümeler çekerek istatistiksel dağılımı inceleme tekniği.",
+    "yasakli_kelimeler": [
+      "rastgele",
+      "tekrar",
+      "alt küme",
+      "çekme",
+      "dağılım"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 176,
+    "kategori": "ekonometri",
+    "kelime": "önyükleme yöntemi",
+    "aciklama": "parametrik dağılım varsayımı yapmaksızın mevcut veriden yerine koyarak örnekleme yapıp standart hataları hesaplama yolu.",
+    "yasakli_kelimeler": [
+      "bootstrap",
+      "yerine koyma",
+      "varsayımsız",
+      "standart hata",
+      "örnekleme"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 177,
+    "kategori": "ekonometri",
+    "kelime": "monte carlo",
+    "aciklama": "bilgisayarla çok sayıda yapay rastgele sayı üreterek tahmincilerin özelliklerini ve teorik davranışlarını inceleyen simülasyon.",
+    "yasakli_kelimeler": [
+      "simülasyon",
+      "rastgele sayı",
+      "deney",
+      "teorik",
+      "yapay"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 178,
+    "kategori": "ekonometri",
+    "kelime": "duyarlılık analizi",
+    "aciklama": "modeldeki temel varsayımlar veya değişkenler azıcık değiştirildiğinde sonuçların ne derece değiştiğini ölçen sağlamlık testi.",
+    "yasakli_kelimeler": [
+      "sağlamlık",
+      "değişim",
+      "varsayım",
+      "etki",
+      "ölçüm"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 179,
+    "kategori": "ekonometri",
+    "kelime": "marjinal etki",
+    "aciklama": "bağımsız değişkendeki sonsuz küçük bir değişimin bağımlı değişkenin beklenen değerinde yol açtığı türevsel değişim.",
+    "yasakli_kelimeler": [
+      "türev",
+      "küçük değişim",
+      "etki",
+      "artış",
+      "sonuç"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 180,
+    "kategori": "ekonometri",
+    "kelime": "esneklik katsayısı",
+    "aciklama": "bağımsız değişkendeki yüzde birlik değişimin bağımlı değişkende kaç yüzdelik değişime yol açtığını gösteren birimsiz oran.",
+    "yasakli_kelimeler": [
+      "yüzde",
+      "oran",
+      "birimsiz",
+      "duyarlılık",
+      "değişim"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 181,
+    "kategori": "ekonometri",
+    "kelime": "doğrusal kısıt",
+    "aciklama": "regresyon parametreleri üzerine katsayıların toplamının bire eşit olması gibi getirilen önsel matematiksel sınırlama.",
+    "yasakli_kelimeler": [
+      "sınırlama",
+      "katsayı",
+      "eşitlik",
+      "önsel",
+      "şart"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 182,
+    "kategori": "ekonometri",
+    "kelime": "aşırı tanımlama",
+    "aciklama": "araç değişken sayısının modeldeki içsel açıklayıcı değişken sayısından daha fazla olması durumu.",
+    "yasakli_kelimeler": [
+      "araç değişken",
+      "fazla",
+      "içsel",
+      "denklem",
+      "tanımlılık"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 183,
+    "kategori": "ekonometri",
+    "kelime": "tam tanımlama",
+    "aciklama": "modeldeki içsel değişken sayısı ile dışsal araç değişken sayısının tam olarak birbirine eşit olması hali.",
+    "yasakli_kelimeler": [
+      "eşit",
+      "araç değişken",
+      "içsel",
+      "birebir",
+      "denklem"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 184,
+    "kategori": "ekonometri",
+    "kelime": "yetersiz tanımlama",
+    "aciklama": "modeldeki içsel değişkenleri tahmin etmek için gereken sayıda araç değişken bulunmaması sebebiyle parametrelerin bulunamaması.",
+    "yasakli_kelimeler": [
+      "eksik",
+      "tahmin edilemez",
+      "araç değişken",
+      "yetersiz",
+      "çözümsüz"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 185,
+    "kategori": "ekonometri",
+    "kelime": "eşanlı denklem",
+    "aciklama": "iki veya daha fazla iktisadi değişkenin birbirini aynı anda karşılıklı olarak belirlediği çoklu denklem sistemi.",
+    "yasakli_kelimeler": [
+      "karşılıklı",
+      "aynı anda",
+      "sistem",
+      "denklem",
+      "arz talep"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 186,
+    "kategori": "ekonometri",
+    "kelime": "indirgenmiş form",
+    "aciklama": "eşanlı modeldeki her bir içsel değişkenin yalnızca dışsal ve gecikmeli değişkenlerin fonksiyonu olarak çözülmüş hali.",
+    "yasakli_kelimeler": [
+      "çözüm",
+      "yalnızca dışsal",
+      "içsel",
+      "form",
+      "denklem"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 187,
+    "kategori": "ekonometri",
+    "kelime": "yapısal form",
+    "aciklama": "iktisat teorisinin doğrudan öngördüğü, içsel değişkenlerin de birbirini açıkladığı orijinal denklem sistemi.",
+    "yasakli_kelimeler": [
+      "teori",
+      "orijinal",
+      "sistem",
+      "parametre",
+      "denklem"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 188,
+    "kategori": "ekonometri",
+    "kelime": "dengeli panel",
+    "aciklama": "panel veri setinde yer alan tüm birey veya ülkelerin her bir zaman döneminde eksiksiz gözleme sahip olması durumu.",
+    "yasakli_kelimeler": [
+      "eksiksiz",
+      "tüm dönemler",
+      "birey",
+      "panel",
+      "kayıpsız"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 189,
+    "kategori": "ekonometri",
+    "kelime": "dengesiz panel",
+    "aciklama": "bazı birimlerin belirli yıllarda verisinin bulunmadığı ve gözlem sayılarının birimler arasında farklılık gösterdiği panel.",
+    "yasakli_kelimeler": [
+      "kayıp veri",
+      "farklı sayı",
+      "eksik",
+      "yıl",
+      "panel"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 190,
+    "kategori": "ekonometri",
+    "kelime": "zaman etkisi",
+    "aciklama": "panel veride tüm bireyleri aynı anda etkileyen ancak zamandan zamana değişen ortak makroekonomik şoklar.",
+    "yasakli_kelimeler": [
+      "şok",
+      "yıl",
+      "makro",
+      "ortak",
+      "zaman"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 191,
+    "kategori": "ekonometri",
+    "kelime": "bireysel etki",
+    "aciklama": "bireye veya firmaya özgü olan, zaman içinde değişmeyen ve modele dahil edilmeyen gözlenemez karakteristik özellikler.",
+    "yasakli_kelimeler": [
+      "özgü",
+      "firma",
+      "zamanla değişmeyen",
+      "sabit",
+      "karakteristik"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 192,
+    "kategori": "ekonometri",
+    "kelime": "havuzlama testi",
+    "aciklama": "panel veride tüm kesit birimlerinin aynı eğim ve sabite sahip olup olmadığını sınayan f testi.",
+    "yasakli_kelimeler": [
+      "havuzlanmış",
+      "ortak katsayı",
+      "f testi",
+      "sınama",
+      "panel"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 193,
+    "kategori": "ekonometri",
+    "kelime": "hadri testi",
+    "aciklama": "panel veride serilerin tüm bireyler için durağan olduğunu sıfır hipotezi altında sınayan panel birim kök testi.",
+    "yasakli_kelimeler": [
+      "durağanlık",
+      "sıfır hipotezi",
+      "birim kök",
+      "panel",
+      "test"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 194,
+    "kategori": "ekonometri",
+    "kelime": "panel koentegrasyon",
+    "aciklama": "paneldeki birimlerin durağan olmayan serileri arasında uzun dönemli ortak bir denge ilişkisinin varlığını araştıran yöntem.",
+    "yasakli_kelimeler": [
+      "uzun dönem",
+      "denge",
+      "birlikte hareket",
+      "eşbütünleşme",
+      "panel"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 195,
+    "kategori": "ekonometri",
+    "kelime": "kesit bağımlılığı",
+    "aciklama": "paneldeki bir ülkede yaşanan ekonomik şokun diğer ülkeleri de etkileyerek hata terimlerini ilişkili kılması olgusu.",
+    "yasakli_kelimeler": [
+      "yayılma",
+      "şok",
+      "ülkeler arası",
+      "bağımlılık",
+      "ilişki"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 196,
+    "kategori": "ekonometri",
+    "kelime": "pesaran testi",
+    "aciklama": "panel veri modellerinde kesit birimleri arasında yatay bağımlılık bulunup bulunmadığını test eden istatistiksel yöntem.",
+    "yasakli_kelimeler": [
+      "yatay bağımlılık",
+      "kesit",
+      "test",
+      "hata",
+      "ilişki"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 197,
+    "kategori": "ekonometri",
+    "kelime": "breusch testi",
+    "aciklama": "regresyon modellerinde hata terimleri arasında ardışık bağımlılık veya değişen varyans olup olmadığını araştıran sınama.",
+    "yasakli_kelimeler": [
+      "bağımlılık",
+      "değişen varyans",
+      "otokorelasyon",
+      "artık",
+      "test"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 198,
+    "kategori": "ekonometri",
+    "kelime": "lojistik regresyon",
+    "aciklama": "bağımlı değişkenin evet ya da hayır gibi ikili kategorik olduğu durumlarda olayın gerçekleşme olasılığını modelleyen yöntem.",
+    "yasakli_kelimeler": [
+      "olasılık",
+      "ikili",
+      "logit",
+      "oran",
+      "kategori"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 199,
+    "kategori": "ekonometri",
+    "kelime": "katsayı matrisi",
+    "aciklama": "vektör otoregresif veya çok denklemli sistemlerde tüm değişkenlerin parametrelerini düzenli bir tabloda toplayan matris.",
+    "yasakli_kelimeler": [
+      "matris",
+      "parametre",
+      "tablo",
+      "sistem",
+      "vektör"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 200,
+    "kategori": "ekonometri",
+    "kelime": "varyans matrisi",
+    "aciklama": "tahmin edilen parametrelerin varyanslarını köşegeninde, parametreler arası kovaryansları ise köşegen dışında tutan kare matris.",
+    "yasakli_kelimeler": [
+      "kovaryans",
+      "köşegen",
+      "standart hata",
+      "kare matris",
+      "tahminci"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "kategori": "ekonometri",
+    "kelime": "veri toplamak",
+    "aciklama": "araştırma veya analiz için sayısal bilgileri bir araya getirmek.",
+    "yasakli_kelimeler": [
+      "anket",
+      "bilgi",
+      "sayı",
+      "analiz",
+      "kaynak"
+    ],
+    "zorluk": "kolay",
+    "id": 201
+  },
+  {
+    "kategori": "ekonometri",
+    "kelime": "grafik çizmek",
+    "aciklama": "verilerin değişimini koordinat düzleminde görselleştirmek.",
+    "yasakli_kelimeler": [
+      "eksen",
+      "tablo",
+      "görsel",
+      "çizgi",
+      "eğri"
+    ],
+    "zorluk": "kolay",
+    "id": 202
+  },
+  {
+    "kategori": "ekonometri",
+    "kelime": "ortalama hesaplamak",
+    "aciklama": "değerlerin toplamını gözlem sayısına bölerek merkezi eğilimi bulmak.",
+    "yasakli_kelimeler": [
+      "toplam",
+      "bölmek",
+      "değer",
+      "aritmetik",
+      "sayı"
+    ],
+    "zorluk": "kolay",
+    "id": 203
+  },
+  {
+    "kategori": "ekonometri",
+    "kelime": "tahmin yapmak",
+    "aciklama": "mevcut verilerden yola çıkarak gelecekteki bir değeri kestirmek.",
+    "yasakli_kelimeler": [
+      "gelecek",
+      "öngörü",
+      "model",
+      "fiyat",
+      "beklenti"
+    ],
+    "zorluk": "kolay",
+    "id": 204
+  },
+  {
+    "kategori": "ekonometri",
+    "kelime": "tablo hazırlamak",
+    "aciklama": "sayısal verileri satır ve sütunlar halinde düzenlemek.",
+    "yasakli_kelimeler": [
+      "satır",
+      "sütun",
+      "veri",
+      "excel",
+      "düzenlemek"
+    ],
+    "zorluk": "kolay",
+    "id": 205
+  },
+  {
+    "kategori": "ekonometri",
+    "kelime": "yüzde hesaplamak",
+    "aciklama": "bir miktarın yüze oranla payını tespit etmek.",
+    "yasakli_kelimeler": [
+      "oran",
+      "yüz",
+      "bölmek",
+      "çarpmak",
+      "pay"
+    ],
+    "zorluk": "kolay",
+    "id": 206
+  },
+  {
+    "kategori": "ekonometri",
+    "kelime": "fiyat karşılaştırmak",
+    "aciklama": "farklı dönem veya piyasalardaki fiyatları kıyaslamak.",
+    "yasakli_kelimeler": [
+      "ürün",
+      "pazar",
+      "ucuz",
+      "pahalı",
+      "oran"
+    ],
+    "zorluk": "kolay",
+    "id": 207
+  },
+  {
+    "kategori": "ekonometri",
+    "kelime": "anket yapmak",
+    "aciklama": "kişilere sorular yönelterek veri toplamak.",
+    "yasakli_kelimeler": [
+      "soru",
+      "katılımcı",
+      "cevap",
+      "örneklem",
+      "form"
+    ],
+    "zorluk": "kolay",
+    "id": 208
+  },
+  {
+    "kategori": "ekonometri",
+    "kelime": "rapor yazmak",
+    "aciklama": "ekonometrik analiz bulgularını yazılı metne dökmek.",
+    "yasakli_kelimeler": [
+      "sonuç",
+      "analiz",
+      "metin",
+      "sunum",
+      "özet"
+    ],
+    "zorluk": "kolay",
+    "id": 209
+  },
+  {
+    "kategori": "ekonometri",
+    "kelime": "trend takip etmek",
+    "aciklama": "verilerin zaman içerisindeki yönelimini izlemek.",
+    "yasakli_kelimeler": [
+      "eğilim",
+      "zaman",
+      "grafik",
+      "yükseliş",
+      "düşüş"
+    ],
+    "zorluk": "kolay",
+    "id": 210
+  },
+  {
+    "kategori": "ekonometri",
+    "kelime": "risk ölçmek",
+    "aciklama": "finansal veya ekonomik belirsizlik olasılığını saptamak.",
+    "yasakli_kelimeler": [
+      "kayıp",
+      "ihtimal",
+      "oran",
+      "yatırım",
+      "hesaplamak"
+    ],
+    "zorluk": "kolay",
+    "id": 211
+  },
+  {
+    "kategori": "ekonometri",
+    "kelime": "büyüme oranını bulmak",
+    "aciklama": "dönemsel ekonomik artış yüzdesini hesaplamak.",
+    "yasakli_kelimeler": [
+      "ekonomi",
+      "gdp",
+      "artış",
+      "yıl",
+      "yüzde"
+    ],
+    "zorluk": "kolay",
+    "id": 212
+  },
+  {
+    "kategori": "ekonometri",
+    "kelime": "regresyon kurmak",
+    "aciklama": "değişkenler arasındaki ilişkiyi matematiksel denklemle modellemek.",
+    "yasakli_kelimeler": [
+      "bağımlı",
+      "bağımsız",
+      "model",
+      "değişken",
+      "katsayı"
+    ],
+    "zorluk": "orta",
+    "id": 213
+  },
+  {
+    "kategori": "ekonometri",
+    "kelime": "hipotez test etmek",
+    "aciklama": "bir varsayımın istatistiksel geçerliliğini sınamak.",
+    "yasakli_kelimeler": [
+      "sıfır",
+      "anlamlılık",
+      "p değeri",
+      "kabul",
+      "ret"
+    ],
+    "zorluk": "orta",
+    "id": 214
+  },
+  {
+    "kategori": "ekonometri",
+    "kelime": "korelasyon hesaplamak",
+    "aciklama": "i̇ki değişken arasındaki doğrusal ilişkinin gücünü bulmak.",
+    "yasakli_kelimeler": [
+      "ilişki",
+      "katsayı",
+      "pearson",
+      "yön",
+      "derece"
+    ],
+    "zorluk": "orta",
+    "id": 215
+  },
+  {
+    "kategori": "ekonometri",
+    "kelime": "zaman serisi analizi yapmak",
+    "aciklama": "kronolojik sırayla dizilmiş verilerin dinamiklerini incelemek.",
+    "yasakli_kelimeler": [
+      "dönem",
+      "mevsimsellik",
+      "gecikme",
+      "tahmin",
+      "trend"
+    ],
+    "zorluk": "orta",
+    "id": 216
+  },
+  {
+    "kategori": "ekonometri",
+    "kelime": "panel veri modeli kurmak",
+    "aciklama": "hem zaman hem birim boyutunu içeren çok boyutlu veri setini analiz etmek.",
+    "yasakli_kelimeler": [
+      "kesit",
+      "zaman",
+      "birey",
+      "sabit etkiler",
+      "rassal"
+    ],
+    "zorluk": "orta",
+    "id": 217
+  },
+  {
+    "kategori": "ekonometri",
+    "kelime": "t-testi uygulamak",
+    "aciklama": "i̇ki grup ortalaması veya katsayının sıfırdan farklılığını test etmek.",
+    "yasakli_kelimeler": [
+      "ortalama",
+      "anlamlılık",
+      "serbestlik",
+      "değer",
+      "istatistik"
+    ],
+    "zorluk": "orta",
+    "id": 218
+  },
+  {
+    "kategori": "ekonometri",
+    "kelime": "f-testi yapmak",
+    "aciklama": "modelin bütün olarak açıklayıcılığını sınamak.",
+    "yasakli_kelimeler": [
+      "varyans",
+      "model",
+      "toplu anlamlılık",
+      "regresyon",
+      "değer"
+    ],
+    "zorluk": "orta",
+    "id": 219
+  },
+  {
+    "kategori": "ekonometri",
+    "kelime": "katsayı yorumlamak",
+    "aciklama": "bağımsız değişkendeki bir birimlik değişimin etkisini açıklamak.",
+    "yasakli_kelimeler": [
+      "beta",
+      "etki",
+      "bağımsız",
+      "değişken",
+      "artış"
+    ],
+    "zorluk": "orta",
+    "id": 220
+  },
+  {
+    "kategori": "ekonometri",
+    "kelime": "veriyi normalize etmek",
+    "aciklama": "farklı ölçekteki verileri ortak bir aralığa getirmek.",
+    "yasakli_kelimeler": [
+      "ölçek",
+      "standartlaştırma",
+      "aralık",
+      "sıfır",
+      "bir"
+    ],
+    "zorluk": "orta",
+    "id": 221
+  },
+  {
+    "kategori": "ekonometri",
+    "kelime": "örneklem seçmek",
+    "aciklama": "ana kütleyi temsil edecek alt grubu belirlemek.",
+    "yasakli_kelimeler": [
+      "evren",
+      "temsil",
+      "rassal",
+      "büyüklük",
+      "grup"
+    ],
+    "zorluk": "orta",
+    "id": 222
+  },
+  {
+    "kategori": "ekonometri",
+    "kelime": "kukla değişken eklemek",
+    "aciklama": "niteliksel özellikleri 0 ve 1 kodlarıyla modele dahil etmek.",
+    "yasakli_kelimeler": [
+      "dummy",
+      "nitel",
+      "sıfır",
+      "bir",
+      "kategori"
+    ],
+    "zorluk": "orta",
+    "id": 223
+  },
+  {
+    "kategori": "ekonometri",
+    "kelime": "gecikme uzunluğu belirlemek",
+    "aciklama": "zaman serisi modelinde geçmiş dönem etkisinin kaç adım olacağını seçmek.",
+    "yasakli_kelimeler": [
+      "lag",
+      "akaike",
+      "kriter",
+      "zaman",
+      "model"
+    ],
+    "zorluk": "orta",
+    "id": 224
+  },
+  {
+    "kategori": "ekonometri",
+    "kelime": "sapmayı ölçmek",
+    "aciklama": "verilerin ortalamadan ne kadar uzaklaştığını tespit etmek.",
+    "yasakli_kelimeler": [
+      "standart",
+      "hata",
+      "varyans",
+      "ortalama",
+      "dağılım"
+    ],
+    "zorluk": "orta",
+    "id": 225
+  },
+  {
+    "kategori": "ekonometri",
+    "kelime": "güven aralığı oluşturmak",
+    "aciklama": "parametrenin belirli bir olasılıkla içinde bulunacağı aralığı belirlemek.",
+    "yasakli_kelimeler": [
+      "yüzde",
+      "alt",
+      "üst",
+      "limit",
+      "anlamlılık"
+    ],
+    "zorluk": "orta",
+    "id": 226
+  },
+  {
+    "kategori": "ekonometri",
+    "kelime": "logaritma almak",
+    "aciklama": "üstel ilişkileri doğrusal hale getirmek için logaritmik dönüşüm yapmak.",
+    "yasakli_kelimeler": [
+      "dönüşüm",
+      "esneklik",
+      "doğrusallaştırma",
+      "fonksiyon",
+      "veri"
+    ],
+    "zorluk": "orta",
+    "id": 227
+  },
+  {
+    "kategori": "ekonometri",
+    "kelime": "model kalibrasyonu yapmak",
+    "aciklama": "teorik model parametrelerini ampirik verilere göre hassas şekilde ayarlamak.",
+    "yasakli_kelimeler": [
+      "parametre",
+      "uyarlama",
+      "gerçek veri",
+      "ayar",
+      "denge"
+    ],
+    "zorluk": "orta",
+    "id": 228
+  },
+  {
+    "kategori": "ekonometri",
+    "kelime": "fark almak",
+    "aciklama": "seriyi durağanlaştırmak için ardışık dönem değerlerini birbirinden çıkarmak.",
+    "yasakli_kelimeler": [
+      "durağanlık",
+      "birinci",
+      "seri",
+      "trend",
+      "çıkarma"
+    ],
+    "zorluk": "orta",
+    "id": 229
+  },
+  {
+    "kategori": "ekonometri",
+    "kelime": "esneklik hesaplamak",
+    "aciklama": "bir değişkendeki yüzdelik değişimin diğerine etkisini ölçmek.",
+    "yasakli_kelimeler": [
+      "fiyat",
+      "talep",
+      "yüzde",
+      "duyarlılık",
+      "değişim"
+    ],
+    "zorluk": "orta",
+    "id": 230
+  },
+  {
+    "kategori": "ekonometri",
+    "kelime": "tahmin hatasını bulmak",
+    "aciklama": "modelin öngördüğü değer ile gerçekleşen değer arasındaki farkı hesaplamak.",
+    "yasakli_kelimeler": [
+      "artık",
+      "gerçek",
+      "fark",
+      "kalıntı",
+      "model"
+    ],
+    "zorluk": "orta",
+    "id": 231
+  },
+  {
+    "kategori": "ekonometri",
+    "kelime": "en küçük kareler yöntemini uygulamak",
+    "aciklama": "hata kareleri toplamını minimize ederek en uygun regresyon doğrusunu bulmak.",
+    "yasakli_kelimeler": [
+      "ols",
+      "hata kareleri",
+      "minimizasyon",
+      "doğru",
+      "parametre"
+    ],
+    "zorluk": "orta",
+    "id": 232
+  },
+  {
+    "kategori": "ekonometri",
+    "kelime": "varyans analizi yapmak",
+    "aciklama": "birden çok grup ortalaması arasındaki farkı varyanslar üzerinden incelemek.",
+    "yasakli_kelimeler": [
+      "anova",
+      "grup",
+      "kareler toplamı",
+      "f testi",
+      "fark"
+    ],
+    "zorluk": "orta",
+    "id": 233
+  },
+  {
+    "kategori": "ekonometri",
+    "kelime": "p değerini kontrol etmek",
+    "aciklama": "i̇statistiğin anlamlılık düzeyini olasılık değeriyle karşılaştırmak.",
+    "yasakli_kelimeler": [
+      "anlamlılık",
+      "olasılık",
+      "ret",
+      "sıfır hipotezi",
+      "alfa"
+    ],
+    "zorluk": "orta",
+    "id": 234
+  },
+  {
+    "kategori": "ekonometri",
+    "kelime": "simülasyon çalıştırmak",
+    "aciklama": "rassal değişkenlerle modelin farklı senaryolardaki davranışını simüle etmek.",
+    "yasakli_kelimeler": [
+      "monte carlo",
+      "senaryo",
+      "rastgele",
+      "kod",
+      "deneme"
+    ],
+    "zorluk": "orta",
+    "id": 235
+  },
+  {
+    "kategori": "ekonometri",
+    "kelime": "yapısal kırılma aramak",
+    "aciklama": "veri setinde kriz veya politika kaynaklı rejim değişimini tespit etmek.",
+    "yasakli_kelimeler": [
+      "chow testi",
+      "kriz",
+      "rejim",
+      "parametre değişimi",
+      "dönem"
+    ],
+    "zorluk": "orta",
+    "id": 236
+  },
+  {
+    "kategori": "ekonometri",
+    "kelime": "içselliği gidermek",
+    "aciklama": "açıklayıcı değişken ile hata terimi arasındaki bağıntıyı ortadan kaldırmak.",
+    "yasakli_kelimeler": [
+      "araç değişken",
+      "endojenlik",
+      "hata terimi",
+      "korelasyon",
+      "2sls"
+    ],
+    "zorluk": "zor",
+    "id": 237
+  },
+  {
+    "kategori": "ekonometri",
+    "kelime": "koentegrasyon testi yapmak",
+    "aciklama": "durağan olmayan seriler arasındaki uzun vadeli denge ilişkisini sınamak.",
+    "yasakli_kelimeler": [
+      "johansen",
+      "engle granger",
+      "uzun dönem",
+      "durağanlık",
+      "ilişki"
+    ],
+    "zorluk": "zor",
+    "id": 238
+  },
+  {
+    "kategori": "ekonometri",
+    "kelime": "otokorelasyonu saptamak",
+    "aciklama": "hata terimlerinin ardışık dönemlerde birbiriyle ilişkili olmasını tespit etmek.",
+    "yasakli_kelimeler": [
+      "durbin watson",
+      "breusch godfrey",
+      "hata terimi",
+      "bağımlılık",
+      "seri"
+    ],
+    "zorluk": "zor",
+    "id": 239
+  },
+  {
+    "kategori": "ekonometri",
+    "kelime": "değişen varyansı düzeltmek",
+    "aciklama": "hata terimi varyansının sabit olmaması sorununu gidermek.",
+    "yasakli_kelimeler": [
+      "heteroskedasite",
+      "white",
+      "ağırlıklı",
+      "hata",
+      "standart"
+    ],
+    "zorluk": "zor",
+    "id": 240
+  },
+  {
+    "kategori": "ekonometri",
+    "kelime": "çoklu doğrusal bağlantıyı test etmek",
+    "aciklama": "bağımsız değişkenlerin birbirleriyle aşırı ilişkili olup olmadığını incelemek.",
+    "yasakli_kelimeler": [
+      "vif",
+      "multicollinarity",
+      "yüksek korelasyon",
+      "bağımsız",
+      "sapma"
+    ],
+    "zorluk": "zor",
+    "id": 241
+  },
+  {
+    "kategori": "ekonometri",
+    "kelime": "vektör otoregresyonu tahmin etmek",
+    "aciklama": "birden çok zaman serisinin birbirini karşılıklı etkilediği sistemi tahmin etmek.",
+    "yasakli_kelimeler": [
+      "var modeli",
+      "gecikme",
+      "etki tepki",
+      "simultane",
+      "dinamik"
+    ],
+    "zorluk": "zor",
+    "id": 242
+  },
+  {
+    "kategori": "ekonometri",
+    "kelime": "etki-tepki fonksiyonu türetmek",
+    "aciklama": "bir değişkene gelen tek seferlik şokun diğer değişkenlerdeki zamansal izini çizmek.",
+    "yasakli_kelimeler": [
+      "şok",
+      "grafik",
+      "var",
+      "dalgalanma",
+      "yanıt"
+    ],
+    "zorluk": "zor",
+    "id": 243
+  },
+  {
+    "kategori": "ekonometri",
+    "kelime": "varyans ayrıştırması yapmak",
+    "aciklama": "tahmin hatası varyansında her bir şokun yüzde payını hesaplamak.",
+    "yasakli_kelimeler": [
+      "şok payı",
+      "tahmin hatası",
+      "var",
+      "yüzde",
+      "katkı"
+    ],
+    "zorluk": "zor",
+    "id": 244
+  },
+  {
+    "kategori": "ekonometri",
+    "kelime": "araç değişken kullanmak",
+    "aciklama": "i̇çsel bağımsız değişken yerine dışsal bir değişkeni modele sokmak.",
+    "yasakli_kelimeler": [
+      "iv",
+      "enstrüman",
+      "endojen",
+      "dışsal",
+      "ilişki"
+    ],
+    "zorluk": "zor",
+    "id": 245
+  },
+  {
+    "kategori": "ekonometri",
+    "kelime": "maksimum olabilirlik kestirimi yapmak",
+    "aciklama": "örneklem verilerinin ortaya çıkma olasılığını en yüksek kılan parametreleri bulmak.",
+    "yasakli_kelimeler": [
+      "mle",
+      "log likelihood",
+      "fonksiyon",
+      "parametre",
+      "maksimizasyon"
+    ],
+    "zorluk": "zor",
+    "id": 246
+  },
+  {
+    "kategori": "ekonometri",
+    "kelime": "birim kök sınaması yapmak",
+    "aciklama": "zaman serisinin durağan olup olmadığını istatistiksel olarak test etmek.",
+    "yasakli_kelimeler": [
+      "adf",
+      "durağanlık",
+      "phillips perron",
+      "kpss",
+      "seri"
+    ],
+    "zorluk": "zor",
+    "id": 247
+  },
+  {
+    "kategori": "ekonometri",
+    "kelime": "genelleştirilmiş momentler yöntemini kullanmak",
+    "aciklama": "moment koşullarına dayalı parametre kestirim yöntemi uygulamak.",
+    "yasakli_kelimeler": [
+      "gmm",
+      "ortogonalite",
+      "koşul",
+      "ağırlık matrisi",
+      "iv"
+    ],
+    "zorluk": "zor",
+    "id": 248
+  },
+  {
+    "kategori": "ekonometri",
+    "kelime": "arch testi uygulamak",
+    "aciklama": "zaman serisinde değişken varyans kümelenmesini test etmek.",
+    "yasakli_kelimeler": [
+      "volatilite",
+      "koşullu varyans",
+      "engle",
+      "finans",
+      "kümelenme"
+    ],
+    "zorluk": "zor",
+    "id": 249
+  },
+  {
+    "kategori": "ekonometri",
+    "kelime": "granger nedenselliğini araştırmak",
+    "aciklama": "bir serideki geçmiş değerlerin diğer seriyi tahmin etmede öncülük edip etmediğini sınamak.",
+    "yasakli_kelimeler": [
+      "öncülük",
+      "tahmin",
+      "yön",
+      "gecikme",
+      "sebep"
+    ],
+    "zorluk": "zor",
+    "id": 250
   }
 ]

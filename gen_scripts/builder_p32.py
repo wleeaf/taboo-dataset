@@ -1,0 +1,122 @@
+# -*- coding: utf-8 -*-
+from card_utils import add_and_save_verbs
+
+ofishayati_verbs = [
+    # Kolay (12)
+    {"kelime": "çalışmak", "aciklama": "ofiste bilgisayar başında mesai saatlerini geçirmek", "yasakli_kelimeler": ["mesai", "bilgisayar", "masa", "iş", "ofis"], "zorluk": "kolay"},
+    {"kelime": "toplantı yapmak", "aciklama": "ekip arkadaşlarıyla toplantı odasında bir araya gelip konuşmak", "yasakli_kelimeler": ["ekip", "oda", "görüşme", "konuşmak", "sunum"], "zorluk": "kolay"},
+    {"kelime": "yazdırmak", "aciklama": "yazıcıdan dokümanın kağıt çıktısını almak", "yasakli_kelimeler": ["yazıcı", "çıktı", "kağıt", "printer", "belge"], "zorluk": "kolay"},
+    {"kelime": "taratmak", "aciklama": "fiziksel faturayı veya evrakı tarayıcıyla bilgisayara aktarmak", "yasakli_kelimeler": ["tarayıcı", "scanner", "dijital", "evrak", "fatura"], "zorluk": "kolay"},
+    {"kelime": "e-posta atmak", "aciklama": "müşteriye veya iş arkadaşına elektronik posta göndermek", "yasakli_kelimeler": ["mail", "göndermek", "mesaj", "inbox", "elektronik"], "zorluk": "kolay"},
+    {"kelime": "telefonla konuşmak", "aciklama": "masa telefonu veya ceple iş görüşmesi yapmak", "yasakli_kelimeler": ["arama", "alo", "masa telefonu", "görüşme", "hat"], "zorluk": "kolay"},
+    {"kelime": "kahve molası vermek", "aciklama": "çalışmaya ara verip mutfakta kahve içmek", "yasakli_kelimeler": ["mola", "kahve", "mutfak", "ara", "dinlenmek"], "zorluk": "kolay"},
+    {"kelime": "imzalamak", "aciklama": "resmi sözleşmenin altına kalemle imza atmak", "yasakli_kelimeler": ["imza", "kalem", "sözleşme", "onay", "belge"], "zorluk": "kolay"},
+    {"kelime": "zımbalamak", "aciklama": "zımba teliyle kağıtları birbirine tutturmak", "yasakli_kelimeler": ["zımba", "tel", "kağıt", "tutturmak", "evrak"], "zorluk": "kolay"},
+    {"kelime": "dosyalamak", "aciklama": "evrakları klasörlere koyup dolaba kaldırmak", "yasakli_kelimeler": ["klasör", "dolap", "arşiv", "evrak", "kaldırmak"], "zorluk": "kolay"},
+    {"kelime": "istifa etmek", "aciklama": "kendi isteğiyle çalıştığı şirketten ve görevden ayrılmak", "yasakli_kelimeler": ["ayrılmak", "dilekçe", "bırakmak", "şirket", "işten"], "zorluk": "kolay"},
+    {"kelime": "terfi etmek", "aciklama": "başarılı çalışmalar sonucu şirkette daha üst pozisyona yükselmek", "yasakli_kelimeler": ["yükselmek", "makam", "pozisyon", "zam", "başarı"], "zorluk": "kolay"},
+
+    # Orta (24)
+    {"kelime": "sunum yapmak", "aciklama": "projeksiyon veya ekranda slaytlar eşliğinde projeyi anlatmak", "yasakli_kelimeler": ["slayt", "powerpoint", "projeksiyon", "anlatım", "ekran"], "zorluk": "orta"},
+    {"kelime": "excel tablosu hazırlamak", "aciklama": "hesap tablosunda formüller ve grafiklerle bütçe çıkarmak", "yasakli_kelimeler": ["excel", "formül", "hücre", "tablo", "grafik"], "zorluk": "orta"},
+    {"kelime": "mesaiye kalmak", "aciklama": "işleri yetiştirmek için akşam saatlerinde ofiste çalışmaya devam etmek", "yasakli_kelimeler": ["akşam", "fazla çalışma", "gece", "yetiştirmek", "ofis"], "zorluk": "orta"},
+    {"kelime": "izin istemek", "aciklama": "yıllık izin veya mazeret izni için yöneticiye talep açmak", "yasakli_kelimeler": ["yıllık izin", "mazeret", "talep", "yönetici", "tatil"], "zorluk": "orta"},
+    {"kelime": "raporlamak", "aciklama": "tamamlanan haftalık işleri ve verileri yöneticiye yazılı iletmek", "yasakli_kelimeler": ["yönetici", "haftalık", "yazılı", "veri", "rapor"], "zorluk": "orta"},
+    {"kelime": "kart basmak", "aciklama": "ofis girişindeki turnikeden geçerken personel kimlik kartını okutmak", "yasakli_kelimeler": ["turnike", "personel kartı", "giriş", "okutmak", "pdks"], "zorluk": "orta"},
+    {"kelime": "mülakat yapmak", "aciklama": "işe başvuran adayla insan kaynakları olarak yüz yüze görüşmek", "yasakli_kelimeler": ["iş görüşmesi", "insan kaynakları", "aday", "cv", "soru"], "zorluk": "orta"},
+    {"kelime": "bütçe onaylatmak", "aciklama": "departman harcamaları için finans müdüründen onay almak", "yasakli_kelimeler": ["finans", "onay", "harcama", "departman", "para"], "zorluk": "orta"},
+    {"kelime": "görev delege etmek", "aciklama": "yöneticinin iş yükünü ekibindeki uzmanlara paylaştırması", "yasakli_kelimeler": ["paylaştırma", "yetki devri", "ekip", "yönetici", "iş yükü"], "zorluk": "orta"},
+    {"kelime": "beyin fırtınası yapmak", "aciklama": "yeni proje için ekiple tahta başında serbest fikirler üretmek", "yasakli_kelimeler": ["fikir", "yaratıcı", "tahta", "ekip", "brainstorming"], "zorluk": "orta"},
+    {"kelime": "post-it yapıştırmak", "aciklama": "küçük yapışkanlı renkli not kağıtlarını monitör kenarına asmak", "yasakli_kelimeler": ["yapışkan not", "renkli", "monitör", "hatırlatıcı", "kağıt"], "zorluk": "orta"},
+    {"kelime": "delgeçle delmek", "aciklama": "kağıtları klasör teline geçirmek için kenarlarından iki delik açmak", "yasakli_kelimeler": ["delgeç", "delik", "klasör", "kağıt", "kenar"], "zorluk": "orta"},
+    {"kelime": "evrak imha etmek", "aciklama": "gizli şirket belgelerini kağıt öğütücü makineden geçirip kıymak", "yasakli_kelimeler": ["öğütücü", "imha makinesi", "gizli", "kıymak", "şerit"], "zorluk": "orta"},
+    {"kelime": "toplantı odası rezerve etmek", "aciklama": "takvim uygulaması üzerinden müsait salonu önceden ayırtmak", "yasakli_kelimeler": ["takvim", "ayırtmak", "oda", "outlook", "müsait"], "zorluk": "orta"},
+    {"kelime": "online toplantıya bağlanmak", "aciklama": "kulaklık ve kamerayla zoom veya teams üzerinden görüşmeye katılmak", "yasakli_kelimeler": ["zoom", "teams", "kamera", "kulaklık", "bağlantı"], "zorluk": "orta"},
+    {"kelime": "ekran paylaşmak", "aciklama": "görüntülü toplantıda kendi bilgisayar ekranını katılımcılara göstermek", "yasakli_kelimeler": ["görüntülü", "sunum", "ekran", "paylaşım", "göstermek"], "zorluk": "orta"},
+    {"kelime": "tutanak tutmak", "aciklama": "toplantıda konuşulan kararları ve maddeleri yazılı kayda geçirmek", "yasakli_kelimeler": ["not", "karar", "yazılı kayıt", "madde", "imza"], "zorluk": "orta"},
+    {"kelime": "kargo teslim almak", "aciklama": "danışmaya gelen resmi evrak veya koli paketini imzayla almak", "yasakli_kelimeler": ["danışma", "koli", "paket", "kurye", "teslimat"], "zorluk": "orta"},
+    {"kelime": "tarih kaşesi basmak", "aciklama": "gelen resmi evrakların üzerine günün tarihini içeren mühür vurmak", "yasakli_kelimeler": ["kaşe", "mühür", "mürekkep", "tarih", "basmak"], "zorluk": "orta"},
+    {"kelime": "performans değerlendirmek", "aciklama": "yıl sonunda çalışanın hedeflerini ve başarısını puanlamak", "yasakli_kelimeler": ["hedef", "yıl sonu", "puan", "prim", "başarı"], "zorluk": "orta"},
+    {"kelime": "avans çekmek", "aciklama": "maaş gününden önce muhasebeden erken ödeme talep etmek", "yasakli_kelimeler": ["muhasebe", "erken ödeme", "maaş", "talep", "para"], "zorluk": "orta"},
+    {"kelime": "masraf formu doldurmak", "aciklama": "iş seyahatindeki taksi ve yemek fişlerini şirketten tahsil etmek için yazmak", "yasakli_kelimeler": ["fiş", "fatura", "tahsilat", "harcama", "seyahat"], "zorluk": "orta"},
+    {"kelime": "plaza dili konuşmak", "aciklama": "türkçe cümleler arasına ingilizce iş terimleri serpiştirmek", "yasakli_kelimeler": ["ingilizce", "plaza", "toplantı", "terim", "fyi"], "zorluk": "orta"},
+    {"kelime": "tükenmişlik hissetmek", "aciklama": "yoğun ofis stresi ve aşırı iş yükü sebebiyle zihnen ve bedenen çökmek", "yasakli_kelimeler": ["burnout", "stres", "çöküş", "aşırı çalışma", "bıkkınlık"], "zorluk": "orta"},
+
+    # Zor (14)
+    {"kelime": "kpi belirlemek", "aciklama": "çalışanların ve departmanların temel performans gösterge hedeflerini koymak", "yasakli_kelimeler": ["hedef", "performans göstergesi", "metrik", "departman", "başarı kriteri"], "zorluk": "zor"},
+    {"kelime": "okr takip etmek", "aciklama": "şirketin çeyreklik hedefler ve anahtar sonuçlar tablosunu izlemek", "yasakli_kelimeler": ["hedef", "anahtar sonuç", "çeyrek", "strateji", "yöntem"], "zorluk": "zor"},
+    {"kelime": "scrum toplantısı yapmak", "aciklama": "çevik proje yönetiminde her sabah 15 dakikalık ayaküstü durum toplantısı", "yasakli_kelimeler": ["standup", "agile", "çevik", "günlük", "sprint"], "zorluk": "zor"},
+    {"kelime": "sprint planlamak", "aciklama": "yazılım veya proje ekibinin 2 haftalık teslim döngüsünü kurgulamak", "yasakli_kelimeler": ["döngü", "iki hafta", "iş listesi", "backlog", "teslimat"], "zorluk": "zor"},
+    {"kelime": "backlog eritmek", "aciklama": "birikmiş bekleyen görevler ve hata biletleri listesini tamamlamak", "yasakli_kelimeler": ["görev listesi", "jira", "bilet", "bekleyen", "tamamlama"], "zorluk": "zor"},
+    {"kelime": "paydaş yönetmek", "aciklama": "projedeki tüm iç ve dış ortakların beklenti ve ilişkilerini koordine etmek", "yasakli_kelimeler": ["stakeholder", "ortak", "beklenti", "koordinasyon", "iletişim"], "zorluk": "zor"},
+    {"kelime": "fizibilite çıkarmak", "aciklama": "yeni bir iş yatırımının karlılık ve uygulanabilirlik analizini yapmak", "yasakli_kelimeler": ["karlılık", "uygulanabilirlik", "yatırım", "maliyet", "analiz"], "zorluk": "zor"},
+    {"kelime": "swot analizi yapmak", "aciklama": "şirketin güçlü, zayıf yanlarını, fırsat ve tehditlerini tabloya dökmek", "yasakli_kelimeler": ["güçlü yön", "fırsat", "tehdit", "zayıflık", "strateji"], "zorluk": "zor"},
+    {"kelime": "nda imzalatmak", "aciklama": "üçüncü taraflarla ticari sırları koruyan gizlilik sözleşmesi bağlamak", "yasakli_kelimeler": ["gizlilik", "ticari sır", "sözleşme", "koruma", "imza"], "zorluk": "zor"},
+    {"kelime": "rotasyon uygulamak", "aciklama": "çalışanların farklı departmanlarda sırayla görev alıp deneyim kazanması", "yasakli_kelimeler": ["departman değişimi", "döngü", "görev", "deneyim", "ik"], "zorluk": "zor"},
+    {"kelime": "outsource etmek", "aciklama": "şirketin ana işi dışındaki temizlik veya yazılımı dış firmaya devretmesi", "yasakli_kelimeler": ["dış kaynak", "üçüncü parti", "taşeron", "hizmet alımı", "dışarı verme"], "zorluk": "zor"},
+    {"kelime": "onboarding yapmak", "aciklama": "şirkete yeni katılan çalışanı ekibe, süreçlere ve kültüre alıştırma programı", "yasakli_kelimeler": ["oryantasyon", "yeni çalışan", "alıştırma", "kültür", "süreç"], "zorluk": "zor"},
+    {"kelime": "offboarding yürütmek", "aciklama": "işten ayrılan personelin zimmet teslimi ve sistem erişimlerini kapatma süreci", "yasakli_kelimeler": ["çıkış süreci", "zimmet iadesi", "erişim kapatma", "istifa", "ayrılış"], "zorluk": "zor"},
+    {"kelime": "mobbing ile mücadele etmek", "aciklama": "ofisteki psikolojik taciz, dışlama ve sistematik baskıyı raporlayıp önlemek", "yasakli_kelimeler": ["psikolojik taciz", "baskı", "dışlama", "sistematik", "şikayet"], "zorluk": "zor"},
+]
+
+okulhayati_verbs = [
+    # Kolay (12)
+    {"kelime": "ders dinlemek", "aciklama": "sınıfta öğretmenin anlattığı konuya kulak verip odaklanmak", "yasakli_kelimeler": ["öğretmen", "sınıf", "konu", "kulak", "odaklanmak"], "zorluk": "kolay"},
+    {"kelime": "not almak", "aciklama": "tahtaya yazılan önemli bilgileri deftere geçirmek", "yasakli_kelimeler": ["defter", "kalem", "tahta", "yazmak", "bilgi"], "zorluk": "kolay"},
+    {"kelime": "ödev yapmak", "aciklama": "öğretmenin ev için verdiği alıştırmaları akşam tamamlamak", "yasakli_kelimeler": ["ev ödevi", "akşam", "çalışma", "alıştırma", "defter"], "zorluk": "kolay"},
+    {"kelime": "parmak kaldırmak", "aciklama": "derste soru sormak veya cevaplamak için elini havaya kaldırmak", "yasakli_kelimeler": ["el", "söz hakkı", "öğretmen", "cevap", "soru"], "zorluk": "kolay"},
+    {"kelime": "teneffüse çıkmak", "aciklama": "ders zili çalınca sınıftan çıkıp bahçede koşup oynamak", "yasakli_kelimeler": ["zil", "ara", "bahçe", "oyun", "sınıf"], "zorluk": "kolay"},
+    {"kelime": "sınava girmek", "aciklama": "sıraya oturup test veya klasik sınav kağıdını çözmek", "yasakli_kelimeler": ["kağıt", "test", "not", "soru", "puan"], "zorluk": "kolay"},
+    {"kelime": "kitap okumak", "aciklama": "ders kitabının sayfalarını çevirip metinleri okumak", "yasakli_kelimeler": ["sayfa", "metin", "ders kitabı", "okuma", "kütüphane"], "zorluk": "kolay"},
+    {"kelime": "kalem açmak", "aciklama": "ucu kırılan kurşun kalemi kalemtıraşla sivriltmek", "yasakli_kelimeler": ["kalemtıraş", "kurşun kalem", "uç", "çöp", "sivri"], "zorluk": "kolay"},
+    {"kelime": "silmek", "aciklama": "defterdeki hatalı yazıyı silgiyle yok etmek", "yasakli_kelimeler": ["silgi", "hata", "defter", "yazı", "temizlemek"], "zorluk": "kolay"},
+    {"kelime": "çanta hazırlamak", "aciklama": "ertesi günün ders programına göre kitap ve defterleri çantaya dizmek", "yasakli_kelimeler": ["sırt çantası", "kitap", "ders programı", "akşam", "yerleştirmek"], "zorluk": "kolay"},
+    {"kelime": "arkadaş edinmek", "aciklama": "sınıftaki diğer öğrencilerle tanışıp dostluk kurmak", "yasakli_kelimeler": ["dostluk", "tanışmak", "sıra arkadaşı", "oyun", "sınıf"], "zorluk": "kolay"},
+    {"kelime": "karne almak", "aciklama": "dönem sonunda ders notlarının yazılı olduğu belgeyi almak", "yasakli_kelimeler": ["dönem sonu", "not", "takdir", "teşekkür", "tatil"], "zorluk": "kolay"},
+
+    # Orta (24)
+    {"kelime": "tahtaya kalkmak", "aciklama": "öğretmenin çağırmasıyla tahta önünde problemi çözmek", "yasakli_kelimeler": ["tebeşir", "tahta kalemi", "öğretmen", "problem", "kürsü"], "zorluk": "orta"},
+    {"kelime": "kopya çekmek", "aciklama": "sınavda gizlice arkadaşının kağıdına veya avucundaki nota bakmak", "yasakli_kelimeler": ["gizlice", "yakalanmak", "arkadaş", "kağıt", "hile"], "zorluk": "orta"},
+    {"kelime": "yoklama almak", "aciklama": "öğretmenin sınıftaki öğrencilerin isimlerini tek tek okuyup kontrol etmesi", "yasakli_kelimeler": ["burada", "öğretmen", "liste", "devamsızlık", "isim"], "zorluk": "orta"},
+    {"kelime": "nöbetçi olmak", "aciklama": "okul koridorunda veya kapısında gün boyu görevli öğrenci olmak", "yasakli_kelimeler": ["koridor", "kapı", "görev", "kol bandı", "zil"], "zorluk": "orta"},
+    {"kelime": "sınıf başkanı seçilmek", "aciklama": "öğrencilerin oylarıyla sınıfın temsilcisi ve düzen sorumlusu olmak", "yasakli_kelimeler": ["oy", "seçim", "temsilci", "tahta", "düzen"], "zorluk": "orta"},
+    {"kelime": "kantinden alışveriş", "aciklama": "teneffüste tost ve ayran almak için sıraya girmek", "yasakli_kelimeler": ["tost", "ayran", "sıra", "para", "kantinci"], "zorluk": "orta"},
+    {"kelime": "derse geç kalmak", "aciklama": "zil çaldıktan sonra sınıfa girip öğretmenden özür dilemek", "yasakli_kelimeler": ["zil", "geç kağıdı", "müdür yardımcısı", "kapı", "özür"], "zorluk": "orta"},
+    {"kelime": "okuldan kaçmak", "aciklama": "ders saatinde gizlice okul bahçe duvarından atlayıp gitmek", "yasakli_kelimeler": ["duvar", "atlamak", "gizlice", "devamsızlık", "kırma"], "zorluk": "orta"},
+    {"kelime": "proje sunmak", "aciklama": "karton veya slaytla hazırlanan dönem ödevini sınıfa anlatmak", "yasakli_kelimeler": ["karton", "dönem ödevi", "sunum", "sınıf", "grup"], "zorluk": "orta"},
+    {"kelime": "disipline verilmek", "aciklama": "kural ihlali sonucu disiplin kuruluna sevk edilip uyarı almak", "yasakli_kelimeler": ["disiplin kurulu", "ceza", "uyarı", "müdür", "kınama"], "zorluk": "orta"},
+    {"kelime": "takdir belgesi almak", "aciklama": "dönem sonu not ortalaması 85 ve üstü olunca üstün başarı belgesi kazanmak", "yasakli_kelimeler": ["85 üstü", "başarı", "onur", "karne", "teşekkür"], "zorluk": "orta"},
+    {"kelime": "sözlüye kalkmak", "aciklama": "öğretmenin aniden soru sorarak sözlü notu vermesi", "yasakli_kelimeler": ["aniden", "sözlü notu", "soru", "öğretmen", "heyecan"], "zorluk": "orta"},
+    {"kelime": "istatistik çıkarmak", "aciklama": "sınav sonuçlarının sınıf ortalamasını ve başarı grafiğini hesaplamak", "yasakli_kelimeler": ["ortalama", "grafik", "çan eğrisi", "not", "başarı"], "zorluk": "orta"},
+    {"kelime": "beden dersinde oynamak", "aciklama": "eşofmanları giyip spor salonunda voleybol veya yakan top oynamak", "yasakli_kelimeler": ["eşofman", "spor salonu", "yakan top", "top", "koşmak"], "zorluk": "orta"},
+    {"kelime": "servise binmek", "aciklama": "sabah okul servis aracına binip okul yoluna koyulmak", "yasakli_kelimeler": ["okul taşıtı", "şoför", "hostes", "sabah", "yol"], "zorluk": "orta"},
+    {"kelime": "müdür odasına çağrılmak", "aciklama": "yaptığı bir yaramazlık veya duyuru için idareye gitmek", "yasakli_kelimeler": ["müdür", "idare", "yaramazlık", "çağrı", "korku"], "zorluk": "orta"},
+    {"kelime": "sıra karalamak", "aciklama": "ahşap okul sırasının üstüne kalemle yazı veya resim çizmek", "yasakli_kelimeler": ["ahşap", "çizim", "kalem", "yazı", "sıra"], "zorluk": "orta"},
+    {"kelime": "veli toplantısı olmak", "aciklama": "hafta sonu anne babaların okula gelip öğretmenle görüşmesi", "yasakli_kelimeler": ["anne baba", "öğretmen", "görüşme", "not durumu", "hafta sonu"], "zorluk": "orta"},
+    {"kelime": "kütüphanede çalışmak", "aciklama": "sessiz okul kütüphanesinde ansiklopedilerden kaynak araştırmak", "yasakli_kelimeler": ["sessizlik", "ansiklopedi", "araştırma", "masalar", "kitap"], "zorluk": "orta"},
+    {"kelime": "tören yapmak", "aciklama": "pazartesi sabahı okul bahçesinde istiklal marşı için sıraya geçmek", "yasakli_kelimeler": ["istiklal marşı", "bayrak", "pazartesi", "bahçe", "sıra"], "zorluk": "orta"},
+    {"kelime": "resim sergisi açmak", "aciklama": "görsel sanatlar dersinde yapılan tabloları koridorda sergilemek", "yasakli_kelimeler": ["görsel sanatlar", "tuval", "koridor", "pano", "resim"], "zorluk": "orta"},
+    {"kelime": "müzik korosuna katılmak", "aciklama": "özel günlerde şarkı söylemek için okul korosunda prova yapmak", "yasakli_kelimeler": ["koro", "şarkı", "prova", "özel gün", "flüt"], "zorluk": "orta"},
+    {"kelime": "deney yapmak", "aciklama": "fen laboratuvarında önlük giyip tüplerle kimyasal reaksiyon izlemek", "yasakli_kelimeler": ["laboratuvar", "fen", "tüp", "önlük", "kimya"], "zorluk": "orta"},
+    {"kelime": "sınıf geçmek", "aciklama": "yıl sonu notlarıyla bir üst eğitim kademesine veya sınıfa yükselmek", "yasakli_kelimeler": ["üst sınıf", "başarı", "kaldı geçti", "yıl sonu", "terfi"], "zorluk": "orta"},
+
+    # Zor (14)
+    {"kelime": "müfredatı yetiştirmek", "aciklama": "milli eğitim bakanlığı yıllık ders kazanım planını zamanında tamamlamak", "yasakli_kelimeler": ["meb", "kazanım", "yıllık plan", "zaman", "konu"], "zorluk": "zor"},
+    {"kelime": "pedagojik yaklaşmak", "aciklama": "öğrencinin yaş ve psikolojik gelişim evresine uygun eğitim yöntemi izlemek", "yasakli_kelimeler": ["pedagoji", "gelişim evresi", "yöntem", "öğrenci psikolojisi", "eğitim"], "zorluk": "zor"},
+    {"kelime": "zümre toplantısı yapmak", "aciklama": "aynı branş öğretmenlerinin bir araya gelip sınav ve ders ortak kararları alması", "yasakli_kelimeler": ["branş", "öğretmenler", "ortak sınav", "karar", "tutanak"], "zorluk": "zor"},
+    {"kelime": "kaynaştırma öğrencisi almak", "aciklama": "özel eğitim ihtiyacı olan öğrenciyi akranlarıyla aynı sınıfa entegre etmek", "yasakli_kelimeler": ["özel eğitim", "bep", "entegrasyon", "akran", "farklılık"], "zorluk": "zor"},
+    {"kelime": "bep hazırlamak", "aciklama": "öğrenci için bireyselleştirilmiş eğitim programı hedefleri ve kazanımları yazmak", "yasakli_kelimeler": ["bireyselleştirilmiş", "özel eğitim", "kazanım", "plan", "hedef"], "zorluk": "zor"},
+    {"kelime": "ram raporu çıkarmak", "aciklama": "rehberlik ve araştırma merkezinden öğrencinin zeka ve yetenek tanısını almak", "yasakli_kelimeler": ["rehberlik", "araştırma merkezi", "tanı", "değerlendirme", "rapor"], "zorluk": "zor"},
+    {"kelime": "akran zorbalığını önlemek", "aciklama": "öğrenciler arasındaki fiziksel ve psikolojik şiddet davranışlarını engellemek", "yasakli_kelimeler": ["zorbalık", "şiddet", "dışlama", "psikolojik", "müdahale"], "zorluk": "zor"},
+    {"kelime": "çan eğrisi uygulamak", "aciklama": "sınav geçme notunu sınıfın genel ortalaması ve standart sapmasına göre belirlemek", "yasakli_kelimeler": ["standart sapma", "ortalama", "bağıl değerlendirme", "eğri", "not"], "zorluk": "zor"},
+    {"kelime": "formatörlük yapmak", "aciklama": "okuldaki akıllı tahtalar ve bilişim altyapısının teknik rehberliğini yürütmek", "yasakli_kelimeler": ["bilişim", "akıllı tahta", "fatih projesi", "teknik rehber", "eğitim"], "zorluk": "zor"},
+    {"kelime": "e-okul sistemine girmek", "aciklama": "öğrencilerin sınav, devamsızlık ve sözlü puanlarını merkezi yazılıma işlemek", "yasakli_kelimeler": ["mebbis", "not girişi", "devamsızlık", "merkezi sistem", "yazılım"], "zorluk": "zor"},
+    {"kelime": "tübitak projesi yürütmek", "aciklama": "bilim fuarında sergilenmek üzere danışman öğretmenle araştırma deneyi yapmak", "yasakli_kelimeler": ["4006", "bilim fuarı", "araştırma", "danışman", "sergi"], "zorluk": "zor"},
+    {"kelime": "stem eğitimi uygulamak", "aciklama": "fen, teknoloji, mühendislik ve matematiği disiplinler arası projede birleştirmek", "yasakli_kelimeler": ["fen teknoloji", "mühendislik", "matematik", "disiplinler arası", "robotik"], "zorluk": "zor"},
+    {"kelime": "akreditasyon almak", "aciklama": "okulun uluslararası eğitim standartlarına ve kalitesine uygunluğunu belgelemek", "yasakli_kelimeler": ["uluslararası", "ib", "standart", "kalite", "onay"], "zorluk": "zor"},
+    {"kelime": "oryantasyon düzenlemek", "aciklama": "okula yeni başlayan 1. sınıf veya lise hazırlık öğrencilerine okulu tanıtmak", "yasakli_kelimeler": ["uyum haftası", "tanıtım", "yeni başlayan", "1. sınıf", "rehberlik"], "zorluk": "zor"}
+]
+
+if __name__ == "__main__":
+    add_and_save_verbs("ofishayati", ofishayati_verbs)
+    add_and_save_verbs("okulhayati", okulhayati_verbs)

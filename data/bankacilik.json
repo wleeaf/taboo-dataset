@@ -1398,5 +1398,2105 @@
       "teşvik"
     ],
     "zorluk": "kolay"
+  },
+  {
+    "id": 101,
+    "kategori": "bankacilik",
+    "kelime": "banka kartı",
+    "aciklama": "vadesiz mevduat hesabına bağlı olarak alışveriş yapma ve atm'den para çekme olanağı veren kart.",
+    "yasakli_kelimeler": [
+      "debit",
+      "hesap",
+      "para çekme",
+      "atm",
+      "alışveriş"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 102,
+    "kategori": "bankacilik",
+    "kelime": "kredi kartı",
+    "aciklama": "bankanın tahsis ettiği limit dahilinde borçlanarak mal ve hizmet alımı sağlayan ödeme aracı.",
+    "yasakli_kelimeler": [
+      "limit",
+      "taksit",
+      "ekstre",
+      "borç",
+      "plastik"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 103,
+    "kategori": "bankacilik",
+    "kelime": "bankamatik",
+    "aciklama": "gün boyu kesintisiz para çekme, yatırma ve bakiye sorgulama işlemi yapılabilen otomatik cihaz.",
+    "yasakli_kelimeler": [
+      "atm",
+      "para çekme",
+      "cihaz",
+      "nakit",
+      "kart"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 104,
+    "kategori": "bankacilik",
+    "kelime": "internet bankacılığı",
+    "aciklama": "bankacılık işlemlerinin internet tarayıcısı üzerinden çevrimiçi olarak gerçekleştirildiği dijital kanal.",
+    "yasakli_kelimeler": [
+      "çevrimiçi",
+      "web",
+      "tarayıcı",
+      "dijital",
+      "şube"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 105,
+    "kategori": "bankacilik",
+    "kelime": "mobil bankacılık",
+    "aciklama": "akıllı telefonlara yüklenen uygulamalar aracılığıyla her an işlem yapmayı sağlayan bankacılık hizmeti.",
+    "yasakli_kelimeler": [
+      "uygulama",
+      "akıllı telefon",
+      "mobil",
+      "cep",
+      "işlem"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 106,
+    "kategori": "bankacilik",
+    "kelime": "şube",
+    "aciklama": "bankaların müşterilerine yüz yüze fiziksel hizmet sunduğu ve operasyonları yürüttüğü yerel hizmet birimi.",
+    "yasakli_kelimeler": [
+      "fiziksel",
+      "bina",
+      "ofis",
+      "müşteri",
+      "yerel"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 107,
+    "kategori": "bankacilik",
+    "kelime": "gişe",
+    "aciklama": "şubelerde nakit yatırma, çekme ve fatura ödeme gibi rutin işlemlerin yapıldığı vezne tezgahı.",
+    "yasakli_kelimeler": [
+      "vezne",
+      "sıra",
+      "nakit",
+      "memur",
+      "şube"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 108,
+    "kategori": "bankacilik",
+    "kelime": "müşteri temsilcisi",
+    "aciklama": "bireysel veya kurumsal müşterilerin kredi, mevduat ve yatırım ihtiyaçlarını yöneten uzman bankacı.",
+    "yasakli_kelimeler": [
+      "temsilci",
+      "portföy",
+      "danışman",
+      "görüşme",
+      "uzman"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 109,
+    "kategori": "bankacilik",
+    "kelime": "çağrı merkezi",
+    "aciklama": "müşterilerin telefonla arayarak uzaktan bilgi aldığı ve işlem yaptırdığı merkezi destek birimi.",
+    "yasakli_kelimeler": [
+      "telefon",
+      "müşteri hizmetleri",
+      "sesli yanıt",
+      "destek",
+      "santral"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 110,
+    "kategori": "bankacilik",
+    "kelime": "hesap cüzdanı",
+    "aciklama": "mevduat hesabındaki para giriş çıkışlarını ve mevcut bakiyeyi yazılı olarak gösteren basılı defter.",
+    "yasakli_kelimeler": [
+      "defter",
+      "bakiye",
+      "yazılı",
+      "basılı",
+      "hesap"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 111,
+    "kategori": "bankacilik",
+    "kelime": "hesap özeti",
+    "aciklama": "belirli bir dönem içinde hesapta veya kartta yapılan tüm harcama ve ödemeleri listeleyen rapor.",
+    "yasakli_kelimeler": [
+      "ekstre",
+      "rapor",
+      "harcama",
+      "dönem",
+      "borç"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 112,
+    "kategori": "bankacilik",
+    "kelime": "dekont",
+    "aciklama": "banka tarafından yapılan para transferi veya ödeme işlemini kanıtlayan resmi işlem makbuzu.",
+    "yasakli_kelimeler": [
+      "makbuz",
+      "belge",
+      "kanıt",
+      "işlem",
+      "fiş"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 113,
+    "kategori": "bankacilik",
+    "kelime": "ekstre",
+    "aciklama": "kredi kartı borcunu, asgari ödeme tutarını ve son ödeme tarihini bildiren aylık hesap dökümü.",
+    "yasakli_kelimeler": [
+      "kredi kartı",
+      "borç",
+      "son ödeme",
+      "asgari",
+      "aylık"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 114,
+    "kategori": "bankacilik",
+    "kelime": "hesap numarası",
+    "aciklama": "bankadaki her bir müşteri hesabına tahsis edilen ve işlemlerde hesabı belirleyen benzersiz sayı dizisi.",
+    "yasakli_kelimeler": [
+      "numara",
+      "iban",
+      "tanım",
+      "şube kodu",
+      "belirteç"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 115,
+    "kategori": "bankacilik",
+    "kelime": "bakiye",
+    "aciklama": "bir hesapta para çekme ve yatırma işlemleri sonucunda kalan net kullanılabilir nakit miktarı.",
+    "yasakli_kelimeler": [
+      "kalan",
+      "mevcut para",
+      "tutar",
+      "hesap",
+      "nakit"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 116,
+    "kategori": "bankacilik",
+    "kelime": "bloke",
+    "aciklama": "yasal bir gerekçeyle veya güvenlik nedeniyle hesaptaki paranın kullanımının geçici olarak durdurulması.",
+    "yasakli_kelimeler": [
+      "durdurma",
+      "haciz",
+      "kısıtlama",
+      "dondurma",
+      "güvenlik"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 117,
+    "kategori": "bankacilik",
+    "kelime": "temassız ödeme",
+    "aciklama": "kartı pos cihazına yaklaştırarak şifre girmeden hızlı alışveriş yapmayı sağlayan radyo dalgalı teknoloji.",
+    "yasakli_kelimeler": [
+      "yaklaştırma",
+      "şifresiz",
+      "nfc",
+      "hızlı",
+      "pos"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 118,
+    "kategori": "bankacilik",
+    "kelime": "sanal kart",
+    "aciklama": "fiziksel baskısı olmayıp yalnızca internet alışverişlerinde güvenliği artırmak için üretilen dijital kart.",
+    "yasakli_kelimeler": [
+      "fiziksel olmayan",
+      "internet alışverişi",
+      "dijital",
+      "güvenlik",
+      "numara"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 119,
+    "kategori": "bankacilik",
+    "kelime": "ek kart",
+    "aciklama": "asıl kredi kartı sahibinin limitini paylaşarak aile bireylerinin kullanımına sunulan ikincil kart.",
+    "yasakli_kelimeler": [
+      "asıl kart",
+      "aile",
+      "ikincil",
+      "limit paylaşımı",
+      "bağlı"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 120,
+    "kategori": "bankacilik",
+    "kelime": "ortak hesap",
+    "aciklama": "birden fazla kişinin birlikte veya ayrı ayrı tasarruf ve işlem yapabildiği çok sahipli banka hesabı.",
+    "yasakli_kelimeler": [
+      "birden fazla",
+      "müşterek",
+      "birlikte",
+      "imza",
+      "hesap"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 121,
+    "kategori": "bankacilik",
+    "kelime": "ihtiyaç kredisi",
+    "aciklama": "bireylerin evlilik, tatil, eğitim gibi çeşitli kişisel giderlerini karşılamak için çektiği tüketici kredisi.",
+    "yasakli_kelimeler": [
+      "kişisel",
+      "nakit",
+      "tüketici",
+      "harcama",
+      "taksit"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 122,
+    "kategori": "bankacilik",
+    "kelime": "ticari kredi",
+    "aciklama": "şirketlerin işletme sermayesi ihtiyacını veya yatırımlarını finanse etmek amacıyla kullandığı kredi.",
+    "yasakli_kelimeler": [
+      "şirket",
+      "işletme",
+      "kurumsal",
+      "finansman",
+      "sermaye"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 123,
+    "kategori": "bankacilik",
+    "kelime": "kefil",
+    "aciklama": "borçlunun borcunu zamanında ödememesi halinde borcun tamamını ödemeyi taahhüt eden üçüncü kişi.",
+    "yasakli_kelimeler": [
+      "taahhüt",
+      "garanti",
+      "borçlu",
+      "imza",
+      "üçüncü kişi"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 124,
+    "kategori": "bankacilik",
+    "kelime": "teminat",
+    "aciklama": "kredinin geri ödenmemesi riskine karşı bankaya güvence olarak gösterilen gayrimenkul veya değerli varlık.",
+    "yasakli_kelimeler": [
+      "güvence",
+      "rehin",
+      "ipotek",
+      "risk",
+      "varlık"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 125,
+    "kategori": "bankacilik",
+    "kelime": "rehin",
+    "aciklama": "bir borcun güvencesi olarak taşınır bir malın mülkiyetinin veya zilyetliğinin alacaklıya bırakılması işlemi.",
+    "yasakli_kelimeler": [
+      "taşınır",
+      "güvence",
+      "mal",
+      "hapis",
+      "alacaklı"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 126,
+    "kategori": "bankacilik",
+    "kelime": "ipotekli kredi",
+    "aciklama": "kullanılan kredinin teminatı olarak gayrimenkul üzerine tapuda resmi şerh konularak verilen finansman.",
+    "yasakli_kelimeler": [
+      "tapu",
+      "gayrimenkul",
+      "ev",
+      "şerh",
+      "teminat"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 127,
+    "kategori": "bankacilik",
+    "kelime": "ödeme planı",
+    "aciklama": "kredinin vade boyunca hangi tarihte ne kadar ana para ve faiz ödeneceğini gösteren ayrıntılı tablo.",
+    "yasakli_kelimeler": [
+      "tablo",
+      "taksit listesi",
+      "vade",
+      "tarih",
+      "itfa"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 128,
+    "kategori": "bankacilik",
+    "kelime": "taksit",
+    "aciklama": "toplam borcun belirli zaman aralıklarıyla bölünerek parça parça ödenen her bir payı.",
+    "yasakli_kelimeler": [
+      "aylık",
+      "bölünmüş",
+      "ödeme",
+      "parça",
+      "vade"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 129,
+    "kategori": "bankacilik",
+    "kelime": "ana para",
+    "aciklama": "faiz, vergi ve masraflar hariç tutularak borç alınan veya mevduata yatırılan asıl sermaye tutarı.",
+    "yasakli_kelimeler": [
+      "asıl tutar",
+      "faizsiz",
+      "sermaye",
+      "başlangıç",
+      "net borç"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 130,
+    "kategori": "bankacilik",
+    "kelime": "faiz oranı",
+    "aciklama": "paranın kullanımı veya borç verilmesi karşılığında ana paranın yüzdesi olarak hesaplanan getiri oranı.",
+    "yasakli_kelimeler": [
+      "yüzde",
+      "getiri",
+      "maliyet",
+      "oran",
+      "nemalandırma"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 131,
+    "kategori": "bankacilik",
+    "kelime": "bileşik faiz",
+    "aciklama": "her dönem elde edilen faiz tutarının ana paraya eklenerek bir sonraki dönemin faizine dahil edilmesi yöntemi.",
+    "yasakli_kelimeler": [
+      "faizin faizi",
+      "ana para ekleme",
+      "katlanarak",
+      "dönem",
+      "getiri"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 132,
+    "kategori": "bankacilik",
+    "kelime": "basit faiz",
+    "aciklama": "yalnızca başlangıçtaki ana para üzerinden belirli bir süre için hesaplanan standart faiz getirisi.",
+    "yasakli_kelimeler": [
+      "sabit ana para",
+      "standart",
+      "katlanmayan",
+      "getiri",
+      "hesaplama"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 133,
+    "kategori": "bankacilik",
+    "kelime": "sabit faiz",
+    "aciklama": "kredi veya mevduat vadesi süresince piyasa şartları ne olursa olsun değişmeyen garanti oran.",
+    "yasakli_kelimeler": [
+      "değişmeyen",
+      "garanti",
+      "vade sonuna kadar",
+      "oran",
+      "piyasa"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 134,
+    "kategori": "bankacilik",
+    "kelime": "değişken faiz",
+    "aciklama": "piyasadaki gösterge faizlere veya enflasyon oranlarına endeksli olarak dönem dönem güncellenen oran.",
+    "yasakli_kelimeler": [
+      "güncellenen",
+      "endeksli",
+      "dalgalı",
+      "piyasa",
+      "enflasyon"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 135,
+    "kategori": "bankacilik",
+    "kelime": "borç yapılandırma",
+    "aciklama": "ödeme güçlüğü çeken müşterinin borç vadelerinin uzatılıp taksit tutarlarının yeniden düzenlenmesi.",
+    "yasakli_kelimeler": [
+      "vade uzatma",
+      "yeniden düzenleme",
+      "taksit küçültme",
+      "ödeme güçlüğü",
+      "anlaşma"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 136,
+    "kategori": "bankacilik",
+    "kelime": "erken kapama",
+    "aciklama": "kredi borcunun vadesi gelmeden önce kalan ana para tutarının tek seferde ödenerek kapatılması.",
+    "yasakli_kelimeler": [
+      "vadeden önce",
+      "kapatma",
+      "tek seferde",
+      "faiz indirimi",
+      "borç bitirme"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 137,
+    "kategori": "bankacilik",
+    "kelime": "kredi limiti",
+    "aciklama": "bankanın bir müşterisine açtığı ve harcanabilecek veya borçlanılabilecek en yüksek toplam para sınırı.",
+    "yasakli_kelimeler": [
+      "üst sınır",
+      "maksimum",
+      "harcama sınırı",
+      "tahsis",
+      "kapasite"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 138,
+    "kategori": "bankacilik",
+    "kelime": "nakit avans",
+    "aciklama": "kredi kartının nakit çekim limitinden atm aracılığıyla acil nakit ihtiyacı için para çekme işlemi.",
+    "yasakli_kelimeler": [
+      "kredi kartından nakit",
+      "acil para",
+      "çekim",
+      "faizli çekim",
+      "atm"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 139,
+    "kategori": "bankacilik",
+    "kelime": "taksitli avans",
+    "aciklama": "kredi kartından çekilen nakit paranın belirli vadelerde eşit taksitler halinde geri ödenmesi imkanı.",
+    "yasakli_kelimeler": [
+      "bölünmüş nakit",
+      "karttan kredi",
+      "taksitli çekim",
+      "geri ödeme",
+      "vade"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 140,
+    "kategori": "bankacilik",
+    "kelime": "limit artışı",
+    "aciklama": "müşterinin gelir artışı veya düzenli ödemeleri neticesinde kart veya kredi sınırının yükseltilmesi.",
+    "yasakli_kelimeler": [
+      "yükseltme",
+      "gelir beyanı",
+      "üst sınır",
+      "kart limiti",
+      "artırma"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 141,
+    "kategori": "bankacilik",
+    "kelime": "otomatik ödeme",
+    "aciklama": "elektrik, su gibi düzenli faturaların son ödeme gününde hesaptan otomatik tahsil edilmesi talimatı.",
+    "yasakli_kelimeler": [
+      "fatura",
+      "talimat",
+      "kendiliğinden",
+      "son gün",
+      "kesinti"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 142,
+    "kategori": "bankacilik",
+    "kelime": "düzenli transfer",
+    "aciklama": "kira veya aidat gibi periyodik ödemeler için belirli günlerde başka bir hesaba para aktarılması talimatı.",
+    "yasakli_kelimeler": [
+      "kira",
+      "aidat",
+      "periyodik",
+      "talimat",
+      "aktarma"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 143,
+    "kategori": "bankacilik",
+    "kelime": "virman",
+    "aciklama": "aynı kişinin aynı bankadaki farklı hesapları arasında gerçekleştirdiği para transferi işlemi.",
+    "yasakli_kelimeler": [
+      "aynı banka",
+      "kendi hesapları",
+      "transfer",
+      "aktarım",
+      "iç aktarım"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 144,
+    "kategori": "bankacilik",
+    "kelime": "hızlı transfer",
+    "aciklama": "farklı bankalar arasında yedi gün yirmi dört saat boyunca anlık ve saniyeler içinde para gönderme sistemi.",
+    "yasakli_kelimeler": [
+      "anlık",
+      "yedi yirmi dört",
+      "saniyeler",
+      "fast",
+      "gece gündüz"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 145,
+    "kategori": "bankacilik",
+    "kelime": "karekodla ödeme",
+    "aciklama": "mobil uygulamadan kamera ile optik kodu taratarak temassız ve kartsız ödeme yapma yöntemi.",
+    "yasakli_kelimeler": [
+      "qr kod",
+      "kamera",
+      "tarama",
+      "kartsız",
+      "mobil ödeme"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 146,
+    "kategori": "bankacilik",
+    "kelime": "ödeme emri",
+    "aciklama": "hesap sahibinin belirli bir tutarın belirli bir alıcıya aktarılması için bankaya verdiği yazılı talimat.",
+    "yasakli_kelimeler": [
+      "talimat",
+      "yazılı",
+      "alıcı",
+      "aktarım emri",
+      "banka"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 147,
+    "kategori": "bankacilik",
+    "kelime": "poliçe",
+    "aciklama": "keşidecinin muhataba belirli bir parayı lehtara ödemesini emrettiği üç taraflı kıymetli evrak.",
+    "yasakli_kelimeler": [
+      "üç taraflı",
+      "kıymetli evrak",
+      "keşideci",
+      "lehtar",
+      "kambiyo"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 148,
+    "kategori": "bankacilik",
+    "kelime": "bono",
+    "aciklama": "borçlunun alacaklıya belirli bir parayı belirli bir vadede kayıtsız şartsız ödeyeceğini belirten senet.",
+    "yasakli_kelimeler": [
+      "emre muharrer",
+      "senet",
+      "vade",
+      "borç belgesi",
+      "alacaklı"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 149,
+    "kategori": "bankacilik",
+    "kelime": "senet",
+    "aciklama": "bir borcun varlığını ve ödeme taahhüdünü ispatlayan imzalı resmi ticari borç belgesi.",
+    "yasakli_kelimeler": [
+      "borç belgesi",
+      "imza",
+      "vade",
+      "alacak",
+      "tahsilat"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 150,
+    "kategori": "bankacilik",
+    "kelime": "çek karnesi",
+    "aciklama": "bankanın güvenilir müşterisine verdiği ve her bir yaprağı ödeme aracı olarak kullanılan çek koçanı.",
+    "yasakli_kelimeler": [
+      "koçan",
+      "yaprak",
+      "ödeme aracı",
+      "keşide",
+      "defter"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 151,
+    "kategori": "bankacilik",
+    "kelime": "bloke çek",
+    "aciklama": "bankanın bedelini keşidecinin hesabından önceden ayırıp güvence altına aldığı ve karşılığı kesin olan çek.",
+    "yasakli_kelimeler": [
+      "karşılığı kesin",
+      "güvenceli",
+      "ayrılmış para",
+      "güvenli çek",
+      "ödemesi garanti"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 152,
+    "kategori": "bankacilik",
+    "kelime": "keşideci",
+    "aciklama": "bir çeki veya poliçeyi imzalayarak tedavüle çıkaran ve ödeme taahhüdünde bulunan kişi.",
+    "yasakli_kelimeler": [
+      "çek yazan",
+      "imzalayan",
+      "tedavül",
+      "borçlu",
+      "düzenleyen"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 153,
+    "kategori": "bankacilik",
+    "kelime": "hamil",
+    "aciklama": "kıymetli evrakı yasal yollarla elinde bulunduran ve bedelini tahsil etme hakkına sahip olan kişi.",
+    "yasakli_kelimeler": [
+      "elde tutan",
+      "tahsil eden",
+      "hak sahibi",
+      "evrak sahibi",
+      "taşıyıcı"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 154,
+    "kategori": "bankacilik",
+    "kelime": "lehtar",
+    "aciklama": "çek, poliçe veya havalede kendi lehine ödeme yapılacak olan ve ismi evrakta yazılı yararlanıcı.",
+    "yasakli_kelimeler": [
+      "alacaklı",
+      "yararlanıcı",
+      "isim yazan",
+      "ödeme yapılacak",
+      "lehine"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 155,
+    "kategori": "bankacilik",
+    "kelime": "muhatap",
+    "aciklama": "çek veya poliçede parayı ödemekle yükümlü kılınan ve çeki elinde bulundurana ödeme yapan banka.",
+    "yasakli_kelimeler": [
+      "ödeyecek banka",
+      "yükümlü",
+      "adres gösterilen",
+      "kurum",
+      "çek bankası"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 156,
+    "kategori": "bankacilik",
+    "kelime": "çek yaprağı",
+    "aciklama": "çek karnesinden yırtılarak doldurulan, üzerinde tutar, imza ve tarih bulunan tekil çek parçası.",
+    "yasakli_kelimeler": [
+      "tekil yaprak",
+      "yırtılan",
+      "tutar yazılan",
+      "imzalı kağıt",
+      "çek sayfası"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 157,
+    "kategori": "bankacilik",
+    "kelime": "takas odası",
+    "aciklama": "bankaların müşterilerinden aldıkları çekleri birbirleriyle mahsup edip netleştirdikleri resmi merkez.",
+    "yasakli_kelimeler": [
+      "mahsup",
+      "çek takası",
+      "netleştirme",
+      "merkez",
+      "karşılaştırma"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 158,
+    "kategori": "bankacilik",
+    "kelime": "tahsilat",
+    "aciklama": "vadesi gelmiş bir alacağın, faturanın veya çekin bedelinin borçludan nakit ya da hesaben alınması.",
+    "yasakli_kelimeler": [
+      "toplama",
+      "para alma",
+      "tahsil",
+      "alacak alma",
+      "ödeme alma"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 159,
+    "kategori": "bankacilik",
+    "kelime": "komisyon",
+    "aciklama": "bankanın sunduğu aracılık, para transferi veya kredi hizmetleri karşılığında aldığı yüzdelik ücret.",
+    "yasakli_kelimeler": [
+      "ücret",
+      "kesinti",
+      "aracılık payı",
+      "yüzde",
+      "hizmet bedeli"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 160,
+    "kategori": "bankacilik",
+    "kelime": "işlem ücreti",
+    "aciklama": "havale, eft veya kart yenileme gibi tek seferlik bankacılık işlemlerinde tahsil edilen sabit masraf.",
+    "yasakli_kelimeler": [
+      "masraf",
+      "sabit bedel",
+      "kesinti",
+      "ücret",
+      "tarife"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 161,
+    "kategori": "bankacilik",
+    "kelime": "mevduat sertifikası",
+    "aciklama": "bankaya belirli bir süre için yatırılan parayı belgeleyen ve piyasada el değiştirebilen kıymetli evrak.",
+    "yasakli_kelimeler": [
+      "sertifika",
+      "vadeli belge",
+      "devredilebilir",
+      "faizli kağıt",
+      "tasarruf"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 162,
+    "kategori": "bankacilik",
+    "kelime": "hazine bonosu",
+    "aciklama": "devletin kısa vadeli fon ihtiyacını karşılamak için çıkardığı bir yıldan kısa vadeli borçlanma senedi.",
+    "yasakli_kelimeler": [
+      "devlet",
+      "kısa vade",
+      "borçlanma",
+      "iskontolu",
+      "hazine"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 163,
+    "kategori": "bankacilik",
+    "kelime": "devlet tahvili",
+    "aciklama": "hazine tarafından bütçe açıklarını finanse etmek için ihraç edilen bir yıldan uzun vadeli borç kağıdı.",
+    "yasakli_kelimeler": [
+      "uzun vade",
+      "hazine",
+      "kupon",
+      "ihraç",
+      "devlet borcu"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 164,
+    "kategori": "bankacilik",
+    "kelime": "eurobond",
+    "aciklama": "devletlerin veya şirketlerin kendi ülkeleri dışında yabancı para birimleri cinsinden ihraç ettiği tahvil.",
+    "yasakli_kelimeler": [
+      "dövizli tahvil",
+      "yurtdışı",
+      "dolar tahvili",
+      "uluslararası",
+      "ihraç"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 165,
+    "kategori": "bankacilik",
+    "kelime": "yatırım fonu",
+    "aciklama": "küçük tasarruf sahiplerinin paralarını bir havuzda toplayarak hisse, bono ve altın gibi varlıklara yatıran portföy.",
+    "yasakli_kelimeler": [
+      "portföy",
+      "havuz",
+      "katılma payı",
+      "uzman yönetim",
+      "tasarruf"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 166,
+    "kategori": "bankacilik",
+    "kelime": "hisse senedi",
+    "aciklama": "bir şirketin anaparasının eşdeğer parçalarından birini temsil eden ve ortaklık hakkı veren kıymetli evrak.",
+    "yasakli_kelimeler": [
+      "şirket ortaklığı",
+      "borsa",
+      "pay",
+      "temettü",
+      "senet"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 167,
+    "kategori": "bankacilik",
+    "kelime": "döviz kuru",
+    "aciklama": "ulusal para biriminin yabancı bir para birimi karşısındaki alım ve satım değişim fiyatı.",
+    "yasakli_kelimeler": [
+      "kur",
+      "dolar fiyatı",
+      "fiyat",
+      "parite",
+      "yabancı para"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 168,
+    "kategori": "bankacilik",
+    "kelime": "arbitraj",
+    "aciklama": "aynı menkul kıymeti veya dövizi farklı piyasalardaki fiyat farkından risksiz kar etmek amacıyla eşzamanlı alıp satma.",
+    "yasakli_kelimeler": [
+      "fiyat farkı",
+      "risksiz kar",
+      "iki piyasa",
+      "eşzamanlı",
+      "alım satım"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 169,
+    "kategori": "bankacilik",
+    "kelime": "döviz bürosu",
+    "aciklama": "farklı ülke para birimlerinin nakit olarak alınıp satıldığı yetkili serbest kambiyo işletmesi.",
+    "yasakli_kelimeler": [
+      "nakit döviz",
+      "bozdurma",
+      "kambiyo",
+      "para değişimi",
+      "dolar euro"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 170,
+    "kategori": "bankacilik",
+    "kelime": "kur riski",
+    "aciklama": "döviz kurlarındaki beklenmeyen dalgalanmalar nedeniyle bankanın veya şirketin zarara uğrama olasılığı.",
+    "yasakli_kelimeler": [
+      "dalgalanma",
+      "döviz zararı",
+      "kambiyo zararı",
+      "kur artışı",
+      "risk"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 171,
+    "kategori": "bankacilik",
+    "kelime": "çapraz kur",
+    "aciklama": "aralarında ulusal para birimi bulunmayan iki yabancı paranın birbiri cinsinden değeri ve oranı.",
+    "yasakli_kelimeler": [
+      "iki yabancı para",
+      "euro dolar",
+      "parite",
+      "oran",
+      "döviz"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 172,
+    "kategori": "bankacilik",
+    "kelime": "vadeli işlem",
+    "aciklama": "bugünden belirlenen bir fiyatla gelecekteki belirli bir tarihte teslim edilmek üzere yapılan alım satım sözleşmesi.",
+    "yasakli_kelimeler": [
+      "forward",
+      "futures",
+      "gelecek tarih",
+      "peşin fiyat",
+      "sözleşme"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 173,
+    "kategori": "bankacilik",
+    "kelime": "opsiyon sözleşmesi",
+    "aciklama": "alıcısına belirli bir varlığı gelecekte belirli bir fiyattan alma veya satma hakkı veren ama zorunluluk yüklemeyen sözleşme.",
+    "yasakli_kelimeler": [
+      "hak",
+      "zorunluluksuz",
+      "prim",
+      "alım satım hakkı",
+      "türev"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 174,
+    "kategori": "bankacilik",
+    "kelime": "takas işlemi",
+    "aciklama": "farklı döviz veya faiz yapılarına sahip nakit akışlarının iki taraf arasında karşılıklı değiş tokuş edilmesi.",
+    "yasakli_kelimeler": [
+      "swap",
+      "değiş tokuş",
+      "faiz takası",
+      "döviz takası",
+      "nakit akışı"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 175,
+    "kategori": "bankacilik",
+    "kelime": "vesaik mukabili",
+    "aciklama": "ihracatçının malları temsil eden resmi belgeleri, alıcının bankaya bedeli ödemesi karşılığında teslim ettirdiği yöntem.",
+    "yasakli_kelimeler": [
+      "belge karşılığı",
+      "ödemeden sonra evrak",
+      "ihracat",
+      "ithalat",
+      "dış ticaret"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 176,
+    "kategori": "bankacilik",
+    "kelime": "mal mukabili",
+    "aciklama": "alıcının ithal ettiği malları teslim aldıktan sonra bedelini satıcıya transfer ettiği satıcı açısından riskli yöntem.",
+    "yasakli_kelimeler": [
+      "önce mal",
+      "sonra ödeme",
+      "güvene dayalı",
+      "dış ticaret",
+      "ithalat"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 177,
+    "kategori": "bankacilik",
+    "kelime": "peşin ödeme",
+    "aciklama": "mal veya hizmet teslim edilmeden önce tüm bedelin satıcının hesabına peşinen gönderildiği ödeme biçimi.",
+    "yasakli_kelimeler": [
+      "önceden",
+      "teslimatsız",
+      "peşinat",
+      "nakit transfer",
+      "avans"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 178,
+    "kategori": "bankacilik",
+    "kelime": "kabul kredisi",
+    "aciklama": "ithalatçının borcuna karşılık keşide ettiği poliçenin banka tarafından kabul edilerek ödemesinin garanti altına alınması.",
+    "yasakli_kelimeler": [
+      "poliçe kabulü",
+      "ithalat",
+      "garanti",
+      "kambiyo",
+      "dış ticaret"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 179,
+    "kategori": "bankacilik",
+    "kelime": "garanti mektubu",
+    "aciklama": "bankanın lehtarın borcunu yerine getirmemesi durumunda muhataba belirli bir tutarı tazmin edeceğini bildiren taahhüt.",
+    "yasakli_kelimeler": [
+      "tazminat",
+      "taahhütname",
+      "teminat",
+      "ihale",
+      "güvence"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 180,
+    "kategori": "bankacilik",
+    "kelime": "mevduat tabanı",
+    "aciklama": "bir bankanın kredi verebilmek ve likiditesini korumak için topladığı toplam mevduat hacmi ve derinliği.",
+    "yasakli_kelimeler": [
+      "toplam mevduat",
+      "fon kaynağı",
+      "tasarruf havuzu",
+      "hacim",
+      "müşteri parası"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 181,
+    "kategori": "bankacilik",
+    "kelime": "kar payı",
+    "aciklama": "katılım bankalarında toplanan fonların ticaret ve projelerde işletilmesi sonucu oluşan kardan tasarruf sahibine ödenen getiri.",
+    "yasakli_kelimeler": [
+      "faizsiz getiri",
+      "katılım kazancı",
+      "ortaklık payı",
+      "kazanç",
+      "dağıtım"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 182,
+    "kategori": "bankacilik",
+    "kelime": "icare",
+    "aciklama": "katılım bankacılığında menkul veya gayrimenkul bir varlığın kullanım hakkının belirli bedelle devredildiği kiralama yöntemi.",
+    "yasakli_kelimeler": [
+      "kiralama",
+      "faizsiz leasing",
+      "kullanım hakkı",
+      "akid",
+      "kira sözleşmesi"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 183,
+    "kategori": "bankacilik",
+    "kelime": "selem",
+    "aciklama": "özellikle tarım ve imalat sektöründe bedeli peşin ödenerek malın gelecekte teslim alınmasını sağlayan faizsiz akit.",
+    "yasakli_kelimeler": [
+      "peşin para",
+      "vadeli mal",
+      "tarım finansmanı",
+      "faizsiz",
+      "teslimat"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 184,
+    "kategori": "bankacilik",
+    "kelime": "istisna sözleşmesi",
+    "aciklama": "katılım bankasının sipariş üzerine üretilecek veya inşa edilecek bir eseri finanse ettiği sözleşme türü.",
+    "yasakli_kelimeler": [
+      "sipariş",
+      "eser sözleşmesi",
+      "imalat",
+      "inşaat finansmanı",
+      "üretim"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 185,
+    "kategori": "bankacilik",
+    "kelime": "danışma kurulu",
+    "aciklama": "katılım bankasındaki ürün ve işlemlerin faizsiz finans ilkelerine uygunluğunu denetleyen bağımsız kurul.",
+    "yasakli_kelimeler": [
+      "şeriat kurulu",
+      "faizsiz denetim",
+      "uygunluk",
+      "fetva",
+      "kurul"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 186,
+    "kategori": "bankacilik",
+    "kelime": "kiralık kasa",
+    "aciklama": "müşterilerin altın, mücevher ve tapu gibi kıymetli eşyalarını saklamaları için banka kasasında kiralanan özel göz.",
+    "yasakli_kelimeler": [
+      "çelik kasa",
+      "kasa dairesi",
+      "mücevher saklama",
+      "altın",
+      "özel kilit"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 187,
+    "kategori": "bankacilik",
+    "kelime": "kasa dairesi",
+    "aciklama": "şubenin zemininde yer alan, kalın zırhlı kapı ve güvenlik sistemleriyle korunan nakit ve kiralık kasa odası.",
+    "yasakli_kelimeler": [
+      "zırhlı kapı",
+      "güvenli oda",
+      "yeraltı",
+      "çelik oda",
+      "para deposu"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 188,
+    "kategori": "bankacilik",
+    "kelime": "güvenlik kodu",
+    "aciklama": "kredi kartının arkasındaki imza bandında yer alan ve internet alışverişlerinde dolandırıcılığı önleyen üç haneli numara.",
+    "yasakli_kelimeler": [
+      "cvv",
+      "üç hane",
+      "kart arkası",
+      "imza bandı",
+      "güvenlik"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 189,
+    "kategori": "bankacilik",
+    "kelime": "dinamik şifre",
+    "aciklama": "her giriş veya para transferinde sms veya mobil uygulamayla üretilen ve tek sefer geçerli olan geçici parola.",
+    "yasakli_kelimeler": [
+      "sms şifre",
+      "tek kullanımlık",
+      "geçici kod",
+      "doğrulama",
+      "onay"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 190,
+    "kategori": "bankacilik",
+    "kelime": "çipli kart",
+    "aciklama": "üzerindeki entegre devre mikroişlemci sayesinde kart kopyalama riskini en aza indiren güvenli ödeme kartı.",
+    "yasakli_kelimeler": [
+      "çip",
+      "mikroçip",
+      "emv",
+      "kopyalama önleme",
+      "akıllı kart"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 191,
+    "kategori": "bankacilik",
+    "kelime": "şifrematik",
+    "aciklama": "banka müşterilerine verilen ve belirli algoritmaya göre anlık tek kullanımlık güvenlik şifresi üreten küçük cihaz.",
+    "yasakli_kelimeler": [
+      "anahtarlık cihaz",
+      "kod üretici",
+      "token",
+      "şifre cihazı",
+      "dijital anahtar"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 192,
+    "kategori": "bankacilik",
+    "kelime": "kimlik doğrulama",
+    "aciklama": "işlem yapan kişinin gerçekten hesap sahibi olduğunu parmak izi, yüz tanıma veya şifreyle teyit etme süreci.",
+    "yasakli_kelimeler": [
+      "biyometrik",
+      "teyit",
+      "yüz tanıma",
+      "parmak izi",
+      "hesap güvenliği"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 193,
+    "kategori": "bankacilik",
+    "kelime": "dolandırıcılık",
+    "aciklama": "sahte kimlik, oltalama linkleri veya hileli yöntemlerle banka müşterilerinin hesaplarındaki parayı çalma suçu.",
+    "yasakli_kelimeler": [
+      "sahtekarlık",
+      "oltalama",
+      "hile",
+      "para çalma",
+      "phishing"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 194,
+    "kategori": "bankacilik",
+    "kelime": "yetkisiz işlem",
+    "aciklama": "hesap sahibinin rızası, bilgisi ve talimatı dışında kartından veya hesabından gerçekleştirilen şüpheli harcama.",
+    "yasakli_kelimeler": [
+      "izinsiz harcama",
+      "habersiz çekim",
+      "itiraz",
+      "şüpheli",
+      "kart çalınması"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 195,
+    "kategori": "bankacilik",
+    "kelime": "mevduat sigortası",
+    "aciklama": "bankanın iflası durumunda tasarruf sahiplerinin yatırdığı paranın devlet garantisi altında geri ödenmesi güvencesi.",
+    "yasakli_kelimeler": [
+      "devlet garantisi",
+      "iflas güvencesi",
+      "sigorta limiti",
+      "tmsf koruması",
+      "tasarruf güvencesi"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 196,
+    "kategori": "bankacilik",
+    "kelime": "sigorta primi",
+    "aciklama": "kredi çekerken veya mevduat güvencesi sağlanırken risklerin karşılanması için sigorta şirketine ödenen bedel.",
+    "yasakli_kelimeler": [
+      "prim",
+      "poliçe bedeli",
+      "hayat sigortası",
+      "güvence ücreti",
+      "risk payı"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 197,
+    "kategori": "bankacilik",
+    "kelime": "kara para",
+    "aciklama": "uyuşturucu, silah kaçakçılığı veya yolsuzluk gibi yasadışı yollarla elde edilen kayıt dışı kirli gelir.",
+    "yasakli_kelimeler": [
+      "yasadışı kazanç",
+      "aklama",
+      "suç geliri",
+      "kayıt dışı",
+      "kirli para"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 198,
+    "kategori": "bankacilik",
+    "kelime": "aklama suçu",
+    "aciklama": "yasadışı faaliyetlerden kazanılan parayı bankacılık ve finans sistemine sokarak meşru gösterme eylemi.",
+    "yasakli_kelimeler": [
+      "kara para aklama",
+      "meşrulaştırma",
+      "finansal suç",
+      "kaynağı gizleme",
+      "masak denetimi"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 199,
+    "kategori": "bankacilik",
+    "kelime": "mali suçlar",
+    "aciklama": "finans ve bankacılık sistemini istismar ederek haksız kazanç sağlayan ekonomik ve mali kanun ihlalleri.",
+    "yasakli_kelimeler": [
+      "ekonomik suç",
+      "yolsuzluk",
+      "dolandırıcılık",
+      "ihlal",
+      "masak"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 200,
+    "kategori": "bankacilik",
+    "kelime": "kart aidatı",
+    "aciklama": "bankanın kart sunum ve üyelik hizmetleri karşılığında kart sahibinin hesabına yılda bir yansıttığı yıllık ücret.",
+    "yasakli_kelimeler": [
+      "yıllık ücret",
+      "üyelik bedeli",
+      "kart parası",
+      "yıllık kesinti",
+      "aidat iadesi"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "kategori": "bankacilik",
+    "kelime": "hesap açmak",
+    "aciklama": "bankada para yatırıp çekebilmek için vadesiz mevduat hesabı oluşturmak",
+    "yasakli_kelimeler": [
+      "mevduat",
+      "vadesiz",
+      "şube",
+      "kimlik",
+      "iban"
+    ],
+    "zorluk": "kolay",
+    "id": 201
+  },
+  {
+    "kategori": "bankacilik",
+    "kelime": "para çekmek",
+    "aciklama": "atm veya banka gişesinden hesabındaki nakit parayı teslim almak",
+    "yasakli_kelimeler": [
+      "atm",
+      "gişe",
+      "nakit",
+      "kart",
+      "bankamatik"
+    ],
+    "zorluk": "kolay",
+    "id": 202
+  },
+  {
+    "kategori": "bankacilik",
+    "kelime": "para yatırmak",
+    "aciklama": "nakit parayı kendi veya başkasının banka hesabına aktarmak",
+    "yasakli_kelimeler": [
+      "nakit",
+      "hesap",
+      "atm",
+      "gişe",
+      "makbuz"
+    ],
+    "zorluk": "kolay",
+    "id": 203
+  },
+  {
+    "kategori": "bankacilik",
+    "kelime": "havale yapmak",
+    "aciklama": "aynı banka içindeki iki farklı hesap arasında para transfer etmek",
+    "yasakli_kelimeler": [
+      "eft",
+      "transfer",
+      "aynı banka",
+      "göndermek",
+      "hesap"
+    ],
+    "zorluk": "kolay",
+    "id": 204
+  },
+  {
+    "kategori": "bankacilik",
+    "kelime": "kredi çekmek",
+    "aciklama": "bankadan faiz karşılığı belirli vadede geri ödemek üzere borç para almak",
+    "yasakli_kelimeler": [
+      "borç",
+      "faiz",
+      "taksit",
+      "ihtiyaç",
+      "onay"
+    ],
+    "zorluk": "kolay",
+    "id": 205
+  },
+  {
+    "kategori": "bankacilik",
+    "kelime": "kredi kartı başvurusu yapmak",
+    "aciklama": "harcamalarda kullanılacak limitli ödeme kartı talep etmek",
+    "yasakli_kelimeler": [
+      "limit",
+      "başvuru",
+      "gelir belgesi",
+      "plastik kart",
+      "onay"
+    ],
+    "zorluk": "kolay",
+    "id": 206
+  },
+  {
+    "kategori": "bankacilik",
+    "kelime": "sıra numarası almak",
+    "aciklama": "şubeye girince gişe işlemleri için kiosktan fiş basmak",
+    "yasakli_kelimeler": [
+      "kiosk",
+      "numaratör",
+      "fiş",
+      "gişe",
+      "beklemek"
+    ],
+    "zorluk": "kolay",
+    "id": 207
+  },
+  {
+    "kategori": "bankacilik",
+    "kelime": "şifre değiştirmek",
+    "aciklama": "kartın veya mobil bankacılığın güvenlik parolasını yenilemek",
+    "yasakli_kelimeler": [
+      "pin",
+      "güvenlik",
+      "parola",
+      "atm",
+      "tuşlamak"
+    ],
+    "zorluk": "kolay",
+    "id": 208
+  },
+  {
+    "kategori": "bankacilik",
+    "kelime": "borç ödemek",
+    "aciklama": "kredi taksitini veya kredi kartı asgari tutarını bankaya yatırmak",
+    "yasakli_kelimeler": [
+      "asgari",
+      "taksit",
+      "kredi kartı",
+      "hesap özeti",
+      "son ödeme"
+    ],
+    "zorluk": "kolay",
+    "id": 209
+  },
+  {
+    "kategori": "bankacilik",
+    "kelime": "döviz bozdurmak",
+    "aciklama": "elindeki dolar veya euroyu güncel kurdan türk lirasına çevirmek",
+    "yasakli_kelimeler": [
+      "dolar",
+      "euro",
+      "kur",
+      "türk lirası",
+      "gişe"
+    ],
+    "zorluk": "kolay",
+    "id": 210
+  },
+  {
+    "kategori": "bankacilik",
+    "kelime": "kartı bloke etmek",
+    "aciklama": "kayıp veya çalıntı durumunda kredi kartını kullanıma kapatmak",
+    "yasakli_kelimeler": [
+      "çalınma",
+      "kayıp",
+      "güvenlik",
+      "kapatmak",
+      "çağrı merkezi"
+    ],
+    "zorluk": "kolay",
+    "id": 211
+  },
+  {
+    "kategori": "bankacilik",
+    "kelime": "hesap cüzdanı işletmek",
+    "aciklama": "mevduat defterine yapılan para hareketlerini yazıcıda bastırmak",
+    "yasakli_kelimeler": [
+      "defter",
+      "yazıcı",
+      "hareket",
+      "bakiye",
+      "şube"
+    ],
+    "zorluk": "kolay",
+    "id": 212
+  },
+  {
+    "kategori": "bankacilik",
+    "kelime": "eft göndermek",
+    "aciklama": "farklı iki banka hesabı arasında mesai saatlerinde para aktarmak",
+    "yasakli_kelimeler": [
+      "merkez bankası",
+      "farklı banka",
+      "iban",
+      "transfer",
+      "mesai"
+    ],
+    "zorluk": "orta",
+    "id": 213
+  },
+  {
+    "kategori": "bankacilik",
+    "kelime": "fast ile göndermek",
+    "aciklama": "haftanın yedi günü yirmi dört saati anında para transferi yapmak",
+    "yasakli_kelimeler": [
+      "7/24",
+      "anlık",
+      "kolay adres",
+      "telefon no",
+      "limit"
+    ],
+    "zorluk": "orta",
+    "id": 214
+  },
+  {
+    "kategori": "bankacilik",
+    "kelime": "vadeli mevduat açmak",
+    "aciklama": "parayı belirli bir süre çekmeme şartıyla faiz getirisi için bağlamak",
+    "yasakli_kelimeler": [
+      "faiz",
+      "32 gün",
+      "getiri",
+      "vade",
+      "anapara"
+    ],
+    "zorluk": "orta",
+    "id": 215
+  },
+  {
+    "kategori": "bankacilik",
+    "kelime": "kredi notu sorgulamak",
+    "aciklama": "findeks üzerinden geçmiş ödeme performans puanını öğrenmek",
+    "yasakli_kelimeler": [
+      "findeks",
+      "kbb",
+      "puan",
+      "risk raporu",
+      "kredi geçmişi"
+    ],
+    "zorluk": "orta",
+    "id": 216
+  },
+  {
+    "kategori": "bankacilik",
+    "kelime": "otomatik ödeme talimatı vermek",
+    "aciklama": "elektrik, su veya telefon faturalarının hesaptan kendiliğinden ödenmesini sağlamak",
+    "yasakli_kelimeler": [
+      "fatura",
+      "talimat",
+      "kesinti",
+      "gecikme",
+      "düzenli"
+    ],
+    "zorluk": "orta",
+    "id": 217
+  },
+  {
+    "kategori": "bankacilik",
+    "kelime": "kasa kiralamak",
+    "aciklama": "altın ve değerli evrakları şubedeki çelik güvenlik gözünde saklamak",
+    "yasakli_kelimeler": [
+      "çelik kasa",
+      "kiralık",
+      "anahtar",
+      "altın",
+      "saklamak"
+    ],
+    "zorluk": "orta",
+    "id": 218
+  },
+  {
+    "kategori": "bankacilik",
+    "kelime": "pos cihazı bağlatmak",
+    "aciklama": "iş yerine müşterilerden kartla ödeme almak için terminal kurdurmak",
+    "yasakli_kelimeler": [
+      "üye işyeri",
+      "kart çekme",
+      "terminal",
+      "komisyon",
+      "slip"
+    ],
+    "zorluk": "orta",
+    "id": 219
+  },
+  {
+    "kategori": "bankacilik",
+    "kelime": "ipotek koydurmak",
+    "aciklama": "konut kredisi karşılığında evin tapusuna banka lehine şerh düşmek",
+    "yasakli_kelimeler": [
+      "tapu",
+      "rehin",
+      "şerh",
+      "konut kredisi",
+      "teminat"
+    ],
+    "zorluk": "orta",
+    "id": 220
+  },
+  {
+    "kategori": "bankacilik",
+    "kelime": "teminat mektubu vermek",
+    "aciklama": "müteahhidin veya firmanın işi bitireceğine dair banka kefalet belgesi düzenlemek",
+    "yasakli_kelimeler": [
+      "kefalet",
+      "ihale",
+      "belge",
+      "garanti",
+      "komisyon"
+    ],
+    "zorluk": "orta",
+    "id": 221
+  },
+  {
+    "kategori": "bankacilik",
+    "kelime": "çek takasa vermek",
+    "aciklama": "müşteriden alınan vadeli çeki tahsil edilmek üzere bankaya teslim etmek",
+    "yasakli_kelimeler": [
+      "takas odası",
+      "vade",
+      "tahsilat",
+      "kambiyo",
+      "imza"
+    ],
+    "zorluk": "orta",
+    "id": 222
+  },
+  {
+    "kategori": "bankacilik",
+    "kelime": "limit artırmak",
+    "aciklama": "kredi kartının veya ek hesabın maksimum harcama tavanını yükseltmek",
+    "yasakli_kelimeler": [
+      "tavan",
+      "kredi kartı",
+      "artış",
+      "gelir",
+      "onay"
+    ],
+    "zorluk": "orta",
+    "id": 223
+  },
+  {
+    "kategori": "bankacilik",
+    "kelime": "krediyi yeniden yapılandırmak",
+    "aciklama": "ödenemeyen borcu daha uzun vadeye yayıp taksitleri küçültmek",
+    "yasakli_kelimeler": [
+      "refinansman",
+      "yapılandırma",
+      "vade uzatma",
+      "gecikme",
+      "taksit"
+    ],
+    "zorluk": "orta",
+    "id": 224
+  },
+  {
+    "kategori": "bankacilik",
+    "kelime": "döviz makası hesaplamak",
+    "aciklama": "bankanın döviz alış ve satış kuru arasındaki farkı kontrol etmek",
+    "yasakli_kelimeler": [
+      "alış satış",
+      "spread",
+      "fark",
+      "kur",
+      "komisyon"
+    ],
+    "zorluk": "orta",
+    "id": 225
+  },
+  {
+    "kategori": "bankacilik",
+    "kelime": "ek hesap kullanmak",
+    "aciklama": "vadesiz hesapta para yokken eksi bakiyeye düşerek nakit kullanmak",
+    "yasakli_kelimeler": [
+      "kmh",
+      "eksi bakiye",
+      "kredili mevduat",
+      "avans",
+      "günlük faiz"
+    ],
+    "zorluk": "orta",
+    "id": 226
+  },
+  {
+    "kategori": "bankacilik",
+    "kelime": "nakit avans çekmek",
+    "aciklama": "kredi kartı limitinden faiz karşılığında anında nakit para almak",
+    "yasakli_kelimeler": [
+      "kredi kartı",
+      "atm",
+      "anında nakit",
+      "faiz",
+      "taksitli avans"
+    ],
+    "zorluk": "orta",
+    "id": 227
+  },
+  {
+    "kategori": "bankacilik",
+    "kelime": "altın hesabı açmak",
+    "aciklama": "fiziki altın yerine bankada gram cinsinden kaydi altın alıp satmak",
+    "yasakli_kelimeler": [
+      "gram",
+      "kaydi",
+      "kıymetli maden",
+      "al sat",
+      "çeyrek"
+    ],
+    "zorluk": "orta",
+    "id": 228
+  },
+  {
+    "kategori": "bankacilik",
+    "kelime": "kart aidatı itirazı yapmak",
+    "aciklama": "ekstreye yansıtılan yıllık üyelik ücretinin iadesini talep etmek",
+    "yasakli_kelimeler": [
+      "üyelik ücreti",
+      "yıllık",
+      "ekstre",
+      "iade",
+      "tüketici hakları"
+    ],
+    "zorluk": "orta",
+    "id": 229
+  },
+  {
+    "kategori": "bankacilik",
+    "kelime": "hesap ekstresi incelemek",
+    "aciklama": "ay boyunca yapılan tüm harcama ve ödemelerin dökümünü kontrol etmek",
+    "yasakli_kelimeler": [
+      "hesap özeti",
+      "döküm",
+      "harcama",
+      "aylık",
+      "asgari tutar"
+    ],
+    "zorluk": "orta",
+    "id": 230
+  },
+  {
+    "kategori": "bankacilik",
+    "kelime": "masraf kesintisi yapmak",
+    "aciklama": "bankanın hesap işletim, transfer veya dosya ücreti tahsil etmesi",
+    "yasakli_kelimeler": [
+      "komisyon",
+      "ücret",
+      "kesinti",
+      "dosya masrafı",
+      "hesap"
+    ],
+    "zorluk": "orta",
+    "id": 231
+  },
+  {
+    "kategori": "bankacilik",
+    "kelime": "kara listeye girmek",
+    "aciklama": "borcunu yasal takip süresinde ödemediği için merkez bankası sicilinin bozulması",
+    "yasakli_kelimeler": [
+      "yasal takip",
+      "icra",
+      "sicil",
+      "merkez bankası",
+      "kırmızı çizgi"
+    ],
+    "zorluk": "orta",
+    "id": 232
+  },
+  {
+    "kategori": "bankacilik",
+    "kelime": "akreditif açtırmak",
+    "aciklama": "uluslararası dış ticarette mal teslimine bağlı şartlı ödeme garantisi kurmak",
+    "yasakli_kelimeler": [
+      "dış ticaret",
+      "ihracat ithalat",
+      "vesaik",
+      "şartlı ödeme",
+      "uluslararası"
+    ],
+    "zorluk": "orta",
+    "id": 233
+  },
+  {
+    "kategori": "bankacilik",
+    "kelime": "fon payı almak",
+    "aciklama": "profesyonel portföy yöneticilerinin idare ettiği yatırım fonu birimi satın almak",
+    "yasakli_kelimeler": [
+      "tefas",
+      "yatırım fonu",
+      "portföy",
+      "pay",
+      "getiri"
+    ],
+    "zorluk": "orta",
+    "id": 234
+  },
+  {
+    "kategori": "bankacilik",
+    "kelime": "döviz forward sözleşmesi yapmak",
+    "aciklama": "gelecekteki döviz kurunu bugünden sabitleyerek kur riskinden korunmak",
+    "yasakli_kelimeler": [
+      "kur sabitleme",
+      "hedge",
+      "vade",
+      "türev",
+      "döviz kuru"
+    ],
+    "zorluk": "orta",
+    "id": 235
+  },
+  {
+    "kategori": "bankacilik",
+    "kelime": "rotatif kredi kullanmak",
+    "aciklama": "şirketin ihtiyaç duydukça para çekip faizini günlük ödediği açık kredi",
+    "yasakli_kelimeler": [
+      "açık kredi",
+      "günlük faiz",
+      "şirket",
+      "borçlanma",
+      "kapanma"
+    ],
+    "zorluk": "orta",
+    "id": 236
+  },
+  {
+    "kategori": "bankacilik",
+    "kelime": "sendikasyon kredisi sağlamak",
+    "aciklama": "büyük bir proje için uluslararası bankalar konsorsiyumundan dev kredi bulmak",
+    "yasakli_kelimeler": [
+      "konsorsiyum",
+      "uluslararası",
+      "büyük montanlı",
+      "libor",
+      "finansman"
+    ],
+    "zorluk": "zor",
+    "id": 237
+  },
+  {
+    "kategori": "bankacilik",
+    "kelime": "sermaye yeterlilik rasyosu hesaplamak",
+    "aciklama": "bankanın özkaynaklarının risk ağırlıklı varlıklara oranını basel kurallarına göre ölçmek",
+    "yasakli_kelimeler": [
+      "car",
+      "basel",
+      "özkaynak",
+      "risk ağırlıklı varlık",
+      "bddk"
+    ],
+    "zorluk": "zor",
+    "id": 238
+  },
+  {
+    "kategori": "bankacilik",
+    "kelime": "munzam karşılık yatırmak",
+    "aciklama": "toplanan mevduatların kanunen merkez bankasında bloke edilmesi gereken yüzdesi",
+    "yasakli_kelimeler": [
+      "zorunlu karşılık",
+      "tcmb",
+      "oran",
+      "likidite",
+      "para politikası"
+    ],
+    "zorluk": "zor",
+    "id": 239
+  },
+  {
+    "kategori": "bankacilik",
+    "kelime": "swap işlemi yapmak",
+    "aciklama": "iki farklı para birimini belirli vadede faiz ve anapara değişimiyle takas etmek",
+    "yasakli_kelimeler": [
+      "para takası",
+      "faiz swapı",
+      "türev",
+      "merkez bankası",
+      "likidite"
+    ],
+    "zorluk": "zor",
+    "id": 240
+  },
+  {
+    "kategori": "bankacilik",
+    "kelime": "aktif pasif yönetimi yapmak",
+    "aciklama": "bankanın faiz ve likidite riskini dengelemek için bilanço kalemlerini idare etmek",
+    "yasakli_kelimeler": [
+      "alm",
+      "bilanço",
+      "faiz riski",
+      "vade uyumsuzluğu",
+      "likidite"
+    ],
+    "zorluk": "zor",
+    "id": 241
+  },
+  {
+    "kategori": "bankacilik",
+    "kelime": "karşılıksız çek yazdırmak",
+    "aciklama": "banka hesabında bakiye olmadığı için ibraz edilen çekin arkasına şerh düşmek",
+    "yasakli_kelimeler": [
+      "arkasını yazdırma",
+      "karşılıksız",
+      "icra",
+      "çek hesabı",
+      "adli para cezası"
+    ],
+    "zorluk": "zor",
+    "id": 242
+  },
+  {
+    "kategori": "bankacilik",
+    "kelime": "npl oranını düşürmek",
+    "aciklama": "tahsili gecikmiş ve batık duruma düşmüş donuk alacakları varlık şirketine satmak",
+    "yasakli_kelimeler": [
+      "batık kredi",
+      "takipteki alacak",
+      "tahsilat",
+      "varlık yönetim şirketi",
+      "donuk"
+    ],
+    "zorluk": "zor",
+    "id": 243
+  },
+  {
+    "kategori": "bankacilik",
+    "kelime": "menkulleştirmek",
+    "aciklama": "konut kredisi veya alacak havuzunu ipoteğe dayalı tahvil çıkararak piyasada satmak",
+    "yasakli_kelimeler": [
+      "securitization",
+      "ipotekli menkul kıymet",
+      "tahvil",
+      "alacak havuzu",
+      "likidite"
+    ],
+    "zorluk": "zor",
+    "id": 244
+  },
+  {
+    "kategori": "bankacilik",
+    "kelime": "swift mesajı iletmek",
+    "aciklama": "uluslararası bankalararası finansal telekomünikasyon ağı üzerinden kodlu mesaj geçmek",
+    "yasakli_kelimeler": [
+      "bic kodu",
+      "uluslararası transfer",
+      "mt103",
+      "muhabir banka",
+      "döviz"
+    ],
+    "zorluk": "zor",
+    "id": 245
+  },
+  {
+    "kategori": "bankacilik",
+    "kelime": "forfaiting yapmak",
+    "aciklama": "ihracatçının vadeli mal satışından doğan poliçesini rücusuz olarak satın almak",
+    "yasakli_kelimeler": [
+      "rücusuz",
+      "ihracat",
+      "poliçe",
+      "iskonto",
+      "finansman"
+    ],
+    "zorluk": "zor",
+    "id": 246
+  },
+  {
+    "kategori": "bankacilik",
+    "kelime": "faktoringe devretmek",
+    "aciklama": "şirketin vadeli ticari alacak faturalarını nakde çevirmek için devretmesi",
+    "yasakli_kelimeler": [
+      "fatura devri",
+      "alacak tahsili",
+      "kredi risk",
+      "iskonto",
+      "nakit akışı"
+    ],
+    "zorluk": "zor",
+    "id": 247
+  },
+  {
+    "kategori": "bankacilik",
+    "kelime": "munzam karşılık faizi almak",
+    "aciklama": "merkez bankasının zorunlu karşılıklara uyguladığı nemalandırma geliri",
+    "yasakli_kelimeler": [
+      "tcmb",
+      "nema",
+      "faiz",
+      "karşılık",
+      "rezerv"
+    ],
+    "zorluk": "zor",
+    "id": 248
+  },
+  {
+    "kategori": "bankacilik",
+    "kelime": "sukuk ihraç etmek",
+    "aciklama": "katılım bankacılığı prensiplerine uygun faizsiz kira sertifikası çıkarmak",
+    "yasakli_kelimeler": [
+      "faizsiz",
+      "kira sertifikası",
+      "katılım bankası",
+      "şeriat",
+      "ihraç"
+    ],
+    "zorluk": "zor",
+    "id": 249
+  },
+  {
+    "kategori": "bankacilik",
+    "kelime": "proje finansmanı sağlamak",
+    "aciklama": "köprü, havalimanı gibi dev yatırımlara projenin kendi nakit akışını teminat alarak kredi vermek",
+    "yasakli_kelimeler": [
+      "yap işlet devret",
+      "nakit akışı",
+      "büyük altyapı",
+      "non recourse",
+      "yatırım"
+    ],
+    "zorluk": "zor",
+    "id": 250
   }
 ]

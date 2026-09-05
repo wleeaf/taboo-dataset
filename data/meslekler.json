@@ -1,0 +1,3502 @@
+[
+  {
+    "id": 1,
+    "kategori": "meslekler",
+    "kelime": "öğretmen",
+    "aciklama": "okullarda öğrencilere bilgi ve beceri kazandıran, ders anlatan eğitimci.",
+    "yasakli_kelimeler": [
+      "okul",
+      "ders",
+      "öğrenci",
+      "sınıf",
+      "tahta"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 2,
+    "kategori": "meslekler",
+    "kelime": "doktor",
+    "aciklama": "hastanelerde hastaları muayene eden, teşhis koyup reçete yazan tıp uzmanı.",
+    "yasakli_kelimeler": [
+      "hastane",
+      "hasta",
+      "ilaç",
+      "muayene",
+      "beyaz önlük"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 3,
+    "kategori": "meslekler",
+    "kelime": "hemşire",
+    "aciklama": "hastaların bakımını üstlenen, iğne ve serum takan sağlık çalışanı.",
+    "yasakli_kelimeler": [
+      "hastane",
+      "iğne",
+      "serum",
+      "ilaç",
+      "doktor"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 4,
+    "kategori": "meslekler",
+    "kelime": "diş hekimi",
+    "aciklama": "ağız sağlığıyla ilgilenen, çürük dişleri dolduran veya çeken hekim.",
+    "yasakli_kelimeler": [
+      "diş",
+      "dolgu",
+      "çürük",
+      "ağız",
+      "fırça"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 5,
+    "kategori": "meslekler",
+    "kelime": "eczacı",
+    "aciklama": "doktorların yazdığı reçeteli ilaçları hazırlayıp hastalara satan dükkan sahibi uzman.",
+    "yasakli_kelimeler": [
+      "ilaç",
+      "reçete",
+      "dükkan",
+      "hap",
+      "kutu"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 6,
+    "kategori": "meslekler",
+    "kelime": "veteriner",
+    "aciklama": "evcil veya vahşi hayvanların hastalıklarını tedavi eden hayvan doktoru.",
+    "yasakli_kelimeler": [
+      "hayvan",
+      "köpek",
+      "kedi",
+      "aşı",
+      "klinik"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 7,
+    "kategori": "meslekler",
+    "kelime": "fizyoterapist",
+    "aciklama": "kas ve iskelet sistemi rahatsızlıklarında egzersizle fizik tedavi uygulayan uzman.",
+    "yasakli_kelimeler": [
+      "fizik tedavi",
+      "egzersiz",
+      "kas",
+      "masaj",
+      "hareket"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 8,
+    "kategori": "meslekler",
+    "kelime": "diyetisyen",
+    "aciklama": "sağlıklı beslenme programları ve zayıflama listeleri hazırlayan beslenme uzmanı.",
+    "yasakli_kelimeler": [
+      "kilo",
+      "zayıflama",
+      "beslenme",
+      "kalori",
+      "liste"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 9,
+    "kategori": "meslekler",
+    "kelime": "psikolog",
+    "aciklama": "insanların ruhsal sorunlarını ve davranışlarını konuşarak terapi yoluyla inceleyen uzman.",
+    "yasakli_kelimeler": [
+      "terapi",
+      "ruh",
+      "akıl",
+      "konuşma",
+      "seans"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 10,
+    "kategori": "meslekler",
+    "kelime": "çocuk psikoloğu",
+    "aciklama": "çocukların ve ergenlerin davranışsal sorunlarını oyun terapisiyle çözen uzman.",
+    "yasakli_kelimeler": [
+      "çocuk",
+      "terapi",
+      "oyun",
+      "aile",
+      "psikoloji"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 11,
+    "kategori": "meslekler",
+    "kelime": "anestezi uzmanı",
+    "aciklama": "ameliyat öncesinde hastayı uyutan ve operasyon süresince hayati değerlerini izleyen hekim.",
+    "yasakli_kelimeler": [
+      "ameliyat",
+      "uyutmak",
+      "narkoz",
+      "doktor",
+      "ağrı"
+    ],
+    "zorluk": "zor"
+  },
+  {
+    "id": 12,
+    "kategori": "meslekler",
+    "kelime": "radyoloji teknikeri",
+    "aciklama": "hastanelerde röntgen, tomografi ve mr gibi görüntüleme cihazlarını kullanan personel.",
+    "yasakli_kelimeler": [
+      "röntgen",
+      "film",
+      "tomografi",
+      "mr",
+      "ışın"
+    ],
+    "zorluk": "zor"
+  },
+  {
+    "id": 13,
+    "kategori": "meslekler",
+    "kelime": "sağlık memuru",
+    "aciklama": "sağlık ocaklarında ve hastanelerde pansuman, aşı ve temel tıbbi müdahaleleri yapan personel.",
+    "yasakli_kelimeler": [
+      "pansuman",
+      "aşı",
+      "sağlık ocağı",
+      "tedavi",
+      "iğne"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 14,
+    "kategori": "meslekler",
+    "kelime": "laborant",
+    "aciklama": "tahlil için alınan kan ve idrar örneklerini mikroskop ve cihazlarla test eden teknisyen.",
+    "yasakli_kelimeler": [
+      "tahlil",
+      "kan",
+      "laboratuvar",
+      "test",
+      "tüp"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 15,
+    "kategori": "meslekler",
+    "kelime": "optisyen",
+    "aciklama": "göz doktorunun verdiği reçeteye uygun numaralı gözlük camı ve çerçeve hazırlayan esnaf.",
+    "yasakli_kelimeler": [
+      "gözlük",
+      "çerçeve",
+      "cam",
+      "göz",
+      "numara"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 16,
+    "kategori": "meslekler",
+    "kelime": "ambulans şoförü",
+    "aciklama": "acil vakalarda siren çalarak trafikte hızla hastaneye hasta yetiştiren sürücü.",
+    "yasakli_kelimeler": [
+      "siren",
+      "hastane",
+      "acil",
+      "araba",
+      "trafik"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 17,
+    "kategori": "meslekler",
+    "kelime": "paramedik",
+    "aciklama": "ambulans içinde hastaya ilk müdahaleyi yapan ve kalbini çalıştıran acil sağlık teknikeri.",
+    "yasakli_kelimeler": [
+      "acil",
+      "ambulans",
+      "ilk yardım",
+      "kalp masajı",
+      "müdahale"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 18,
+    "kategori": "meslekler",
+    "kelime": "acil doktoru",
+    "aciklama": "hastanelerin acil servis bölümünde nöbet tutarak acil gelen vakalara bakan hekim.",
+    "yasakli_kelimeler": [
+      "acil servis",
+      "nöbet",
+      "kaza",
+      "müdahale",
+      "gece"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 19,
+    "kategori": "meslekler",
+    "kelime": "hasta bakıcı",
+    "aciklama": "yatalak hastaların temizlik, beslenme ve tekerlekli sandalye ile taşınmasına yardım eden çalışan.",
+    "yasakli_kelimeler": [
+      "yatalak",
+      "yardım",
+      "hastane",
+      "temizlik",
+      "tekerlekli sandalye"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 20,
+    "kategori": "meslekler",
+    "kelime": "göz doktoru",
+    "aciklama": "görme bozukluklarını tespit eden, gözlük numarası veren ve katarakt ameliyatı yapan hekim.",
+    "yasakli_kelimeler": [
+      "göz",
+      "gözlük",
+      "görme",
+      "katarakt",
+      "lens"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 21,
+    "kategori": "meslekler",
+    "kelime": "beyin cerrahı",
+    "aciklama": "kafatası ameliyatları yapan, beyin ve omurilik tümörlerini temizleyen cerrah.",
+    "yasakli_kelimeler": [
+      "beyin",
+      "ameliyat",
+      "omurilik",
+      "tümör",
+      "cerrah"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 22,
+    "kategori": "meslekler",
+    "kelime": "çocuk doktoru",
+    "aciklama": "bebeklerin ve küçük çocukların aşı takibini ve çocukluk hastalıklarını tedavi eden uzman hekim.",
+    "yasakli_kelimeler": [
+      "bebek",
+      "pediatri",
+      "çocuk",
+      "aşı",
+      "ateş"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 23,
+    "kategori": "meslekler",
+    "kelime": "ortopedist",
+    "aciklama": "kırık, çıkık, kemik ve eklem ağrılarını tedavi eden, alçı uygulayan cerrah hekim.",
+    "yasakli_kelimeler": [
+      "kırık",
+      "çıkık",
+      "kemik",
+      "alçı",
+      "eklem"
+    ],
+    "zorluk": "zor"
+  },
+  {
+    "id": 24,
+    "kategori": "meslekler",
+    "kelime": "kardiyolog",
+    "aciklama": "kalp damar tıkanıklıkları, kalp krizi ve tansiyon hastalıklarıyla ilgilenen uzman hekim.",
+    "yasakli_kelimeler": [
+      "kalp",
+      "damar",
+      "anjiyo",
+      "kriz",
+      "tansiyon"
+    ],
+    "zorluk": "zor"
+  },
+  {
+    "id": 25,
+    "kategori": "meslekler",
+    "kelime": "cildiye uzmanı",
+    "aciklama": "deri hastalıkları, sivilce, egzama ve alerji tedavilerini yapan dermatolog.",
+    "yasakli_kelimeler": [
+      "deri",
+      "cilt",
+      "sivilce",
+      "egzama",
+      "kaşıntı"
+    ],
+    "zorluk": "zor"
+  },
+  {
+    "id": 26,
+    "kategori": "meslekler",
+    "kelime": "terapist",
+    "aciklama": "hastaların fiziksel veya ruhsal travmalarını iyileştirmek için seanslar düzenleyen rehber.",
+    "yasakli_kelimeler": [
+      "seans",
+      "konuşma",
+      "iyileşme",
+      "tedavi",
+      "danışan"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 27,
+    "kategori": "meslekler",
+    "kelime": "başhemşire",
+    "aciklama": "hastanedeki tüm hemşirelerin nöbet listelerini hazırlayan ve koordinasyonu sağlayan kıdemli hemşire.",
+    "yasakli_kelimeler": [
+      "kıdemli",
+      "nöbet",
+      "yönetici",
+      "hemşire",
+      "hastane"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 28,
+    "kategori": "meslekler",
+    "kelime": "ameliyathane hemşiresi",
+    "aciklama": "operasyon sırasında cerraha neşter, makas ve dikiş ipliği uzatan uzman hemşire.",
+    "yasakli_kelimeler": [
+      "ameliyat",
+      "neşter",
+      "cerrah",
+      "steril",
+      "makas"
+    ],
+    "zorluk": "zor"
+  },
+  {
+    "id": 29,
+    "kategori": "meslekler",
+    "kelime": "ebelik",
+    "aciklama": "hamile kadınların doğumunu yaptıran ve yeni doğan bebeğin ilk bakımını üstlenen meslek.",
+    "yasakli_kelimeler": [
+      "doğum",
+      "bebek",
+      "hamile",
+      "hastane",
+      "anne"
+    ],
+    "zorluk": "zor"
+  },
+  {
+    "id": 30,
+    "kategori": "meslekler",
+    "kelime": "diş teknisyeni",
+    "aciklama": "diş hekiminin aldığı ölçülere göre protez diş, köprü ve porselen kaplama yapan laboratuvar ustası.",
+    "yasakli_kelimeler": [
+      "protez",
+      "porselen",
+      "laboratuvar",
+      "kaplama",
+      "ölçü"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 31,
+    "kategori": "meslekler",
+    "kelime": "sınıf öğretmeni",
+    "aciklama": "ilkokul birinci sınıftan dördüncü sınıfa kadar çocuklara okuma yazma ve temel dersleri öğreten öğretmen.",
+    "yasakli_kelimeler": [
+      "ilkokul",
+      "okuma yazma",
+      "öğrenci",
+      "dört yıl",
+      "ders"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 32,
+    "kategori": "meslekler",
+    "kelime": "anaokulu öğretmeni",
+    "aciklama": "okul öncesi yaştaki küçük çocuklara oyunlarla paylaşmayı ve temel alışkanlıkları öğreten eğitimci.",
+    "yasakli_kelimeler": [
+      "kreş",
+      "okul öncesi",
+      "küçük çocuk",
+      "oyun",
+      "boyama"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 33,
+    "kategori": "meslekler",
+    "kelime": "matematik öğretmeni",
+    "aciklama": "sayılar, cebir, geometri ve problem çözme yöntemlerini tahtada anlatan öğretmen.",
+    "yasakli_kelimeler": [
+      "sayı",
+      "hesap",
+      "geometri",
+      "problem",
+      "formül"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 34,
+    "kategori": "meslekler",
+    "kelime": "beden hocası",
+    "aciklama": "öğrencilere spor hareketleri yaptıran, turnuvalar düzenleyen ve düdük çalan öğretmen.",
+    "yasakli_kelimeler": [
+      "spor",
+      "eşofman",
+      "düdük",
+      "koşu",
+      "top"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 35,
+    "kategori": "meslekler",
+    "kelime": "müzik öğretmeni",
+    "aciklama": "öğrencilere flüt, piyano veya nota okumayı öğreterek okul koroları çalıştıran öğretmen.",
+    "yasakli_kelimeler": [
+      "flüt",
+      "nota",
+      "şarkı",
+      "koro",
+      "piyano"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 36,
+    "kategori": "meslekler",
+    "kelime": "resim öğretmeni",
+    "aciklama": "öğrencilere fırça, suluboya ve çizim teknikleriyle görsel sanat eğitimi veren öğretmen.",
+    "yasakli_kelimeler": [
+      "boya",
+      "çizim",
+      "fırça",
+      "tuval",
+      "pastel"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 37,
+    "kategori": "meslekler",
+    "kelime": "okul müdürü",
+    "aciklama": "okulun tüm idari, eğitim ve disiplin işlerinden sorumlu en yetkili yönetici.",
+    "yasakli_kelimeler": [
+      "yönetici",
+      "idare",
+      "oda",
+      "disiplin",
+      "okul"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 38,
+    "kategori": "meslekler",
+    "kelime": "müdür yardımcısı",
+    "aciklama": "müdürün altında görev yapan, öğrenci devamsızlıkları ve evrak işlerini takip eden idareci.",
+    "yasakli_kelimeler": [
+      "yardımcı",
+      "devamsızlık",
+      "idare",
+      "evrak",
+      "nöbet"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 39,
+    "kategori": "meslekler",
+    "kelime": "öğretim görevlisi",
+    "aciklama": "üniversitelerde lisans öğrencilerine uzmanlık dersleri veren akademik kadro üyesi.",
+    "yasakli_kelimeler": [
+      "üniversite",
+      "fakülte",
+      "ders",
+      "akademik",
+      "amfi"
+    ],
+    "zorluk": "zor"
+  },
+  {
+    "id": 40,
+    "kategori": "meslekler",
+    "kelime": "akademisyen",
+    "aciklama": "üniversitede bilimsel araştırmalar yapan, makale yazan ve ders veren bilim insanı.",
+    "yasakli_kelimeler": [
+      "üniversite",
+      "profesör",
+      "makale",
+      "araştırma",
+      "tez"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 41,
+    "kategori": "meslekler",
+    "kelime": "çocuk gelişimcisi",
+    "aciklama": "çocukların zihinsel, motor ve sosyal gelişim süreçlerini takip edip destekleyen uzman.",
+    "yasakli_kelimeler": [
+      "gelişim",
+      "çocuk",
+      "zihin",
+      "davranış",
+      "oyun"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 42,
+    "kategori": "meslekler",
+    "kelime": "özel eğitimci",
+    "aciklama": "öğrenme güçlüğü veya engeli bulunan çocuklara özel ilgi ve yöntemlerle eğitim veren öğretmen.",
+    "yasakli_kelimeler": [
+      "engelli",
+      "otizm",
+      "bireysel",
+      "özel ders",
+      "rehabilitasyon"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 43,
+    "kategori": "meslekler",
+    "kelime": "rehber öğretmen",
+    "aciklama": "öğrencilerin sınav kaygısı ve meslek seçimi gibi konularda danışmanlık yapan psikolojik danışman.",
+    "yasakli_kelimeler": [
+      "danışman",
+      "rehberlik",
+      "meslek seçimi",
+      "kaygı",
+      "oda"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 44,
+    "kategori": "meslekler",
+    "kelime": "etüt hocası",
+    "aciklama": "okul derslerinden sonra öğrencilerin ödevlerini yapmasına ve konu tekrarına yardım eden öğretmen.",
+    "yasakli_kelimeler": [
+      "ödev",
+      "ders",
+      "tekrar",
+      "kurs",
+      "çalışma"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 45,
+    "kategori": "meslekler",
+    "kelime": "tarih öğretmeni",
+    "aciklama": "geçmişteki savaşları, antlaşmaları ve imparatorlukların yükselişini anlatan branş öğretmeni.",
+    "yasakli_kelimeler": [
+      "geçmiş",
+      "savaş",
+      "padişah",
+      "olay",
+      "yıl"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 46,
+    "kategori": "meslekler",
+    "kelime": "edebiyat öğretmeni",
+    "aciklama": "şiirleri, romanları, yazarları ve dilbilgisi kurallarını öğreten lise öğretmeni.",
+    "yasakli_kelimeler": [
+      "roman",
+      "şiir",
+      "yazar",
+      "dilbilgisi",
+      "türkçe"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 47,
+    "kategori": "meslekler",
+    "kelime": "fizik öğretmeni",
+    "aciklama": "kuvvet, hareket, yerçekimi ve elektrik deneylerini tahtada anlatan fen öğretmeni.",
+    "yasakli_kelimeler": [
+      "kuvvet",
+      "hareket",
+      "enerji",
+      "deney",
+      "newton"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 48,
+    "kategori": "meslekler",
+    "kelime": "kimya öğretmeni",
+    "aciklama": "periyodik cetveli, elementleri ve deney tüplerindeki tepkimeleri anlatan fen öğretmeni.",
+    "yasakli_kelimeler": [
+      "deney",
+      "periyodik tablo",
+      "tüp",
+      "element",
+      "asit"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 49,
+    "kategori": "meslekler",
+    "kelime": "biyoloji öğretmeni",
+    "aciklama": "hücre yapısını, bitkileri, hayvanları ve insan anatomisini anlatan öğretmen.",
+    "yasakli_kelimeler": [
+      "hücre",
+      "canlı",
+      "dna",
+      "mikroskop",
+      "bitki"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 50,
+    "kategori": "meslekler",
+    "kelime": "coğrafya öğretmeni",
+    "aciklama": "harita okumayı, iklim tiplerini, dağları ve dünya nüfusunu anlatan öğretmen.",
+    "yasakli_kelimeler": [
+      "harita",
+      "iklim",
+      "kıta",
+      "dünya",
+      "yerşekli"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 51,
+    "kategori": "meslekler",
+    "kelime": "ingilizce öğretmeni",
+    "aciklama": "öğrencilere yabancı dil gramerini, kelimeleri ve telaffuzu öğreten dil öğretmeni.",
+    "yasakli_kelimeler": [
+      "yabancı dil",
+      "kelime",
+      "gramer",
+      "konuşma",
+      "ders"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 52,
+    "kategori": "meslekler",
+    "kelime": "felsefe öğretmeni",
+    "aciklama": "düşünce tarihini, mantık kurallarını ve ünlü filozofların görüşlerini anlatan öğretmen.",
+    "yasakli_kelimeler": [
+      "filozof",
+      "düşünce",
+      "mantık",
+      "sokrat",
+      "akıl"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 53,
+    "kategori": "meslekler",
+    "kelime": "okul hademesi",
+    "aciklama": "okulun koridorlarını süpüren, sınıfları temizleyen ve zili çalan hizmetli personel.",
+    "yasakli_kelimeler": [
+      "temizlik",
+      "hizmetli",
+      "zil",
+      "süpürge",
+      "koridor"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 54,
+    "kategori": "meslekler",
+    "kelime": "dershane hocası",
+    "aciklama": "üniversiteye veya liseye giriş sınavlarına hazırlık testleri çözdüren kurs öğretmeni.",
+    "yasakli_kelimeler": [
+      "kurs",
+      "test",
+      "sınav",
+      "üniversiteye hazırlık",
+      "soru"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 55,
+    "kategori": "meslekler",
+    "kelime": "eğitim danışmanı",
+    "aciklama": "öğrencilere hangi bölümleri veya okulları tercih etmeleri gerektiği konusunda yol gösteren profesyonel.",
+    "yasakli_kelimeler": [
+      "tercih",
+      "yol gösterme",
+      "kariyer",
+      "öğrenci",
+      "üniversite"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 56,
+    "kategori": "meslekler",
+    "kelime": "marangoz",
+    "aciklama": "ahşap ve keresteyi kesip biçerek masa, sandalye veya dolap üreten zanaatkar.",
+    "yasakli_kelimeler": [
+      "ahşap",
+      "tahta",
+      "çivi",
+      "testere",
+      "mobilya"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 57,
+    "kategori": "meslekler",
+    "kelime": "terzi",
+    "aciklama": "kumaşları kesip biçerek mezura yardımıyla elbise, pantolon veya ceket diken usta.",
+    "yasakli_kelimeler": [
+      "kumaş",
+      "dikiş",
+      "iğne",
+      "iplik",
+      "mezura"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 58,
+    "kategori": "meslekler",
+    "kelime": "berber",
+    "aciklama": "erkeklerin saçını ve sakalını makas, tıraş bıçağı veya makineyle kesen esnaf.",
+    "yasakli_kelimeler": [
+      "saç",
+      "sakal",
+      "tıraş",
+      "makas",
+      "kolonya"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 59,
+    "kategori": "meslekler",
+    "kelime": "kuaför",
+    "aciklama": "kadınların saçını kesen, boyayan, fön çeken ve gelin başı yapan güzellik uzmanı.",
+    "yasakli_kelimeler": [
+      "kadın",
+      "saç boyası",
+      "fön",
+      "kesim",
+      "makas"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 60,
+    "kategori": "meslekler",
+    "kelime": "dövmeci",
+    "aciklama": "özel mürekkep ve iğneler kullanarak insan derisine kalıcı desenler ve yazılar işleyen sanatçı.",
+    "yasakli_kelimeler": [
+      "iğne",
+      "mürekkep",
+      "deri",
+      "desen",
+      "dövme makinesi"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 61,
+    "kategori": "meslekler",
+    "kelime": "ayakkabı tamircisi",
+    "aciklama": "yıpranan ayakkabıların pençesini değiştiren, topuk çakan ve dikiş atan usta.",
+    "yasakli_kelimeler": [
+      "kundura",
+      "pençe",
+      "topuk",
+      "deri",
+      "boya"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 62,
+    "kategori": "meslekler",
+    "kelime": "saat tamircisi",
+    "aciklama": "büyüteç gözlüğüyle bozulan mekanik saatlerin içindeki çarkları onaran ince işçilik ustası.",
+    "yasakli_kelimeler": [
+      "saat",
+      "çark",
+      "büyüteç",
+      "pil",
+      "mekanizma"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 63,
+    "kategori": "meslekler",
+    "kelime": "anahtarcı",
+    "aciklama": "kaybolan anahtarların yedeğini çeken veya kapı kilitlerini değiştiren usta.",
+    "yasakli_kelimeler": [
+      "anahtar",
+      "kilit",
+      "çilingir",
+      "kapı",
+      "kopyalama"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 64,
+    "kategori": "meslekler",
+    "kelime": "oto tamircisi",
+    "aciklama": "arızalanan otomobillerin motorunu ve yürüyen aksamını sanayi sitesinde onaran usta.",
+    "yasakli_kelimeler": [
+      "araba",
+      "motor",
+      "sanayi",
+      "tamir",
+      "usta"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 65,
+    "kategori": "meslekler",
+    "kelime": "kaportacı",
+    "aciklama": "kaza yapmış arabaların eğrilen saç ve sac gövdesini çekiçle düzelten sanayi ustası.",
+    "yasakli_kelimeler": [
+      "araba",
+      "çekiç",
+      "kaza",
+      "düzeltme",
+      "gövde"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 66,
+    "kategori": "meslekler",
+    "kelime": "oto elektrikçisi",
+    "aciklama": "arabaların akü, far, marş motoru ve kablo arızalarını tespit edip tamir eden usta.",
+    "yasakli_kelimeler": [
+      "akü",
+      "far",
+      "kablo",
+      "marş",
+      "araba"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 67,
+    "kategori": "meslekler",
+    "kelime": "lastik tamircisi",
+    "aciklama": "patlayan araba lastiklerine yama yapan, rot balans ayarını yapan servis ustası.",
+    "yasakli_kelimeler": [
+      "lastik",
+      "patlak",
+      "hava",
+      "jant",
+      "yama"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 68,
+    "kategori": "meslekler",
+    "kelime": "kaynakçı",
+    "aciklama": "maske ve kaynak pensesi kullanarak metal parçaları yüksek ısıyla birbirine ergitip tutturan usta.",
+    "yasakli_kelimeler": [
+      "maske",
+      "demir",
+      "kıvılcım",
+      "metal",
+      "ısı"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 69,
+    "kategori": "meslekler",
+    "kelime": "tornacı",
+    "aciklama": "dönen metal veya ahşap parçaları kesici kalemle talaş kaldırarak şekillendiren atölye ustası.",
+    "yasakli_kelimeler": [
+      "torna tezgahı",
+      "talaş",
+      "metal",
+      "çelik",
+      "atölye"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 70,
+    "kategori": "meslekler",
+    "kelime": "camcı",
+    "aciklama": "pencere ve çerçeveler için elmas uçlu kesiciyle cam kesen ve takan esnaf.",
+    "yasakli_kelimeler": [
+      "cam",
+      "pencere",
+      "elmas kesici",
+      "çerçeve",
+      "kırık"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 71,
+    "kategori": "meslekler",
+    "kelime": "döşemeci",
+    "aciklama": "koltuk, kanepe veya araba koltuklarının eskiyen sünger ve kumaşlarını yenileyen usta.",
+    "yasakli_kelimeler": [
+      "koltuk",
+      "sünger",
+      "kumaş",
+      "zımba",
+      "mobilya"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 72,
+    "kategori": "meslekler",
+    "kelime": "mobilyacı",
+    "aciklama": "evler ve ofisler için dolap, yatak ve masa tasarlayıp atölyesinde monte eden usta.",
+    "yasakli_kelimeler": [
+      "dolap",
+      "masa",
+      "ahşap",
+      "montaj",
+      "mobilya"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 73,
+    "kategori": "meslekler",
+    "kelime": "kunduracı",
+    "aciklama": "deri kullanarak baştan sona özel üretim ayakkabı yapan geleneksel ayakkabı ustası.",
+    "yasakli_kelimeler": [
+      "ayakkabı",
+      "deri",
+      "kalıp",
+      "kösele",
+      "dikiş"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 74,
+    "kategori": "meslekler",
+    "kelime": "kalaycı",
+    "aciklama": "bakır tencere ve kapların içini ateşte eritilmiş kalayla kaplayarak zehirlenmeyi önleyen zanaatkar.",
+    "yasakli_kelimeler": [
+      "bakır",
+      "tencere",
+      "parlatma",
+      "ocak",
+      "zehirlenme"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 75,
+    "kategori": "meslekler",
+    "kelime": "demirci ustası",
+    "aciklama": "ocakta akkor haline gelen demiri örs üzerinde çekiçle döverek şekil veren geleneksel usta.",
+    "yasakli_kelimeler": [
+      "örs",
+      "çekiç",
+      "ateş",
+      "demir",
+      "dövmek"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 76,
+    "kategori": "meslekler",
+    "kelime": "kuyumcu",
+    "aciklama": "altın, gümüş ve pırlantadan bilezik, kolye gibi takılar üreten veya vitrinde satan esnaf.",
+    "yasakli_kelimeler": [
+      "altın",
+      "bilezik",
+      "takı",
+      "yüzük",
+      "pırlanta"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 77,
+    "kategori": "meslekler",
+    "kelime": "marangoz ustası",
+    "aciklama": "çırak ve kalfalara işi öğreten, atölyenin en kıdemli ve tecrübeli ahşap zanaatkarı.",
+    "yasakli_kelimeler": [
+      "usta",
+      "atölye",
+      "kıdemli",
+      "ahşap",
+      "öğretici"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 78,
+    "kategori": "meslekler",
+    "kelime": "terzi kalfası",
+    "aciklama": "ustasından mesleğin inceliklerini öğrenip kumaş kesim ve teyel işlerini yapan terzi yardımcısı.",
+    "yasakli_kelimeler": [
+      "teyel",
+      "kalfa",
+      "yardımcı",
+      "çırak",
+      "dikiş"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 79,
+    "kategori": "meslekler",
+    "kelime": "marangoz çırağı",
+    "aciklama": "marangoz atölyesinde talaş süpüren, zımpara yapan ve alet taşıyan en genç işçi.",
+    "yasakli_kelimeler": [
+      "çırak",
+      "talaş",
+      "zımpara",
+      "öğrenci",
+      "ayak işi"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 80,
+    "kategori": "meslekler",
+    "kelime": "çilingir",
+    "aciklama": "anahtarı içerde kalan veya bozulan kilitleri maymuncuk yardımıyla kapıya zarar vermeden açan usta.",
+    "yasakli_kelimeler": [
+      "kilit",
+      "anahtar",
+      "kapıda kalmak",
+      "maymuncuk",
+      "açmak"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 81,
+    "kategori": "meslekler",
+    "kelime": "oto boyacısı",
+    "aciklama": "kazalı araçların kaportasını zımparalayıp fırınlı kabinde boya tabancasıyla boyayan usta.",
+    "yasakli_kelimeler": [
+      "boya tabancası",
+      "fırın",
+      "araba",
+      "zımpara",
+      "parlak"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 82,
+    "kategori": "meslekler",
+    "kelime": "motor ustası",
+    "aciklama": "aracın kaputunun altındaki motor bloğunu söküp piston ve contalarını yenileyen sanayi ustası.",
+    "yasakli_kelimeler": [
+      "motor",
+      "piston",
+      "sanayi",
+      "kaput",
+      "tamir"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 83,
+    "kategori": "meslekler",
+    "kelime": "marangoz kalfa",
+    "aciklama": "çıraklıktan ustalığa geçiş aşamasında olan ve mobilya montajını tek başına yapabilen çalışan.",
+    "yasakli_kelimeler": [
+      "kalfa",
+      "montaj",
+      "marangoz",
+      "ara eleman",
+      "mobilya"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 84,
+    "kategori": "meslekler",
+    "kelime": "antika tamircisi",
+    "aciklama": "yüzyıllık tarihi mobilya ve ahşap eşyaları aslına sadık kalarak gomalak cilayla onaran uzman.",
+    "yasakli_kelimeler": [
+      "antika",
+      "restorasyon",
+      "tarihi eşya",
+      "cila",
+      "onarım"
+    ],
+    "zorluk": "zor"
+  },
+  {
+    "id": 85,
+    "kategori": "meslekler",
+    "kelime": "tespih ustası",
+    "aciklama": "kehribar, oltu taşı ve kuka gibi değerli taşları tornada delip tek tek taneler haline getiren zanaatkar.",
+    "yasakli_kelimeler": [
+      "tespih",
+      "kehribar",
+      "oltu taşı",
+      "tane",
+      "imame"
+    ],
+    "zorluk": "zor"
+  },
+  {
+    "id": 86,
+    "kategori": "meslekler",
+    "kelime": "elektrikçi",
+    "aciklama": "binaların kablo tesisatını çeken, priz, anahtar ve sigorta kutusu arızalarını yapan usta.",
+    "yasakli_kelimeler": [
+      "priz",
+      "kablo",
+      "sigorta",
+      "lamba",
+      "akım"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 87,
+    "kategori": "meslekler",
+    "kelime": "tesisatçı",
+    "aciklama": "evlerdeki temiz ve pis su borularını döşeyen, tıkanıklıkları açan boru ustası.",
+    "yasakli_kelimeler": [
+      "boru",
+      "su",
+      "musluk",
+      "tıkanıklık",
+      "lavabo"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 88,
+    "kategori": "meslekler",
+    "kelime": "musluk tamircisi",
+    "aciklama": "damlatan veya bozulan mutfak ve banyo bataryalarını söküp contalarını değiştiren usta.",
+    "yasakli_kelimeler": [
+      "damlama",
+      "batarya",
+      "conta",
+      "musluk",
+      "su sızıntısı"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 89,
+    "kategori": "meslekler",
+    "kelime": "boyacı",
+    "aciklama": "evlerin iç ve dış duvarlarını rulo ve fırçayla istenen renge boyayan inşaat ustası.",
+    "yasakli_kelimeler": [
+      "rulo",
+      "fırça",
+      "duvar",
+      "tavan",
+      "badana"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 90,
+    "kategori": "meslekler",
+    "kelime": "sıvacı",
+    "aciklama": "tuğla duvarların üzerine harç atarak düzgün ve pürüzsüz bir sıva tabakası çeken usta.",
+    "yasakli_kelimeler": [
+      "mala",
+      "harç",
+      "kum",
+      "çimento",
+      "duvar"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 91,
+    "kategori": "meslekler",
+    "kelime": "kalıpçı",
+    "aciklama": "beton dökülmeden önce ahşap veya çelik malzemeyle inşaat kolon ve kiriş kalıplarını çakan usta.",
+    "yasakli_kelimeler": [
+      "beton",
+      "kalıp",
+      "çivi",
+      "tahta",
+      "inşaat"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 92,
+    "kategori": "meslekler",
+    "kelime": "fayans ustası",
+    "aciklama": "banyo ve mutfak zeminlerine su terazisiyle düzgün biçimde seramik ve fayans döşeyen usta.",
+    "yasakli_kelimeler": [
+      "seramik",
+      "banyo",
+      "kalebodur",
+      "derz dolgu",
+      "yapıştırıcı"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 93,
+    "kategori": "meslekler",
+    "kelime": "çatı ustası",
+    "aciklama": "binaların tepesine kiremit dizen, yağmur oluklarını takan ve su yalıtımı yapan usta.",
+    "yasakli_kelimeler": [
+      "kiremit",
+      "bina tepesi",
+      "oluk",
+      "yağmur",
+      "çatı"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 94,
+    "kategori": "meslekler",
+    "kelime": "harita teknikeri",
+    "aciklama": "inşaat ve arazi sınırlarını nivo ve teodolit cihazlarıyla ölçerek harita çıkaran uzman.",
+    "yasakli_kelimeler": [
+      "nivo",
+      "ölçüm",
+      "arazi",
+      "sınır",
+      "kadastro"
+    ],
+    "zorluk": "zor"
+  },
+  {
+    "id": 95,
+    "kategori": "meslekler",
+    "kelime": "şantiye şefi",
+    "aciklama": "inşaat alanındaki tüm işçileri, mühendisleri ve malzeme akışını yerinde yöneten sorumlu mimar ya da mühendis.",
+    "yasakli_kelimeler": [
+      "şantiye",
+      "inşaat",
+      "yönetici",
+      "baret",
+      "sorumlu"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 96,
+    "kategori": "meslekler",
+    "kelime": "vinç operatörü",
+    "aciklama": "yüksek kule vinç kabininde oturarak inşaat malzemelerini gökdelen tepelerine taşıyan sürücü.",
+    "yasakli_kelimeler": [
+      "kule vinç",
+      "kabin",
+      "yük kaldırma",
+      "inşaat",
+      "halat"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 97,
+    "kategori": "meslekler",
+    "kelime": "kepçe operatörü",
+    "aciklama": "büyük iş makineleriyle temel çukuru kazan ve molozları kamyonlara yükleyen usta.",
+    "yasakli_kelimeler": [
+      "kepçe",
+      "kazmak",
+      "toprak",
+      "iş makinesi",
+      "hafriyat"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 98,
+    "kategori": "meslekler",
+    "kelime": "dozer operatörü",
+    "aciklama": "önündeki dev çelik bıçakla engebeli arazileri düzleyen ve tepecikleri yaran makine sürücüsü.",
+    "yasakli_kelimeler": [
+      "dozer",
+      "paletli",
+      "düzleme",
+      "toprak",
+      "yol yapımı"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 99,
+    "kategori": "meslekler",
+    "kelime": "asansör tamircisi",
+    "aciklama": "binalardaki asansörlerin çelik halatlarını, motorunu ve otomatik kapılarını onaran teknisyen.",
+    "yasakli_kelimeler": [
+      "halat",
+      "kabin",
+      "kat",
+      "kuyu",
+      "bakım"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 100,
+    "kategori": "meslekler",
+    "kelime": "doğalgaz tesisatçısı",
+    "aciklama": "kombi montajı yapan ve sarı doğalgaz borularını emniyetli biçimde döşeyen yetkili usta.",
+    "yasakli_kelimeler": [
+      "kombi",
+      "sarı boru",
+      "gaz",
+      "petek",
+      "ısıtma"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 101,
+    "kategori": "meslekler",
+    "kelime": "parkeci",
+    "aciklama": "odaların zeminine süpürgelikleriyle birlikte laminat veya masif ahşap parke döşeyen usta.",
+    "yasakli_kelimeler": [
+      "laminat",
+      "zemin",
+      "ahşap",
+      "süpürgelik",
+      "döşeme"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 102,
+    "kategori": "meslekler",
+    "kelime": "duvar ustası",
+    "aciklama": "çimento ve harçla tuğlaları veya gazbeton blokları üst üste dizerek duvar ören inşaatçı.",
+    "yasakli_kelimeler": [
+      "tuğla",
+      "harç",
+      "mala",
+      "örmek",
+      "bina"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 103,
+    "kategori": "meslekler",
+    "kelime": "yalıtım ustası",
+    "aciklama": "binaların dış cephesine köpük strafor yapıştırarak ısı ve ses yalıtımı yapan usta.",
+    "yasakli_kelimeler": [
+      "mantolama",
+      "strafor",
+      "ısı yalıtımı",
+      "dış cephe",
+      "enerji tasarrufu"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 104,
+    "kategori": "meslekler",
+    "kelime": "mikser şoförü",
+    "aciklama": "arkasında dönen dev kazanıyla hazır yaş betonu inşaat temeline taşıyan kamyon sürücüsü.",
+    "yasakli_kelimeler": [
+      "hazır beton",
+      "dönen kazan",
+      "kamyon",
+      "şantiye",
+      "dökmek"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 105,
+    "kategori": "meslekler",
+    "kelime": "iskele ustası",
+    "aciklama": "yüksek binaların dış cephesine işçilerin güvenle çalışması için demir borulardan iskele kuran usta.",
+    "yasakli_kelimeler": [
+      "demir iskele",
+      "dış cephe",
+      "güvenlik",
+      "yükseklik",
+      "kurulum"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 106,
+    "kategori": "meslekler",
+    "kelime": "inşaat kalfası",
+    "aciklama": "şantiye ortamında ustaların verdiği talimatlara göre demir bağlayan veya harç taşıyan çalışan.",
+    "yasakli_kelimeler": [
+      "şantiye",
+      "harç",
+      "kalfa",
+      "inşaat işçisi",
+      "çalışan"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 107,
+    "kategori": "meslekler",
+    "kelime": "hafriyatçı",
+    "aciklama": "bina temellerinden çıkan yüzlerce kamyon toprağı ve kayayı döküm sahasına taşıyan işletmeci.",
+    "yasakli_kelimeler": [
+      "toprak dökümü",
+      "kamyon",
+      "kazı",
+      "moloz",
+      "temel"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 108,
+    "kategori": "meslekler",
+    "kelime": "alçı ustası",
+    "aciklama": "duvar ve tavanlara kartonpiyer, asma tavan veya saten alçı çekerek pürüzsüzleştiren usta.",
+    "yasakli_kelimeler": [
+      "alçıpan",
+      "kartonpiyer",
+      "beyaz",
+      "tavan",
+      "saten"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 109,
+    "kategori": "meslekler",
+    "kelime": "mermerci",
+    "aciklama": "mutfak tezgahları ve mezar taşları için ağır mermer blokları kesip cilalayan atölye ustası.",
+    "yasakli_kelimeler": [
+      "mermer",
+      "tezgah",
+      "granit",
+      "kesim",
+      "taş"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 110,
+    "kategori": "meslekler",
+    "kelime": "çelik montajcısı",
+    "aciklama": "gökdelenlerin veya fabrikaların çelik konstrüksiyon iskeletini cıvata ve kaynakla birleştiren işçi.",
+    "yasakli_kelimeler": [
+      "çelik",
+      "iskelet",
+      "cıvata",
+      "fabrika",
+      "yüksekte çalışma"
+    ],
+    "zorluk": "zor"
+  },
+  {
+    "id": 111,
+    "kategori": "meslekler",
+    "kelime": "aşçı",
+    "aciklama": "restoran ve lokanta mutfaklarında tencere yemekleri, çorbalar ve lezzetli menüler pişiren usta.",
+    "yasakli_kelimeler": [
+      "yemek",
+      "mutfak",
+      "önlük",
+      "tencere",
+      "lezzet"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 112,
+    "kategori": "meslekler",
+    "kelime": "baş aşçı",
+    "aciklama": "büyük otel ve restoranlarda menüyü belirleyen, mutfak ekibini yöneten en kıdemli şef.",
+    "yasakli_kelimeler": [
+      "executive chef",
+      "şef",
+      "mutfak lideri",
+      "menü",
+      "otel"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 113,
+    "kategori": "meslekler",
+    "kelime": "garson",
+    "aciklama": "masalardan sipariş alan, yemekleri ve içecekleri tepsiyle masaya servis eden restoran çalışanı.",
+    "yasakli_kelimeler": [
+      "sipariş",
+      "tepsi",
+      "bahşiş",
+      "servis",
+      "adisyona"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 114,
+    "kategori": "meslekler",
+    "kelime": "komi",
+    "aciklama": "garsonun getirdiği siparişleri masaya taşıyan, boş tabakları toplayan restoran çırağı.",
+    "yasakli_kelimeler": [
+      "garson yardımcısı",
+      "boş toplama",
+      "tabak",
+      "çırak",
+      "restoran"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 115,
+    "kategori": "meslekler",
+    "kelime": "barmen",
+    "aciklama": "bar tezgahının arkasında kokteyller hazırlayan ve içecek servisi yapan profesyonel.",
+    "yasakli_kelimeler": [
+      "içecek",
+      "kokteyl",
+      "shaker",
+      "bar tezgahı",
+      "gece"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 116,
+    "kategori": "meslekler",
+    "kelime": "kahveci",
+    "aciklama": "kahvehanelerde veya kafelerde çay ve közde türk kahvesi pişirip bardakları dolduran esnaf.",
+    "yasakli_kelimeler": [
+      "çay",
+      "türk kahvesi",
+      "ocak",
+      "kahvehane",
+      "tepsi"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 117,
+    "kategori": "meslekler",
+    "kelime": "pastacı",
+    "aciklama": "yaş pasta, kek, kurabiye ve tatlı hamur işlerini kremayla süsleyip fırınlayan usta.",
+    "yasakli_kelimeler": [
+      "yaş pasta",
+      "krema",
+      "doğum günü",
+      "kurabiye",
+      "tatlı"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 118,
+    "kategori": "meslekler",
+    "kelime": "fırıncı",
+    "aciklama": "gece yarısından itibaren hamur yoğurup sıcacık ekmek ve pideleri kürekle fırına süren esnaf.",
+    "yasakli_kelimeler": [
+      "ekmek",
+      "un",
+      "hamur",
+      "kürek",
+      "taş fırın"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 119,
+    "kategori": "meslekler",
+    "kelime": "kasap",
+    "aciklama": "büyükbaş ve küçükbaş hayvan etlerini parçalayıp kıyma, kuşbaşı ve pirzola hazırlayan esnaf.",
+    "yasakli_kelimeler": [
+      "et",
+      "kıyma",
+      "bıçak",
+      "satır",
+      "pirzola"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 120,
+    "kategori": "meslekler",
+    "kelime": "manav",
+    "aciklama": "taze sebze ve meyveleri kasalarda sergileyip teraziyle tartan mahalle esnafı.",
+    "yasakli_kelimeler": [
+      "meyve",
+      "sebze",
+      "kasa",
+      "elma",
+      "terazi"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 121,
+    "kategori": "meslekler",
+    "kelime": "bakkal",
+    "aciklama": "mahalle aralarında ekmek, gazete, süt ve temel gıda maddeleri satan küçük dükkan sahibi.",
+    "yasakli_kelimeler": [
+      "mahalle",
+      "veresiye defteri",
+      "küçük market",
+      "dükkan",
+      "çocuk"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 122,
+    "kategori": "meslekler",
+    "kelime": "şarküterici",
+    "aciklama": "peynir çeşitleri, zeytin, pastırma ve sucuk gibi kahvaltılık ürünleri dilimleyip satan esnaf.",
+    "yasakli_kelimeler": [
+      "peynir",
+      "zeytin",
+      "pastırma",
+      "kahvaltılık",
+      "dilimleme"
+    ],
+    "zorluk": "zor"
+  },
+  {
+    "id": 123,
+    "kategori": "meslekler",
+    "kelime": "balıkçı esnafı",
+    "aciklama": "buzlar üzerine serdiği taze hamsi, palamut ve çipurayı bağırarak satan tezgah sahibi.",
+    "yasakli_kelimeler": [
+      "balık",
+      "hamsi",
+      "tezgah",
+      "taze",
+      "deniz ürünü"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 124,
+    "kategori": "meslekler",
+    "kelime": "dönerci ustası",
+    "aciklama": "dikey şişe geçirilmiş et blokunu döner bıçağıyla ince ince yaprak gibi kesen usta.",
+    "yasakli_kelimeler": [
+      "döner",
+      "yaprak döner",
+      "dikey şiş",
+      "pide arası",
+      "kesmek"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 125,
+    "kategori": "meslekler",
+    "kelime": "kebapçı ustası",
+    "aciklama": "zırhla kıydığı kıymayı demir şişlere saplayarak kömür ateşinde adana veya urfa pişiren usta.",
+    "yasakli_kelimeler": [
+      "zırh",
+      "şiş",
+      "kebap",
+      "ocakbaşı",
+      "mangal"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 126,
+    "kategori": "meslekler",
+    "kelime": "pideci",
+    "aciklama": "uzun hamurun üzerine kıyma, kaşar veya kuşbaşı koyup fırına süren hamurkar.",
+    "yasakli_kelimeler": [
+      "pide",
+      "kaşarlı",
+      "kuşbaşılı",
+      "fırın",
+      "hamur"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 127,
+    "kategori": "meslekler",
+    "kelime": "tatlıcı ustası",
+    "aciklama": "baklava yufkalarını incecik açıp şerbetini döken geleneksel tatlı ustası.",
+    "yasakli_kelimeler": [
+      "baklava",
+      "şerbet",
+      "yufka",
+      "antep fıstığı",
+      "tepsi"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 128,
+    "kategori": "meslekler",
+    "kelime": "köfteci",
+    "aciklama": "kıymayı baharatlarla yoğurup ızgarada cızır cızır pişiren lokanta esnafı.",
+    "yasakli_kelimeler": [
+      "köfte",
+      "ızgara",
+      "ekmek arası",
+      "piyaz",
+      "duman"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 129,
+    "kategori": "meslekler",
+    "kelime": "bulaşıkçı",
+    "aciklama": "lokanta ve otel mutfaklarında dağ gibi biriken kirli tabak, tencere ve tavaları yıkayan çalışan.",
+    "yasakli_kelimeler": [
+      "kirli tabak",
+      "yıkamak",
+      "deterjan",
+      "mutfak",
+      "sünger"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 130,
+    "kategori": "meslekler",
+    "kelime": "şef garson",
+    "aciklama": "salondaki tüm garsonları ve servis düzenini organize eden kravatlı kıdemli garson.",
+    "yasakli_kelimeler": [
+      "metrdotel",
+      "kıdemli",
+      "kravat",
+      "salon yönetimi",
+      "servis"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 131,
+    "kategori": "meslekler",
+    "kelime": "fırıncı çırağı",
+    "aciklama": "sabahın erken saatlerinde sıcak ekmekleri kasalara dolduran ve dükkanı süpüren genç yardımcı.",
+    "yasakli_kelimeler": [
+      "ekmek kasası",
+      "sabah erken",
+      "fırın",
+      "yardımcı",
+      "un çuvalı"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 132,
+    "kategori": "meslekler",
+    "kelime": "simitçi",
+    "aciklama": "başının üstündeki tepside veya camlı arabasında çıtır susamlı simit satarak dolaşan sokak esnafı.",
+    "yasakli_kelimeler": [
+      "simit",
+      "susam",
+      "tepsi",
+      "sokak",
+      "çıtır"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 133,
+    "kategori": "meslekler",
+    "kelime": "çiğ köfteci",
+    "aciklama": "büyük metal leğende bulgur ve isotu yoğurup lavaş arasına sıkan dükkan ustası.",
+    "yasakli_kelimeler": [
+      "çiğ köfte",
+      "lavaş",
+      "isot",
+      "yoğurmak",
+      "marul"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 134,
+    "kategori": "meslekler",
+    "kelime": "çorbacı",
+    "aciklama": "gece geç saatlere kadar kelle paça, mercimek ve işkembe çorbası kaynatan lokantacı.",
+    "yasakli_kelimeler": [
+      "çorba",
+      "işkembe",
+      "kelle paça",
+      "sarımsak",
+      "gece"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 135,
+    "kategori": "meslekler",
+    "kelime": "lokantacı",
+    "aciklama": "esnaf lokantasında tezgahtaki tencerelerden tabaklara kuru fasulye ve pilav koyan dükkan sahibi.",
+    "yasakli_kelimeler": [
+      "esnaf lokantası",
+      "tencere",
+      "kuru fasulye",
+      "pilav",
+      "yemek"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 136,
+    "kategori": "meslekler",
+    "kelime": "itfaiyeci",
+    "aciklama": "çıkan yangınları hortumla su sıkarak söndüren ve kazalarda insanları kurtaran cesur kamu görevlisi.",
+    "yasakli_kelimeler": [
+      "yangın",
+      "hortum",
+      "itfaiye aracı",
+      "kurtarma",
+      "duman"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 137,
+    "kategori": "meslekler",
+    "kelime": "polis memuru",
+    "aciklama": "toplumun huzurunu ve güvenliğini sağlayan, suçluları yakalayan üniformalı emniyet görevlisi.",
+    "yasakli_kelimeler": [
+      "emniyet",
+      "üniforma",
+      "suçlu",
+      "telsiz",
+      "kelepçe"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 138,
+    "kategori": "meslekler",
+    "kelime": "trafik polisi",
+    "aciklama": "kavşaklarda trafiği yönlendiren, alkol ve ehliyet denetimi yapıp ceza kesen polis.",
+    "yasakli_kelimeler": [
+      "düdük",
+      "ehliyet",
+      "ceza",
+      "trafik",
+      "çevirme"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 139,
+    "kategori": "meslekler",
+    "kelime": "yunus polisi",
+    "aciklama": "büyük motosikletlerle şehir sokaklarında hızlı devriye atan mavi-kırmızı üniformalı motorize polis.",
+    "yasakli_kelimeler": [
+      "motosiklet",
+      "motorize",
+      "kask",
+      "hızlı",
+      "devriye"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 140,
+    "kategori": "meslekler",
+    "kelime": "zabıta memuru",
+    "aciklama": "belediyeye bağlı olarak sokak satıcılarını, fırın gramajlarını ve pazar yerlerini denetleyen görevli.",
+    "yasakli_kelimeler": [
+      "belediye",
+      "pazar",
+      "denetim",
+      "seyyar satıcı",
+      "ceza"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 141,
+    "kategori": "meslekler",
+    "kelime": "özel güvenlik",
+    "aciklama": "alışveriş merkezlerinde, bankalarda veya sitelerde dedektörle güvenlik kontrolü yapan personel.",
+    "yasakli_kelimeler": [
+      "avm",
+      "dedektör",
+      "kimlik sorma",
+      "üniforma",
+      "nöbet"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 142,
+    "kategori": "meslekler",
+    "kelime": "gece bekçisi",
+    "aciklama": "geceleri sokaklarda düdük çalarak hırsızlıklara karşı devriye gezen çarşı ve mahalle bekçisi.",
+    "yasakli_kelimeler": [
+      "düdük",
+      "gece",
+      "mahalle",
+      "devriye",
+      "kahverengi üniforma"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 143,
+    "kategori": "meslekler",
+    "kelime": "gardiyan",
+    "aciklama": "cezaevlerinde tutuklu ve hükümlülerin düzenini sağlayan infaz ve koruma memuru.",
+    "yasakli_kelimeler": [
+      "cezaevi",
+      "hapishane",
+      "koğuş",
+      "mahkum",
+      "anahtar"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 144,
+    "kategori": "meslekler",
+    "kelime": "savcı",
+    "aciklama": "suç işlendiğinde devlet adına soruşturma açan, delil toplayan ve ceza davası açan adli makam.",
+    "yasakli_kelimeler": [
+      "adliye",
+      "iddianame",
+      "mahkeme",
+      "soruşturma",
+      "dava"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 145,
+    "kategori": "meslekler",
+    "kelime": "mahkeme katibi",
+    "aciklama": "duruşmalarda hakimin söylediklerini bilgisayarda tutanağa geçiren adliye zabıt memuru.",
+    "yasakli_kelimeler": [
+      "tutanak",
+      "duruşma",
+      "yazmak",
+      "klavye",
+      "zabıt"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 146,
+    "kategori": "meslekler",
+    "kelime": "pasaport polisi",
+    "aciklama": "havaalanlarında ve sınır kapılarında yurtdışına çıkanların pasaport ve vizelerini damgalayan polis.",
+    "yasakli_kelimeler": [
+      "havaalanı",
+      "pasaport",
+      "vize",
+      "sınır",
+      "damga"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 147,
+    "kategori": "meslekler",
+    "kelime": "vergi memuru",
+    "aciklama": "vatandaşların ve şirketlerin vergi beyannamelerini inceleyen, vergi dairesi personeli.",
+    "yasakli_kelimeler": [
+      "vergi dairesi",
+      "maliye",
+      "fatura",
+      "ödeme",
+      "beyanname"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 148,
+    "kategori": "meslekler",
+    "kelime": "nüfus memuru",
+    "aciklama": "doğum, evlilik ve kimlik kartı çıkarma işlemlerini gerçekleştiren nüfus müdürlüğü çalışanı.",
+    "yasakli_kelimeler": [
+      "kimlik kartı",
+      "doğum belgesi",
+      "nüfus cüzdanı",
+      "müdürlük",
+      "randevu"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 149,
+    "kategori": "meslekler",
+    "kelime": "tapu memuru",
+    "aciklama": "ev ve arsa alım satımlarında tapu devir senetlerini onaylayan devlet memuru.",
+    "yasakli_kelimeler": [
+      "arsa",
+      "ev alım satım",
+      "mülk",
+      "tapu senedi",
+      "devir"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 150,
+    "kategori": "meslekler",
+    "kelime": "postane memuru",
+    "aciklama": "ptt şubelerinde mektup kabul eden, havale ve fatura ödemelerini alan gişe görevlisi.",
+    "yasakli_kelimeler": [
+      "ptt",
+      "mektup",
+      "kargo",
+      "gişe",
+      "fatura yatırma"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 151,
+    "kategori": "meslekler",
+    "kelime": "kütüphaneci",
+    "aciklama": "kütüphanelerdeki kitapları tasnif eden, ödünç veren ve sessizliği sağlayan uzman.",
+    "yasakli_kelimeler": [
+      "kitap",
+      "sessizlik",
+      "ödünç alma",
+      "raf",
+      "kütüphane"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 152,
+    "kategori": "meslekler",
+    "kelime": "orman muhafızı",
+    "aciklama": "ormanlarda ağaç kesimini, kaçak avcılığı ve yangınları denetleyen yeşil üniformalı memur.",
+    "yasakli_kelimeler": [
+      "orman",
+      "ağaç kesimi",
+      "kaçak av",
+      "yangın gözetleme",
+      "tüfek"
+    ],
+    "zorluk": "zor"
+  },
+  {
+    "id": 153,
+    "kategori": "meslekler",
+    "kelime": "belediye işçisi",
+    "aciklama": "sokakların temizliği, yol onarımı veya parkların çim biçme işlerini yürüten kamu işçisi.",
+    "yasakli_kelimeler": [
+      "belediye",
+      "yelek",
+      "sokak",
+      "çalışan",
+      "kamu"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 154,
+    "kategori": "meslekler",
+    "kelime": "çöpçü",
+    "aciklama": "sabah erken saatlerde çöp kamyonunun arkasında durarak konteynerleri boşaltan temizlik görevlisi.",
+    "yasakli_kelimeler": [
+      "çöp kamyonu",
+      "konteyner",
+      "süpürge",
+      "atık",
+      "sokak"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 155,
+    "kategori": "meslekler",
+    "kelime": "park görevlisi",
+    "aciklama": "belediye parklarındaki ağaçları sulayan, çiçek eken ve bankların bakımını yapan işçi.",
+    "yasakli_kelimeler": [
+      "park",
+      "sulama",
+      "çiçek",
+      "bahçe",
+      "belediye"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 156,
+    "kategori": "meslekler",
+    "kelime": "adliye katibi",
+    "aciklama": "mahkeme evraklarını dosyalayan, duruşma listesini asan ve tebligatları hazırlayan personel.",
+    "yasakli_kelimeler": [
+      "adliye",
+      "dosya",
+      "evrak",
+      "tebligat",
+      "mahkeme"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 157,
+    "kategori": "meslekler",
+    "kelime": "cezaevi gardiyanı",
+    "aciklama": "hapishane kapılarını kilitleyen, sayım yapan ve koğuş güvenliğini sağlayan görevli.",
+    "yasakli_kelimeler": [
+      "hapishane",
+      "koğuş",
+      "sayım",
+      "mahkum",
+      "kapı"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 158,
+    "kategori": "meslekler",
+    "kelime": "polis amiri",
+    "aciklama": "karakolda veya şubede polis ekiplerinin çalışmalarını yöneten rütbeli emniyet mensubu.",
+    "yasakli_kelimeler": [
+      "karakol",
+      "rütbe",
+      "yönetici",
+      "emniyet",
+      "polis"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 159,
+    "kategori": "meslekler",
+    "kelime": "komiser",
+    "aciklama": "polis merkezlerinde yardımcılık veya kısım amirliği yapan yıldızlı rütbeli polis.",
+    "yasakli_kelimeler": [
+      "rütbe",
+      "yıldız",
+      "karakol",
+      "amir",
+      "soruşturma"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 160,
+    "kategori": "meslekler",
+    "kelime": "itfaiye eri",
+    "aciklama": "itfaiye aracının arkasındaki merdiveni açan ve alevlerin içine girerek söndürme yapan görevli.",
+    "yasakli_kelimeler": [
+      "alev",
+      "itfaiye",
+      "merdiven",
+      "hortum",
+      "kask"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 161,
+    "kategori": "meslekler",
+    "kelime": "kasiyer",
+    "aciklama": "süpermarketlerde veya mağazalarda ürünlerin barkodunu okutup para üstü veren çalışan.",
+    "yasakli_kelimeler": [
+      "market",
+      "barkod",
+      "pos cihazı",
+      "kasa",
+      "para"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 162,
+    "kategori": "meslekler",
+    "kelime": "muhasebeci",
+    "aciklama": "şirketlerin gelir gider hesaplarını tutan, faturaları işleyen ve vergi hesaplayan meslek erbabı.",
+    "yasakli_kelimeler": [
+      "hesap",
+      "vergi",
+      "fatura",
+      "defter",
+      "para"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 163,
+    "kategori": "meslekler",
+    "kelime": "mali müşavir",
+    "aciklama": "şirketlerin resmi muhasebe defterlerini onaylayan ve devlete mali beyan veren ruhsatlı uzman.",
+    "yasakli_kelimeler": [
+      "ruhsat",
+      "beyanname",
+      "vergi",
+      "denetim",
+      "şirket"
+    ],
+    "zorluk": "zor"
+  },
+  {
+    "id": 164,
+    "kategori": "meslekler",
+    "kelime": "bankacı",
+    "aciklama": "banka şubelerinde kredi, mevduat ve hesap işlemlerini yürüten takım elbiseli çalışan.",
+    "yasakli_kelimeler": [
+      "banka",
+      "kredi",
+      "hesap",
+      "para",
+      "mevduat"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 165,
+    "kategori": "meslekler",
+    "kelime": "veznedar",
+    "aciklama": "banka veya kurum gişelerinde nakit para yatırma ve çekme işlemlerini yapan görevli.",
+    "yasakli_kelimeler": [
+      "gişe",
+      "nakit para",
+      "sayma",
+      "para yatırma",
+      "banka"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 166,
+    "kategori": "meslekler",
+    "kelime": "sigortacı",
+    "aciklama": "kasko, trafik veya sağlık poliçeleri düzenleyerek risklere karşı güvence satan acente.",
+    "yasakli_kelimeler": [
+      "kasko",
+      "poliçe",
+      "kaza",
+      "hasar",
+      "prim"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 167,
+    "kategori": "meslekler",
+    "kelime": "emlakçı",
+    "aciklama": "kiralık veya satılık ev ve arsaların ilanını veren, alıcıyla ev sahibini buluşturan aracı.",
+    "yasakli_kelimeler": [
+      "kiralık",
+      "satılık",
+      "ev",
+      "daire",
+      "komisyon"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 168,
+    "kategori": "meslekler",
+    "kelime": "sekreter",
+    "aciklama": "ofislerde telefonlara bakan, randevuları ayarlayan ve gelen misafirleri karşılayan büro çalışanı.",
+    "yasakli_kelimeler": [
+      "telefon",
+      "randevu",
+      "ofis",
+      "not almak",
+      "yönetici"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 169,
+    "kategori": "meslekler",
+    "kelime": "çağrı operatörü",
+    "aciklama": "kulaklık takarak müşterilerin şikayet ve arıza taleplerini telefonla çözen görevli.",
+    "yasakli_kelimeler": [
+      "çağrı merkezi",
+      "kulaklık",
+      "telefon",
+      "müşteri",
+      "müşteri hizmetleri"
+    ],
+    "zorluk": "zor"
+  },
+  {
+    "id": 170,
+    "kategori": "meslekler",
+    "kelime": "vale",
+    "aciklama": "restoran veya otel girişinde müşterilerin arabalarını alıp otoparka park eden görevli.",
+    "yasakli_kelimeler": [
+      "otopark",
+      "araba",
+      "anahtar",
+      "bahşiş",
+      "kapı"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 171,
+    "kategori": "meslekler",
+    "kelime": "apartman görevlisi",
+    "aciklama": "sitelerde ve binalarda sabah ekmek dağıtan, çöpleri toplayan ve bahçeyi sulayan kapıcı.",
+    "yasakli_kelimeler": [
+      "kapıcı",
+      "çöp",
+      "ekmek",
+      "apartman",
+      "bina"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 172,
+    "kategori": "meslekler",
+    "kelime": "temizlik görevlisi",
+    "aciklama": "okul, hastane veya ofislerin zeminlerini paspaslayıp masaları silen hijyen çalışanı.",
+    "yasakli_kelimeler": [
+      "paspas",
+      "süpürge",
+      "hijyen",
+      "çöp",
+      "ofis"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 173,
+    "kategori": "meslekler",
+    "kelime": "kargo kuryesi",
+    "aciklama": "internet alışverişi paketlerini minibüs veya motorla kapıya kadar getirip teslim eden çalışan.",
+    "yasakli_kelimeler": [
+      "paket",
+      "teslimat",
+      "kargo",
+      "kapı",
+      "imza"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 174,
+    "kategori": "meslekler",
+    "kelime": "motor kurye",
+    "aciklama": "sırtındaki ısı yalıtımlı kutuyla trafikte hızla sıcak yemek siparişlerini ulaştıran motosikletli.",
+    "yasakli_kelimeler": [
+      "motosiklet",
+      "kask",
+      "yemek siparişi",
+      "paket",
+      "hızlı"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 175,
+    "kategori": "meslekler",
+    "kelime": "satış danışmanı",
+    "aciklama": "mağazada kıyafet veya ayakkabı denerken beden bulan ve ürün tavsiye eden personel.",
+    "yasakli_kelimeler": [
+      "mağaza",
+      "beden",
+      "yardım",
+      "reyon",
+      "tavsiye"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 176,
+    "kategori": "meslekler",
+    "kelime": "reyon görevlisi",
+    "aciklama": "market raflarına eksilen bisküvi, deterjan ve içecekleri dizen mağaza elemanı.",
+    "yasakli_kelimeler": [
+      "raf",
+      "ürün dizme",
+      "market",
+      "etiket",
+      "fiyat"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 177,
+    "kategori": "meslekler",
+    "kelime": "satış temsilcisi",
+    "aciklama": "şirketin ürünlerini kurumsal müşterilere tanıtarak satış sözleşmesi bağlayan pazarlamacı.",
+    "yasakli_kelimeler": [
+      "müşteri",
+      "satış",
+      "sözleşme",
+      "tanıtım",
+      "hedef"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 178,
+    "kategori": "meslekler",
+    "kelime": "basın danışmanı",
+    "aciklama": "ünlü birinin veya bakanlığın medya ilişkilerini, basın bültenlerini ve röportajlarını yöneten uzman.",
+    "yasakli_kelimeler": [
+      "medya",
+      "basın bülteni",
+      "açıklama",
+      "gazeteci",
+      "röportaj"
+    ],
+    "zorluk": "zor"
+  },
+  {
+    "id": 179,
+    "kategori": "meslekler",
+    "kelime": "personel müdürü",
+    "aciklama": "şirkete yeni çalışanlar alan, maaş ve izin bordrolarını takip eden insan kaynakları yöneticisi.",
+    "yasakli_kelimeler": [
+      "işe alım",
+      "maaş",
+      "bordro",
+      "izin",
+      "mülakat"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 180,
+    "kategori": "meslekler",
+    "kelime": "danışma görevlisi",
+    "aciklama": "bina veya hastane girişinde danışma masasında oturarak gelenleri doğru kata yönlendiren personel.",
+    "yasakli_kelimeler": [
+      "danışma",
+      "yönlendirme",
+      "giriş",
+      "bilgi",
+      "kat"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 181,
+    "kategori": "meslekler",
+    "kelime": "otobüs şoförü",
+    "aciklama": "büyük yolcu otobüsünü şehir içi veya şehirlerarası güzergahta kullanan sürücü.",
+    "yasakli_kelimeler": [
+      "otobüs",
+      "direksiyon",
+      "yolcu",
+      "durak",
+      "sefer"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 182,
+    "kategori": "meslekler",
+    "kelime": "taksi şoförü",
+    "aciklama": "sarı renkli ticari taksisini şehirde sürerek müşterileri taksimetreyle taşıyan şoför.",
+    "yasakli_kelimeler": [
+      "sarı araba",
+      "taksimetre",
+      "müşteri",
+      "durak",
+      "ücret"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 183,
+    "kategori": "meslekler",
+    "kelime": "dolmuş şoförü",
+    "aciklama": "yolcuların 'müsait bir yerde' diyerek indiği ve arkadan para uzattığı minibüs sürücüsü.",
+    "yasakli_kelimeler": [
+      "minibüs",
+      "para uzatmak",
+      "müsait bir yer",
+      "bozuk para",
+      "hat"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 184,
+    "kategori": "meslekler",
+    "kelime": "kamyon şoförü",
+    "aciklama": "uzun yollarda ağır yük ve kum taşıyan damperli büyük yük arabası sürücüsü.",
+    "yasakli_kelimeler": [
+      "kamyon",
+      "damper",
+      "ağır vasıta",
+      "yük",
+      "uzun yol"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 185,
+    "kategori": "meslekler",
+    "kelime": "tır şoförü",
+    "aciklama": "dorse takılı dev çekicilerle ülkeler arası otoyollarda yük ve konteyner taşıyan sürücü.",
+    "yasakli_kelimeler": [
+      "çekici",
+      "dorse",
+      "uzun yol",
+      "konteyner",
+      "otoyol"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 186,
+    "kategori": "meslekler",
+    "kelime": "makinist",
+    "aciklama": "demiryollarında lokomotifin başına geçerek yolcu ve yük trenini süren görevli.",
+    "yasakli_kelimeler": [
+      "tren",
+      "lokomotif",
+      "ray",
+      "gar",
+      "istasyon"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 187,
+    "kategori": "meslekler",
+    "kelime": "tramvay vatmanı",
+    "aciklama": "şehir içi caddelerde raylar üzerinde giden elektrikli tramvayı kullanan sürücü.",
+    "yasakli_kelimeler": [
+      "tramvay",
+      "ray",
+      "vatman",
+      "elektrikli",
+      "şehir içi"
+    ],
+    "zorluk": "zor"
+  },
+  {
+    "id": 188,
+    "kategori": "meslekler",
+    "kelime": "pilot",
+    "aciklama": "kokpitte oturarak yolcu veya kargo uçağını havalandırıp gökyüzünde rotasında uçuran havacı.",
+    "yasakli_kelimeler": [
+      "uçak",
+      "kokpit",
+      "uçmak",
+      "havaalanı",
+      "üniforma"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 189,
+    "kategori": "meslekler",
+    "kelime": "uçuş görevlisi",
+    "aciklama": "uçak yolculuğunda acil durum kurallarını gösteren ve ikram dağıtan kabin personeli.",
+    "yasakli_kelimeler": [
+      "hostes",
+      "uçak",
+      "ikram",
+      "kabin",
+      "anons"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 190,
+    "kategori": "meslekler",
+    "kelime": "servis şoförü",
+    "aciklama": "sabahları okul öğrencilerini veya fabrika işçilerini evlerinden toplayıp götüren minibüs şoförü.",
+    "yasakli_kelimeler": [
+      "okul servisi",
+      "minibüs",
+      "öğrenci",
+      "sabah",
+      "plaka"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 191,
+    "kategori": "meslekler",
+    "kelime": "pompacı",
+    "aciklama": "benzin istasyonlarında araçların yakıt deposuna tabancayla benzin veya mazot dolduran görevli.",
+    "yasakli_kelimeler": [
+      "benzinlik",
+      "yakıt",
+      "mazot",
+      "istasyon",
+      "tabanca"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 192,
+    "kategori": "meslekler",
+    "kelime": "çiçekçi",
+    "aciklama": "dükkanında veya sokak tezgahında gül, lale ve buket çiçekler hazırlayıp satan esnaf.",
+    "yasakli_kelimeler": [
+      "gül",
+      "buket",
+      "papatya",
+      "saksı",
+      "çiçek satmak"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 193,
+    "kategori": "meslekler",
+    "kelime": "tüpçü",
+    "aciklama": "evlerde ocak veya şofben için biten büyük mutfak tüpünü sırtında taşıyıp dedantörünü takan esnaf.",
+    "yasakli_kelimeler": [
+      "aygaz",
+      "mutfak tüpü",
+      "ocak",
+      "dedantör",
+      "değişim"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 194,
+    "kategori": "meslekler",
+    "kelime": "kuru temizlemeci",
+    "aciklama": "takım elbise ve paltoları su kullanmadan kimyasal buharla temizleyip ütüleyen dükkan.",
+    "yasakli_kelimeler": [
+      "takım elbise",
+      "buhar",
+      "leke",
+      "ütü",
+      "askı"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 195,
+    "kategori": "meslekler",
+    "kelime": "lostracı",
+    "aciklama": "meydanlarda sandığının başına oturarak müşterilerin ayakkabılarını fırçalayıp parlatan esnaf.",
+    "yasakli_kelimeler": [
+      "ayakkabı boyacısı",
+      "fırça",
+      "boya",
+      "sandık",
+      "parlatma"
+    ],
+    "zorluk": "zor"
+  },
+  {
+    "id": 196,
+    "kategori": "meslekler",
+    "kelime": "aktar",
+    "aciklama": "şifalı bitkiler, ıhlamur, zencefil ve baharat çeşitlerini çuvallardan tartan geleneksel dükkan.",
+    "yasakli_kelimeler": [
+      "baharat",
+      "şifalı ot",
+      "ıhlamur",
+      "zencefil",
+      "koku"
+    ],
+    "zorluk": "zor"
+  },
+  {
+    "id": 197,
+    "kategori": "meslekler",
+    "kelime": "gazeteci",
+    "aciklama": "olay yerindeki haberleri araştıran, yetkililerle görüşüp gazeteye haber yazan basın mensubu.",
+    "yasakli_kelimeler": [
+      "haber",
+      "gazete",
+      "manşet",
+      "basın",
+      "röportaj"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 198,
+    "kategori": "meslekler",
+    "kelime": "muhabir",
+    "aciklama": "elinde mikrofonla olay yerinden canlı yayına bağlanıp gelişmeleri aktaran haberci.",
+    "yasakli_kelimeler": [
+      "canlı yayın",
+      "mikrofon",
+      "olay yeri",
+      "haber",
+      "kamera önü"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 199,
+    "kategori": "meslekler",
+    "kelime": "kameraman",
+    "aciklama": "televizyon stüdyolarında veya sokakta omzundaki kamerayla görüntü çeken teknik uzman.",
+    "yasakli_kelimeler": [
+      "kamera",
+      "çekim",
+      "omuz",
+      "televizyon",
+      "görüntü"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 200,
+    "kategori": "meslekler",
+    "kelime": "televizyon spikeri",
+    "aciklama": "ana haber bülteninde stüdyoda prompterden haberleri okuyup sunan ekran yüzü.",
+    "yasakli_kelimeler": [
+      "ana haber",
+      "bülten",
+      "sunucu",
+      "ekran",
+      "prompter"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "kategori": "meslekler",
+    "kelime": "işe gitmek",
+    "aciklama": "görevini yapmak üzere iş yerine doğru yola çıkmak.",
+    "yasakli_kelimeler": [
+      "sabah",
+      "ofis",
+      "çalışmak",
+      "mesai",
+      "servis"
+    ],
+    "zorluk": "kolay",
+    "id": 201
+  },
+  {
+    "kategori": "meslekler",
+    "kelime": "maaş almak",
+    "aciklama": "ay boyunca harcanan emeğin karşılığı olan ücreti tahsil etmek.",
+    "yasakli_kelimeler": [
+      "para",
+      "aylık",
+      "kazanç",
+      "emek",
+      "hesap"
+    ],
+    "zorluk": "kolay",
+    "id": 202
+  },
+  {
+    "kategori": "meslekler",
+    "kelime": "iş başvurusu yapmak",
+    "aciklama": "açık bir iş pozisyonuna kabul edilmek için resmi başvuru göndermek.",
+    "yasakli_kelimeler": [
+      "özgeçmiş",
+      "cv",
+      "mülakat",
+      "ilan",
+      "eleman"
+    ],
+    "zorluk": "kolay",
+    "id": 203
+  },
+  {
+    "kategori": "meslekler",
+    "kelime": "üniforma giymek",
+    "aciklama": "mesleğin gerektirdiği standart kurumsal kıyafeti kuşanmak.",
+    "yasakli_kelimeler": [
+      "iş kıyafeti",
+      "önlük",
+      "meslek elbisesi",
+      "zorunlu",
+      "polis doktor"
+    ],
+    "zorluk": "kolay",
+    "id": 204
+  },
+  {
+    "kategori": "meslekler",
+    "kelime": "müşteriyle konuşmak",
+    "aciklama": "hizmet verilen kişiyle nezaketle diyalog kurmak.",
+    "yasakli_kelimeler": [
+      "iletişim",
+      "satış",
+      "yardımcı olmak",
+      "hizmet",
+      "telefon"
+    ],
+    "zorluk": "kolay",
+    "id": 205
+  },
+  {
+    "kategori": "meslekler",
+    "kelime": "mesaiye kalmak",
+    "aciklama": "normal çalışma saati bittikten sonra da çalışmaya devam etmek.",
+    "yasakli_kelimeler": [
+      "ekstra saat",
+      "akşam",
+      "fazla çalışma",
+      "gece",
+      "yoğunluk"
+    ],
+    "zorluk": "kolay",
+    "id": 206
+  },
+  {
+    "kategori": "meslekler",
+    "kelime": "izin almak",
+    "aciklama": "i̇ş yerinden resmi olarak dinlenme veya mazeret izni talep etmek.",
+    "yasakli_kelimeler": [
+      "tatil",
+      "rapor",
+      "patron",
+      "yıllık izin",
+      "dinlenmek"
+    ],
+    "zorluk": "kolay",
+    "id": 207
+  },
+  {
+    "kategori": "meslekler",
+    "kelime": "toplantı yapmak",
+    "aciklama": "i̇şle ilgili konuları görüşmek üzere ekip olarak bir araya gelmek.",
+    "yasakli_kelimeler": [
+      "masada toplanma",
+      "gündem",
+      "müdür",
+      "iş arkadaşları",
+      "karar"
+    ],
+    "zorluk": "kolay",
+    "id": 208
+  },
+  {
+    "kategori": "meslekler",
+    "kelime": "işten ayrılmak",
+    "aciklama": "mevcut çalıştığı kurumdaki görevini kendi isteğiyle sonlandırmak.",
+    "yasakli_kelimeler": [
+      "istifa",
+      "veda",
+      "tazminat",
+      "yeni iş",
+      "bırakmak"
+    ],
+    "zorluk": "kolay",
+    "id": 209
+  },
+  {
+    "kategori": "meslekler",
+    "kelime": "emekli olmak",
+    "aciklama": "gerekli prim ve yaş şartını doldurup aktif çalışma hayatını noktalamak.",
+    "yasakli_kelimeler": [
+      "yaş",
+      "çalışma hayatı sonu",
+      "maaş",
+      "dinlenme",
+      "yıllar sonra"
+    ],
+    "zorluk": "kolay",
+    "id": 210
+  },
+  {
+    "kategori": "meslekler",
+    "kelime": "çırak yetiştirmek",
+    "aciklama": "genç bir elemana mesleğin inceliklerini öğreterek ustalaştırmak.",
+    "yasakli_kelimeler": [
+      "usta",
+      "meslek öğretme",
+      "genç",
+      "zanaat",
+      "atölye"
+    ],
+    "zorluk": "kolay",
+    "id": 211
+  },
+  {
+    "kategori": "meslekler",
+    "kelime": "terfi etmek",
+    "aciklama": "i̇şinde başarı göstererek daha üst bir kademe ve unvana atanmak.",
+    "yasakli_kelimeler": [
+      "yükselmek",
+      "yeni makam",
+      "başarı",
+      "müdür olmak",
+      "zam"
+    ],
+    "zorluk": "kolay",
+    "id": 212
+  },
+  {
+    "kategori": "meslekler",
+    "kelime": "mülakata girmek",
+    "aciklama": "i̇şe alım sorumluları ile yüz yüze değerlendirme görüşmesi yapmak.",
+    "yasakli_kelimeler": [
+      "iş görüşmesi",
+      "insan kaynakları",
+      "soru cevap",
+      "kendini tanıtma",
+      "heyecan"
+    ],
+    "zorluk": "orta",
+    "id": 213
+  },
+  {
+    "kategori": "meslekler",
+    "kelime": "özgeçmiş hazırlamak",
+    "aciklama": "eğitim ve iş tecrübelerini anlatan tanıtım dosyasını düzenlemek.",
+    "yasakli_kelimeler": [
+      "cv",
+      "deneyimler",
+      "eğitim bilgisi",
+      "yetenekler",
+      "belge"
+    ],
+    "zorluk": "orta",
+    "id": 214
+  },
+  {
+    "kategori": "meslekler",
+    "kelime": "iş sözleşmesi imzalamak",
+    "aciklama": "i̇şveren ile hak ve sorumlulukları belirleyen yasal anlaşmayı onaylamak.",
+    "yasakli_kelimeler": [
+      "kontrat",
+      "çalışma şartları",
+      "taraflar",
+      "imza",
+      "resmi başlangıç"
+    ],
+    "zorluk": "orta",
+    "id": 215
+  },
+  {
+    "kategori": "meslekler",
+    "kelime": "staj yapmak",
+    "aciklama": "okulda öğrenilen teorik bilgileri iş yerinde uygulayarak tecrübe kazanmak.",
+    "yasakli_kelimeler": [
+      "öğrenci",
+      "deneyim kazanma",
+      "üniversite sonu",
+      "pratik",
+      "stajyer"
+    ],
+    "zorluk": "orta",
+    "id": 216
+  },
+  {
+    "kategori": "meslekler",
+    "kelime": "performans değerlendirmesinden geçmek",
+    "aciklama": "yıl boyu ortaya konan iş veriminin yöneticilerce puanlanması.",
+    "yasakli_kelimeler": [
+      "hedef tutturma",
+      "yıllık puan",
+      "yönetici geri bildirimi",
+      "kpi",
+      "başarı"
+    ],
+    "zorluk": "orta",
+    "id": 217
+  },
+  {
+    "kategori": "meslekler",
+    "kelime": "mesleki eğitim almak",
+    "aciklama": "meslekteki yenilikleri öğrenmek için uzmanlık eğitimlerine katılmak.",
+    "yasakli_kelimeler": [
+      "seminer",
+      "sertifika",
+      "gelişim",
+      "kurs",
+      "yeni beceri"
+    ],
+    "zorluk": "orta",
+    "id": 218
+  },
+  {
+    "kategori": "meslekler",
+    "kelime": "iş güvenliği kurallarına uymak",
+    "aciklama": "i̇ş yerinde yaralanma ve kazaları önleyici güvenlik tedbirlerini uygulamak.",
+    "yasakli_kelimeler": [
+      "baret",
+      "kaza önleme",
+      "isg",
+      "koruyucu donanım",
+      "şantiye"
+    ],
+    "zorluk": "orta",
+    "id": 219
+  },
+  {
+    "kategori": "meslekler",
+    "kelime": "proje teslim etmek",
+    "aciklama": "üzerinde çalışılan iş paketini taahhüt edilen tarihte eksiksiz sunmak.",
+    "yasakli_kelimeler": [
+      "deadline",
+      "son gün",
+      "müşteri onayı",
+      "tamamlama",
+      "sunum"
+    ],
+    "zorluk": "orta",
+    "id": 220
+  },
+  {
+    "kategori": "meslekler",
+    "kelime": "kriz yönetmek",
+    "aciklama": "i̇ş yerinde aniden patlak veren olağanüstü sorunları soğukkanlılıkla çözmek.",
+    "yasakli_kelimeler": [
+      "acil durum",
+      "problem çözme",
+      "stres",
+      "hızlı karar",
+      "şirket"
+    ],
+    "zorluk": "orta",
+    "id": 221
+  },
+  {
+    "kategori": "meslekler",
+    "kelime": "uzaktan çalışmak",
+    "aciklama": "görevlerini ofise gitmeden internet üzerinden evden yürütmek.",
+    "yasakli_kelimeler": [
+      "home office",
+      "evden çalışma",
+      "online",
+      "bilgisayar başı",
+      "ofise gitmeden"
+    ],
+    "zorluk": "orta",
+    "id": 222
+  },
+  {
+    "kategori": "meslekler",
+    "kelime": "serbest meslek icra etmek",
+    "aciklama": "bir kuruma bağlı olmadan kendi nam ve hesabına bağımsız çalışmak.",
+    "yasakli_kelimeler": [
+      "freelance",
+      "kendi işinin patronu",
+      "bağımsız",
+      "vergi levhası",
+      "danışmanlık"
+    ],
+    "zorluk": "orta",
+    "id": 223
+  },
+  {
+    "kategori": "meslekler",
+    "kelime": "tazminat hakkı kazanmak",
+    "aciklama": "yıllarca çalışılan işten ayrılırken biriken yasal yıpranma payını hak etmek.",
+    "yasakli_kelimeler": [
+      "kıdem tazminatı",
+      "ihbar",
+      "işten çıkarılma",
+      "yıllık hak",
+      "hukuki güvence"
+    ],
+    "zorluk": "orta",
+    "id": 224
+  },
+  {
+    "kategori": "meslekler",
+    "kelime": "odaya kayıt olmak",
+    "aciklama": "mesleği yasal olarak icra edebilmek için yetkili meslek birliğine üye olmak.",
+    "yasakli_kelimeler": [
+      "meslek odası",
+      "tabip odası",
+      "baro",
+      "mühendisler odası",
+      "sicil"
+    ],
+    "zorluk": "orta",
+    "id": 225
+  },
+  {
+    "kategori": "meslekler",
+    "kelime": "ekip yönetmek",
+    "aciklama": "birlikte çalışan çalışan grubuna liderlik edip hedeflere yönlendirmek.",
+    "yasakli_kelimeler": [
+      "liderlik",
+      "takım",
+      "görev dağılımı",
+      "koordinasyon",
+      "yönetici"
+    ],
+    "zorluk": "orta",
+    "id": 226
+  },
+  {
+    "kategori": "meslekler",
+    "kelime": "sunum hazırlamak",
+    "aciklama": "i̇ş fikirlerini veya raporları dinleyicilere aktarmak için görsel slaytlar tasarlamak.",
+    "yasakli_kelimeler": [
+      "slayt",
+      "powerpoint",
+      "projeksiyon",
+      "toplantı",
+      "anlatım"
+    ],
+    "zorluk": "orta",
+    "id": 227
+  },
+  {
+    "kategori": "meslekler",
+    "kelime": "bütçe yönetimi yapmak",
+    "aciklama": "departmana tahsis edilen finansal kaynakları aşmadan tasarrufla kullanmak.",
+    "yasakli_kelimeler": [
+      "harcama yetkisi",
+      "gelir gider",
+      "maliyet kontrolü",
+      "departman parası",
+      "planlama"
+    ],
+    "zorluk": "orta",
+    "id": 228
+  },
+  {
+    "kategori": "meslekler",
+    "kelime": "yetki devretmek",
+    "aciklama": "bazı görev ve karar haklarını altındaki çalışanlara devretmek.",
+    "yasakli_kelimeler": [
+      "delegasyon",
+      "sorumluluk verme",
+      "astlara görev aktarma",
+      "yönetim",
+      "imza yetkisi"
+    ],
+    "zorluk": "orta",
+    "id": 229
+  },
+  {
+    "kategori": "meslekler",
+    "kelime": "iş aramak",
+    "aciklama": "çalışmak için yetkinliklerine uygun açık iş olanaklarını araştırmak.",
+    "yasakli_kelimeler": [
+      "kariyer siteleri",
+      "işsizlik",
+      "başvuru",
+      "yeni pozisyon",
+      "ilanlar"
+    ],
+    "zorluk": "orta",
+    "id": 230
+  },
+  {
+    "kategori": "meslekler",
+    "kelime": "iş teklifini kabul etmek",
+    "aciklama": "şirketten gelen resmi işe başlama ve maaş şartlarını onaylamak.",
+    "yasakli_kelimeler": [
+      "onaylama",
+      "maaş paketi",
+      "yeni şirket",
+      "başlangıç tarihi",
+      "teklif mektubu"
+    ],
+    "zorluk": "orta",
+    "id": 231
+  },
+  {
+    "kategori": "meslekler",
+    "kelime": "prim kazanmak",
+    "aciklama": "belirlenen satış hedefini aşarak maaşına ek başarı bonusu almak.",
+    "yasakli_kelimeler": [
+      "satış bonusu",
+      "ek ödeme",
+      "kota aşımı",
+      "başarı ödülü",
+      "maaşa ek"
+    ],
+    "zorluk": "orta",
+    "id": 232
+  },
+  {
+    "kategori": "meslekler",
+    "kelime": "nobet tutmak",
+    "aciklama": "hastanede veya güvenlikte gece boyunca kesintisiz görev başında kalmak.",
+    "yasakli_kelimeler": [
+      "gece görevi",
+      "doktor hemşire",
+      "acil servis",
+      "sabahlama",
+      "vardiya"
+    ],
+    "zorluk": "orta",
+    "id": 233
+  },
+  {
+    "kategori": "meslekler",
+    "kelime": "rotasyon uygulamak",
+    "aciklama": "çalışanın deneyim kazanması için periyodik olarak farklı birimlere aktarılması.",
+    "yasakli_kelimeler": [
+      "şube değişimi",
+      "farklı birim",
+      "görev yeri değişikliği",
+      "dönüşüm",
+      "kurum içi"
+    ],
+    "zorluk": "orta",
+    "id": 234
+  },
+  {
+    "kategori": "meslekler",
+    "kelime": "mentorluk yapmak",
+    "aciklama": "mesleğe yeni başlayanlara kariyerlerinde rehberlik edip tecrübe aşılamak.",
+    "yasakli_kelimeler": [
+      "rehberlik",
+      "tecrübe aktarımı",
+      "genç çalışan",
+      "yol gösterme",
+      "danışmanlık"
+    ],
+    "zorluk": "orta",
+    "id": 235
+  },
+  {
+    "kategori": "meslekler",
+    "kelime": "tükenmişlik sendromu yaşamak",
+    "aciklama": "uzun süreli aşırı çalışma ve baskı sonucu duygusal ve fiziksel olarak tükenmek.",
+    "yasakli_kelimeler": [
+      "burnout",
+      "aşırı stres",
+      "işten bıkma",
+      "kronik yorgunluk",
+      "motivasyon kaybı"
+    ],
+    "zorluk": "orta",
+    "id": 236
+  },
+  {
+    "kategori": "meslekler",
+    "kelime": "board toplantısına başkanlık etmek",
+    "aciklama": "şirketin en üst karar organı olan yönetim kurulu üyelerini toplantıda yönetmek.",
+    "yasakli_kelimeler": [
+      "yönetim kurulu",
+      "hissedarlar",
+      "ceo",
+      "stratejik karar",
+      "şirket geleceği"
+    ],
+    "zorluk": "zor",
+    "id": 237
+  },
+  {
+    "kategori": "meslekler",
+    "kelime": "kurumsal yeniden yapılanma yürütmek",
+    "aciklama": "şirketin hiyerarşik ve operasyonel yapısını verimlilik için baştan aşağı yenilemek.",
+    "yasakli_kelimeler": [
+      "restructuring",
+      "organizasyon şeması değişimi",
+      "küçülme verimlilik",
+      "departman birleştirme",
+      "yönetim"
+    ],
+    "zorluk": "zor",
+    "id": 238
+  },
+  {
+    "kategori": "meslekler",
+    "kelime": "kpi̇ hedeflerini belirlemek",
+    "aciklama": "çalışanların başarısını nesnel olarak ölçecek sayısal performans kriterlerini koymak.",
+    "yasakli_kelimeler": [
+      "temel performans göstergesi",
+      "metrik ölçüm",
+      "departman hedefi",
+      "başarı kriteri",
+      "performans"
+    ],
+    "zorluk": "zor",
+    "id": 239
+  },
+  {
+    "kategori": "meslekler",
+    "kelime": "headhunter aracılığıyla transfer olmak",
+    "aciklama": "yönetici avcısı profesyonellerin teklifiyle başka bir kurumun üst kademesine geçmek.",
+    "yasakli_kelimeler": [
+      "üst düzey yönetici avcısı",
+      "transfer teklifi",
+      "rakip şirket",
+      "yüksek maaş",
+      "gizli görüşme"
+    ],
+    "zorluk": "zor",
+    "id": 240
+  },
+  {
+    "kategori": "meslekler",
+    "kelime": "due diligence sürecini yönetmek",
+    "aciklama": "satın alma öncesi hedef şirketin tüm mali, operasyonel ve hukuki risklerini denetlemek.",
+    "yasakli_kelimeler": [
+      "şirket birleşmesi",
+      "durum tespiti",
+      "mali ve hukuki denetim",
+      "satın alma",
+      "risk raporu"
+    ],
+    "zorluk": "zor",
+    "id": 241
+  },
+  {
+    "kategori": "meslekler",
+    "kelime": "grev kararı almak",
+    "aciklama": "toplu iş sözleşmesi anlaşmazlığında sendika kararıyla işçilerin topluca üretimi durdurması.",
+    "yasakli_kelimeler": [
+      "sendika",
+      "iş bırakma eylemi",
+      "toplu iş sözleşmesi",
+      "hak arayışı",
+      "üretimi durdurma"
+    ],
+    "zorluk": "zor",
+    "id": 242
+  },
+  {
+    "kategori": "meslekler",
+    "kelime": "lokavt ilan etmek",
+    "aciklama": "i̇şverenin greve karşı yasal hakkını kullanarak işçileri topluca işyerinden uzaklaştırması.",
+    "yasakli_kelimeler": [
+      "işverenin işyerini kapatması",
+      "greve karşı hamle",
+      "ücret ödememe",
+      "hukuki hak",
+      "sendika uyuşmazlığı"
+    ],
+    "zorluk": "zor",
+    "id": 243
+  },
+  {
+    "kategori": "meslekler",
+    "kelime": "akreditasyon denetimini yönetmek",
+    "aciklama": "kurumun uluslararası kalite ve yeterlilik denetçilerinden tam not almasını koordine etmek.",
+    "yasakli_kelimeler": [
+      "iso kalite standartları",
+      "uluslararası denetçi",
+      "sertifikasyon",
+      "prosedür uyumu",
+      "onay"
+    ],
+    "zorluk": "zor",
+    "id": 244
+  },
+  {
+    "kategori": "meslekler",
+    "kelime": "suksesyon planı hazırlamak",
+    "aciklama": "kritik yönetici koltukları boşaldığında yerlerine geçecek yeteneklerin yetiştirilme planı.",
+    "yasakli_kelimeler": [
+      "halefiyet planlaması",
+      "yedekleme",
+      "kritik koltuklar",
+      "gelecek liderler",
+      "insan kaynakları"
+    ],
+    "zorluk": "zor",
+    "id": 245
+  },
+  {
+    "kategori": "meslekler",
+    "kelime": "mobbing iddiasını soruşturmak",
+    "aciklama": "i̇ş yerinde sistematik psikolojik baskı ve dışlama şikayetlerini komisyonla soruşturmak.",
+    "yasakli_kelimeler": [
+      "psikolojik taciz",
+      "yıldırma",
+      "etik kurul",
+      "çalışan şikayeti",
+      "tarafsız inceleme"
+    ],
+    "zorluk": "zor",
+    "id": 246
+  },
+  {
+    "kategori": "meslekler",
+    "kelime": "rekabet etmeme taahhüdü vermek",
+    "aciklama": "i̇şten ayrıldıktan sonra belirli süre rakip sektörde çalışmayacağına dair yasal taahhüt vermek.",
+    "yasakli_kelimeler": [
+      "non-compete",
+      "rakip firmaya geçmeme",
+      "gizlilik anlaşması",
+      "ayrılık şartı",
+      "hukuki kısıtlama"
+    ],
+    "zorluk": "zor",
+    "id": 247
+  },
+  {
+    "kategori": "meslekler",
+    "kelime": "agile dönüşümünü yönetmek",
+    "aciklama": "şirketin geleneksel hiyerarşik iş yapış biçimini çevik 'scrum' takımlarına dönüştürmek.",
+    "yasakli_kelimeler": [
+      "çevik yönetim",
+      "scrum sprint",
+      "otonom takımlar",
+      "yazılım kültürü",
+      "hızlı adaptasyon"
+    ],
+    "zorluk": "zor",
+    "id": 248
+  },
+  {
+    "kategori": "meslekler",
+    "kelime": "özelleştirilmiş esop modeli kurmak",
+    "aciklama": "kilit çalışanları şirkette tutmak için geleceğe dönük hisse senedi ortaklık planı sunmak.",
+    "yasakli_kelimeler": [
+      "çalışanlara hisse opsiyonu",
+      "şirket ortaklığı",
+      "kıdemli personele pay",
+      "sadakat teşviki",
+      "startup"
+    ],
+    "zorluk": "zor",
+    "id": 249
+  },
+  {
+    "kategori": "meslekler",
+    "kelime": "endüstriyel casusluğu engellemek",
+    "aciklama": "şirketin ar-ge ve patent sırlarının rakip firmalara sızdırılmasını karşı istihbaratla önlemek.",
+    "yasakli_kelimeler": [
+      "ticari sır sızıntısı",
+      "bilgi güvenliği",
+      "rakip ajanı",
+      "veri hırsızlığı",
+      "patent koruma"
+    ],
+    "zorluk": "zor",
+    "id": 250
+  }
+]

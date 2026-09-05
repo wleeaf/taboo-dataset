@@ -325,7 +325,7 @@
     "id": 24,
     "kategori": "mantik",
     "kelime": "ancak ve ancak",
-    "aciklama": "İki önermenin doğruluk değerleri birbirine eşit olduğunda doğru çıkan çift gerektirme bağlacı.",
+    "aciklama": "iki önermenin doğruluk değerleri birbirine eşit olduğunda doğru çıkan çift gerektirme bağlacı.",
     "yasakli_kelimeler": [
       "çift gerektirme",
       "bağlaç",
@@ -577,7 +577,7 @@
     "id": 42,
     "kategori": "mantik",
     "kelime": "bilgisizlik safsatası",
-    "aciklama": "Bir şeyin aksinin ispatlanamamış olmasını onun doğruluğuna veya yanlışlığına kanıt gösterme hatası.",
+    "aciklama": "bir şeyin aksinin ispatlanamamış olmasını onun doğruluğuna veya yanlışlığına kanıt gösterme hatası.",
     "yasakli_kelimeler": [
       "cehalet",
       "ispat",
@@ -605,7 +605,7 @@
     "id": 44,
     "kategori": "mantik",
     "kelime": "otorite safsatası",
-    "aciklama": "Bir iddianın doğruluğunu, iddiacının uzmanlık alanı dışındaki bir otoriteye veya şöhrete dayandırma yanılgısı.",
+    "aciklama": "bir iddianın doğruluğunu, iddiacının uzmanlık alanı dışındaki bir otoriteye veya şöhrete dayandırma yanılgısı.",
     "yasakli_kelimeler": [
       "uzman",
       "ünlü",
@@ -857,7 +857,7 @@
     "id": 62,
     "kategori": "mantik",
     "kelime": "öncülü doğrulama",
-    "aciklama": "Koşullu önermede 'ise' kısmındaki ilk bileşeni doğru kabul ederek yapılan çıkarım.",
+    "aciklama": "koşullu önermede 'ise' kısmındaki ilk bileşeni doğru kabul ederek yapılan çıkarım.",
     "yasakli_kelimeler": [
       "modus ponens",
       "koşullu",
@@ -871,7 +871,7 @@
     "id": 63,
     "kategori": "mantik",
     "kelime": "ardılı inkar",
-    "aciklama": "Koşullu bir önermede sonucun yanlışlığından hareketle şartın da yanlış olduğu sonucuna varan geçerli akıl yürütme kuralı.",
+    "aciklama": "koşullu bir önermede sonucun yanlışlığından hareketle şartın da yanlış olduğu sonucuna varan geçerli akıl yürütme kuralı.",
     "yasakli_kelimeler": [
       "modus tollens",
       "koşul",
@@ -1053,7 +1053,7 @@
     "id": 76,
     "kategori": "mantik",
     "kelime": "doğruluk tanımı",
-    "aciklama": "Tarski tarafından geliştirilen ve 'kar beyazdır ancak ve ancak kar beyazsa' biçiminde ifade edilen semantik doğruluk teorisi.",
+    "aciklama": "tarski tarafından geliştirilen ve 'kar beyazdır ancak ve ancak kar beyazsa' biçiminde ifade edilen semantik doğruluk teorisi.",
     "yasakli_kelimeler": [
       "tarski",
       "semantik",
@@ -1095,7 +1095,7 @@
     "id": 79,
     "kategori": "mantik",
     "kelime": "kiplik mantığı",
-    "aciklama": "Önermelerin yalnızca doğruluk değerlerini değil, zorunluluk ve olasılık gibi kiplerini de inceleyen mantık dalı.",
+    "aciklama": "önermelerin yalnızca doğruluk değerlerini değil, zorunluluk ve olasılık gibi kiplerini de inceleyen mantık dalı.",
     "yasakli_kelimeler": [
       "zorunluluk",
       "olasılık",
@@ -1151,7 +1151,7 @@
     "id": 83,
     "kategori": "mantik",
     "kelime": "hatalı benzetme",
-    "aciklama": "Aralarında temel veya belirleyici bir benzerlik bulunmayan iki olgu arasında kurulan geçersiz kıyas.",
+    "aciklama": "aralarında temel veya belirleyici bir benzerlik bulunmayan iki olgu arasında kurulan geçersiz kıyas.",
     "yasakli_kelimeler": [
       "analoji",
       "kıyas",
@@ -1249,7 +1249,7 @@
     "id": 90,
     "kategori": "mantik",
     "kelime": "ilgisiz sonuç",
-    "aciklama": "Öne sürülen öncüllerden tartışılan konuyla hiçbir mantıksal bağı bulunmayan bir neticeye varma safsatası.",
+    "aciklama": "öne sürülen öncüllerden tartışılan konuyla hiçbir mantıksal bağı bulunmayan bir neticeye varma safsatası.",
     "yasakli_kelimeler": [
       "alakasız",
       "safsata",
@@ -1263,7 +1263,7 @@
     "id": 91,
     "kategori": "mantik",
     "kelime": "çifte standart",
-    "aciklama": "Kendisi veya kendi tarafı için özel ayrıcalık talep ederken aynı durumu başkalarına uygulamama tutumu.",
+    "aciklama": "kendisi veya kendi tarafı için özel ayrıcalık talep ederken aynı durumu başkalarına uygulamama tutumu.",
     "yasakli_kelimeler": [
       "ayrıcalık",
       "taraf",
@@ -1398,5 +1398,2105 @@
       "hukuk"
     ],
     "zorluk": "kolay"
+  },
+  {
+    "id": 101,
+    "kategori": "mantik",
+    "kelime": "tümel önerme",
+    "aciklama": "bir öznenin veya kümenin bütün üyeleri hakkında aynı anda genel bir yargı bildiren önerme.",
+    "yasakli_kelimeler": [
+      "bütün hepsi",
+      "tüm üyeler",
+      "tikel zıddı",
+      "evrensel yargı",
+      "herkes"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 102,
+    "kategori": "mantik",
+    "kelime": "tikel önerme",
+    "aciklama": "bir kümenin bütününü değil sadece bazı veya bir kısım üyelerini kapsayan önerme türü.",
+    "yasakli_kelimeler": [
+      "bazı",
+      "birtakım",
+      "kısmi yargı",
+      "tümel zıddı",
+      "birkaçı"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 103,
+    "kategori": "mantik",
+    "kelime": "tekil önerme",
+    "aciklama": "öznesi yalnızca tek bir fert veya belirli bir nesne olan bireysel yargı cümlesi.",
+    "yasakli_kelimeler": [
+      "bir tek",
+      "birey",
+      "özel isim",
+      "tek kişi",
+      "tikel ve tümel dışı"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 104,
+    "kategori": "mantik",
+    "kelime": "olumlu önerme",
+    "aciklama": "yüklemde belirtilen özelliğin öznede bulunduğunu ve gerçekleştiğini onaylayan önerme.",
+    "yasakli_kelimeler": [
+      "onaylama",
+      "vardır",
+      "olumsuz zıddı",
+      "mevcuttur",
+      "tasdik"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 105,
+    "kategori": "mantik",
+    "kelime": "olumsuz önerme",
+    "aciklama": "yüklemdeki özelliğin öznede bulunmadığını belirten ve yargıyı reddeden önerme.",
+    "yasakli_kelimeler": [
+      "değildir",
+      "yoktur",
+      "reddetme",
+      "olumlu zıddı",
+      "inkar"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 106,
+    "kategori": "mantik",
+    "kelime": "basit önerme",
+    "aciklama": "içinde başka bir önerme barındırmayan, tek bir özne ve tek bir yüklemden oluşan yalın önerme.",
+    "yasakli_kelimeler": [
+      "yalın önerme",
+      "tek yargı",
+      "bileşik zıddı",
+      "bağlaçsız",
+      "özne yüklem"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 107,
+    "kategori": "mantik",
+    "kelime": "bileşik önerme",
+    "aciklama": "ve, veya, ise gibi mantıksal bağlaçlarla birbirine bağlanmış birden fazla basit önermenin bütünü.",
+    "yasakli_kelimeler": [
+      "bağlaçlı önerme",
+      "çoklu yargı",
+      "basit zıddı",
+      "eklemli",
+      "şartlı önerme"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 108,
+    "kategori": "mantik",
+    "kelime": "analitik önerme",
+    "aciklama": "yüklemi zaten öznesinin tanımı içinde bulunan ve doğruluğu için deney gerektirmeyen mantıksal yargı.",
+    "yasakli_kelimeler": [
+      "totolojik",
+      "tanım gereği doğru",
+      "deney gerektirmeyen",
+      "sentetik zıddı",
+      "kant"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 109,
+    "kategori": "mantik",
+    "kelime": "sentetik önerme",
+    "aciklama": "yüklemi öznesine dış dünyadan yeni bir bilgi katan ve doğruluğu ancak deney ve gözlemle bilinen önerme.",
+    "yasakli_kelimeler": [
+      "yeni bilgi",
+      "deney gözlem",
+      "analitik zıddı",
+      "dış dünya",
+      "kant ayrımı"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 110,
+    "kategori": "mantik",
+    "kelime": "apriori bilgi",
+    "aciklama": "herhangi bir duyu deneyimine veya gözleme başvurulmaksızın sadece saf akılla bilinen önsel bilgi.",
+    "yasakli_kelimeler": [
+      "deneyden bağımsız",
+      "önsel bilgi",
+      "saf akıl",
+      "aposteriori zıddı",
+      "deney öncesi"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 111,
+    "kategori": "mantik",
+    "kelime": "aposteriori",
+    "aciklama": "doğruluğu veya yanlışlığı ancak duyu organlarıyla yapılan deney ve gözlemler sonrasında anlaşılan bilgi.",
+    "yasakli_kelimeler": [
+      "deney sonrası",
+      "gözleme dayalı",
+      "apriori zıddı",
+      "sonsal bilgi",
+      "ampirik"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 112,
+    "kategori": "mantik",
+    "kelime": "doğruluk değeri",
+    "aciklama": "bir önermenin mantıksal gerçeklik karşısında aldığı doğru veya yanlış olma niteliği.",
+    "yasakli_kelimeler": [
+      "doğru veya yanlış",
+      "1 veya 0",
+      "doğruluk tablosu",
+      "yargı değeri",
+      "valör"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 113,
+    "kategori": "mantik",
+    "kelime": "olumsallık",
+    "aciklama": "ne zorunlu olarak doğru ne de imkansız olan, doğru da yanlış da olabilen durumlara ait kiplik.",
+    "yasakli_kelimeler": [
+      "kontenjans",
+      "zorunsuzluk",
+      "olabilir de olmayabilir de",
+      "rastlantısal",
+      "kiplik"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 114,
+    "kategori": "mantik",
+    "kelime": "zorunluluk",
+    "aciklama": "başka türlü olması mantıksal olarak imkansız olan ve her olası dünyada geçerli bulunan kesin durum.",
+    "yasakli_kelimeler": [
+      "kaçınılmazlık",
+      "kesinlik",
+      "her dünyada doğru",
+      "olumsallık zıddı",
+      "mantıksal zorunlu"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 115,
+    "kategori": "mantik",
+    "kelime": "imkansızlık",
+    "aciklama": "çelişki barındırdığı için hiçbir koşulda ve hiçbir dünyada doğru olması düşünülemeyen durum.",
+    "yasakli_kelimeler": [
+      "çelişkili hal",
+      "asla olamaz",
+      "mantık dışı",
+      "olanak dışı",
+      "mümkün olmayan"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 116,
+    "kategori": "mantik",
+    "kelime": "imkan",
+    "aciklama": "içinde mantıksal bir çelişki barındırmadığı için gerçekleşmesi akla uygun ve mümkün olan nitelik.",
+    "yasakli_kelimeler": [
+      "olabilirlik",
+      "mümkünlük",
+      "çelişkisizlik",
+      "potansiyel",
+      "olası durum"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 117,
+    "kategori": "mantik",
+    "kelime": "mantıksal değilleme",
+    "aciklama": "doğru bir önermeyi yanlışa, yanlış bir önermeyi doğruya çeviren değil bağlacı işlemi.",
+    "yasakli_kelimeler": [
+      "değil bağlacı",
+      "olumsuzlama",
+      "tersine çevirme",
+      "ters değer",
+      "not kapısı"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 118,
+    "kategori": "mantik",
+    "kelime": "ve bağlacı",
+    "aciklama": "bağladığı iki önermenin ikisi de doğru olduğunda doğru, biri bile yanlışsa yanlış değer üreten mantık işlemi.",
+    "yasakli_kelimeler": [
+      "tümel evetleme",
+      "and bağlacı",
+      "ikisi de doğru",
+      "çarpım kapısı",
+      "önerme bağı"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 119,
+    "kategori": "mantik",
+    "kelime": "veya bağlacı",
+    "aciklama": "bağladığı önermelerden en az biri doğru olduğunda doğru, sadece her ikisi yanlışken yanlış çıkan işlem.",
+    "yasakli_kelimeler": [
+      "tikel evetleme",
+      "or bağlacı",
+      "en az biri doğru",
+      "toplam kapısı",
+      "seçenek bağı"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 120,
+    "kategori": "mantik",
+    "kelime": "ise bağlacı",
+    "aciklama": "sadece öncül doğruyken sonuç yanlış olduğunda yanlış, diğer tüm hallerde doğru kabul edilen koşul bağı.",
+    "yasakli_kelimeler": [
+      "koşullu bağlaç",
+      "şart bağı",
+      "gerektirme",
+      "ok işareti",
+      "ise önermesi"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 121,
+    "kategori": "mantik",
+    "kelime": "tümdengelim",
+    "aciklama": "genel kural veya ilkelerden yola çıkarak tekil ve özel durumlar hakkında zorunlu kesin sonuca ulaşma akıl yürütmesi.",
+    "yasakli_kelimeler": [
+      "dedüksiyon",
+      "genelden özele",
+      "kıyas",
+      "zorunlu sonuç",
+      "tümevarım zıddı"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 122,
+    "kategori": "mantik",
+    "kelime": "tümevarım",
+    "aciklama": "tek tek gözlemlenen olgulardan hareketle bütün sınıfı kapsayan genel bir kurala veya yasaya ulaşma yöntemi.",
+    "yasakli_kelimeler": [
+      "endüksiyon",
+      "özelden genele",
+      "genelleme",
+      "gözlemden kurala",
+      "tümdengelim zıddı"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 123,
+    "kategori": "mantik",
+    "kelime": "doğrudan çıkarım",
+    "aciklama": "araya başka bir öncül koymaksızın tek bir önermeden kurallar gereği doğrudan yeni bir önerme türetme.",
+    "yasakli_kelimeler": [
+      "tek öncül",
+      "döndürme karşıtlık",
+      "aracısız akıl yürütme",
+      "dolaysız çıkarım",
+      "türetme"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 124,
+    "kategori": "mantik",
+    "kelime": "dolaylı çıkarım",
+    "aciklama": "en az iki öncül önermenin birbiriyle ilişkilendirilmesi sonucu üçüncü bir yargıya varılan klasik kıyas.",
+    "yasakli_kelimeler": [
+      "aracılı çıkarım",
+      "en az iki öncül",
+      "kıyas yöntemi",
+      "orta terimle bağlama",
+      "sonuç çıkarma"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 125,
+    "kategori": "mantik",
+    "kelime": "karşıtlık karesi",
+    "aciklama": "tümel olumlu, tümel olumsuz, tikel olumlu ve tikel olumsuz önermeler arasındaki mantıksal ilişkiler diyagramı.",
+    "yasakli_kelimeler": [
+      "aristoteles karesi",
+      "a e i o",
+      "çelişiklik altıklık",
+      "karşıtlık diyagramı",
+      "dörtlü kare"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 126,
+    "kategori": "mantik",
+    "kelime": "çelişik önerme",
+    "aciklama": "karşıtlık karesinde hem nitelik hem nicelik bakımından zıt olan, biri doğruysa diğeri kesinlikle yanlış olan önerme çifti.",
+    "yasakli_kelimeler": [
+      "çapraz ilişki",
+      "biri doğruysa diğeri yanlış",
+      "a ile o",
+      "e ile i",
+      "tam zıtlık"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 127,
+    "kategori": "mantik",
+    "kelime": "karşıt önerme",
+    "aciklama": "öznesi ve yüklemi aynı olan iki tümel önermenin birinin olumlu diğerinin olumsuz olması hali.",
+    "yasakli_kelimeler": [
+      "tümel karşıtlığı",
+      "a ile e",
+      "ikisi birden doğru olamaz",
+      "bütün ve hiçbir",
+      "üst kenar"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 128,
+    "kategori": "mantik",
+    "kelime": "altık önerme",
+    "aciklama": "nitelikleri aynı fakat biri tümel diğeri tikel olan önermeler arasındaki boylamasına bağıntı.",
+    "yasakli_kelimeler": [
+      "a ile i",
+      "e ile o",
+      "tümel ve tikel",
+      "aynı nitelik",
+      "dikey bağıntı"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 129,
+    "kategori": "mantik",
+    "kelime": "alt karşıt",
+    "aciklama": "karşıtlık karesinin alt kenarında yer alan tikel olumlu ile tikel olumsuz önermeler arasındaki ilişki.",
+    "yasakli_kelimeler": [
+      "i ile o",
+      "tikel karşıtlığı",
+      "ikisi birden yanlış olamaz",
+      "alt kenar",
+      "tikel çift"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 130,
+    "kategori": "mantik",
+    "kelime": "döndürme",
+    "aciklama": "bir önermenin doğruluk değerini ve niteliğini bozmadan öznesi ile yükleminin yerini değiştirme işlemi.",
+    "yasakli_kelimeler": [
+      "konversiyon",
+      "özne yüklem değişimi",
+      "düz döndürme",
+      "ters döndürme",
+      "doğrudan çıkarım"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 131,
+    "kategori": "mantik",
+    "kelime": "düz döndürme",
+    "aciklama": "önermenin olumluluk veya olumsuzluğunu koruyarak sadece özne ile yüklemini yer değiştirme kuralı.",
+    "yasakli_kelimeler": [
+      "nitelik koruma",
+      "özne yüklem takası",
+      "düz konversiyon",
+      "tümel tikel",
+      "kural"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 132,
+    "kategori": "mantik",
+    "kelime": "ters döndürme",
+    "aciklama": "bir önermenin öznesinin değili ile yükleminin değilini yer değiştirerek yapılan mantıksal işlem.",
+    "yasakli_kelimeler": [
+      "kontrapozisyon",
+      "değillerin takası",
+      "özne değili",
+      "yüklem değili",
+      "ters çevirme"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 133,
+    "kategori": "mantik",
+    "kelime": "büyük öncül",
+    "aciklama": "kıyasın içinde büyük terimi barındıran ve ilk sırada yer alan genel kural önermesi.",
+    "yasakli_kelimeler": [
+      "ilk önerme",
+      "büyük terim taşıyan",
+      "kıyas başı",
+      "genel öncül",
+      "küçük öncül zıddı"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 134,
+    "kategori": "mantik",
+    "kelime": "küçük öncül",
+    "aciklama": "kıyasın içinde küçük terimi barındıran ve tekil veya tikel durumu bildiren ikinci öncül.",
+    "yasakli_kelimeler": [
+      "ikinci önerme",
+      "küçük terim",
+      "özel durum",
+      "büyük öncül sonrası",
+      "ara öncül"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 135,
+    "kategori": "mantik",
+    "kelime": "büyük terim",
+    "aciklama": "kıyasın sonuç önermesinde yüklem olarak yer alan en geniş kapsamlı kavram.",
+    "yasakli_kelimeler": [
+      "sonuç yüklemi",
+      "geniş kapsam",
+      "büyük öncül terimi",
+      "terim",
+      "kıyas terimi"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 136,
+    "kategori": "mantik",
+    "kelime": "küçük terim",
+    "aciklama": "kıyasın sonuç önermesinde özne olarak yer alan kavram.",
+    "yasakli_kelimeler": [
+      "sonuç öznesi",
+      "küçük öncül terimi",
+      "dar kapsam",
+      "özne kavramı",
+      "terim"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 137,
+    "kategori": "mantik",
+    "kelime": "zincirleme kıyas",
+    "aciklama": "birden çok kıyasın birinin sonucunun diğerinin öncülü olacak şekilde arka arkaya bağlanması.",
+    "yasakli_kelimeler": [
+      "ardışık kıyas",
+      "zincirleme akıl yürütme",
+      "polisillogizm",
+      "sorites benzeri",
+      "bağlı öncüller"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 138,
+    "kategori": "mantik",
+    "kelime": "örtük kıyas",
+    "aciklama": "öncüllerden biri veya sonuç önermesi zihinde saklı tutulup söylenmeyen kısaltılmış akıl yürütme.",
+    "yasakli_kelimeler": [
+      "entimem",
+      "gizli öncül",
+      "kısaltılmış kıyas",
+      "söylenmeyen yargı",
+      "düşünüyorum o halde varım"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 139,
+    "kategori": "mantik",
+    "kelime": "koşullu kıyas",
+    "aciklama": "büyük öncülü ise bağlacı içeren şartlı bir önermeden kurulmuş klasik akıl yürütme kalıbı.",
+    "yasakli_kelimeler": [
+      "hipotetik sillogizm",
+      "şartlı kıyas",
+      "ise önermesi",
+      "öncül şartı",
+      "modus ponens ailesi"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 140,
+    "kategori": "mantik",
+    "kelime": "seçmeli kıyas",
+    "aciklama": "büyük öncülü ya... ya da... gibi ayrık bağlaç içeren ve seçeneklerden birini eleyerek sonuca varan kıyas.",
+    "yasakli_kelimeler": [
+      "ayrık kıyas",
+      "ya da bağlacı",
+      "seçenek eleme",
+      "disyünktif",
+      "iki ihtimal"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 141,
+    "kategori": "mantik",
+    "kelime": "mantıkçılık",
+    "aciklama": "tüm matematiğin temelde mantık ilkelerine ve sembolik çıkarımlara indirgenebileceğini savunan felsefe.",
+    "yasakli_kelimeler": [
+      "lojisizm",
+      "frege russell",
+      "matematik mantık",
+      "aksiyomlaştırma",
+      "indirgeme"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 142,
+    "kategori": "mantik",
+    "kelime": "frege mantığı",
+    "aciklama": "özne-yüklem yerine fonksiyon ve argüman kavramlarını getirerek modern sembolik mantığı kuran sistem.",
+    "yasakli_kelimeler": [
+      "gottlob frege",
+      "fonksiyon argüman",
+      "niceleyiciler mantığı",
+      "modern mantığın babası",
+      "kavram yazısı"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 143,
+    "kategori": "mantik",
+    "kelime": "russell mantığı",
+    "aciklama": "kümeler kuramındaki paradoksu çözmek için önermeleri ve nesneleri tipler hiyerarşisine ayıran mantık.",
+    "yasakli_kelimeler": [
+      "tipler kuramı",
+      "bertrand russell",
+      "küme paradoksu",
+      "principia mathematica",
+      "mantıkçılık"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 144,
+    "kategori": "mantik",
+    "kelime": "mantıksal atom",
+    "aciklama": "dünyadaki en yalın olguları temsil eden ve daha basit parçalara ayrılamayan en temel önerme birimi.",
+    "yasakli_kelimeler": [
+      "atomik önerme",
+      "yalın olgu",
+      "russell wittgenstein",
+      "en küçük birim",
+      "moleküler zıddı"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 145,
+    "kategori": "mantik",
+    "kelime": "dilsel analiz",
+    "aciklama": "felsefi yanılgıların dildeki belirsizliklerden doğduğunu savunup cümleleri mantık kurallarıyla arındırma yöntemi.",
+    "yasakli_kelimeler": [
+      "dil felsefesi",
+      "kavram çözümleme",
+      "belirsizlik giderme",
+      "analitik yöntem",
+      "anlam analizi"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 146,
+    "kategori": "mantik",
+    "kelime": "sentaks",
+    "aciklama": "sembollerin anlamlarına bakılmaksızın kurallara uygun dizilimini ve gramer yapısını inceleyen mantık dalı.",
+    "yasakli_kelimeler": [
+      "sözdizimi",
+      "şekilsel kurallar",
+      "semantik zıddı",
+      "sembol dizilimi",
+      "gramer"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 147,
+    "kategori": "mantik",
+    "kelime": "semantik",
+    "aciklama": "mantıksal semboller ve önermeler ile dünyadaki gerçek nesneler arasındaki anlam ve doğruluk bağı.",
+    "yasakli_kelimeler": [
+      "anlambilim",
+      "doğruluk bağı",
+      "sentaks zıddı",
+      "anlam ilişkisi",
+      "gönderim"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 148,
+    "kategori": "mantik",
+    "kelime": "pragmatik",
+    "aciklama": "mantık ve dilde ifadelerin kullanıcıları, kullanım bağlamı ve pratik etkileri arasındaki bağı inceleyen alan.",
+    "yasakli_kelimeler": [
+      "kullanımbilim",
+      "bağlam ilişkisi",
+      "pratik etki",
+      "konuşucu niyeti",
+      "dil kullanımı"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 149,
+    "kategori": "mantik",
+    "kelime": "anlam",
+    "aciklama": "bir kavramın veya sözcüğün zihinde canlandırdığı soyut düşünsel içerik ve kavrayış.",
+    "yasakli_kelimeler": [
+      "sinn",
+      "kavramsal içerik",
+      "zihinsel tasarım",
+      "gönderge ortağı",
+      "frege ayrımı"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 150,
+    "kategori": "mantik",
+    "kelime": "gönderge",
+    "aciklama": "bir sözcüğün veya mantıksal ifadenin dış dünyada işaret ettiği somut gerçek nesne.",
+    "yasakli_kelimeler": [
+      "bedeutung",
+      "işaret edilen nesne",
+      "referans",
+      "dış dünya karşılığı",
+      "frege"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 151,
+    "kategori": "mantik",
+    "kelime": "içlem",
+    "aciklama": "bir kavramın kapsadığı varlıkların sahip olduğu ortak niteliklerin ve özelliklerin tümü.",
+    "yasakli_kelimeler": [
+      "ortak özellikler",
+      "nitelikler bütünü",
+      "kaplam zıddı",
+      "kavramın içi",
+      "özellikler"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 152,
+    "kategori": "mantik",
+    "kelime": "kaplam",
+    "aciklama": "bir kavramın içine aldığı, işaret ettiği bireylerin ve nesnelerin sayısal toplamı.",
+    "yasakli_kelimeler": [
+      "kapsanan bireyler",
+      "içlem zıddı",
+      "üye kümesi",
+      "nesneler toplamı",
+      "genişlik"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 153,
+    "kategori": "mantik",
+    "kelime": "tanım",
+    "aciklama": "bir kavramın içlemini ve sınırlarını cins ve özgül ayrımını belirterek eksiksiz açıklama işlemi.",
+    "yasakli_kelimeler": [
+      "tarif",
+      "içlem açıklaması",
+      "sınırları çizme",
+      "cins ve ayrım",
+      "kavram tanımı"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 154,
+    "kategori": "mantik",
+    "kelime": "aksiyomatik sistem",
+    "aciklama": "ispatsız doğru kabul edilen aksiyomlardan tümdengelim yoluyla tüm teoremleri üreten kapalı mantık yapısı.",
+    "yasakli_kelimeler": [
+      "öklid sistemi",
+      "aksiyomlar bütünü",
+      "teorem türetme",
+      "biçimsel sistem",
+      "kurallar zinciri"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 155,
+    "kategori": "mantik",
+    "kelime": "ispat",
+    "aciklama": "bir önermenin doğruluğunu mantık kuralları ve öncüller yardımıyla şüpheye yer bırakmayacak biçimde gösterme.",
+    "yasakli_kelimeler": [
+      "kanıt",
+      "mantıksal kanıtlama",
+      "teorem ispatı",
+      "türetim süreci",
+      "kesinleştirme"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 156,
+    "kategori": "mantik",
+    "kelime": "türetim",
+    "aciklama": "çıkarım kuralları kullanılarak öncül adımlarından mantıksal bir sonucun adım adım elde edilmesi.",
+    "yasakli_kelimeler": [
+      "adım adım çıkarma",
+      "formel türetme",
+      "kurallarla üretme",
+      "ispat adımı",
+      "sonuç türetimi"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 157,
+    "kategori": "mantik",
+    "kelime": "öncül kümesi",
+    "aciklama": "bir argümanda sonucu desteklemek veya ispatlamak üzere baştan kabul edilmiş önermeler topluluğu.",
+    "yasakli_kelimeler": [
+      "hipotezler",
+      "önermeler kümesi",
+      "çıkarım temeli",
+      "başlangıç önermeleri",
+      "dayanaklar"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 158,
+    "kategori": "mantik",
+    "kelime": "tutarlı sistem",
+    "aciklama": "içinde hem bir p önermesinin hem de p'nin değilinin aynı anda ispatlanamadığı çelişkisiz mantık sistemi.",
+    "yasakli_kelimeler": [
+      "çelişkisizlik",
+      "tutarlılık",
+      "aynı anda doğru olmama",
+      "gödel teoremi",
+      "uyumlu sistem"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 159,
+    "kategori": "mantik",
+    "kelime": "eksiksiz sistem",
+    "aciklama": "sistemdeki her doğru önermenin aksiyomlar yardımıyla mutlaka ispatlanabildiği kusursuz kuram.",
+    "yasakli_kelimeler": [
+      "tamlık",
+      "tüm doğruları ispatlama",
+      "gödel eksikliği zıddı",
+      "eksiksizlik",
+      "tam sistem"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 160,
+    "kategori": "mantik",
+    "kelime": "aykırılık",
+    "aciklama": "iki ifadenin aynı anda doğru olmasının mantıksal veya tanımsal açıdan uyuşmaması hali.",
+    "yasakli_kelimeler": [
+      "uyuşmazlık",
+      "çelişme hali",
+      "ters düşme",
+      "uyumsuzluk",
+      "zıtlık"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 161,
+    "kategori": "mantik",
+    "kelime": "safsata",
+    "aciklama": "ilk bakışta doğru ve ikna edici gibi görünen ancak mantıksal açıdan geçersiz olan kusurlu akıl yürütme.",
+    "yasakli_kelimeler": [
+      "fallacy",
+      "yanıltmaca",
+      "hatalı çıkarım",
+      "aldatıcı argüman",
+      "mantık hatası"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 162,
+    "kategori": "mantik",
+    "kelime": "mantık hatası",
+    "aciklama": "argümanın öncülleri ile sonucu arasında mantık kurallarına uygun bağ kurulmaması sonucu oluşan kusur.",
+    "yasakli_kelimeler": [
+      "geçersiz çıkarım",
+      "akıl yürütme hatası",
+      "mantıksal kusur",
+      "yanlış mantık",
+      "tutarsızlık"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 163,
+    "kategori": "mantik",
+    "kelime": "adam karalama",
+    "aciklama": "tartışılan fikre cevap vermek yerine fikri savunan kişinin karakterine veya geçmişine saldırma hatası.",
+    "yasakli_kelimeler": [
+      "ad hominem",
+      "kişiliğe saldırı",
+      "fikri çürütmeme",
+      "karakter karalama",
+      "hakaretle savunma"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 164,
+    "kategori": "mantik",
+    "kelime": "saman adam",
+    "aciklama": "karşı tarafın argümanını abartıp çarpıtarak zayıf bir kopyasını oluşturup sonra o kopyaya saldırma taktiği.",
+    "yasakli_kelimeler": [
+      "korkuluk safsatası",
+      "argümanı çarpıtma",
+      "sahte hedef",
+      "sözleri abartma",
+      "çürütme hilesi"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 165,
+    "kategori": "mantik",
+    "kelime": "döngüsel kanıtlama",
+    "aciklama": "ispatlanması gereken iddianın kelimeleri değiştirilerek öncül gibi öne sürüldüğü kısır döngü hatası.",
+    "yasakli_kelimeler": [
+      "kısır döngü",
+      "aynı şeyi söyleme",
+      "totolojik kanıt",
+      "petitio principii",
+      "iddianın tekrarı"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 166,
+    "kategori": "mantik",
+    "kelime": "yanlış neden",
+    "aciklama": "aralarında sadece zaman ardışıklığı bulunan iki olaydan birini diğerinin gerçek sebebi sanma yanılgısı.",
+    "yasakli_kelimeler": [
+      "post hoc",
+      "ondan sonra oldu diye",
+      "sahte sebep",
+      "yanıltıcı neden",
+      "rastlantı"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 167,
+    "kategori": "mantik",
+    "kelime": "kumarbaz safsatası",
+    "aciklama": "yazı tura gibi bağımsız olasılıklarda üst üste yazı geldiğinde tura gelme ihtimalinin arttığını sanma hatası.",
+    "yasakli_kelimeler": [
+      "yazı tura yanılgısı",
+      "bağımsız olasılık",
+      "şans algısı",
+      "rulet yanılgısı",
+      "ihtimal hatası"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 168,
+    "kategori": "mantik",
+    "kelime": "çoğunluk safsatası",
+    "aciklama": "bir fikrin sırf milyonlarca insan tarafından benimsenmesi sebebiyle doğru olduğunu iddia etme yanılgısı.",
+    "yasakli_kelimeler": [
+      "ad populum",
+      "herkes inanıyor",
+      "çoğunluk haklıdır",
+      "kalabalık onayı",
+      "popüler inanç"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 169,
+    "kategori": "mantik",
+    "kelime": "yetkeye başvurma",
+    "aciklama": "alanında uzman olmayan ünlü veya otorite birinin sözünü kanıt gibi sunarak tartışmayı bitirme hatası.",
+    "yasakli_kelimeler": [
+      "otoriteye başvurma",
+      "ad verecundiam",
+      "uzman görüşü hilesi",
+      "ünlü sözü",
+      "sahte otorite"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 170,
+    "kategori": "mantik",
+    "kelime": "geleneğe başvurma",
+    "aciklama": "bir şeyin yüzyıllardır geleneksel olarak öyle yapılması sebebiyle doğru ve vazgeçilmez olduğunu savunma hatası.",
+    "yasakli_kelimeler": [
+      "eskiden beri böyle",
+      "adetler",
+      "geleneksel doğru",
+      "ad antiquitatem",
+      "eski usul"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 171,
+    "kategori": "mantik",
+    "kelime": "yeniliğe başvurma",
+    "aciklama": "bir fikrin veya ürünün sırf en yeni ve güncel olması nedeniyle eskisinden daha üstün olduğunu varsayma hatası.",
+    "yasakli_kelimeler": [
+      "ad novitatem",
+      "en son çıkan",
+      "yeni olan iyidir",
+      "modern üstünlüğü",
+      "güncellik safsatası"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 172,
+    "kategori": "mantik",
+    "kelime": "acındırma safsatası",
+    "aciklama": "akılcı deliller yerine jüri veya muhatabın merhamet ve acıma duygularını sömürerek haklı çıkmaya çalışma.",
+    "yasakli_kelimeler": [
+      "ad misericordiam",
+      "duygu sömürüsü",
+      "merhamete başvurma",
+      "kendini acındırma",
+      "ağlamaklı savunma"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 173,
+    "kategori": "mantik",
+    "kelime": "tehdide başvurma",
+    "aciklama": "bir argümanı mantıkla kabul ettirmek yerine güç, zorbalık veya ceza tehdidiyle zorla kabul ettirme.",
+    "yasakli_kelimeler": [
+      "ad baculum",
+      "güç tehdidi",
+      "sopaya başvurma",
+      "zorbalık",
+      "korkutarak kabul"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 174,
+    "kategori": "mantik",
+    "kelime": "kaygan zemin",
+    "aciklama": "küçük bir adıma izin verilirse felaketler zincirinin kaçınılmazca geleceğini delilsizce iddia etme safsatası.",
+    "yasakli_kelimeler": [
+      "felaket senaryosu",
+      "adımı engelleme",
+      "çığ etkisi",
+      "abartılı zincir",
+      "slippery slope"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 175,
+    "kategori": "mantik",
+    "kelime": "iki yanlış",
+    "aciklama": "kendi yaptığı yanlış eylemi başkalarının da benzer yanlışlar yaptığını söyleyerek meşrulaştırma hatası.",
+    "yasakli_kelimeler": [
+      "sen de yaptın",
+      "tu quoque",
+      "iki yanlış bir doğru etmez",
+      "misilleme",
+      "suçu başkasına atma"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 176,
+    "kategori": "mantik",
+    "kelime": "sahte ikilem",
+    "aciklama": "arada başka birçok seçenek varken insanları ya hep ya hiç şeklinde iki aşırı uca zorlama mantık hatası.",
+    "yasakli_kelimeler": [
+      "ya bizdensin ya düşman",
+      "yanlış ikilem",
+      "iki seçenek tuzağı",
+      "gri alan yok",
+      "siyah beyaz"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 177,
+    "kategori": "mantik",
+    "kelime": "konuyu saptırma",
+    "aciklama": "tartışmada köşeye sıkışınca dikkatleri dağıtmak için konuyla ilgisiz çarpıcı bir meseleyi araya sokma.",
+    "yasakli_kelimeler": [
+      "dikkat dağıtma",
+      "hedef şaşırtma",
+      "alakasız konu",
+      "kırmızı ringa",
+      "lafı çevirme"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 178,
+    "kategori": "mantik",
+    "kelime": "kırmızı ringa",
+    "aciklama": "av köpeklerinin burnunu şaşırtmak gibi tartışmada ana meseleden uzaklaştırmak için atılan yem argüman.",
+    "yasakli_kelimeler": [
+      "red herring",
+      "hedef saptırma",
+      "iz kaybettirme",
+      "aldatıcı argüman",
+      "dikkat çekme"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 179,
+    "kategori": "mantik",
+    "kelime": "genelleme hatası",
+    "aciklama": "yetersiz ve az sayıdaki tekil örneğe bakarak tüm bir grup veya halk hakkında acelece kesin yargıya varma.",
+    "yasakli_kelimeler": [
+      "acele genelleme",
+      "birkaç örneğe bakma",
+      "önyargı",
+      "tümünü kapsama",
+      "yetersiz veri"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 180,
+    "kategori": "mantik",
+    "kelime": "kategori hatası",
+    "aciklama": "bir kavramı veya terimi ait olmadığı mantıksal bir kategoriye sokarak yapılan kavram karmaşası.",
+    "yasakli_kelimeler": [
+      "gilbert ryle",
+      "yanlış sınıflandırma",
+      "üniversiteyi bina sanma",
+      "kategori karmaşası",
+      "kavram hatası"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 181,
+    "kategori": "mantik",
+    "kelime": "üç değerli",
+    "aciklama": "doğru ve yanlışın yanında belirsiz veya bilinmeyen üçüncü bir doğruluk değeri tanıyan mantık türü.",
+    "yasakli_kelimeler": [
+      "lukasiewicz",
+      "doğru yanlış belirsiz",
+      "üçüncü değer",
+      "bulanık başlangıcı",
+      "üçlü doğruluk"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 182,
+    "kategori": "mantik",
+    "kelime": "zaman mantığı",
+    "aciklama": "önermelerin geçmişte, gelecekte veya her zaman doğru olup olmadığını zaman kipleriyle inceleyen mantık.",
+    "yasakli_kelimeler": [
+      "zamansal kiplik",
+      "geçmiş gelecek",
+      "prior",
+      "temporal logic",
+      "zamana bağlı doğruluk"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 183,
+    "kategori": "mantik",
+    "kelime": "epistemik mantık",
+    "aciklama": "biliyorum, inanıyorum veya şüphe duyuyorum gibi bilgi ve inanç durumlarının mantıksal kurallarını inceleyen dal.",
+    "yasakli_kelimeler": [
+      "inanç mantığı",
+      "bilgi kipi",
+      "hintikka",
+      "bilme durumu",
+      "bilişsel çıkarım"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 184,
+    "kategori": "mantik",
+    "kelime": "deontik mantık",
+    "aciklama": "zorunludur, yasaktır veya serbesttir gibi ahlaki ve hukuki ödev kipliklerini formülleştiren mantık.",
+    "yasakli_kelimeler": [
+      "ödev mantığı",
+      "yasak ve izin",
+      "hukuk mantığı",
+      "ahlaki kiplik",
+      "von wright"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 185,
+    "kategori": "mantik",
+    "kelime": "kuantum mantığı",
+    "aciklama": "atom altı parçacıkların belirsizlik ve süperpozisyon durumlarını açıklamak için dağılma kuralını esneten mantık.",
+    "yasakli_kelimeler": [
+      "birkhoff von neumann",
+      "süperpozisyon",
+      "dağılma yasası esnemesi",
+      "mikro dünya",
+      "kuantum fiziği"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 186,
+    "kategori": "mantik",
+    "kelime": "zenon paradoksu",
+    "aciklama": "hareketin ve zamanın sonsuz bölünebilme varsayımı nedeniyle mantıksal olarak imkansız olduğunu savunan antik çıkmaz.",
+    "yasakli_kelimeler": [
+      "elealı zenon",
+      "hareket imkansız",
+      "aşil ve kaplumbağa",
+      "ok duruyor",
+      "sonsuz bölünme"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 187,
+    "kategori": "mantik",
+    "kelime": "timsah paradoksu",
+    "aciklama": "çocuğu kaçıran timsahın ne yapacağını doğru bilirse çocuğu serbest bırakacağını söylemesiyle oluşan çıkmaz.",
+    "yasakli_kelimeler": [
+      "timsah tahmini",
+      "çocuğu kurtarma",
+      "çelişkili tahmin",
+      "çözümsüz ikilem",
+      "mantık paradoksu"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 188,
+    "kategori": "mantik",
+    "kelime": "berber paradoksu",
+    "aciklama": "kendini tıraş etmeyenleri tıraş eden kasaba berberinin kendini tıraş edip edemeyeceği küme paradoksu.",
+    "yasakli_kelimeler": [
+      "russell paradoksu",
+      "tıraş eden berber",
+      "küme çelişkisi",
+      "özgönderim",
+      "mantık çıkmazı"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 189,
+    "kategori": "mantik",
+    "kelime": "kuzgun paradoksu",
+    "aciklama": "tüm kuzgunlar siyahtır hipotezini beyaz bir ayakkabı görmenin doğrulaması gibi mantıksal tümevarım çelişkisi.",
+    "yasakli_kelimeler": [
+      "hempel paradoksu",
+      "siyah kuzgun",
+      "beyaz ayakkabı",
+      "tümevarım çelişkisi",
+      "doğrulama mantığı"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 190,
+    "kategori": "mantik",
+    "kelime": "beklenmeyen sınav",
+    "aciklama": "öğretmenin gelecek hafta sürpriz bir sınav yapacağını söylemesi üzerine öğrencilerin sınavın yapılamayacağını kanıtlaması.",
+    "yasakli_kelimeler": [
+      "sürpriz sınav",
+      "geriye doğru eleme",
+      "cuma günü sınav",
+      "beklenmeyen tarih",
+      "mantıksal çıkmaz"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 191,
+    "kategori": "mantik",
+    "kelime": "newcomb problemi",
+    "aciklama": "geleceği kusursuz tahmin eden bir kahinin koyduğu iki kutu arasında karar verme ve özgür irade paradoksu.",
+    "yasakli_kelimeler": [
+      "iki kutu",
+      "kahin tahmini",
+      "oyun teorisi",
+      "özgür irade seçimi",
+      "karar teorisi"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 192,
+    "kategori": "mantik",
+    "kelime": "mantık bulmacası",
+    "aciklama": "ipuçları ve önermeler arasındaki ilişkilerden dedüksiyon yaparak doğru eşleşmeyi bulduran zeka oyunu.",
+    "yasakli_kelimeler": [
+      "zeka oyunu",
+      "ipuçları",
+      "doğru yanlışı bulma",
+      "ızgara bulmaca",
+      "dedüksiyon oyunu"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 193,
+    "kategori": "mantik",
+    "kelime": "venn şeması",
+    "aciklama": "kümeler ve önermeler arasındaki kesişim, birleşim ve kapsama ilişkilerini içiçe geçmiş dairelerle gösteren grafik.",
+    "yasakli_kelimeler": [
+      "kesişen daireler",
+      "küme gösterimi",
+      "john venn",
+      "tümel tikel diyagramı",
+      "kesişim bölgesi"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 194,
+    "kategori": "mantik",
+    "kelime": "euler diyagramı",
+    "aciklama": "kümeler arasındaki gerçek ilişkileri boş kümeleri göstermeden doğrudan kapalı eğrilerle çizen mantık şeması.",
+    "yasakli_kelimeler": [
+      "kapalı eğriler",
+      "leonhard euler",
+      "venn benzeri",
+      "küme ilişkisi",
+      "içiçe halkalar"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 195,
+    "kategori": "mantik",
+    "kelime": "karnaugh haritası",
+    "aciklama": "boole cebiri fonksiyonlarını ve dijital mantık devrelerini en az kapı sayısına sadeleştirmek için kullanılan tablo.",
+    "yasakli_kelimeler": [
+      "sadeleştirme tablosu",
+      "boole sadeleştirme",
+      "dijital mantık",
+      "k-map",
+      "bit gruplama"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 196,
+    "kategori": "mantik",
+    "kelime": "mantıksal kapı",
+    "aciklama": "bilgisayar çiplerinde bir veya daha fazla ikili giriş voltajından mantık kurallarıyla tek bir çıkış üreten devre.",
+    "yasakli_kelimeler": [
+      "dijital devre",
+      "boole devresi",
+      "0 ve 1 kapısı",
+      "elektronik çip",
+      "transistör devresi"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 197,
+    "kategori": "mantik",
+    "kelime": "ve kapısı",
+    "aciklama": "girişlerin her ikisi de bir voltajındayken çıkışı bir veren, aksi halde sıfır veren temel mantık devresi.",
+    "yasakli_kelimeler": [
+      "and gate",
+      "çarpma kapısı",
+      "iki giriş bir",
+      "seri anahtar",
+      "ikili devre"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 198,
+    "kategori": "mantik",
+    "kelime": "veya kapısı",
+    "aciklama": "girişlerinden herhangi biri bir olduğunda çıkışa bir sinyali üreten paralel bağlantılı mantık kapısı.",
+    "yasakli_kelimeler": [
+      "or gate",
+      "toplama kapısı",
+      "en az bir giriş",
+      "paralel anahtar",
+      "mantık devresi"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 199,
+    "kategori": "mantik",
+    "kelime": "değil kapısı",
+    "aciklama": "girişine sıfır verildiğinde bir, bir verildiğinde sıfır çıkışı üreten evirici mantık kapısı.",
+    "yasakli_kelimeler": [
+      "not gate",
+      "evirici devre",
+      "inverter",
+      "sinyali tersleme",
+      "tek girişli kapı"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 200,
+    "kategori": "mantik",
+    "kelime": "özel veya",
+    "aciklama": "girişleri birbirinden farklıyken bir veren, girişleri birbiriyle aynıyken sıfır üreten dışlayıcı mantık kapısı.",
+    "yasakli_kelimeler": [
+      "xor kapısı",
+      "dışlayıcı veya",
+      "farklı girişler bir",
+      "aynı girişler sıfır",
+      "özel mantık"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "kategori": "mantik",
+    "kelime": "mantık yürütmek",
+    "aciklama": "bilinen gerçeklerden yola çıkarak mantıklı çıkarımlar yapmak.",
+    "yasakli_kelimeler": [
+      "düşünce",
+      "akıl",
+      "çıkarım",
+      "doğru",
+      "sonuç"
+    ],
+    "zorluk": "kolay",
+    "id": 201
+  },
+  {
+    "kategori": "mantik",
+    "kelime": "akıl süzgecinden geçirmek",
+    "aciklama": "bir fikri mantık ve rasyonel akılla tartıp değerlendirmek.",
+    "yasakli_kelimeler": [
+      "tartmak",
+      "düşünmek",
+      "mantıklı mı",
+      "değerlendirme",
+      "eleştiri"
+    ],
+    "zorluk": "kolay",
+    "id": 202
+  },
+  {
+    "kategori": "mantik",
+    "kelime": "doğru karar vermek",
+    "aciklama": "verilere ve mantığa dayanarak en isabetli tercihi yapmak.",
+    "yasakli_kelimeler": [
+      "seçim",
+      "hata yapmamak",
+      "isabetli",
+      "akılcı",
+      "sonuç"
+    ],
+    "zorluk": "kolay",
+    "id": 203
+  },
+  {
+    "kategori": "mantik",
+    "kelime": "yanlışı bulmak",
+    "aciklama": "bir düşünce veya ifadedeki mantık hatasını yakalamak.",
+    "yasakli_kelimeler": [
+      "hata",
+      "çelişki",
+      "kusur",
+      "düzeltmek",
+      "mantıksız"
+    ],
+    "zorluk": "kolay",
+    "id": 204
+  },
+  {
+    "kategori": "mantik",
+    "kelime": "çözüm üretmek",
+    "aciklama": "karşılaşılan bir probleme mantıklı çıkış yolu geliştirmek.",
+    "yasakli_kelimeler": [
+      "problem",
+      "çare",
+      "fikir",
+      "akıl",
+      "halletmek"
+    ],
+    "zorluk": "kolay",
+    "id": 205
+  },
+  {
+    "kategori": "mantik",
+    "kelime": "soru çözmek",
+    "aciklama": "mantıksal veya matematiksel bir problemi sonuca ulaştırmak.",
+    "yasakli_kelimeler": [
+      "bulmaca",
+      "test",
+      "cevap",
+      "matematik",
+      "mantık sorusu"
+    ],
+    "zorluk": "kolay",
+    "id": 206
+  },
+  {
+    "kategori": "mantik",
+    "kelime": "karşılaştırmak",
+    "aciklama": "i̇ki durumu veya nesneyi ortak ve farklı yönleriyle kıyaslamak.",
+    "yasakli_kelimeler": [
+      "kıyas",
+      "iki seçenek",
+      "fark",
+      "benzerlik",
+      "tartmak"
+    ],
+    "zorluk": "kolay",
+    "id": 207
+  },
+  {
+    "kategori": "mantik",
+    "kelime": "sıraya koymak",
+    "aciklama": "olayları veya maddeleri mantıksal bir akış sırasına dizmek.",
+    "yasakli_kelimeler": [
+      "dizmek",
+      "öncelik",
+      "adım adım",
+      "mantıksal sıra",
+      "düzen"
+    ],
+    "zorluk": "kolay",
+    "id": 208
+  },
+  {
+    "kategori": "mantik",
+    "kelime": "ispat etmek",
+    "aciklama": "bir iddianın doğruluğunu su götürmez delillerle göstermek.",
+    "yasakli_kelimeler": [
+      "kanıtlamak",
+      "delil",
+      "göstermek",
+      "doğruluk",
+      "şüphe yok"
+    ],
+    "zorluk": "kolay",
+    "id": 209
+  },
+  {
+    "kategori": "mantik",
+    "kelime": "itiraz gerekçesi sunmak",
+    "aciklama": "karşı çıkışının altındaki mantıklı sebepleri açıklamak.",
+    "yasakli_kelimeler": [
+      "kabul etmeme",
+      "neden",
+      "mantıksızlık",
+      "savunma",
+      "itiraz"
+    ],
+    "zorluk": "kolay",
+    "id": 210
+  },
+  {
+    "kategori": "mantik",
+    "kelime": "bağlantı kurmak",
+    "aciklama": "birbirinden ayrı görünen iki durum arasındaki mantıksal bağı yakalamak.",
+    "yasakli_kelimeler": [
+      "ilişki",
+      "sebep sonuç",
+      "iki olay",
+      "mantık",
+      "bağ"
+    ],
+    "zorluk": "kolay",
+    "id": 211
+  },
+  {
+    "kategori": "mantik",
+    "kelime": "tarafsız kalmak",
+    "aciklama": "duygulara kapılmadan sadece mantık ve olgularla karar vermek.",
+    "yasakli_kelimeler": [
+      "objektif",
+      "duygusuz",
+      "akılcı",
+      "taraf tutmamak",
+      "nötr"
+    ],
+    "zorluk": "kolay",
+    "id": 212
+  },
+  {
+    "kategori": "mantik",
+    "kelime": "önerme kurmak",
+    "aciklama": "doğru ya da yanlış kesin bir hüküm bildiren mantıksal ifade üretmek.",
+    "yasakli_kelimeler": [
+      "doğru veya yanlış",
+      "yargı bildiren",
+      "p ve q",
+      "cümle",
+      "mantıksal"
+    ],
+    "zorluk": "orta",
+    "id": 213
+  },
+  {
+    "kategori": "mantik",
+    "kelime": "kıyas yapmak",
+    "aciklama": "i̇ki öncülden hareketle zorunlu bir mantıksal üçüncü sonuca varmak.",
+    "yasakli_kelimeler": [
+      "tasım",
+      "syllogism",
+      "büyük öncül",
+      "küçük öncül",
+      "sonuç"
+    ],
+    "zorluk": "orta",
+    "id": 214
+  },
+  {
+    "kategori": "mantik",
+    "kelime": "çelişkiyi yakalamak",
+    "aciklama": "bir savın içinde kendi kendisini yalanlayan tutarsızlığı bulmak.",
+    "yasakli_kelimeler": [
+      "tutarsızlık",
+      "aynı anda olamama",
+      "mantık hatası",
+      "tezat",
+      "ifade"
+    ],
+    "zorluk": "orta",
+    "id": 215
+  },
+  {
+    "kategori": "mantik",
+    "kelime": "doğruluk tablosu hazırlamak",
+    "aciklama": "önermelerin ve bağlaçların tüm olası doğruluk değerlerini tabloda göstermek.",
+    "yasakli_kelimeler": [
+      "1 ve 0",
+      "doğru yanlış değerleri",
+      "ve veya",
+      "matris",
+      "önerme"
+    ],
+    "zorluk": "orta",
+    "id": 216
+  },
+  {
+    "kategori": "mantik",
+    "kelime": "safsatayı çürütmek",
+    "aciklama": "mantıklı gibi görünen ama aldatıcı olan argümanı ifşa edip çürütmek.",
+    "yasakli_kelimeler": [
+      "fallacy",
+      "yanıltmaca",
+      "sahte mantık",
+      "ad hominem",
+      "çürütme"
+    ],
+    "zorluk": "orta",
+    "id": 217
+  },
+  {
+    "kategori": "mantik",
+    "kelime": "tümleme almak",
+    "aciklama": "bir önermenin veya kümenin tam zıddını ve olumsuzunu almak.",
+    "yasakli_kelimeler": [
+      "değili",
+      "not",
+      "tersi",
+      "küme",
+      "p'nin değili"
+    ],
+    "zorluk": "orta",
+    "id": 218
+  },
+  {
+    "kategori": "mantik",
+    "kelime": "koşullu önerme yazmak",
+    "aciklama": "'eğer... ise...' formatında şart bildiren mantıksal önerme kurmak.",
+    "yasakli_kelimeler": [
+      "ise bağlacı",
+      "p ise q",
+      "şart",
+      "gerek koşul",
+      "yeter koşul"
+    ],
+    "zorluk": "orta",
+    "id": 219
+  },
+  {
+    "kategori": "mantik",
+    "kelime": "akıl ilkelerini gözetmek",
+    "aciklama": "düşüncede özdeşlik ve çelişmezlik gibi temel mantık kurallarına uymak.",
+    "yasakli_kelimeler": [
+      "özdeşlik",
+      "çelişmezlik",
+      "üçüncü halin imkansızlığı",
+      "temel mantık",
+      "aristoteles"
+    ],
+    "zorluk": "orta",
+    "id": 220
+  },
+  {
+    "kategori": "mantik",
+    "kelime": "venn şeması çizmek",
+    "aciklama": "kümeler ve önermeler arasındaki ilişkileri iç içe geçen dairelerle göstermek.",
+    "yasakli_kelimeler": [
+      "kesişim kümesi",
+      "daireler",
+      "birleşim",
+      "kapsama",
+      "mantık şeması"
+    ],
+    "zorluk": "orta",
+    "id": 221
+  },
+  {
+    "kategori": "mantik",
+    "kelime": "özdeşlik kurmak",
+    "aciklama": "bir şeyin sadece kendisiyle özdeş ve eşit olduğunu ifade etmek.",
+    "yasakli_kelimeler": [
+      "a eşittir a",
+      "kendisi olma",
+      "aynılık",
+      "mantık ilkesi",
+      "değişmezlik"
+    ],
+    "zorluk": "orta",
+    "id": 222
+  },
+  {
+    "kategori": "mantik",
+    "kelime": "yeter-sebep aramak",
+    "aciklama": "bir şeyin neden öyle olduğunun yeterli mantıksal gerekçesini araştırmak.",
+    "yasakli_kelimeler": [
+      "leibniz",
+      "nedensiz hiçbir şey yok",
+      "gerekçe",
+      "açıklama",
+      "dayanak"
+    ],
+    "zorluk": "orta",
+    "id": 223
+  },
+  {
+    "kategori": "mantik",
+    "kelime": "mantık bağlacı kullanmak",
+    "aciklama": "önermeleri birbirine 've', 'veya', 'ise' operatörleriyle bağlamak.",
+    "yasakli_kelimeler": [
+      "ve",
+      "veya",
+      "ise",
+      "ancak ve ancak",
+      "sembolik"
+    ],
+    "zorluk": "orta",
+    "id": 224
+  },
+  {
+    "kategori": "mantik",
+    "kelime": "üçüncü halin imkansızlığını savunmak",
+    "aciklama": "bir önermenin ya doğru ya yanlış olacağını, üçüncü bir şık olamayacağını kabul etmek.",
+    "yasakli_kelimeler": [
+      "ya doğru ya yanlış",
+      "arada üçüncü yok",
+      "klasik mantık",
+      "kesinlik",
+      "ikili"
+    ],
+    "zorluk": "orta",
+    "id": 225
+  },
+  {
+    "kategori": "mantik",
+    "kelime": "kısır döngüyü fark etmek",
+    "aciklama": "argümanın kanıtlamak istediği şeyi baştan doğru varsayıp döndüğü hatayı görmek.",
+    "yasakli_kelimeler": [
+      "totoloji",
+      "kendi kendini kanıtlama",
+      "döngüsel kanıtlama",
+      "aynı şey",
+      "akıl yürütme"
+    ],
+    "zorluk": "orta",
+    "id": 226
+  },
+  {
+    "kategori": "mantik",
+    "kelime": "sembolik mantığa dökmek",
+    "aciklama": "günlük dildeki karmaşık cümleleri sembolik harf ve operatörlere dönüştürmek.",
+    "yasakli_kelimeler": [
+      "harflerle yazma",
+      "matematiksel mantık",
+      "p q r sembolleri",
+      "formülleştirme",
+      "formal"
+    ],
+    "zorluk": "orta",
+    "id": 227
+  },
+  {
+    "kategori": "mantik",
+    "kelime": "çelişmezlik ilkesine dayanmak",
+    "aciklama": "bir şeyin aynı anda ve aynı şartta hem var hem yok olamayacağını savunmak.",
+    "yasakli_kelimeler": [
+      "aynı anda hem a hem değil a olamaz",
+      "mantık kuralı",
+      "tutarlılık",
+      "temel yasa",
+      "aristoteles"
+    ],
+    "zorluk": "orta",
+    "id": 228
+  },
+  {
+    "kategori": "mantik",
+    "kelime": "yeter koşul ile gerek koşulu ayırmak",
+    "aciklama": "bir sonucun doğması için zorunlu olan şart ile tek başına yeten şartı ayırt etmek.",
+    "yasakli_kelimeler": [
+      "necessary sufficient",
+      "olmazsa olmaz",
+      "tek başına yeterli",
+      "şart",
+      "mantık"
+    ],
+    "zorluk": "orta",
+    "id": 229
+  },
+  {
+    "kategori": "mantik",
+    "kelime": "aksiyomatik sistem kurmak",
+    "aciklama": "kanıtsız doğru kabul edilen temel aksiyomlardan tüm teoriyi türetmek.",
+    "yasakli_kelimeler": [
+      "temel kabuller",
+      "teorem türetme",
+      "tutarlı yapı",
+      "öklid",
+      "mantıksal temel"
+    ],
+    "zorluk": "orta",
+    "id": 230
+  },
+  {
+    "kategori": "mantik",
+    "kelime": "geçerli çıkarım yapmak",
+    "aciklama": "öncüllerinin doğruluğu durumunda sonucun yanlış olmasının imkansız olduğu akıl yürütmek.",
+    "yasakli_kelimeler": [
+      "valid argument",
+      "öncüller doğruysa sonuç zorunlu",
+      "mantıksal form",
+      "sağlam çıkarım",
+      "tümdengelim"
+    ],
+    "zorluk": "orta",
+    "id": 231
+  },
+  {
+    "kategori": "mantik",
+    "kelime": "nicelik belirlemek",
+    "aciklama": "önermenin 'bütün' mü yoksa 'bazı' elemanları mı kapsadığını belirtmek.",
+    "yasakli_kelimeler": [
+      "tümel tikel",
+      "bütün bazı",
+      "her",
+      "niceleyici",
+      "önerme"
+    ],
+    "zorluk": "orta",
+    "id": 232
+  },
+  {
+    "kategori": "mantik",
+    "kelime": "nitelik saptamak",
+    "aciklama": "önermenin olumlu mu yoksa olumsuz mu bir yargı taşıdığını belirlemek.",
+    "yasakli_kelimeler": [
+      "olumlu olumsuz",
+      "yüklemleme",
+      "onaylama reddetme",
+      "önerme türü",
+      "mantık"
+    ],
+    "zorluk": "orta",
+    "id": 233
+  },
+  {
+    "kategori": "mantik",
+    "kelime": "sahte ikilem tuzağını bozmak",
+    "aciklama": "meseleyi sadece iki uç seçeneğe sıkıştıran sahte çıkmazı aradaki yolları göstererek yıkmak.",
+    "yasakli_kelimeler": [
+      "ya o ya bu",
+      "başka seçenek yokmuş gibi",
+      "safsata",
+      "üçüncü yol",
+      "siyah beyaz"
+    ],
+    "zorluk": "orta",
+    "id": 234
+  },
+  {
+    "kategori": "mantik",
+    "kelime": "öbeğin kapsamını belirlemek",
+    "aciklama": "bir kavramın altında toplanan somut varlıkların tamamını saptamak.",
+    "yasakli_kelimeler": [
+      "kaplam içlem",
+      "kavramın içine aldığı bireyler",
+      "mantık",
+      "genişlik",
+      "küme"
+    ],
+    "zorluk": "orta",
+    "id": 235
+  },
+  {
+    "kategori": "mantik",
+    "kelime": "içlemi tanımlamak",
+    "aciklama": "bir kavramın barındırdığı temel ayırt edici niteliklerin bütününü ortaya koymak.",
+    "yasakli_kelimeler": [
+      "kavramın ortak özellikleri",
+      "nitelikler",
+      "kaplam tersi",
+      "tanım",
+      "mantıksal öz"
+    ],
+    "zorluk": "orta",
+    "id": 236
+  },
+  {
+    "kategori": "mantik",
+    "kelime": "gödel'in eksiklik teoremini tartışmak",
+    "aciklama": "yeterince güçlü her tutarlı biçimsel sistemde ispatlanamayan doğru önermeler olduğunu kanıtlamak.",
+    "yasakli_kelimeler": [
+      "eksiklik ve tutarlılık",
+      "ispatlanamaz doğrular",
+      "matematiksel mantık",
+      "formal sistem sınırları",
+      "1931"
+    ],
+    "zorluk": "zor",
+    "id": 237
+  },
+  {
+    "kategori": "mantik",
+    "kelime": "modus ponens kuralını işletmek",
+    "aciklama": "'p ise q' ve 'p' öncüllerinden doğrudan 'q' sonucuna varan temel kuralı uygulamak.",
+    "yasakli_kelimeler": [
+      "öncülü olumlama",
+      "p ise q ve p öyleyse q",
+      "tümdengelim kuralı",
+      "çıkarım",
+      "geçerli"
+    ],
+    "zorluk": "zor",
+    "id": 238
+  },
+  {
+    "kategori": "mantik",
+    "kelime": "modus tollens ile sonuca varmak",
+    "aciklama": "'p ise q' ve 'değil q' öncüllerinden hareketle 'değil p' sonucunu türetmek.",
+    "yasakli_kelimeler": [
+      "artb采用了 reddetme",
+      "p ise q ve değil q öyleyse değil p",
+      "olumsuzlama kuralı",
+      "çıkarım",
+      "tümdengelim"
+    ],
+    "zorluk": "zor",
+    "id": 239
+  },
+  {
+    "kategori": "mantik",
+    "kelime": "bulanık mantık modellemesi yapmak",
+    "aciklama": "sadece 0 ve 1 yerine kısmi doğruluk derecelerine dayalı esnek mantık sistemi kurmak.",
+    "yasakli_kelimeler": [
+      "fuzzy logic",
+      "lütfi zadeh",
+      "0 ile 1 arası üyelik derecesi",
+      "keskin olmayan mantık",
+      "yapay zeka"
+    ],
+    "zorluk": "zor",
+    "id": 240
+  },
+  {
+    "kategori": "mantik",
+    "kelime": "modal mantık operatörü kullanmak",
+    "aciklama": "önermelere 'zorunludur' ve 'mümkündür' kiplik operatörlerini ekleyerek analiz etmek.",
+    "yasakli_kelimeler": [
+      "kripke",
+      "zorunluluk ve olasılık",
+      "kutu elmas sembolleri",
+      "mümkün dünyalar",
+      "kipsel mantık"
+    ],
+    "zorluk": "zor",
+    "id": 241
+  },
+  {
+    "kategori": "mantik",
+    "kelime": "de morgan kurallarını uygulamak",
+    "aciklama": "parantez dışındaki olumsuzluk işaretini 've' ve 'veya' bağlaçlarına dağıtarak dönüştürmek.",
+    "yasakli_kelimeler": [
+      "değilleme dağıtımı",
+      "ve'nin değili veya'dır",
+      "küme mantığı",
+      "bağlaç dönüşümü",
+      "boole"
+    ],
+    "zorluk": "zor",
+    "id": 242
+  },
+  {
+    "kategori": "mantik",
+    "kelime": "russell paradoksunu çözmek",
+    "aciklama": "kendi kendini eleman olarak içermeyen kümelerin yarattığı çelişkiyi tip teorisiyle aşmak.",
+    "yasakli_kelimeler": [
+      "kendisini içermeyen kümeler kümesi",
+      "berber paradoksu",
+      "tip teorisi",
+      "frege krizi",
+      "matematiğin temelleri"
+    ],
+    "zorluk": "zor",
+    "id": 243
+  },
+  {
+    "kategori": "mantik",
+    "kelime": "tarski doğruluk tanımını yapmak",
+    "aciklama": "doğruluğu dilin kendi içinde değil onu açıklayan bir üst-dilde tanımlamak.",
+    "yasakli_kelimeler": [
+      "karşılık kuramı",
+      "üst-dil nesne-dil",
+      "t cümlesi",
+      "semantik doğruluk",
+      "model teorisi"
+    ],
+    "zorluk": "zor",
+    "id": 244
+  },
+  {
+    "kategori": "mantik",
+    "kelime": "birinci derece yüklemler mantığı yazmak",
+    "aciklama": "niceleyiciler ve değişkenler içeren birinci derece mantık diliyle önermeleri formüle etmek.",
+    "yasakli_kelimeler": [
+      "fol",
+      "evrensel ve varlıksal niceleyici",
+      "fonksiyon ve bağıntı",
+      "formal sembolizm",
+      "yüklem"
+    ],
+    "zorluk": "zor",
+    "id": 245
+  },
+  {
+    "kategori": "mantik",
+    "kelime": "gentzen doğal türetim sistemini işletmek",
+    "aciklama": "mantıksal ispatları aksiyomsuz, sadece doğal türetim kurallarıyla adım adım yürütmek.",
+    "yasakli_kelimeler": [
+      "ardışık hesap",
+      "giriş ve eleme kuralları",
+      "kesme eleme teoremi",
+      "ispat teorisi",
+      "formal"
+    ],
+    "zorluk": "zor",
+    "id": 246
+  },
+  {
+    "kategori": "mantik",
+    "kelime": "boole cebiri sadeleştirmesi yapmak",
+    "aciklama": "karmaşık mantıksal fonksiyonları boole teoremleriyle en az sayıda operatöre indirgemek.",
+    "yasakli_kelimeler": [
+      "karnaugh haritası",
+      "mantık kapısı indirgeme",
+      "ikili cebir",
+      "lojit devre",
+      "1 ve 0 cebri"
+    ],
+    "zorluk": "zor",
+    "id": 247
+  },
+  {
+    "kategori": "mantik",
+    "kelime": "sezgici mantık kurallarını benimsemek",
+    "aciklama": "dolaylı ispatı reddedip sadece varlığı somut inşa edilebilen nesneleri doğru kabul etmek.",
+    "yasakli_kelimeler": [
+      "intuitionistic logic",
+      "brouwer",
+      "üçüncü halin imkansızlığını reddetme",
+      "yapıcı ispat",
+      "matematik"
+    ],
+    "zorluk": "zor",
+    "id": 248
+  },
+  {
+    "kategori": "mantik",
+    "kelime": "kripke çerçevesi oluşturmak",
+    "aciklama": "kipsel önermelerin doğruluğunu mümkün dünyalar ve erişim bağıntıları ağı üzerinde sınamak.",
+    "yasakli_kelimeler": [
+      "mümkün dünyalar semantiği",
+      "erişilebilirlik bağıntısı",
+      "model teorisi",
+      "kipsel mantık doğrulaması",
+      "yapı"
+    ],
+    "zorluk": "zor",
+    "id": 249
+  },
+  {
+    "kategori": "mantik",
+    "kelime": "reduktio ad absurdum uygulamak",
+    "aciklama": "i̇ddianın tersinin imkansız ve saçma bir çelişkiye yol açtığını göstererek asıl iddiayı ispatlamak.",
+    "yasakli_kelimeler": [
+      "olmayana ergi",
+      "tersini varsayıp çelişki bulma",
+      "dolaylı ispat",
+      "saçmaya indirgeme",
+      "mantık"
+    ],
+    "zorluk": "zor",
+    "id": 250
   }
 ]

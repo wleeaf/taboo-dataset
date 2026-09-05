@@ -1,0 +1,3502 @@
+[
+  {
+    "id": 1,
+    "kategori": "ulasim",
+    "kelime": "metro",
+    "aciklama": "büyük şehirlerde yerin altından raylar üzerinde sefer yapan hızlı toplu taşıma aracı.",
+    "yasakli_kelimeler": [
+      "yer altı",
+      "tren",
+      "istasyon",
+      "ray",
+      "marmaray"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 2,
+    "kategori": "ulasim",
+    "kelime": "tramvay",
+    "aciklama": "caddeler üzerindeki özel raylarda elektrik enerjisiyle yolcu taşıyan şehir içi ulaşım aracı.",
+    "yasakli_kelimeler": [
+      "ray",
+      "cadde",
+      "elektrik",
+      "istiklal",
+      "vagon"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 3,
+    "kategori": "ulasim",
+    "kelime": "metrobüs",
+    "aciklama": "kendisine ayrılmış özel şeritte kesintisiz ilerleyen yüksek yolcu kapasiteli uzun otobüs.",
+    "yasakli_kelimeler": [
+      "şerit",
+      "e5",
+      "durak",
+      "beybüs",
+      "körüklü"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 4,
+    "kategori": "ulasim",
+    "kelime": "marmaray",
+    "aciklama": "istanbul boğazı'nın altından iki kıtayı demir yoluyla birbirine bağlayan denizaltı tren hattı.",
+    "yasakli_kelimeler": [
+      "boğaz",
+      "tüp geçit",
+      "asya",
+      "avrupa",
+      "tren"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 5,
+    "kategori": "ulasim",
+    "kelime": "hızlı tren",
+    "aciklama": "şehirler arasında çok yüksek süratte sefer düzenleyen modern demir yolu taşıtı.",
+    "yasakli_kelimeler": [
+      "yht",
+      "ankara",
+      "demir yolu",
+      "sürat",
+      "ray"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 6,
+    "kategori": "ulasim",
+    "kelime": "banliyö treni",
+    "aciklama": "şehir merkezi ile kenar semtler arasında düzenli sefer yapan yerel tren.",
+    "yasakli_kelimeler": [
+      "istasyon",
+      "vagon",
+      "semt",
+      "ray",
+      "tren"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 7,
+    "kategori": "ulasim",
+    "kelime": "füniküler",
+    "aciklama": "dik yokuşlarda kablolu çekme sistemiyle ray üzerinde hareket eden eğimli taşıma aracı.",
+    "yasakli_kelimeler": [
+      "dik",
+      "yokuş",
+      "kablo",
+      "ray",
+      "taksim"
+    ],
+    "zorluk": "zor"
+  },
+  {
+    "id": 8,
+    "kategori": "ulasim",
+    "kelime": "teleferik",
+    "aciklama": "havada gerili çelik halatlar üzerinde asılı hareket eden kabinli taşıma sistemi.",
+    "yasakli_kelimeler": [
+      "halat",
+      "kabin",
+      "dağ",
+      "tepe",
+      "hava"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 9,
+    "kategori": "ulasim",
+    "kelime": "monoray",
+    "aciklama": "tek bir kiriş veya ray hattı üzerinde havadan giden hafif raylı taşıma sistemi.",
+    "yasakli_kelimeler": [
+      "tek",
+      "ray",
+      "asılı",
+      "hava",
+      "tren"
+    ],
+    "zorluk": "zor"
+  },
+  {
+    "id": 10,
+    "kategori": "ulasim",
+    "kelime": "metro hattı",
+    "aciklama": "yeraltı trenlerinin başlangıç ve bitiş noktaları arasında izlediği belirli güzergah.",
+    "yasakli_kelimeler": [
+      "güzergah",
+      "durak",
+      "m2",
+      "rota",
+      "sefer"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 11,
+    "kategori": "ulasim",
+    "kelime": "tren rayı",
+    "aciklama": "lokomotif ve vagonların üzerinde kaymadan güvenle ilerlemesini sağlayan paralel çelik hat.",
+    "yasakli_kelimeler": [
+      "çelik",
+      "travers",
+      "demir yolu",
+      "lokomotif",
+      "yol"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 12,
+    "kategori": "ulasim",
+    "kelime": "metro istasyonu",
+    "aciklama": "yer altındaki yolcuların trenlere inip binmesini sağlayan peronlu bekleme alanı.",
+    "yasakli_kelimeler": [
+      "durak",
+      "peron",
+      "turnike",
+      "merdiven",
+      "yeraltı"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 13,
+    "kategori": "ulasim",
+    "kelime": "tren istasyonu",
+    "aciklama": "şehirlerarası veya bölgesel trenlerin yolcu alıp indirdiği bilet gişeli bina.",
+    "yasakli_kelimeler": [
+      "gar",
+      "haydarpaşa",
+      "bekleme",
+      "peron",
+      "bilet"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 14,
+    "kategori": "ulasim",
+    "kelime": "metro vagonu",
+    "aciklama": "yeraltı trenini oluşturan ve içinde yolcu koltukları ile tutamaçlar bulunan bölme.",
+    "yasakli_kelimeler": [
+      "tren",
+      "dizi",
+      "koltuk",
+      "tutunma",
+      "kapı"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 15,
+    "kategori": "ulasim",
+    "kelime": "makas değişimi",
+    "aciklama": "raylı taşıtların seyir halindeyken bir demir yolu hattından diğerine yönlendirilmesi işlemi.",
+    "yasakli_kelimeler": [
+      "ray",
+      "tren",
+      "yön",
+      "hat",
+      "geçiş"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 16,
+    "kategori": "ulasim",
+    "kelime": "yeraltı metrosu",
+    "aciklama": "şehir trafiğinden tamamen bağımsız olarak kazılmış derin tünellerde işleyen raylı sistem.",
+    "yasakli_kelimeler": [
+      "tünel",
+      "zemin",
+      "derinlik",
+      "kazı",
+      "taşıma"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 17,
+    "kategori": "ulasim",
+    "kelime": "katener hattı",
+    "aciklama": "elektrikli tren veya tramvaylara tepeden enerji ileten yüksek gerilimli çelik kablo sistemi.",
+    "yasakli_kelimeler": [
+      "elektrik",
+      "kablo",
+      "tel",
+      "pantograf",
+      "gerilim"
+    ],
+    "zorluk": "zor"
+  },
+  {
+    "id": 18,
+    "kategori": "ulasim",
+    "kelime": "metro tüneli",
+    "aciklama": "yer altında trenlerin geçişi için açılmış ışıklandırılmış silindirik büyük geçit.",
+    "yasakli_kelimeler": [
+      "delik",
+      "yeraltı",
+      "karanlık",
+      "ray",
+      "tüp"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 19,
+    "kategori": "ulasim",
+    "kelime": "istasyon peronu",
+    "aciklama": "yolcuların tren veya metroya binmek için bekledikleri ray hizasındaki yüksek platform.",
+    "yasakli_kelimeler": [
+      "platform",
+      "bekleme",
+      "tren",
+      "metro",
+      "sarı çizgi"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 20,
+    "kategori": "ulasim",
+    "kelime": "raylı sistem",
+    "aciklama": "tren, metro ve tramvay gibi çelik hatlar üzerinde hareket eden tüm toplu taşıma ağı.",
+    "yasakli_kelimeler": [
+      "demir yolu",
+      "ulaşım",
+      "hat",
+      "kentiçi",
+      "vagon"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 21,
+    "kategori": "ulasim",
+    "kelime": "akıllı tren",
+    "aciklama": "sürücüsüz kontrol edilebilen ve sensörlerle yönlendirilen yüksek teknolojili modern vagon dizisi.",
+    "yasakli_kelimeler": [
+      "sürücüsüz",
+      "otomatik",
+      "sensör",
+      "teknoloji",
+      "bilgisayar"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 22,
+    "kategori": "ulasim",
+    "kelime": "lokomotif motoru",
+    "aciklama": "arkasındaki yolcu veya yük vagonlarını raylar üzerinde çeken ana çekici makine.",
+    "yasakli_kelimeler": [
+      "makine",
+      "çekici",
+      "güç",
+      "makinist",
+      "vagon"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 23,
+    "kategori": "ulasim",
+    "kelime": "ekspres tren",
+    "aciklama": "ara duraklarda durmadan doğrudan ana varış istasyonlarına hızlıca giden demir yolu seferi.",
+    "yasakli_kelimeler": [
+      "hızlı",
+      "aktarmasız",
+      "duraksız",
+      "doğrudan",
+      "gar"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 24,
+    "kategori": "ulasim",
+    "kelime": "tramvay hattı",
+    "aciklama": "şehir merkezinde caddeleri takip ederek ilerleyen raylı yol güzergahı.",
+    "yasakli_kelimeler": [
+      "kabataş",
+      "bağcılar",
+      "ray",
+      "cadde",
+      "sefer"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 25,
+    "kategori": "ulasim",
+    "kelime": "tarihi tramvay",
+    "aciklama": "taksim istiklal caddesi gibi nostaljik bölgelerde sembolik amaçla işleyen kırmızı raylı araç.",
+    "yasakli_kelimeler": [
+      "nostalji",
+      "beyoğlu",
+      "istiklal",
+      "kırmızı",
+      "taksim"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 26,
+    "kategori": "ulasim",
+    "kelime": "havaalanı metrosu",
+    "aciklama": "şehir merkezinden havalimanı terminallerine doğrudan ve hızlı ulaşım sağlayan özel metro hattı.",
+    "yasakli_kelimeler": [
+      "terminal",
+      "uçak",
+      "bavul",
+      "havalimanı",
+      "hat"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 27,
+    "kategori": "ulasim",
+    "kelime": "aktarma istasyonu",
+    "aciklama": "yolcuların bir metro veya toplu taşıma hattından diğerine yürüyerek geçiş yaptığı kavşak durağı.",
+    "yasakli_kelimeler": [
+      "bağlantı",
+      "yenikapı",
+      "geçiş",
+      "hat",
+      "peron"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 28,
+    "kategori": "ulasim",
+    "kelime": "peron kapısı",
+    "aciklama": "metro istasyonlarında raylara düşmeyi önlemek amacıyla trenle eş zamanlı açılan cam güvenlik paneli.",
+    "yasakli_kelimeler": [
+      "cam",
+      "güvenlik",
+      "ray",
+      "emniyet",
+      "otomatik"
+    ],
+    "zorluk": "zor"
+  },
+  {
+    "id": 29,
+    "kategori": "ulasim",
+    "kelime": "tünel girişi",
+    "aciklama": "karayolu veya demiryolunun dağ ya da zemin altına daldığı geniş açıklık.",
+    "yasakli_kelimeler": [
+      "ağız",
+      "portal",
+      "dağ",
+      "yeraltı",
+      "karanlık"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 30,
+    "kategori": "ulasim",
+    "kelime": "makas kavşağı",
+    "aciklama": "demir yolu ağında birden fazla rayın kesişip ayrıldığı karmaşık hat bölgesi.",
+    "yasakli_kelimeler": [
+      "ray",
+      "kesişim",
+      "yol",
+      "ayrım",
+      "tren"
+    ],
+    "zorluk": "zor"
+  },
+  {
+    "id": 31,
+    "kategori": "ulasim",
+    "kelime": "makinist kabini",
+    "aciklama": "tren veya metroyu kullanan sürücünün oturduğu ve kumanda kollarının bulunduğu ön bölme.",
+    "yasakli_kelimeler": [
+      "sürücü",
+      "ön",
+      "kontrol",
+      "panel",
+      "direksiyon"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 32,
+    "kategori": "ulasim",
+    "kelime": "metro merdiveni",
+    "aciklama": "yer altındaki peronlara inip çıkmayı kolaylaştıran basamaklı veya mekanik tırmanma yolu.",
+    "yasakli_kelimeler": [
+      "basamak",
+      "yürüyen",
+      "iniş",
+      "çıkış",
+      "zemin"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 33,
+    "kategori": "ulasim",
+    "kelime": "metro anonsu",
+    "aciklama": "tren yaklaşırken veya kapılar kapanırken yolcuları bilgilendiren otomatik hoparlör sesi.",
+    "yasakli_kelimeler": [
+      "hoparlör",
+      "ses",
+      "bilgilendirme",
+      "kapı",
+      "dikkat"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 34,
+    "kategori": "ulasim",
+    "kelime": "istasyon tabelası",
+    "aciklama": "durağın adını, yön bilgilerini ve hat haritasını gösteren aydınlatmalı yönlendirme levhası.",
+    "yasakli_kelimeler": [
+      "levha",
+      "yazı",
+      "isim",
+      "yön",
+      "harita"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 35,
+    "kategori": "ulasim",
+    "kelime": "ray makası",
+    "aciklama": "tren tekerleklerinin farklı bir hat istikametine kaydırılmasını sağlayan hareketli çelik mekanizma.",
+    "yasakli_kelimeler": [
+      "mekanizma",
+      "hat",
+      "yön",
+      "demir yolu",
+      "hareketli"
+    ],
+    "zorluk": "zor"
+  },
+  {
+    "id": 36,
+    "kategori": "ulasim",
+    "kelime": "otobüs",
+    "aciklama": "çok sayıda yolcuyu karayolu üzerinden taşıyan motorlu büyük toplu taşıma taşıtı.",
+    "yasakli_kelimeler": [
+      "şoför",
+      "tekerlek",
+      "durak",
+      "bilet",
+      "belediye"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 37,
+    "kategori": "ulasim",
+    "kelime": "körüklü otobüs",
+    "aciklama": "ortasındaki esnek akordeon benzeri körükle birbirine bağlı iki parçalı uzun şehir otobüsü.",
+    "yasakli_kelimeler": [
+      "akordeon",
+      "uzun",
+      "orta",
+      "körük",
+      "mafsal"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 38,
+    "kategori": "ulasim",
+    "kelime": "belediye otobüsü",
+    "aciklama": "yerel yönetimler tarafından kent içi ulaşımı sağlamak amacıyla işletilen kamu taşıtı.",
+    "yasakli_kelimeler": [
+      "iett",
+      "kamu",
+      "kent",
+      "sefer",
+      "bilet"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 39,
+    "kategori": "ulasim",
+    "kelime": "halk otobüsü",
+    "aciklama": "özel şahıslar tarafından belediye denetiminde işletilen renkli kent içi yolcu otobüsü.",
+    "yasakli_kelimeler": [
+      "özel",
+      "öho",
+      "mavi",
+      "şoför",
+      "hat"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 40,
+    "kategori": "ulasim",
+    "kelime": "çiftkatlı otobüs",
+    "aciklama": "daha fazla yolcu alabilmesi için üstünde merdivenle çıkılan ikinci bir oturma katı bulunan otobüs.",
+    "yasakli_kelimeler": [
+      "üst kat",
+      "merdiven",
+      "iki katlı",
+      "ingiliz",
+      "manzara"
+    ],
+    "zorluk": "zor"
+  },
+  {
+    "id": 41,
+    "kategori": "ulasim",
+    "kelime": "otobüs durağı",
+    "aciklama": "yolcuların otobüse binmek ve inmek için yol kenarında bekledikleri işaretli duraklama alanı.",
+    "yasakli_kelimeler": [
+      "bekleme",
+      "cam",
+      "levha",
+      "tabela",
+      "yolcu"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 42,
+    "kategori": "ulasim",
+    "kelime": "durak tabelası",
+    "aciklama": "otobüsün geçtiği hat numaralarını ve durak adını belirten yol kenarındaki metal direkli levha.",
+    "yasakli_kelimeler": [
+      "direk",
+      "levha",
+      "numara",
+      "hat",
+      "isim"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 43,
+    "kategori": "ulasim",
+    "kelime": "durak kulübesi",
+    "aciklama": "bekleyen yolcuları yağmurdan ve güneşten koruyan üstü kapalı camlı korunak.",
+    "yasakli_kelimeler": [
+      "cam",
+      "yağmur",
+      "oturak",
+      "tente",
+      "bekleme"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 44,
+    "kategori": "ulasim",
+    "kelime": "otobüs şeridi",
+    "aciklama": "yoğun saatlerde sadece toplu taşıma otobüslerinin kullanımına ayrılmış sarı çizgili yol bandı.",
+    "yasakli_kelimeler": [
+      "şerit",
+      "sarı",
+      "özel",
+      "öncelik",
+      "trafik"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 45,
+    "kategori": "ulasim",
+    "kelime": "akıllı durak",
+    "aciklama": "yaklaşan otobüslerin kaç dakika sonra geleceğini dijital ekranda canlı gösteren modern bekleme yeri.",
+    "yasakli_kelimeler": [
+      "dijital",
+      "ekran",
+      "dakika",
+      "varış",
+      "led"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 46,
+    "kategori": "ulasim",
+    "kelime": "otobüs kartı",
+    "aciklama": "toplu taşımaya binerken elektronik okuyucuya yaklaştırılarak ücret ödenen plastik manyetik kart.",
+    "yasakli_kelimeler": [
+      "plastik",
+      "manyetik",
+      "bakiye",
+      "basmak",
+      "cihaz"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 47,
+    "kategori": "ulasim",
+    "kelime": "ön kapı",
+    "aciklama": "otobüse binen yolcuların kart basmak için kullandığı şoförün hemen yanındaki giriş kapısı.",
+    "yasakli_kelimeler": [
+      "giriş",
+      "binmek",
+      "şoför",
+      "kart",
+      "basmak"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 48,
+    "kategori": "ulasim",
+    "kelime": "orta kapı",
+    "aciklama": "otobüsün gövdesinde yer alan ve çoğunlukla yolcu inişlerinde veya bebek arabası girişinde açılan kapı.",
+    "yasakli_kelimeler": [
+      "iniş",
+      "inmek",
+      "bebek arabası",
+      "açılmak",
+      "vagon"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 49,
+    "kategori": "ulasim",
+    "kelime": "iniş kapısı",
+    "aciklama": "yolcuların durakta güvenle araçtan ayrılması için basamaklı olarak tasarlanmış çıkış kapısı.",
+    "yasakli_kelimeler": [
+      "çıkış",
+      "inmek",
+      "arka",
+      "durak",
+      "basamak"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 50,
+    "kategori": "ulasim",
+    "kelime": "duracak düğmesi",
+    "aciklama": "inecek yolcunun bir sonraki durakta durulması için şoföre sesli ve ışıklı uyarı gönderdiği buton.",
+    "yasakli_kelimeler": [
+      "basmak",
+      "buton",
+      "zil",
+      "durak",
+      "kırmızı"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 51,
+    "kategori": "ulasim",
+    "kelime": "tutunma borusu",
+    "aciklama": "ayaktaki yolcuların sarsıntıda düşmemek için elleriyle kavradığı tavana veya zemine sabit metal boru.",
+    "yasakli_kelimeler": [
+      "metal",
+      "demir",
+      "boru",
+      "düşmek",
+      "el"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 52,
+    "kategori": "ulasim",
+    "kelime": "otobüs koltuğu",
+    "aciklama": "araç içinde seyahat eden yolcuların oturması için kumaş veya plastikle kaplanmış oturma yeri.",
+    "yasakli_kelimeler": [
+      "oturmak",
+      "yer",
+      "kumaş",
+      "cam kenarı",
+      "koridor"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 53,
+    "kategori": "ulasim",
+    "kelime": "otobüs seferi",
+    "aciklama": "belirli bir hat üzerinde saat tarifesine bağlı olarak yapılan gidiş dönüş ulaşım turu.",
+    "yasakli_kelimeler": [
+      "tur",
+      "hareket",
+      "tarife",
+      "gidiş",
+      "dönüş"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 54,
+    "kategori": "ulasim",
+    "kelime": "gece otobüsü",
+    "aciklama": "normal seferlerin bitiminden sabaha kadar nöbetçi olarak çalışan sabaha karşı toplu taşıma aracı.",
+    "yasakli_kelimeler": [
+      "sabaha karşı",
+      "nöbetçi",
+      "karanlık",
+      "tarife",
+      "uyku"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 55,
+    "kategori": "ulasim",
+    "kelime": "ekspres hat",
+    "aciklama": "güzergahındaki birçok ara durağa uğramadan sadece merkezi noktalarda duran süratli otobüs hattı.",
+    "yasakli_kelimeler": [
+      "direkt",
+      "hızlı",
+      "duraksız",
+      "ana durak",
+      "transit"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 56,
+    "kategori": "ulasim",
+    "kelime": "ring seferi",
+    "aciklama": "başlangıç noktasından çıkıp dairesel bir tur atarak tekrar aynı noktaya dönen servis hattı.",
+    "yasakli_kelimeler": [
+      "dairesel",
+      "tur",
+      "daire",
+      "servis",
+      "dönmek"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 57,
+    "kategori": "ulasim",
+    "kelime": "otobüs garajı",
+    "aciklama": "seferi biten araçların gece park ettiği, bakım ve yakıt ikmallerinin yapıldığı geniş tesis.",
+    "yasakli_kelimeler": [
+      "park",
+      "bakım",
+      "tamir",
+      "filo",
+      "yakıt"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 58,
+    "kategori": "ulasim",
+    "kelime": "otobüs filosu",
+    "aciklama": "bir belediye veya ulaşım şirketinin mülkiyetinde bulunan tüm yolcu araçlarının toplamı.",
+    "yasakli_kelimeler": [
+      "şirket",
+      "araç",
+      "sayı",
+      "park",
+      "belediye"
+    ],
+    "zorluk": "zor"
+  },
+  {
+    "id": 59,
+    "kategori": "ulasim",
+    "kelime": "otobüs terminali",
+    "aciklama": "yüzlerce şehir içi veya şehirlerarası otobüsün yolcu indirip bindirdiği devasa ulaşım kompleksi.",
+    "yasakli_kelimeler": [
+      "otogar",
+      "peron",
+      "seyahat",
+      "tesis",
+      "yolcu"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 60,
+    "kategori": "ulasim",
+    "kelime": "hat numarası",
+    "aciklama": "otobüsün gideceği güzergahı ve rotayı belirten ön camındaki rakam ve harf kombinasyonu.",
+    "yasakli_kelimeler": [
+      "rakam",
+      "tabela",
+      "gösterge",
+      "kod",
+      "güzergah"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 61,
+    "kategori": "ulasim",
+    "kelime": "sefer saati",
+    "aciklama": "bir toplu taşıma aracının durağa veya kalkış noktasına varması gereken planlanmış zaman dilimi.",
+    "yasakli_kelimeler": [
+      "zaman",
+      "saat",
+      "tarife",
+      "dakika",
+      "kalkış"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 62,
+    "kategori": "ulasim",
+    "kelime": "hareket amirliği",
+    "aciklama": "otobüslerin kalkış saatlerini ve şoförlerin vardiyalarını düzenleyip denetleyen merkez idare odası.",
+    "yasakli_kelimeler": [
+      "amir",
+      "kalkış",
+      "vardiya",
+      "denetim",
+      "merkez"
+    ],
+    "zorluk": "zor"
+  },
+  {
+    "id": 63,
+    "kategori": "ulasim",
+    "kelime": "yolcu yoğunluğu",
+    "aciklama": "işe gidiş ve çıkış saatlerinde toplu taşıma araçlarında oluşan insan kalabalığı.",
+    "yasakli_kelimeler": [
+      "kalabalık",
+      "izdiham",
+      "saat",
+      "insan",
+      "yoğun"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 64,
+    "kategori": "ulasim",
+    "kelime": "tıklım tıklım",
+    "aciklama": "bir otobüs veya trenin içinde adım atacak yer kalmayacak kadar dolu olması durumu.",
+    "yasakli_kelimeler": [
+      "dolu",
+      "kalabalık",
+      "adım",
+      "sıkışık",
+      "insan"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 65,
+    "kategori": "ulasim",
+    "kelime": "ayakta yolcu",
+    "aciklama": "oturacak boş koltuk bulamadığı için seyahatini tutunma askılarına tutunarak tamamlayan kişi.",
+    "yasakli_kelimeler": [
+      "dikilmek",
+      "koltuk",
+      "boş",
+      "tutunmak",
+      "yer"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 66,
+    "kategori": "ulasim",
+    "kelime": "yolculuk kartı",
+    "aciklama": "toplu taşımadan indirimli veya standart tarifeyle yararlanmayı sağlayan kişiselleştirilmiş paso.",
+    "yasakli_kelimeler": [
+      "paso",
+      "kimlik",
+      "basmak",
+      "öğrenci",
+      "bilet"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 67,
+    "kategori": "ulasim",
+    "kelime": "ücretsiz aktarma",
+    "aciklama": "belirli bir süre içinde bir araçtan inip diğerine binerken ek ücret kesilmemesi durumu.",
+    "yasakli_kelimeler": [
+      "bedava",
+      "indirim",
+      "dakika",
+      "basmak",
+      "bilet"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 68,
+    "kategori": "ulasim",
+    "kelime": "şoför kabini",
+    "aciklama": "otobüs veya metrobüste sürücüyü yolculardan ayıran direksiyon ve kontrol panelli özel alan.",
+    "yasakli_kelimeler": [
+      "cam",
+      "koruma",
+      "bölme",
+      "direksiyon",
+      "sürücü"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 69,
+    "kategori": "ulasim",
+    "kelime": "akıllı bilet",
+    "aciklama": "içine bakiye yüklenebilen ve temassız okutulabilen çipli elektronik kart.",
+    "yasakli_kelimeler": [
+      "çip",
+      "temassız",
+      "manyetik",
+      "bakiye",
+      "kart"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 70,
+    "kategori": "ulasim",
+    "kelime": "kart okutma",
+    "aciklama": "turnikeden geçerken veya otobüse binerken ulaşım kartını validatöre yaklaştırma eylemi.",
+    "yasakli_kelimeler": [
+      "ses",
+      "dıt",
+      "validatör",
+      "geçiş",
+      "basmak"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 71,
+    "kategori": "ulasim",
+    "kelime": "taksi",
+    "aciklama": "şoförüyle birlikte kiralanan ve gidilen mesafeye göre ücret alan sarı binek ticari otomobil.",
+    "yasakli_kelimeler": [
+      "sarı",
+      "taksimetre",
+      "müşteri",
+      "plaka",
+      "şoför"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 72,
+    "kategori": "ulasim",
+    "kelime": "sarı taksi",
+    "aciklama": "trafikte kolayca fark edilmek için sarı renge boyanmış geleneksel şehir içi kiralık araç.",
+    "yasakli_kelimeler": [
+      "renk",
+      "otomobil",
+      "cadde",
+      "el kaldırmak",
+      "taksimetre"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 73,
+    "kategori": "ulasim",
+    "kelime": "taksi durağı",
+    "aciklama": "taksilerin yol kenarında sırayla beklediği ve telefonla araç çağrılan küçük işletme kulübesi.",
+    "yasakli_kelimeler": [
+      "telefon",
+      "durak",
+      "kulübe",
+      "sıra",
+      "araç"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 74,
+    "kategori": "ulasim",
+    "kelime": "taksimetre",
+    "aciklama": "takside katedilen yol ve geçen zamana göre ödenecek tutarı hesaplayan dijital sayaç.",
+    "yasakli_kelimeler": [
+      "sayaç",
+      "ücret",
+      "para",
+      "tarife",
+      "açılış"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 75,
+    "kategori": "ulasim",
+    "kelime": "korsan taksi",
+    "aciklama": "yasal ruhsatı ve taksi plakası olmadan kaçak yollarla yolcu taşıyan yetkisiz araç.",
+    "yasakli_kelimeler": [
+      "kaçak",
+      "yasa dışı",
+      "plaka",
+      "ruhsat",
+      "ceza"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 76,
+    "kategori": "ulasim",
+    "kelime": "taksi çağırma",
+    "aciklama": "akıllı telefon uygulaması veya telefonla durağa haber vererek adrese araç isteme eylemi.",
+    "yasakli_kelimeler": [
+      "uygulama",
+      "telefon",
+      "adres",
+      "beklemek",
+      "kapı"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 77,
+    "kategori": "ulasim",
+    "kelime": "dolmuş",
+    "aciklama": "belirli bir güzergah üzerinde yolcu sayısı tamamlanınca kalkış yapan geleneksel minibüs veya binek araç.",
+    "yasakli_kelimeler": [
+      "sarı",
+      "kadıköy",
+      "minibüs",
+      "para",
+      "dolmak"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 78,
+    "kategori": "ulasim",
+    "kelime": "minibüs",
+    "aciklama": "otobüsten küçük binek arabadan büyük olan ve kısa mesafelerde yolcu taşıyan ticari taşıt.",
+    "yasakli_kelimeler": [
+      "şoför",
+      "para",
+      "bozukluk",
+      "durak",
+      "hat"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 79,
+    "kategori": "ulasim",
+    "kelime": "sarı dolmuş",
+    "aciklama": "istanbul gibi kentlerde taksi dolmuş olarak bilinen ve hızla yolcu doldurup kalkan araç.",
+    "yasakli_kelimeler": [
+      "binek",
+      "taksi dolmuş",
+      "sarı",
+      "beşiktaş",
+      "kadıköy"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 80,
+    "kategori": "ulasim",
+    "kelime": "mavi dolmuş",
+    "aciklama": "genellikle mahalleler ile ana caddeler arasında çalışan klasik mavi boyalı ticari minibüs.",
+    "yasakli_kelimeler": [
+      "renk",
+      "mahalle",
+      "şapka",
+      "nakit",
+      "elden"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 81,
+    "kategori": "ulasim",
+    "kelime": "dolmuş hattı",
+    "aciklama": "dolmuş ve minibüslerin gün boyunca belirlenmiş iki semt arasında gidip geldiği rota.",
+    "yasakli_kelimeler": [
+      "güzergah",
+      "başlangıç",
+      "varış",
+      "rota",
+      "tabela"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 82,
+    "kategori": "ulasim",
+    "kelime": "dolmuş parası",
+    "aciklama": "minibüse binildiğinde mesafeye göre şoföre elden ele uzatılan bozuk nakit ücret.",
+    "yasakli_kelimeler": [
+      "bozukluk",
+      "madeni",
+      "nakit",
+      "uzatmak",
+      "üstü"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 83,
+    "kategori": "ulasim",
+    "kelime": "para uzatma",
+    "aciklama": "dolmuşta arkada oturan yolcuların ücreti öne doğru elden ele şoföre iletmesi ritüeli.",
+    "yasakli_kelimeler": [
+      "elden ele",
+      "arka koltuk",
+      "şoför",
+      "bozuk",
+      "iletmek"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 84,
+    "kategori": "ulasim",
+    "kelime": "müsait yer",
+    "aciklama": "dolmuştan veya taksiden inmek isteyen yolcunun şoföre seslenirken kullandığı klasik kalıp söz.",
+    "yasakli_kelimeler": [
+      "inmek",
+      "seslenmek",
+      "kaptan",
+      "durmak",
+      "sağda"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 85,
+    "kategori": "ulasim",
+    "kelime": "kapı açma",
+    "aciklama": "minibüs veya taksi durduğunda yolcuların araca binmesi veya inmesi için kapının açılması işlemi.",
+    "yasakli_kelimeler": [
+      "kol",
+      "otomatik",
+      "açmak",
+      "binmek",
+      "inmek"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 86,
+    "kategori": "ulasim",
+    "kelime": "orta koltuk",
+    "aciklama": "minibüs veya otomobilde iki kişinin tam arasında kalan genellikle dar oturma alanı.",
+    "yasakli_kelimeler": [
+      "ara",
+      "sıkışmak",
+      "dar",
+      "oturmak",
+      "yan"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 87,
+    "kategori": "ulasim",
+    "kelime": "ayakta yolculuk",
+    "aciklama": "minibüste koltuklar dolduğunda şoförün uyarılara rağmen yolcuyu ayakta taşıması durumu.",
+    "yasakli_kelimeler": [
+      "dikilmek",
+      "eğilmek",
+      "tavan",
+      "sıkışmak",
+      "yasak"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 88,
+    "kategori": "ulasim",
+    "kelime": "minibüs şoförü",
+    "aciklama": "gün boyu şehir trafiğinde minibüs kullanarak elden para toplayıp yolcu taşıyan meslek erbabı.",
+    "yasakli_kelimeler": [
+      "para üstü",
+      "direksiyon",
+      "kaptan",
+      "korna",
+      "vites"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 89,
+    "kategori": "ulasim",
+    "kelime": "hat dolmuşu",
+    "aciklama": "belediyenin belirlediği özel güzergah izniyle iki semt arasında ring atan ticari taşıt.",
+    "yasakli_kelimeler": [
+      "semt",
+      "ring",
+      "izin",
+      "belediye",
+      "plaka"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 90,
+    "kategori": "ulasim",
+    "kelime": "servis aracı",
+    "aciklama": "öğrencileri okula ya da çalışanları iş yerlerine topluca taşıyan sarı kuşaklı minibüs veya otobüs.",
+    "yasakli_kelimeler": [
+      "okul",
+      "şirket",
+      "öğrenci",
+      "sabah",
+      "akşam"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 91,
+    "kategori": "ulasim",
+    "kelime": "okul servisi",
+    "aciklama": "sabah çocukları evlerinden alıp ders bitiminde geri getiren rehberli öğrenci aracı.",
+    "yasakli_kelimeler": [
+      "öğrenci",
+      "hostes",
+      "okul",
+      "çocuk",
+      "zil"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 92,
+    "kategori": "ulasim",
+    "kelime": "personel servisi",
+    "aciklama": "fabrika ve ofis çalışanlarını mesai başlangıç ve bitiş saatlerinde taşıyan kurumsal araç.",
+    "yasakli_kelimeler": [
+      "fabrika",
+      "mesai",
+      "çalışan",
+      "iş yeri",
+      "vardiya"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 93,
+    "kategori": "ulasim",
+    "kelime": "servis güzergahı",
+    "aciklama": "servis aracının yolcuları toplamak ve bırakmak için sabah ve akşam izlediği sokak rotası.",
+    "yasakli_kelimeler": [
+      "rota",
+      "sokak",
+      "duraklama",
+      "toplamak",
+      "güzergah"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 94,
+    "kategori": "ulasim",
+    "kelime": "taksi fişi",
+    "aciklama": "seyahat bitiminde ödenen tutarı belgelemek için taksiciden alınan resmi masraf kağıdı.",
+    "yasakli_kelimeler": [
+      "makbuz",
+      "fatura",
+      "masraf",
+      "belge",
+      "muhasebe"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 95,
+    "kategori": "ulasim",
+    "kelime": "taksi plakası",
+    "aciklama": "bir otomobilin ticari taksi olarak çalışabilmesi için sahip olması gereken yüksek değerli tescil levhası.",
+    "yasakli_kelimeler": [
+      "tescil",
+      "sarı plaka",
+      "ruhsat",
+      "değer",
+      "ticari"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 96,
+    "kategori": "ulasim",
+    "kelime": "gece tarifesi",
+    "aciklama": "gece yarısından sonra taksi ve bazı ulaşım araçlarında uygulanan zamlı ücretlendirme katsayısı.",
+    "yasakli_kelimeler": [
+      "zam",
+      "gece yarısı",
+      "tarife",
+      "iki katı",
+      "ücret"
+    ],
+    "zorluk": "zor"
+  },
+  {
+    "id": 97,
+    "kategori": "ulasim",
+    "kelime": "kısa mesafe",
+    "aciklama": "taksicilerin bazen yolcu almak istemediği birkaç sokak veya mahallelik yakın güzergah.",
+    "yasakli_kelimeler": [
+      "yakın",
+      "sokak",
+      "almak istememek",
+      "taksici",
+      "güzergah"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 98,
+    "kategori": "ulasim",
+    "kelime": "yolcu alma",
+    "aciklama": "bir toplu taşıma aracının veya taksinin durakta bekleyen kişiyi aracına kabul etmesi.",
+    "yasakli_kelimeler": [
+      "durmak",
+      "kapı",
+      "binmek",
+      "müşteri",
+      "durak"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 99,
+    "kategori": "ulasim",
+    "kelime": "yolcu indirme",
+    "aciklama": "varış yerine gelen yolcunun güvenli bir noktada araçtan dışarı ayak basması eylemi.",
+    "yasakli_kelimeler": [
+      "inmek",
+      "durmak",
+      "kapı",
+      "basamak",
+      "durak"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 100,
+    "kategori": "ulasim",
+    "kelime": "taksi lambası",
+    "aciklama": "aracın boş veya dolu olduğunu bildirmek için taksinin tavanında yanan sarı ışıklı tabela.",
+    "yasakli_kelimeler": [
+      "tavan",
+      "sarı",
+      "boş",
+      "dolu",
+      "ışık"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 101,
+    "kategori": "ulasim",
+    "kelime": "şehir hatları",
+    "aciklama": "istanbul boğazı ve marmara denizinde kamu adına düzenli vapur seferleri işleten tarihi deniz kurumu.",
+    "yasakli_kelimeler": [
+      "vapur",
+      "boğaz",
+      "iskele",
+      "deniz",
+      "sefer"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 102,
+    "kategori": "ulasim",
+    "kelime": "deniz otobüsü",
+    "aciklama": "deniz üzerinde yüksek hızda giderek adalar ve komşu şehirlere yolcu taşıyan modern katamaran gemi.",
+    "yasakli_kelimeler": [
+      "katamaran",
+      "ido",
+      "hızlı",
+      "deniz",
+      "sefer"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 103,
+    "kategori": "ulasim",
+    "kelime": "arabalı vapur",
+    "aciklama": "otomobil, kamyon ve yayaları deniz üzerinden karşı kıyıya geçiren iki tarafı açık geniş feribot.",
+    "yasakli_kelimeler": [
+      "feribot",
+      "araç",
+      "araba",
+      "eskihisar",
+      "topçular"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 104,
+    "kategori": "ulasim",
+    "kelime": "feribot iskelesi",
+    "aciklama": "araçların ve yolcuların feribota rahatça yanaşıp binmesi için hazırlanmış geniş rampa alanı.",
+    "yasakli_kelimeler": [
+      "rampa",
+      "iskele",
+      "araç",
+      "kıyı",
+      "deniz"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 105,
+    "kategori": "ulasim",
+    "kelime": "yolcu vapuru",
+    "aciklama": "iki yaka arasında martılar eşliğinde nostaljik ve keyifli deniz ulaşımı sağlayan simgesel gemi.",
+    "yasakli_kelimeler": [
+      "gemi",
+      "deniz",
+      "çay",
+      "simit",
+      "martı"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 106,
+    "kategori": "ulasim",
+    "kelime": "vapur iskelesi",
+    "aciklama": "vapurların halatlarla bağlandığı ve yolcuların turnikelerden geçerek bindiği deniz kıyısı yapısı.",
+    "yasakli_kelimeler": [
+      "kıyı",
+      "halat",
+      "turnike",
+      "kadıköy",
+      "eminönü"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 107,
+    "kategori": "ulasim",
+    "kelime": "boğaz hattı",
+    "aciklama": "istanbul boğazı boyunca sıralanan semt iskelelerine uğrayarak ilerleyen keyifli deniz güzergahı.",
+    "yasakli_kelimeler": [
+      "sarıyer",
+      "üsküdar",
+      "anadolu kavağı",
+      "boğaziçi",
+      "yalı"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 108,
+    "kategori": "ulasim",
+    "kelime": "ada vapuru",
+    "aciklama": "anakaradan büyükada, heybeliada gibi prens adalarına yolcu taşıyan meşhur vapur seferi.",
+    "yasakli_kelimeler": [
+      "büyükada",
+      "heybeliada",
+      "fayton",
+      "kınalıada",
+      "martı"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 109,
+    "kategori": "ulasim",
+    "kelime": "vapur çayı",
+    "aciklama": "vapurun açık veya kapalı salonunda ince belli cam bardakta yudumlanan demli sıcak içecek.",
+    "yasakli_kelimeler": [
+      "bardak",
+      "ince belli",
+      "yudum",
+      "sıcak",
+      "çaycı"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 110,
+    "kategori": "ulasim",
+    "kelime": "vapur simidi",
+    "aciklama": "iskeleden sıcak alınıp vapurda hem afiyetle yenen hem de kuşlara fırlatılan susamlı hamur işi.",
+    "yasakli_kelimeler": [
+      "susam",
+      "martı",
+      "gevreklik",
+      "fırın",
+      "kahvaltı"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 111,
+    "kategori": "ulasim",
+    "kelime": "martılara simit",
+    "aciklama": "vapur yolcularının güverteden gökyüzüne doğru fırlatarak kuşları havada besleme geleneği.",
+    "yasakli_kelimeler": [
+      "kuş",
+      "fırlatmak",
+      "hava",
+      "yakalamak",
+      "beslemek"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 112,
+    "kategori": "ulasim",
+    "kelime": "vapur düdüğü",
+    "aciklama": "vapur kalkarken veya sisli havalarda kıyıdakileri ve diğer tekneleri uyaran gür sesli korna.",
+    "yasakli_kelimeler": [
+      "korna",
+      "ses",
+      "kalkış",
+      "sis",
+      "boru"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 113,
+    "kategori": "ulasim",
+    "kelime": "vapur güvertesi",
+    "aciklama": "yolcuların deniz havası alarak boğaz manzarasını seyrettiği vapurun açık üst alanı.",
+    "yasakli_kelimeler": [
+      "açık",
+      "teras",
+      "rüzgar",
+      "manzara",
+      "oturak"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 114,
+    "kategori": "ulasim",
+    "kelime": "vapur bacası",
+    "aciklama": "geminin motorundan çıkan dumanı dışarı atan ve üzerinde kurum arması bulunan silindirik kule.",
+    "yasakli_kelimeler": [
+      "duman",
+      "beyaz",
+      "armada",
+      "gemi",
+      "çatı"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 115,
+    "kategori": "ulasim",
+    "kelime": "gemi halatı",
+    "aciklama": "yanaşan vapur veya tekneleri iskeledeki babalara sıkıca bağlayarak sabitleyen kalın örgü ip.",
+    "yasakli_kelimeler": [
+      "bağlamak",
+      "baba",
+      "kalın",
+      "ip",
+      "kıyı"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 116,
+    "kategori": "ulasim",
+    "kelime": "yanaşma manevrası",
+    "aciklama": "geminin veya vapurun kıyıya hasar vermeden iskeleye usulca paralel konuma gelme hareketi.",
+    "yasakli_kelimeler": [
+      "kaptan",
+      "tornistan",
+      "iskele",
+      "manevra",
+      "dümen"
+    ],
+    "zorluk": "zor"
+  },
+  {
+    "id": 117,
+    "kategori": "ulasim",
+    "kelime": "kurtarma simidi",
+    "aciklama": "denize düşen bir yolcunun batmadan su yüzeyinde kalmasını sağlamak için gemiden fırlatılan can simidi.",
+    "yasakli_kelimeler": [
+      "batmak",
+      "can simidi",
+      "turuncu",
+      "denize düşmek",
+      "yelek"
+    ],
+    "zorluk": "zor"
+  },
+  {
+    "id": 118,
+    "kategori": "ulasim",
+    "kelime": "güverte yeleği",
+    "aciklama": "acil deniz tahliyesinde yolcuların boğulmasını önlemek için başından geçirilip bağlanan şişme koruyucu yelek.",
+    "yasakli_kelimeler": [
+      "can yeleği",
+      "boğulmak",
+      "turuncu",
+      "düdük",
+      "acil durum"
+    ],
+    "zorluk": "zor"
+  },
+  {
+    "id": 119,
+    "kategori": "ulasim",
+    "kelime": "deniz taksi",
+    "aciklama": "karayolu trafiğine girmeden deniz üzerinden istenen iskele veya koya özel olarak yolcu taşıyan sürat teknesi.",
+    "yasakli_kelimeler": [
+      "tekne",
+      "sürat",
+      "özel",
+      "iskele",
+      "çağrı"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 120,
+    "kategori": "ulasim",
+    "kelime": "motor iskelesi",
+    "aciklama": "boğazda çalışan küçük yolcu motorlarının yolcu indirip bindirdiği butik ahşap veya beton rıhtım.",
+    "yasakli_kelimeler": [
+      "küçük",
+      "rıhtım",
+      "motor",
+      "iskele",
+      "tekne"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 121,
+    "kategori": "ulasim",
+    "kelime": "yolcu motoru",
+    "aciklama": "vapurdan daha ufak olan ve iki yaka arasında sık aralıklarla hızlı ring atan deniz aracı.",
+    "yasakli_kelimeler": [
+      "tekne",
+      "ufak",
+      "boğaz",
+      "geçiş",
+      "turyol"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 122,
+    "kategori": "ulasim",
+    "kelime": "sahil yolu",
+    "aciklama": "deniz kıyısı boyunca uzanan, hem taşıt trafiğine hem de yürüyüşe imkan tanıyan manzaralı bulvar.",
+    "yasakli_kelimeler": [
+      "kıyı",
+      "deniz",
+      "asfalt",
+      "yürüyüş",
+      "bulvar"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 123,
+    "kategori": "ulasim",
+    "kelime": "boğaz geçişi",
+    "aciklama": "anadolu ve avrupa yakaları arasında vapur, köprü veya tünel kullanarak bir kıyıdan diğerine ulaşma eylemi.",
+    "yasakli_kelimeler": [
+      "kıta",
+      "karşı",
+      "asya",
+      "avrupa",
+      "köprü"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 124,
+    "kategori": "ulasim",
+    "kelime": "deniz seferi",
+    "aciklama": "limanlar veya iskeleler arasında tarifeye bağlı olarak icra edilen planlı tekne veya gemi yolculuğu.",
+    "yasakli_kelimeler": [
+      "kalkış",
+      "rota",
+      "gemi",
+      "dalga",
+      "varış"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 125,
+    "kategori": "ulasim",
+    "kelime": "fırtına iptali",
+    "aciklama": "lodos veya şiddetli poyraz nedeniyle deniz seferlerinin can güvenliği gerekçesiyle durdurulması kararı.",
+    "yasakli_kelimeler": [
+      "lodos",
+      "hava durumu",
+      "dalga",
+      "sefer",
+      "durdurmak"
+    ],
+    "zorluk": "zor"
+  },
+  {
+    "id": 126,
+    "kategori": "ulasim",
+    "kelime": "trafik ışığı",
+    "aciklama": "kavşaklarda araç ve yaya geçişlerini düzenleyen üç farklı renkli elektronik sinyalizasyon lambası.",
+    "yasakli_kelimeler": [
+      "kırmızı",
+      "sarı",
+      "yeşil",
+      "sinyal",
+      "kavşak"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 127,
+    "kategori": "ulasim",
+    "kelime": "kırmızı ışık",
+    "aciklama": "kavşağa yaklaşan araçların kesinlikle durması gerektiğini bildiren uyarıcı trafik lambası.",
+    "yasakli_kelimeler": [
+      "durmak",
+      "yanmak",
+      "ceza",
+      "dur",
+      "kavşak"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 128,
+    "kategori": "ulasim",
+    "kelime": "sarı ışık",
+    "aciklama": "kırmızıdan yeşile ya da yeşilden kırmızıya geçerken sürücülere hazırlıklı olma uyarısı veren sinyal.",
+    "yasakli_kelimeler": [
+      "hazırlanmak",
+      "geçiş",
+      "yanmak",
+      "ara",
+      "dikkat"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 129,
+    "kategori": "ulasim",
+    "kelime": "yeşil ışık",
+    "aciklama": "yolun trafiğe açık olduğunu ve araçların güvenle hareket edebileceğini belirten lamba.",
+    "yasakli_kelimeler": [
+      "geçmek",
+      "serbest",
+      "hareket",
+      "yol",
+      "yanmak"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 130,
+    "kategori": "ulasim",
+    "kelime": "yaya geçidi",
+    "aciklama": "caddeden karşıya geçen yayaların öncelikli olduğunu belirten beyaz çizgili yol şeridi.",
+    "yasakli_kelimeler": [
+      "zebra",
+      "çizgi",
+      "karşıdan karşıya",
+      "yaya",
+      "öncelik"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 131,
+    "kategori": "ulasim",
+    "kelime": "alt geçit",
+    "aciklama": "yayaların veya taşıtların yoğun bir caddeyi yer altından güvenle aşmasını sağlayan tünel tipi geçit.",
+    "yasakli_kelimeler": [
+      "merdiven",
+      "zemin",
+      "cadde altı",
+      "tünel",
+      "yeraltı"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 132,
+    "kategori": "ulasim",
+    "kelime": "üst geçit",
+    "aciklama": "yayaların geniş ve hızlı otoyolları caddenin üstüne inşa edilmiş köprüden geçerek aşmasını sağlayan yapı.",
+    "yasakli_kelimeler": [
+      "merdiven",
+      "köprü",
+      "cadde üstü",
+      "havadan",
+      "basamak"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 133,
+    "kategori": "ulasim",
+    "kelime": "kavşak noktası",
+    "aciklama": "iki veya daha fazla karayolu istikametinin birbiriyle kesiştiği veya birleştiği trafik alanı.",
+    "yasakli_kelimeler": [
+      "kesişim",
+      "yol",
+      "dönüş",
+      "ışıklar",
+      "viraj"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 134,
+    "kategori": "ulasim",
+    "kelime": "dönel kavşak",
+    "aciklama": "ortasında dairesel bir ada bulunan ve etrafında dönülerek farklı yollara ayrılınan kavşak tipi.",
+    "yasakli_kelimeler": [
+      "ada",
+      "dönmek",
+      "göbek",
+      "dairesel",
+      "öncelik"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 135,
+    "kategori": "ulasim",
+    "kelime": "otoyol gişesi",
+    "aciklama": "ücretli karayollarına veya köprülere giriş çıkışta araç plakalarının ve geçiş sistemlerinin okunduğu yapı.",
+    "yasakli_kelimeler": [
+      "hgs",
+      "ogs",
+      "bariyer",
+      "ödeme",
+      "geçiş"
+    ],
+    "zorluk": "zor"
+  },
+  {
+    "id": 136,
+    "kategori": "ulasim",
+    "kelime": "otoban",
+    "aciklama": "yüksek hızda kesintisiz yolculuk yapılması için tasarlanmış çok şeritli transit karayolu.",
+    "yasakli_kelimeler": [
+      "otoyol",
+      "şerit",
+      "hız",
+      "sürat",
+      "bariyer"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 137,
+    "kategori": "ulasim",
+    "kelime": "çevre yolu",
+    "aciklama": "kent içi trafik karmaşasına girmeden şehrin etrafından transit geçiş sağlayan çevreleme otoyolu.",
+    "yasakli_kelimeler": [
+      "transit",
+      "şehir etrafı",
+      "çevre",
+      "otoyol",
+      "bağlantı"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 138,
+    "kategori": "ulasim",
+    "kelime": "emniyet şeridi",
+    "aciklama": "otoyollarda yalnızca ambulans, polis ve acil durum araçlarının kullanabileceği en sağdaki boş bant.",
+    "yasakli_kelimeler": [
+      "ambulans",
+      "acil",
+      "sağ şerit",
+      "ceza",
+      "arıza"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 139,
+    "kategori": "ulasim",
+    "kelime": "hız sınırı",
+    "aciklama": "trafikte can güvenliğini korumak amacıyla araçların aşmaması emredilen yasal azami sürat limiti.",
+    "yasakli_kelimeler": [
+      "limit",
+      "kilometre",
+      "radar",
+      "azami",
+      "sürat"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 140,
+    "kategori": "ulasim",
+    "kelime": "hız radarı",
+    "aciklama": "yoldan geçen taşıtların süratini mikrodalga veya lazerle ölçüp aşanlara ceza kesen elektronik cihaz.",
+    "yasakli_kelimeler": [
+      "ceza",
+      "kamera",
+      "polis",
+      "sürat",
+      "ölçüm"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 141,
+    "kategori": "ulasim",
+    "kelime": "trafik sıkışıklığı",
+    "aciklama": "araçların adım adım ilerlediği ve yolların kilitlendiği bunaltıcı araç yoğunluğu durumu.",
+    "yasakli_kelimeler": [
+      "kilit",
+      "kalabalık",
+      "dur kalk",
+      "yoğunluk",
+      "korna"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 142,
+    "kategori": "ulasim",
+    "kelime": "yoğun trafik",
+    "aciklama": "araç sayısının yol kapasitesini aştığı ve süratin belirgin biçimde düştüğü yoğun araç akışı.",
+    "yasakli_kelimeler": [
+      "kalabalık",
+      "akış",
+      "yavaş",
+      "akşam saati",
+      "otomobil"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 143,
+    "kategori": "ulasim",
+    "kelime": "yol çalışması",
+    "aciklama": "asfalt yenileme veya altyapı onarımı nedeniyle şeritlerin kukalarla daraltıldığı şantiye faaliyeti.",
+    "yasakli_kelimeler": [
+      "asfalt",
+      "onarım",
+      "kuka",
+      "şantiye",
+      "daralma"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 144,
+    "kategori": "ulasim",
+    "kelime": "trafik levhası",
+    "aciklama": "sürücülere ve yayalara yol kurallarını simgelerle hatırlatan metal direkli uyarı tabelası.",
+    "yasakli_kelimeler": [
+      "tabela",
+      "işaret",
+      "kural",
+      "direk",
+      "üçgen"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 145,
+    "kategori": "ulasim",
+    "kelime": "yol çizgisi",
+    "aciklama": "şeritleri birbirinden ayırmak veya sollama yasaklarını bildirmek için asfalta çizilen beyaz boyalı hat.",
+    "yasakli_kelimeler": [
+      "beyaz",
+      "kesik",
+      "düz",
+      "şerit",
+      "asfalt"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 146,
+    "kategori": "ulasim",
+    "kelime": "kasis",
+    "aciklama": "sürücülerin hızlarını düşürmesini sağlamak amacıyla asfalt üzerine yapılan bombeli yapay yükselti.",
+    "yasakli_kelimeler": [
+      "yavaşlamak",
+      "tümsek",
+      "yükselti",
+      "sarsıntı",
+      "okul önü"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 147,
+    "kategori": "ulasim",
+    "kelime": "park dubası",
+    "aciklama": "kaldırım kenarlarına veya dükkan önlerine araç park edilmesini engellemek için çakılan plastik ya da metal duba.",
+    "yasakli_kelimeler": [
+      "duba",
+      "plastik",
+      "kaldırım",
+      "engel",
+      "otopark"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 148,
+    "kategori": "ulasim",
+    "kelime": "trafik konisi",
+    "aciklama": "yol bakımında veya tehlikeli alanlarda geçici yönlendirme yapmak için konulan turuncu konik plastik kuka.",
+    "yasakli_kelimeler": [
+      "kuka",
+      "turuncu",
+      "plastik",
+      "üçgen",
+      "yönlendirme"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 149,
+    "kategori": "ulasim",
+    "kelime": "yön tabelası",
+    "aciklama": "gidilecek şehirlerin, semtlerin ve kavşak kollarının adını gösteren büyük yeşil veya mavi levha.",
+    "yasakli_kelimeler": [
+      "mavi",
+      "yeşil",
+      "tabela",
+      "semt",
+      "yön"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 150,
+    "kategori": "ulasim",
+    "kelime": "tek yön",
+    "aciklama": "araçların yalnızca belirlenmiş tek bir istikamette ilerlemesine izin verilen dar sokak veya yol kuralı.",
+    "yasakli_kelimeler": [
+      "sokak",
+      "giriş yok",
+      "ters yön",
+      "ok",
+      "işaret"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 151,
+    "kategori": "ulasim",
+    "kelime": "çıkmaz sokak",
+    "aciklama": "bir ucundan girildiğinde diğer ucundan başka bir caddeye çıkışı olmayan kapalı yol.",
+    "yasakli_kelimeler": [
+      "son",
+      "kapalı",
+      "sokak",
+      "duvar",
+      "dönüş"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 152,
+    "kategori": "ulasim",
+    "kelime": "park yasağı",
+    "aciklama": "araçların trafiği aksatmaması için yol kenarına duraklama ve park etmesini meneden resmi kural.",
+    "yasakli_kelimeler": [
+      "park etmek",
+      "tabela",
+      "çekici",
+      "ceza",
+      "durmak"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 153,
+    "kategori": "ulasim",
+    "kelime": "çekici aracı",
+    "aciklama": "kaza yapan, arızalanan veya yasak yere park eden otomobilleri sırtına alarak otoparka götüren vinçli kamyon.",
+    "yasakli_kelimeler": [
+      "vinç",
+      "kamyon",
+      "otopark",
+      "arıza",
+      "çekmek"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 154,
+    "kategori": "ulasim",
+    "kelime": "otopark bariyeri",
+    "aciklama": "otopark girişinde bilet alındığında veya plaka okunduğunda havaya kalkarak geçit veren otomatik kol.",
+    "yasakli_kelimeler": [
+      "kol",
+      "kalkmak",
+      "bilet",
+      "otomatik",
+      "otopark"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 155,
+    "kategori": "ulasim",
+    "kelime": "ücretli otopark",
+    "aciklama": "aracın bırakıldığı süreye göre saatlik ya da günlük para ödenen işletmeli park alanı.",
+    "yasakli_kelimeler": [
+      "tarife",
+      "para",
+      "saatlik",
+      "fiş",
+      "park yeri"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 156,
+    "kategori": "ulasim",
+    "kelime": "kapalı otopark",
+    "aciklama": "binaların bodrumunda veya çok katlı betonarme binalarda bulunan yağmurdan korunaklı park sahası.",
+    "yasakli_kelimeler": [
+      "bodrum",
+      "avm",
+      "alt kat",
+      "zemin",
+      "beton"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 157,
+    "kategori": "ulasim",
+    "kelime": "katlı otopark",
+    "aciklama": "dar arsalarda yüzlerce araca yer açmak amacıyla spiral rampalarla kat kat yükselen park binası.",
+    "yasakli_kelimeler": [
+      "spiral",
+      "kat",
+      "rampa",
+      "bina",
+      "otopark"
+    ],
+    "zorluk": "zor"
+  },
+  {
+    "id": 158,
+    "kategori": "ulasim",
+    "kelime": "kör açı",
+    "aciklama": "sürücünün aynalardan veya camdan doğrudan göremediği ve kazalara davetiye çıkaran tehlikeli görüş dışı bölge.",
+    "yasakli_kelimeler": [
+      "ayna",
+      "görünmeyen",
+      "nokta",
+      "tehlike",
+      "sürücü"
+    ],
+    "zorluk": "zor"
+  },
+  {
+    "id": 159,
+    "kategori": "ulasim",
+    "kelime": "dikiz aynası",
+    "aciklama": "sürücünün arkasından gelen araçları ve trafiği kafasını çevirmeden görmesini sağlayan iç ayna.",
+    "yasakli_kelimeler": [
+      "arkaya bakmak",
+      "cam",
+      "ayna",
+      "tavan",
+      "geri"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 160,
+    "kategori": "ulasim",
+    "kelime": "araç sinyali",
+    "aciklama": "sağa veya sola dönerken diğer araçları uyarmak amacıyla yakılan sarı yanıp sönen flaşör lambası.",
+    "yasakli_kelimeler": [
+      "lamba",
+      "dönüş",
+      "flaşör",
+      "kol",
+      "sağ sol"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 161,
+    "kategori": "ulasim",
+    "kelime": "istanbulkart",
+    "aciklama": "istanbul'daki tüm vapur, metro, metrobüs ve otobüslerde geçerli olan temassız şehir ulaşım kartı.",
+    "yasakli_kelimeler": [
+      "bakiye",
+      "manyetik",
+      "iett",
+      "temassız",
+      "akbil"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 162,
+    "kategori": "ulasim",
+    "kelime": "akbil",
+    "aciklama": "doksanlı yıllarda istanbul'da turnikelere basılarak kullanılan metal butonlu efsanevi bilet cihazı.",
+    "yasakli_kelimeler": [
+      "metal",
+      "basmak",
+      "nostalji",
+      "düğme",
+      "anahtarlık"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 163,
+    "kategori": "ulasim",
+    "kelime": "kart dolumu",
+    "aciklama": "yetersiz bakiye uyarısı almamak için karta nakit veya kredi kartıyla para yükleme işlemi.",
+    "yasakli_kelimeler": [
+      "para",
+      "yüklemek",
+      "bakiye",
+      "matik",
+      "yetersiz"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 164,
+    "kategori": "ulasim",
+    "kelime": "biletmatik",
+    "aciklama": "metro ve durak girişlerinde nakit veya banka kartıyla bilet alıp para yüklemeye yarayan sarı kiosk otomatı.",
+    "yasakli_kelimeler": [
+      "kiosk",
+      "para yükleme",
+      "otomat",
+      "sarı",
+      "ekran"
+    ],
+    "zorluk": "zor"
+  },
+  {
+    "id": 165,
+    "kategori": "ulasim",
+    "kelime": "kart turnikesi",
+    "aciklama": "kart basıldığında metal kolları dönerek yolcunun perona geçişine müsaade eden döner bariyer.",
+    "yasakli_kelimeler": [
+      "dönmek",
+      "kol",
+      "geçiş",
+      "bariyer",
+      "basmak"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 166,
+    "kategori": "ulasim",
+    "kelime": "aktarma indirimi",
+    "aciklama": "ilk binişten sonraki kısa süre içinde diğer araçlara binerken bakiyeden daha az para düşmesi avantajı.",
+    "yasakli_kelimeler": [
+      "indirim",
+      "ikinci biniş",
+      "ücret",
+      "avantaj",
+      "bakiye"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 167,
+    "kategori": "ulasim",
+    "kelime": "öğrenci kartı",
+    "aciklama": "okullarda okuyan gençlere toplu taşımada indirimli veya aylık abonman hakkı tanıyan özel seyahat kartı.",
+    "yasakli_kelimeler": [
+      "abonman",
+      "meb",
+      "indirim",
+      "okul",
+      "üniversite"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 168,
+    "kategori": "ulasim",
+    "kelime": "tam bilet",
+    "aciklama": "herhangi bir indirim veya yaş avantajı olmayan standart yolcuların ödediği tam tarife bedeli.",
+    "yasakli_kelimeler": [
+      "standart",
+      "yetişkin",
+      "tarife",
+      "tam",
+      "ücret"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 169,
+    "kategori": "ulasim",
+    "kelime": "indirimli kart",
+    "aciklama": "öğretmen, öğrenci veya belirli yaş gruplarına özel olarak verilen indirimli toplu taşıma kartı.",
+    "yasakli_kelimeler": [
+      "öğretmen",
+      "yaşlı",
+      "paso",
+      "indirim",
+      "tarife"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 170,
+    "kategori": "ulasim",
+    "kelime": "ücretsiz biniş",
+    "aciklama": "65 yaş üstü vatandaşların, gazilerin veya engellilerin toplu taşımadan para ödemeden yararlanması hakkı.",
+    "yasakli_kelimeler": [
+      "65 yaş",
+      "bedava",
+      "hak",
+      "engelli",
+      "basmak"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 171,
+    "kategori": "ulasim",
+    "kelime": "kart basma",
+    "aciklama": "turnikeye veya araçtaki validatöre seyahat kartını dokundurarak geçiş ücretini ödeme davranışı.",
+    "yasakli_kelimeler": [
+      "dıt",
+      "okutmak",
+      "temas",
+      "turnike",
+      "validatör"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 172,
+    "kategori": "ulasim",
+    "kelime": "yetersiz bakiye",
+    "aciklama": "kartta geçiş ücretini karşılayacak kadar para kalmadığında validatörden çıkan o meşhur uyarı sesi ve yazısı.",
+    "yasakli_kelimeler": [
+      "bakiye",
+      "para bitmesi",
+      "ses",
+      "dıt dıt",
+      "yüklemek"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 173,
+    "kategori": "ulasim",
+    "kelime": "bakiye yükleme",
+    "aciklama": "elektronik cüzdana veya toplu ulaşım kartına banka hesabından ya da nakitle para aktarma işlemi.",
+    "yasakli_kelimeler": [
+      "para",
+      "aktarmak",
+      "hesap",
+      "mobil",
+      "kart"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 174,
+    "kategori": "ulasim",
+    "kelime": "bilet kontrolörü",
+    "aciklama": "tren veya otobüslerde dolaşarak yolcuların bilet ve kartlarını elindeki pos cihazıyla denetleyen görevli.",
+    "yasakli_kelimeler": [
+      "denetim",
+      "görevli",
+      "pos",
+      "ceza",
+      "kaçak"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 175,
+    "kategori": "ulasim",
+    "kelime": "kaçak biniş",
+    "aciklama": "turnikeden atlayarak veya kart basmadan toplu taşıma aracına haksız şekilde binme eylemi.",
+    "yasakli_kelimeler": [
+      "atlamak",
+      "ceza",
+      "turnike",
+      "ödememek",
+      "yasak"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 176,
+    "kategori": "ulasim",
+    "kelime": "araç kemeri",
+    "aciklama": "kaza veya ani frende yolcuları koltuğa sabitleyerek yaralanmaları önleyen güvenlik şeridi.",
+    "yasakli_kelimeler": [
+      "emniyet",
+      "toka",
+      "bağlamak",
+      "can güvenliği",
+      "kilit"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 177,
+    "kategori": "ulasim",
+    "kelime": "imdat kolu",
+    "aciklama": "tren, metro veya otobüste kaza ve yangın gibi acil durumlarda çekilerek kapıları açan kırmızı mekanizma.",
+    "yasakli_kelimeler": [
+      "kırmızı",
+      "çekmek",
+      "acil durum",
+      "kapı açma",
+      "tehlike"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 178,
+    "kategori": "ulasim",
+    "kelime": "yangın tüpü",
+    "aciklama": "toplu taşıma araçlarında çıkabilecek olası alevlenmelere anında müdahale etmek için bulundurulan basınçlı kırmızı tüp.",
+    "yasakli_kelimeler": [
+      "söndürücü",
+      "alev",
+      "kırmızı",
+      "köpük",
+      "basınç"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 179,
+    "kategori": "ulasim",
+    "kelime": "imdat çekici",
+    "aciklama": "kaza anında araç camlarını kolayca kırıp dışarı tahliyeyi sağlamak için pencerelerin yanına asılan küçük çekiç.",
+    "yasakli_kelimeler": [
+      "cam kırmak",
+      "kırmızı",
+      "küçük",
+      "çekiç",
+      "tahliye"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 180,
+    "kategori": "ulasim",
+    "kelime": "yolcu güvenliği",
+    "aciklama": "toplu taşımada seyahat eden tüm insanların can ve mal emniyetini sağlamaya yönelik alınan tedbirler.",
+    "yasakli_kelimeler": [
+      "emniyet",
+      "tedbir",
+      "kamera",
+      "koruma",
+      "can"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 181,
+    "kategori": "ulasim",
+    "kelime": "engelli rampası",
+    "aciklama": "tekerlekli sandalyeli yolcuların otobüse veya trene rahatça binmesi için yere doğru açılan metal eğimli platform.",
+    "yasakli_kelimeler": [
+      "tekerlekli sandalye",
+      "platform",
+      "kapı",
+      "rampa",
+      "açılmak"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 182,
+    "kategori": "ulasim",
+    "kelime": "puset alanı",
+    "aciklama": "bebek arabalı ebeveynlerin çocuklarıyla birlikte rahatça durabilmesi için otobüsün ortasında ayrılmış boş alan.",
+    "yasakli_kelimeler": [
+      "bebek arabası",
+      "bebek",
+      "orta kapı",
+      "anne",
+      "alan"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 183,
+    "kategori": "ulasim",
+    "kelime": "yaşlı koltuğu",
+    "aciklama": "ileri yaştaki büyüklerin rahat seyahat etmesi için araç içinde kapıya yakın konumlandırılmış öncelikli oturak.",
+    "yasakli_kelimeler": [
+      "dede",
+      "nine",
+      "yer vermek",
+      "öncelik",
+      "koltuk"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 184,
+    "kategori": "ulasim",
+    "kelime": "hamile yeri",
+    "aciklama": "anne adaylarının ayakta zorlanmaması için özel işaretlerle belirtilmiş öncelikli koltuk.",
+    "yasakli_kelimeler": [
+      "gebe",
+      "anne adayı",
+      "yer vermek",
+      "oturmak",
+      "simge"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 185,
+    "kategori": "ulasim",
+    "kelime": "sessiz vagon",
+    "aciklama": "bazı yüksek hızlı trenlerde telefonla konuşmanın ve gürültü yapmanın yasak olduğu sakin yolcu bölümü.",
+    "yasakli_kelimeler": [
+      "gürültü",
+      "fısıltı",
+      "telefon",
+      "yht",
+      "konuşmamak"
+    ],
+    "zorluk": "zor"
+  },
+  {
+    "id": 186,
+    "kategori": "ulasim",
+    "kelime": "şehirlerarası otogar",
+    "aciklama": "farklı şehirler arasında çalışan yüzlerce firmanın ve yolcu otobüsünün buluştuğu dev seyahat kompleksi.",
+    "yasakli_kelimeler": [
+      "esenler",
+      "otobüs",
+      "seyahat",
+      "peron",
+      "memleket"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 187,
+    "kategori": "ulasim",
+    "kelime": "otobüs peronu",
+    "aciklama": "yolcuların bavullarıyla birlikte otobüslerine bindikleri otogardaki numaralı yanaşma alanı.",
+    "yasakli_kelimeler": [
+      "numara",
+      "otogar",
+      "bavul",
+      "yanaşmak",
+      "kalkış"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 188,
+    "kategori": "ulasim",
+    "kelime": "muavin ikramı",
+    "aciklama": "otobüs yolculuğu sırasında yolculara dağıtılan kek, bisküvi, çay ve kahve gibi ücretsiz ikramlar.",
+    "yasakli_kelimeler": [
+      "kek",
+      "çay",
+      "kahve",
+      "tepsi",
+      "su"
+    ],
+    "zorluk": "zor"
+  },
+  {
+    "id": 189,
+    "kategori": "ulasim",
+    "kelime": "otobüs bagajı",
+    "aciklama": "yolcuların büyük boy bavul ve koli benzeri eşyalarının aracın altındaki geniş bölmeye yerleştirilmesi.",
+    "yasakli_kelimeler": [
+      "bavul",
+      "alt taraf",
+      "koli",
+      "numara",
+      "valiz"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 190,
+    "kategori": "ulasim",
+    "kelime": "yolculuk molası",
+    "aciklama": "uzun otobüs seyahatlerinde şoförün ve yolcuların dinlenip yemek yemesi için verilen yarım saatlik ara.",
+    "yasakli_kelimeler": [
+      "dinlenme tesisi",
+      "yarım saat",
+      "ara",
+      "çorba",
+      "ihtiyaç"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 191,
+    "kategori": "ulasim",
+    "kelime": "dinlenme tesisi",
+    "aciklama": "şehirlerarası karayolları üzerinde lokantası, marketi ve mescidi bulunan mola istasyonu.",
+    "yasakli_kelimeler": [
+      "mola",
+      "lokanta",
+      "otoyol",
+      "çorba",
+      "benzinlik"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 192,
+    "kategori": "ulasim",
+    "kelime": "elektrikli scooter",
+    "aciklama": "şehir içinde kısa mesafeleri cep telefonu uygulamasıyla kilit açarak katetmeye yarayan iki tekerlekli motorlu aygıt.",
+    "yasakli_kelimeler": [
+      "martı",
+      "iki teker",
+      "kiralama",
+      "kaldırım",
+      "ayakta"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 193,
+    "kategori": "ulasim",
+    "kelime": "paylaşımlı bisiklet",
+    "aciklama": "belediyelerin istasyonlarından kartla kiralanıp başka bir istasyona bırakılan çevreci iki tekerlekli taşıt.",
+    "yasakli_kelimeler": [
+      "isbike",
+      "pedal",
+      "kiralık",
+      "istasyon",
+      "iki tekerlek"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 194,
+    "kategori": "ulasim",
+    "kelime": "bisiklet yolu",
+    "aciklama": "yayalardan ve araç trafiğinden ayrılmış, sadece pedallı ve elektrikli küçük araçlara tahsis edilmiş mavi yol.",
+    "yasakli_kelimeler": [
+      "pedal",
+      "mavi",
+      "şerit",
+      "sahil",
+      "bisikletli"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 195,
+    "kategori": "ulasim",
+    "kelime": "yaya kaldırımı",
+    "aciklama": "yayaların cadde boyunca araç tehlikesine maruz kalmadan güvenle yürümesi için yükseltilmiş taş yol.",
+    "yasakli_kelimeler": [
+      "taş",
+      "kenar",
+      "bordür",
+      "yürümek",
+      "yaya"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 196,
+    "kategori": "ulasim",
+    "kelime": "kiralık araç",
+    "aciklama": "tatilde veya seyahatlerde belirli bir gün sayısı için sözleşmeyle kiralanan özel otomobil.",
+    "yasakli_kelimeler": [
+      "rent a car",
+      "sözleşme",
+      "günlük",
+      "otomobil",
+      "kasko"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 197,
+    "kategori": "ulasim",
+    "kelime": "oto kiralama",
+    "aciklama": "müşterilere geçici süreyle kullanmaları için otomobil temin eden kurumsal kiralama hizmeti ve sektörü.",
+    "yasakli_kelimeler": [
+      "rent a car",
+      "filo",
+      "kiralık",
+      "acente",
+      "firma"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 198,
+    "kategori": "ulasim",
+    "kelime": "yol navigasyonu",
+    "aciklama": "hedefe giden en kısa ve açık rotayı uydu bağlantısıyla sürücüye sesli ve haritalı tarif eden sistem.",
+    "yasakli_kelimeler": [
+      "harita",
+      "rota",
+      "gps",
+      "sesli tarif",
+      "uydu"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 199,
+    "kategori": "ulasim",
+    "kelime": "yol tarifi",
+    "aciklama": "gideceği adresi bilmeyen birine yönleri, kavşakları ve binaları referans vererek rotayı anlatma eylemi.",
+    "yasakli_kelimeler": [
+      "sormak",
+      "sağa dön",
+      "sola dön",
+      "tarif",
+      "adres"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 200,
+    "kategori": "ulasim",
+    "kelime": "varış noktası",
+    "aciklama": "yapılan tüm seyahatin veya yolculuğun sonunda ulaşılmak istenen nihai hedef konum.",
+    "yasakli_kelimeler": [
+      "hedef",
+      "son durak",
+      "ulaşmak",
+      "rota sonu",
+      "menzil"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "kategori": "ulasim",
+    "kelime": "otobüse binmek",
+    "aciklama": "toplu taşıma aracına duraktan adım atıp kart basmak.",
+    "yasakli_kelimeler": [
+      "durak",
+      "kart",
+      "yolcu",
+      "şoför",
+      "inmek"
+    ],
+    "zorluk": "kolay",
+    "id": 201
+  },
+  {
+    "kategori": "ulasim",
+    "kelime": "taksiye binmek",
+    "aciklama": "yoldan taksi çevirip istenen adrese gitmek.",
+    "yasakli_kelimeler": [
+      "şoför",
+      "taksimetre",
+      "sarı",
+      "adres",
+      "durak"
+    ],
+    "zorluk": "kolay",
+    "id": 202
+  },
+  {
+    "kategori": "ulasim",
+    "kelime": "metroya binmek",
+    "aciklama": "yeraltı raylı taşıma hattını kullanarak istasyonlar arasında seyahat etmek.",
+    "yasakli_kelimeler": [
+      "istasyon",
+      "ray",
+      "yeraltı",
+      "tren",
+      "turnike"
+    ],
+    "zorluk": "kolay",
+    "id": 203
+  },
+  {
+    "kategori": "ulasim",
+    "kelime": "uçağa binmek",
+    "aciklama": "havalimanında biniş kapısından geçip uçağa oturmak.",
+    "yasakli_kelimeler": [
+      "havalimanı",
+      "boarding",
+      "kapı",
+      "koltuk",
+      "uçuş"
+    ],
+    "zorluk": "kolay",
+    "id": 204
+  },
+  {
+    "kategori": "ulasim",
+    "kelime": "vapura binmek",
+    "aciklama": "i̇skeleden şehir hatları deniz motoru veya gemisine binmek.",
+    "yasakli_kelimeler": [
+      "iskele",
+      "deniz",
+      "gemi",
+      "martı",
+      "boğaz"
+    ],
+    "zorluk": "kolay",
+    "id": 205
+  },
+  {
+    "kategori": "ulasim",
+    "kelime": "bisiklet sürmek",
+    "aciklama": "i̇ki tekerlekli pedalsız/pedallı taşıtla yolda ilerlemek.",
+    "yasakli_kelimeler": [
+      "pedal",
+      "tekerlek",
+      "gidon",
+      "kask",
+      "yol"
+    ],
+    "zorluk": "kolay",
+    "id": 206
+  },
+  {
+    "kategori": "ulasim",
+    "kelime": "bilet almak",
+    "aciklama": "seyahat edebilmek için gişeden veya internetten geçiş hakkı edinmek.",
+    "yasakli_kelimeler": [
+      "gişe",
+      "kart",
+      "ücret",
+      "koltuk",
+      "rezervasyon"
+    ],
+    "zorluk": "kolay",
+    "id": 207
+  },
+  {
+    "kategori": "ulasim",
+    "kelime": "durakta beklemek",
+    "aciklama": "gelecek otobüs veya minibüs için kaldırım kenarındaki durakta beklemek.",
+    "yasakli_kelimeler": [
+      "otobüs",
+      "minibüs",
+      "kaldırım",
+      "yolcu",
+      "vakit"
+    ],
+    "zorluk": "kolay",
+    "id": 208
+  },
+  {
+    "kategori": "ulasim",
+    "kelime": "yol tarifi almak",
+    "aciklama": "bilinmeyen bir yere giderken navigasyondan veya birinden yön sormak.",
+    "yasakli_kelimeler": [
+      "navigasyon",
+      "adres",
+      "sormak",
+      "harita",
+      "yön"
+    ],
+    "zorluk": "kolay",
+    "id": 209
+  },
+  {
+    "kategori": "ulasim",
+    "kelime": "gaza basmak",
+    "aciklama": "aracın hızlanması için ayak pedalına kuvvet uygulamak.",
+    "yasakli_kelimeler": [
+      "pedal",
+      "hız",
+      "motor",
+      "ayak",
+      "ivme"
+    ],
+    "zorluk": "kolay",
+    "id": 210
+  },
+  {
+    "kategori": "ulasim",
+    "kelime": "frene basmak",
+    "aciklama": "hareket halindeki aracı durdurmak veya yavaşlatmak için pedala basmak.",
+    "yasakli_kelimeler": [
+      "durdurmak",
+      "yavaşlamak",
+      "pedal",
+      "balata",
+      "araç"
+    ],
+    "zorluk": "kolay",
+    "id": 211
+  },
+  {
+    "kategori": "ulasim",
+    "kelime": "direksiyon çevirmek",
+    "aciklama": "aracın tekerleklerine yön vererek dönüş yapmak.",
+    "yasakli_kelimeler": [
+      "dönüş",
+      "sağ",
+      "sol",
+      "simit",
+      "yönlendirmek"
+    ],
+    "zorluk": "kolay",
+    "id": 212
+  },
+  {
+    "kategori": "ulasim",
+    "kelime": "aktarma yapmak",
+    "aciklama": "bir toplu taşıma hattından inip diğerine geçiş yaparak yola devam etmek.",
+    "yasakli_kelimeler": [
+      "hat",
+      "inmek",
+      "geçiş",
+      "indirim",
+      "istasyon"
+    ],
+    "zorluk": "orta",
+    "id": 213
+  },
+  {
+    "kategori": "ulasim",
+    "kelime": "turnikeden geçmek",
+    "aciklama": "i̇stanbulkart veya bilet okutarak istasyon giriş bariyerini açmak.",
+    "yasakli_kelimeler": [
+      "kart",
+      "okutmak",
+      "bariyer",
+      "geçiş",
+      "istasyon"
+    ],
+    "zorluk": "orta",
+    "id": 214
+  },
+  {
+    "kategori": "ulasim",
+    "kelime": "trafiğe takılmak",
+    "aciklama": "yoldaki yoğun araç kalabalığı sebebiyle dur-kalk ilerlemek.",
+    "yasakli_kelimeler": [
+      "yoğunluk",
+      "dur kalk",
+      "sıkışıklık",
+      "kilit",
+      "zaman kaybı"
+    ],
+    "zorluk": "orta",
+    "id": 215
+  },
+  {
+    "kategori": "ulasim",
+    "kelime": "navigasyon kurmak",
+    "aciklama": "gidilecek rota ve canlı trafik durumunu görmek için gps uygulamasını açmak.",
+    "yasakli_kelimeler": [
+      "gps",
+      "rota",
+      "harita",
+      "canlı trafik",
+      "uygulama"
+    ],
+    "zorluk": "orta",
+    "id": 216
+  },
+  {
+    "kategori": "ulasim",
+    "kelime": "şerit değiştirmek",
+    "aciklama": "otoyolda sinyal vererek yanındaki trafik şeridine geçiş yapmak.",
+    "yasakli_kelimeler": [
+      "sinyal",
+      "ayna",
+      "otoyol",
+      "geçiş",
+      "çizgi"
+    ],
+    "zorluk": "orta",
+    "id": 217
+  },
+  {
+    "kategori": "ulasim",
+    "kelime": "sinyal vermek",
+    "aciklama": "dönüş veya şerit değişimi öncesinde yanıp sönen ikaz ışığını yakmak.",
+    "yasakli_kelimeler": [
+      "kol",
+      "ışık",
+      "sağ",
+      "sol",
+      "ikaz"
+    ],
+    "zorluk": "orta",
+    "id": 218
+  },
+  {
+    "kategori": "ulasim",
+    "kelime": "geri park etmek",
+    "aciklama": "aracı iki araç arasındaki boşluğa geri vitese takarak yerleştirmek.",
+    "yasakli_kelimeler": [
+      "geri vites",
+      "kaldırım",
+      "ayna",
+      "iki araç arası",
+      "boşluk"
+    ],
+    "zorluk": "orta",
+    "id": 219
+  },
+  {
+    "kategori": "ulasim",
+    "kelime": "akbil doldurmak",
+    "aciklama": "toplu ulaşım kartına biletmatik veya internetten bakiye yüklemek.",
+    "yasakli_kelimeler": [
+      "bakiye",
+      "yüklemek",
+      "biletmatik",
+      "para",
+      "ulaşım kartı"
+    ],
+    "zorluk": "orta",
+    "id": 220
+  },
+  {
+    "kategori": "ulasim",
+    "kelime": "check-in yapmak",
+    "aciklama": "uçuş öncesinde bilet ve koltuk numarasını onaylatıp biniş kartı almak.",
+    "yasakli_kelimeler": [
+      "koltuk",
+      "uçuş",
+      "biniş kartı",
+      "onay",
+      "kontuar"
+    ],
+    "zorluk": "orta",
+    "id": 221
+  },
+  {
+    "kategori": "ulasim",
+    "kelime": "bavul teslim etmek",
+    "aciklama": "havalimanında ağır valizleri uçağın kargo bölümüne verilmek üzere kontuara bırakmak.",
+    "yasakli_kelimeler": [
+      "valiz",
+      "bagaj",
+      "kontuar",
+      "kargo",
+      "tartı"
+    ],
+    "zorluk": "orta",
+    "id": 222
+  },
+  {
+    "kategori": "ulasim",
+    "kelime": "hız sabitleyiciyi açmak",
+    "aciklama": "uzun yolda aracın hızını belirli bir kilometrede sabit tutan cruise controlü çalıştırmak.",
+    "yasakli_kelimeler": [
+      "cruise control",
+      "uzun yol",
+      "sabit",
+      "km/h",
+      "otoban"
+    ],
+    "zorluk": "orta",
+    "id": 223
+  },
+  {
+    "kategori": "ulasim",
+    "kelime": "korna çalmak",
+    "aciklama": "trafikteki diğer sürücüleri veya yayaları uyarmak için sesli ikaz vermek.",
+    "yasakli_kelimeler": [
+      "ses",
+      "uyarı",
+      "direksiyon",
+      "gürültü",
+      "ikaz"
+    ],
+    "zorluk": "orta",
+    "id": 224
+  },
+  {
+    "kategori": "ulasim",
+    "kelime": "emniyet kemeri takmak",
+    "aciklama": "kaza anında güvenliği sağlamak için koltuk kemerini tokaya kilitlemek.",
+    "yasakli_kelimeler": [
+      "kaza",
+      "güvenlik",
+      "koltuk",
+      "kilit",
+      "toka"
+    ],
+    "zorluk": "orta",
+    "id": 225
+  },
+  {
+    "kategori": "ulasim",
+    "kelime": "geçiş ücreti ödemek",
+    "aciklama": "köprü ve otoyollardan geçerken hgs veya ogs sisteminden ücret ödemek.",
+    "yasakli_kelimeler": [
+      "hgs",
+      "ogs",
+      "köprü",
+      "otoyol",
+      "gişe"
+    ],
+    "zorluk": "orta",
+    "id": 226
+  },
+  {
+    "kategori": "ulasim",
+    "kelime": "yolcu i̇ndirmek",
+    "aciklama": "aracı sağa çekip içindeki yolcunun inmesine izin vermek.",
+    "yasakli_kelimeler": [
+      "sağa çekmek",
+      "kapı",
+      "durmak",
+      "taksi",
+      "minibüs"
+    ],
+    "zorluk": "orta",
+    "id": 227
+  },
+  {
+    "kategori": "ulasim",
+    "kelime": "yakıt almak",
+    "aciklama": "benzinlikte aracın deposunu benzin, mazot veya lpg ile doldurmak.",
+    "yasakli_kelimeler": [
+      "benzin",
+      "mazot",
+      "pompa",
+      "istasyon",
+      "depo"
+    ],
+    "zorluk": "orta",
+    "id": 228
+  },
+  {
+    "kategori": "ulasim",
+    "kelime": "taksi çevirmek",
+    "aciklama": "yolda el kaldırarak boş taksiyi durdurmak.",
+    "yasakli_kelimeler": [
+      "el kaldırmak",
+      "sarı",
+      "durdurmak",
+      "boş",
+      "yol kenarı"
+    ],
+    "zorluk": "orta",
+    "id": 229
+  },
+  {
+    "kategori": "ulasim",
+    "kelime": "vites değiştirmek",
+    "aciklama": "aracın motor devrine göre debriyaja basıp kolu uygun dişliye geçirmek.",
+    "yasakli_kelimeler": [
+      "debriyaj",
+      "kol",
+      "dişli",
+      "motor devri",
+      "manuel"
+    ],
+    "zorluk": "orta",
+    "id": 230
+  },
+  {
+    "kategori": "ulasim",
+    "kelime": "rötar yapmak",
+    "aciklama": "uçak veya trenin planlanan saatten daha geç hareket etmesi.",
+    "yasakli_kelimeler": [
+      "gecikme",
+      "saat",
+      "uçuş",
+      "bekleme",
+      "iptal"
+    ],
+    "zorluk": "orta",
+    "id": 231
+  },
+  {
+    "kategori": "ulasim",
+    "kelime": "i̇skeleden palamar çözmek",
+    "aciklama": "vapur veya teknenin hareket etmesi için bağlama halatlarını serbest bırakmak.",
+    "yasakli_kelimeler": [
+      "halat",
+      "tekne",
+      "vapur",
+      "bağlantı",
+      "deniz"
+    ],
+    "zorluk": "orta",
+    "id": 232
+  },
+  {
+    "kategori": "ulasim",
+    "kelime": "valiz bandından almak",
+    "aciklama": "uçaktan indikten sonra bagaj teslim salonunda dönen konveyörden bavulunu almak.",
+    "yasakli_kelimeler": [
+      "konveyör",
+      "bagaj",
+      "teslim",
+      "dönen bant",
+      "havalimanı"
+    ],
+    "zorluk": "orta",
+    "id": 233
+  },
+  {
+    "kategori": "ulasim",
+    "kelime": "dörtlüleri yakmak",
+    "aciklama": "acil durumlarda veya kısa duraklamalarda dört flaşörü birden çalıştırmak.",
+    "yasakli_kelimeler": [
+      "flaşör",
+      "acil",
+      "arıza",
+      "duraklama",
+      "ikaz"
+    ],
+    "zorluk": "orta",
+    "id": 234
+  },
+  {
+    "kategori": "ulasim",
+    "kelime": "otostop çekmek",
+    "aciklama": "yol kenarında başparmak kaldırarak geçen araçlardan ücretsiz ulaşım istemek.",
+    "yasakli_kelimeler": [
+      "başparmak",
+      "ücretsiz",
+      "yol kenarı",
+      "araç",
+      "seyahat"
+    ],
+    "zorluk": "orta",
+    "id": 235
+  },
+  {
+    "kategori": "ulasim",
+    "kelime": "raydan gitmek",
+    "aciklama": "tren, tramvay veya metronun demiryolu hattı üzerinde ilerlemesi.",
+    "yasakli_kelimeler": [
+      "demiryolu",
+      "makas",
+      "tren",
+      "tramvay",
+      "lokomotif"
+    ],
+    "zorluk": "orta",
+    "id": 236
+  },
+  {
+    "kategori": "ulasim",
+    "kelime": "uçuş planı dosyalamak",
+    "aciklama": "pilotun kalkış öncesi rota, irtifa, yedek meydan ve yakıt bilgilerini kuleye bildirmesi.",
+    "yasakli_kelimeler": [
+      "pilot",
+      "irtifa",
+      "hava trafik kontrol",
+      "rota",
+      "meydan"
+    ],
+    "zorluk": "zor",
+    "id": 237
+  },
+  {
+    "kategori": "ulasim",
+    "kelime": "slot sırası beklemek",
+    "aciklama": "yoğun havalimanlarında kalkış veya iniş için hava trafik kontrolünden tahsis edilen zaman aralığını beklemek.",
+    "yasakli_kelimeler": [
+      "havaalanı",
+      "pist",
+      "kalkış sırası",
+      "atc",
+      "zaman aralığı"
+    ],
+    "zorluk": "zor",
+    "id": 238
+  },
+  {
+    "kategori": "ulasim",
+    "kelime": "makas değiştirmek",
+    "aciklama": "demiryolunda trenin bir ray hattından diğerine yönlenmesini sağlayan mekanizmayı işletmek.",
+    "yasakli_kelimeler": [
+      "ray",
+      "tren",
+      "hat",
+      "yönlendirme",
+      "demiryolu"
+    ],
+    "zorluk": "zor",
+    "id": 239
+  },
+  {
+    "kategori": "ulasim",
+    "kelime": "ils yaklaşması yapmak",
+    "aciklama": "uçağın sisli veya gece koşullarında pist başına aletli iniş sistemi radyo sinyalleriyle alçalması.",
+    "yasakli_kelimeler": [
+      "aletli iniş",
+      "pist",
+      "sis",
+      "alçalma",
+      "glideslope"
+    ],
+    "zorluk": "zor",
+    "id": 240
+  },
+  {
+    "kategori": "ulasim",
+    "kelime": "palamar bağlamak",
+    "aciklama": "büyük gemi ve feribotları liman babalarına çelik halatlarla sabitlemek.",
+    "yasakli_kelimeler": [
+      "halat",
+      "liman babası",
+      "feribot",
+      "sabitlemek",
+      "rıhtım"
+    ],
+    "zorluk": "zor",
+    "id": 241
+  },
+  {
+    "kategori": "ulasim",
+    "kelime": "diferansiyel kilitlemek",
+    "aciklama": "arazi araçlarında çamura veya kara saplanınca her iki tekerleğe eşit tork aktarmak.",
+    "yasakli_kelimeler": [
+      "4x4",
+      "off-road",
+      "tork",
+      "çekiş",
+      "saplanmak"
+    ],
+    "zorluk": "zor",
+    "id": 242
+  },
+  {
+    "kategori": "ulasim",
+    "kelime": "sinyalizasyon kurmak",
+    "aciklama": "demiryolu ve otoyol güvenliği için otomatik tren durdurma ve elektronik ışık sistemini entegre etmek.",
+    "yasakli_kelimeler": [
+      "elektronik",
+      "otomatik tren koruma",
+      "ışık",
+      "emniyet",
+      "blok"
+    ],
+    "zorluk": "zor",
+    "id": 243
+  },
+  {
+    "kategori": "ulasim",
+    "kelime": "geniş gövdeli uçak i̇ndirmek",
+    "aciklama": "çift koridorlu ve yüzlerce yolcu taşıyan dev yolcu uçağını piste teker koydurmak.",
+    "yasakli_kelimeler": [
+      "kıtalararası",
+      "boeing 777",
+      "airbus a350",
+      "pist",
+      "teker koyma"
+    ],
+    "zorluk": "zor",
+    "id": 244
+  },
+  {
+    "kategori": "ulasim",
+    "kelime": "kombine taşımacılık yapmak",
+    "aciklama": "yük konteynerlerini gemi, tren ve tır arasında yükü açmadan aktararak taşımak (intermodal).",
+    "yasakli_kelimeler": [
+      "intermodal",
+      "konteyner",
+      "tır",
+      "tren",
+      "aktarma limanı"
+    ],
+    "zorluk": "zor",
+    "id": 245
+  },
+  {
+    "kategori": "ulasim",
+    "kelime": "takograf kontrolü yapmak",
+    "aciklama": "kamyon ve otobüs şoförlerinin sürüş süresi ve hız limitlerini kaydeden cihazı denetlemek.",
+    "yasakli_kelimeler": [
+      "cihaz",
+      "sürüş süresi",
+      "şoför dinlenmesi",
+      "kamyon",
+      "polis"
+    ],
+    "zorluk": "zor",
+    "id": 246
+  },
+  {
+    "kategori": "ulasim",
+    "kelime": "metrobüs hattını i̇şletmek",
+    "aciklama": "ayrılmış özel şeritte yüksek yolcu kapasitesiyle çalışan lastik tekerlekli toplu taşıma sistemini yönetmek.",
+    "yasakli_kelimeler": [
+      "özel şerit",
+      "yoğunluk",
+      "e-5",
+      "kapasite",
+      "durak"
+    ],
+    "zorluk": "zor",
+    "id": 247
+  },
+  {
+    "kategori": "ulasim",
+    "kelime": "kılavuz kaptan almak",
+    "aciklama": "boğaz ve liman geçişlerinde gemiyi dar sularda emniyetle sevk etmek için yerel uzman kaptanı gemiye çıkarmak.",
+    "yasakli_kelimeler": [
+      "boğaz",
+      "dar su",
+      "liman",
+      "uzman",
+      "çarmıh"
+    ],
+    "zorluk": "zor",
+    "id": 248
+  },
+  {
+    "kategori": "ulasim",
+    "kelime": "taksimetre kalibre etmek",
+    "aciklama": "mesafe ve zamana göre ücret hesaplayan cihazın yasal ölçüm ayarlarını mühürlemek.",
+    "yasakli_kelimeler": [
+      "ücret",
+      "mesafe",
+      "mühür",
+      "kalibrasyon",
+      "ayar"
+    ],
+    "zorluk": "zor",
+    "id": 249
+  },
+  {
+    "kategori": "ulasim",
+    "kelime": "trafik sirkülasyonunu modellemek",
+    "aciklama": "şehir içi kavşak ve anayollardaki araç akışını bilgisayar simülasyonlarıyla optimize etmek.",
+    "yasakli_kelimeler": [
+      "simülasyon",
+      "araç akışı",
+      "kavşak",
+      "optimizasyon",
+      "darboğaz"
+    ],
+    "zorluk": "zor",
+    "id": 250
+  }
+]

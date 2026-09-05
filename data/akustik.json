@@ -1398,5 +1398,2105 @@
       "bastırma"
     ],
     "zorluk": "zor"
+  },
+  {
+    "id": 101,
+    "kategori": "akustik",
+    "kelime": "ses şiddeti",
+    "aciklama": "birim alandan birim zamanda ses dalgasıyla taşınan akustik enerji miktarının fiziksel büyüklüğü.",
+    "yasakli_kelimeler": [
+      "enerji",
+      "akı",
+      "güç",
+      "birim alan",
+      "yoğunluk"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 102,
+    "kategori": "akustik",
+    "kelime": "ses gücü",
+    "aciklama": "bir ses kaynağının birim zamanda ortama yaydığı toplam akustik enerji miktarı.",
+    "yasakli_kelimeler": [
+      "watt",
+      "kaynak",
+      "enerji",
+      "toplam",
+      "akustik"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 103,
+    "kategori": "akustik",
+    "kelime": "ses mikseri",
+    "aciklama": "farklı kaynaklardan gelen çok sayıdaki ses sinyalini birleştirip seviyelerini ve tonlarını dengeleyen aygıt.",
+    "yasakli_kelimeler": [
+      "kanal",
+      "karıştırıcı",
+      "seviye",
+      "konsol",
+      "ton"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 104,
+    "kategori": "akustik",
+    "kelime": "ses paneli",
+    "aciklama": "odadaki ses yansımalarını kontrol etmek ve akustiği düzenlemek için duvara veya tavana yerleştirilen plaka.",
+    "yasakli_kelimeler": [
+      "duvar",
+      "tavan",
+      "oda",
+      "plaka",
+      "yutucu"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 105,
+    "kategori": "akustik",
+    "kelime": "bas tuzağı",
+    "aciklama": "odaların köşelerinde toplanan alçak frekanslı ses dalgalarını yutarak akustik çamurlaşmayı önleyen eleman.",
+    "yasakli_kelimeler": [
+      "köşe",
+      "alçak frekans",
+      "derin",
+      "sünger",
+      "yutucu"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 106,
+    "kategori": "akustik",
+    "kelime": "akustik sünger",
+    "aciklama": "ses dalgalarını gözenekli yapısıyla soğurarak iç mekanda yankı ve çınlamayı azaltan yalıtım malzemesi.",
+    "yasakli_kelimeler": [
+      "köpük",
+      "gözenekli",
+      "duvar",
+      "yankı",
+      "izolasyon"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 107,
+    "kategori": "akustik",
+    "kelime": "yankı odası",
+    "aciklama": "tüm duvarları sesi maksimum düzeyde yansıtacak şekilde pürüzsüz ve sert malzemeyle kaplanmış özel laboratuvar odası.",
+    "yasakli_kelimeler": [
+      "oda",
+      "yansıma",
+      "sert duvar",
+      "laboratuvar",
+      "reverberasyon"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 108,
+    "kategori": "akustik",
+    "kelime": "ses sönümü",
+    "aciklama": "ortamdaki ses dalgalarının sürtünme veya ısıya dönüşerek enerjisini ve genliğini zamanla kaybetmesi.",
+    "yasakli_kelimeler": [
+      "azalma",
+      "enerji kaybı",
+      "kaybolma",
+      "zayıflama",
+      "yutulma"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 109,
+    "kategori": "akustik",
+    "kelime": "şerit mikrofon",
+    "aciklama": "manyetik alan içine yerleştirilen çok ince metal folyonun titreşmesiyle ses sinyali üreten hassas mikrofon türü.",
+    "yasakli_kelimeler": [
+      "metal folyo",
+      "manyetik",
+      "hassas",
+      "şerit",
+      "alüminyum"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 110,
+    "kategori": "akustik",
+    "kelime": "yaka mikrofonu",
+    "aciklama": "konuşmacının giysisine iliştirilen ve elleri serbest bırakan çok küçük boyutlu mikrofon tipi.",
+    "yasakli_kelimeler": [
+      "giysi",
+      "küçük",
+      "klips",
+      "sunucu",
+      "yaka"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 111,
+    "kategori": "akustik",
+    "kelime": "telsiz mikrofon",
+    "aciklama": "kabloya ihtiyaç duymadan ses sinyallerini radyo dalgalarıyla alıcı cihaza ileten hareketli mikrofon.",
+    "yasakli_kelimeler": [
+      "kablosuz",
+      "verici",
+      "alıcı",
+      "radyo frekansı",
+      "sahne"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 112,
+    "kategori": "akustik",
+    "kelime": "yönsel mikrofon",
+    "aciklama": "yalnızca belli bir doğrultudan gelen sesleri güçlü şekilde algılayıp çevre gürültüsünü engelleyen mikrofon türü.",
+    "yasakli_kelimeler": [
+      "doğrultu",
+      "açı",
+      "odak",
+      "hedef",
+      "algılama"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 113,
+    "kategori": "akustik",
+    "kelime": "kardiyot",
+    "aciklama": "sesi ön taraftan en yüksek, arka taraftan ise en düşük seviyede yakalayan kalp biçimli mikrofon duyarlılık kutbu.",
+    "yasakli_kelimeler": [
+      "kalp",
+      "kutuplanma",
+      "ön taraf",
+      "arka",
+      "duyarlılık"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 114,
+    "kategori": "akustik",
+    "kelime": "kulaklık",
+    "aciklama": "kulak üzerine veya içine takılarak sesin dışarıya yayılmadan yalnızca kullanıcı tarafından duyulmasını sağlayan dinleme cihazı.",
+    "yasakli_kelimeler": [
+      "dinleme",
+      "kulak içi",
+      "kulak üstü",
+      "müzik",
+      "cihaz"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 115,
+    "kategori": "akustik",
+    "kelime": "monitör hoparlör",
+    "aciklama": "stüdyoda kayıt ve miksaj sırasında sesleri renklendirmeden en doğal ve doğru haliyle ileten profesyonel hoparlör.",
+    "yasakli_kelimeler": [
+      "stüdyo",
+      "referans",
+      "doğal ses",
+      "miks",
+      "profesyonel"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 116,
+    "kategori": "akustik",
+    "kelime": "ses kartı",
+    "aciklama": "analog ses sinyallerini dijital verilere veya dijital verileri duyulabilir analog sinyallere dönüştüren donanım birimi.",
+    "yasakli_kelimeler": [
+      "dönüştürücü",
+      "bilgisayar",
+      "donanım",
+      "arabirim",
+      "giriş çıkış"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 117,
+    "kategori": "akustik",
+    "kelime": "ön amfi",
+    "aciklama": "mikrofon veya enstrümanlardan çıkan zayıf elektrik sinyalini ana yükselticiye girmeden önce uygun seviyeye çıkaran devre.",
+    "yasakli_kelimeler": [
+      "yükseltici",
+      "kazanç",
+      "sinyal",
+      "seviye",
+      "giriş"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 118,
+    "kategori": "akustik",
+    "kelime": "güç amfisi",
+    "aciklama": "küçük ses sinyallerini hoparlör membranlarını güçlü biçimde hareket ettirecek kadar yüksek elektrik enerjisine ulaştıran yükselteç.",
+    "yasakli_kelimeler": [
+      "yükselteç",
+      "watt",
+      "çıkış",
+      "hoparlör sürücüsü",
+      "elektrik"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 119,
+    "kategori": "akustik",
+    "kelime": "dip gürültü",
+    "aciklama": "bir ses devresinde veya ortamda hiçbir sinyal yokken bile arka planda duyulan sürekli temel tıslama.",
+    "yasakli_kelimeler": [
+      "hiss",
+      "tıslama",
+      "arka plan",
+      "taban",
+      "uğultu"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 120,
+    "kategori": "akustik",
+    "kelime": "uğultu",
+    "aciklama": "genellikle elektrik şebekesinden veya mekanik titreşimlerden kaynaklanan düşük frekanslı boğuk ve sürekli ses.",
+    "yasakli_kelimeler": [
+      "hum",
+      "düşük frekans",
+      "boğuk",
+      "şebeke",
+      "titreşim"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 121,
+    "kategori": "akustik",
+    "kelime": "cızırtı",
+    "aciklama": "bozuk kablolardan veya statik elektrikten dolayı ses iletiminde meydana gelen kesik ve rahatsız edici parazit.",
+    "yasakli_kelimeler": [
+      "parazit",
+      "temassızlık",
+      "kablo",
+      "çatlama",
+      "statik"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 122,
+    "kategori": "akustik",
+    "kelime": "distorsiyon",
+    "aciklama": "orijinal ses dalgası formunun aşırı güç veya bozuk devreler nedeniyle şekil değiştirerek kirlenmesi.",
+    "yasakli_kelimeler": [
+      "bozulma",
+      "deformasyon",
+      "dalga şekli",
+      "kirlenme",
+      "aşırı yük"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 123,
+    "kategori": "akustik",
+    "kelime": "kırpılma",
+    "aciklama": "bir ses sinyalinin amfinin veya dijital sistemin kapasitesini aşmasıyla dalga tepe noktalarının düzleşip bozulması.",
+    "yasakli_kelimeler": [
+      "clipping",
+      "aşım",
+      "tepe noktası",
+      "düzleşme",
+      "kırmızı ışık"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 124,
+    "kategori": "akustik",
+    "kelime": "dinamik aralık",
+    "aciklama": "bir ses sisteminde veya kayıtta en kısık duyulabilir ses ile bozulmaya uğramayan en yüksek ses arasındaki fark.",
+    "yasakli_kelimeler": [
+      "en kısık",
+      "en yüksek",
+      "desibel farkı",
+      "seviye",
+      "aralık"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 125,
+    "kategori": "akustik",
+    "kelime": "kompresör",
+    "aciklama": "ses parçalarındaki en yüksek ve en alçak ses seviyeleri arasındaki farkı daraltarak ses dengesini sağlayan işlemci.",
+    "yasakli_kelimeler": [
+      "dinamik",
+      "baskılama",
+      "seviye",
+      "eşik",
+      "kazanç"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 126,
+    "kategori": "akustik",
+    "kelime": "sınırlayıcı",
+    "aciklama": "ses sinyalinin belirlenen kritik eşik değerini kesinlikle aşmasına izin vermeyerek distorsiyonu önleyen işlemci türü.",
+    "yasakli_kelimeler": [
+      "tavan",
+      "eşik",
+      "kesme",
+      "limiter",
+      "aşma"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 127,
+    "kategori": "akustik",
+    "kelime": "gürültü kapısı",
+    "aciklama": "belirli bir eşik seviyesinin altındaki dip sesleri tamamen susturarak kayıt aralarındaki gürültüyü kesen ses işlemcisi.",
+    "yasakli_kelimeler": [
+      "noise gate",
+      "eşik",
+      "susturma",
+      "kesme",
+      "arka plan"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 128,
+    "kategori": "akustik",
+    "kelime": "alçak geçiren",
+    "aciklama": "belirlenen kesim frekansının altındaki seslerin geçişine izin verirken tiz frekansları zayıflatan ses filtresi.",
+    "yasakli_kelimeler": [
+      "tiz",
+      "filtre",
+      "kesim",
+      "bas geçiren",
+      "zayıflatma"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 129,
+    "kategori": "akustik",
+    "kelime": "yüksek geçiren",
+    "aciklama": "yalnızca belirlenen sınır frekansının üzerindeki tiz sesleri geçirip bas sesleri yok eden filtre mekanizması.",
+    "yasakli_kelimeler": [
+      "bas",
+      "filtre",
+      "tiz geçiren",
+      "kesme frekansı",
+      "uğultu kesici"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 130,
+    "kategori": "akustik",
+    "kelime": "bant filtresi",
+    "aciklama": "belirli bir alt ve üst frekans aralığındaki sesleri geçirip bu aralığın dışındaki tüm sesleri kesen filtre.",
+    "yasakli_kelimeler": [
+      "aralık",
+      "filtre",
+      "geçirgen",
+      "frekans bandı",
+      "seçici"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 131,
+    "kategori": "akustik",
+    "kelime": "örnekleme frekansı",
+    "aciklama": "bir analog ses sinyalinin dijitale dönüştürülürken saniye başına alınan anlık ölçüm adedi.",
+    "yasakli_kelimeler": [
+      "kilohertz",
+      "saniye",
+      "dijitalleştirme",
+      "örnek",
+      "nyquist"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 132,
+    "kategori": "akustik",
+    "kelime": "bit derinliği",
+    "aciklama": "dijital ses kaydında her bir ses örneğinin genliğini kaydetmek için kullanılan ikili basamak sayısı.",
+    "yasakli_kelimeler": [
+      "çözünürlük",
+      "bit",
+      "on altı",
+      "yirmi dört",
+      "dinamik aralık"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 133,
+    "kategori": "akustik",
+    "kelime": "dijital ses",
+    "aciklama": "ses dalgalarının mikroişlemciler ve bilgisayarlar tarafından işlenebilmesi için ikili sayı dizilerine dönüştürülmüş hali.",
+    "yasakli_kelimeler": [
+      "ikili sistem",
+      "bilgisayar",
+      "sayısal",
+      "kod",
+      "örnekleme"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 134,
+    "kategori": "akustik",
+    "kelime": "analog ses",
+    "aciklama": "ses basınç değişimlerinin sürekli elektrik gerilimi veya mekanik oluklar şeklinde depolanıp iletildiği özgün biçim.",
+    "yasakli_kelimeler": [
+      "sürekli dalga",
+      "plak",
+      "kaset",
+      "gerilim",
+      "kesintisiz"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 135,
+    "kategori": "akustik",
+    "kelime": "stereo",
+    "aciklama": "mekansal derinlik ve yön hissi yaratmak amacıyla sesin iki bağımsız kanaldan ayrı ayrı dinleyiciye iletilmesi.",
+    "yasakli_kelimeler": [
+      "iki kanal",
+      "sağ sol",
+      "mekansal",
+      "kulaklık",
+      "hoparlör"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 136,
+    "kategori": "akustik",
+    "kelime": "mono",
+    "aciklama": "tüm ses sinyallerinin tek bir kanal üzerinden toplanarak tek bir hoparlörden ya da özdeş şekilde aktarılması.",
+    "yasakli_kelimeler": [
+      "tek kanal",
+      "merkezi",
+      "çift kanal olmayan",
+      "hoparlör",
+      "yönsüz"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 137,
+    "kategori": "akustik",
+    "kelime": "çevresel ses",
+    "aciklama": "dinleyiciyi çepeçevre saracak şekilde çoklu hoparlör dizilimiyle üç boyutlu ses alanı oluşturan ses sistemi.",
+    "yasakli_kelimeler": [
+      "surround",
+      "sinema",
+      "çok kanallı",
+      "sarma",
+      "üç boyutlu"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 138,
+    "kategori": "akustik",
+    "kelime": "ses miksajı",
+    "aciklama": "kaydedilmiş çok kanallı ses parçalarının ses seviyelerini, panlamalarını ve efektlerini dengeli bir bütüne dönüştürme işi.",
+    "yasakli_kelimeler": [
+      "mix",
+      "kanal birleştirme",
+      "seviye ayarı",
+      "denge",
+      "stüdyo"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 139,
+    "kategori": "akustik",
+    "kelime": "mastering",
+    "aciklama": "miksajı bitmiş ses parçalarını tüm çalma sistemlerinde en iyi tınlayacak şekilde cilalayıp albüm standardına getirme süreci.",
+    "yasakli_kelimeler": [
+      "son dokunuş",
+      "albüm",
+      "cila",
+      "ses seviyesi",
+      "standartlaştırma"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 140,
+    "kategori": "akustik",
+    "kelime": "ses efekti",
+    "aciklama": "filmlerde, oyunlarda veya müzikte sahneyi güçlendirmek için yapay veya doğal yollarla üretilen özel ses ögesi.",
+    "yasakli_kelimeler": [
+      "foley",
+      "film sesi",
+      "yapay ses",
+      "özel efekt",
+      "oyun sesi"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 141,
+    "kategori": "akustik",
+    "kelime": "koro etkisi",
+    "aciklama": "orijinal sesin hafif gecikmeli ve perde sapmalı kopyalarını ekleyerek tek bir sesi çok sayıda kişi söylüyormuş gibi duyuran efekt.",
+    "yasakli_kelimeler": [
+      "chorus",
+      "koro",
+      "çoklu ses",
+      "kalınlaştırma",
+      "gecikme"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 142,
+    "kategori": "akustik",
+    "kelime": "flanger",
+    "aciklama": "orijinal ses ile milisaniyelik gecikmeli kopyasını karıştırıp jet uçağı kalkışına benzer döngüsel süpürme sesi üreten modülasyon.",
+    "yasakli_kelimeler": [
+      "modülasyon",
+      "jet sesi",
+      "süpürme",
+      "gecikme",
+      "efekt"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 143,
+    "kategori": "akustik",
+    "kelime": "fazer",
+    "aciklama": "ses dalgasının frekans fazlarını belirli aralıklarla kaydırarak dalgalı ve dönen bir tını oluşturan efekt aygıtı.",
+    "yasakli_kelimeler": [
+      "phaser",
+      "faz kaydırma",
+      "dönüş efekti",
+      "çentik",
+      "modülasyon"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 144,
+    "kategori": "akustik",
+    "kelime": "titreşim",
+    "aciklama": "maddesel bir parçacığın veya nesnenin denge noktası etrafında ileri geri yaptığı periyodik salınım hareketi.",
+    "yasakli_kelimeler": [
+      "salınım",
+      "sarsıntı",
+      "dalgalanma",
+      "hareket",
+      "periyot"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 145,
+    "kategori": "akustik",
+    "kelime": "rezonans frekansı",
+    "aciklama": "fiziksel bir sistemin dışarıdan uygulanan periyodik kuvvetle en büyük genlikle titremeye başladığı doğal frekans değeri.",
+    "yasakli_kelimeler": [
+      "maksimum genlik",
+      "titreşim",
+      "doğal frekans",
+      "uyarıcı",
+      "frekans"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 146,
+    "kategori": "akustik",
+    "kelime": "doğal frekans",
+    "aciklama": "bir cismin herhangi bir dış kuvvete maruz kalmadan kendi elastikiyeti ve kütlesiyle serbestçe titreştiği frekans.",
+    "yasakli_kelimeler": [
+      "serbest titreşim",
+      "kütle",
+      "cisim",
+      "öz frekans",
+      "özellik"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 147,
+    "kategori": "akustik",
+    "kelime": "düzlem dalga",
+    "aciklama": "dalga cephelerinin ilerleme yönüne dik paralel sonsuz düzlemlerden oluştuğu idealize edilmiş ses dalgası.",
+    "yasakli_kelimeler": [
+      "dalga cephesi",
+      "paralel",
+      "düzlem",
+      "yayılma yönü",
+      "dalga"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 148,
+    "kategori": "akustik",
+    "kelime": "küresel dalga",
+    "aciklama": "noktasal bir ses kaynağından her yöne eşit biçimde yayılarak küre yüzeyleri oluşturan dalga yapısı.",
+    "yasakli_kelimeler": [
+      "noktasal kaynak",
+      "küre",
+      "yarıçap",
+      "her yöne",
+      "dalga"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 149,
+    "kategori": "akustik",
+    "kelime": "silindirik dalga",
+    "aciklama": "çizgisel bir ses kaynağından dışarıya doğru silindir yüzeyi şeklinde genişleyerek yayılan ses dalgası.",
+    "yasakli_kelimeler": [
+      "çizgisel kaynak",
+      "silindir",
+      "dalga cephesi",
+      "yol hattı",
+      "yayılma"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 150,
+    "kategori": "akustik",
+    "kelime": "akustik saçılma",
+    "aciklama": "ses dalgasının düzensiz veya pürüzlü bir yüzeye çarptığında tek bir yöne yansımak yerine çok farklı yönlere dağılması.",
+    "yasakli_kelimeler": [
+      "dağılma",
+      "difüzyon",
+      "pürüzlü yüzey",
+      "yansıma",
+      "saçınım"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 151,
+    "kategori": "akustik",
+    "kelime": "serbest alan",
+    "aciklama": "çevresinde hiçbir yansıtıcı yüzey bulunmayan ve sesin engelsiz olarak her yöne yayılabildiği ideal akustik ortam.",
+    "yasakli_kelimeler": [
+      "engelsiz",
+      "yansımasız",
+      "açık hava",
+      "ortam",
+      "yayılma"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 152,
+    "kategori": "akustik",
+    "kelime": "yakın alan",
+    "aciklama": "ses kaynağına çok yakın olan ve ses dalga yapısının henüz oturmayıp karmaşık basınç değişimleri gösterdiği bölge.",
+    "yasakli_kelimeler": [
+      "kaynak dibi",
+      "yakın bölge",
+      "basınç",
+      "akustik",
+      "mesafe"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 153,
+    "kategori": "akustik",
+    "kelime": "uzak alan",
+    "aciklama": "kaynaktan yeterince uzaklaştıktan sonra ses dalgasının kararlı bir yayılım gösterdiği ve ters kare kuralının işlediği bölge.",
+    "yasakli_kelimeler": [
+      "mesafe",
+      "ters kare",
+      "kararlı yayılım",
+      "uzak",
+      "bölge"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 154,
+    "kategori": "akustik",
+    "kelime": "işitme eşiği",
+    "aciklama": "insan kulağının sağlıklı koşullarda duyabildiği en zayıf ses basıncı ve şiddet seviyesi.",
+    "yasakli_kelimeler": [
+      "en kısık ses",
+      "alt sınır",
+      "duyma",
+      "kulak",
+      "sıfır desibel"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 155,
+    "kategori": "akustik",
+    "kelime": "ağrı eşiği",
+    "aciklama": "kulakta fiziksel acı veya işitme organında hasar hissi yaratmaya başlayan en yüksek ses şiddeti seviyesi.",
+    "yasakli_kelimeler": [
+      "acı",
+      "üst sınır",
+      "yüksek ses",
+      "kulak hasarı",
+      "yüz yirmi desibel"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 156,
+    "kategori": "akustik",
+    "kelime": "işitme kaybı",
+    "aciklama": "kulağın ses titreşimlerini tam olarak algılayamaması sonucu duyma yetisinde meydana gelen kısmi veya tam azalma.",
+    "yasakli_kelimeler": [
+      "sağırlık",
+      "az duyma",
+      "kulak",
+      "odiogram",
+      "kayıp"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 157,
+    "kategori": "akustik",
+    "kelime": "kulak kepçesi",
+    "aciklama": "dış ortamdaki ses dalgalarını toplayarak kulak kanalına yönlendiren kıkırdak yapılı dış kulak bölümü.",
+    "yasakli_kelimeler": [
+      "dış kulak",
+      "kıkırdak",
+      "ses toplama",
+      "kulak",
+      "kanal"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 158,
+    "kategori": "akustik",
+    "kelime": "kulak kanalı",
+    "aciklama": "kulak kepçesinin topladığı ses dalgalarını kulak zarına ileten silindirik dış kulak yolu.",
+    "yasakli_kelimeler": [
+      "dış kulak yolu",
+      "kulak zarı",
+      "iletim",
+      "yol",
+      "buşon"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 159,
+    "kategori": "akustik",
+    "kelime": "östaki borusu",
+    "aciklama": "orta kulak boşluğu ile yutak arasındaki hava basıncını eşitleyerek kulak zarının dengede kalmasını sağlayan kanal.",
+    "yasakli_kelimeler": [
+      "orta kulak",
+      "yutak",
+      "basınç dengeleme",
+      "tıkanma",
+      "uçak"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 160,
+    "kategori": "akustik",
+    "kelime": "çekiç kemiği",
+    "aciklama": "kulak zarına doğrudan temas eden ve gelen ses titreşimlerini örs kemiğine aktaran en dıştaki orta kulak kemikçiği.",
+    "yasakli_kelimeler": [
+      "kemikçik",
+      "orta kulak",
+      "örs",
+      "kulak zarı",
+      "malleus"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 161,
+    "kategori": "akustik",
+    "kelime": "örs kemiği",
+    "aciklama": "çekiç kemiğinden aldığı titreşimleri yükselterek üzengi kemiğine ileten orta kulak kemikçiği.",
+    "yasakli_kelimeler": [
+      "çekiç",
+      "üzengi",
+      "orta kulak",
+      "kemikçik",
+      "incus"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 162,
+    "kategori": "akustik",
+    "kelime": "üzengi kemiği",
+    "aciklama": "iç kulağın oval penceresine basarak ses dalgalarını kokleadaki sıvıya ileten insan vücudunun en küçük kemiği.",
+    "yasakli_kelimeler": [
+      "en küçük kemik",
+      "oval pencere",
+      "orta kulak",
+      "örs",
+      "stapes"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 163,
+    "kategori": "akustik",
+    "kelime": "akustik travma",
+    "aciklama": "ani ve son derece şiddetli bir patlama veya ses darbesi nedeniyle iç kulakta oluşan kalıcı hasar.",
+    "yasakli_kelimeler": [
+      "patlama sesi",
+      "ani hasar",
+      "kulak zararı",
+      "şiddetli ses",
+      "travma"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 164,
+    "kategori": "akustik",
+    "kelime": "ses kirliliği",
+    "aciklama": "insan ve çevre sağlığını olumsuz etkileyen, konsantrasyonu bozan ve huzuru kaçıran istenmeyen aşırı gürültü birikimi.",
+    "yasakli_kelimeler": [
+      "gürültü",
+      "çevre",
+      "trafik gürültüsü",
+      "rahatsızlık",
+      "kent"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 165,
+    "kategori": "akustik",
+    "kelime": "gürültü haritası",
+    "aciklama": "bir yerleşim bölgesindeki ses seviyelerinin coğrafi dağılımını renk kodlarıyla gösteren çevresel analiz planı.",
+    "yasakli_kelimeler": [
+      "harita",
+      "şehir",
+      "renk kodu",
+      "ölçüm",
+      "çevre analizi"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 166,
+    "kategori": "akustik",
+    "kelime": "ses ölçer",
+    "aciklama": "ortamdaki ses basınç düzeyini hassas mikrofonuyla desibel cinsinden tespit eden taşınabilir ölçüm aleti.",
+    "yasakli_kelimeler": [
+      "desibelmetre",
+      "ölçüm aleti",
+      "gürültü ölçer",
+      "cihaz",
+      "desibel"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 167,
+    "kategori": "akustik",
+    "kelime": "dozimetre",
+    "aciklama": "çalışanların mesai boyunca maruz kaldıkları toplam gürültü miktarını kaydeden ve taşıyıcıya takılan ölçüm aleti.",
+    "yasakli_kelimeler": [
+      "maruziyet",
+      "işçi",
+      "toplam gürültü",
+      "cihaz",
+      "iş sağlığı"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 168,
+    "kategori": "akustik",
+    "kelime": "geofon",
+    "aciklama": "yer kabuğundaki sismik ses ve titreşim dalgalarını algılayarak elektrik sinyaline dönüştüren jeolojik alıcı.",
+    "yasakli_kelimeler": [
+      "deprem",
+      "sismik",
+      "yer altı",
+      "titreşim alıcısı",
+      "sensör"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 169,
+    "kategori": "akustik",
+    "kelime": "fonograf",
+    "aciklama": "ses dalgalarını dönen bir silindir üzerindeki kalay folyoya kazıyarak kaydedip yeniden dinleten ilk ses aygıtı.",
+    "yasakli_kelimeler": [
+      "edison",
+      "silindir",
+      "ilk kayıt",
+      "iğne",
+      "tarihi aygıt"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 170,
+    "kategori": "akustik",
+    "kelime": "gramofon",
+    "aciklama": "ses kayıtlarını dairesel plaklar üzerinden mekanik bir iğne ve büyük huni aracılığıyla çalan nostaljik cihaz.",
+    "yasakli_kelimeler": [
+      "plak",
+      "huni",
+      "iğne",
+      "taş plak",
+      "nostalji"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 171,
+    "kategori": "akustik",
+    "kelime": "akustik gitar",
+    "aciklama": "tellerin titreşimini herhangi bir amfi olmadan yalnızca ahşap gövdesinin rezonansıyla yükselten telli müzik aleti.",
+    "yasakli_kelimeler": [
+      "tel",
+      "ahşap gövde",
+      "müzik aleti",
+      "amfisiz",
+      "akort"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 172,
+    "kategori": "akustik",
+    "kelime": "ses kutusu",
+    "aciklama": "telli çalgılarda tellerin titreşim enerjisini havaya aktararak sesin güçlenmesini sağlayan içi boş ahşap gövde.",
+    "yasakli_kelimeler": [
+      "çalgı gövdesi",
+      "rezonans kutusu",
+      "ahşap",
+      "keman gövdesi",
+      "içi boş"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 173,
+    "kategori": "akustik",
+    "kelime": "ses tahtası",
+    "aciklama": "piyano veya arp gibi enstrümanlarda tellerin titreşimini geniş yüzeyiyle havaya yayarak tonu belirleyen ahşap plaka.",
+    "yasakli_kelimeler": [
+      "soundboard",
+      "piyano",
+      "ahşap plaka",
+      "tınlama",
+      "rezonans tahtası"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 174,
+    "kategori": "akustik",
+    "kelime": "akort",
+    "aciklama": "müzik aletlerindeki tellerin veya boruların doğru nota frekanslarına ayarlanması işlemi.",
+    "yasakli_kelimeler": [
+      "nota ayarı",
+      "düzenleme",
+      "çalgı ayarı",
+      "nota",
+      "kulak"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 175,
+    "kategori": "akustik",
+    "kelime": "akort çatalı",
+    "aciklama": "vurulduğunda referans olarak tam ve saf bir la notası frekansı üreten u biçimli metal çatal.",
+    "yasakli_kelimeler": [
+      "diyapazon",
+      "metal çatal",
+      "la notası",
+      "referans frekans",
+      "titreşim"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 176,
+    "kategori": "akustik",
+    "kelime": "saf ton",
+    "aciklama": "yalnızca tek bir frekanstan oluşan, harmonikleri ve üst tonları bulunmayan sinüzoidal ses dalgası.",
+    "yasakli_kelimeler": [
+      "tek frekans",
+      "sinüs dalgası",
+      "harmoniksiz",
+      "temiz ses",
+      "basit ton"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 177,
+    "kategori": "akustik",
+    "kelime": "karmaşık ses",
+    "aciklama": "farklı frekans, genlik ve fazlara sahip çok sayıda sinüs dalgasının üst üste binmesiyle oluşan doğal ses türü.",
+    "yasakli_kelimeler": [
+      "çok frekanslı",
+      "üst üste",
+      "karışık",
+      "doğal ses",
+      "harmonikler"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 178,
+    "kategori": "akustik",
+    "kelime": "fısıltı",
+    "aciklama": "ses tellerini titreştirmeden yalnızca ağız ve dudak hareketleriyle havanın sürtünmesi sonucu çıkarılan çok kısık konuşma sesi.",
+    "yasakli_kelimeler": [
+      "kısık ses",
+      "sessiz konuşma",
+      "kulaktan kulağa",
+      "yavaş ses",
+      "dudak"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 179,
+    "kategori": "akustik",
+    "kelime": "çığlık",
+    "aciklama": "korku, acı veya ani heyecan anında gırtlaktan son derece yüksek desibelle çıkan keskin ve tiz haykırış.",
+    "yasakli_kelimeler": [
+      "bağırma",
+      "haykırış",
+      "tiz ses",
+      "korku",
+      "yüksek ses"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 180,
+    "kategori": "akustik",
+    "kelime": "ses teli",
+    "aciklama": "gırtlakta bulunan ve akciğerlerden gelen havanın basıncıyla titreşerek insan sesini oluşturan kas dokusu çifti.",
+    "yasakli_kelimeler": [
+      "gırtlak",
+      "titreşen doku",
+      "insan sesi",
+      "vokal kord",
+      "boğaz"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 181,
+    "kategori": "akustik",
+    "kelime": "gırtlak",
+    "aciklama": "nefes borusunun üst kısmında yer alan ve içinde ses tellerini barındıran kıkırdak yapılı organ.",
+    "yasakli_kelimeler": [
+      "larenks",
+      "boğaz",
+      "nefes borusu",
+      "kıkırdak",
+      "ses kutusu"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 182,
+    "kategori": "akustik",
+    "kelime": "ses perdesi",
+    "aciklama": "bir sesin kulağa ne kadar tiz veya ne kadar pes geldiğini belirleyen algısal nitelik.",
+    "yasakli_kelimeler": [
+      "tizlik",
+      "peslik",
+      "pitch",
+      "nota yüksekliği",
+      "frekans algısı"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 183,
+    "kategori": "akustik",
+    "kelime": "perde",
+    "aciklama": "müzikte seslerin kalınlık veya incelik derecelerini belirleyen ses basamağı.",
+    "yasakli_kelimeler": [
+      "nota",
+      "ses basamağı",
+      "incelik",
+      "kalınlık",
+      "kademe"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 184,
+    "kategori": "akustik",
+    "kelime": "entonasyon",
+    "aciklama": "şarkı söylerken veya enstrüman çalarken notaların frekansını kusursuz ve tam yerinde basabilme doğruluğu.",
+    "yasakli_kelimeler": [
+      "nota tutturma",
+      "detone olmama",
+      "doğru ton",
+      "perde doğruluğu",
+      "vokal"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 185,
+    "kategori": "akustik",
+    "kelime": "kahverengi gürültü",
+    "aciklama": "frekans yükseldikçe enerjisi oktav başına hızla düşen ve şelale veya gök gürültüsü benzeri derin uğultu veren ses.",
+    "yasakli_kelimeler": [
+      "şelale sesi",
+      "derin uğultu",
+      "brown gürültüsü",
+      "kırmızı gürültü",
+      "bas gürültü"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 186,
+    "kategori": "akustik",
+    "kelime": "mavi gürültü",
+    "aciklama": "yüksek frekanslardaki enerjisi düşük frekanslara kıyasla daha yoğun olan ve ince tıslama hissi veren spektral gürültü.",
+    "yasakli_kelimeler": [
+      "tiz gürültü",
+      "spektrum",
+      "mavi",
+      "tıslama",
+      "renkli gürültü"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 187,
+    "kategori": "akustik",
+    "kelime": "dalga cephesi",
+    "aciklama": "kaynaktan yayılan bir dalganın aynı anda aynı fazda titreşen noktalarını birleştiren geometrik yüzey.",
+    "yasakli_kelimeler": [
+      "yüzey",
+      "faz noktaları",
+      "geometri",
+      "ilerleme sınırı",
+      "dalga ucu"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 188,
+    "kategori": "akustik",
+    "kelime": "akustik yansıtıcı",
+    "aciklama": "ses dalgalarını emmeden salonun arka sıralarına veya belirli noktalara yönlendirmek için kullanılan sert kavisli yüzey.",
+    "yasakli_kelimeler": [
+      "reflektör",
+      "kavisli panel",
+      "ses yönlendirme",
+      "konser salonu",
+      "sert plaka"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 189,
+    "kategori": "akustik",
+    "kelime": "sualtı akustiği",
+    "aciklama": "ses dalgalarının deniz ve okyanus sularındaki yayılımını, yansımasını ve balıkçılık ile denizaltılarda kullanımını inceleyen bilim.",
+    "yasakli_kelimeler": [
+      "deniz",
+      "okyanus",
+      "denizaltı",
+      "sonar bilimi",
+      "su içi ses"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 190,
+    "kategori": "akustik",
+    "kelime": "biyoakustik",
+    "aciklama": "hayvanların ses üretimi, ses algısı ve sesle iletişim kurma mekanizmalarını araştıran disiplinlerarası bilim dalı.",
+    "yasakli_kelimeler": [
+      "hayvan sesleri",
+      "biyoloji",
+      "kuş ötüşü",
+      "balina sesi",
+      "doğa akustiği"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 191,
+    "kategori": "akustik",
+    "kelime": "termoakustik",
+    "aciklama": "ısı enerjisi ile ses dalgaları arasındaki karşılıklı dönüşümü ve bu yolla çalışan motor ve soğutucuları inceleyen dal.",
+    "yasakli_kelimeler": [
+      "ısı",
+      "sıcaklık",
+      "dönüşüm",
+      "soğutucu",
+      "termodinamik"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 192,
+    "kategori": "akustik",
+    "kelime": "akustooptik",
+    "aciklama": "ses dalgalarının ışık dalgalarıyla etkileşimini ve sesin kırılma indisini değiştirerek ışığı saptırmasını inceleyen fizik dalı.",
+    "yasakli_kelimeler": [
+      "ışık",
+      "optik",
+      "lazer",
+      "etkileşim",
+      "ışık kırma"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 193,
+    "kategori": "akustik",
+    "kelime": "sonolüminesans",
+    "aciklama": "sıvı içerisindeki küçük gaz kabarcıklarının yüksek frekanslı ultrasonik ses dalgalarıyla patlaması sonucu ışık yayması olayı.",
+    "yasakli_kelimeler": [
+      "sıvı patlaması",
+      "kabarcık",
+      "ultrason",
+      "ışık yayma",
+      "parlama"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 194,
+    "kategori": "akustik",
+    "kelime": "ses tüneli",
+    "aciklama": "ses dalgalarının dağılmadan veya zayıflamadan çok uzak mesafelere iletilmesini sağlayan dar fiziksel kanal veya akustik kılavuz.",
+    "yasakli_kelimeler": [
+      "dalga kılavuzu",
+      "dar yol",
+      "ses iletimi",
+      "kanal",
+      "akustik boru"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 195,
+    "kategori": "akustik",
+    "kelime": "akustik yorulma",
+    "aciklama": "uçak gövdeleri veya roket motorları gibi yapıların aşırı yüksek ses basıncı titreşimlerine maruz kalarak zamanla çatlaması.",
+    "yasakli_kelimeler": [
+      "malzeme çatlaması",
+      "titreşim hasarı",
+      "roket",
+      "aşırı ses",
+      "yıpranma"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 196,
+    "kategori": "akustik",
+    "kelime": "ses borusu",
+    "aciklama": "gemi kamaraları veya eski binalar arasında konuşma sesini doğrudan iletmek için kullanılan metal boru düzeneği.",
+    "yasakli_kelimeler": [
+      "gemi",
+      "iletişim borusu",
+      "konuşma borusu",
+      "metal tüp",
+      "haberleşme"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 197,
+    "kategori": "akustik",
+    "kelime": "ses aynası",
+    "aciklama": "radar icat edilmeden önce yaklaşan düşman uçaklarının motor seslerini odaklayıp duymak için inşa edilmiş büyük beton parabolik yapılar.",
+    "yasakli_kelimeler": [
+      "beton çanak",
+      "parabolik ayna",
+      "uçak sesi",
+      "radar öncesi",
+      "odaklama"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 198,
+    "kategori": "akustik",
+    "kelime": "ses tuzağı",
+    "aciklama": "havalandırma kanallarına veya borulara yerleştirilerek hava akışını engellemeden ses yayılımını soğuran susturucu düzenek.",
+    "yasakli_kelimeler": [
+      "susturucu",
+      "havalandırma",
+      "menfez",
+      "gürültü kesici",
+      "kanal"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 199,
+    "kategori": "akustik",
+    "kelime": "rüzgar gürültüsü",
+    "aciklama": "açık havada mikrofon diyaframına çarpan hava akımının sebep olduğu düşük frekanslı boğucu uğultu ve parazit.",
+    "yasakli_kelimeler": [
+      "hava akımı",
+      "rüzgarlık",
+      "mikrofon uğultusu",
+      "esinti",
+      "açık hava"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 200,
+    "kategori": "akustik",
+    "kelime": "patlama dalgası",
+    "aciklama": "ani kimyasal veya nükleer infilak neticesinde ses hızını aşarak çevresine yıkıcı darbe uygulayan şok dalgası cephesi.",
+    "yasakli_kelimeler": [
+      "infilak",
+      "şok cephesi",
+      "yıkıcı darbe",
+      "patlama",
+      "basınç darbesi"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "kategori": "akustik",
+    "kelime": "ses yankılanmak",
+    "aciklama": "ses dalgalarının sert bir engele çarpıp geri dönmesi",
+    "yasakli_kelimeler": [
+      "eko",
+      "duvar",
+      "boşluk",
+      "mağara",
+      "bağırmak"
+    ],
+    "zorluk": "kolay",
+    "id": 201
+  },
+  {
+    "kategori": "akustik",
+    "kelime": "ses yalıtmak",
+    "aciklama": "sesin dışarı çıkmasını veya içeri girmesini engellemek",
+    "yasakli_kelimeler": [
+      "izolasyon",
+      "sünger",
+      "gürültü",
+      "panel",
+      "geçirmez"
+    ],
+    "zorluk": "kolay",
+    "id": 202
+  },
+  {
+    "kategori": "akustik",
+    "kelime": "gürültü ölçmek",
+    "aciklama": "ortamdaki rahatsız edici ses seviyesini desibel aletiyle saptamak",
+    "yasakli_kelimeler": [
+      "desibel",
+      "cihaz",
+      "seviye",
+      "ortam",
+      "rahatsız"
+    ],
+    "zorluk": "kolay",
+    "id": 203
+  },
+  {
+    "kategori": "akustik",
+    "kelime": "hoparlör ayarlamak",
+    "aciklama": "ses çıkış cihazının tiz, bas ve ses gücünü düzenlemek",
+    "yasakli_kelimeler": [
+      "bas",
+      "tiz",
+      "ses",
+      "amfi",
+      "düğme"
+    ],
+    "zorluk": "kolay",
+    "id": 204
+  },
+  {
+    "kategori": "akustik",
+    "kelime": "mikrofon bağlamak",
+    "aciklama": "ses alıcı cihazı amfi veya ses kartına takmak",
+    "yasakli_kelimeler": [
+      "kablo",
+      "ses kartı",
+      "amfi",
+      "giriş",
+      "cihaz"
+    ],
+    "zorluk": "kolay",
+    "id": 205
+  },
+  {
+    "kategori": "akustik",
+    "kelime": "akort etmek",
+    "aciklama": "enstrümanın tellerini doğru ses frekansına getirmek",
+    "yasakli_kelimeler": [
+      "nota",
+      "tel",
+      "ayar",
+      "frekans",
+      "kulak"
+    ],
+    "zorluk": "kolay",
+    "id": 206
+  },
+  {
+    "kategori": "akustik",
+    "kelime": "ses kaydetmek",
+    "aciklama": "ortamdaki konuşma veya müziği depolama ortamına aktarmak",
+    "yasakli_kelimeler": [
+      "mikrofon",
+      "stüdyo",
+      "bant",
+      "kayıt",
+      "hafıza"
+    ],
+    "zorluk": "kolay",
+    "id": 207
+  },
+  {
+    "kategori": "akustik",
+    "kelime": "frekans üretmek",
+    "aciklama": "hoparlör veya sinyal jeneratörüyle belirli titreşimde ses dalgası yaymak",
+    "yasakli_kelimeler": [
+      "dalga",
+      "hertz",
+      "titreşim",
+      "sinyal",
+      "osilatör"
+    ],
+    "zorluk": "kolay",
+    "id": 208
+  },
+  {
+    "kategori": "akustik",
+    "kelime": "kulağı tıkamak",
+    "aciklama": "yüksek sesten korunmak için kulak tıkacı takmak",
+    "yasakli_kelimeler": [
+      "tıkaç",
+      "gürültü",
+      "koruma",
+      "ses",
+      "kapatmak"
+    ],
+    "zorluk": "kolay",
+    "id": 209
+  },
+  {
+    "kategori": "akustik",
+    "kelime": "sesi kısmak",
+    "aciklama": "cihazın çıkış gücünü azaltarak ses şiddetini düşürmek",
+    "yasakli_kelimeler": [
+      "düğme",
+      "azaltmak",
+      "şiddet",
+      "kumanda",
+      "sessiz"
+    ],
+    "zorluk": "kolay",
+    "id": 210
+  },
+  {
+    "kategori": "akustik",
+    "kelime": "titreşmek",
+    "aciklama": "ses çıkaran bir cismin ileri geri hızla gidip gelmesi",
+    "yasakli_kelimeler": [
+      "salınım",
+      "dalga",
+      "diyapazon",
+      "tel",
+      "hareket"
+    ],
+    "zorluk": "kolay",
+    "id": 211
+  },
+  {
+    "kategori": "akustik",
+    "kelime": "ses yükseltmek",
+    "aciklama": "amfi yardımıyla ses seviyesini daha duyulur hale getirmek",
+    "yasakli_kelimeler": [
+      "amfi",
+      "şiddet",
+      "volüm",
+      "artırmak",
+      "hoparlör"
+    ],
+    "zorluk": "kolay",
+    "id": 212
+  },
+  {
+    "kategori": "akustik",
+    "kelime": "rezonansa girmek",
+    "aciklama": "dış frekans ile cismin doğal frekansının çakışıp genliğin büyümesi",
+    "yasakli_kelimeler": [
+      "frekans",
+      "çakışma",
+      "titreşim",
+      "genlik",
+      "salınım"
+    ],
+    "zorluk": "orta",
+    "id": 213
+  },
+  {
+    "kategori": "akustik",
+    "kelime": "desibel hesaplamak",
+    "aciklama": "ses şiddeti düzeyini logaritmik ölçekte bulmak",
+    "yasakli_kelimeler": [
+      "logaritma",
+      "şiddet",
+      "ölçü",
+      "oran",
+      "basınç"
+    ],
+    "zorluk": "orta",
+    "id": 214
+  },
+  {
+    "kategori": "akustik",
+    "kelime": "ses emmek",
+    "aciklama": "gözenekli akustik malzemelerle ses dalgasının enerjisini yutmak",
+    "yasakli_kelimeler": [
+      "yutucu",
+      "akustik sünger",
+      "enerji",
+      "panel",
+      "panel"
+    ],
+    "zorluk": "orta",
+    "id": 215
+  },
+  {
+    "kategori": "akustik",
+    "kelime": "çınlama yapmak",
+    "aciklama": "kulakta veya kapalı bir mekanda tiz ve sürekli bir ses oluşması",
+    "yasakli_kelimeler": [
+      "tinnitus",
+      "kulak",
+      "tiz",
+      "feedback",
+      "uğultu"
+    ],
+    "zorluk": "orta",
+    "id": 216
+  },
+  {
+    "kategori": "akustik",
+    "kelime": "akustik modellemek",
+    "aciklama": "bir salonun veya odanın ses yayılımını bilgisayarda simüle etmek",
+    "yasakli_kelimeler": [
+      "salon",
+      "simülasyon",
+      "yazılım",
+      "oda",
+      "ışın"
+    ],
+    "zorluk": "orta",
+    "id": 217
+  },
+  {
+    "kategori": "akustik",
+    "kelime": "faz farkı ölçmek",
+    "aciklama": "iki ses dalgası arasındaki zaman veya açısal kaymayı saptamak",
+    "yasakli_kelimeler": [
+      "dalga",
+      "açı",
+      "kayma",
+      "senkron",
+      "periyot"
+    ],
+    "zorluk": "orta",
+    "id": 218
+  },
+  {
+    "kategori": "akustik",
+    "kelime": "harmonik üretmek",
+    "aciklama": "ana frekansın tam katlarında üst ses titreşimleri oluşturmak",
+    "yasakli_kelimeler": [
+      "üst ses",
+      "kat",
+      "tını",
+      "frekans",
+      "nota"
+    ],
+    "zorluk": "orta",
+    "id": 219
+  },
+  {
+    "kategori": "akustik",
+    "kelime": "doppler kayması yaşamak",
+    "aciklama": "kaynağın hareketi nedeniyle algılanan ses frekansının değişmesi",
+    "yasakli_kelimeler": [
+      "hareket",
+      "ambulans",
+      "kaynak",
+      "tiz",
+      "frekans"
+    ],
+    "zorluk": "orta",
+    "id": 220
+  },
+  {
+    "kategori": "akustik",
+    "kelime": "ses kırmak",
+    "aciklama": "ses dalgasının farklı yoğunluktaki ortamlardan geçerken doğrultu değiştirmesi",
+    "yasakli_kelimeler": [
+      "ortam",
+      "doğrultu",
+      "sıcaklık",
+      "hava",
+      "dalga"
+    ],
+    "zorluk": "orta",
+    "id": 221
+  },
+  {
+    "kategori": "akustik",
+    "kelime": "ekolayzır ayarlamak",
+    "aciklama": "farklı frekans bantlarındaki ses seviyelerini ayrı ayrı dengelemek",
+    "yasakli_kelimeler": [
+      "frekans",
+      "bant",
+      "bas",
+      "tiz",
+      "mikser"
+    ],
+    "zorluk": "orta",
+    "id": 222
+  },
+  {
+    "kategori": "akustik",
+    "kelime": "titreşim sönümlemek",
+    "aciklama": "mekanik sarsıntı ve titreşimin yayılmasını amortisör veya kauçukla durdurmak",
+    "yasakli_kelimeler": [
+      "amortisör",
+      "kauçuk",
+      "sarsıntı",
+      "yayılma",
+      "izolatör"
+    ],
+    "zorluk": "orta",
+    "id": 223
+  },
+  {
+    "kategori": "akustik",
+    "kelime": "tını ayrıştırmak",
+    "aciklama": "aynı notayı çalan farklı enstrümanların ses rengini ayırt etmek",
+    "yasakli_kelimeler": [
+      "ses rengi",
+      "enstrüman",
+      "nota",
+      "karakter",
+      "kulak"
+    ],
+    "zorluk": "orta",
+    "id": 224
+  },
+  {
+    "kategori": "akustik",
+    "kelime": "gürültü maskelemek",
+    "aciklama": "rahatsız edici sesleri arka plana beyaz gürültü vererek bastırmak",
+    "yasakli_kelimeler": [
+      "beyaz gürültü",
+      "arka plan",
+      "bastırmak",
+      "fon",
+      "uyku"
+    ],
+    "zorluk": "orta",
+    "id": 225
+  },
+  {
+    "kategori": "akustik",
+    "kelime": "ses saçılmak",
+    "aciklama": "ses dalgasının pürüzlü difüzör yüzeylere çarparak her yöne dağılması",
+    "yasakli_kelimeler": [
+      "difüzör",
+      "dağılmak",
+      "yüzey",
+      "homojen",
+      "pürüz"
+    ],
+    "zorluk": "orta",
+    "id": 226
+  },
+  {
+    "kategori": "akustik",
+    "kelime": "arka plan filtrelemek",
+    "aciklama": "mikrofon kaydındaki çevre gürültülerini yazılımla temizlemek",
+    "yasakli_kelimeler": [
+      "yazılım",
+      "gürültü engelleme",
+      "temizlemek",
+      "dip ses",
+      "filtre"
+    ],
+    "zorluk": "orta",
+    "id": 227
+  },
+  {
+    "kategori": "akustik",
+    "kelime": "kalibrasyon yapmak",
+    "aciklama": "ses ölçüm cihazlarını referans desibel kaynağına göre sıfırlamak",
+    "yasakli_kelimeler": [
+      "referans",
+      "ayar",
+      "cihaz",
+      "standart",
+      "doğruluk"
+    ],
+    "zorluk": "orta",
+    "id": 228
+  },
+  {
+    "kategori": "akustik",
+    "kelime": "ses bükülmek",
+    "aciklama": "ses dalgalarının engellerin etrafından veya yarıklardan dolanarak geçmesi",
+    "yasakli_kelimeler": [
+      "kırınım",
+      "difraksiyon",
+      "engel",
+      "dolanmak",
+      "yarık"
+    ],
+    "zorluk": "orta",
+    "id": 229
+  },
+  {
+    "kategori": "akustik",
+    "kelime": "kulak tıkacı takmak",
+    "aciklama": "yüksek gürültülü endüstriyel ortamlarda işitme sağlığını korumak",
+    "yasakli_kelimeler": [
+      "işitme",
+      "fabrika",
+      "koruyucu",
+      "sünger",
+      "desibel"
+    ],
+    "zorluk": "orta",
+    "id": 230
+  },
+  {
+    "kategori": "akustik",
+    "kelime": "ses haritası çıkarmak",
+    "aciklama": "bir şehrin veya tesisin gürültü dağılım bölgelerini haritalandırmak",
+    "yasakli_kelimeler": [
+      "gürültü",
+      "şehir",
+      "dağılım",
+      "bölge",
+      "grafik"
+    ],
+    "zorluk": "orta",
+    "id": 231
+  },
+  {
+    "kategori": "akustik",
+    "kelime": "dinleme testi yapmak",
+    "aciklama": "bireyin farklı frekanslardaki işitme eşiğini odyometriyle ölçmek",
+    "yasakli_kelimeler": [
+      "odyometri",
+      "işitme eşiği",
+      "kulaklık",
+      "frekans",
+      "doktor"
+    ],
+    "zorluk": "orta",
+    "id": 232
+  },
+  {
+    "kategori": "akustik",
+    "kelime": "dip ses almak",
+    "aciklama": "stüdyoda cihazların veya ortamın ürettiği istenmeyen sürekli vızıltıyı duymak",
+    "yasakli_kelimeler": [
+      "vızıltı",
+      "hum",
+      "kayıt",
+      "gürültü",
+      "stüdyo"
+    ],
+    "zorluk": "orta",
+    "id": 233
+  },
+  {
+    "kategori": "akustik",
+    "kelime": "ses yayılmak",
+    "aciklama": "basınç dalgalarının hava veya katı madde içinde küresel olarak ilerlemesi",
+    "yasakli_kelimeler": [
+      "dalga",
+      "hava",
+      "hız",
+      "küresel",
+      "madde"
+    ],
+    "zorluk": "orta",
+    "id": 234
+  },
+  {
+    "kategori": "akustik",
+    "kelime": "yankı süresi ölçmek",
+    "aciklama": "kapalı bir hacimde sesin kesildikten sonra 60 desibel sönme süresini bulmak",
+    "yasakli_kelimeler": [
+      "rt60",
+      "sönüm",
+      "oda",
+      "saniye",
+      "akustik"
+    ],
+    "zorluk": "orta",
+    "id": 235
+  },
+  {
+    "kategori": "akustik",
+    "kelime": "feedback kesmek",
+    "aciklama": "mikrofon ile hoparlör arasındaki döngüden kaynaklanan ötme sesini engellemek",
+    "yasakli_kelimeler": [
+      "ötme",
+      "döngü",
+      "mikser",
+      "hoparlör",
+      "tiz"
+    ],
+    "zorluk": "orta",
+    "id": 236
+  },
+  {
+    "kategori": "akustik",
+    "kelime": "fourier dönüştürmek",
+    "aciklama": "karmaşık bir ses sinyalini frekans bileşenlerine matematiksel olarak ayırmak",
+    "yasakli_kelimeler": [
+      "fft",
+      "spektrum",
+      "sinyal",
+      "matematik",
+      "dönüşüm"
+    ],
+    "zorluk": "zor",
+    "id": 237
+  },
+  {
+    "kategori": "akustik",
+    "kelime": "sonik patlama yaratmak",
+    "aciklama": "ses hızını aşan nesnelerin şok dalgası üreterek patlama sesi çıkarması",
+    "yasakli_kelimeler": [
+      "mach",
+      "şok dalgası",
+      "jet",
+      "ses hızı",
+      "patlama"
+    ],
+    "zorluk": "zor",
+    "id": 238
+  },
+  {
+    "kategori": "akustik",
+    "kelime": "ultrason yaymak",
+    "aciklama": "insan kulağının duyamayacağı 20 bin hertz üzeri yüksek frekanslı ses dalgası üretmek",
+    "yasakli_kelimeler": [
+      "yüksek frekans",
+      "tıbbi",
+      "prob",
+      "dalga",
+      "hertz"
+    ],
+    "zorluk": "zor",
+    "id": 239
+  },
+  {
+    "kategori": "akustik",
+    "kelime": "infrases algılamak",
+    "aciklama": "20 hertz altındaki insan işitme sınırının altındaki titreşimleri saptamak",
+    "yasakli_kelimeler": [
+      "düşük frekans",
+      "deprem",
+      "fil",
+      "titreşim",
+      "sınır"
+    ],
+    "zorluk": "zor",
+    "id": 240
+  },
+  {
+    "kategori": "akustik",
+    "kelime": "kavitasyon oluşturmak",
+    "aciklama": "yüksek şiddetli ultrasonik dalgaların sıvılarda mikro kabarcık patlaması yapması",
+    "yasakli_kelimeler": [
+      "kabarcık",
+      "sıvı",
+      "ultrason",
+      "basınç",
+      "temizleme"
+    ],
+    "zorluk": "zor",
+    "id": 241
+  },
+  {
+    "kategori": "akustik",
+    "kelime": "empedans eşlemek",
+    "aciklama": "ses dalgasının iki ortam arasında yansımasız geçişi için akustik dirençleri uydurmak",
+    "yasakli_kelimeler": [
+      "direnç",
+      "ortam",
+      "yansıma",
+      "akustik",
+      "geçiş"
+    ],
+    "zorluk": "zor",
+    "id": 242
+  },
+  {
+    "kategori": "akustik",
+    "kelime": "huzme oluşturmak",
+    "aciklama": "birden fazla mikrofon veya hoparlör dizisiyle sesi belirli bir yöne odaklamak",
+    "yasakli_kelimeler": [
+      "beamforming",
+      "odaklama",
+      "dizi",
+      "yönlendirme",
+      "faz"
+    ],
+    "zorluk": "zor",
+    "id": 243
+  },
+  {
+    "kategori": "akustik",
+    "kelime": "spektrogram çizdirmek",
+    "aciklama": "ses frekanslarının zaman içindeki enerji yoğunluğunu 3 boyutlu grafikle göstermek",
+    "yasakli_kelimeler": [
+      "frekans",
+      "yoğunluk",
+      "grafik",
+      "zaman",
+      "enerji"
+    ],
+    "zorluk": "zor",
+    "id": 244
+  },
+  {
+    "kategori": "akustik",
+    "kelime": "oda modu hesaplamak",
+    "aciklama": "odanın boyutlarına bağlı duran dalga rezonans frekanslarını bulmak",
+    "yasakli_kelimeler": [
+      "duran dalga",
+      "rezonans",
+      "oda",
+      "boyut",
+      "düğüm"
+    ],
+    "zorluk": "zor",
+    "id": 245
+  },
+  {
+    "kategori": "akustik",
+    "kelime": "anti faz üretmek",
+    "aciklama": "aktif gürültü engelleme kulaklıklarında gelen sesin tam tersi dalgasını yaymak",
+    "yasakli_kelimeler": [
+      "gürültü engelleme",
+      "ters dalga",
+      "yok etme",
+      "kulaklık",
+      "faz"
+    ],
+    "zorluk": "zor",
+    "id": 246
+  },
+  {
+    "kategori": "akustik",
+    "kelime": "sonogram analiz etmek",
+    "aciklama": "ses dalgalarının dokulardan yansımasıyla oluşan akustik görüntüyü incelemek",
+    "yasakli_kelimeler": [
+      "tıbbi görüntü",
+      "dokulardan",
+      "ultrason",
+      "inceleme",
+      "tarama"
+    ],
+    "zorluk": "zor",
+    "id": 247
+  },
+  {
+    "kategori": "akustik",
+    "kelime": "ses basınç düzeyi bulmak",
+    "aciklama": "hava basıncındaki dalgalanmayı referans mikro paskal değerine göre oranlamak",
+    "yasakli_kelimeler": [
+      "spl",
+      "paskal",
+      "basınç",
+      "mikrofon",
+      "ölçüm"
+    ],
+    "zorluk": "zor",
+    "id": 248
+  },
+  {
+    "kategori": "akustik",
+    "kelime": "anekoik ölçüm yapmak",
+    "aciklama": "tüm duvarları ses yutucu kamalarla kaplı sıfır yansımalı odada deney yapmak",
+    "yasakli_kelimeler": [
+      "yankısız oda",
+      "sıfır yansıma",
+      "kama",
+      "izolasyon",
+      "hoparlör"
+    ],
+    "zorluk": "zor",
+    "id": 249
+  },
+  {
+    "kategori": "akustik",
+    "kelime": "piezoelektrik uyarmak",
+    "aciklama": "kristallere voltaj vererek ultrasonik ses dalgası titreşimi oluşturmak",
+    "yasakli_kelimeler": [
+      "kristal",
+      "voltaj",
+      "transduser",
+      "dönüştürücü",
+      "titreşim"
+    ],
+    "zorluk": "zor",
+    "id": 250
   }
 ]

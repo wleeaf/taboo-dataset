@@ -1,0 +1,122 @@
+# -*- coding: utf-8 -*-
+from card_utils import add_and_save_verbs
+
+pediyatri_verbs = [
+    # Kolay (12)
+    {"kelime": "muayene etmek", "aciklama": "çocuk doktorunun steteskopla minik hastanın kalbini ve ciğerini dinlemesi", "yasakli_kelimeler": ["steteskop", "dinlemek", "doktor", "çocuk", "hasta"], "zorluk": "kolay"},
+    {"kelime": "aşı yapmak", "aciklama": "bebeği bulaşıcı hastalıklardan korumak için kola veya bacağa iğne vurmak", "yasakli_kelimeler": ["iğne", "bebek", "bulaşıcı", "koruma", "kol"], "zorluk": "kolay"},
+    {"kelime": "ateş ölçmek", "aciklama": "dereceyle çocuğun kulaktan veya alından vücut sıcaklığını bulmak", "yasakli_kelimeler": ["derece", "termometre", "sıcaklık", "alın", "kulak"], "zorluk": "kolay"},
+    {"kelime": "boyunu ölçmek", "aciklama": "bebeği mezuraya yatırıp topuktan başa santimetre olarak uzatmak", "yasakli_kelimeler": ["santimetre", "mezura", "uzunluk", "bebek", "ölçüm"], "zorluk": "kolay"},
+    {"kelime": "tartmak", "aciklama": "çıplak bebeği hassas bebek terazisine koyup gramajını kaydetmek", "yasakli_kelimeler": ["terazi", "kilo", "gram", "bebek", "tartı"], "zorluk": "kolay"},
+    {"kelime": "boğazına bakmak", "aciklama": "tahta abeslang çubuğuyla dili bastırıp bademciklerdeki kızarıklığı görmek", "yasakli_kelimeler": ["abeslang", "tahta çubuk", "bademcik", "kızarıklık", "dil"], "zorluk": "kolay"},
+    {"kelime": "şurup içirmek", "aciklama": "ölçekli kaşık veya şırıngayla tatlı öksürük ilacını çocuğa vermek", "yasakli_kelimeler": ["ilaç", "ölçek", "kaşık", "tatlı", "öksürük"], "zorluk": "kolay"},
+    {"kelime": "emzirmek", "aciklama": "annenin bebeğine göğsünden ilk anne sütünü vermesi", "yasakli_kelimeler": ["anne sütü", "göğüs", "bebek", "beslenme", "mama"], "zorluk": "kolay"},
+    {"kelime": "gazını çıkarmak", "aciklama": "emzirme sonrası bebeği omuza yatırıp sırtına hafifçe vurmak", "yasakli_kelimeler": ["omuz", "sırt", "vurmak", "geğirme", "rahatlama"], "zorluk": "kolay"},
+    {"kelime": "ağlamak", "aciklama": "bebeğin acıktığında veya altı kirlendiğinde sesli gözyaşı dökmesi", "yasakli_kelimeler": ["gözyaşı", "ses", "acıktım", "bebek", "huzursuzluk"], "zorluk": "kolay"},
+    {"kelime": "diş çıkarmak", "aciklama": "bebeğin damağını yararak ilk süt dişinin beyaz şekilde belirmesi", "yasakli_kelimeler": ["süt dişi", "damak", "kaşıntı", "salya", "ateş"], "zorluk": "kolay"},
+    {"kelime": "kulak muayenesi yapmak", "aciklama": "otoskop ışığıyla kulak zarına bakıp orta kulak iltihabını kontrol etmek", "yasakli_kelimeler": ["otoskop", "kulak zarı", "ışık", "iltihap", "ağrı"], "zorluk": "kolay"},
+
+    # Orta (24)
+    {"kelime": "persentil eğrisine çizmek", "aciklama": "çocuğun büyüme hızını yaş ve cinsiyet standart gelişim grafiğine işlemek", "yasakli_kelimeler": ["büyüme eğrisi", "grafik", "yüzdelik", "gelişim", "yaşıt"], "zorluk": "orta"},
+    {"kelime": "baş çevresi ölçmek", "aciklama": "mezurayla bebeğin kafa çevresini milimetrik takip edip hidrosefaliyi dışlamak", "yasakli_kelimeler": ["kafa çevresi", "mezura", "hidrosefali", "milimetre", "beyin gelişimi"], "zorluk": "orta"},
+    {"kelime": "bıngıldak kontrol etmek", "aciklama": "bebeğin kafa kemikleri arasındaki yumuşak fontaneli parmakla yoklamak", "yasakli_kelimeler": ["fontanel", "yumuşak doku", "kafatası", "çökme", "kapanma"], "zorluk": "orta"},
+    {"kelime": "apgar skorunu vermek", "aciklama": "doğumun ilk ve beşinci dakikasında kalp, solunum ve refleksleri puanlamak", "yasakli_kelimeler": ["doğum odası", "ilk dakika", "puanlama", "solunum", "bebek durumu"], "zorluk": "orta"},
+    {"kelime": "sarılık ölçmek", "aciklama": "bebeğin cildindeki sarı rengi transkutan bilirubin cihazıyla okumak", "yasakli_kelimeler": ["bilirubin", "yenidoğan", "sarı cilt", "fototerapi", "cihaz"], "zorluk": "orta"},
+    {"kelime": "fototerapiye almak", "aciklama": "sarılığı yüksek bebeği küvözde mavi dalga boylu ışık altına yatırmak", "yasakli_kelimeler": ["mavi ışık", "küvöz", "göz bandı", "bilirubin parçalama", "yenidoğan"], "zorluk": "orta"},
+    {"kelime": "topuk kanı almak", "aciklama": "doğuştan gelen metabolik hastalıkları taramak için filtre kağıdına kan damlatmak", "yasakli_kelimeler": ["guthrie", "fenilketonüri", "filtre kağıdı", "tarama testi", "topuk"], "zorluk": "orta"},
+    {"kelime": "moro refleksine bakmak", "aciklama": "bebeğin başı aniden geriye bırakıldığında kollarını iki yana açmasını izlemek", "yasakli_kelimeler": ["kolları açma", "ilkel refleks", "irkilme", "yenidoğan muayenesi", "kolları sarılma"], "zorluk": "orta"},
+    {"kelime": "yakalama refleksini test", "aciklama": "bebeğin avucuna parmak dokundurulduğunda sımsıkı kavramasını gözlemlemek", "yasakli_kelimeler": ["palmar", "avuç içi", "kavrama", "parmak", "ilkel"], "zorluk": "orta"},
+    {"kelime": "kolik sancısını dindirmek", "aciklama": "akşam saatlerinde durmaksızın ağlayan bebeğe beyaz gürültü ve masaj yapmak", "yasakli_kelimeler": ["gaz sancısı", "akşam ağlaması", "beyaz gürültü", "masaj", "bacakları karına çekme"], "zorluk": "orta"},
+    {"kelime": "küvöze koymak", "aciklama": "erken doğan prematüre bebeği sıcak ve nemi ayarlı cam koruma ünitesine almak", "yasakli_kelimeler": ["prematüre", "erken doğum", "cam ünite", "sıcaklık kontrolü", "yoğun bakım"], "zorluk": "orta"},
+    {"kelime": "ek gıdaya başlatmak", "aciklama": "altıncı aydan itibaren anne sütüne ek olarak sebze püresi ve yoğurt tattırmak", "yasakli_kelimeler": ["6. ay", "sebze püresi", "tadım", "yoğurt", "katı gıda"], "zorluk": "orta"},
+    {"kelime": "febril konvülsiyon yönetmek", "aciklama": "yüksek ateşle nöbet geçiren çocuğun hava yolunu açıp havaleyi durdurmak", "yasakli_kelimeler": ["havale", "yüksek ateş", "nöbet", "hava yolu", "fitil"], "zorluk": "orta"},
+    {"kelime": "krup atağını rahatlatmak", "aciklama": "havlar tarzda öksürük ve hırıltısı olan çocuğa soğuk buhar vermek", "yasakli_kelimeler": ["havlar öksürük", "soğuk buhar", "larenks", "stridor", "nefes darlığı"], "zorluk": "orta"},
+    {"kelime": "kaka tahlili istemek", "aciklama": "ishal ve kusması olan çocukta amip ve rotavirüs varlığını araştırmak", "yasakli_kelimeler": ["gaita", "ishal", "rotavirüs", "amip", "mikroskopi"], "zorluk": "orta"},
+    {"kelime": "serum takmak", "aciklama": "sıvı kaybeden susuz kalmış bebeğin damarına kelebek iğneyle sıvı bağlamak", "yasakli_kelimeler": ["dehidratasyon", "damar yolu", "kelebek iğne", "izotonik", "sıvı kaybı"], "zorluk": "orta"},
+    {"kelime": "astım atağında nebül vermek", "aciklama": "hırıltılı bronşiti olan çocuğa maskeyle bronş açıcı buhar solutmak", "yasakli_kelimeler": ["nebülizatör", "maske", "ventolin", "buhar", "hırıltı"], "zorluk": "orta"},
+    {"kelime": "d vitamini damlatmak", "aciklama": "kemik erimesi ve raşitizmi önlemek için bebeğe her gün damla vermek", "yasakli_kelimeler": ["raşitizm", "kemik gelişimi", "damla", "güneş", "bebeklik"], "zorluk": "orta"},
+    {"kelime": "demir takviyesi başlamak", "aciklama": "kansızlığı önlemek amacıyla dördüncü aydan sonra demir damlası vermek", "yasakli_kelimeler": ["anemi", "kansızlık", "ferritin", "damla", "4. ay"], "zorluk": "orta"},
+    {"kelime": "kalça ultrasonu çektirmek", "aciklama": "doğuştan kalça çıkıklığını erkenden yakalamak için ultrasonla asetabuluma bakmak", "yasakli_kelimeler": ["kalça çıkığı", "graf yöntemi", "asetabulum", "kundak zararı", "ultrason"], "zorluk": "orta"},
+    {"kelime": "pişik kremi sürmek", "aciklama": "ıslak bezin tahriş ettiği kalça derisine çinko oksitli merhem yaymak", "yasakli_kelimeler": ["çinko oksit", "tahriş", "kızarıklık", "bez bölgesi", "merhem"], "zorluk": "orta"},
+    {"kelime": "düşmeyen ateşe müdahale", "aciklama": "parasetamol ve ibuprofen dönüşümlü verip ılık duş aldırmak", "yasakli_kelimeler": ["ılık duş", "parasetamol", "ibuprofen", "dönüşümlü", "şurup"], "zorluk": "orta"},
+    {"kelime": "tonsilit teşhisi koymak", "aciklama": "bademciklerin üzerinde beyaz kriptik plaklar ve lenf şişliği saptamak", "yasakli_kelimeler": ["bademcik iltihabı", "kriptik", "beyaz plak", "boğaz ağrısı", "streptokok"], "zorluk": "orta"},
+    {"kelime": "reflü yatağına yatırmak", "aciklama": "mide içeriğinin yemek borusuna kaçmaması için bebeği eğimli süngere koymak", "yasakli_kelimeler": ["eğimli sünger", "kusma", "mide asidi", "fışkırır kusma", "bebek yatağı"], "zorluk": "orta"},
+
+    # Zor (14)
+    {"kelime": "sürfaktan inhale ettirmek", "aciklama": "solunum sıkıntısı çeken prematüre bebeğin akciğer alveollerine endotrakeal tüpten sıvı vermek", "yasakli_kelimeler": ["rds", "prematüre akciğer", "alveol kollapsı", "endotrakeal", "solunum sıkıntısı"], "zorluk": "zor"},
+    {"kelime": "kan değişimi yapmak", "aciklama": "aşırı yüksek bilirubin beyne çökmesin diye göbek kordonu kateteriyle bebeğin kanını yenilemek", "yasakli_kelimeler": ["exchange transfüzyon", "kernikterus", "göbek kateteri", "aşırı bilirubin", "tüm kan"], "zorluk": "zor"},
+    {"kelime": "intussusepsiyonu açmak", "aciklama": "bağırsağın teleskop gibi kendi içine geçmesini hava veya baryum lavmanıyla düzeltmek", "yasakli_kelimeler": ["bağırsak düğümlenmesi", "çilek jölesi kaka", "hava lavmanı", "teleskop", "invajinasyon"], "zorluk": "zor"},
+    {"kelime": "pilor stenozunu saptamak", "aciklama": "mide çıkış kasının kalınlaşmasıyla fışkırır tarzda safrasız kusan bebeği cerrahiye vermek", "yasakli_kelimeler": ["fışkırır kusma", "zeytin kitle", "mide çıkışı", "ramstedt", "safrasız"], "zorluk": "zor"},
+    {"kelime": "kawasaki kriterlerini taramak", "aciklama": "5 günden uzun ateş, çilek dili, konjonktivit ve koroner anevrizma riskini değerlendirmek", "yasakli_kelimeler": ["çilek dili", "vaskülit", "koroner anevrizma", "5 gün ateş", "soyulma"], "zorluk": "zor"},
+    {"kelime": "mekonyum aspirasyonunu temizlemek", "aciklama": "bebeğin anne karnında yuttuğu ilk katranımsı kakayı trakeadan hızla aspire etmek", "yasakli_kelimeler": ["ilk kaka", "aspirasyon", "katranımsı", "doğum anı", "asfiksi"], "zorluk": "zor"},
+    {"kelime": "pda kapatmak", "aciklama": "aort ile pulmoner arter arasındaki açık kalan damar kanalını ilaçla veya koille tıkamak", "yasakli_kelimeler": ["patent duktus arteriyozus", "indometazin", "makine üfürümü", "açık kanal", "kalp"], "zorluk": "zor"},
+    {"kelime": "büyüme hormonu stimülasyonu", "aciklama": "boy kısalığı olan çocukta klonidin veya l-dopa ile hipofiz hormon yanıtını ölçmek", "yasakli_kelimeler": ["boy kısalığı", "klonidin", "hipofiz", "pik değer", "kemik yaşı"], "zorluk": "zor"},
+    {"kelime": "konjenital hipotiroidi yakalamak", "aciklama": "topuk kanındaki yüksek tsh ile zeka geriliğini önlemek için erken tiroksin başlamak", "yasakli_kelimeler": ["tsh", "zeka geriliği", "tiroksin", "tiroid", "topuk kanı"], "zorluk": "zor"},
+    {"kelime": "kistik fibrozis ter testi", "aciklama": "çocuğun koluna pilokarpin iyontoforezi uygulayıp terdeki klor konsantrasyonunu ölçmek", "yasakli_kelimeler": ["ter testi", "klor konsantrasyonu", "cftr", "tuzlu ter", "pilokarpin"], "zorluk": "zor"},
+    {"kelime": "fallot tetralojisini düzeltmek", "aciklama": "moraran mavi bebekte vsd, aort ata binmesi, pulmoner darlık ve sağ ventrikül hipertrofisini onarmak", "yasakli_kelimeler": ["mavi bebek", "siyanotik", "4 anomali", "açık kalp ameliyatı", "morarma nöbeti"], "zorluk": "zor"},
+    {"kelime": "kemik iliği aspirasyonu", "aciklama": "çocukluk çağı lösemisini teşhis etmek için iliak kanattan kalın iğneyle ilik çekmek", "yasakli_kelimeler": ["all", "lösemi", "iliak kanat", "blast hücre", "ilik biyopsisi"], "zorluk": "zor"},
+    {"kelime": "nekrotizan enterokoliti tedavi", "aciklama": "prematüre bebeğin bağırsak duvarında gaz kabarcıkları ve kangren gelişimini durdurmak", "yasakli_kelimeler": ["nek", "bağırsak perforasyonu", "pnömatozis", "prematüre", "beslenme kesme"], "zorluk": "zor"},
+    {"kelime": "hidrosefaliye şant takmak", "aciklama": "kafa içinde biriken beyin omurilik sıvısını karın boşluğuna boşaltan hortum yerleştirmek", "yasakli_kelimeler": ["vp şant", "karın boşluğu", "bos drenajı", "büyüyen kafa", "valf"], "zorluk": "zor"},
+]
+
+popmuzik_verbs = [
+    # Kolay (12)
+    {"kelime": "şarkı söylemek", "aciklama": "mikrofon karşısında pop şarkısının sözlerini melodiyle seslendirmek", "yasakli_kelimeler": ["mikrofon", "söz", "vokal", "ezgi", "ses"], "zorluk": "kolay"},
+    {"kelime": "dans etmek", "aciklama": "hareketli pop müziğin ritmine ayak uydurarak bedeni sallamak", "yasakli_kelimeler": ["ritim", "koreografi", "figür", "beden", "müzik"], "zorluk": "kolay"},
+    {"kelime": "klip çekmek", "aciklama": "şarkının televizyon ve internette yayınlanacak tanıtım videosunu kaydetmek", "yasakli_kelimeler": ["video", "kamera", "yönetmen", "müzik klibi", "görsel"], "zorluk": "kolay"},
+    {"kelime": "konser vermek", "aciklama": "büyük stadyumda veya açık hava sahnesinde binlerce hayrana canlı çalmak", "yasakli_kelimeler": ["sahne", "canlı", "hayran", "stadyum", "bilet"], "zorluk": "kolay"},
+    {"kelime": "albüm çıkarmak", "aciklama": "stüdyoda kaydedilen yeni şarkıları dijital platformlarda veya cd olarak yayınlamak", "yasakli_kelimeler": ["cd", "dijital", "yayınlamak", "şarkılar", "single"], "zorluk": "kolay"},
+    {"kelime": "bestelemek", "aciklama": "piyano veya gitar başında akılda kalıcı pop melodisi üretmek", "yasakli_kelimeler": ["melodi", "piyano", "gitar", "üretmek", "besteci"], "zorluk": "kolay"},
+    {"kelime": "dinlemek", "aciklama": "kulaklıkla telefondan en sevilen pop hitlerini çalmak", "yasakli_kelimeler": ["kulaklık", "telefon", "çalmak", "hit", "müzik"], "zorluk": "kolay"},
+    {"kelime": "eşlik etmek", "aciklama": "konserde seyircilerin hep bir ağızdan şarkıcının nakaratını söylemesi", "yasakli_kelimeler": ["nakarat", "koro", "seyirci", "birlikte", "konser"], "zorluk": "kolay"},
+    {"kelime": "hit olmak", "aciklama": "çıkan yeni şarkının radyolarda ve listelerde bir numaraya oturması", "yasakli_kelimeler": ["bir numara", "liste", "radyo", "patlama", "popüler"], "zorluk": "kolay"},
+    {"kelime": "imza dağıtmak", "aciklama": "albüm imza gününde hayranların poster ve albüm kapaklarını imzalamak", "yasakli_kelimeler": ["hayran", "imza günü", "poster", "kalem", "kapak"], "zorluk": "kolay"},
+    {"kelime": "alkışlamak", "aciklama": "şarkı bitiminde sahnedeki pop yıldızını el çırparak tebrik etmek", "yasakli_kelimeler": ["el çırpmak", "tebrik", "şarkıcı", "tempo", "sahne"], "zorluk": "kolay"},
+    {"kelime": "şöhret olmak", "aciklama": "kısa sürede milyonlarca kişi tarafından tanınan pop ikonu haline gelmek", "yasakli_kelimeler": ["ünlü", "ikon", "tanınmak", "yıldız", "milyonlar"], "zorluk": "kolay"},
+
+    # Orta (24)
+    {"kelime": "single yayınlamak", "aciklama": "tüm albüm yerine sadece tek bir iddialı çıkış şarkısını piyasaya sürmek", "yasakli_kelimeler": ["tek şarkı", "çıkış parçası", "spotify", "dijital", "piyasa"], "zorluk": "orta"},
+    {"kelime": "playback yapmak", "aciklama": "televizyon programında canlı söylemeyip arkadan çalan kayda dudak uydurmak", "yasakli_kelimeler": ["dudak uydurma", "canlı değil", "bant", "televizyon", "ses kaydı"], "zorluk": "orta"},
+    {"kelime": "autotune kullanmak", "aciklama": "vokaldeki detone kaymaları bilgisayar yazılımıyla düzeltip mekanik tını vermek", "yasakli_kelimeler": ["detone", "yazılım", "perde düzeltme", "mekanik ses", "efekt"], "zorluk": "orta"},
+    {"kelime": "akılda kalıcı nakarat", "aciklama": "dinleyicinin diline dolanan tekrar eden vurucu şarkı bölümü yazmak", "yasakli_kelimeler": ["hook", "melodi", "dile dolanma", "tekrar", "vurucu"], "zorluk": "orta"},
+    {"kelime": "remix yapmak", "aciklama": "şarkının orijinal vokallerini tutup altyapısını kulüp dans ritimleriyle yenilemek", "yasakli_kelimeler": ["dj", "kulüp versiyonu", "dans altyapısı", "elektronik", "düzenleme"], "zorluk": "orta"},
+    {"kelime": "turneye çıkmak", "aciklama": "yaz sezonunda şehir şehir gezerek ardı ardına 20 açık hava konseri vermek", "yasakli_kelimeler": ["açık hava", "şehir şehir", "konser serisi", "yolculuk", "sahne"], "zorluk": "orta"},
+    {"kelime": "düet yapmak", "aciklama": "iki ünlü pop şarkıcısının aynı parçayı bölüşerek birlikte seslendirmesi", "yasakli_kelimeler": ["birlikte söyleme", "ortak şarkı", "feat", "iki şarkıcı", "iş birliği"], "zorluk": "orta"},
+    {"kelime": "listeleri altüst etmek", "aciklama": "tüm müzik listelerinde aynı anda zirveye yerleşip rekor kırmak", "yasakli_kelimeler": ["zirve", "top 50", "rekor", "stream", "trend"], "zorluk": "orta"},
+    {"kelime": "sahne kostümü giymek", "aciklama": "konser için ünlü modacıların tasarladığı gösterişli parlak kıyafetleri giymek", "yasakli_kelimeler": ["tasarım", "parlak", "şov", "kıyafet", "gösteri"], "zorluk": "orta"},
+    {"kelime": "koreografi çalışmak", "aciklama": "dansçılarla birlikte dans stüdyosunda saatlerce klip adımlarını ezberlemek", "yasakli_kelimeler": ["dansçılar", "stüdyo", "prova", "adım", "hareket"], "zorluk": "orta"},
+    {"kelime": "kuliste hazırlanmak", "aciklama": "sahneye çıkmadan önce makyaj yaptırıp mikrofon ve ses provası yapmak", "yasakli_kelimeler": ["kulis", "makyaj", "sahne arkası", "ayna", "son hazırlık"], "zorluk": "orta"},
+    {"kelime": "akustik versiyon kaydetmek", "aciklama": "hareketli şarkıyı sadece bir akustik gitar veya piyano eşliğinde sade söylemek", "yasakli_kelimeler": ["sade", "akustik gitar", "slow", "elektroniksiz", "unplugged"], "zorluk": "orta"},
+    {"kelime": "plak şirketiyle anlaşmak", "aciklama": "müzik yapımcısıyla albüm dağıtımı ve telif hakları sözleşmesi imzalamak", "yasakli_kelimeler": ["yapımcı", "sözleşme", "etiket", "telif", "dağıtım"], "zorluk": "orta"},
+    {"kelime": "cover yapmak", "aciklama": "geçmiş yıllarda meşhur olmuş bir şarkıyı kendi pop tarzında yeniden yorumlamak", "yasakli_kelimeler": ["yeniden yorum", "eski şarkı", "telif izni", "tarz", "cover"], "zorluk": "orta"},
+    {"kelime": "vokal koçuyla çalışmak", "aciklama": "ses tellerini ısıtmak ve nefes tekniğini geliştirmek için şan hocasından ders almak", "yasakli_kelimeler": ["şan dersi", "ses telleri", "diyafram", "nefes", "hoca"], "zorluk": "orta"},
+    {"kelime": "stüdyo kaydına girmek", "aciklama": "akustik yalıtımlı ses kabininde pop filtresi önünde şarkıyı kaydetmek", "yasakli_kelimeler": ["ses kabini", "pop filtre", "kulaklık", "kanal kayıt", "mikrofon"], "zorluk": "orta"},
+    {"kelime": "ödül gecesine katılmak", "aciklama": "yılın en iyi pop şarkıcısı ve klibi ödüllerinde kırmızı halıda yürümek", "yasakli_kelimeler": ["kırmızı halı", "altın kelebek", "kategori", "heykelcik", "tören"], "zorluk": "orta"},
+    {"kelime": "soundcheck yapmak", "aciklama": "konser başlamadan önce sahnedeki hoparlör, monitör ve ses ayarlarını kontrol etmek", "yasakli_kelimeler": ["ses provası", "monitör", "hoparlör", "tonmaister", "ayar"], "zorluk": "orta"},
+    {"kelime": "bisi yapmak", "aciklama": "seyircinin yoğun tezahüratı üzerine sahneye geri dönüp en sevilen şarkıyı tekrar söylemek", "yasakli_kelimeler": ["bis", "tekrar", "tezahürat", "geri dönüş", "kapanış"], "zorluk": "orta"},
+    {"kelime": "radyo turu yapmak", "aciklama": "yeni şarkıyı tanıtmak için ulusal pop müzik radyolarının yayınlarına konuk olmak", "yasakli_kelimeler": ["radyocu", "canlı yayın", "frekans", "konuk", "tanıtım"], "zorluk": "orta"},
+    {"kelime": "telif geliri almak", "aciklama": "şarkıların televizyon, radyo ve dijitalde çalınmasından mesam veya msg telifi toplamak", "yasakli_kelimeler": ["mesam", "msg", "telif hakkı", "yayın hakkı", "para"], "zorluk": "orta"},
+    {"kelime": "playback hatası yaşamak", "aciklama": "şarkıcının ağzı oynamazken sesin hoparlörden devam etmesiyle yakalanmak", "yasakli_kelimeler": ["rezillik", "senkron hatası", "dudak kayması", "canlı değil", "ortaya çıkma"], "zorluk": "orta"},
+    {"kelime": "teaser yayınlamak", "aciklama": "klip çıkmadan önce merak uyandırmak için 10 saniyelik kısa fragman paylaşmak", "yasakli_kelimeler": ["fragman", "kısa video", "merak", "ön izleme", "tanıtım"], "zorluk": "orta"},
+    {"kelime": "hayran kulübü kurmak", "aciklama": "şarkıcının en sadık dinleyicilerini bir araya getiren fan topluluğu oluşturmak", "yasakli_kelimeler": ["fan club", "fandom", "sadık dinleyici", "topluluk", "destek"], "zorluk": "orta"},
+
+    # Zor (14)
+    {"kelime": "synth-pop altyapı döşemek", "aciklama": "80'ler analog synthesizer basları ve elektronik davul makineleriyle parça aranje etmek", "yasakli_kelimeler": ["synthesizer", "80ler", "analog", "davul makinesi", "aranje"], "zorluk": "zor"},
+    {"kelime": "melodik kanca tasarlamak", "aciklama": "şarkının ilk 5 saniyesinde dinleyiciyi esir alan karşı konulmaz melodik motif kurmak", "yasakli_kelimeler": ["earworm", "hook", "ilk 5 saniye", "motif", "akılda kalma"], "zorluk": "zor"},
+    {"kelime": "aranjman yapmak", "aciklama": "bestenin akorlarına, enstrüman dağılımına ve ritmik temposuna karar verip stüdyoda pişirmek", "yasakli_kelimeler": ["düzenleme", "aranjör", "enstrümantasyon", "beat", "prodüksiyon"], "zorluk": "zor"},
+    {"kelime": "stem mastering yaptırmak", "aciklama": "şarkının davul, bas, vokal ve synthesizer gruplarını ayrı ayrı son ses cilasına sokmak", "yasakli_kelimeler": ["mastering", "stem", "ses mühendisi", "loudness", "son cila"], "zorluk": "zor"},
+    {"kelime": "mixaj masasından geçirmek", "aciklama": "onlarca kanal sesin ekolayzır, kompresör ve reverb dengelerini milimetrik ayarlamak", "yasakli_kelimeler": ["mikser", "ekolayzır", "kompresör", "reverb", "kanal dengesi"], "zorluk": "zor"},
+    {"kelime": "in-ear monitör takmak", "aciklama": "şarkıcının sahnede orkestrayı ve kendi sesini duyabilmesi için kulak içine özel kalıp kulaklık sokması", "yasakli_kelimeler": ["kulak içi monitör", "telsiz kulaklık", "özel kalıp", "sahne sesi", "metronom"], "zorluk": "zor"},
+    {"kelime": "vokal kompresyonu basmak", "aciklama": "vokalin en kısık fısıltısı ile en gür çığlığı arasındaki dinamik aralığı sıkıştırmak", "yasakli_kelimeler": ["kompresör", "dinamik aralık", "desibel", "threshold", "sıkıştırma"], "zorluk": "zor"},
+    {"kelime": "köprü geçişi kurgulamak", "aciklama": "ikinci nakarattan sonra parçanın modülasyona girdiği ve doruğa hazırlandığı bridge bölümü", "yasakli_kelimeler": ["bridge", "köprü", "doruk noktası", "dizi değişimi", "şarkı yapısı"], "zorluk": "zor"},
+    {"kelime": "plak şirketiyle 360 derece anlaşma", "aciklama": "şirketin albümün yanı sıra konser, sponsorluk ve ticari ürün gelirlerinden de pay alması", "yasakli_kelimeler": ["360 derece", "tüm haklar", "sponsorluk payı", "konser geliri", "ağır sözleşme"], "zorluk": "zor"},
+    {"kelime": "sample temizlemek", "aciklama": "pop altyapısında kullanılan eski bir şarkı kesitinin yasal telif hakkını satın almak", "yasakli_kelimeler": ["sampling", "telif izni", "numune ses", "orijinal eser", "clearing"], "zorluk": "zor"},
+    {"kelime": "de-esser ile tıslamayı kesmek", "aciklama": "vokal kaydındaki s ve ş harflerinin mikrofonu rahatsız eden yüksek frekanslarını tıraşlamak", "yasakli_kelimeler": ["s harfi", "tıslama", "yüksek frekans", "vokal temizlik", "dinamik eq"], "zorluk": "zor"},
+    {"kelime": "vokal dublesi kaydetmek", "aciklama": "ana vokal hattını ikinci ve üçüncü kez birebir aynı söyleyip stereo sağa sola açmak", "yasakli_kelimeler": ["duble", "katman", "stereo", "genişlik", "vokal katlama"], "zorluk": "zor"},
+    {"kelime": "radyo formatına kırpmak", "aciklama": "şarkının radyo istasyonlarında çalınabilmesi için girişini kısaltıp 3 dakikanın altına indirmek", "yasakli_kelimeler": ["radyo edit", "3 dakika", "intro kısaltma", "format", "kesim"], "zorluk": "zor"},
+    {"kelime": "armonizer vokali basmak", "aciklama": "ana vokalist sesini 3'lü ve 5'li üst aralıklara anında çoğaltan donanım kullanmak", "yasakli_kelimeler": ["armoni", "üçlü aralık", "vokal işlemci", "koro efekti", "donanım"], "zorluk": "zor"}
+]
+
+if __name__ == "__main__":
+    add_and_save_verbs("pediyatri", pediyatri_verbs)
+    add_and_save_verbs("popmuzik", popmuzik_verbs)

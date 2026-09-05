@@ -1,0 +1,61 @@
+# -*- coding: utf-8 -*-
+from card_utils import add_and_save_verbs
+
+data = {}
+
+# 23. cizgiroman
+data["cizgiroman"] = [
+    {"kelime": "balon çizmek", "aciklama": "karakterin konuşma veya düşünce sözlerini içine alan elipsi çizmek", "yasakli_kelimeler": ["konuşma balonu", "kuyruk", "yazı", "diyalog", "çizim"], "zorluk": "kolay"},
+    {"kelime": "panel bölmek", "aciklama": "sayfayı çizgi roman karelerine cetvelle bölümlere ayırmak", "yasakli_kelimeler": ["kare", "çerçeve", "sayfa düzeni", "cetvel", "sekans"], "zorluk": "kolay"},
+    {"kelime": "efekt sesi yazmak", "aciklama": "patlama, yumruk veya kapı gıcırtısını bum, pow, küt gibi harflerle yazmak", "yasakli_kelimeler": ["onomatope", "boom", "pow", "ses efekti", "yazı"], "zorluk": "kolay"},
+    {"kelime": "mürekkeplemek", "aciklama": "kurşun kalemle çizilen taslak çizgilerin üzerinden çini mürekkebiyle geçmek", "yasakli_kelimeler": ["çini mürekkebi", "tarama ucu", "fırça", "siyah çizgi", "inleme"], "zorluk": "kolay"},
+    {"kelime": "kahraman yaratmak", "aciklama": "özel kostümü ve süper güçleri olan ana karakter tasarlamak", "yasakli_kelimeler": ["süper kahraman", "kostüm", "pelerin", "güç", "karakter"], "zorluk": "kolay"},
+    {"kelime": "kötü adam tasarlamak", "aciklama": "dünyayı ele geçirmeye çalışan baş düşman figürünü çizmek", "yasakli_kelimeler": ["villain", "baş düşman", "cani", "entrika", "savaş"], "zorluk": "kolay"},
+    {"kelime": "koleksiyon yapmak", "aciklama": "nadir basım fasikülleri ve ciltleri poşetleyip korumak", "yasakli_kelimeler": ["fasikül", "sayı bir", "nadir baskı", "cilt", "poşet"], "zorluk": "kolay"},
+    {"kelime": "boyama yapmak", "aciklama": "siyah beyaz mürekkepli sayfaları dijital tablette renklendirmek", "yasakli_kelimeler": ["renklendirme", "tonlama", "dijital boya", "tablet", "katman"], "zorluk": "kolay"},
+    {"kelime": "senaryo yazmak", "aciklama": "sayfa sayfa karelerin içinde ne olacağını ve diyalogları yazmak", "yasakli_kelimeler": ["yazar", "diyalog", "hikaye", "metin", "akış"], "zorluk": "kolay"},
+    {"kelime": "kapak çizmek", "aciklama": "derginin vitrinde dikkat çekmesi için tam sayfa gösterişli kapak illüstrasyonu yapmak", "yasakli_kelimeler": ["kapak resmi", "illüstrasyon", "göz alıcı", "vitrin", "poster"], "zorluk": "kolay"},
+    {"kelime": "imza gününe katılmak", "aciklama": "çizerin fuarda okurların albümlerine özel desen ve imza atması", "yasakli_kelimeler": ["fuar", "çizer", "okur", "imza", "albüm"], "zorluk": "kolay"},
+    {"kelime": "sayfa çevirmek", "aciklama": "merak uyandıran sahnenin devamını görmek için sonraki sayfaya geçmek", "yasakli_kelimeler": ["merak", "akış", "okumak", "sonraki kare", "kitap"], "zorluk": "kolay"},
+    {"kelime": "crosshatching yapmak", "aciklama": "gölgelendirme ve derinlik için birbirini kesen ince paralel çizgiler taramak", "yasakli_kelimeler": ["çapraz tarama", "gölgeleme", "tarama ucu", "çizgi doku", "derinlik"], "zorluk": "orta"},
+    {"kelime": "splash page çizmek", "aciklama": "büyük bir savaş veya şok anını iki sayfaya yayılan tek dev panelde resmetmek", "yasakli_kelimeler": ["çift sayfa", "dev panel", "şok anı", "panoramik", "çerçevesiz"], "zorluk": "orta"},
+    {"kelime": "retcon yapmak", "aciklama": "eski sayılarda anlatılan karakter geçmişini yeni hikayeye uydurmak için değiştirmek", "yasakli_kelimeler": ["geçmişi değiştirme", "devamlılık", "kurgu revizyonu", "orijin hikayesi", "yazar"], "zorluk": "orta"},
+    {"kelime": "crossover yapmak", "aciklama": "farklı çizgi roman serilerindeki iki kahramanı aynı macerada buluşturmak", "yasakli_kelimeler": ["kahraman buluşması", "ortak macera", "evren kesişmesi", "marvel dc", "özel sayı"], "zorluk": "orta"},
+    {"kelime": "cliffhanger bırakmak", "aciklama": "sayının son karesini karakter ölüm tehlikesindeyken heyecanla bitirmek", "yasakli_kelimeler": ["merakta bırakma", "son kare", "gelecek sayı", "heyecan", "askıda son"], "zorluk": "orta"},
+    {"kelime": "orijin hikayesi anlatmak", "aciklama": "karakterin süper gücünü nasıl kazandığını anlatan ilk başlangıç macerası", "yasakli_kelimeler": ["başlangıç", "güç kazanma", "örümcek ısırması", "geçmiş", "ilk sayı"], "zorluk": "orta"},
+    {"kelime": "tarama ucu takmak", "aciklama": "mürekkeplere batırılan esnek metal divit ucunu sapa yerleştirmek", "yasakli_kelimeler": ["divit", "metal uç", "mürekkepleme", "çizgi kalınlığı", "fırça"], "zorluk": "orta"},
+    {"kelime": "mangaka olmak", "aciklama": "japonya tarzında sağdan sola okunan siyah beyaz çizgi roman üreticisi olmak", "yasakli_kelimeler": ["manga", "japonya", "sağdan sola", "asistan", "shonen"], "zorluk": "orta"},
+    {"kelime": "ton kağıdı yapıştırmak", "aciklama": "tram ve gri gölgeleri vermek için yapışkanlı noktalı folyoyu kesip yapıştırmak", "yasakli_kelimeler": ["screentone", "noktalı folyo", "manga gölgesi", "tram", "kesme bıçağı"], "zorluk": "orta"},
+    {"kelime": "variant cover basmak", "aciklama": "aynı çizgi roman sayısını farklı ünlü çizerlerin çizdiği alternatif kapaklarla satmak", "yasakli_kelimeler": ["alternatif kapak", "koleksiyon", "farklı çizer", "özel baskı", "sayı"], "zorluk": "orta"},
+    {"kelime": "gutters boşluğu bırakmak", "aciklama": "paneller arasında zaman ve mekan geçişini sağlayan beyaz oluk boşluğunu ayarlamak", "yasakli_kelimeler": ["panel arası", "beyaz boşluk", "zaman geçişi", "oluk", "sayfa düzeni"], "zorluk": "orta"},
+    {"kelime": "lettering yapmak", "aciklama": "konuşma balonlarının içindeki metinleri ve ses efektlerini tipografik dizmek", "yasakli_kelimeler": ["balon yazısı", "tipografi", "font", "el yazısı", "dizgi"], "zorluk": "orta"},
+    {"kelime": "graded poşete koymak", "aciklama": "nadir çizgi romanı derecelendirme kuruluşuna gönderip sertifikalı şeffaf kutuya mühürletmek", "yasakli_kelimeler": ["cgc", "derecelendirme", "kondisyon puanı", "mühürlü kutu", "sertifika"], "zorluk": "orta"},
+    {"kelime": "grafik roman üretmek", "aciklama": "dergi formatı yerine tek ciltte biten edebi ve sanatsal uzun çizgi roman hazırlamak", "yasakli_kelimeler": ["graphic novel", "kalın cilt", "edebi", "sanatsal", "watchmen"], "zorluk": "orta"},
+    {"kelime": "karakter revize etmek", "aciklama": "eskiyen kahramanın kostümünü ve güçlerini modern çizgilere göre yeniden tasarlamak", "yasakli_kelimeler": ["redesign", "modernize", "yeni kostüm", "güncelleme", "çizgi"], "zorluk": "orta"},
+    {"kelime": "spin off çıkarmak", "aciklama": "ana serideki popüler bir yan karakter için bağımsız yeni seri başlatmak", "yasakli_kelimeler": ["yan karakter serisi", "bağımsız seri", "ana seri", "popüler", "türetme"], "zorluk": "orta"},
+    {"kelime": "penciler olarak çalışmak", "aciklama": "çizgi roman üretim hattında sadece kurşun kalemle ilk taslak çizimleri tamamlamak", "yasakli_kelimeler": ["kurşun kalem", "ilk çizim", "çizer", "mürekkepçi öncesi", "taslak"], "zorluk": "orta"},
+    {"kelime": "inker olarak taramak", "aciklama": "kurşun kalem çizimlerinin üzerinden fırça ve mürekkeple siyah konturları çekmek", "yasakli_kelimeler": ["mürekkepçi", "kontur", "çini mürekkebi", "fırça", "siyah beyaz"], "zorluk": "orta"},
+    {"kelime": "colorist olarak renklendirmek", "aciklama": "mürekkeplenmiş çizgilere atmosfer ışık ve gölge renk paletini uygulamak", "yasakli_kelimeler": ["renklendirici", "dijital palet", "ışık gölge", "atmosfer", "photoshop"], "zorluk": "orta"},
+    {"kelime": "chibi tarzı çizmek", "aciklama": "karakteri kocaman kafalı ve minik gövdeli sevimli karikatür formunda çizmek", "yasakli_kelimeler": ["büyük kafa", "sevimli", "manga tarzı", "minik gövde", "deforme"], "zorluk": "orta"},
+    {"kelime": "hız çizgileri çekmek", "aciklama": "karakterin veya arabanın aşırı hızlı hareket ettiğini gösteren paralel çizgiler çizmek", "yasakli_kelimeler": ["speed lines", "hareket hissi", "paralel çizgi", "dinamizm", "manga"], "zorluk": "orta"},
+    {"kelime": "evreni sıfırlamak", "aciklama": "karmaşıklaşan onlarca yıllık devamlılığı bitirip tüm kahramanların hikayesini baştan başlatmak", "yasakli_kelimeler": ["reboot", "crisis", "yeni başlangıç", "devamlılık sıfırlama", "yayınevi"], "zorluk": "orta"},
+    {"kelime": "cameo görünüm vermek", "aciklama": "ünlü bir çizgi roman yazarını veya karakteri arka planda tek bir karede gizlice göstermek", "yasakli_kelimeler": ["stan lee", "kısa görünme", "arka plan", "misafir", "tek kare"], "zorluk": "orta"},
+    {"kelime": "fanzin basmak", "aciklama": "amatör çizerlerin fotokopiyle çoğaltıp zımbaladığı bağımsız çizgi dergi çıkarmak", "yasakli_kelimeler": ["amatör dergi", "fotokopi", "bağımsız", "yeraltı", "zımbalı"], "zorluk": "orta"},
+    {"kelime": "bleeding uygulamak", "aciklama": "çizimin panel çerçevesini aşıp sayfanın tam kenar kesim çizgisine kadar taşması", "yasakli_kelimeler": ["taşma payı", "kenara taşma", "çerçevesiz", "kesim payı", "sayfa kenarı"], "zorluk": "zor"},
+    {"kelime": "kanon ilan etmek", "aciklama": "yayınevinin yazılan bir hikayeyi karakterin resmi resmi evren tarihine dahil etmesi", "yasakli_kelimeler": ["resmi tarih", "evren geçerliliği", "yayınevi onayı", "canon", "resmi hikaye"], "zorluk": "zor"},
+    {"kelime": "multiverse kurgulamak", "aciklama": "kahramanların alternatif versiyonlarının yaşadığı paralel evrenler ağı tasarlamak", "yasakli_kelimeler": ["çoklu evren", "paralel boyut", "alternatif versiyon", "sonsuz dünya", "kesişme"], "zorluk": "zor"},
+    {"kelime": "marvel method uygulamak", "aciklama": "yazarın tam senaryo yerine kısa özet vermesi ve çizerin sahneleri serbestçe kurgulaması", "yasakli_kelimeler": ["stan lee", "özet senaryo", "çizer özgürlüğü", "sonradan diyalog", "üretim stili"], "zorluk": "zor"},
+    {"kelime": "golden age koleksiyonlamak", "aciklama": "1938-1956 yılları arasında basılmış süpermen ve batmanin ilk tarihi fasiküllerini toplamak", "yasakli_kelimeler": ["altın çağ", "1938", "action comics 1", "ilk dönem", "tarihi fasikül"], "zorluk": "zor"},
+    {"kelime": "comics code authority damgalamak", "aciklama": "1950lerde sansür kurulunun şiddet ve korku içermeyen çizgi romanlara onay pulu basması", "yasakli_kelimeler": ["cca", "sansür kurulu", "onay damgası", "korku yasağı", "ahlak denetimi"], "zorluk": "zor"},
+    {"kelime": "panel transition sınıflandırmak", "aciklama": "mccloud'un kareden kareye geçişleri andan ana veya sahneden sahneye olarak çözümlemesi", "yasakli_kelimeler": ["scott mccloud", "kareden kareye", "eylemden eyleme", "anlama sanatı", "sekans"], "zorluk": "zor"},
+    {"kelime": "yeraltı çizgi romanı çizmek", "aciklama": "robert crumb tarzı sansürsüz, tabuları yıkan ve karşı kültür temalı bağımsız eser üretmek", "yasakli_kelimeler": ["underground", "robert crumb", "karşı kültür", "sansürsüz", "zap comix"], "zorluk": "zor"},
+    {"kelime": "karanlık çağ tonu yakalamak", "aciklama": "frank miller ve alan moore'un 1980lerde çizgi romana getirdiği sert ve distopik anlatı", "yasakli_kelimeler": ["dark age", "frank miller", "watchmen", "distopya", "yetişkin tonu"], "zorluk": "zor"},
+    {"kelime": "silver age dönemi incelemek", "aciklama": "1956da flash ile başlayan bilimkurgu ve kozmik temalı ikinci büyük çizgi roman çağını araştırmak", "yasakli_kelimeler": ["gümüş çağ", "1956", "showcase 4", "bilimkurgu", "kozmik"], "zorluk": "zor"},
+    {"kelime": "ligne claire stili uygulamak", "aciklama": "herge'in tenten'de kullandığı her nesnenin eşit kalınlıkta net çizgiyle çizildiği tarz", "yasakli_kelimeler": ["herge", "tenten", "net kontur", "gölgesiz çizgi", "franko belçika"], "zorluk": "zor"},
+    {"kelime": "decompress storytelling yapmak", "aciklama": "normalde bir karede bitecek aksiyonu sinematik atmosfer için altı sayfaya yaymak", "yasakli_kelimeler": ["yayarak anlatım", "sinematik tempo", "yavaş anlatı", "uzatma", "aksiyon yayma"], "zorluk": "zor"},
+    {"kelime": "dijital webtoon formatlamak", "aciklama": "akıllı telefon ekranından aşağı doğru dikey kaydırılarak okunan sonsuz tuval çizmek", "yasakli_kelimeler": ["dikey kaydırma", "akıllı telefon", "kore", "sonsuz tuval", "dijital çizgi roman"], "zorluk": "zor"},
+    {"kelime": "omnipresent ses kutusu yazmak", "aciklama": "panelin üst kısmına olayları aktaran üçüncü şahıs dış ses anlatıcı kutucuğu koymak", "yasakli_kelimeler": ["anlatıcı kutusu", "dış ses", "üçüncü şahıs", "kare üstü", "anlatı"], "zorluk": "zor"}
+]
+
+for cat, vcards in data.items():
+    add_and_save_verbs(cat, vcards)

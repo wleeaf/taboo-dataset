@@ -2,10 +2,9 @@
 import json
 import os
 import sys
+import glob
 
-CATEGORIES = ["etnografi", "linguistik", "retorik", "pedagoji"]
-
-def validate_file(path, expected_category):
+def validate_file(path, expected_category, expected_count=None):
     if not os.path.exists(path):
         return False, f"Dosya bulunamadı: {path}"
     
@@ -18,8 +17,8 @@ def validate_file(path, expected_category):
     if not isinstance(data, list):
         return False, "Kök eleman bir liste değil"
     
-    if len(data) != 100:
-        return False, f"Kart sayısı 100 değil, {len(data)} bulundu"
+    if expected_count is not None and len(data) != expected_count:
+        return False, f"Kart sayısı {expected_count} değil, {len(data)} bulundu"
     
     seen_ids = set()
     seen_words = set()
@@ -28,7 +27,7 @@ def validate_file(path, expected_category):
         if not isinstance(card, dict):
             return False, f"Kart {idx} bir sözlük değil"
         
-        for field in ["id", "kategori", "kelime", "aciklama", "yasakli_kelimeler"]:
+        for field in ["id", "kategori", "kelime", "aciklama", "yasakli_kelimeler", "zorluk"]:
             if field not in card:
                 return False, f"Kart {idx} içinde eksik alan: {field}"
         
@@ -71,16 +70,29 @@ def validate_file(path, expected_category):
             if b.strip() != b.lower():
                 return False, f"Kart {idx} yasaklı kelime küçük harf değil: '{b}'"
                 
+        diff = card["zorluk"]
+        if diff not in ["kolay", "orta", "zor"]:
+            return False, f"Kart {idx} geçersiz zorluk: {diff}"
+
     return True, f"Başarılı! {len(data)} kart doğrulandı, 0 tekrar, format ve küçük harf tam uyumlu."
 
 if __name__ == "__main__":
     base_dir = "/home/taceddinsancak/Desktop/Projects/taboo/data"
     all_ok = True
-    for cat in CATEGORIES:
-        fpath = os.path.join(base_dir, f"{cat}.json")
+    files = sorted(glob.glob(os.path.join(base_dir, "*.json")))
+    print(f"Toplam doğrulanacak dosya: {len(files)}")
+    total_card_count = 0
+    for fpath in files:
+        cat = os.path.splitext(os.path.basename(fpath))[0]
         ok, msg = validate_file(fpath, cat)
-        print(f"[{cat}] -> {msg}")
         if not ok:
+            print(f"[{cat}] -> {msg}")
             all_ok = False
+        else:
+            with open(fpath, "r", encoding="utf-8") as f:
+                d = json.load(f)
+                total_card_count += len(d)
     if not all_ok:
+        print("Doğrulama başarısız!")
         sys.exit(1)
+    print(f"Tebrikler! Tüm {len(files)} dosya ({total_card_count:,} kart) başarıyla doğrulandı.")

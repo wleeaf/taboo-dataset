@@ -1398,5 +1398,2105 @@
     "id": 100,
     "kategori": "arkeoloji",
     "zorluk": "zor"
+  },
+  {
+    "id": 101,
+    "kategori": "arkeoloji",
+    "kelime": "kurtarma kazısı",
+    "aciklama": "baraj, otoyol veya kentsel yapılaşma tehdidi altındaki antik alanlarda acil yürütülen kazı çalışması.",
+    "yasakli_kelimeler": [
+      "acil",
+      "baraj",
+      "inşaat",
+      "kurtarma",
+      "tehdit"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 102,
+    "kategori": "arkeoloji",
+    "kelime": "yüzey araştırması",
+    "aciklama": "toprağı kazmadan yüzeydeki seramik kırıkları ve kalıntıları toplayıp haritalandıran araştırma yöntemi.",
+    "yasakli_kelimeler": [
+      "kazısız",
+      "yüzey",
+      "tarama",
+      "harita",
+      "toplama"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 103,
+    "kategori": "arkeoloji",
+    "kelime": "sondaj",
+    "aciklama": "bir höyüğün veya arkeolojik alanın katman derinliğini anlamak için açılan küçük deneme çukuru.",
+    "yasakli_kelimeler": [
+      "test",
+      "çukur",
+      "derinlik",
+      "küçük",
+      "deneme"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 104,
+    "kategori": "arkeoloji",
+    "kelime": "nivo",
+    "aciklama": "kazı alanındaki buluntuların deniz seviyesine veya sabit noktaya göre yükseklik kotunu ölçen alet.",
+    "yasakli_kelimeler": [
+      "kot",
+      "yükseklik",
+      "ölçüm",
+      "seviye",
+      "optik"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 105,
+    "kategori": "arkeoloji",
+    "kelime": "teodolit",
+    "aciklama": "kazı alanında yatay ve dikey açıları hassas ölçerek alanın topografik planını çıkarmaya yarayan alet.",
+    "yasakli_kelimeler": [
+      "açı",
+      "harita",
+      "ölçüm",
+      "topografi",
+      "cihaz"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 106,
+    "kategori": "arkeoloji",
+    "kelime": "nirengi noktası",
+    "aciklama": "tüm kazı alanı harita ve koordinat sisteminin dayandırıldığı zemindeki sabit referans noktası.",
+    "yasakli_kelimeler": [
+      "referans",
+      "sabit",
+      "koordinat",
+      "harita",
+      "başlangıç"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 107,
+    "kategori": "arkeoloji",
+    "kelime": "jeofizik araştırma",
+    "aciklama": "toprağı kazmaya gerek kalmadan yer altındaki antik duvar ve boşlukları bilimsel cihazlarla saptama.",
+    "yasakli_kelimeler": [
+      "yeraltı",
+      "cihaz",
+      "kazısız",
+      "duvar",
+      "boşluk"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 108,
+    "kategori": "arkeoloji",
+    "kelime": "manyetometri",
+    "aciklama": "toprak altındaki fırın, ocak veya yanmış kerpiç gibi manyetik anormallikleri tespit eden jeofizik yöntem.",
+    "yasakli_kelimeler": [
+      "manyetik",
+      "fırın",
+      "yanık",
+      "tespit",
+      "sensör"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 109,
+    "kategori": "arkeoloji",
+    "kelime": "hava fotoğrafçılığı",
+    "aciklama": "yer altındaki gömülü yapı temellerini ve hendekleri gökyüzünden çekilen fotoğraflarla saptama yöntemi.",
+    "yasakli_kelimeler": [
+      "uçak",
+      "gökyüzü",
+      "dron",
+      "fotoğraf",
+      "iz"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 110,
+    "kategori": "arkeoloji",
+    "kelime": "sualtı arkeolojisi",
+    "aciklama": "deniz, göl ve nehir tabanında kalmış batıkları ve batık liman kentlerini tüplü dalışla inceleyen dal.",
+    "yasakli_kelimeler": [
+      "deniz",
+      "dalış",
+      "batık",
+      "su altı",
+      "gemi"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 111,
+    "kategori": "arkeoloji",
+    "kelime": "deneysel arkeoloji",
+    "aciklama": "antik üretim ve kullanım yöntemlerini günümüzde bizzat kopyalayıp deneyerek anlamayı amaçlayan yöntem.",
+    "yasakli_kelimeler": [
+      "deney",
+      "yeniden yapma",
+      "üretim",
+      "test",
+      "taklit"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 112,
+    "kategori": "arkeoloji",
+    "kelime": "tabaka",
+    "aciklama": "arkeolojik kazılarda belirli bir tarihsel döneme ve yerleşim evresine karşılık gelen toprak katmanı.",
+    "yasakli_kelimeler": [
+      "katman",
+      "seviye",
+      "evren",
+      "dönem",
+      "yerleşim"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 113,
+    "kategori": "arkeoloji",
+    "kelime": "yangın katmanı",
+    "aciklama": "antik kentin düşman saldırısı veya büyük felaketle küle döndüğünü gösteren kömürlü kalın tabaka.",
+    "yasakli_kelimeler": [
+      "kül",
+      "kömür",
+      "istila",
+      "tahribat",
+      "yanma"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 114,
+    "kategori": "arkeoloji",
+    "kelime": "steril toprak",
+    "aciklama": "altında hiçbir insan faaliyeti, çanak çömlek veya kültürel kalıntı barındırmayan el değmemiş doğal zemin.",
+    "yasakli_kelimeler": [
+      "doğal",
+      "insansız",
+      "boş",
+      "zemin",
+      "kültürsüz"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 115,
+    "kategori": "arkeoloji",
+    "kelime": "ana kaya",
+    "aciklama": "tüm kültür katmanlarının en dibinde yer alan ve yerleşimin üzerine kurulduğu masif doğal kaya kütlesi.",
+    "yasakli_kelimeler": [
+      "en dip",
+      "doğal kaya",
+      "taban",
+      "zemin",
+      "temel"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 116,
+    "kategori": "arkeoloji",
+    "kelime": "buluntu yeri",
+    "aciklama": "bir eserin kazı sırasında açma içinde çıkarıldığı kesin koordinat, derinlik ve tabaka konumu.",
+    "yasakli_kelimeler": [
+      "konum",
+      "koordinat",
+      "yer",
+      "nokta",
+      "çıkarılma"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 117,
+    "kategori": "arkeoloji",
+    "kelime": "kazı günlüğü",
+    "aciklama": "açma sorumlularının her gün yapılan çalışmaları, bulunan eserleri ve toprak değişimlerini yazdığı defter.",
+    "yasakli_kelimeler": [
+      "defter",
+      "günlük",
+      "kayıt",
+      "açma",
+      "not"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 118,
+    "kategori": "arkeoloji",
+    "kelime": "envanter kaydı",
+    "aciklama": "kazıda bulunan değerli eserlerin ölçü, malzeme, dönem ve fotoğraflarıyla resmi müze kütüğüne işlenmesi.",
+    "yasakli_kelimeler": [
+      "müze",
+      "kayıt",
+      "kütük",
+      "numara",
+      "tescil"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 119,
+    "kategori": "arkeoloji",
+    "kelime": "restorasyon",
+    "aciklama": "yıkılmış veya hasar görmüş tarihi anıt ve binaları özgün malzemelerine sadık kalarak onarma işlemi.",
+    "yasakli_kelimeler": [
+      "onarım",
+      "tamir",
+      "özgün",
+      "tarihi yapı",
+      "yenileme"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 120,
+    "kategori": "arkeoloji",
+    "kelime": "konservasyon",
+    "aciklama": "topraktan çıkan organik ve metalik eserlerin havayla temas edip çürümesini önleyici kimyasal koruma.",
+    "yasakli_kelimeler": [
+      "koruma",
+      "çürüme",
+      "kimyasal",
+      "sağlamlaştırma",
+      "bozulma"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 121,
+    "kategori": "arkeoloji",
+    "kelime": "tapınak",
+    "aciklama": "antik çağda tanrı heykellerini barındıran ve dinsel törenlerin etrafında yapıldığı kutsal anıtsal bina.",
+    "yasakli_kelimeler": [
+      "tanrı",
+      "kutsal",
+      "ibadet",
+      "sütun",
+      "adak"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 122,
+    "kategori": "arkeoloji",
+    "kelime": "mezar odası",
+    "aciklama": "soylu ve zengin kişilerin cesedinin değerli ölü armağanlarıyla birlikte yerleştirildiği kapalı oda.",
+    "yasakli_kelimeler": [
+      "oda",
+      "ceset",
+      "ölü",
+      "armağan",
+      "yeraltı"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 123,
+    "kategori": "arkeoloji",
+    "kelime": "kaya mezarı",
+    "aciklama": "antik dönem kralları ve soyluları için yüksek sarp uçurum kayalıklarına oyulmuş gösterişli cepheli mezar.",
+    "yasakli_kelimeler": [
+      "uçurum",
+      "oyma",
+      "sarp",
+      "dağ",
+      "cephe"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 124,
+    "kategori": "arkeoloji",
+    "kelime": "tholos mezar",
+    "aciklama": "miken uygarlığında krallar için inşa edilen arı kovanı biçimli dairesel tonozlu kubbeli anıt mezar.",
+    "yasakli_kelimeler": [
+      "arı kovanı",
+      "miken",
+      "kubbe",
+      "dairesel",
+      "kral"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 125,
+    "kategori": "arkeoloji",
+    "kelime": "dromos",
+    "aciklama": "yer altı mezar odalarına veya tholos mezarlara dışarıdan girişi sağlayan dar ve uzun geçit koridoru.",
+    "yasakli_kelimeler": [
+      "koridor",
+      "geçit",
+      "giriş",
+      "mezar yolu",
+      "rampa"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 126,
+    "kategori": "arkeoloji",
+    "kelime": "piramit",
+    "aciklama": "eski mısır firavunlarının ebedi istirahatgahı olarak dev taş bloklarla inşa edilen anıtsal geometrik mezar.",
+    "yasakli_kelimeler": [
+      "firavun",
+      "mısır",
+      "üçgen",
+      "taş blok",
+      "gize"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 127,
+    "kategori": "arkeoloji",
+    "kelime": "mastaba",
+    "aciklama": "eski mısır'da piramitlerden önceki dönemde soylular için yapılan yamuk kenarlı basık dikdörtgen mezar.",
+    "yasakli_kelimeler": [
+      "mısır",
+      "basık",
+      "dikdörtgen",
+      "kerpiç",
+      "erken mezar"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 128,
+    "kategori": "arkeoloji",
+    "kelime": "obelisk",
+    "aciklama": "tek parça granitten yontulup meydanlara dikilen, gövdesinde zafer yazıtları bulunan sivri dikilitaş.",
+    "yasakli_kelimeler": [
+      "dikilitaş",
+      "mısır",
+      "sivri",
+      "granit",
+      "tek parça"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 129,
+    "kategori": "arkeoloji",
+    "kelime": "amfitiyatro",
+    "aciklama": "gladyatör dövüşleri ve vahşi hayvan avları için elips biçiminde inşa edilmiş basamaklı dev roma arenası.",
+    "yasakli_kelimeler": [
+      "arena",
+      "gladyatör",
+      "kollezyum",
+      "elips",
+      "roma"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 130,
+    "kategori": "arkeoloji",
+    "kelime": "odeon",
+    "aciklama": "antik kentlerde müzik dinletileri, şiir gösterileri ve kent konseyi toplantıları için yapılan çatılı tiyatro.",
+    "yasakli_kelimeler": [
+      "müzik",
+      "çatılı",
+      "küçük tiyatro",
+      "dinleti",
+      "akustik"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 131,
+    "kategori": "arkeoloji",
+    "kelime": "hipodrom",
+    "aciklama": "antik yunan ve roma kentlerinde atlı araba yarışlarının yapıldığı uzun u biçimli yarış pisti.",
+    "yasakli_kelimeler": [
+      "at arabası",
+      "yarış",
+      "pist",
+      "tribün",
+      "sultanahmet"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 132,
+    "kategori": "arkeoloji",
+    "kelime": "stadyum",
+    "aciklama": "antik dönemde koşu, güreş gibi atletizm yarışlarının yapıldığı seyirci basamaklı uzun spor alanı.",
+    "yasakli_kelimeler": [
+      "atletizm",
+      "koşu",
+      "basamak",
+      "yarışma",
+      "spor"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 133,
+    "kategori": "arkeoloji",
+    "kelime": "tonoz",
+    "aciklama": "tuğla veya taşların birbirine kenetlenmesiyle meydana getirilen kemer biçimindeki tavan örtüsü.",
+    "yasakli_kelimeler": [
+      "kemer",
+      "tavan",
+      "silindir",
+      "taş",
+      "örtü"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 134,
+    "kategori": "arkeoloji",
+    "kelime": "sütun başlığı",
+    "aciklama": "sütun gövdesinin üstünde yer alarak çatının ağırlığını dengeli biçimde taşıyan süslemeli mimari blok.",
+    "yasakli_kelimeler": [
+      "sütun",
+      "başlık",
+      "kapitel",
+      "kiriş",
+      "süsleme"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 135,
+    "kategori": "arkeoloji",
+    "kelime": "korint düzeni",
+    "aciklama": "sütun başlıklarında kenger yaprağı motiflerinin kullanıldığı en süslü klasik yunan mimari stili.",
+    "yasakli_kelimeler": [
+      "kenger yaprağı",
+      "akantus",
+      "süslü",
+      "başlık",
+      "sütun"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 136,
+    "kategori": "arkeoloji",
+    "kelime": "iyon düzeni",
+    "aciklama": "sütun başlıklarında kıvrımlı koç boynuzu helezonları barındıran zarif batı anadolu mimari nizamı.",
+    "yasakli_kelimeler": [
+      "koç boynuzu",
+      "volüt",
+      "kıvrım",
+      "anadolu",
+      "sütun"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 137,
+    "kategori": "arkeoloji",
+    "kelime": "dor düzeni",
+    "aciklama": "kaidesiz sütun gövdesi ve yalın tablasıyla bilinen en sade ve maskülen antik yunan mimari nizamı.",
+    "yasakli_kelimeler": [
+      "sade",
+      "kaidesiz",
+      "yunan",
+      "nizam",
+      "sütun"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 138,
+    "kategori": "arkeoloji",
+    "kelime": "friz",
+    "aciklama": "antik tapınak ve anıtlarda kirişin üzerinde boydan boya uzanan kabartma figürlü süsleme kuşağı.",
+    "yasakli_kelimeler": [
+      "kabartma",
+      "kuşak",
+      "rölyef",
+      "tapınak",
+      "şerit"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 139,
+    "kategori": "arkeoloji",
+    "kelime": "alınlık",
+    "aciklama": "antik tapınakların ön ve arka cephe çatılarının altında oluşan kabartmalarla bezeli üçgen alan.",
+    "yasakli_kelimeler": [
+      "üçgen",
+      "çatı altı",
+      "pediment",
+      "cephe",
+      "heykel"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 140,
+    "kategori": "arkeoloji",
+    "kelime": "arşitrav",
+    "aciklama": "sütun başlıklarının üzerine doğrudan yatay olarak oturan ve üst yapıyı taşıyan ana taş kiriş.",
+    "yasakli_kelimeler": [
+      "kiriş",
+      "sütun üstü",
+      "yatay",
+      "taş blok",
+      "taşıyıcı"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 141,
+    "kategori": "arkeoloji",
+    "kelime": "peristil",
+    "aciklama": "ortasındaki üstü açık avluyu çepeçevre saran revaklı sütunlu koridor mimarisi.",
+    "yasakli_kelimeler": [
+      "avlu",
+      "çevre",
+      "sütun dizisi",
+      "revak",
+      "iç mekan"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 142,
+    "kategori": "arkeoloji",
+    "kelime": "atrium",
+    "aciklama": "roma villalarının girişinde bulunan, tavanında ışık açıklığı ve tabanında havuz olan merkezi salon.",
+    "yasakli_kelimeler": [
+      "roma evi",
+      "havuz",
+      "açık tavan",
+      "salon",
+      "villa"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 143,
+    "kategori": "arkeoloji",
+    "kelime": "sarnıç",
+    "aciklama": "kuşatma ve kuraklık zamanlarında su ihtiyacını karşılamak için yer altına inşa edilen tonozlu taş su deposu.",
+    "yasakli_kelimeler": [
+      "su deposu",
+      "yerebatan",
+      "yeraltı",
+      "depolama",
+      "kemer"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 144,
+    "kategori": "arkeoloji",
+    "kelime": "su kemeri",
+    "aciklama": "uzak dağ kaynaklarından kente içme suyu taşımak için vadi aralarına inşa edilen çok katlı kemerli köprü.",
+    "yasakli_kelimeler": [
+      "akuedük",
+      "köprü",
+      "kemer",
+      "su taşıma",
+      "kanal"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 145,
+    "kategori": "arkeoloji",
+    "kelime": "sur duvarı",
+    "aciklama": "antik kentleri ve kaleleri düşman akınlarından ve kuşatmalardan korumak için çekilen yüksek taş set.",
+    "yasakli_kelimeler": [
+      "duvar",
+      "savunma",
+      "kale",
+      "kuşatma",
+      "taş"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 146,
+    "kategori": "arkeoloji",
+    "kelime": "burç",
+    "aciklama": "kale ve sur duvarları boyunca savunmayı ve gözetlemeyi kolaylaştırmak amacıyla dışa doğru çıkıntılı kule.",
+    "yasakli_kelimeler": [
+      "kule",
+      "sur",
+      "gözetleme",
+      "savunma",
+      "kale"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 147,
+    "kategori": "arkeoloji",
+    "kelime": "savunma hendeği",
+    "aciklama": "düşman askerlerinin ve kuşatma merdivenlerinin surlara yaklaşmasını engellemek için kazılan derin çukur.",
+    "yasakli_kelimeler": [
+      "hendek",
+      "çukur",
+      "kale önü",
+      "kuşatma",
+      "derin"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 148,
+    "kategori": "arkeoloji",
+    "kelime": "megaron",
+    "aciklama": "ortasında yuvarlak bir ocak yeri bulunan, önü açık revaklı erken tunç çağı ege ve anadolu konut tipi.",
+    "yasakli_kelimeler": [
+      "ocak",
+      "ev",
+      "revak",
+      "anadolu",
+      "erken"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 149,
+    "kategori": "arkeoloji",
+    "kelime": "kule mezar",
+    "aciklama": "özellikle roma dönemi doğu ve suriye çöl kentlerinde soylu ailelerin cenazeleri için yapılan çok katlı kule.",
+    "yasakli_kelimeler": [
+      "kule",
+      "palmira",
+      "katlı",
+      "çöl",
+      "cenaze"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 150,
+    "kategori": "arkeoloji",
+    "kelime": "sunak",
+    "aciklama": "tanrılara ibadet etmek, kurban kesmek ve adak sıvıları dökmek için tapınak önüne kurulan kutsal taş masa.",
+    "yasakli_kelimeler": [
+      "kurban",
+      "adak",
+      "masa",
+      "ibadet",
+      "altar"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 151,
+    "kategori": "arkeoloji",
+    "kelime": "çömlekçi çarkı",
+    "aciklama": "dönen dairesel tablası sayesinde kile hızlı ve pürüzsüz simetrik kap kacak şekli vermeyi sağlayan alet.",
+    "yasakli_kelimeler": [
+      "çark",
+      "dönen",
+      "kil",
+      "çömlek",
+      "tezgah"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 152,
+    "kategori": "arkeoloji",
+    "kelime": "pişmiş toprak",
+    "aciklama": "şekil verilip fırında yüksek ısıyla sertleştirilen kil hamurundan üretilmiş dayanıklı seramik malzeme.",
+    "yasakli_kelimeler": [
+      "kil",
+      "fırınlama",
+      "sert",
+      "kap",
+      "kırmızı"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 153,
+    "kategori": "arkeoloji",
+    "kelime": "astar",
+    "aciklama": "seramik kabın yüzeyini pürüzsüzleştirmek ve parlatmak için fırınlamadan önce sürülen ince sulu kil tabakası.",
+    "yasakli_kelimeler": [
+      "sulu kil",
+      "yüzey",
+      "kaplama",
+      "fırın öncesi",
+      "boya"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 154,
+    "kategori": "arkeoloji",
+    "kelime": "perdah",
+    "aciklama": "deri sertliğindeki çömleğin yüzeyini yassı taş veya kemikle ovarak parlaklık kazandırma işlemi.",
+    "yasakli_kelimeler": [
+      "parlatma",
+      "ovma",
+      "sürtme",
+      "taş",
+      "parlak"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 155,
+    "kategori": "arkeoloji",
+    "kelime": "siyah figür",
+    "aciklama": "antik yunan vazo ressamlığında figürlerin kırmızı kil üzerine siyah cila boyasıyla işlendiği vazo stili.",
+    "yasakli_kelimeler": [
+      "vazo",
+      "siyah boya",
+      "kırmızı kil",
+      "yunan",
+      "figür"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 156,
+    "kategori": "arkeoloji",
+    "kelime": "kırmızı figür",
+    "aciklama": "figürlerin açık kil renginde bırakılıp kabın arka planının siyah boyayla doldurulduğu klasik vazo tekniği.",
+    "yasakli_kelimeler": [
+      "arka plan",
+      "vazo",
+      "ters teknik",
+      "boyama",
+      "klasik"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 157,
+    "kategori": "arkeoloji",
+    "kelime": "oinokhoe",
+    "aciklama": "ziyafetlerde kraterdeki şarabı alıp kadehlere servis etmek için kullanılan üç yapraklı ağızlı antik sürahi.",
+    "yasakli_kelimeler": [
+      "sürahi",
+      "şarap",
+      "servis",
+      "yonca ağızlı",
+      "kap"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 158,
+    "kategori": "arkeoloji",
+    "kelime": "skyphos",
+    "aciklama": "antik yunan sofralarında günlük içki ve çorba tüketiminde kullanılan iki yatay kulplu derin kase.",
+    "yasakli_kelimeler": [
+      "kase",
+      "kulplu",
+      "içki",
+      "derin",
+      "sofra"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 159,
+    "kategori": "arkeoloji",
+    "kelime": "alabastron",
+    "aciklama": "antik dönemde kadınların kokulu yağ ve sıvı parfümleri taşımak için kullandığı dar boyunlu küçük şişe.",
+    "yasakli_kelimeler": [
+      "parfüm",
+      "koku",
+      "yağ",
+      "dar boyun",
+      "şişe"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 160,
+    "kategori": "arkeoloji",
+    "kelime": "aryballos",
+    "aciklama": "antik dönem sporcularının idman öncesi vücutlarına zeytinyağı sürmek için bileklerine astığı küçük küre kap.",
+    "yasakli_kelimeler": [
+      "sporcu",
+      "zeytinyağı",
+      "küre",
+      "küçük kap",
+      "idman"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 161,
+    "kategori": "arkeoloji",
+    "kelime": "unguentarium",
+    "aciklama": "antik roma mezarlarına ölü hediyesi olarak bırakılan merhem, koku ve gözyaşı kabı.",
+    "yasakli_kelimeler": [
+      "gözyaşı şişesi",
+      "merhem",
+      "roma",
+      "mezar",
+      "koku"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 162,
+    "kategori": "arkeoloji",
+    "kelime": "kandil",
+    "aciklama": "içine zeytinyağı veya hayvansal yağ konup fitil yakılarak evleri aydınlatan pişmiş toprak veya bronz lamba.",
+    "yasakli_kelimeler": [
+      "fitil",
+      "lamba",
+      "zeytinyağı",
+      "aydınlatma",
+      "yağ lambası"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 163,
+    "kategori": "arkeoloji",
+    "kelime": "pyxis",
+    "aciklama": "antik dünyada kadınların takı, merhem ve makyaj malzemelerini sakladığı kapaklı yuvarlak kutu.",
+    "yasakli_kelimeler": [
+      "kapaklı kutu",
+      "mücevher",
+      "makyaj",
+      "yuvarlak",
+      "kadın"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 164,
+    "kategori": "arkeoloji",
+    "kelime": "kantaros",
+    "aciklama": "şarap tanrısı dionisos'un elinde tuttuğu, tabandan yukarı uzanan iki büyük dikey kulplu derin kadeh.",
+    "yasakli_kelimeler": [
+      "dionisos",
+      "büyük kulp",
+      "kadeh",
+      "şarap",
+      "ayaklı"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 165,
+    "kategori": "arkeoloji",
+    "kelime": "ağırşak",
+    "aciklama": "yünü veya keteni iplik haline getirmek için kullanılan iğin ucuna takılan ortası delik yuvarlak ağırlık.",
+    "yasakli_kelimeler": [
+      "iplik",
+      "iğ",
+      "eğirme",
+      "delikli taş",
+      "yün"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 166,
+    "kategori": "arkeoloji",
+    "kelime": "tezgah ağırlığı",
+    "aciklama": "antik dikey dokuma tezgahlarında çözgü iplerinin gergin kalmasını sağlamak için iplerin ucuna bağlanan ağırlık.",
+    "yasakli_kelimeler": [
+      "dokuma",
+      "tezgah",
+      "çözgü",
+      "gergin",
+      "ip"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 167,
+    "kategori": "arkeoloji",
+    "kelime": "kemik iğne",
+    "aciklama": "deri ve kürkleri dikmek için hayvan kemiklerinden ince biçimde yontularak arkası delinen ilkel dikiş aleti.",
+    "yasakli_kelimeler": [
+      "dikiş",
+      "deri",
+      "kemik",
+      "delikli",
+      "kürk"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 168,
+    "kategori": "arkeoloji",
+    "kelime": "kemik bız",
+    "aciklama": "deri ve postlara dikiş iğnesinin geçebileceği delikler açmak için kullanılan sivri uçlu kemik delgi.",
+    "yasakli_kelimeler": [
+      "delgi",
+      "sivri",
+      "deri delme",
+      "hayvan kemiği",
+      "alet"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 169,
+    "kategori": "arkeoloji",
+    "kelime": "ok ucu",
+    "aciklama": "avlanma veya savaşta oku hedefe saplamak için çakmaktaşı, obsidiyen veya bronzdan yapılan sivri uç.",
+    "yasakli_kelimeler": [
+      "yay",
+      "ok",
+      "saplanma",
+      "sivri",
+      "av"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 170,
+    "kategori": "arkeoloji",
+    "kelime": "mızrak ucu",
+    "aciklama": "uzun ahşap kargıların ucuna takılarak fırlatılan veya saplanan üçgen metal ya da taş savaş parçası.",
+    "yasakli_kelimeler": [
+      "mızrak",
+      "savaş",
+      "kargı",
+      "fırlatma",
+      "uç"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 171,
+    "kategori": "arkeoloji",
+    "kelime": "kazıyıcı",
+    "aciklama": "av hayvanlarının derisini temizlemek ve ahşap yontmak için taştan yapılan yayvan kesici alet.",
+    "yasakli_kelimeler": [
+      "deri temizleme",
+      "kesici",
+      "yontma taş",
+      "alet",
+      "kenar"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 172,
+    "kategori": "arkeoloji",
+    "kelime": "dilgi",
+    "aciklama": "taş çekirdekten tek bir vuruşla koparılan, uzunluğu genişliğinin iki katından fazla olan keskin taş şerit.",
+    "yasakli_kelimeler": [
+      "taş şerit",
+      "keskin",
+      "çekirdek",
+      "koparma",
+      "uzun"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 173,
+    "kategori": "arkeoloji",
+    "kelime": "çekirdek taş",
+    "aciklama": "üzerinden alet yapmak amacıyla yonga ve dilgilerin koparıldığı ana hammadde kayaç kütlesi.",
+    "yasakli_kelimeler": [
+      "hammadde",
+      "yonga",
+      "koparma",
+      "ana kayaç",
+      "taş"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 174,
+    "kategori": "arkeoloji",
+    "kelime": "retuş",
+    "aciklama": "yontulmuş bir taş aletin kenarlarına minik baskılar uygulayarak testere dişi gibi keskinleştirme tekniği.",
+    "yasakli_kelimeler": [
+      "keskinleştirme",
+      "baskı",
+      "kenar",
+      "düzeltme",
+      "çentik"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 175,
+    "kategori": "arkeoloji",
+    "kelime": "havan eli",
+    "aciklama": "taş havanda tohum, tahıl veya boya maddelerini ezmek ve toz haline getirmek için kullanılan taş tokmak.",
+    "yasakli_kelimeler": [
+      "ezme",
+      "tokmak",
+      "havan",
+      "öğütme",
+      "tahıl"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 176,
+    "kategori": "arkeoloji",
+    "kelime": "öğütme taşı",
+    "aciklama": "neolitik köylerde hasat edilen buğday ve arpa tanelerini ezerek un yapmak için kullanılan yassı taş taban.",
+    "yasakli_kelimeler": [
+      "un",
+      "buğday",
+      "tahıl",
+      "neolitik",
+      "yassı"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 177,
+    "kategori": "arkeoloji",
+    "kelime": "balbal",
+    "aciklama": "eski türk mezarlarında ölen kahramanın öldürdüğü düşmanları simgeleyen insan biçimli dikili taşlar.",
+    "yasakli_kelimeler": [
+      "türk mezarı",
+      "kurgan",
+      "düşman",
+      "dikili taş",
+      "heykelcik"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 178,
+    "kategori": "arkeoloji",
+    "kelime": "ostothek",
+    "aciklama": "antik dönemde yakılan cenazelerin küllerini ve kalan kemik parçalarını muhafaza eden küçük kül sandığı.",
+    "yasakli_kelimeler": [
+      "kül sandığı",
+      "yakma",
+      "cenaze",
+      "kemik",
+      "küçük lahit"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 179,
+    "kategori": "arkeoloji",
+    "kelime": "gözyaşı şişesi",
+    "aciklama": "yas tutanların gözyaşlarını döktüğü varsayılan ve antik mezarlara sevgi ifadesi olarak bırakılan cam veya pişmiş toprak şişe.",
+    "yasakli_kelimeler": [
+      "yas",
+      "gözyaşı",
+      "mezar",
+      "küçük şişe",
+      "cam"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 180,
+    "kategori": "arkeoloji",
+    "kelime": "kaya kabartması",
+    "aciklama": "dağ ve sarp vadi yamaçlarındaki canlı kaya yüzeylerine kralların zaferlerini veya tanrıları tasvir eden anıt.",
+    "yasakli_kelimeler": [
+      "rölyef",
+      "canlı kaya",
+      "dağ yamacı",
+      "zafer",
+      "anıt"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 181,
+    "kategori": "arkeoloji",
+    "kelime": "tunç çağı",
+    "aciklama": "insanların bakır ile kalayı eritip karıştırarak sert alet ve silahlar üretmeyi öğrendiği tarihsel çağ.",
+    "yasakli_kelimeler": [
+      "bakır",
+      "kalay",
+      "alaşım",
+      "bronz",
+      "maden devri"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 182,
+    "kategori": "arkeoloji",
+    "kelime": "demir çağı",
+    "aciklama": "yüksek ısıda demir madeninin ergitilip işlenmesiyle tarım ve savaş aletlerinin kökten değiştiği dönem.",
+    "yasakli_kelimeler": [
+      "demir",
+      "ergitme",
+      "yüksek ısı",
+      "maden",
+      "silah"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 183,
+    "kategori": "arkeoloji",
+    "kelime": "helenistik dönem",
+    "aciklama": "büyük iskender'in fetihleriyle yunan kültürü ile doğu kültürlerinin harmanlandığı arkeolojik ve tarihi evre.",
+    "yasakli_kelimeler": [
+      "büyük iskender",
+      "yunan",
+      "doğu",
+      "sentez",
+      "akdeniz"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 184,
+    "kategori": "arkeoloji",
+    "kelime": "eritme potası",
+    "aciklama": "yüksek ateşte maden cevherlerini veya metalleri eritmek için ateşe dayanıklı kilden yapılmış kalın kap.",
+    "yasakli_kelimeler": [
+      "maden",
+      "ateş",
+      "ergitme",
+      "fırın",
+      "döküm"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 185,
+    "kategori": "arkeoloji",
+    "kelime": "cüruf",
+    "aciklama": "maden eritme işlemi sırasında sıvı metalin yüzeyinde toplanıp ayrılan camsı atık tortu maddesi.",
+    "yasakli_kelimeler": [
+      "atık",
+      "metal artığı",
+      "camlaşmış",
+      "fırın atığı",
+      "ergitme"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 186,
+    "kategori": "arkeoloji",
+    "kelime": "döküm kalıbı",
+    "aciklama": "erimiş sıvı metalin dökülerek balta, hançer veya heykel üretilmesi için taştan oyulmuş negatif kalıp.",
+    "yasakli_kelimeler": [
+      "kalıp",
+      "sıvı metal",
+      "döküm",
+      "balta",
+      "negatif"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 187,
+    "kategori": "arkeoloji",
+    "kelime": "kayıp mum",
+    "aciklama": "önce balmumundan modeli yapılıp çamurla kaplanan ve eritilerek boşluğuna metal dökülen heykel döküm yöntemi.",
+    "yasakli_kelimeler": [
+      "balmumu",
+      "döküm",
+      "bronz heykel",
+      "kalıp",
+      "eritme"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 188,
+    "kategori": "arkeoloji",
+    "kelime": "elektron",
+    "aciklama": "altın ve gümüşün doğal karışımı olan ve tarihteki ilk madeni paraların basımında kullanılan değerli alaşım.",
+    "yasakli_kelimeler": [
+      "altın",
+      "gümüş",
+      "alaşım",
+      "lidya",
+      "ilk sikke"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 189,
+    "kategori": "arkeoloji",
+    "kelime": "sikke",
+    "aciklama": "üzerinde basıldığı devletin damgası ve yöneticinin adı bulunan, alışverişte kullanılan madeni para.",
+    "yasakli_kelimeler": [
+      "madeni para",
+      "lidya",
+      "darphane",
+      "para",
+      "damga"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 190,
+    "kategori": "arkeoloji",
+    "kelime": "nümizmatik",
+    "aciklama": "eski madeni paraları, madalyonları ve para basım tarihlerini inceleyen yardımcı bilim dalı.",
+    "yasakli_kelimeler": [
+      "para bilimi",
+      "sikke",
+      "madalyon",
+      "darphane",
+      "koleksiyon"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 191,
+    "kategori": "arkeoloji",
+    "kelime": "darphane",
+    "aciklama": "antik kentlerde metal diskler üzerine çekiçle kalıba vurularak resmi sikkelerin basıldığı devlet atölyesi.",
+    "yasakli_kelimeler": [
+      "para basımı",
+      "çekiç",
+      "sikke",
+      "devlet",
+      "atölye"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 192,
+    "kategori": "arkeoloji",
+    "kelime": "define",
+    "aciklama": "istila veya savaş sırasında sahipleri tarafından toprağa gömülmüş ve unutulmuş toplu sikke ve mücevher.",
+    "yasakli_kelimeler": [
+      "hazine",
+      "gömü",
+      "altın",
+      "toprak altı",
+      "saklı"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 193,
+    "kategori": "arkeoloji",
+    "kelime": "mezar hediyesi",
+    "aciklama": "ölen kişinin ahirette kullanması veya statüsünü belirtmesi için mezarına konulan eşya ve takılar.",
+    "yasakli_kelimeler": [
+      "ölü hediyesi",
+      "mezar eşyası",
+      "armağan",
+      "öteki dünya",
+      "takı"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 194,
+    "kategori": "arkeoloji",
+    "kelime": "diadema",
+    "aciklama": "antik çağ hükümdarlarının ve kraliçelerinin soyluluk simgesi olarak alınlarına taktıkları ince altın taç.",
+    "yasakli_kelimeler": [
+      "taç",
+      "altın yaprak",
+      "kral",
+      "alınlık",
+      "soylu"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 195,
+    "kategori": "arkeoloji",
+    "kelime": "altın varak",
+    "aciklama": "antik dönemde ahşap veya taş heykellerin üzerini kaplamak için dövülerek kağıt inceliğine getirilen altın yaprak.",
+    "yasakli_kelimeler": [
+      "ince altın",
+      "kaplama",
+      "yaprak",
+      "yaldız",
+      "dövme"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 196,
+    "kategori": "arkeoloji",
+    "kelime": "çivi yazısı",
+    "aciklama": "ıslak kil tabletler üzerine ucu üçgen sivriltilmiş kamış kalemle basılarak yazılan en eski yazı sistemi.",
+    "yasakli_kelimeler": [
+      "sümer",
+      "kil tablet",
+      "kamış",
+      "mezopotamya",
+      "yazı"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 197,
+    "kategori": "arkeoloji",
+    "kelime": "hiyeroglif",
+    "aciklama": "eski mısır anıtlarında ve papirüslerinde canlı ve nesnelerin resimleriyle sesleri ifade eden resim yazısı.",
+    "yasakli_kelimeler": [
+      "mısır",
+      "resim yazısı",
+      "papirüs",
+      "anıt",
+      "sembol"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 198,
+    "kategori": "arkeoloji",
+    "kelime": "papirüs",
+    "aciklama": "nil deltası sazlıklarının saplarından şeritler halinde kesilip dövülerek elde edilen ilk rulo yazı kağıdı.",
+    "yasakli_kelimeler": [
+      "nil sazı",
+      "mısır kağıdı",
+      "rulo",
+      "yazı",
+      "bitki"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 199,
+    "kategori": "arkeoloji",
+    "kelime": "parşömen",
+    "aciklama": "bergama krallığında geliştirilen, koyun veya keçi derisinin özel yöntemle işlenmesiyle yapılan dayanıklı yazı derisi.",
+    "yasakli_kelimeler": [
+      "bergama",
+      "deri",
+      "hayvan derisi",
+      "yazı",
+      "kitap"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 200,
+    "kategori": "arkeoloji",
+    "kelime": "kil tablet",
+    "aciklama": "üzerine çivi yazısıyla antlaşma, mektup veya ticaret kaydı yazıldıktan sonra güneşte kurutulan toprak levha.",
+    "yasakli_kelimeler": [
+      "çivi yazısı",
+      "toprak levha",
+      "kurtulmuş",
+      "belge",
+      "sümer"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "kategori": "arkeoloji",
+    "kelime": "kazı yapmak",
+    "aciklama": "toprak altındaki tarihi eserleri ortaya çıkarmak için kazmak",
+    "yasakli_kelimeler": [
+      "toprak",
+      "mala",
+      "tarih",
+      "eser",
+      "arkeolog"
+    ],
+    "zorluk": "kolay",
+    "id": 201
+  },
+  {
+    "kategori": "arkeoloji",
+    "kelime": "buluntu çıkarmak",
+    "aciklama": "toprağın altından antik çanak, çömlek veya heykel parçası bulmak",
+    "yasakli_kelimeler": [
+      "çömlek",
+      "eser",
+      "heykel",
+      "antik",
+      "toprak"
+    ],
+    "zorluk": "kolay",
+    "id": 202
+  },
+  {
+    "kategori": "arkeoloji",
+    "kelime": "toprak elemek",
+    "aciklama": "kazılan toprağı elekten geçirerek küçük boncuk ve tohum kalıntılarını yakalamak",
+    "yasakli_kelimeler": [
+      "elek",
+      "küçük parça",
+      "boncuk",
+      "ayırmak",
+      "kum"
+    ],
+    "zorluk": "kolay",
+    "id": 203
+  },
+  {
+    "kategori": "arkeoloji",
+    "kelime": "fırçalamak",
+    "aciklama": "çıkarılan hassas tarihi objenin üzerindeki toz ve çamuru temizlemek",
+    "yasakli_kelimeler": [
+      "toz",
+      "çamur",
+      "hassas",
+      "temizlik",
+      "kıl fırça"
+    ],
+    "zorluk": "kolay",
+    "id": 204
+  },
+  {
+    "kategori": "arkeoloji",
+    "kelime": "fotoğraflamak",
+    "aciklama": "buluntunun bulunduğu konumu ve halini ölçek çubuğuyla belgelemek",
+    "yasakli_kelimeler": [
+      "ölçek",
+      "belge",
+      "kamera",
+      "in situ",
+      "kayıt"
+    ],
+    "zorluk": "kolay",
+    "id": 205
+  },
+  {
+    "kategori": "arkeoloji",
+    "kelime": "kataloglamak",
+    "aciklama": "kazıda çıkan her esere numara verip özelliklerini deftere yazmak",
+    "yasakli_kelimeler": [
+      "envanter",
+      "numara",
+      "defter",
+      "kayıt",
+      "liste"
+    ],
+    "zorluk": "kolay",
+    "id": 206
+  },
+  {
+    "kategori": "arkeoloji",
+    "kelime": "höyük araştırmak",
+    "aciklama": "kat kat yerleşimlerden oluşan yapay tepeyi incelemek",
+    "yasakli_kelimeler": [
+      "tepe",
+      "katman",
+      "yerleşim",
+      "eski",
+      "çatalhöyük"
+    ],
+    "zorluk": "kolay",
+    "id": 207
+  },
+  {
+    "kategori": "arkeoloji",
+    "kelime": "müzeye teslim etmek",
+    "aciklama": "restore edilen eserleri sergilenmek ve korunmak üzere müzeye vermek",
+    "yasakli_kelimeler": [
+      "sergi",
+      "vitrin",
+      "devlet",
+      "koruma",
+      "tarihi eser"
+    ],
+    "zorluk": "kolay",
+    "id": 208
+  },
+  {
+    "kategori": "arkeoloji",
+    "kelime": "çizimini yapmak",
+    "aciklama": "antik vazonun veya mimari taşın teknik kesit ve profil çizimini çıkarmak",
+    "yasakli_kelimeler": [
+      "teknik çizim",
+      "kesit",
+      "profil",
+      "milimetrik",
+      "ölçekli"
+    ],
+    "zorluk": "kolay",
+    "id": 209
+  },
+  {
+    "kategori": "arkeoloji",
+    "kelime": "harabeleri gezmek",
+    "aciklama": "antik kent kalıntıları arasında yürüyerek yüzey incelemesi yapmak",
+    "yasakli_kelimeler": [
+      "antik kent",
+      "sütun",
+      "kalıntı",
+      "yürümek",
+      "ziyaret"
+    ],
+    "zorluk": "kolay",
+    "id": 210
+  },
+  {
+    "kategori": "arkeoloji",
+    "kelime": "lahit açmak",
+    "aciklama": "taş oymalı antik mezar sandığının kapağını dikkatlice kaldırmak",
+    "yasakli_kelimeler": [
+      "mezar",
+      "mermer",
+      "kapak",
+      "iskelet",
+      "sandık"
+    ],
+    "zorluk": "kolay",
+    "id": 211
+  },
+  {
+    "kategori": "arkeoloji",
+    "kelime": "mozaik temizlemek",
+    "aciklama": "küçük renkli taşlardan oluşan taban resminin üzerindeki harcı kazımak",
+    "yasakli_kelimeler": [
+      "tessera",
+      "renkli taş",
+      "taban",
+      "zeugma",
+      "temizlik"
+    ],
+    "zorluk": "kolay",
+    "id": 212
+  },
+  {
+    "kategori": "arkeoloji",
+    "kelime": "tabakalandırmak",
+    "aciklama": "kazı alanındaki kültür katmanlarını kronolojik sıraya göre ayırt etmek",
+    "yasakli_kelimeler": [
+      "stratigrafi",
+      "kültür katı",
+      "kronoloji",
+      "seviye",
+      "zaman"
+    ],
+    "zorluk": "orta",
+    "id": 213
+  },
+  {
+    "kategori": "arkeoloji",
+    "kelime": "tarihlendirmek",
+    "aciklama": "buluntunun hangi yüzyıla veya döneme ait olduğunu belirlemek",
+    "yasakli_kelimeler": [
+      "karbon 14",
+      "yüzyıl",
+      "dönem",
+      "kronoloji",
+      "çağ"
+    ],
+    "zorluk": "orta",
+    "id": 214
+  },
+  {
+    "kategori": "arkeoloji",
+    "kelime": "restorasyon yapmak",
+    "aciklama": "hasar görmüş tarihi eseri aslına sadık kalarak onarmak",
+    "yasakli_kelimeler": [
+      "onarım",
+      "konservasyon",
+      "tamir",
+      "orijinal",
+      "harç"
+    ],
+    "zorluk": "orta",
+    "id": 215
+  },
+  {
+    "kategori": "arkeoloji",
+    "kelime": "anastilosis uygulamak",
+    "aciklama": "yıkılmış antik tapınak veya sütunları kendi orijinal taşlarıyla ayağa kaldırmak",
+    "yasakli_kelimeler": [
+      "ayağa kaldırma",
+      "orijinal taş",
+      "sütun",
+      "tapınak",
+      "yeniden inşa"
+    ],
+    "zorluk": "orta",
+    "id": 216
+  },
+  {
+    "kategori": "arkeoloji",
+    "kelime": "yüzey araştırması yapmak",
+    "aciklama": "kazı yapmadan arazideki seramik kırıkları ve mimari izleri taramak",
+    "yasakli_kelimeler": [
+      "prospeksiyon",
+      "arazi",
+      "seramik",
+      "tarama",
+      "kazısız"
+    ],
+    "zorluk": "orta",
+    "id": 217
+  },
+  {
+    "kategori": "arkeoloji",
+    "kelime": "in situ korumak",
+    "aciklama": "arkeolojik eseri bulunduğu orijinal zemin ve pozisyonda muhafaza etmek",
+    "yasakli_kelimeler": [
+      "orijinal yer",
+      "kaldırmadan",
+      "yerinde",
+      "koruma",
+      "bulunduğu hal"
+    ],
+    "zorluk": "orta",
+    "id": 218
+  },
+  {
+    "kategori": "arkeoloji",
+    "kelime": "karbon 14 testi yapmak",
+    "aciklama": "organik kalıntıların radyoaktif karbon izotop bozunumuyla yaşını tayin etmek",
+    "yasakli_kelimeler": [
+      "izotop",
+      "yaş tayini",
+      "organik",
+      "radyoaktif",
+      "yarılanma ömrü"
+    ],
+    "zorluk": "orta",
+    "id": 219
+  },
+  {
+    "kategori": "arkeoloji",
+    "kelime": "grid kareleme yapmak",
+    "aciklama": "kazı alanını 5x5 veya 10x10 metrelik ızgara parsellere bölmek",
+    "yasakli_kelimeler": [
+      "ızgara",
+      "parsel",
+      "koordinat",
+      "kare",
+      "plan"
+    ],
+    "zorluk": "orta",
+    "id": 220
+  },
+  {
+    "kategori": "arkeoloji",
+    "kelime": "nirengi noktası almak",
+    "aciklama": "kazı alanının yükseklik ve konumunu referans sabit kerterize bağlamak",
+    "yasakli_kelimeler": [
+      "kot",
+      "referans",
+      "teodolit",
+      "sabit nokta",
+      "yükseklik"
+    ],
+    "zorluk": "orta",
+    "id": 221
+  },
+  {
+    "kategori": "arkeoloji",
+    "kelime": "seramik tipolojisi kurmak",
+    "aciklama": "kap kaçak formlarını ağız, kulp ve dip biçimlerine göre sınıflandırmak",
+    "yasakli_kelimeler": [
+      "form",
+      "çömlek",
+      "kulp",
+      "sınıflandırma",
+      "ağız kenarı"
+    ],
+    "zorluk": "orta",
+    "id": 222
+  },
+  {
+    "kategori": "arkeoloji",
+    "kelime": "su altı kazısı yapmak",
+    "aciklama": "batık gemi ve liman kalıntılarını dalış ekipmanlarıyla deniz dibinde kazmak",
+    "yasakli_kelimeler": [
+      "batık",
+      "dalış",
+      "deniz dibi",
+      "ulu burun",
+      "sualtı"
+    ],
+    "zorluk": "orta",
+    "id": 223
+  },
+  {
+    "kategori": "arkeoloji",
+    "kelime": "paleobotanik incelemek",
+    "aciklama": "kazıda bulunan yanmış tohum ve polenlerle antik tarım ürünlerini saptamak",
+    "yasakli_kelimeler": [
+      "tohum",
+      "polen",
+      "antik tarım",
+      "bitki",
+      "tahıl"
+    ],
+    "zorluk": "orta",
+    "id": 224
+  },
+  {
+    "kategori": "arkeoloji",
+    "kelime": "arkeometri uygulamak",
+    "aciklama": "fizik ve kimya yöntemlerini arkeolojik analizlerde kullanmak",
+    "yasakli_kelimeler": [
+      "fizik",
+      "kimya",
+      "analiz",
+      "laboratuvar",
+      "ölçüm"
+    ],
+    "zorluk": "orta",
+    "id": 225
+  },
+  {
+    "kategori": "arkeoloji",
+    "kelime": "obsidiyen kaynak izlemek",
+    "aciklama": "volkanik cam aletlerin kimyasal yapısından hangi madenden geldiğini bulmak",
+    "yasakli_kelimeler": [
+      "volkanik cam",
+      "kaynak",
+      "maden",
+      "ticaret yolu",
+      "kesici"
+    ],
+    "zorluk": "orta",
+    "id": 226
+  },
+  {
+    "kategori": "arkeoloji",
+    "kelime": "dendrokronoloji yapmak",
+    "aciklama": "ahşap kalıntıların ağaç halkalarını sayarak kesin tarihleme yapmak",
+    "yasakli_kelimeler": [
+      "ağaç halkası",
+      "ahşap",
+      "yıllık halka",
+      "tarihleme",
+      "kesin yıl"
+    ],
+    "zorluk": "orta",
+    "id": 227
+  },
+  {
+    "kategori": "arkeoloji",
+    "kelime": "kaçak kazı önlemek",
+    "aciklama": "definecilerin tarihi sit alanlarına dinamik ve dedektörle zarar vermesini engellemek",
+    "yasakli_kelimeler": [
+      "defineci",
+      "kaçakçı",
+      "tahribat",
+      "sit alanı",
+      "jandarma"
+    ],
+    "zorluk": "orta",
+    "id": 228
+  },
+  {
+    "kategori": "arkeoloji",
+    "kelime": "tümülüs kazmak",
+    "aciklama": "kral veya soylu mezarı üzerine yığılmış yapay toprak tepeyi kazmak",
+    "yasakli_kelimeler": [
+      "mezar odası",
+      "toprak yığını",
+      "kral",
+      "dromos",
+      "frigya"
+    ],
+    "zorluk": "orta",
+    "id": 229
+  },
+  {
+    "kategori": "arkeoloji",
+    "kelime": "harç analizi yapmak",
+    "aciklama": "antik yapıların duvarlarında kullanılan kireç ve kiremit tozu karışımını incelemek",
+    "yasakli_kelimeler": [
+      "horasan harcı",
+      "kireç",
+      "duvar",
+      "bağlayıcı",
+      "karışım"
+    ],
+    "zorluk": "orta",
+    "id": 230
+  },
+  {
+    "kategori": "arkeoloji",
+    "kelime": "çivi yazısı okumak",
+    "aciklama": "kil tabletler üzerine kamışla basılmış antik mezopotamya yazılarını çözmek",
+    "yasakli_kelimeler": [
+      "kil tablet",
+      "asur",
+      "hitit",
+      "kamış",
+      "çözmek"
+    ],
+    "zorluk": "orta",
+    "id": 231
+  },
+  {
+    "kategori": "arkeoloji",
+    "kelime": "lidar ile taramak",
+    "aciklama": "uçaktan lazer ışınları göndererek sık orman altındaki antik şehir kalıntılarını haritalamak",
+    "yasakli_kelimeler": [
+      "lazer",
+      "havadan",
+      "orman altı",
+      "üç boyutlu",
+      "harita"
+    ],
+    "zorluk": "orta",
+    "id": 232
+  },
+  {
+    "kategori": "arkeoloji",
+    "kelime": "jeoradar çekmek",
+    "aciklama": "yeraltına elektromanyetik dalgalar göndererek gömülü duvar ve mezarları kazmadan görmek",
+    "yasakli_kelimeler": [
+      "gpr",
+      "yeraltı radarı",
+      "duvar",
+      "elektromanyetik",
+      "kazısız"
+    ],
+    "zorluk": "orta",
+    "id": 233
+  },
+  {
+    "kategori": "arkeoloji",
+    "kelime": "sikke darbetmek",
+    "aciklama": "antik madeni paranın üzerindeki kral portresi ve lejandı incelemek",
+    "yasakli_kelimeler": [
+      "nümizmatik",
+      "madeni para",
+      "lejand",
+      "bronz",
+      "gümüş"
+    ],
+    "zorluk": "orta",
+    "id": 234
+  },
+  {
+    "kategori": "arkeoloji",
+    "kelime": "osteolojik analiz yapmak",
+    "aciklama": "antik iskeletlerin kemiklerinden yaş, cinsiyet ve hastalık tespiti yapmak",
+    "yasakli_kelimeler": [
+      "iskelet",
+      "kemik",
+      "cinsiyet",
+      "hastalık",
+      "antropoloji"
+    ],
+    "zorluk": "orta",
+    "id": 235
+  },
+  {
+    "kategori": "arkeoloji",
+    "kelime": "kazı günlüğü tutmak",
+    "aciklama": "her kazı gününün hava durumu, çalışan işçi sayısı ve çıkarılan buluntuları deftere yazmak",
+    "yasakli_kelimeler": [
+      "günlük",
+      "rapor",
+      "kayıt",
+      "açma",
+      "heyet"
+    ],
+    "zorluk": "orta",
+    "id": 236
+  },
+  {
+    "kategori": "arkeoloji",
+    "kelime": "termolüminesans ölçmek",
+    "aciklama": "fırınlanmış seramik ve çömleklerin ısıtıldığında yaydığı ışıma ile yaşını bulmak",
+    "yasakli_kelimeler": [
+      "ışıma",
+      "seramik",
+      "fırınlama",
+      "elektron",
+      "yaş tayini"
+    ],
+    "zorluk": "zor",
+    "id": 237
+  },
+  {
+    "kategori": "arkeoloji",
+    "kelime": "strontiyum izotopu analiz etmek",
+    "aciklama": "diş minesindeki izotop oranlarıyla antik bireyin nerede doğup göç ettiğini belirlemek",
+    "yasakli_kelimeler": [
+      "diş minesi",
+      "göç rotası",
+      "izotop",
+      "beslenme",
+      "coğrafya"
+    ],
+    "zorluk": "zor",
+    "id": 238
+  },
+  {
+    "kategori": "arkeoloji",
+    "kelime": "antik dna dizilemek",
+    "aciklama": "binlerce yıllık kemik tozundan pcr yöntemiyle antik genom haritası çıkarmak",
+    "yasakli_kelimeler": [
+      "adna",
+      "genom",
+      "kemik tozu",
+      "akrabalık",
+      "dizileme"
+    ],
+    "zorluk": "zor",
+    "id": 239
+  },
+  {
+    "kategori": "arkeoloji",
+    "kelime": "petrografik kesit incelemek",
+    "aciklama": "seramik kırığından mikronluk ince dilim alıp polarize mikroskopta mineralleri saymak",
+    "yasakli_kelimeler": [
+      "polarize mikroskop",
+      "ince kesit",
+      "mineral",
+      "kil yapısı",
+      "fırınlama"
+    ],
+    "zorluk": "zor",
+    "id": 240
+  },
+  {
+    "kategori": "arkeoloji",
+    "kelime": "kullanım izi analizi yapmak",
+    "aciklama": "taş aletlerin ağzındaki mikroskobik aşınma çizgilerinden ne kesildiğini anlamak",
+    "yasakli_kelimeler": [
+      "use wear",
+      "mikroskop",
+      "aşınma",
+      "kesme izi",
+      "deri ahşap"
+    ],
+    "zorluk": "zor",
+    "id": 241
+  },
+  {
+    "kategori": "arkeoloji",
+    "kelime": "harris matrisi oluşturmak",
+    "aciklama": "kazıdaki yüzlerce tabaka ve çukurun birbirini kesme ilişkilerini şematize etmek",
+    "yasakli_kelimeler": [
+      "tabakalanma",
+      "şema",
+      "stratigrafi",
+      "kronolojik ilişki",
+      "kesit"
+    ],
+    "zorluk": "zor",
+    "id": 242
+  },
+  {
+    "kategori": "arkeoloji",
+    "kelime": "potasyum argon tarihlemek",
+    "aciklama": "milyonlarca yıllık volkanik tüf tabakalarının yaşını radyoaktif gazla ölçmek",
+    "yasakli_kelimeler": [
+      "volkanik kül",
+      "argon",
+      "erken insan",
+      "milyon yıl",
+      "izotop"
+    ],
+    "zorluk": "zor",
+    "id": 243
+  },
+  {
+    "kategori": "arkeoloji",
+    "kelime": "lityik teknoloji çözümlemek",
+    "aciklama": "yontma taş çekirdeğinden dilgi ve yonga çıkarma vurma açılarını rekonstrükte etmek",
+    "yasakli_kelimeler": [
+      "yonga",
+      "çekirdek",
+      "dilgi",
+      "vurmaç",
+      "levallois"
+    ],
+    "zorluk": "zor",
+    "id": 244
+  },
+  {
+    "kategori": "arkeoloji",
+    "kelime": "fitolit ayıklamak",
+    "aciklama": "toprakta çürüyen bitkilerin geride bıraktığı mikroskobik silika iskeletleri ayrıştırmak",
+    "yasakli_kelimeler": [
+      "silika",
+      "mikroskobik",
+      "bitki iskeleti",
+      "tarım",
+      "tortu"
+    ],
+    "zorluk": "zor",
+    "id": 245
+  },
+  {
+    "kategori": "arkeoloji",
+    "kelime": "izotopik diyet rekonstrüksiyonu yapmak",
+    "aciklama": "kemik kollajenindeki karbon ve azot izotoplarıyla antik beslenmeyi çözmek",
+    "yasakli_kelimeler": [
+      "karbon azot",
+      "kollajen",
+      "deniz ürünü",
+      "et tüketimi",
+      "diyet"
+    ],
+    "zorluk": "zor",
+    "id": 246
+  },
+  {
+    "kategori": "arkeoloji",
+    "kelime": "palinolojik karot almak",
+    "aciklama": "göl tabanından sondajla çamur tüpü çıkarıp binlerce yıllık polen katmanlarını saymak",
+    "yasakli_kelimeler": [
+      "polen",
+      "göl tabanı",
+      "karot",
+      "sondaj",
+      "eski iklim"
+    ],
+    "zorluk": "zor",
+    "id": 247
+  },
+  {
+    "kategori": "arkeoloji",
+    "kelime": "reflüktans transformasyon görüntülemek",
+    "aciklama": "silik yazıt ve kabartmaları farklı açılardan aydınlatıp dijitalde netleştirmek",
+    "yasakli_kelimeler": [
+      "rti",
+      "yazıt",
+      "silik kabartma",
+      "aydınlatma",
+      "dijital yüzey"
+    ],
+    "zorluk": "zor",
+    "id": 248
+  },
+  {
+    "kategori": "arkeoloji",
+    "kelime": "manyetometre ile taramak",
+    "aciklama": "yeraltındaki yanmış fırın ve taş duvarların manyetik anomalisini ölçmek",
+    "yasakli_kelimeler": [
+      "manyetik",
+      "anomali",
+      "fırın",
+      "jeofizik",
+      "cihaz"
+    ],
+    "zorluk": "zor",
+    "id": 249
+  },
+  {
+    "kategori": "arkeoloji",
+    "kelime": "taponomi değerlendirmek",
+    "aciklama": "canlının ölümünden fosilleşip kazıda bulunmasına kadar geçen çürüme ve gömülme süreçlerini incelemek",
+    "yasakli_kelimeler": [
+      "çürüme",
+      "gömülme",
+      "fosilleşme",
+      "aşınma",
+      "kemik dağılımı"
+    ],
+    "zorluk": "zor",
+    "id": 250
   }
 ]

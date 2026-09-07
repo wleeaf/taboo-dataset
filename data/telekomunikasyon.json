@@ -3,7 +3,7 @@
     "id": 1,
     "kategori": "telekomunikasyon",
     "kelime": "bant genişliği",
-    "aciklama": "bir iletişim kanalının belirli bir zaman diliminde taşıyabileceği azami veri miktarını veya frekans aralığını belirten ölçü.",
+    "aciklama": "bir iletişim kanalının taşıyabileceği maksimum veri miktarı kapasitesi",
     "yasakli_kelimeler": [
       "kapasite",
       "hız",
@@ -17,7 +17,7 @@
     "id": 2,
     "kategori": "telekomunikasyon",
     "kelime": "modülasyon",
-    "aciklama": "bilgi taşıyan bir sinyali uzak mesafelere iletmek amacıyla yüksek frekanslı bir taşıyıcı dalganın özelliklerini değiştirme işlemi.",
+    "aciklama": "bilgi sinyalini uzak mesafeye iletmek için taşıyıcıyı değiştirme",
     "yasakli_kelimeler": [
       "taşıyıcı",
       "sinyal",
@@ -31,7 +31,7 @@
     "id": 3,
     "kategori": "telekomunikasyon",
     "kelime": "genlik modülasyonu",
-    "aciklama": "ses veya bilgi sinyaline bağlı olarak taşıyıcı radyo dalgasının yüksekliğini yani şiddetini değiştirme yöntemi.",
+    "aciklama": "taşıyıcı radyo dalgasının şiddetini değiştirerek yapılan modülasyon",
     "yasakli_kelimeler": [
       "genlik",
       "şiddet",
@@ -45,7 +45,7 @@
     "id": 4,
     "kategori": "telekomunikasyon",
     "kelime": "frekans modülasyonu",
-    "aciklama": "iletilmek istenen bilgiye göre taşıyıcı dalganın saniyedeki salınım sıklığını değiştiren parazite dayanıklı yayın tekniği.",
+    "aciklama": "taşıyıcı dalganın salınım sıklığını değiştirerek yapılan yayın tekniği",
     "yasakli_kelimeler": [
       "frekans",
       "salınım",
@@ -59,7 +59,7 @@
     "id": 5,
     "kategori": "telekomunikasyon",
     "kelime": "faz modülasyonu",
-    "aciklama": "taşıyıcı sinyalin dalga başlangıç açısını veya konumunu iletilecek dijital bilgiye göre kaydıran modülasyon türü.",
+    "aciklama": "taşıyıcı sinyalin dalga başlangıç açısını kaydıran modülasyon türü",
     "yasakli_kelimeler": [
       "faz",
       "açı",
@@ -73,7 +73,7 @@
     "id": 6,
     "kategori": "telekomunikasyon",
     "kelime": "karesel genlik modülasyonu",
-    "aciklama": "aynı frekanstaki iki taşıyıcı dalganın hem genliğini hem de fazını eşzamanlı değiştirerek çok yüksek bit aktarımı sağlayan yöntem.",
+    "aciklama": "taşıyıcı dalganın hem genlik hem fazını değiştiren modülasyon",
     "yasakli_kelimeler": [
       "faz",
       "genlik",
@@ -87,7 +87,7 @@
     "id": 7,
     "kategori": "telekomunikasyon",
     "kelime": "dik frekanslı çoğullama",
-    "aciklama": "yüksek hızlı dijital verileri birbirine dik çok sayıda alt frekansa bölerek parazitsiz ve verimli aktaran iletim teknolojisi.",
+    "aciklama": "verileri birbirine dik alt frekanslara bölerek aktaran teknoloji",
     "yasakli_kelimeler": [
       "alt taşıyıcı",
       "dik sinyal",
@@ -101,7 +101,7 @@
     "id": 8,
     "kategori": "telekomunikasyon",
     "kelime": "çoğullama",
-    "aciklama": "birden çok bağımsız iletişim kanalından gelen verileri birleştirerek tek bir fiziksel hat üzerinden eşzamanlı aktarma tekniği.",
+    "aciklama": "birden fazla sinyali tek bir hat üzerinden birleştirerek aktarma",
     "yasakli_kelimeler": [
       "birleştirme",
       "hat",
@@ -115,7 +115,7 @@
     "id": 9,
     "kategori": "telekomunikasyon",
     "kelime": "zaman bölmeli çoğullama",
-    "aciklama": "ortak bir iletim kanalını kullanıcılara sırayla çok kısa periyodik zaman dilimleri tahsis ederek paylaştırma yöntemi.",
+    "aciklama": "ortak iletim kanalını kullanıcılara zaman dilimleriyle paylaştırma yöntemi",
     "yasakli_kelimeler": [
       "zaman",
       "dilim",
@@ -129,7 +129,7 @@
     "id": 10,
     "kategori": "telekomunikasyon",
     "kelime": "frekans bölmeli çoğullama",
-    "aciklama": "mevcut iletişim bandını farklı frekans aralıklarına bölerek her kullanıcıya sabit bir alt kanal tahsis etme tekniği.",
+    "aciklama": "iletişim bandını frekans aralıklarına bölerek paylaştırma tekniği",
     "yasakli_kelimeler": [
       "frekans",
       "bant",
@@ -143,7 +143,7 @@
     "id": 11,
     "kategori": "telekomunikasyon",
     "kelime": "dalga boyu çoğullama",
-    "aciklama": "tek bir fiber kablo üzerinden farklı dalga boyundaki lazer ışıklarını aynı anda ileterek kapasiteyi katlayan optik yöntem.",
+    "aciklama": "fiber kablodan farklı dalga boyundaki ışıkları iletme yöntemi",
     "yasakli_kelimeler": [
       "optik hat",
       "farklı lazer ışığı",
@@ -157,7 +157,7 @@
     "id": 12,
     "kategori": "telekomunikasyon",
     "kelime": "fiber optik kablo",
-    "aciklama": "verileri elektrik sinyali yerine saf cam veya plastik iplikçikler içerisinden ışık yansımalarıyla ışık hızına yakın ileten kablo.",
+    "aciklama": "verileri ışık yansımalarıyla çok hızlı ileten cam kablo",
     "yasakli_kelimeler": [
       "cam",
       "ışık",
@@ -171,7 +171,7 @@
     "id": 13,
     "kategori": "telekomunikasyon",
     "kelime": "tek modlu fiber",
-    "aciklama": "çok ince çekirdek çapı sayesinde ışığın yalnızca tek bir doğrudan ışın yolu izleyerek onlarca kilometre bozulmadan gitmesini sağlayan fiber.",
+    "aciklama": "ışığın tek bir yoldan uzun mesafelere gittiği fiber",
     "yasakli_kelimeler": [
       "ince",
       "çekirdek",
@@ -185,7 +185,7 @@
     "id": 14,
     "kategori": "telekomunikasyon",
     "kelime": "çok modlu fiber",
-    "aciklama": "daha geniş çekirdeği sayesinde ışığın farklı açılardan yansıyarak ilerlediği, kısa mesafeli yerel ağlarda kullanılan fiber kablo.",
+    "aciklama": "kısa mesafelerde kullanılan geniş çekirdekli optik fiber kablo",
     "yasakli_kelimeler": [
       "geniş",
       "çekirdek",
@@ -199,7 +199,7 @@
     "id": 15,
     "kategori": "telekomunikasyon",
     "kelime": "sinyal zayıflaması",
-    "aciklama": "elektriksel veya optik bir sinyalin iletim ortamında yol aldıkça direnç ve saçılma nedeniyle gücünün azalması.",
+    "aciklama": "sinyalin iletim ortamında ilerledikçe gücünü ve enerjisini kaybetmesi",
     "yasakli_kelimeler": [
       "kayıp",
       "azalma",
@@ -213,7 +213,7 @@
     "id": 16,
     "kategori": "telekomunikasyon",
     "kelime": "kromatik dağılma",
-    "aciklama": "fiber kablo içindeki farklı dalga boylarındaki ışık bileşenlerinin farklı hızlarda ilerlemesiyle optik darbenin zamanla yayılıp bozulması.",
+    "aciklama": "farklı dalga boylarındaki ışıkların farklı hızlarda ilerlemesiyle yayılma",
     "yasakli_kelimeler": [
       "ışık",
       "yayılma",
@@ -227,7 +227,7 @@
     "id": 17,
     "kategori": "telekomunikasyon",
     "kelime": "sinyal gürültü oranı",
-    "aciklama": "faydalı iletişim sinyalinin gücünün, hatta mevcut olan arka plan gürültü gücüne oranını gösteren temel kalite ölçüsü.",
+    "aciklama": "faydalı sinyal gücünün arka plan gürültüsüne olan kalite oranı",
     "yasakli_kelimeler": [
       "gürültü",
       "oran",
@@ -241,7 +241,7 @@
     "id": 18,
     "kategori": "telekomunikasyon",
     "kelime": "bit hata oranı",
-    "aciklama": "alıcıya ulaşan toplam bit sayısı içinde iletim bozulmaları nedeniyle hatalı çözülen bitlerin yüzdesel oranı.",
+    "aciklama": "iletilen toplam verideki hatalı bitlerin yüzdesel hata oranı",
     "yasakli_kelimeler": [
       "hata",
       "oran",
@@ -255,7 +255,7 @@
     "id": 19,
     "kategori": "telekomunikasyon",
     "kelime": "baz istasyonu",
-    "aciklama": "cep telefonlarıyla kablosuz radyo dalgaları üzerinden haberleşerek onları telekomünikasyon şebekesine bağlayan kule veya anten ünitesi.",
+    "aciklama": "cep telefonlarını şebekeye bağlayan kablosuz radyo kulesi anteni",
     "yasakli_kelimeler": [
       "kule",
       "anten",
@@ -269,7 +269,7 @@
     "id": 20,
     "kategori": "telekomunikasyon",
     "kelime": "hücresel ağ",
-    "aciklama": "coğrafi kapsama alanının altıgen hücrelere bölündüğü ve her hücreye bir alıcı verici ünitenin hizmet verdiği mobil şebeke mimarisi.",
+    "aciklama": "kapsama alanının hücrelere bölündüğü mobil şebeke mimarisi yapısı",
     "yasakli_kelimeler": [
       "hücre",
       "altıgen",
@@ -283,7 +283,7 @@
     "id": 21,
     "kategori": "telekomunikasyon",
     "kelime": "el değiştirme",
-    "aciklama": "konuşma veya veri akışı kesilmeden kullanıcının hareket ederken bir baz istasyonunun kapsama alanından diğerine pürüzsüz aktarılması.",
+    "aciklama": "mobil cihazın baz istasyonundan veri indirme iletişim yönü",
     "yasakli_kelimeler": [
       "aktarma",
       "geçiş",
@@ -297,7 +297,7 @@
     "id": 22,
     "kategori": "telekomunikasyon",
     "kelime": "uluslararası dolaşım",
-    "aciklama": "mobil abonenin kendi operatörünün kapsama alanı dışına veya yurtdışına çıktığında başka bir operatörün şebekesinden yararlanabilmesi.",
+    "aciklama": "mobil cihazın baz istasyonuna veri yükleme iletişim yönü",
     "yasakli_kelimeler": [
       "yurtdışı",
       "operatör",
@@ -311,7 +311,7 @@
     "id": 23,
     "kategori": "telekomunikasyon",
     "kelime": "abone kimlik modülü",
-    "aciklama": "cep telefonuna takılan ve abonenin şebeke kimlik bilgilerini, şifreleme anahtarlarını saklayan mikroçipli akıllı kart.",
+    "aciklama": "hareket halindeki kullanıcının çağrısının kesilmeden diğer baz istasyonuna aktarılması",
     "yasakli_kelimeler": [
       "kart",
       "çip",
@@ -325,7 +325,7 @@
     "id": 24,
     "kategori": "telekomunikasyon",
     "kelime": "dahili abone kimliği",
-    "aciklama": "cihazın ana kartına kalıcı olarak monte edilen ve fiziksel kart takmaya gerek kalmadan operatör profili yüklenebilen çip.",
+    "aciklama": "kullanıcının kendi operatörünün kapsama alanı dışında başka şebekeye bağlanması",
     "yasakli_kelimeler": [
       "gömülü çip",
       "fiziksel kartsız",
@@ -339,7 +339,7 @@
     "id": 25,
     "kategori": "telekomunikasyon",
     "kelime": "yeni nesil radyo",
-    "aciklama": "çok yüksek veri aktarım hızları, geniş bant ve milisaniyelik gecikme süreleri sunan en gelişmiş hücresel anten standardı.",
+    "aciklama": "telefonun şebekeye bağlanmasını ve kimliğini doğrulamasını sağlayan akıllı kart",
     "yasakli_kelimeler": [
       "hücresel standart",
       "düşük gecikme",
@@ -353,7 +353,7 @@
     "id": 26,
     "kategori": "telekomunikasyon",
     "kelime": "milimetre dalga",
-    "aciklama": "otuz ile üç yüz gigahertz arasındaki son derece yüksek frekans bandında çalışan ve devasa hızlar sağlayan kısa menzilli radyo dalgaları.",
+    "aciklama": "telefonun donanımına gömülü olan dijital ve fiziksel olmayan kart",
     "yasakli_kelimeler": [
       "yüksek frekans",
       "kısa menzil",
@@ -367,7 +367,7 @@
     "id": 27,
     "kategori": "telekomunikasyon",
     "kelime": "çoklu anten sistemi",
-    "aciklama": "kablosuz haberleşmede sinyal kapasitesini ve hızını katlamak için verici ve alıcıda aynı anda birden fazla antenin kullanılması tekniği.",
+    "aciklama": "her cep telefonuna özel üretilen on beş haneli seri numarası",
     "yasakli_kelimeler": [
       "uzamsal sinyal",
       "anten dizisi",
@@ -381,7 +381,7 @@
     "id": 28,
     "kategori": "telekomunikasyon",
     "kelime": "hüzmeleme",
-    "aciklama": "radyo sinyalini her yöne yaymak yerine anten dizileriyle belirli bir kullanıcının veya cihazın konumuna odaklanmış dar demet halinde iletme.",
+    "aciklama": "sim kartın içindeki uluslararası mobil abone kimlik numarası",
     "yasakli_kelimeler": [
       "odaklama",
       "demet",
@@ -395,7 +395,7 @@
     "id": 29,
     "kategori": "telekomunikasyon",
     "kelime": "ağ dilimleme",
-    "aciklama": "tek bir fiziksel 5g altyapısı üzerinde farklı endüstriyel gereksinimlere göre yalıtılmış çok sayıda sanal uçtan uca ağ oluşturma.",
+    "aciklama": "kullanıcının güncel konumunu ve abonelik bilgilerini saklayan ana veri tabanı",
     "yasakli_kelimeler": [
       "sanal",
       "özelleştirilmiş",
@@ -409,7 +409,7 @@
     "id": 30,
     "kategori": "telekomunikasyon",
     "kelime": "radyo erişim ağı",
-    "aciklama": "antenler ve baz istasyonlarından oluşarak son kullanıcı cihazlarını telekomünikasyon çekirdek şebekesine bağlayan kablosuz bölüm.",
+    "aciklama": "ziyaretçi kullanıcıların anlık konum bilgilerini tutan geçici veri tabanı",
     "yasakli_kelimeler": [
       "baz istasyonu",
       "anten",
@@ -423,7 +423,7 @@
     "id": 31,
     "kategori": "telekomunikasyon",
     "kelime": "açık erişim şebekesi",
-    "aciklama": "hücresel baz istasyonu yazılım ve donanım bileşenlerini açık arayüzlerle birbirinden ayırıp esneklik sağlayan radyo mimarisi.",
+    "aciklama": "sesli aramaları yönlendiren ve bağlantıyı kuran ana santral merkezi",
     "yasakli_kelimeler": [
       "açık mimari",
       "baz istasyonu donanımı",
@@ -437,7 +437,7 @@
     "id": 32,
     "kategori": "telekomunikasyon",
     "kelime": "çekirdek ağ",
-    "aciklama": "mobil şebekenin kimlik doğrulama, oturum yönetimi, yönlendirme ve internete çıkış işlemlerini gerçekleştiren merkezi omurgası.",
+    "aciklama": "mobil şebekede internet veri paketlerini yönlendiren çekirdek ağ geçidi",
     "yasakli_kelimeler": [
       "omurga",
       "merkezi",
@@ -451,7 +451,7 @@
     "id": 33,
     "kategori": "telekomunikasyon",
     "kelime": "koaksiyel kablo",
-    "aciklama": "merkezdeki bakır iletkenin etrafını saran dielektrik yalıtkan ve metal örgü zırhtan oluşan elektromanyetik korumalı kablo.",
+    "aciklama": "ikinci nesil dijital hücresel mobil haberleşme standardı",
     "yasakli_kelimeler": [
       "zırh",
       "örgü",
@@ -465,7 +465,7 @@
     "id": 34,
     "kategori": "telekomunikasyon",
     "kelime": "bükümlü çift kablo",
-    "aciklama": "elektromanyetik parazit ve karışmayı azaltmak için birbirine helezon şeklinde sarılmış bakır tel çiftlerinden oluşan ethernet kablosu.",
+    "aciklama": "üçüncü nesil yüksek hızlı mobil internet ve iletişim standardı",
     "yasakli_kelimeler": [
       "bakır tel",
       "ethernet",
@@ -479,7 +479,7 @@
     "id": 35,
     "kategori": "telekomunikasyon",
     "kelime": "empedans uyumu",
-    "aciklama": "iletim hattı ile yük empedansının eşitlenerek sinyalin geri yansımasını önleyip azami güç transferini sağlama işlemi.",
+    "aciklama": "dördüncü nesil yüksek hızlı tümüyle ip tabanlı mobil şebeke",
     "yasakli_kelimeler": [
       "direnç",
       "yansıma",
@@ -493,7 +493,7 @@
     "id": 36,
     "kategori": "telekomunikasyon",
     "kelime": "duran dalga oranı",
-    "aciklama": "radyo vericisi ile anten arasındaki hatta meydana gelen yansıyan dalganın ileri giden dalgaya oranını belirten uyumsuzluk göstergesi.",
+    "aciklama": "yüksek hız ve aşırı düşük gecikme sunan beşinci nesil şebeke",
     "yasakli_kelimeler": [
       "yansıma",
       "oran",
@@ -507,7 +507,7 @@
     "id": 37,
     "kategori": "telekomunikasyon",
     "kelime": "anten kazancı",
-    "aciklama": "bir antenin radyo enerjisini belirli bir doğrultuda ne kadar güçlü odaklayabildiğini izotropik bir referansa göre gösteren dbi değeri.",
+    "aciklama": "terahertz frekanslarda devasa hızlar hedefleyen altıncı nesil şebeke",
     "yasakli_kelimeler": [
       "odak",
       "yönlülük",
@@ -521,7 +521,7 @@
     "id": 38,
     "kategori": "telekomunikasyon",
     "kelime": "yönlü anten",
-    "aciklama": "elektromanyetik sinyalleri her yöne eşit dağıtmak yerine tek bir dar açıya yoğunlaştırarak çok uzak mesafelere ulaştıran anten.",
+    "aciklama": "birden fazla anten kullanarak sinyal hızını ve kapsamasını katlama",
     "yasakli_kelimeler": [
       "dar açı",
       "odaklanmış",
@@ -535,7 +535,7 @@
     "id": 39,
     "kategori": "telekomunikasyon",
     "kelime": "çok yönlü anten",
-    "aciklama": "radyo dalgalarını yatay düzlemde üç yüz altmış derece eşit açıyla her tarafa homojen yayan çubuk anten türü.",
+    "aciklama": "radyo sinyallerini belirli bir kullanıcıya doğru odaklayan akıllı anten",
     "yasakli_kelimeler": [
       "üç yüz altmış derece",
       "çubuk",
@@ -549,7 +549,7 @@
     "id": 40,
     "kategori": "telekomunikasyon",
     "kelime": "yagi anten",
-    "aciklama": "bir aktif dipol eleman ile arkasındaki yansıtıcı ve önündeki yönlendirici çubuklardan oluşan yüksek kazançlı yönlü çatı anteni.",
+    "aciklama": "yüksek hız sağlayan milimetrik dalga boyundaki radyo frekansları",
     "yasakli_kelimeler": [
       "çubuk",
       "yansıtıcı",
@@ -563,7 +563,7 @@
     "id": 41,
     "kategori": "telekomunikasyon",
     "kelime": "parabolik anten",
-    "aciklama": "çanak şeklindeki kavisli reflektör yüzeyi sayesinde paralel radyo dalgalarını tam odak noktasında toplayan uydu anteni.",
+    "aciklama": "aynı fiziksel 5g şebekesini bağımsız sanal ağlara bölme mimarisi",
     "yasakli_kelimeler": [
       "çanak",
       "odak",
@@ -577,7 +577,7 @@
     "id": 42,
     "kategori": "telekomunikasyon",
     "kelime": "faz dizili anten",
-    "aciklama": "anten elemanlarına verilen sinyallerin faz farkları elektronik olarak kontrol edilerek mekanik dönmeden hüzmesi hareket ettirilen sistem.",
+    "aciklama": "verileri merkezi bulut yerine baz istasyonuna yakın yerde işleme",
     "yasakli_kelimeler": [
       "elektronik",
       "hareketsiz",
@@ -591,7 +591,7 @@
     "id": 43,
     "kategori": "telekomunikasyon",
     "kelime": "elektromanyetik kutuplanma",
-    "aciklama": "yayılan elektromanyetik dalganın elektrik alan vektörünün uzaydaki titreşim yönünü ve oryantasyonunu belirten fiziksel özellik.",
+    "aciklama": "ses aramalarını 4g lte şebekesi üzerinden yüksek kalitede iletme",
     "yasakli_kelimeler": [
       "elektrik alan",
       "vektör",
@@ -605,7 +605,7 @@
     "id": 44,
     "kategori": "telekomunikasyon",
     "kelime": "doppler kayması",
-    "aciklama": "hareket eden bir araç veya alıcı ile baz istasyonu arasındaki bağıl hız nedeniyle algılanan radyo frekansındaki sapma.",
+    "aciklama": "ses aramalarını 5g çekirdek şebekesi üzerinden taşıyan yeni teknoloji",
     "yasakli_kelimeler": [
       "hareket",
       "hız",
@@ -619,7 +619,7 @@
     "id": 45,
     "kategori": "telekomunikasyon",
     "kelime": "sinyal sönümlenmesi",
-    "aciklama": "radyo sinyallerinin binalar, tepeler ve atmosferik şartlar nedeniyle gücünde meydana gelen anlık veya yavaş düşüşler.",
+    "aciklama": "mobil şebeke yerine kablosuz wifi ağı üzerinden telefon görüşmesi yapma",
     "yasakli_kelimeler": [
       "zayıflama",
       "düşüş",
@@ -633,7 +633,7 @@
     "id": 46,
     "kategori": "telekomunikasyon",
     "kelime": "çok yollu yayılım",
-    "aciklama": "vericiden çıkan sinyallerin binalardan ve yerden yansıyarak alıcıya farklı zamanlarda ve fazlarda birden fazla yoldan ulaşması.",
+    "aciklama": "cep telefonları arasında yüz altmış karaktere kadar kısa mesaj iletimi",
     "yasakli_kelimeler": [
       "yansıma",
       "farklı yol",
@@ -647,7 +647,7 @@
     "id": 47,
     "kategori": "telekomunikasyon",
     "kelime": "fresnel bölgesi",
-    "aciklama": "alıcı ve verici antenler arasında radyo dalgalarının etkin ilerleyebilmesi için içinde hiçbir engelin bulunmaması gereken eliptik hacim.",
+    "aciklama": "fotoğraf ve video içeren zengin multimedya mesaj servisi",
     "yasakli_kelimeler": [
       "eliptik",
       "görüş hattı",
@@ -661,7 +661,7 @@
     "id": 48,
     "kategori": "telekomunikasyon",
     "kelime": "yol kaybı",
-    "aciklama": "radyo dalgasının kaynaktan alıcıya doğru yayılırken mesafeye bağlı olarak sinyal gücünün azalması ve zayıflaması.",
+    "aciklama": "operatörler arasında arama ve internet oturumlarını başlatan protokol",
     "yasakli_kelimeler": [
       "sinyal zayıflaması",
       "mesafe",
@@ -675,7 +675,7 @@
     "id": 49,
     "kategori": "telekomunikasyon",
     "kelime": "elektromanyetik tayf",
-    "aciklama": "radyo dalgalarından gama ışınlarına kadar tüm elektromanyetik radyasyon dalga boylarının oluşturduğu sürekli spektrum bandı.",
+    "aciklama": "telekom şebekelerinde kimlik doğrulama ve ücretlendirme protokolü",
     "yasakli_kelimeler": [
       "spektrum",
       "radyasyon",
@@ -689,7 +689,7 @@
     "id": 50,
     "kategori": "telekomunikasyon",
     "kelime": "taşıyıcı frekans",
-    "aciklama": "üzerine modülasyon teknikleriyle ses, video veya veri bilgisi bindirilerek anten üzerinden kablosuz yayınlanan temel dalga.",
+    "aciklama": "ses sinyallerini internet paketlerine dönüştürerek taşıyan telefon teknolojisi",
     "yasakli_kelimeler": [
       "modülasyon",
       "dalga",
@@ -703,7 +703,7 @@
     "id": 51,
     "kategori": "telekomunikasyon",
     "kelime": "süperheterodin alıcı",
-    "aciklama": "gelen yüksek frekanslı radyo sinyalini yerel bir osilatörle miksleyerek sabit bir ara frekansa düşüren kararlı alıcı mimarisi.",
+    "aciklama": "kullanıcıların sabit telefon hatlarına bağlandığı geleneksel santral şebekesi",
     "yasakli_kelimeler": [
       "ara frekans",
       "miksaj",
@@ -717,7 +717,7 @@
     "id": 52,
     "kategori": "telekomunikasyon",
     "kelime": "faz kilitli döngü",
-    "aciklama": "ürettiği çıkış sinyalinin fazını ve frekansını gelen referans sinyale tam olarak eşitleyip kilitleyen elektronik kontrol devresi.",
+    "aciklama": "aynı fiziksel kablo çifti üzerinden iki yönlü iletişim sağlama",
     "yasakli_kelimeler": [
       "kilitlenme",
       "faz",
@@ -731,7 +731,7 @@
     "id": 53,
     "kategori": "telekomunikasyon",
     "kelime": "düşük gürültülü yükseltici",
-    "aciklama": "antenden gelen son derece zayıf mikrovolt düzeyindeki radyo sinyalini kendi iç gürültüsünü eklemeden güçlendiren ön devre.",
+    "aciklama": "farklı frekanslar kullanarak eşzamanlı çift yönlü iletişim yöntemi",
     "yasakli_kelimeler": [
       "ön yükseltici",
       "zayıf sinyal",
@@ -745,7 +745,7 @@
     "id": 54,
     "kategori": "telekomunikasyon",
     "kelime": "radyo frekans yükselticisi",
-    "aciklama": "modüle edilmiş radyo sinyalini anten üzerinden kilometrelerce uzağa yayabilmek için yüksek vat seviyelerine çıkaran güç modülü.",
+    "aciklama": "aynı frekansı zaman dilimlerine bölerek çift yönlü iletişim sağlama",
     "yasakli_kelimeler": [
       "güç",
       "vat",
@@ -759,7 +759,7 @@
     "id": 55,
     "kategori": "telekomunikasyon",
     "kelime": "frekans karıştırıcı",
-    "aciklama": "farklı frekanstaki iki sinyali doğrusal olmayan yapısıyla çarparak frekanslarının toplamı ve farkını üreten üç portlu devre.",
+    "aciklama": "bakır telefon hatları üzerinden yüksek hızlı geniş bant internet",
     "yasakli_kelimeler": [
       "çarpım",
       "port",
@@ -773,7 +773,7 @@
     "id": 56,
     "kategori": "telekomunikasyon",
     "kelime": "bant geçiren filtre",
-    "aciklama": "yalnızca belirli bir alt ve üst frekans aralığındaki sinyallerin geçmesine izin verip dışındaki frekansları tamamen bastıran filtre.",
+    "aciklama": "yüksek frekanslar kullanarak çok daha hızlı vdsl internet sunma",
     "yasakli_kelimeler": [
       "kesim frekansı",
       "aralık",
@@ -787,7 +787,7 @@
     "id": 57,
     "kategori": "telekomunikasyon",
     "kelime": "frekans bölmeli dupleks",
-    "aciklama": "aynı anda kesintisiz indirme ve yükleme yapabilmek için iki ayrı bağımsız frekans bandı tahsis eden iletişim yöntemi.",
+    "aciklama": "fiber internetin doğrudan evin içine kadar ulaştırıldığı altyapı",
     "yasakli_kelimeler": [
       "indirme",
       "yükleme",
@@ -801,7 +801,7 @@
     "id": 58,
     "kategori": "telekomunikasyon",
     "kelime": "zaman bölmeli dupleks",
-    "aciklama": "aynı frekans bandı üzerinde alma ve gönderme işlemlerini milisaniyelik zaman dilimlerinde sırayla gerçekleştiren yöntem.",
+    "aciklama": "fiber optik kablonun binaya kadar çekildiği internet altyapısı",
     "yasakli_kelimeler": [
       "aynı frekans",
       "sıralı",
@@ -815,7 +815,7 @@
     "id": 59,
     "kategori": "telekomunikasyon",
     "kelime": "tam çift yön",
-    "aciklama": "verilerin aynı anda ve eşzamanlı olarak her iki yönde de kesintisiz iletilebildiği iletişim kanalı.",
+    "aciklama": "kaldırımdaki saha dolabına kadar fiber, sonrasında bakır altyapı",
     "yasakli_kelimeler": [
       "eşzamanlı",
       "çift taraflı",
@@ -829,7 +829,7 @@
     "id": 60,
     "kategori": "telekomunikasyon",
     "kelime": "yarı çift yön",
-    "aciklama": "verilerin her iki yönde de iletilebildiği fakat aynı anda değil, sırayla tek yönde aktarıldığı iletişim kanalı.",
+    "aciklama": "elektrik prizleri ve elektrik kabloları üzerinden veri iletimi",
     "yasakli_kelimeler": [
       "sırayla",
       "telsiz mantığı",
@@ -843,7 +843,7 @@
     "id": 61,
     "kategori": "telekomunikasyon",
     "kelime": "uydu haberleşmesi",
-    "aciklama": "dünya yörüngesindeki yapay uydular aracılığıyla kıtalararası ses, veri ve televizyon sinyallerinin aktarılması.",
+    "aciklama": "cihazlar arasında kablosuz yerel internet bağlantısı sağlayan radyo standardı",
     "yasakli_kelimeler": [
       "yörünge",
       "yapay uydu",
@@ -857,7 +857,7 @@
     "id": 62,
     "kategori": "telekomunikasyon",
     "kelime": "jeosenkron yörünge",
-    "aciklama": "dünyanın kendi ekseni etrafındaki dönme süresiyle tam eşit hızda dönen ve yerden bakıldığında gökyüzünde sabit duran uydu irtifası.",
+    "aciklama": "kısa mesafeli cihazlar arası kablosuz veri aktarım protokolü",
     "yasakli_kelimeler": [
       "sabit",
       "irtifa",
@@ -871,7 +871,7 @@
     "id": 63,
     "kategori": "telekomunikasyon",
     "kelime": "alçak dünya yörüngesi",
-    "aciklama": "yeryüzüne iki bin kilometreden daha yakın olan ve starlink gibi düşük gecikmeli küresel internet uydularının konumlandığı bölge.",
+    "aciklama": "düşük enerji tüketen nesnelerin interneti için kablosuz sensör ağı",
     "yasakli_kelimeler": [
       "yakın",
       "düşük gecikme",
@@ -885,7 +885,7 @@
     "id": 64,
     "kategori": "telekomunikasyon",
     "kelime": "uydu aktarıcısı",
-    "aciklama": "uydunun yer istasyonundan aldığı zayıf yukarı hat sinyalini yükseltip frekansını değiştirerek yeryüzüne geri yayınlayan donanım.",
+    "aciklama": "kilometrelerce mesafeden çok düşük güçle veri ileten kablosuz ağ",
     "yasakli_kelimeler": [
       "aktarıcı",
       "frekans çevirici",
@@ -899,7 +899,7 @@
     "id": 65,
     "kategori": "telekomunikasyon",
     "kelime": "ağ gecikme süresi",
-    "aciklama": "bir veri paketinin kaynaktan yola çıkıp hedef cihaza ulaşması ve yanıtın geri dönmesi için geçen milisaniye cinsinden süre.",
+    "aciklama": "hücresel şebekeler üzerinden çalışan dar bant nesnelerin interneti standardı",
     "yasakli_kelimeler": [
       "gecikme",
       "milisaniye",
@@ -913,7 +913,7 @@
     "id": 66,
     "kategori": "telekomunikasyon",
     "kelime": "paket seğirmesi",
-    "aciklama": "ağ paketlerinin varış süreleri arasındaki düzensiz gecikme dalgalanması nedeniyle ses ve videoda meydana gelen kopukluk.",
+    "aciklama": "kısa mesafede temassız ödeme ve veri aktarımı sağlayan teknoloji",
     "yasakli_kelimeler": [
       "dalgalanma",
       "düzensizlik",
@@ -927,7 +927,7 @@
     "id": 67,
     "kategori": "telekomunikasyon",
     "kelime": "paket kaybı",
-    "aciklama": "ağ trafiğindeki yoğunluk veya hat hataları nedeniyle hedefe ulaşamadan yönlendiriciler tarafından düşürülen veri paketleri.",
+    "aciklama": "cihazların ve ürünlerin kablosuz radyo dalgalarıyla uzaktan tanınması sistemi",
     "yasakli_kelimeler": [
       "düşme",
       "ulaşamama",
@@ -941,7 +941,7 @@
     "id": 68,
     "kategori": "telekomunikasyon",
     "kelime": "hizmet kalitesi",
-    "aciklama": "ağdaki kritik ses, video ve canlı yayın trafiğine standart veri indirmelerine kıyasla yüksek öncelik ve bant ayrılması mekanizması.",
+    "aciklama": "dünya yörüngesindeki uydular aracılığıyla küresel konum belirleme sistemi",
     "yasakli_kelimeler": [
       "öncelik",
       "trafik",
@@ -955,7 +955,7 @@
     "id": 69,
     "kategori": "telekomunikasyon",
     "kelime": "internet üzerinden görüşme",
-    "aciklama": "klasik analog telefon hatları yerine ses sinyallerini dijital paketlere dönüştürerek web ağı üzerinden arama yapma teknolojisi.",
+    "aciklama": "avrupa birliği tarafından geliştirilen bağımsız küresel uydu konumlama sistemi",
     "yasakli_kelimeler": [
       "internet telefonu",
       "dijital ses",
@@ -969,7 +969,7 @@
     "id": 70,
     "kategori": "telekomunikasyon",
     "kelime": "oturum başlatma protokolü",
-    "aciklama": "internet üzerinden ses ve video oturumlarını başlatmak, sürdürmek ve sonlandırmak için kullanılan sinyalleşme protokolü.",
+    "aciklama": "rusya tarafından işletilen askeri ve sivil küresel uydu ağı",
     "yasakli_kelimeler": [
       "sinyalleşme",
       "oturum",
@@ -983,7 +983,7 @@
     "id": 71,
     "kategori": "telekomunikasyon",
     "kelime": "ses kodlayıcı çözücü",
-    "aciklama": "analog ses sinyalini bant genişliğinden tasarruf etmek için sıkıştırıp dijitale dönüştüren ve karşı tarafta açan yazılım/donanım.",
+    "aciklama": "dünya ile aynı hızda dönerek gökyüzünde sabit kalan haberleşme uydusu",
     "yasakli_kelimeler": [
       "sıkıştırma",
       "çözme",
@@ -997,7 +997,7 @@
     "id": 72,
     "kategori": "telekomunikasyon",
     "kelime": "gerçek zamanlı aktarım",
-    "aciklama": "internet üzerinden ses ve canlı görüntü gibi zaman duyarlı multimedya verilerinin gecikmesiz akışını yöneten kural kümesi.",
+    "aciklama": "dünyaya yakın yörüngede dolanarak düşük gecikmeli internet sağlayan uydu",
     "yasakli_kelimeler": [
       "canlı yayın akışı",
       "zaman duyarlı veri",
@@ -1011,7 +1011,7 @@
     "id": 73,
     "kategori": "telekomunikasyon",
     "kelime": "etiket anahtarlama",
-    "aciklama": "omurga ağlarında veri paketlerini uzun ip adresleri yerine kısa etiketlerle çok hızlı yönlendiren aktarım tekniği.",
+    "aciklama": "küçük ve orta yörüngeli uyduların oluşturduğu devasa haberleşme filosu",
     "yasakli_kelimeler": [
       "hızlı yönlendirme",
       "omurga şebekesi",
@@ -1025,7 +1025,7 @@
     "id": 74,
     "kategori": "telekomunikasyon",
     "kelime": "yazılım tanımlı ağ",
-    "aciklama": "ağ yönlendirme mantığını ve kontrol düzlemini fiziksel anahtar ve yönlendirici donanımlarından ayırıp merkezi yazılımla yönetme.",
+    "aciklama": "uydulardan gelen sinyalleri toplayıp odaklayan çanak anten donanımı",
     "yasakli_kelimeler": [
       "kontrol düzlemi",
       "yazılım",
@@ -1039,7 +1039,7 @@
     "id": 75,
     "kategori": "telekomunikasyon",
     "kelime": "ağ fonksiyonları sanallaştırma",
-    "aciklama": "güvenlik duvarı, yönlendirici gibi özel pahalı donanım cihazlarını standart sunucularda sanal makine olarak çalıştırma mimarisi.",
+    "aciklama": "çanak antenin ucunda sinyali toplayıp frekansını düşüren dönüştürücü başlık",
     "yasakli_kelimeler": [
       "sanallaştırma",
       "sunucu",
@@ -1053,7 +1053,7 @@
     "id": 76,
     "kategori": "telekomunikasyon",
     "kelime": "sınır geçit protokolü",
-    "aciklama": "dünya üzerindeki farklı bağımsız otonom sistemler ve internet servis sağlayıcıları arasında rotaları belirleyen küresel yönlendirme protokolü.",
+    "aciklama": "televizyon ve internet sinyallerini uyduya doğru fırlatan yer istasyonu",
     "yasakli_kelimeler": [
       "otonom sistem",
       "yönlendirme",
@@ -1067,7 +1067,7 @@
     "id": 77,
     "kategori": "telekomunikasyon",
     "kelime": "en kısa rota",
-    "aciklama": "kurumsal ağ yönlendiricilerinin en az maliyetli ve en hızlı rotayı bularak paketleri iletmesini sağlayan iç yönlendirme protokolü.",
+    "aciklama": "uydudan gelen sinyalleri alıp dönüştürerek geriye yayınlayan aktarıcı",
     "yasakli_kelimeler": [
       "en kısa yol",
       "rota bulma",
@@ -1081,7 +1081,7 @@
     "id": 78,
     "kategori": "telekomunikasyon",
     "kelime": "yönlendirici",
-    "aciklama": "farklı ağlar arasındaki veri paketlerinin başlıklarındaki hedef ip adreslerini okuyarak en uygun yoldan ileten katman 3 cihazı.",
+    "aciklama": "deniz altından kıtaları birbirine bağlayan devasa fiber optik kablo",
     "yasakli_kelimeler": [
       "ip adresi",
       "paket",
@@ -1095,7 +1095,7 @@
     "id": 79,
     "kategori": "telekomunikasyon",
     "kelime": "ağ anahtarı",
-    "aciklama": "yerel alan ağındaki cihazların mac adreslerini tablosunda tutarak gelen ethernet çerçevelerini doğrudan hedef porta ileten katman 2 cihazı.",
+    "aciklama": "denizaltı kablolarının karaya ulaşıp telekomünikasyon şebekesine bağlandığı istasyon",
     "yasakli_kelimeler": [
       "mac adresi",
       "ikinci katman",
@@ -1109,7 +1109,7 @@
     "id": 80,
     "kategori": "telekomunikasyon",
     "kelime": "ağ geçidi",
-    "aciklama": "birbirinden tamamen farklı ağ mimarilerini, iletişim protokollerini ve veri formatlarını birbirine bağlayıp çeviren dönüştürücü sistem.",
+    "aciklama": "optik sinyalleri elektriğe çevirmeden doğrudan ışık olarak güçlendiren amfi",
     "yasakli_kelimeler": [
       "çevirici",
       "farklı protokol",
@@ -1123,7 +1123,7 @@
     "id": 81,
     "kategori": "telekomunikasyon",
     "kelime": "çerçeve rölesi",
-    "aciklama": "yerel ağları geniş alan ağları üzerinden birbirine bağlamak için paket anahtarlamalı sanal devreler kullanan eski bir telekom protokolü.",
+    "aciklama": "fiber optik kabloların uçlarını ergiterek kayıpsız birbirine ekleme makinesi",
     "yasakli_kelimeler": [
       "sanal devre",
       "paket anahtarlama",
@@ -1137,7 +1137,7 @@
     "id": 82,
     "kategori": "telekomunikasyon",
     "kelime": "eşzamansız aktarım modu",
-    "aciklama": "verileri elli üç baytlık sabit boyutlu hücreler halinde ileten, ses ve veriyi yüksek hızda birleştiren hücre aktarım teknolojisi.",
+    "aciklama": "fiber optik kablodaki kırık ve kayıpları lazer darbeleriyle ölçen cihaz",
     "yasakli_kelimeler": [
       "hücre",
       "elli üç bayt",
@@ -1151,7 +1151,7 @@
     "id": 83,
     "kategori": "telekomunikasyon",
     "kelime": "dijital abone hattı",
-    "aciklama": "evlerdeki geleneksel iki telli bakır telefon kabloları üzerinden yüksek frekanslı dijital internet verisi taşıyan teknoloji.",
+    "aciklama": "verilerin belirli büyüklükteki paketlere bölünerek ağda yönlendirilmesi prensibi",
     "yasakli_kelimeler": [
       "bakır",
       "telefon hattı",
@@ -1165,7 +1165,7 @@
     "id": 84,
     "kategori": "telekomunikasyon",
     "kelime": "pasif optik ağ",
-    "aciklama": "ev ve iş yerlerine kadar giden fiber internet bağlantısında elektrikli güç gerektirmeyen pasif ışık bölücüler kullanan geniş bant altyapısı.",
+    "aciklama": "iletişim süresince iki nokta arasında sabit fiziksel hat kurma",
     "yasakli_kelimeler": [
       "fiber optik internet",
       "pasif ışık bölücü",
@@ -1179,7 +1179,7 @@
     "id": 85,
     "kategori": "telekomunikasyon",
     "kelime": "optik hat sonlandırıcı",
-    "aciklama": "telekom operatörünün merkez santralinde bulunan ve yüzlerce abonenin pasif fiber optik bağlantısını yöneten ana terminal cihazı.",
+    "aciklama": "verileri ip adreslerine göre en uygun yoldan ileten ağ cihazı",
     "yasakli_kelimeler": [
       "santral",
       "operatör",
@@ -1193,7 +1193,7 @@
     "id": 86,
     "kategori": "telekomunikasyon",
     "kelime": "optik ağ terminali",
-    "aciklama": "abonenin evine veya iş yerine yerleştirilen ve gelen optik fiber ışık sinyallerini ethernet elektrik sinyaline çeviren son kullanıcı kutusu.",
+    "aciklama": "yerel ağdaki cihazları mac adreslerine göre birbirine bağlayan anahtar",
     "yasakli_kelimeler": [
       "kullanıcı",
       "dönüştürücü",
@@ -1207,7 +1207,7 @@
     "id": 87,
     "kategori": "telekomunikasyon",
     "kelime": "optik bölücü",
-    "aciklama": "hiçbir elektrik beslemesine ihtiyaç duymadan gelen tek bir ana fiber ışığını eşit güçte çok sayıda aboneye paylaştıran prizma/cam eleman.",
+    "aciklama": "dijital verileri analog sinyallere ve tersine dönüştüren iletişim cihazı",
     "yasakli_kelimeler": [
       "pasif",
       "paylaştırma",
@@ -1221,7 +1221,7 @@
     "id": 88,
     "kategori": "telekomunikasyon",
     "kelime": "yayılı tayf",
-    "aciklama": "dar bantlı bir sinyali parazitlere ve dinlemeye karşı çok geniş bir frekans bandına yayarak ileten güvenli kablosuz iletim tekniği.",
+    "aciklama": "ağdaki verilerin bir noktadan diğerine ulaşması için geçen süre gecikmesi",
     "yasakli_kelimeler": [
       "geniş bant",
       "parazit direnci",
@@ -1235,7 +1235,7 @@
     "id": 89,
     "kategori": "telekomunikasyon",
     "kelime": "kod bölmeli erişim",
-    "aciklama": "aynı radyo frekans bandı üzerinden her kullanıcıya benzersiz bir matematiksel kod atayarak aynı anda görüşme yaptıran hücresel yöntem.",
+    "aciklama": "veri paketlerinin gecikme süreleri arasındaki dalgalanma ve düzensizlik",
     "yasakli_kelimeler": [
       "benzersiz kodlama",
       "ortak frekans",
@@ -1249,7 +1249,7 @@
     "id": 90,
     "kategori": "telekomunikasyon",
     "kelime": "mobil iletişim standardı",
-    "aciklama": "dünya genelinde cep telefonlarının sesli görüşme ve mesajlaşma yapmasını sağlayan temel hücresel altyapı.",
+    "aciklama": "ağdaki yoğunluk nedeniyle iletilen veri paketlerinin hedefe ulaşamayıp kaybolması",
     "yasakli_kelimeler": [
       "hücresel şebeke",
       "cep telefonu iletişimi",
@@ -1263,7 +1263,7 @@
     "id": 91,
     "kategori": "telekomunikasyon",
     "kelime": "uzun vadeli evrim",
-    "aciklama": "tamamen ip tabanlı paket anahtarlama mimarisine geçişi sağlayan dördüncü nesil yüksek hızlı mobil geniş bant standardı.",
+    "aciklama": "bir iletişim kanalından birim zamanda başarıyla aktarılan gerçek veri hacmi",
     "yasakli_kelimeler": [
       "dördüncü nesil",
       "mobil geniş bant",
@@ -1277,7 +1277,7 @@
     "id": 92,
     "kategori": "telekomunikasyon",
     "kelime": "volte",
-    "aciklama": "sesli aramaların dördüncü nesil lte veri ağı üzerinden yüksek ses kalitesiyle gerçekleştirilmesini sağlayan teknoloji.",
+    "aciklama": "ağdaki belirli kritik veri paketlerine öncelik tanıma politikası",
     "yasakli_kelimeler": [
       "4g lte",
       "yüksek ses kalitesi",
@@ -1291,7 +1291,7 @@
     "id": 93,
     "kategori": "telekomunikasyon",
     "kelime": "düşük güçlü ağ",
-    "aciklama": "akıllı sensörlerin çok az enerji harcayarak kilometrelerce mesafeden veri iletmesini sağlayan kablosuz teknoloji.",
+    "aciklama": "ağ trafiğini belirli bir sınırda tutmak için akışı düzenleme",
     "yasakli_kelimeler": [
       "uzun menzil",
       "düşük pil tüketimi",
@@ -1305,7 +1305,7 @@
     "id": 94,
     "kategori": "telekomunikasyon",
     "kelime": "zigbee protokolü",
-    "aciklama": "akıllı ev cihazları ve bina otomasyonu için örgü ağ topolojisi oluşturan düşük güçlü ve kısa menzilli kablosuz haberleşme standardı.",
+    "aciklama": "operatörlerin ve veri merkezlerinin birbirine doğrudan trafik aktardığı kavşak",
     "yasakli_kelimeler": [
       "akıllı ev",
       "örgü ağ",
@@ -1319,7 +1319,7 @@
     "id": 95,
     "kategori": "telekomunikasyon",
     "kelime": "örgü ağ topolojisi",
-    "aciklama": "tüm cihazların sadece merkezi bir yönlendiriciye değil birbirlerine de bağlanarak veriyi sıçramalarla hedefe ulaştırdığı dayanıklı ağ yapısı.",
+    "aciklama": "bir kurumun küresel internette yönlendirme yaptığı bağımsız ağ numarası",
     "yasakli_kelimeler": [
       "sıçrama",
       "düğümler",
@@ -1333,7 +1333,7 @@
     "id": 96,
     "kategori": "telekomunikasyon",
     "kelime": "yakın alan iletişimi",
-    "aciklama": "birkaç santimetrelik çok kısa mesafelerden temassız kredi kartı ödemeleri ve veri aktarımı sağlayan manyetik alan teknolojisi.",
+    "aciklama": "farklı otonom sistemler arasında internet rotalarını duyuran temel protokol",
     "yasakli_kelimeler": [
       "temassız",
       "kredi kartı",
@@ -1347,7 +1347,7 @@
     "id": 97,
     "kategori": "telekomunikasyon",
     "kelime": "bluetooth düşük enerji",
-    "aciklama": "akıllı saatler ve tıbbi sensörler gibi giyilebilir cihazların minimal pil tüketimiyle veri aktarmasını sağlayan kablosuz protokol.",
+    "aciklama": "kurumsal yerel ağlarda en kısa yolu hesaplayan yönlendirme protokolü",
     "yasakli_kelimeler": [
       "giyilebilir",
       "pil tüketimi",
@@ -1361,7 +1361,7 @@
     "id": 98,
     "kategori": "telekomunikasyon",
     "kelime": "optik yansıma ölçer",
-    "aciklama": "fiber kablolara ışık darbeleri gönderip yansıyan ışığı analiz ederek hattaki kırık ve zayıflamaların yerini bulan test cihazı.",
+    "aciklama": "veri paketlerini etiketleyerek ağda son derece hızlı yönlendiren teknoloji",
     "yasakli_kelimeler": [
       "kablo kırığı tespiti",
       "ışık yansıması",
@@ -1375,7 +1375,7 @@
     "id": 99,
     "kategori": "telekomunikasyon",
     "kelime": "spektrum analizörü",
-    "aciklama": "elektromanyetik sinyallerin güç seviyelerini frekans ekseninde görselleştiren ve telekom testlerinde kullanılan cihaz.",
+    "aciklama": "şebeke kontrol düzlemini veri iletim düzleminden ayıran yazılım mimarisi",
     "yasakli_kelimeler": [
       "frekans",
       "güç seviyesi",
@@ -1389,7 +1389,7 @@
     "id": 100,
     "kategori": "telekomunikasyon",
     "kelime": "optik sönümleyici",
-    "aciklama": "fiber optik alıcının aşırı ışıktan kör olmasını engellemek için sinyalin gücünü kontrollü biçimde azaltan pasif optik eleman.",
+    "aciklama": "yönlendirici ve güvenlik duvarlarını sanal sunucularda çalıştırma yaklaşımı",
     "yasakli_kelimeler": [
       "ışık gücü",
       "azaltma",
@@ -1403,7 +1403,7 @@
     "id": 101,
     "kategori": "telekomunikasyon",
     "kelime": "telefon",
-    "aciklama": "ses dalgalarını elektrik sinyallerine çevirip uzak mesafelere kablo veya telsizle aktaran ilk iletişim aygıtı.",
+    "aciklama": "birim zamandaki radyo dalgası salınım sayısını gösteren hertz birimi",
     "yasakli_kelimeler": [
       "graham bell",
       "alo deme",
@@ -1417,7 +1417,7 @@
     "id": 102,
     "kategori": "telekomunikasyon",
     "kelime": "telgraf",
-    "aciklama": "elektrik akımını teller üzerinden mors alfabesi tıkırtılarıyla göndererek haberleşmeyi başlatan ilk aygıt.",
+    "aciklama": "radyo dalgasının bir tepe noktasından diğerine olan fiziksel mesafesi",
     "yasakli_kelimeler": [
       "mors alfabesi",
       "nokta çizgi",
@@ -1431,7 +1431,7 @@
     "id": 103,
     "kategori": "telekomunikasyon",
     "kelime": "telsiz",
-    "aciklama": "kablosuz olarak radyo dalgalarıyla kısa ve orta mesafede anons ve iki yönlü ses ileten el cihazı.",
+    "aciklama": "iletişim ve radar için kullanılan tüm elektromanyetik dalgalar tayfı",
     "yasakli_kelimeler": [
       "walkie talkie",
       "polis telsizi",
@@ -1445,7 +1445,7 @@
     "id": 104,
     "kategori": "telekomunikasyon",
     "kelime": "modem",
-    "aciklama": "bilgisayardan gelen dijital verileri telefon veya kablo hattına uygun analog sinyale modüle eden kutu.",
+    "aciklama": "devletlerin radyo frekanslarını operatörlere ihale yoluyla tahsis etmesi",
     "yasakli_kelimeler": [
       "modülatör demodülatör",
       "internet kutusu",
@@ -1459,7 +1459,7 @@
     "id": 105,
     "kategori": "telekomunikasyon",
     "kelime": "faks",
-    "aciklama": "yazılı bir belgeyi optik olarak tarayıp telefon hattı üzerinden karşıdaki kağıda basan telekopi aygıtı.",
+    "aciklama": "lisans gerektirmeyen herkesin ücretsiz kullanabildiği açık frekans bantları",
     "yasakli_kelimeler": [
       "belgegeçer",
       "faks çekme",
@@ -1473,7 +1473,7 @@
     "id": 106,
     "kategori": "telekomunikasyon",
     "kelime": "çağrı cihazı",
-    "aciklama": "doksanlı yıllarda cep telefonundan önce bele takılan ve ekrana sadece kısa sayı veya mesaj düşen çağrı aleti.",
+    "aciklama": "radyo dalgalarını elektrik sinyaline veya tersine dönüştüren iletken aygıt",
     "yasakli_kelimeler": [
       "pager",
       "biper",
@@ -1487,7 +1487,7 @@
     "id": 107,
     "kategori": "telekomunikasyon",
     "kelime": "santral",
-    "aciklama": "binlerce telefon abonesinin kablolarını otomatik veya manuel anahtarlarla birbirine bağlayan merkez.",
+    "aciklama": "tüm yönlere eşit güçte radyo dalgası yayan küresel anten",
     "yasakli_kelimeler": [
       "telefon santrali",
       "hat bağlama",
@@ -1501,7 +1501,7 @@
     "id": 108,
     "kategori": "telekomunikasyon",
     "kelime": "telefon santrali",
-    "aciklama": "şehirdeki veya şirketteki tüm telefon hatlarını toplayıp aranan dahili veya harici numarayı bağlayan sistem.",
+    "aciklama": "radyo dalgalarını tek bir yöne doğru yoğunlaştırarak yayınlayan anten",
     "yasakli_kelimeler": [
       "santral operatörü",
       "dahili numara",
@@ -1515,7 +1515,7 @@
     "id": 109,
     "kategori": "telekomunikasyon",
     "kelime": "röle istasyonu",
-    "aciklama": "tepelerin üzerine kurulan ve mesafeden dolayı zayıflayan mikrodalga sinyallerini güçlendirip aktaran kule.",
+    "aciklama": "iki nokta arasında düz görüş hattıyla çalışan mikrodalga bağlantı",
     "yasakli_kelimeler": [
       "yansıtıcı kule",
       "sinyal tekrarlayıcı",
@@ -1529,7 +1529,7 @@
     "id": 110,
     "kategori": "telekomunikasyon",
     "kelime": "tekrarlayıcı",
-    "aciklama": "kablo veya hava ortamında zayıflayan ve bozulmaya başlayan sinyali yeniden üreterek menzili uzatan aygıt.",
+    "aciklama": "yüksek frekanslı dalgaları çanak antenden cihaza taşıyan iletken boru",
     "yasakli_kelimeler": [
       "repeater",
       "sinyal yenileyici",
@@ -1543,7 +1543,7 @@
     "id": 111,
     "kategori": "telekomunikasyon",
     "kelime": "alıcı",
-    "aciklama": "antenden gelen zayıf elektromanyetik sinyalleri yakalayıp sese veya görüntüye çeviren elektronik devre.",
+    "aciklama": "iki iletken arasında dielektrik yalıtkan bulunan standart korumalı kablo",
     "yasakli_kelimeler": [
       "receiver",
       "sinyal yakalayıcı",
@@ -1557,7 +1557,7 @@
     "id": 112,
     "kategori": "telekomunikasyon",
     "kelime": "verici",
-    "aciklama": "üretilen ses, veri veya görüntü sinyallerini anten yardımıyla radyo dalgaları halinde havaya yayan cihaz.",
+    "aciklama": "parazitleri engellemek için birbirine bükülmüş sekiz telli ethernet kablosu",
     "yasakli_kelimeler": [
       "transmitter",
       "radyo vericisi",
@@ -1571,7 +1571,7 @@
     "id": 113,
     "kategori": "telekomunikasyon",
     "kelime": "telsiz telefon",
-    "aciklama": "evdeki sabit baz ünitesine radyo dalgalarıyla bağlı olan ve kablosuz dolaşarak konuşulan ev telefonu.",
+    "aciklama": "kabloların uçlarına takılan standart sekiz pinli şeffaf jak",
     "yasakli_kelimeler": [
       "dect telefon",
       "kablosuz ev telefonu",
@@ -1585,7 +1585,7 @@
     "id": 114,
     "kategori": "telekomunikasyon",
     "kelime": "ankesörlü telefon",
-    "aciklama": "sokaklarda ve istasyonlarda madeni para veya manyetik telefon kartı takılarak kullanılan umumi telefon kulübesi.",
+    "aciklama": "veri merkezlerinde kabloların düzenli toplandığı delikli bağlantı paneli",
     "yasakli_kelimeler": [
       "telefon kulübesi",
       "kartlı telefon",
@@ -1599,7 +1599,7 @@
     "id": 115,
     "kategori": "telekomunikasyon",
     "kelime": "cep telefonu",
-    "aciklama": "baz istasyonları ağıyla hücresel iletişim kurarak her yerde konuşma ve mesajlaşma sağlayan taşınabilir telefon.",
+    "aciklama": "kabloların ve hatların bağlandığı telefon santrali bağlantı çerçevesi",
     "yasakli_kelimeler": [
       "mobil telefon",
       "gsm cihazı",
@@ -1613,7 +1613,7 @@
     "id": 116,
     "kategori": "telekomunikasyon",
     "kelime": "akıllı telefon",
-    "aciklama": "dokunmatik ekranı, işletim sistemi ve internet bağlantısıyla bilgisayar işlevlerini gören modern cep telefonu.",
+    "aciklama": "telefon tuşlarına basıldığında üretilen çift tonlu çok frekanslı ses",
     "yasakli_kelimeler": [
       "smartphone",
       "dokunmatik ekran",
@@ -1627,7 +1627,7 @@
     "id": 117,
     "kategori": "telekomunikasyon",
     "kelime": "sim kart",
-    "aciklama": "cep telefonuna takılan, abonenin telefon numarasını ve operatör kimliğini barındıran minik mikroçipli kart.",
+    "aciklama": "ahize kaldırıldığında santralin hazır olduğunu bildiren sürekli ince ses",
     "yasakli_kelimeler": [
       "abone kartı",
       "mikroçip kart",
@@ -1641,7 +1641,7 @@
     "id": 118,
     "kategori": "telekomunikasyon",
     "kelime": "mikrofon",
-    "aciklama": "havadaki ses dalgalarını diyafram titreşimiyle orantılı elektrik gerilimine çeviren elektroakustik dönüştürücü.",
+    "aciklama": "karşı tarafın telefonunun çaldığını arayana bildiren periyodik ton",
     "yasakli_kelimeler": [
       "ses alıcı",
       "ahize mikrofonu",
@@ -1655,7 +1655,7 @@
     "id": 119,
     "kategori": "telekomunikasyon",
     "kelime": "kulaklık",
-    "aciklama": "karşıdan gelen elektrik sinyallerini kulağın duyabileceği ses dalgalarına çevirip kulağa takılan küçük hoparlör.",
+    "aciklama": "karşı tarafın başka biriyle görüştüğünü bildiren kesik kesik sinyal",
     "yasakli_kelimeler": [
       "ahize kulağı",
       "kulak içi dinleyici",
@@ -1669,7 +1669,7 @@
     "id": 120,
     "kategori": "telekomunikasyon",
     "kelime": "hoparlör",
-    "aciklama": "manyetik bobin ve koni yardımıyla elektrik akımını güçlü ses dalgalarına dönüştürerek ortama yayan aygıt.",
+    "aciklama": "arayan kişinin telefon numarasını ekranda gösteren arayan kimliği özelliği",
     "yasakli_kelimeler": [
       "ses çıkışı",
       "koni diyafram",
@@ -1683,7 +1683,7 @@
     "id": 121,
     "kategori": "telekomunikasyon",
     "kelime": "bakır kablo",
-    "aciklama": "yüksek elektrik iletkenliği sayesinde evlere gelen telefon ve dsl internet bağlantılarını taşıyan metal hat.",
+    "aciklama": "ulaşılamayan aramalarda arayanın sesli mesaj bırakmasını sağlayan dijital posta kutusu",
     "yasakli_kelimeler": [
       "bakır tel",
       "telefon teli",
@@ -1697,7 +1697,7 @@
     "id": 122,
     "kategori": "telekomunikasyon",
     "kelime": "telefon kablosu",
-    "aciklama": "içinde bir veya iki çift bükümlü bakır tel barındıran ve sabit telefonu duvardaki prize bağlayan kablo.",
+    "aciklama": "gelen aramayı başka bir telefon numarasına otomatik yönlendirme ayarı",
     "yasakli_kelimeler": [
       "rj11 kablosu",
       "sabit hat kablosu",
@@ -1711,7 +1711,7 @@
     "id": 123,
     "kategori": "telekomunikasyon",
     "kelime": "denizaltı kablosu",
-    "aciklama": "okyanus ve denizlerin tabanına döşenerek kıtalar arasındaki internet ve telefon trafiğini taşıyan zırhlı fiber.",
+    "aciklama": "konuşma sırasında gelen ikinci aramayı bekletmeye alma bildirimi",
     "yasakli_kelimeler": [
       "okyanus tabanı",
       "kıtalararası kablo",
@@ -1725,7 +1725,7 @@
     "id": 124,
     "kategori": "telekomunikasyon",
     "kelime": "yeraltı kablosu",
-    "aciklama": "şehirlerde caddelerin altındaki beton kanallara döşenerek hava şartlarından korunan ana iletişim şebekesi.",
+    "aciklama": "birden fazla kişinin aynı anda telefonla konuşabildiği grup görüşmesi",
     "yasakli_kelimeler": [
       "toprak altı kablo",
       "rögar kanalı",
@@ -1739,7 +1739,7 @@
     "id": 125,
     "kategori": "telekomunikasyon",
     "kelime": "hava hattı",
-    "aciklama": "kırsal alanlarda ahşap veya beton direkler arasına gerilerek havadan çekilen telefon ve telgraf telleri.",
+    "aciklama": "kullanıcıyı karşılayıp tuşlama yaptırarak ilgili birime bağlayan sesli robot",
     "yasakli_kelimeler": [
       "telefon direği",
       "havai hat",
@@ -1753,7 +1753,7 @@
     "id": 126,
     "kategori": "telekomunikasyon",
     "kelime": "analog sinyal",
-    "aciklama": "zaman içinde sürekli değişen voltaj veya akım değerleriyle sesi birebir taklit eden kesintisiz dalga formu.",
+    "aciklama": "şirket içinde kullanılan özel dahili telefon santrali sistemi",
     "yasakli_kelimeler": [
       "sürekli dalga",
       "dijital zıddı",
@@ -1767,7 +1767,7 @@
     "id": 127,
     "kategori": "telekomunikasyon",
     "kelime": "dijital sinyal",
-    "aciklama": "verileri sıfır ve bir voltaj seviyelerinden oluşan kare darbeler halinde ileten modern sayısal sinyal.",
+    "aciklama": "şirket santralinin internet bulutu üzerinde çalışan sanal santral versiyonu",
     "yasakli_kelimeler": [
       "sayısal sinyal",
       "0 ve 1 darbeleri",
@@ -1781,7 +1781,7 @@
     "id": 128,
     "kategori": "telekomunikasyon",
     "kelime": "kare dalga",
-    "aciklama": "alt ve üst voltaj seviyeleri arasında anında dik geçişler yapan ve dijital saat sinyallerini oluşturan dalga.",
+    "aciklama": "kurumsal şirketlere özel olarak kiralanan güvenli sabit internet hattı",
     "yasakli_kelimeler": [
       "dik geçişli dalga",
       "dijital saat",
@@ -1795,7 +1795,7 @@
     "id": 129,
     "kategori": "telekomunikasyon",
     "kelime": "sinüs dalgası",
-    "aciklama": "frekansı ve genliği matematiksel olarak kusursuz pürüzsüz kıvrımlarla tekrarlanan temel taşıyıcı radyo dalgası.",
+    "aciklama": "kullanıcının internete bağlandığı anda aldığı dinamik değişken ip",
     "yasakli_kelimeler": [
       "periyodik dalga",
       "taşıyıcı dalga formu",
@@ -1809,7 +1809,7 @@
     "id": 130,
     "kategori": "telekomunikasyon",
     "kelime": "radyo dalgası",
-    "aciklama": "boşlukta ışık hızıyla yayılarak kablosuz telefon, radyo ve televizyon yayınlarını taşıyan elektromanyetik dalga.",
+    "aciklama": "kullanıcıya veya sunucuya kalıcı olarak tahsis edilen değişmez ip",
     "yasakli_kelimeler": [
       "rf dalgası",
       "ışık hızıyla yayılım",
@@ -1823,7 +1823,7 @@
     "id": 131,
     "kategori": "telekomunikasyon",
     "kelime": "mikrodalga",
-    "aciklama": "bir gigahertz ile üç yüz gigahertz arasında yüksek frekansa sahip, radar ve uydu bağlantılarında kullanılan dalga.",
+    "aciklama": "otuz iki bitlik adresleme kullanan geleneksel internet protokolü",
     "yasakli_kelimeler": [
       "yüksek frekans",
       "noktadan noktaya bağlantı",
@@ -1837,7 +1837,7 @@
     "id": 132,
     "kategori": "telekomunikasyon",
     "kelime": "kızılötesi iletişim",
-    "aciklama": "televizyon kumandalarında kullanılan, görüş hattı gerektiren ve duvarlardan geçemeyen optik kablosuz veri aktarımı.",
+    "aciklama": "yüz yirmi sekiz bitlik trilyonlarca yeni adres sağlayan protokol",
     "yasakli_kelimeler": [
       "ır haberleşme",
       "tv kumandası",
@@ -1851,7 +1851,7 @@
     "id": 133,
     "kategori": "telekomunikasyon",
     "kelime": "optik sinyal",
-    "aciklama": "lazer veya led tarafından üretilerek fiber kablonun cam çekirdeğinde ışık yanıp sönmesiyle akan veri.",
+    "aciklama": "yerel ağdaki özel ip adreslerini tek bir genel ipye çevirme",
     "yasakli_kelimeler": [
       "ışık sinyali",
       "fiber optik ışığı",
@@ -1865,7 +1865,7 @@
     "id": 134,
     "kategori": "telekomunikasyon",
     "kelime": "ışık dalgası",
-    "aciklama": "fiber optik kablolar içinde tam iç yansıma yaparak saniyede yüz binlerce gigabit veri taşıyan yüksek frekanslı dalga.",
+    "aciklama": "kullanıcılara belirli bir veri kotası aşıldığında hız düşürme uygulaması",
     "yasakli_kelimeler": [
       "foton dalgası",
       "lazer dalgası",
@@ -1879,7 +1879,7 @@
     "id": 135,
     "kategori": "telekomunikasyon",
     "kelime": "gürültü",
-    "aciklama": "iletişim kanalında orijinal sinyale karışarak anlaşılırlığı bozan istenmeyen rastgele elektriksel parazit.",
+    "aciklama": "internet sağlayıcısının tüm veri paketlerine eşit ve tarafsız davranması ilkesi",
     "yasakli_kelimeler": [
       "noise",
       "parazit",
@@ -1893,7 +1893,7 @@
     "id": 136,
     "kategori": "telekomunikasyon",
     "kelime": "parazit",
-    "aciklama": "yakındaki motorlar veya yıldırımlar yüzünden telefon hattında duyulan hışırtı ve radyo cızırtısı.",
+    "aciklama": "verilerin istenmeyen kişilerin eline geçmemesi için şifrelenerek korunması",
     "yasakli_kelimeler": [
       "cızırtı",
       "hışırtı",
@@ -1907,7 +1907,7 @@
     "id": 137,
     "kategori": "telekomunikasyon",
     "kelime": "sinyal bozulması",
-    "aciklama": "kablo mesafesi veya atmosferik engeller nedeniyle dalga şeklinin orijinal formunu kaybedip deforme olması.",
+    "aciklama": "verinin kaynağından hedefine kadar aradaki hiçbir sunucuda çözülmeden şifrelenmesi",
     "yasakli_kelimeler": [
       "distorsiyon",
       "deformasyon",
@@ -1921,7 +1921,7 @@
     "id": 138,
     "kategori": "telekomunikasyon",
     "kelime": "gecikme",
-    "aciklama": "bir ses veya veri paketinin gönderildiği andan karşı tarafa ulaşıp duyulduğu ana kadar geçen bekleme süresi.",
+    "aciklama": "internet trafiğini şifreli güvenli bir tünelden geçiren sanal özel ağ",
     "yasakli_kelimeler": [
       "latency",
       "ping süresi",
@@ -1935,7 +1935,7 @@
     "id": 139,
     "kategori": "telekomunikasyon",
     "kelime": "yankı",
-    "aciklama": "telefonla konuşurken kendi sesinizin saniyeler sonra hoparlörden geriye dönerek kulağınıza çarpması kusuru.",
+    "aciklama": "ağ trafiğini güvenlik kurallarına göre filtreleyen yazılım veya donanım",
     "yasakli_kelimeler": [
       "eko",
       "kendi sesini duyma",
@@ -1949,7 +1949,7 @@
     "id": 140,
     "kategori": "telekomunikasyon",
     "kelime": "yankı önleyici",
-    "aciklama": "telefon görüşmelerinde hattan dönen eko sinyalini matematiksel olarak çıkarıp temizleyen dsp algoritması.",
+    "aciklama": "şebekeyi yoğun trafikle çökerterek erişilemez kılan siber saldırı",
     "yasakli_kelimeler": [
       "echo canceller",
       "eko kesici",
@@ -1963,7 +1963,7 @@
     "id": 141,
     "kategori": "telekomunikasyon",
     "kelime": "internet",
-    "aciklama": "dünya üzerindeki tüm bilgisayar ağlarını tcp/ip protokolüyle birbirine bağlayan devasa küresel iletişim ağı.",
+    "aciklama": "yolcu uçaklarında uydu veya yer istasyonları üzerinden sunulan internet",
     "yasakli_kelimeler": [
       "genel ağ",
       "küresel şebeke",
@@ -1977,7 +1977,7 @@
     "id": 142,
     "kategori": "telekomunikasyon",
     "kelime": "kablosuz ağ",
-    "aciklama": "cihazların ethernet kablosu yerine radyo frekanslarıyla modeme bağlandığı wi-fi yerel ağı.",
+    "aciklama": "uluslararası telekomünikasyon standartlarını belirleyen birleşmiş milletler kurumu",
     "yasakli_kelimeler": [
       "wifi ağı",
       "kablosuz bağlantı",
@@ -1991,7 +1991,7 @@
     "id": 143,
     "kategori": "telekomunikasyon",
     "kelime": "hücresel veri",
-    "aciklama": "cep telefonunun baz istasyonları üzerinden internete bağlanmasını sağlayan mobil internet paketi.",
+    "aciklama": "türkiye'de telekomünikasyon ve internet sektörünü düzenleyen ve denetleyen resmi kurum",
     "yasakli_kelimeler": [
       "mobil internet",
       "mobil veri",
@@ -2005,7 +2005,7 @@
     "id": 144,
     "kategori": "telekomunikasyon",
     "kelime": "geniş bant",
-    "aciklama": "aynı anda birden fazla yüksek hızlı veri sinyalini taşıyabilen dsl veya fiber internet altyapısı.",
+    "aciklama": "mobil operatörlerin baz istasyonlarını ve fiber hatlarını ortak kullanması",
     "yasakli_kelimeler": [
       "broadband",
       "yüksek hızlı internet",
@@ -2019,7 +2019,7 @@
     "id": 145,
     "kategori": "telekomunikasyon",
     "kelime": "dar bant",
-    "aciklama": "sadece ses veya çok düşük hızlı metin verilerinin aktarılmasına izin veren eski telefon hattı kapasitesi.",
+    "aciklama": "kullanıcının telefon numarasını değiştirmeden başka bir operatöre taşıması hakkı",
     "yasakli_kelimeler": [
       "narrowband",
       "düşük hız",
@@ -2033,7 +2033,7 @@
     "id": 146,
     "kategori": "telekomunikasyon",
     "kelime": "çevirmeli ağ",
-    "aciklama": "doksanlı yıllarda bilgisayarı telefon hattına bağlayıp cızırtılı seslerle internete bağlayan elli altı k'lık sistem.",
+    "aciklama": "kendi altyapısı olmadan toptan hat kiralayarak hizmet veren operatör",
     "yasakli_kelimeler": [
       "dial-up",
       "56k modem",
@@ -2047,7 +2047,7 @@
     "id": 147,
     "kategori": "telekomunikasyon",
     "kelime": "sabit hat",
-    "aciklama": "ev veya iş yerlerine fiziksel kablolarla bağlanan geleneksel masaüstü telefon aboneliği.",
+    "aciklama": "operatörlerin abonelerine sunduğu dakika, sms ve internet paketi tarifesi",
     "yasakli_kelimeler": [
       "ev telefonu hattı",
       "kablolu telefon",
@@ -2061,7 +2061,7 @@
     "id": 148,
     "kategori": "telekomunikasyon",
     "kelime": "mobil hat",
-    "aciklama": "bir cep telefonu operatörüne kayıtlı olan ve baz istasyonları üzerinden iletişim kuran kablosuz abonelik.",
+    "aciklama": "kullanıcının faturasını kullanımından sonra her ay düzenli ödediği hat",
     "yasakli_kelimeler": [
       "cep telefonu hattı",
       "gsm aboneliği",
@@ -2075,7 +2075,7 @@
     "id": 149,
     "kategori": "telekomunikasyon",
     "kelime": "kiralık hat",
-    "aciklama": "bankalar veya büyük şirketler arasında kesintisiz ve özel iletişim sağlayan ayrılmış kalıcı veri hattı.",
+    "aciklama": "kullanıcının hatta önceden bakiye veya paket yükleyerek kullandığı sistem",
     "yasakli_kelimeler": [
       "leased line",
       "özel hat",
@@ -2089,7 +2089,7 @@
     "id": 150,
     "kategori": "telekomunikasyon",
     "kelime": "erişim noktası",
-    "aciklama": "kablolu ağ sinyalini kablosuza çevirerek ofis içinde geniş wifi kapsama alanı sağlayan cihaz.",
+    "aciklama": "telefon faturasına yansıtılan özel iletişim vergisi ve telsiz kullanım ücreti",
     "yasakli_kelimeler": [
       "access point",
       "wifi dağıtıcı",
@@ -2103,7 +2103,7 @@
     "id": 151,
     "kategori": "telekomunikasyon",
     "kelime": "kablosuz modem",
-    "aciklama": "hem internet sinyalini çözen hem de evin her yerine kablosuz wifi yayını yapan entegre modem.",
+    "aciklama": "kırsal ve uzak bölgelere devlet desteğiyle telekomünikasyon altyapısı götürme projesi",
     "yasakli_kelimeler": [
       "wifi modem",
       "kablosuz internet kutusu",
@@ -2117,7 +2117,7 @@
     "id": 152,
     "kategori": "telekomunikasyon",
     "kelime": "baz anteni",
-    "aciklama": "bina çatılarına veya baz istasyonu direklerine takılan, cep telefonlarıyla haberleşen dikey beyaz anten panelleri.",
+    "aciklama": "kullanıcı ile santral arasındaki son kilometre erişim hattı altyapısı",
     "yasakli_kelimeler": [
       "sektör anteni",
       "çatı anteni",
@@ -2131,7 +2131,7 @@
     "id": 153,
     "kategori": "telekomunikasyon",
     "kelime": "kapsama alanı",
-    "aciklama": "bir baz istasyonunun veya radyo vericisinin sinyallerinin telefonlarca çekebildiği coğrafi sınır.",
+    "aciklama": "şehirler ve ülkeler arasındaki devasa kapasiteli ana omurga iletişim ağı",
     "yasakli_kelimeler": [
       "çekim alanı",
       "şebeke alanı",
@@ -2145,7 +2145,7 @@
     "id": 154,
     "kategori": "telekomunikasyon",
     "kelime": "kör nokta",
-    "aciklama": "tüneller, bodrum katlar veya vadiler gibi baz istasyonu sinyalinin hiç ulaşamadığı ve telefonun çekmediği alan.",
+    "aciklama": "sunucuların ve ağ donanımlarının barındırıldığı yüksek güvenlikli veri merkezi",
     "yasakli_kelimeler": [
       "çekmeyen yer",
       "sinyalsiz bölge",
@@ -2159,7 +2159,7 @@
     "id": 155,
     "kategori": "telekomunikasyon",
     "kelime": "sinyal gücü",
-    "aciklama": "cep telefonu ekranında çekim çubuklarıyla gösterilen gelen radyo dalgasının desibel cinsinden seviyesi.",
+    "aciklama": "şebeke operatörünün tüm baz istasyonlarını ve trafiği 7/24 izlediği merkez",
     "yasakli_kelimeler": [
       "çekim çubuğu",
       "şebeke gücü",
@@ -2173,7 +2173,7 @@
     "id": 156,
     "kategori": "telekomunikasyon",
     "kelime": "hat kapasitesi",
-    "aciklama": "bir telefon kablosunun veya frekans bandının aynı anda taşıyabileceği azami görüşme veya veri miktarı.",
+    "aciklama": "elektrik kesintisinde santral ve baz istasyonlarını besleyen akü bataryaları",
     "yasakli_kelimeler": [
       "kanal kapasitesi",
       "azami trafik",
@@ -2187,7 +2187,7 @@
     "id": 157,
     "kategori": "telekomunikasyon",
     "kelime": "arama bekletme",
-    "aciklama": "telefonla biriyle konuşurken ikinci bir arama geldiğinde bip sesiyle uyarıp diğer hatta geçiş sağlayan servis.",
+    "aciklama": "uzun süreli elektrik kesintilerinde baz istasyonuna enerji sağlayan dizel jeneratör",
     "yasakli_kelimeler": [
       "çağrı bekletme",
       "ikinci arama",
@@ -2201,7 +2201,7 @@
     "id": 158,
     "kategori": "telekomunikasyon",
     "kelime": "çağrı yönlendirme",
-    "aciklama": "telefon kapalıyken veya ulaşılamazken gelen aramaların otomatik olarak başka bir numaraya aktarılması.",
+    "aciklama": "baz istasyonlarını ve sistemleri yıldırım düşmelerine karşı koruyan topraklama sistemi",
     "yasakli_kelimeler": [
       "arama aktarma",
       "başka numaraya yönlendirme",
@@ -2215,7 +2215,7 @@
     "id": 159,
     "kategori": "telekomunikasyon",
     "kelime": "sesli mesaj",
-    "aciklama": "ulaşılamayan abonenin operatör telesekreter kutusuna arayan kişi tarafından bırakılan sesli kayıt.",
+    "aciklama": "radyo ve mikrodalga kulelerinin rüzgarda devrilmesini önleyen gergi telleri",
     "yasakli_kelimeler": [
       "telesekreter mesajı",
       "ses kaydı bırakma",
@@ -2229,7 +2229,7 @@
     "id": 160,
     "kategori": "telekomunikasyon",
     "kelime": "çağrı aktarma",
-    "aciklama": "ofis santralinde gelen telefon görüşmesinin başka bir masadaki dahili aboneye aktarılması işlemi.",
+    "aciklama": "baz istasyonlarında alıcı verici modülleri antenin hemen yanına taşıyan ünite",
     "yasakli_kelimeler": [
       "dahiliye bağlama",
       "hattı aktarma",
@@ -2243,7 +2243,7 @@
     "id": 161,
     "kategori": "telekomunikasyon",
     "kelime": "birinci nesil",
-    "aciklama": "seksenli yıllarda sadece analog ses iletimi sağlayan araç telefonlarının kullandığı ilk hücresel teknoloji.",
+    "aciklama": "baz istasyonunun tabanında dijital sinyal işlemeyi yürüten ana ünite",
     "yasakli_kelimeler": [
       "1g",
       "analog cep telefonu",
@@ -2257,7 +2257,7 @@
     "id": 162,
     "kategori": "telekomunikasyon",
     "kelime": "ikinci nesil",
-    "aciklama": "dijital ses iletimini ve sms mesajlaşmasını hayatımıza sokan küresel gsm mobil iletişim standardı.",
+    "aciklama": "sayısal sinyalleri analog dalgalara çevirip filtreleyen telsiz ön ucu",
     "yasakli_kelimeler": [
       "2g",
       "gsm standardı",
@@ -2271,7 +2271,7 @@
     "id": 163,
     "kategori": "telekomunikasyon",
     "kelime": "üçüncü nesil",
-    "aciklama": "cep telefonlarında yüksek hızlı mobil internet ve ilk görüntülü görüşmeleri başlatan umts standardı.",
+    "aciklama": "radyo frekans sinyalinin gücünü artıran yüksek güçlü güç amfisi",
     "yasakli_kelimeler": [
       "3g",
       "mobil internet başlangıcı",
@@ -2285,7 +2285,7 @@
     "id": 164,
     "kategori": "telekomunikasyon",
     "kelime": "dördüncü nesil",
-    "aciklama": "tamamen ip tabanlı çalışan, yüzlerce megabit hızla hd video akışını cebe getiren lte standardı.",
+    "aciklama": "alıcıya gelen çok zayıf radyo sinyallerini gürültüsüz yükselten ilk amfi",
     "yasakli_kelimeler": [
       "4g",
       "lte teknolojisi",
@@ -2299,7 +2299,7 @@
     "id": 165,
     "kategori": "telekomunikasyon",
     "kelime": "beşinci nesil",
-    "aciklama": "gigabit hızlar, bir milisaniye gecikme ve nesnelerin internetini destekleyen en yeni hücresel teknoloji.",
+    "aciklama": "aynı anteni alıcı ve verici olarak kullandıran anahtar",
     "yasakli_kelimeler": [
       "5g",
       "en yeni nesil",
@@ -2313,7 +2313,7 @@
     "id": 166,
     "kategori": "telekomunikasyon",
     "kelime": "haberleşme uydusu",
-    "aciklama": "uzayda jeosenkron yörüngede asılı durarak kıtalararası televizyon ve telefon sinyallerini yansıtan uydu.",
+    "aciklama": "iki farklı frekanstaki sinyali tek hatta birleştiren filtre",
     "yasakli_kelimeler": [
       "türksat",
       "iletişim uydusu",
@@ -2327,7 +2327,7 @@
     "id": 167,
     "kategori": "telekomunikasyon",
     "kelime": "çanak anten",
-    "aciklama": "uzaydaki uydudan gelen zayıf mikrodalga sinyallerini odak noktasındaki lnb aygıtına toplayan parabolik çanak.",
+    "aciklama": "istenmeyen frekansları engelleyip sadece belirli frekans bandını geçiren filtre",
     "yasakli_kelimeler": [
       "parabol çanak",
       "uydu çanağı",
@@ -2341,7 +2341,7 @@
     "id": 168,
     "kategori": "telekomunikasyon",
     "kelime": "televizyon yayını",
-    "aciklama": "vericilerden veya uydulardan evlerdeki televizyonlara görüntü ve ses sinyallerinin havadan aktarılması.",
+    "aciklama": "belirli bir frekansın altındaki tüm sinyalleri geçiren alçak geçiren filtre",
     "yasakli_kelimeler": [
       "tv yayını",
       "ekran yayını",
@@ -2355,7 +2355,7 @@
     "id": 169,
     "kategori": "telekomunikasyon",
     "kelime": "radyo yayını",
-    "aciklama": "am ve fm frekans bantlarından müzik ve haber programlarının kablosuz olarak araç ve ev alıcılarına iletilmesi.",
+    "aciklama": "belirli bir frekansın üstündeki sinyalleri geçiren yüksek geçiren filtre",
     "yasakli_kelimeler": [
       "fm radyo",
       "radyo istasyonu",
@@ -2369,7 +2369,7 @@
     "id": 170,
     "kategori": "telekomunikasyon",
     "kelime": "karasal yayın",
-    "aciklama": "uydu yerine yerdeki yüksek kuleler ve verici antenler üzerinden ev antenlerine yapılan geleneksel yayın.",
+    "aciklama": "belirli bir frekans aralığını bastırıp geçişine izin vermeyen çentik filtre",
     "yasakli_kelimeler": [
       "yer vericisi",
       "çatı anteni yayını",
@@ -2383,7 +2383,7 @@
     "id": 171,
     "kategori": "telekomunikasyon",
     "kelime": "sayısal yayın",
-    "aciklama": "televizyon ve radyo sinyallerinin sıfır ve birlerden oluşan dijital paketler halinde parazitsiz aktarılması.",
+    "aciklama": "iletilen radyo sinyalinin doğrudan ve binalardan yansıyarak farklı yollardan ulaşması",
     "yasakli_kelimeler": [
       "dijital yayın",
       "parazitsiz yayın",
@@ -2397,7 +2397,7 @@
     "id": 172,
     "kategori": "telekomunikasyon",
     "kelime": "canlı yayın",
-    "aciklama": "bir olayın, maçın veya haberin gerçekleştiği anda kameralardan uydular vasıtasıyla eşzamanlı aktarılması.",
+    "aciklama": "radyo sinyalinin atmosferik değişimler veya hareket nedeniyle anlık zayıflayıp sönmesi",
     "yasakli_kelimeler": [
       "naklen yayın",
       "anında yayın",
@@ -2411,7 +2411,7 @@
     "id": 173,
     "kategori": "telekomunikasyon",
     "kelime": "telekonferans",
-    "aciklama": "farklı şehirlerdeki birden çok kişinin telefon veya internet üzerinden aynı anda ortak toplantı yapması.",
+    "aciklama": "radyo dalgalarının tepelerden veya bina köşelerinden bükülerek arkaya geçmesi olayı",
     "yasakli_kelimeler": [
       "uzaktan toplantı",
       "çoklu görüşme",
@@ -2425,7 +2425,7 @@
     "id": 174,
     "kategori": "telekomunikasyon",
     "kelime": "görüntülü arama",
-    "aciklama": "cep telefonu veya bilgisayar kamerasıyla konuşurken karşı tarafın yüzünü eşzamanlı izleme görüşmesi.",
+    "aciklama": "radyo dalgalarının pürüzlü yüzeylere çarparak her yöne kontrolsüz dağılması",
     "yasakli_kelimeler": [
       "video arama",
       "kameralı konuşma",
@@ -2439,7 +2439,7 @@
     "id": 175,
     "kategori": "telekomunikasyon",
     "kelime": "kısa mesaj",
-    "aciklama": "cep telefonları arasında operatör şebekesiyle iletilen yüz altmış karakterlik metin mesajı.",
+    "aciklama": "radyo dalgalarının farklı yoğunluktaki hava katmanlarından geçerken yön değiştirmesi",
     "yasakli_kelimeler": [
       "sms",
       "metin mesajı",
@@ -2453,7 +2453,7 @@
     "id": 176,
     "kategori": "telekomunikasyon",
     "kelime": "multimedya mesaj",
-    "aciklama": "metin mesajının yanında fotoğraf, video veya ses kaydı göndermeye yarayan gelişmiş cep telefonu mesajı.",
+    "aciklama": "radyo dalgalarının iletken yüzeylere çarparak geri yansıması olayı",
     "yasakli_kelimeler": [
       "mms",
       "fotoğraflı mesaj",
@@ -2467,7 +2467,7 @@
     "id": 177,
     "kategori": "telekomunikasyon",
     "kelime": "baz kulesi",
-    "aciklama": "kırsal alanlarda veya otoyol kenarlarında antenleri yüksekte tutmak için dikilen çelik kafes kule.",
+    "aciklama": "kısa dalga radyo sinyallerinin gökyüzündeki iyonosferden yansıyarak kıtalar aşması",
     "yasakli_kelimeler": [
       "kafes kule",
       "gsm kulesi",
@@ -2481,7 +2481,7 @@
     "id": 178,
     "kategori": "telekomunikasyon",
     "kelime": "hücresel kapsama",
-    "aciklama": "coğrafi alanın altıgen hücrelere bölünerek her hücrenin bir baz istasyonunca beslendiği ağ sistemi.",
+    "aciklama": "radyo sinyallerinin yer yüzeyini takip ederek ufkun ötesine ilerlemesi",
     "yasakli_kelimeler": [
       "altıgen hücre",
       "hücre yapısı",
@@ -2495,7 +2495,7 @@
     "id": 179,
     "kategori": "telekomunikasyon",
     "kelime": "spektrum tahsisi",
-    "aciklama": "devlet kurumlarının radyo ve cep telefonu frekans bantlarını açık artırmayla operatörlere lisanslaması.",
+    "aciklama": "iki mikrodalga anteni arasında sinyalin yayılma alanı olan elipsoid bölge",
     "yasakli_kelimeler": [
       "frekans ihalesi",
       "frekans lisansı",
@@ -2509,7 +2509,7 @@
     "id": 180,
     "kategori": "telekomunikasyon",
     "kelime": "frekans bandı",
-    "aciklama": "radyo spektrumunda belirli bir iletişim teknolojisi için ayrılmış alt ve üst megahertz frekans aralığı.",
+    "aciklama": "binaların ve tünellerin içinde radyo sinyallerini dağıtan dahili anten sistemi",
     "yasakli_kelimeler": [
       "hertz aralığı",
       "megahertz bandı",
@@ -2523,7 +2523,7 @@
     "id": 181,
     "kategori": "telekomunikasyon",
     "kelime": "telekomünikasyon",
-    "aciklama": "sembollerin, seslerin, yazıların ve görüntülerin tel, radyo, optik veya diğer sistemlerle iletilmesi bilimi.",
+    "aciklama": "tüneller boyunca radyo dalgalarını dağıtan delikli özel kablo",
     "yasakli_kelimeler": [
       "uzaktan iletişim",
       "haberleşme",
@@ -2537,7 +2537,7 @@
     "id": 182,
     "kategori": "telekomunikasyon",
     "kelime": "operatör",
-    "aciklama": "halka hücresel iletişim, internet ve sabit telefon altyapısı sağlayıp hizmet veren telekom şirketi.",
+    "aciklama": "aynı frekansı kullanan komşu hücrelerin birbirinin sinyalini bozması paraziti",
     "yasakli_kelimeler": [
       "gsm şirketi",
       "turkcell vodafone",
@@ -2551,7 +2551,7 @@
     "id": 183,
     "kategori": "telekomunikasyon",
     "kelime": "servis sağlayıcı",
-    "aciklama": "kullanıcıların evlerine veya iş yerlerine internet erişimi ve e-posta hizmeti sunan aracı şirket.",
+    "aciklama": "aynı frekansı kullanan hücreler arasındaki coğrafi mesafe planlaması",
     "yasakli_kelimeler": [
       "isp",
       "internet sağlayıcı",
@@ -2565,7 +2565,7 @@
     "id": 184,
     "kategori": "telekomunikasyon",
     "kelime": "abonelik",
-    "aciklama": "telefon veya internet hizmetinden düzenli yararlanmak için operatörle yapılan resmi sözleşme ilişkisi.",
+    "aciklama": "kullanıcıların oluşturduğu toplam arama ve iletişim yükü trafik hacmi birimi",
     "yasakli_kelimeler": [
       "abone olma",
       "hat sözleşmesi",
@@ -2579,7 +2579,7 @@
     "id": 185,
     "kategori": "telekomunikasyon",
     "kelime": "tarife",
-    "aciklama": "operatörün aboneye sunduğu dakika, internet ve sms paketinin aylık ücretlendirme planı.",
+    "aciklama": "yoğun saatte tüm hatların dolu olması sebebiyle aramanın düşme olasılığı",
     "yasakli_kelimeler": [
       "paket ücreti",
       "aylık plan",
@@ -2593,7 +2593,7 @@
     "id": 186,
     "kategori": "telekomunikasyon",
     "kelime": "faturalı hat",
-    "aciklama": "kullanılan konuşma ve internet bedelinin her ayın sonunda eve gelen faturayla ödendiği hat türü.",
+    "aciklama": "aramaların düşmeden ve kesilmeden başarıyla tamamlanma oranı kalitesi",
     "yasakli_kelimeler": [
       "aylık fatura",
       "faturasız zıddı",
@@ -2607,7 +2607,7 @@
     "id": 187,
     "kategori": "telekomunikasyon",
     "kelime": "faturasız hat",
-    "aciklama": "kullanımdan önce karta tl veya bakiye yüklenerek kullanılan ön ödemeli hazır kart hattı.",
+    "aciklama": "şebekenin ve sistemlerin yıl boyunca kesintisiz hizmet verme yüzdesi",
     "yasakli_kelimeler": [
       "kontörlü hat",
       "hazır kart",
@@ -2621,7 +2621,7 @@
     "id": 188,
     "kategori": "telekomunikasyon",
     "kelime": "ön ödemeli",
-    "aciklama": "iletişim hizmetini kullanmadan önce parasının peşin olarak hatta yatırıldığı harcama modeli.",
+    "aciklama": "kullanıcıların telefonlarına tek seferde gönderilen acil durum alarm mesajı",
     "yasakli_kelimeler": [
       "peşin bakiye",
       "faturasız model",
@@ -2635,7 +2635,7 @@
     "id": 189,
     "kategori": "telekomunikasyon",
     "kelime": "roaming ücreti",
-    "aciklama": "yurt dışına çıkıldığında yabancı operatörlerin baz istasyonlarını kullanma karşılığında ödenen dolaşım bedeli.",
+    "aciklama": "telsiz ve hücresel haberleşmede bas konuş mantığıyla anında ses iletimi",
     "yasakli_kelimeler": [
       "yurt dışı dolaşım",
       "uluslararası kullanım",
@@ -2649,7 +2649,7 @@
     "id": 190,
     "kategori": "telekomunikasyon",
     "kelime": "numara taşıma",
-    "aciklama": "abonenin mevcut telefon numarasını ve kodunu hiç değiştirmeden başka bir operatör şirketine geçmesi.",
+    "aciklama": "polis, itfaiye ve ambulans ekiplerinin kullandığı güvenli dijital telsiz standardı",
     "yasakli_kelimeler": [
       "operatör değiştirme",
       "numarayı koruma",
@@ -2663,7 +2663,7 @@
     "id": 191,
     "kategori": "telekomunikasyon",
     "kelime": "alan kodu",
-    "aciklama": "sabit telefon numaralarının başında yer alan ve hangi şehre ait olduğunu gösteren üç haneli kod.",
+    "aciklama": "enerji ve su sayaçlarının şebeke üzerinden otomatik uzaktan okunması sistemi",
     "yasakli_kelimeler": [
       "şehir kodu",
       "0212 0312",
@@ -2677,7 +2677,7 @@
     "id": 192,
     "kategori": "telekomunikasyon",
     "kelime": "ülke kodu",
-    "aciklama": "uluslararası aramalarda ülke numarasının başına eklenen artı doksan gibi resmi telefon kodu.",
+    "aciklama": "şehir altyapılarının ve fabrikaların uzaktan izlenip kontrol edildiği endüstriyel sistem",
     "yasakli_kelimeler": [
       "artı doksan",
       "uluslararası kod",
@@ -2691,7 +2691,7 @@
     "id": 193,
     "kategori": "telekomunikasyon",
     "kelime": "dahili hat",
-    "aciklama": "bir şirket veya kurum içindeki çalışanların masalarındaki telefonlara doğrudan ulaşmayı sağlayan kısa numara.",
+    "aciklama": "iki makinenin insan müdahalesi olmadan birbiriyle veri alışverişi yapması",
     "yasakli_kelimeler": [
       "iç hat",
       "kısa numara",
@@ -2705,7 +2705,7 @@
     "id": 194,
     "kategori": "telekomunikasyon",
     "kelime": "acil çağrı",
-    "aciklama": "hat kapalı veya sim kart takılı olmasa bile ambulans, itfaiye ve polise ücretsiz bağlanan acil durum araması.",
+    "aciklama": "fiziksel nesnelerin internete bağlanarak veri üretip paylaştığı devasa ekosistem",
     "yasakli_kelimeler": [
       "112 araması",
       "acil servis",
@@ -2719,7 +2719,7 @@
     "id": 195,
     "kategori": "telekomunikasyon",
     "kelime": "santral memuru",
-    "aciklama": "manuel telefon santrallerinde kulaklık takarak fişleri panoya takıp aboneleri konuşturan kişi.",
+    "aciklama": "fiziksel bir sistemin bilgisayarda oluşturulan bire bir modeli",
     "yasakli_kelimeler": [
       "santral operatörü",
       "fiş takan görevli",
@@ -2733,7 +2733,7 @@
     "id": 196,
     "kategori": "telekomunikasyon",
     "kelime": "çağrı merkezi",
-    "aciklama": "müşterilerin şikayet, arıza ve destek taleplerini telefonla yanıtlayan yüzlerce operatörün çalıştığı salon.",
+    "aciklama": "araçların birbirleriyle ve trafik lambalarıyla kablosuz haberleşme teknolojisi",
     "yasakli_kelimeler": [
       "call center",
       "müşteri hizmetleri",
@@ -2747,7 +2747,7 @@
     "id": 197,
     "kategori": "telekomunikasyon",
     "kelime": "müşteri temsilcisi",
-    "aciklama": "çağrı merkezinde kulaklıkla gelen aramaları karşılayıp abonenin sorununu çözen telekom çalışanı.",
+    "aciklama": "araçların internete ve çevreye bağlı olduğu akıllı ulaşım ağı",
     "yasakli_kelimeler": [
       "çağrı merkezi elemanı",
       "destek yetkilisi",
@@ -2761,7 +2761,7 @@
     "id": 198,
     "kategori": "telekomunikasyon",
     "kelime": "hat meşgul",
-    "aciklama": "aranan kişinin o sırada başka biriyle konuştuğunu bildiren hızlı tempolu kesik düt düt sinyal sesi.",
+    "aciklama": "drone ve hava araçlarının 5g şebekeleri üzerinden uzaktan güvenle uçurulması",
     "yasakli_kelimeler": [
       "meşgul tonu",
       "düt düt sesi",
@@ -2775,7 +2775,7 @@
     "id": 199,
     "kategori": "telekomunikasyon",
     "kelime": "çevir sesi",
-    "aciklama": "sabit ahize kaldırıldığında santralin numara çevirmeye hazır olduğunu bildiren kesintisiz sürekli ton sesi.",
+    "aciklama": "5g ile uzman cerrahın uzaktan ameliyat gerçekleştirmesi",
     "yasakli_kelimeler": [
       "çevir tonu",
       "ahize sesi",
@@ -2789,7 +2789,7 @@
     "id": 200,
     "kategori": "telekomunikasyon",
     "kelime": "çalma tonu",
-    "aciklama": "numara çevrildikten sonra karşı tarafın telefonunun çaldığını arayana bildiren periyodik uzun bip sesi.",
+    "aciklama": "ışık titreşimleriyle yüksek hızlı veri aktaran optik teknoloji",
     "yasakli_kelimeler": [
       "çalıyor sesi",
       "arama tonu",
@@ -2802,7 +2802,7 @@
   {
     "kategori": "telekomunikasyon",
     "kelime": "aramak",
-    "aciklama": "telefondan numarayı tuşlayıp karşı tarafın çalmasını sağlamak",
+    "aciklama": "bir telefon numarasını çevirip karşı tarafla sesli görüşme başlatmak",
     "yasakli_kelimeler": [
       "telefon",
       "numara",
@@ -2816,7 +2816,7 @@
   {
     "kategori": "telekomunikasyon",
     "kelime": "mesaj göndermek",
-    "aciklama": "sms veya sohbet uygulamasından metin iletmek",
+    "aciklama": "telefonda tuşlara basarak aramak istediği numarayı santrale girmek",
     "yasakli_kelimeler": [
       "sms",
       "metin",
@@ -2830,7 +2830,7 @@
   {
     "kategori": "telekomunikasyon",
     "kelime": "konuşmak",
-    "aciklama": "ahizeyi veya kulaklığı takıp karşıdaki kişiyle sesli iletişim kurmak",
+    "aciklama": "çalan telefona basarak veya ahizeyi kaldırarak gelen çağrıyı cevaplamak",
     "yasakli_kelimeler": [
       "ses",
       "ahize",
@@ -2844,7 +2844,7 @@
   {
     "kategori": "telekomunikasyon",
     "kelime": "bağlanmak",
-    "aciklama": "telefon veya bilgisayarla kablosuz wifi veya mobil internet ağına girmek",
+    "aciklama": "telefon görüşmesini bitirmek için kırmızı tuşa basıp aramayı sonlandırmak",
     "yasakli_kelimeler": [
       "wifi",
       "internet",
@@ -2858,7 +2858,7 @@
   {
     "kategori": "telekomunikasyon",
     "kelime": "çekmek",
-    "aciklama": "telefonun baz istasyonundan güçlü radyo sinyali alması",
+    "aciklama": "karşı tarafa klavyeden yazarak yüz altmış karakterlik kısa mesaj yollamak",
     "yasakli_kelimeler": [
       "şebeke",
       "sinyal",
@@ -2872,7 +2872,7 @@
   {
     "kategori": "telekomunikasyon",
     "kelime": "kesilmek",
-    "aciklama": "tünelde veya dağda telefon sinyalinin aniden kaybolup çağrının düşmesi",
+    "aciklama": "fotoğraf ve ses dosyalarını mesajla karşı tarafa ekleyip iletmek",
     "yasakli_kelimeler": [
       "kopmak",
       "düşmek",
@@ -2886,7 +2886,7 @@
   {
     "kategori": "telekomunikasyon",
     "kelime": "şarj etmek",
-    "aciklama": "telefonun pilini şarj aletiyle prize takıp doldurmak",
+    "aciklama": "fiber optik kabloları lazer ışığıyla birbirine kaynatıp ek yapmak",
     "yasakli_kelimeler": [
       "priz",
       "kablo",
@@ -2900,7 +2900,7 @@
   {
     "kategori": "telekomunikasyon",
     "kelime": "sım kartı takmak",
-    "aciklama": "internet bağlantısıyla dosyayı veya videoyu telefona çekmek",
+    "aciklama": "cep telefonuna operatörün sim kartını takıp şebekeye bağlanmak",
     "yasakli_kelimeler": [
       "download",
       "dosya",
@@ -2914,7 +2914,7 @@
   {
     "kategori": "telekomunikasyon",
     "kelime": "yüklemek",
-    "aciklama": "telefondaki fotoğrafı veya belgeyi sunucuya göndermek",
+    "aciklama": "telefona dijital e-sim profilini karekod okutarak hızlıca yüklemek",
     "yasakli_kelimeler": [
       "upload",
       "göndermek",
@@ -2928,7 +2928,7 @@
   {
     "kategori": "telekomunikasyon",
     "kelime": "tuşlamak",
-    "aciklama": "telefon ekranında veya klavyesinde rakamlara basmak",
+    "aciklama": "evdeki modemi telefon hattına bağlayıp internete erişim sağlamak",
     "yasakli_kelimeler": [
       "rakam",
       "ekran",
@@ -2942,7 +2942,7 @@
   {
     "kategori": "telekomunikasyon",
     "kelime": "kapatmak",
-    "aciklama": "konuşma bitince kırmızı butona basıp hattı sonlandırmak",
+    "aciklama": "modemin üzerindeki şifreyi girerek kablosuz wifi ağına bağlanmak",
     "yasakli_kelimeler": [
       "sonlandırmak",
       "kırmızı buton",
@@ -2956,7 +2956,7 @@
   {
     "kategori": "telekomunikasyon",
     "kelime": "yönlendirmek",
-    "aciklama": "ulaşılamayan telefonu başka bir numaraya aktarmak",
+    "aciklama": "telefonda bluetooth özelliğini açıp kulaklıkla kablosuz eşleşmek",
     "yasakli_kelimeler": [
       "aktarma",
       "başka numara",
@@ -2970,7 +2970,7 @@
   {
     "kategori": "telekomunikasyon",
     "kelime": "baz istasyonu dikmek",
-    "aciklama": "tepelere veya çatıya mobil haberleşme anten kuleleri monte etmek",
+    "aciklama": "telefonun kamerasını yönlendirerek iki yönlü görüntülü görüşme yapmak",
     "yasakli_kelimeler": [
       "anten kulesi",
       "mobil anten",
@@ -2984,7 +2984,7 @@
   {
     "kategori": "telekomunikasyon",
     "kelime": "baz istasyonu bağlantısı",
-    "aciklama": "sokakları kazıp yer altına ışık hızında cam optik internet hatları döşemek",
+    "aciklama": "ulaşılamayan aramalarda arayan kişinin sesli mesaj bırakmasını dinlemek",
     "yasakli_kelimeler": [
       "fiber optik",
       "yer altı kazısı",
@@ -2998,7 +2998,7 @@
   {
     "kategori": "telekomunikasyon",
     "kelime": "sim kart takmak",
-    "aciklama": "operatörün verdiği mikro çipli kartı telefonun tepsisine yerleştirmek",
+    "aciklama": "gelen aramaları başka bir sabit veya cep telefonuna aktarmak",
     "yasakli_kelimeler": [
       "sim kart",
       "çip",
@@ -3012,7 +3012,7 @@
   {
     "kategori": "telekomunikasyon",
     "kelime": "roaming açmak",
-    "aciklama": "yurt dışına çıkınca hattın yabancı operatör şebekesine bağlanmasını sağlamak",
+    "aciklama": "görüşme yaparken arkadan gelen ikinci aramayı beklemeye almak",
     "yasakli_kelimeler": [
       "yurt dışı",
       "uluslararası dolaşım",
@@ -3026,7 +3026,7 @@
   {
     "kategori": "telekomunikasyon",
     "kelime": "modem resetlemek",
-    "aciklama": "interneti kopan modemin arkasındaki minik düğmeye iğneyle basıp sıfırlamak",
+    "aciklama": "aynı anda birden fazla arkadaşını arayarak grup konferans görüşmesi yapmak",
     "yasakli_kelimeler": [
       "modem",
       "sıfırlama",
@@ -3040,7 +3040,7 @@
   {
     "kategori": "telekomunikasyon",
     "kelime": "uçak moduna almak",
-    "aciklama": "speedtest sitesinden indirme ve yükleme megabit hızını ölçmek",
+    "aciklama": "operatörün mobil uygulamasına girip internet ve dakika paketi yüklemek",
     "yasakli_kelimeler": [
       "speedtest",
       "megabit",
@@ -3054,7 +3054,7 @@
   {
     "kategori": "telekomunikasyon",
     "kelime": "ping süresi ölçmek",
-    "aciklama": "bilgisayardan sunucuya gönderilen sinyalin milisaniye cinsinden gecikmesini bulmak",
+    "aciklama": "numarayı değiştirmeden başka bir operatörün avantajlı tarifesine geçmek",
     "yasakli_kelimeler": [
       "gecikme",
       "milisaniye",
@@ -3068,7 +3068,7 @@
   {
     "kategori": "telekomunikasyon",
     "kelime": "uyduya sinyal göndermek",
-    "aciklama": "yer istasyonundaki çanak antenle uzaydaki haberleşme uydusuna veri yollamak",
+    "aciklama": "yurt dışına çıkınca telefonun oradaki yabancı şebekeye bağlanmasını sağlamak",
     "yasakli_kelimeler": [
       "türksat",
       "çanak anten",
@@ -3082,7 +3082,7 @@
   {
     "kategori": "telekomunikasyon",
     "kelime": "santralde hat bağlamak",
-    "aciklama": "gelen telefon çağrısını dahili numara santralinden ilgili masaya aktarmak",
+    "aciklama": "internet bağlantısının indirme ve yükleme hızını hız testiyle ölçmek",
     "yasakli_kelimeler": [
       "dahili hat",
       "telefon santrali",
@@ -3096,7 +3096,7 @@
   {
     "kategori": "telekomunikasyon",
     "kelime": "optik hat çekmek",
-    "aciklama": "dhcp sunucusuyla ağa yeni katılan telefona otomatik yerel ip vermek",
+    "aciklama": "veri kotasını aşmamak için telefonun hücresel veri kullanımını kısıtlamak",
     "yasakli_kelimeler": [
       "dhcp",
       "yerel ip",
@@ -3110,7 +3110,7 @@
   {
     "kategori": "telekomunikasyon",
     "kelime": "frekans tahsis etmek",
-    "aciklama": "devlet kurumunun 5g veya radyo yayını için operatörlere megaherz bandı ihale etmesi",
+    "aciklama": "uçağa binerken tüm telsiz sinyallerini kesmek için uçak moduna almak",
     "yasakli_kelimeler": [
       "btk",
       "spektrum",
@@ -3124,7 +3124,7 @@
   {
     "kategori": "telekomunikasyon",
     "kelime": "kapsama alanı haritalamak",
-    "aciklama": "şehirdeki sinyal gücünü sokak sokak test aracıyla gezip haritaya işlemek",
+    "aciklama": "telefonun internetini paylaşmak için kişisel erişim noktası açmak",
     "yasakli_kelimeler": [
       "drive test",
       "sinyal gücü",
@@ -3138,7 +3138,7 @@
   {
     "kategori": "telekomunikasyon",
     "kelime": "kablo eki yapmak",
-    "aciklama": "kopan bakır veya fiber kablo uçlarını özel kaynak makinesiyle kaynatmak",
+    "aciklama": "çatıya çanak anten kurup uydu yönünü ve sinyalini hassasça ayarlamak",
     "yasakli_kelimeler": [
       "fiber füzyon ek",
       "kaynak makinesi",
@@ -3152,7 +3152,7 @@
   {
     "kategori": "telekomunikasyon",
     "kelime": "yönlendirici şifresi değiştirmek",
-    "aciklama": "telefonun mobil internetini kablosuz ağ açarak yanındaki bilgisayara dağıtmak",
+    "aciklama": "uydu alıcısında kanal taraması yaparak yeni televizyon kanallarını hafızaya kaydetmek",
     "yasakli_kelimeler": [
       "kişisel erişim noktası",
       "mobil veri paylaşımı",
@@ -3166,7 +3166,7 @@
   {
     "kategori": "telekomunikasyon",
     "kelime": "voip ile aramak",
-    "aciklama": "telefon hattı yerine internet protokolü üzerinden sesli arama yapmak",
+    "aciklama": "uzak dağ tepelerine çelik kuleler dikip baz istasyonu kurmak",
     "yasakli_kelimeler": [
       "internet üzerinden ses",
       "skype",
@@ -3180,7 +3180,7 @@
   {
     "kategori": "telekomunikasyon",
     "kelime": "dsl hattı kurmak",
-    "aciklama": "eski bakır telefon hatlarından yüksek hızlı adsl ve vdsl internet geçirmek",
+    "aciklama": "baz istasyonunun anten açılarını ve kapsama alanını optimize etmek",
     "yasakli_kelimeler": [
       "adsl",
       "vdsl",
@@ -3194,7 +3194,7 @@
   {
     "kategori": "telekomunikasyon",
     "kelime": "bant genişliği artırmak",
-    "aciklama": "şebekedeki veri taşıma kapasitesini gigabit seviyesine yükseltmek",
+    "aciklama": "yolların altına iş makineleriyle kazı yapıp fiber optik kablo döşemek",
     "yasakli_kelimeler": [
       "bandwidth",
       "kapasite",
@@ -3208,7 +3208,7 @@
   {
     "kategori": "telekomunikasyon",
     "kelime": "mobil veriyi açmak",
-    "aciklama": "router cihazına girip port yönlendirme ve nat kurallarını ayarlamak",
+    "aciklama": "kabloların uçlarına rj45 jakı takıp pürmüz veya pensle sıkmak",
     "yasakli_kelimeler": [
       "router",
       "port açma",
@@ -3222,7 +3222,7 @@
   {
     "kategori": "telekomunikasyon",
     "kelime": "numara taşımak",
-    "aciklama": "kendi telefon numarasını değiştirmeden başka bir operatör şirketine geçmek",
+    "aciklama": "ototest cihazıyla ağ kablosundaki damarların iletkenliğini ve sırasını test etmek",
     "yasakli_kelimeler": [
       "operatör değişikliği",
       "aynı numara",
@@ -3236,7 +3236,7 @@
   {
     "kategori": "telekomunikasyon",
     "kelime": "telsiz mandallamak",
-    "aciklama": "polis veya güvenlik telsizinin yanındaki ptt butonuna basıp konuşmak",
+    "aciklama": "fiber kablodaki ışık kaybını ve mesafesini ölçüm cihazıyla incelemek",
     "yasakli_kelimeler": [
       "ptt butonu",
       "anons",
@@ -3250,7 +3250,7 @@
   {
     "kategori": "telekomunikasyon",
     "kelime": "sinyal güçlendirici kurmak",
-    "aciklama": "ağ yoğunluğundan gönderilen veri paketlerinin hedefe ulaşamadan silinmesi",
+    "aciklama": "operatör santralinde telefon hatlarını ilgili anahtarlama kartlarına bağlamak",
     "yasakli_kelimeler": [
       "packet loss",
       "takılma",
@@ -3264,7 +3264,7 @@
   {
     "kategori": "telekomunikasyon",
     "kelime": "kriptolu telsiz kullanmak",
-    "aciklama": "askeri operasyonda dinlenmeyi önlemek için frekans atlamalı şifreli haberleşmek",
+    "aciklama": "müşteri hizmetlerini arayıp sesli yanıt sisteminde tuşlama yaparak temsilciye bağlanmak",
     "yasakli_kelimeler": [
       "şifreli haberleşme",
       "frekans atlama",
@@ -3278,7 +3278,7 @@
   {
     "kategori": "telekomunikasyon",
     "kelime": "tarife yenilemek",
-    "aciklama": "taahhüt süresi biten faturasız veya faturalı hat için yeni dakika paketi seçmek",
+    "aciklama": "şirket içi dahili telefon santralini programlayıp numaraları personele atamak",
     "yasakli_kelimeler": [
       "taahhüt",
       "dakika sms internet",
@@ -3292,7 +3292,7 @@
   {
     "kategori": "telekomunikasyon",
     "kelime": "çağrı merkezine bağlanmak",
-    "aciklama": "müşteri hizmetlerini arayıp telesekreter menüsünden temsilciye ulaşmak",
+    "aciklama": "internet üzerinden ses taşıyan ip telefonları şirket ağına bağlamak",
     "yasakli_kelimeler": [
       "müşteri hizmetleri",
       "telesekreter",
@@ -3306,7 +3306,7 @@
   {
     "kategori": "telekomunikasyon",
     "kelime": "hüzme şekillendirme yapmak",
-    "aciklama": "5g baz istasyonunda 64 antenle radyo dalgalarını doğrudan kullanıcının telefonuna odaklamak",
+    "aciklama": "bağlantı kopması durumunda modemin fişini çekip yeniden başlatmak",
     "yasakli_kelimeler": [
       "massive mimo",
       "beamforming",
@@ -3320,7 +3320,7 @@
   {
     "kategori": "telekomunikasyon",
     "kelime": "handover gerçekleştirmek",
-    "aciklama": "hızla giden trende telefonun kesintisiz bir baz istasyonundan diğerine devrolması",
+    "aciklama": "modemin arayüzüne girip kablosuz ağ adını ve güvenlik şifresini değiştirmek",
     "yasakli_kelimeler": [
       "el değiştirme",
       "kesintisiz devir",
@@ -3334,7 +3334,7 @@
   {
     "kategori": "telekomunikasyon",
     "kelime": "qam konstelasyonu çözmek",
-    "aciklama": "hem genlik hem faz kaymasıyla tek sembolde 8 veya 10 bit veri taşıyan sinyali işlemek",
+    "aciklama": "modem üzerindeki reset deliğine iğneyle basıp fabrika ayarlarına döndürmek",
     "yasakli_kelimeler": [
       "1024 qam",
       "takımyıldız diyagramı",
@@ -3348,7 +3348,7 @@
   {
     "kategori": "telekomunikasyon",
     "kelime": "dalga boyu çoğullamak",
-    "aciklama": "tek bir fiber kıl içinden farklı renklerde 80 ayrı lazer dalga boyunu aynı anda iletmek",
+    "aciklama": "binaların girişindeki telefon kutusundaki kablo bağlantılarını regletle onarmak",
     "yasakli_kelimeler": [
       "yoğun dalga boyu",
       "tek kıl fiber",
@@ -3362,7 +3362,7 @@
   {
     "kategori": "telekomunikasyon",
     "kelime": "network slicing kurgulamak",
-    "aciklama": "tek bir 5g fiziksel şebekesini otonom araçlar ve fabrikalar için sanal bağımsız dilimlere bölmek",
+    "aciklama": "yolculuk esnasında araç hareket ederken baz istasyonları arasında kesintisiz devretmek",
     "yasakli_kelimeler": [
       "ağ dilimleme",
       "5g sanallaştırma",
@@ -3376,7 +3376,7 @@
   {
     "kategori": "telekomunikasyon",
     "kelime": "fiber kırığı bulmak",
-    "aciklama": "kabloya lazer darbesi yollayıp geri yansıyan ışıktan kırığın kaçıncı kilometrede olduğunu metreyle saptamak",
+    "aciklama": "şebeke operatörünün kontrol merkezinde ağ trafiğini ve alarmları sürekli izlemek",
     "yasakli_kelimeler": [
       "optik zaman alanı",
       "yansıma ölçer",
@@ -3390,7 +3390,7 @@
   {
     "kategori": "telekomunikasyon",
     "kelime": "oran mimarisini sanallaştırmak",
-    "aciklama": "baz istasyonlarının radyo donanımlarını açık kaynaklı yazılım tabanlı buluta taşımak",
+    "aciklama": "telsiz mandalına basıp telsiz frekansından sesli anons geçmek",
     "yasakli_kelimeler": [
       "open ran",
       "vran",
@@ -3404,7 +3404,7 @@
   {
     "kategori": "telekomunikasyon",
     "kelime": "sinyalleşme açığı sömürmek",
-    "aciklama": "küresel telekomünikasyon yönlendirme protokolündeki zayıflıkla sms onay kodlarını araya girip çalmak",
+    "aciklama": "telefonun nfc özelliğini pos cihazına yaklaştırıp temassız ödeme yapmak",
     "yasakli_kelimeler": [
       "sinyalizasyon sistemi 7",
       "sms ele geçirme",
@@ -3418,7 +3418,7 @@
   {
     "kategori": "telekomunikasyon",
     "kelime": "paket yönlendirme yapmak",
-    "aciklama": "mobil şebekenin çekirdek sunucularında upf ve amf fonksiyonlarıyla kullanıcı oturumu yönetmek",
+    "aciklama": "harita uygulamasını açıp uydulardan gps konum sinyali yakalamak",
     "yasakli_kelimeler": [
       "5g core",
       "upf",
@@ -3432,7 +3432,7 @@
   {
     "kategori": "telekomunikasyon",
     "kelime": "doppler kaymasını düzeltmek",
-    "aciklama": "hızlı tren veya alçak irtifa uydusunda hareket sebebiyle kayan radyo frekansını dijital düzeltmek",
+    "aciklama": "kötü hava şartlarında çanak antende uydu sinyalinin zayıflayıp donması",
     "yasakli_kelimeler": [
       "doppler etkisi",
       "frekans kayması",
@@ -3446,7 +3446,7 @@
   {
     "kategori": "telekomunikasyon",
     "kelime": "spektrum ihalesine girmek",
-    "aciklama": "alıcıya ulaşan faydalı sinyal gücünün termal gürültüye oranını desibel cinsinden optimize etmek",
+    "aciklama": "tünel içinde giderken telefonun şebeke çekim gücünün düşüp kesilmesi",
     "yasakli_kelimeler": [
       "signal to noise",
       "gürültü tabanı",
@@ -3460,7 +3460,7 @@
   {
     "kategori": "telekomunikasyon",
     "kelime": "milimetrik dalga yaymak",
-    "aciklama": "baz istasyonları arasına fiber çekilemeyen yerlerde 80 ghz radyo linkle 10 gigabit basmak",
+    "aciklama": "afet anında herkesin aynı anda aramasıyla telekomünikasyon şebekesinin kilitlenmesi",
     "yasakli_kelimeler": [
       "milimetrik dalga",
       "80 ghz",
@@ -3474,7 +3474,7 @@
   {
     "kategori": "telekomunikasyon",
     "kelime": "urllc standardını tutturmak",
-    "aciklama": "endüstriyel robotlar ve cerrahi için 1 milisaniyenin altında ultra güvenilir düşük gecikme sağlamak",
+    "aciklama": "telefonun zil sesini ve titreşimini toplantıda rahatsız etmesin diye kısmak",
     "yasakli_kelimeler": [
       "1 milisaniye",
       "ultra güvenilir",

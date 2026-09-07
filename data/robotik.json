@@ -3,7 +3,7 @@
     "id": 1,
     "kategori": "robotik",
     "kelime": "manipülatör",
-    "aciklama": "nesneleri kavramak, taşımak veya işlemek için insan kolunu taklit eden mekanik eklemli robot kolu.",
+    "aciklama": "işlemek için insan kolunu taklit eden mekanik eklemli robot kolu.",
     "yasakli_kelimeler": [
       "kol",
       "eklem",
@@ -17,7 +17,7 @@
     "id": 2,
     "kategori": "robotik",
     "kelime": "uç eleman",
-    "aciklama": "robot kolunun en uç noktasına bağlanan ve parça tutma, kaynak yapma gibi asıl görevi gerçekleştiren alet.",
+    "aciklama": "kaynak yapma gibi asıl görevi gerçekleştiren alet.",
     "yasakli_kelimeler": [
       "tutucu",
       "alet",
@@ -31,7 +31,7 @@
     "id": 3,
     "kategori": "robotik",
     "kelime": "servo motor",
-    "aciklama": "açısal konum, hız ve ivmesini dahili bir geri besleme sensörü yardımıyla son derece hassas denetleyen motor.",
+    "aciklama": "ve ivmesini dahili geri besleme sensörü ile hassas denetleyen motor.",
     "yasakli_kelimeler": [
       "açı",
       "konum",
@@ -45,7 +45,7 @@
     "id": 4,
     "kategori": "robotik",
     "kelime": "step motor",
-    "aciklama": "elektrik darbeleriyle tam bir dönüşü çok sayıda eşit açısal adıma bölerek dönen fırçasız motor tipi.",
+    "aciklama": "çok sayıda eşit açısal adıma bölerek dönen fırçasız motor tipi.",
     "yasakli_kelimeler": [
       "adım",
       "darbe",
@@ -59,7 +59,7 @@
     "id": 5,
     "kategori": "robotik",
     "kelime": "fırçasız motor",
-    "aciklama": "mekanik kömür ve fırça yerine elektronik sürücüyle çalışan, yüksek verimli ve uzun ömürlü elektrik motoru.",
+    "aciklama": "yüksek verimli ve uzun ömürlü elektrik motoru.",
     "yasakli_kelimeler": [
       "doğru akım",
       "bobin",
@@ -73,7 +73,7 @@
     "id": 6,
     "kategori": "robotik",
     "kelime": "açısal enkoder",
-    "aciklama": "dönen bir milin veya eklemin anlık konumunu, tur sayısını ve hızını elektriksel sinyallere çeviren ölçüm sensörü.",
+    "aciklama": "tur sayısını ve hızını elektriksel sinyallere çeviren ölçüm sensörü.",
     "yasakli_kelimeler": [
       "dönüş",
       "mil",
@@ -87,7 +87,7 @@
     "id": 7,
     "kategori": "robotik",
     "kelime": "serbestlik derecesi",
-    "aciklama": "mekanik bir robot sisteminin uzayda bağımsız olarak gerçekleştirebileceği ötelenme ve dönme hareketlerinin sayısı.",
+    "aciklama": "sisteminin uzayda bağımsız olarak gerçekleştirebileceği ötelenme ve dönme hareketlerinin sayısı.",
     "yasakli_kelimeler": [
       "bağımsız",
       "hareket",
@@ -101,7 +101,7 @@
     "id": 8,
     "kategori": "robotik",
     "kelime": "kinematik",
-    "aciklama": "hareketi oluşturan kuvvet ve kütleleri dikkate almadan yalnızca konum, hız ve ivme ilişkilerini inceleyen mekanik dalı.",
+    "aciklama": "hız ve ivme ilişkilerini inceleyen mekanik dalı.",
     "yasakli_kelimeler": [
       "hareket",
       "kuvvet",
@@ -115,7 +115,7 @@
     "id": 9,
     "kategori": "robotik",
     "kelime": "ileri kinematik",
-    "aciklama": "robotun her bir eklem açısı bilindiğinde robotun uç noktasının uzaydaki üç boyutlu konumunu hesaplama yöntemi.",
+    "aciklama": "bilindiğinde robotun uç noktasının uzaydaki üç boyutlu konumunu hesaplama yöntemi.",
     "yasakli_kelimeler": [
       "açı",
       "eklem",
@@ -129,7 +129,7 @@
     "id": 10,
     "kategori": "robotik",
     "kelime": "ters kinematik",
-    "aciklama": "robotun uç elemanının ulaşması hedeflenen kartezyen koordinatı için gereken eklem açılarının matematiksel hesabı.",
+    "aciklama": "ulaşması hedeflenen kartezyen koordinatı için gereken eklem açılarının matematiksel hesabı.",
     "yasakli_kelimeler": [
       "hedef",
       "eklem",
@@ -143,7 +143,7 @@
     "id": 11,
     "kategori": "robotik",
     "kelime": "dinamik modelleme",
-    "aciklama": "robotun istenen yörüngede hareket etmesi için eklemlere uygulanması gereken tork ve kuvvetleri hesaplayan fiziksel denklem seti.",
+    "aciklama": "eklemlere uygulanması gereken tork ve kuvvetleri hesaplayan fiziksel denklem seti.",
     "yasakli_kelimeler": [
       "kuvvet",
       "tork",
@@ -157,7 +157,7 @@
     "id": 12,
     "kategori": "robotik",
     "kelime": "jakobiyen matrisi",
-    "aciklama": "robotun eklem hızları ile uç noktasının kartezyen hızları arasındaki türevsel ilişkiyi tanımlayan matris.",
+    "aciklama": "ile uç noktasının kartezyen hızları arasındaki türevsel ilişkiyi tanımlayan matris.",
     "yasakli_kelimeler": [
       "matris",
       "hız",
@@ -171,7 +171,7 @@
     "id": 13,
     "kategori": "robotik",
     "kelime": "kinematik tekillik",
-    "aciklama": "robot kolunun belirli bir pozisyonda bir veya daha fazla serbestlik derecesini kaybederek kilitlenmesi veya sonsuz hız gerektirmesi durumu.",
+    "aciklama": "fazla serbestlik derecesini kaybederek kilitlenmesi veya sonsuz hız gerektirmesi durumu.",
     "yasakli_kelimeler": [
       "kilitlenme",
       "kayıp",
@@ -185,7 +185,7 @@
     "id": 14,
     "kategori": "robotik",
     "kelime": "çalışma uzayı",
-    "aciklama": "bir robot manipülatörünün veya uç elemanının fiziksel olarak uzanıp erişebildiği tüm geometrik noktaların kümesi.",
+    "aciklama": "uç elemanının fiziksel olarak uzanıp erişebildiği tüm geometrik noktaların kümesi.",
     "yasakli_kelimeler": [
       "erişim",
       "kol",
@@ -199,7 +199,7 @@
     "id": 15,
     "kategori": "robotik",
     "kelime": "eyleyici",
-    "aciklama": "kontrol sisteminden gelen elektrik veya basınç sinyalini fiziksel mekanik harekete dönüştüren mekanizma.",
+    "aciklama": "gelen elektrik veya basınç sinyalini fiziksel mekanik harekete dönüştüren mekanizma.",
     "yasakli_kelimeler": [
       "motor",
       "hareket",
@@ -213,7 +213,7 @@
     "id": 16,
     "kategori": "robotik",
     "kelime": "harmonik sürücü",
-    "aciklama": "esnek bir dişli bileşeni kullanarak sıfır boşluk payı ve olağanüstü yüksek redüksiyon oranı sağlayan hassas dişli kutusu.",
+    "aciklama": "payı ve olağanüstü yüksek redüksiyon oranı sağlayan hassas dişli kutusu.",
     "yasakli_kelimeler": [
       "dişli",
       "esnek",
@@ -227,7 +227,7 @@
     "id": 17,
     "kategori": "robotik",
     "kelime": "sikloidal dişli",
-    "aciklama": "yüksek tork aktarımı ve şok yüklere dayanıklılık gerektiren endüstriyel robot eklemlerinde kullanılan dairesel dişli mekanizması.",
+    "aciklama": "yüklere dayanıklılık gerektiren endüstriyel robot eklemlerinde kullanılan dairesel dişli mekanizması.",
     "yasakli_kelimeler": [
       "tork",
       "redüktör",
@@ -241,7 +241,7 @@
     "id": 18,
     "kategori": "robotik",
     "kelime": "planet dişli",
-    "aciklama": "merkezdeki bir güneş dişli etrafında dönen uydu dişlilerden oluşan kompakt ve yüksek torklu güç aktarım sistemi.",
+    "aciklama": "uydu dişlilerden oluşan kompakt ve yüksek torklu güç aktarım sistemi.",
     "yasakli_kelimeler": [
       "güneş",
       "uydu",
@@ -255,7 +255,7 @@
     "id": 19,
     "kategori": "robotik",
     "kelime": "scara robot",
-    "aciklama": "yatay düzlemde iki döner eklem ve dikey eksende bir prizmatik eklemle çalışan, hızlı montaj robotu.",
+    "aciklama": "eklem ve dikey eksende prizmatik eklemle çalışan, hızlı montaj robotu.",
     "yasakli_kelimeler": [
       "yatay",
       "montaj",
@@ -269,7 +269,7 @@
     "id": 20,
     "kategori": "robotik",
     "kelime": "kartezyen robot",
-    "aciklama": "üç dik eksende birbirine dik doğrusal kızaklar üzerinde hareket eden gantry tipi endüstriyel robot.",
+    "aciklama": "dik doğrusal kızaklar üzerinde hareket eden gantry tipi endüstriyel robot.",
     "yasakli_kelimeler": [
       "doğrusal",
       "eksen",
@@ -283,7 +283,7 @@
     "id": 21,
     "kategori": "robotik",
     "kelime": "delta robot",
-    "aciklama": "tavana asılı paralel kollardan oluşan ve üretim bantlarında son derece yüksek ivmeyle parça toplayıp yerleştiren paralel robot.",
+    "aciklama": "ve üretim bantlarında yüksek ivmeyle parça toplayıp yerleştiren paralel robot.",
     "yasakli_kelimeler": [
       "paralel",
       "hızlı",
@@ -297,7 +297,7 @@
     "id": 22,
     "kategori": "robotik",
     "kelime": "insansı robot",
-    "aciklama": "gövdesi, başı, iki kolu ve iki bacağıyla insan anatomisini ve hareket kabiliyetini taklit etmek üzere tasarlanmış robot.",
+    "aciklama": "insan anatomisini ve hareket kabiliyetini taklit etmek üzere tasarlanmış robot.",
     "yasakli_kelimeler": [
       "insan",
       "bacak",
@@ -311,7 +311,7 @@
     "id": 23,
     "kategori": "robotik",
     "kelime": "dört ayaklı robot",
-    "aciklama": "köpek veya kedi anatomisinden esinlenerek engebeli arazilerde ve merdivenlerde dinamik dengeyle yürüyebilen robot.",
+    "aciklama": "anatomisinden esinlenerek engebeli arazilerde ve merdivenlerde dinamik dengeyle yürüyebilen robot.",
     "yasakli_kelimeler": [
       "köpek",
       "bacak",
@@ -325,7 +325,7 @@
     "id": 24,
     "kategori": "robotik",
     "kelime": "insansız hava aracı",
-    "aciklama": "içinde insan pilot olmadan otonom algoritmalar veya uzaktan kumandayla havada uçabilen çok rotorlu hava aracı.",
+    "aciklama": "algoritmalar veya uzaktan kumandayla havada uçabilen çok rotorlu hava aracı.",
     "yasakli_kelimeler": [
       "uçuş",
       "pervane",
@@ -339,7 +339,7 @@
     "id": 25,
     "kategori": "robotik",
     "kelime": "otonom mobil robot",
-    "aciklama": "dahili sensörleri ve haritalama algoritmalarıyla fabrika ortamında dinamik engellerin etrafından dolaşabilen tekerlekli robot.",
+    "aciklama": "haritalama algoritmalarıyla fabrika ortamında dinamik engellerin etrafından dolaşabilen tekerlekli robot.",
     "yasakli_kelimeler": [
       "mobil",
       "harita",
@@ -353,7 +353,7 @@
     "id": 26,
     "kategori": "robotik",
     "kelime": "otomatik yönlendirmeli araç",
-    "aciklama": "fabrikalarda yere döşenen manyetik şeritleri veya optik çizgileri takip ederek yük taşıyan eski nesil taşıma aracı.",
+    "aciklama": "optik çizgileri takip ederek yük taşıyan eski nesil taşıma aracı.",
     "yasakli_kelimeler": [
       "şerit",
       "manyetik",
@@ -367,7 +367,7 @@
     "id": 27,
     "kategori": "robotik",
     "kelime": "lidar sensörü",
-    "aciklama": "çevreye saniyede binlerce lazer darbesi gönderip yansımasını ölçerek ortamın üç boyutlu nokta bulutunu çıkaran optik algılayıcı.",
+    "aciklama": "yansımasını ölçerek ortamın üç boyutlu nokta bulutunu çıkaran optik algılayıcı.",
     "yasakli_kelimeler": [
       "lazer",
       "nokta bulutu",
@@ -381,7 +381,7 @@
     "id": 28,
     "kategori": "robotik",
     "kelime": "ultrasonik sensör",
-    "aciklama": "yüksek frekanslı ses dalgaları yayarak yankının geri dönüş süresinden önündeki engelin mesafesini hesaplayan algılayıcı.",
+    "aciklama": "yayarak yankının geri dönüş süresinden önündeki engelin mesafesini hesaplayan algılayıcı.",
     "yasakli_kelimeler": [
       "ses dalgası",
       "mesafe",
@@ -395,7 +395,7 @@
     "id": 29,
     "kategori": "robotik",
     "kelime": "derinlik kamerası",
-    "aciklama": "kızılötesi yapılandırılmış ışık veya uçuş süresi tekniğiyle sahnedeki her pikselin kameraya olan uzaklığını veren görüntüleme cihazı.",
+    "aciklama": "tekniğiyle sahnedeki her pikselin kameraya olan uzaklığını veren görüntüleme cihazı.",
     "yasakli_kelimeler": [
       "kızılötesi",
       "mesafe",
@@ -409,7 +409,7 @@
     "id": 30,
     "kategori": "robotik",
     "kelime": "stereo görüş",
-    "aciklama": "aralarında belirli bir mesafe bulunan iki kameranın görüntülerini karşılaştırarak derinlik ve mesafe bilgisi çıkarma yöntemi.",
+    "aciklama": "iki kameranın görüntülerini karşılaştırarak derinlik ve mesafe bilgisi çıkarma yöntemi.",
     "yasakli_kelimeler": [
       "çift kamera",
       "derinlik",
@@ -423,7 +423,7 @@
     "id": 31,
     "kategori": "robotik",
     "kelime": "optik akış",
-    "aciklama": "ardışık kamera kareleri arasındaki piksellerin hareket modellerini analiz ederek robotun veya nesnelerin hızını tahmin etme yöntemi.",
+    "aciklama": "modellerini analiz ederek robotun veya nesnelerin hızını tahmin etme yöntemi.",
     "yasakli_kelimeler": [
       "piksel",
       "kare",
@@ -437,7 +437,7 @@
     "id": 32,
     "kategori": "robotik",
     "kelime": "ataletsel ölçüm birimi",
-    "aciklama": "jiroskop ve ivmeölçerleri bünyesinde barındırarak robotun açısal hızını ve çizgisel ivmesini ölçen sensör modülü.",
+    "aciklama": "barındırarak robotun açısal hızını ve çizgisel ivmesini ölçen sensör modülü.",
     "yasakli_kelimeler": [
       "ivme",
       "açısal hız",
@@ -451,7 +451,7 @@
     "id": 33,
     "kategori": "robotik",
     "kelime": "jiroskop",
-    "aciklama": "robotun uzaydaki yönelimini ve eksenleri etrafındaki açısal dönme hızını ölçen sensör.",
+    "aciklama": "uzaydaki yönelimini ve eksenleri etrafındaki açısal dönme hızını ölçen sensör.",
     "yasakli_kelimeler": [
       "dönme",
       "açısal",
@@ -465,7 +465,7 @@
     "id": 34,
     "kategori": "robotik",
     "kelime": "ivmeölçer",
-    "aciklama": "robotun üzerine etkiyen yerçekimi ve doğrusal hızlanma kuvvetlerini üç eksende ölçen elektromekanik bileşen.",
+    "aciklama": "yerçekimi ve doğrusal hızlanma kuvvetlerini üç eksende ölçen elektromekanik bileşen.",
     "yasakli_kelimeler": [
       "hızlanma",
       "yerçekimi",
@@ -479,7 +479,7 @@
     "id": 35,
     "kategori": "robotik",
     "kelime": "manyetometre",
-    "aciklama": "dünyanın manyetik alanını algılayarak robotun pusula yönelimini ve sapma açısını hesaplayan algılayıcı.",
+    "aciklama": "alanını algılayarak robotun pusula yönelimini ve sapma açısını hesaplayan algılayıcı.",
     "yasakli_kelimeler": [
       "manyetik alan",
       "pusula",
@@ -493,7 +493,7 @@
     "id": 36,
     "kategori": "robotik",
     "kelime": "kuvvet tork sensörü",
-    "aciklama": "robot bileğine monte edilerek montaj sırasında uygulanan itme, çekme ve dönme dirençlerini anlık ölçen sensör.",
+    "aciklama": "çekme ve dönme dirençlerini anlık ölçen sensör.",
     "yasakli_kelimeler": [
       "bilek",
       "kuvvet",
@@ -507,7 +507,7 @@
     "id": 37,
     "kategori": "robotik",
     "kelime": "dokunsal sensör",
-    "aciklama": "robot parmaklarına yerleştirilerek temas edilen nesnenin yüzey pürüzlülüğünü, sıcaklığını ve baskı basıncını algılayan yapı.",
+    "aciklama": "sıcaklığını ve baskı basıncını algılayan yapı.",
     "yasakli_kelimeler": [
       "dokunma",
       "parmak",
@@ -521,7 +521,7 @@
     "id": 38,
     "kategori": "robotik",
     "kelime": "eşzamanlı haritalama",
-    "aciklama": "otonom bir robotun bilinmeyen bir ortamda gezinirken hem kendi konumunu belirlemesi hem de çevrenin haritasını çıkarması işlemi.",
+    "aciklama": "hem kendi konumunu belirlemesi hem de çevrenin haritasını çıkarması işlemi.",
     "yasakli_kelimeler": [
       "konum belirleme",
       "otonom navigasyon",
@@ -535,7 +535,7 @@
     "id": 39,
     "kategori": "robotik",
     "kelime": "kameralı konumlandırma",
-    "aciklama": "robotun kamera sensörlerinden gelen görüntüleri ve görsel öznitelikleri kullanarak ortamda yerini bulması ve yönünü tayin etmesi.",
+    "aciklama": "görsel öznitelikleri kullanarak ortamda yerini bulması ve yönünü tayin etmesi.",
     "yasakli_kelimeler": [
       "görsel algı",
       "görüntü işleme",
@@ -549,7 +549,7 @@
     "id": 40,
     "kategori": "robotik",
     "kelime": "odometri",
-    "aciklama": "hareket sensörlerinden alınan ardışık verileri toplayarak robotun başlangıç noktasına göre anlık konum tahminini yapma tekniği.",
+    "aciklama": "toplayarak robotun başlangıç noktasına göre anlık konum tahminini yapma tekniği.",
     "yasakli_kelimeler": [
       "konum",
       "tahmin",
@@ -563,7 +563,7 @@
     "id": 41,
     "kategori": "robotik",
     "kelime": "tekerlek odometrisi",
-    "aciklama": "tekerlek enkoderlerinden gelen dönüş sayısı ve yön bilgilerini hesaplayarak robotun katettiği mesafeyi bulma yöntemi.",
+    "aciklama": "sayısı ve yön bilgilerini hesaplayarak robotun katettiği mesafeyi bulma yöntemi.",
     "yasakli_kelimeler": [
       "tekerlek",
       "dönüş",
@@ -577,7 +577,7 @@
     "id": 42,
     "kategori": "robotik",
     "kelime": "kalman filtresi",
-    "aciklama": "gürültülü sensör ölçümlerini ve sistemin matematiksel modelini birleştirerek bilinmeyen durum değişkenlerini en iyi tahmin eden algoritma.",
+    "aciklama": "modelini birleştirerek bilinmeyen durum değişkenlerini en iyi tahmin eden algoritma.",
     "yasakli_kelimeler": [
       "gürültü",
       "tahmin",
@@ -591,7 +591,7 @@
     "id": 43,
     "kategori": "robotik",
     "kelime": "genişletilmiş kalman filtresi",
-    "aciklama": "standart kalman filtresinin yetersiz kaldığı doğrusal olmayan robot kinematiği ve sensör sistemlerini doğrusallaştırarak çözen filtre.",
+    "aciklama": "doğrusal olmayan robot kinematiği ve sensör sistemlerini doğrusallaştırarak çözen filtre.",
     "yasakli_kelimeler": [
       "doğrusal olmayan",
       "taylor",
@@ -605,7 +605,7 @@
     "id": 44,
     "kategori": "robotik",
     "kelime": "parçacık filtresi",
-    "aciklama": "robotun olası konumlarını çok sayıda rastgele nokta veya parçacıkla modelleyerek küresel konumlandırma yapan olasılıksal yöntem.",
+    "aciklama": "rastgele nokta veya parçacıkla modelleyerek küresel konumlandırma yapan olasılıksal yöntem.",
     "yasakli_kelimeler": [
       "parçacık",
       "monte carlo",
@@ -619,7 +619,7 @@
     "id": 45,
     "kategori": "robotik",
     "kelime": "sensör füzyonu",
-    "aciklama": "farklı sensörlerden gelen eksik veya gürültülü verileri birleştirerek tek bir sensörden elde edilemeyecek kadar kesin bilgi üretme.",
+    "aciklama": "verileri birleştirerek tek sensörden elde edilemeyecek kadar kesin bilgi üretme.",
     "yasakli_kelimeler": [
       "birleştirme",
       "veri",
@@ -633,7 +633,7 @@
     "id": 46,
     "kategori": "robotik",
     "kelime": "yol planlama",
-    "aciklama": "robotun bulunduğu başlangıç noktasından hedef noktaya engellere çarpmadan gidebilmesi için geometrik bir rota bulma süreci.",
+    "aciklama": "hedef noktaya engellere çarpmadan gidebilmesi için geometrik rota bulma süreci.",
     "yasakli_kelimeler": [
       "rota",
       "engel",
@@ -647,7 +647,7 @@
     "id": 47,
     "kategori": "robotik",
     "kelime": "yörünge üretimi",
-    "aciklama": "geometrik yol çizgisine hız, ivme ve zaman kısıtlarını ekleyerek motorların adım adım uygulayacağı hareket profilini çıkarma.",
+    "aciklama": "zaman kısıtlarını ekleyerek motorların adım adım uygulayacağı hareket profilini çıkarma.",
     "yasakli_kelimeler": [
       "zaman",
       "hız",
@@ -661,7 +661,7 @@
     "id": 48,
     "kategori": "robotik",
     "kelime": "a yıldız algoritması",
-    "aciklama": "düğümler arasındaki maliyeti ve hedefe olan tahmini mesafeyi sezgisel fonksiyonla hesaplayarak en kısa yolu bulan grafik algoritması.",
+    "aciklama": "mesafeyi sezgisel fonksiyonla hesaplayarak en kısa yolu bulan grafik algoritması.",
     "yasakli_kelimeler": [
       "sezgisel",
       "en kısa yol",
@@ -675,7 +675,7 @@
     "id": 49,
     "kategori": "robotik",
     "kelime": "rastgele ağaç algoritması",
-    "aciklama": "robot kolu veya otonom araçlar için yüksek boyutlu engelli ortamlarda hızla çarpışmasız yol planlayan arama yöntemi.",
+    "aciklama": "yüksek boyutlu engelli ortamlarda hızla çarpışmasız yol planlayan arama yöntemi.",
     "yasakli_kelimeler": [
       "yol planlama",
       "engeller",
@@ -689,7 +689,7 @@
     "id": 50,
     "kategori": "robotik",
     "kelime": "potansiyel alan yöntemi",
-    "aciklama": "hedefin çekim, engellerin ise itim gücü uyguladığı varsayımına dayanan yapay zeka tabanlı yol planlama tekniği.",
+    "aciklama": "gücü uyguladığı varsayımına dayanan yapay zeka tabanlı yol planlama tekniği.",
     "yasakli_kelimeler": [
       "çekim gücü",
       "itme",
@@ -703,7 +703,7 @@
     "id": 51,
     "kategori": "robotik",
     "kelime": "oransal denetleyici",
-    "aciklama": "robotik sistemlerde hata payını oransal, integral ve türev hesaplarıyla sıfırlayarak motor hızını veya pozisyonunu kontrol eden algoritma.",
+    "aciklama": "türev hesaplarıyla sıfırlayarak motor hızını veya pozisyonunu kontrol eden algoritma.",
     "yasakli_kelimeler": [
       "kapalı döngü",
       "hata payı",
@@ -717,7 +717,7 @@
     "id": 52,
     "kategori": "robotik",
     "kelime": "model öngörülü kontrol",
-    "aciklama": "sistemin gelecekteki davranışını dinamik bir modelle tahmin ederek belirlenen zaman ufku boyunca optimize edilmiş kontrol sinyalleri üreten yöntem.",
+    "aciklama": "belirlenen zaman ufku boyunca optimize edilmiş kontrol sinyalleri üreten yöntem.",
     "yasakli_kelimeler": [
       "ufuk",
       "optimizasyon",
@@ -731,7 +731,7 @@
     "id": 53,
     "kategori": "robotik",
     "kelime": "geri besleme döngüsü",
-    "aciklama": "robot çıkışındaki gerçek durumun sensörle ölçülüp giriş komutuyla kıyaslanarak sapmaların sürekli düzeltildiği kontrol yapısı.",
+    "aciklama": "sensörle ölçülüp giriş komutuyla kıyaslanarak sapmaların sürekli düzeltildiği kontrol yapısı.",
     "yasakli_kelimeler": [
       "sensör",
       "sapma",
@@ -745,7 +745,7 @@
     "id": 54,
     "kategori": "robotik",
     "kelime": "darbe genişlik modülasyonu",
-    "aciklama": "dijital sinyalin açık ve kapalı kalma sürelerinin oranını değiştirerek dc motorlara uygulanan ortalama gücü ve hızı ayarlama tekniği.",
+    "aciklama": "değiştirerek dc motorlara uygulanan ortalama gücü ve hızı ayarlama tekniği.",
     "yasakli_kelimeler": [
       "görev döngüsü",
       "ortalama",
@@ -759,7 +759,7 @@
     "id": 55,
     "kategori": "robotik",
     "kelime": "h köprüsü devresi",
-    "aciklama": "dört adet transistör anahtar yardımıyla doğru akım motorunun her iki yönde de dönmesini ve fren yapmasını sağlayan güç devresi.",
+    "aciklama": "iki yönde de dönmesini ve fren yapmasını sağlayan güç devresi.",
     "yasakli_kelimeler": [
       "çift yön",
       "motor sürücü",
@@ -773,7 +773,7 @@
     "id": 56,
     "kategori": "robotik",
     "kelime": "robot işletim sistemi",
-    "aciklama": "robot yazılımları geliştirmek için yayıncı abone mimarisi, sürücüler ve araçlar sunan açık kaynaklı ara katman yazılım kütüphanesi.",
+    "aciklama": "sürücüler ve araçlar sunan açık kaynaklı ara katman yazılım kütüphanesi.",
     "yasakli_kelimeler": [
       "düğüm",
       "mesaj",
@@ -787,7 +787,7 @@
     "id": 57,
     "kategori": "robotik",
     "kelime": "urdf formatı",
-    "aciklama": "robotik işletim sisteminde robotun eklemlerini, linklerini ve geometrik yapısını tanımlayan standart xml tabanlı dosya formatı.",
+    "aciklama": "linklerini ve geometrik yapısını tanımlayan standart xml tabanlı dosya formatı.",
     "yasakli_kelimeler": [
       "robot modeli",
       "eklem",
@@ -801,7 +801,7 @@
     "id": 58,
     "kategori": "robotik",
     "kelime": "gazebo simülatörü",
-    "aciklama": "fizik motorları kullanarak robotların yerçekimi, sürtünme ve sensör tepkilerini gerçeğe yakın simüle eden sanal ortam.",
+    "aciklama": "sürtünme ve sensör tepkilerini gerçeğe yakın simüle eden sanal ortam.",
     "yasakli_kelimeler": [
       "fizik motoru",
       "simülasyon",
@@ -815,7 +815,7 @@
     "id": 59,
     "kategori": "robotik",
     "kelime": "diferansiyel sürüş",
-    "aciklama": "birbirinden bağımsız kontrol edilen iki çekiş tekerleğinin hız farkıyla yön değiştiren yaygın mobil robot tahrik sistemi.",
+    "aciklama": "tekerleğinin hız farkıyla yön değiştiren yaygın mobil robot tahrik sistemi.",
     "yasakli_kelimeler": [
       "iki tekerlek",
       "hız farkı",
@@ -829,7 +829,7 @@
     "id": 60,
     "kategori": "robotik",
     "kelime": "ackermann geometrisi",
-    "aciklama": "otomobillerde ve tekerlekli robotlarda viraj alırken iç tekerleğin dış tekerlekten daha dar bir açıyla dönmesini sağlayan mekanik düzenek.",
+    "aciklama": "tekerleğin dış tekerlekten daha dar açıyla dönmesini sağlayan mekanik düzenek.",
     "yasakli_kelimeler": [
       "direksiyon",
       "viraj",
@@ -843,7 +843,7 @@
     "id": 61,
     "kategori": "robotik",
     "kelime": "mecanum tekerlek",
-    "aciklama": "çevresine kırk beş derece açıyla dizilmiş silindirik makaralar sayesinde aracın her yöne dönmeden yana kaymasını sağlayan tekerlek.",
+    "aciklama": "makaralar sayesinde aracın her yöne dönmeden yana kaymasını sağlayan tekerlek.",
     "yasakli_kelimeler": [
       "makara",
       "kırk beş derece",
@@ -857,7 +857,7 @@
     "id": 62,
     "kategori": "robotik",
     "kelime": "omni tekerlek",
-    "aciklama": "ana dönüş yönüne doksan derece dik küçük tekerlekçikler barındıran ve her yöne sıfır dirençle hareket sağlayan tekerlek.",
+    "aciklama": "tekerlekçikler barındıran ve her yöne sıfır dirençle hareket sağlayan tekerlek.",
     "yasakli_kelimeler": [
       "doksan derece",
       "silindir",
@@ -871,7 +871,7 @@
     "id": 63,
     "kategori": "robotik",
     "kelime": "paletli yürüyüş sistemi",
-    "aciklama": "tekerleklerin etrafını saran sürekli kauçuk veya çelik bant sayesinde ağırlığı geniş alana yayıp çamur ve karda ilerleyen yürüyüş takımı.",
+    "aciklama": "ağırlığı geniş alana yayıp çamur ve karda ilerleyen yürüyüş takımı.",
     "yasakli_kelimeler": [
       "tank",
       "bant",
@@ -885,7 +885,7 @@
     "id": 64,
     "kategori": "robotik",
     "kelime": "ters sarkaç",
-    "aciklama": "iki ayaklı insansı robotların dengede kalmasını ve yürümesini matematiksel olarak modellemek için kullanılan fiziksel denge sistemi.",
+    "aciklama": "kalmasını ve yürümesini matematiksel modellemek için kullanılan fiziksel denge sistemi.",
     "yasakli_kelimeler": [
       "denge",
       "ağırlık merkezi",
@@ -899,7 +899,7 @@
     "id": 65,
     "kategori": "robotik",
     "kelime": "sıfır moment noktası",
-    "aciklama": "insansı robotların yürürken devrilmemesi için yer tepki kuvvetlerinin net yatay tork üretmediği dinamik denge temas noktası.",
+    "aciklama": "tepki kuvvetlerinin net yatay tork üretmediği dinamik denge temas noktası.",
     "yasakli_kelimeler": [
       "denge",
       "tork",
@@ -913,7 +913,7 @@
     "id": 66,
     "kategori": "robotik",
     "kelime": "iki bacaklı yürüyüş",
-    "aciklama": "insan benzeri robotların dinamik olarak ayaklarını sırayla kaldırıp dengeli adım atarak ilerleme mekaniği.",
+    "aciklama": "dinamik olarak ayaklarını sırayla kaldırıp dengeli adım atarak ilerleme mekaniği.",
     "yasakli_kelimeler": [
       "adım",
       "bacak",
@@ -927,7 +927,7 @@
     "id": 67,
     "kategori": "robotik",
     "kelime": "dış iskelet",
-    "aciklama": "insan vücuduna giyilerek kas gücünü artıran veya felçli hastaların yürümesini sağlayan motorlu robotik giysi.",
+    "aciklama": "gücünü artıran veya felçli hastaların yürümesini sağlayan motorlu robotik giysi.",
     "yasakli_kelimeler": [
       "giyilebilir",
       "kas",
@@ -941,7 +941,7 @@
     "id": 68,
     "kategori": "robotik",
     "kelime": "yumuşak robotik",
-    "aciklama": "sert metaller yerine silikon, elastomer gibi esnek malzemeler ve hava basıncıyla çalışan biyomimetik robot türü.",
+    "aciklama": "gibi esnek malzemeler ve hava basıncıyla çalışan biyomimetik robot türü.",
     "yasakli_kelimeler": [
       "esnek",
       "silikon",
@@ -955,7 +955,7 @@
     "id": 69,
     "kategori": "robotik",
     "kelime": "sürü robotiği",
-    "aciklama": "karınca veya arı kolonileri gibi çok sayıda basit otonom robotun merkezi bir beyin olmadan kolektif iş başarması.",
+    "aciklama": "sayıda basit otonom robotun merkezi beyin olmadan kolektif iş başarması.",
     "yasakli_kelimeler": [
       "koloni",
       "kolektif",
@@ -969,7 +969,7 @@
     "id": 70,
     "kategori": "robotik",
     "kelime": "haptik geri bildirim",
-    "aciklama": "kullanıcının sanal bir nesneye veya uzaktaki robota dokunduğunda kuvvet ve titreşim hissini elinde hissetmesini sağlayan teknoloji.",
+    "aciklama": "robota dokunduğunda kuvvet ve titreşim hissini elinde hissetmesini sağlayan teknoloji.",
     "yasakli_kelimeler": [
       "dokunma",
       "titreşim",
@@ -983,7 +983,7 @@
     "id": 71,
     "kategori": "robotik",
     "kelime": "teleoperasyon",
-    "aciklama": "bir robotun operatör tarafından kameralar ve kumanda kolları vasıtasıyla çok uzak bir mesafeden canlı yönetilmesi.",
+    "aciklama": "kameralar ve kumanda kolları ile çok uzak mesafeden canlı yönetilmesi.",
     "yasakli_kelimeler": [
       "uzaktan",
       "operatör",
@@ -997,7 +997,7 @@
     "id": 72,
     "kategori": "robotik",
     "kelime": "işbirlikçi robot",
-    "aciklama": "güvenlik kafesine ihtiyaç duymadan dahili kuvvet sensörleriyle insan çalışanlarla yan yana güvenle çalışabilen robot.",
+    "aciklama": "dahili kuvvet sensörleriyle insan çalışanlarla yan yana güvenle çalışabilen robot.",
     "yasakli_kelimeler": [
       "insan",
       "güvenlik",
@@ -1011,7 +1011,7 @@
     "id": 73,
     "kategori": "robotik",
     "kelime": "öğretme kumandası",
-    "aciklama": "operatörün robot kolunu adım adım hareket ettirerek koordinat noktalarını belleğe kaydettiği el kumandası.",
+    "aciklama": "adım adım hareket ettirerek koordinat noktalarını belleğe kaydettiği el kumandası.",
     "yasakli_kelimeler": [
       "el cihazı",
       "programlama",
@@ -1025,7 +1025,7 @@
     "id": 74,
     "kategori": "robotik",
     "kelime": "robotik tutucu",
-    "aciklama": "robot kolunun ucuna monte edilen, parçaları iki veya üç çene yardımıyla sıkıştırıp kavrayan mekanik el.",
+    "aciklama": "parçaları iki veya üç çene ile sıkıştırıp kavrayan mekanik el.",
     "yasakli_kelimeler": [
       "çene",
       "kavrama",
@@ -1039,7 +1039,7 @@
     "id": 75,
     "kategori": "robotik",
     "kelime": "vakumlu vantuz",
-    "aciklama": "negatif hava basıncı oluşturarak sac levha, cam veya kutu gibi düz yüzeyli malzemeleri emerek kaldıran tutucu tipi.",
+    "aciklama": "veya kutu gibi düz yüzeyli malzemeleri emerek kaldıran tutucu tipi.",
     "yasakli_kelimeler": [
       "vakum",
       "emiş",
@@ -1053,7 +1053,7 @@
     "id": 76,
     "kategori": "robotik",
     "kelime": "hidrolik eyleyici",
-    "aciklama": "yüksek basınçlı yağ sıvısının gücünü kullanarak devasa yükleri kaldırabilen yüksek kuvvetli piston veya motor.",
+    "aciklama": "gücünü kullanarak devasa yükleri kaldırabilen yüksek kuvvetli piston veya motor.",
     "yasakli_kelimeler": [
       "yağ",
       "basınç",
@@ -1067,7 +1067,7 @@
     "id": 77,
     "kategori": "robotik",
     "kelime": "pnömatik silindir",
-    "aciklama": "basınçlı havanın itme gücünü kullanarak ileri ve geri doğrusal hareket üreten hızlı ve temiz eyleyici eleman.",
+    "aciklama": "ve geri doğrusal hareket üreten hızlı ve temiz eyleyici eleman.",
     "yasakli_kelimeler": [
       "basınçlı hava",
       "hava",
@@ -1081,7 +1081,7 @@
     "id": 78,
     "kategori": "robotik",
     "kelime": "oransal valf",
-    "aciklama": "akışkanın debisini ve basıncını uygulanan elektrik sinyalinin büyüklüğüne göre kademesiz olarak ayarlayan vana.",
+    "aciklama": "basıncını uygulanan elektrik sinyalinin büyüklüğüne göre kademesiz olarak ayarlayan vana.",
     "yasakli_kelimeler": [
       "debi",
       "vana",
@@ -1095,7 +1095,7 @@
     "id": 79,
     "kategori": "robotik",
     "kelime": "yük hücresi",
-    "aciklama": "üzerine binen mekanik kuvvet veya ağırlık nedeniyle gerinim pulunun direnç değişimini ölçen hassas ağırlık sensörü.",
+    "aciklama": "ağırlık nedeniyle gerinim pulunun direnç değişimini ölçen hassas ağırlık sensörü.",
     "yasakli_kelimeler": [
       "ağırlık",
       "kuvvet",
@@ -1109,7 +1109,7 @@
     "id": 80,
     "kategori": "robotik",
     "kelime": "dişli boşluk payı",
-    "aciklama": "eşleşen iki dişlinin yüzeyleri arasındaki mekanik aralık nedeniyle motor yön değiştirdiğinde meydana gelen ölü açısal kayıp.",
+    "aciklama": "mekanik aralık nedeniyle motor yön değiştirdiğinde oluşan ölü açısal kayıp.",
     "yasakli_kelimeler": [
       "aralık",
       "ölü nokta",
@@ -1123,7 +1123,7 @@
     "id": 81,
     "kategori": "robotik",
     "kelime": "tekrarlanabilirlik",
-    "aciklama": "bir endüstriyel robotun aynı komut verildiğinde daha önce gittiği aynı noktaya ne kadar küçük bir sapmayla dönebildiğini ifade eden ölçüt.",
+    "aciklama": "aynı noktaya ne kadar küçük sapmayla dönebildiğini ifade eden ölçüt.",
     "yasakli_kelimeler": [
       "sapma",
       "aynı nokta",
@@ -1137,7 +1137,7 @@
     "id": 82,
     "kategori": "robotik",
     "kelime": "faydalı yük kapasitesi",
-    "aciklama": "bir robotun hassasiyetini ve çalışma hızını kaybetmeden uç elemanıyla güvenle taşıyabileceği azami ağırlık.",
+    "aciklama": "ve çalışma hızını kaybetmeden uç elemanıyla güvenle taşıyabileceği azami ağırlık.",
     "yasakli_kelimeler": [
       "ağırlık",
       "taşıma",
@@ -1151,7 +1151,7 @@
     "id": 83,
     "kategori": "robotik",
     "kelime": "denavit-hartenberg parametreleri",
-    "aciklama": "birbirine bağlı robot uzuvları ve eklemleri arasındaki koordinat eksenlerini dört geometrik değerle standartlaştıran matematik modeli.",
+    "aciklama": "eklemleri arasındaki koordinat eksenlerini dört geometrik değerle standartlaştıran matematik modeli.",
     "yasakli_kelimeler": [
       "eksen",
       "uzuv",
@@ -1165,7 +1165,7 @@
     "id": 84,
     "kategori": "robotik",
     "kelime": "kuaterniyon",
-    "aciklama": "üç boyutlu uzayda yönelimleri gimbal kilidi problemine yakalanmadan dört boyutlu hiperkarmaşık sayılarla temsil etme yöntemi.",
+    "aciklama": "kilidi problemine yakalanmadan dört boyutlu hiperkarmaşık sayılarla temsil etme yöntemi.",
     "yasakli_kelimeler": [
       "dönme",
       "yönelim",
@@ -1179,7 +1179,7 @@
     "id": 85,
     "kategori": "robotik",
     "kelime": "konfigürasyon uzayı",
-    "aciklama": "robotun tüm olası eklem açılarının oluşturduğu ve robotun geometrisinin tek bir matematiksel noktaya indirgendiği teorik uzay.",
+    "aciklama": "oluşturduğu ve robotun geometrisinin tek matematiksel noktaya indirgendiği teorik uzay.",
     "yasakli_kelimeler": [
       "eklem açısı",
       "nokta",
@@ -1193,7 +1193,7 @@
     "id": 86,
     "kategori": "robotik",
     "kelime": "engel aşma",
-    "aciklama": "mobil robotun hareket halindeyken rotası üzerindeki beklenmedik engelleri algılayıp emniyetli mesafeden çevrelerinden geçmesi eylemi.",
+    "aciklama": "rotası üzerindeki beklenmedik engelleri algılayıp emniyetli mesafeden çevrelerinden geçmesi eylemi.",
     "yasakli_kelimeler": [
       "çarpışma",
       "emniyet",
@@ -1207,7 +1207,7 @@
     "id": 87,
     "kategori": "robotik",
     "kelime": "çizgi izleyen robot",
-    "aciklama": "zemindeki koyu veya açık renkli şeridi kızılötesi kontrast sensörleriyle takip ederek otonom yönlenen basit tekerlekli robot.",
+    "aciklama": "kızılötesi kontrast sensörleriyle takip ederek otonom yönlenen basit tekerlekli robot.",
     "yasakli_kelimeler": [
       "şerit",
       "kontrast",
@@ -1221,7 +1221,7 @@
     "id": 88,
     "kategori": "robotik",
     "kelime": "simülasyondan gerçeğe aktarım",
-    "aciklama": "yapay zeka veya takviyeli öğrenmeyle sanal simülatörde eğitilen bir kontrol algoritmasının fiziksel robota başarıyla uyarlanması.",
+    "aciklama": "öğrenmeyle sanal simülatörde eğitilen kontrol algoritmasının fiziksel robota başarıyla uyarlanması.",
     "yasakli_kelimeler": [
       "öğrenme",
       "fiziksel",
@@ -1235,7 +1235,7 @@
     "id": 89,
     "kategori": "robotik",
     "kelime": "paralel manipülatör",
-    "aciklama": "uç elemanın tabana birden çok bağımsız kinematik zincirle kapalı devre bağlandığı sert ve hızlı robot mimarisi.",
+    "aciklama": "kinematik zincirle kapalı devre bağlandığı sert ve hızlı robot mimarisi.",
     "yasakli_kelimeler": [
       "kapalı zincir",
       "sertlik",
@@ -1249,7 +1249,7 @@
     "id": 90,
     "kategori": "robotik",
     "kelime": "seri manipülatör",
-    "aciklama": "tabandan uç elemana kadar eklemlerin ve uzuvların art arda tek bir açık zincir şeklinde bağlandığı geleneksel robot kolu.",
+    "aciklama": "art arda tek açık zincir şeklinde bağlandığı geleneksel robot kolu.",
     "yasakli_kelimeler": [
       "açık zincir",
       "art arda",
@@ -1263,7 +1263,7 @@
     "id": 91,
     "kategori": "robotik",
     "kelime": "doğrusal kızak",
-    "aciklama": "bilyeli araba ve ray üzerinde minimum sürtünmeyle sadece tek bir eksende düz hat boyunca kayma hareketi sağlayan mekanik parça.",
+    "aciklama": "tek eksende düz hat boyunca kayma hareketi sağlayan mekanik parça.",
     "yasakli_kelimeler": [
       "ray",
       "bilye",
@@ -1277,7 +1277,7 @@
     "id": 92,
     "kategori": "robotik",
     "kelime": "vidalı mil",
-    "aciklama": "dönme hareketini son derece düşük sürtünme ve yüksek hassasiyetle doğrusal itme hareketine dönüştüren helisel bilyeli mil.",
+    "aciklama": "ve yüksek hassasiyetle doğrusal itme hareketine dönüştüren helisel bilyeli mil.",
     "yasakli_kelimeler": [
       "bilyeli",
       "doğrusal",
@@ -1291,7 +1291,7 @@
     "id": 93,
     "kategori": "robotik",
     "kelime": "kayış kasnak",
-    "aciklama": "dönme hareketini ve torku miller arasında esnek bir bant yardımıyla kayma olmadan ileten mekanik aktarma organı.",
+    "aciklama": "arasında esnek bant ile kayma olmadan ileten mekanik aktarma organı.",
     "yasakli_kelimeler": [
       "kayış",
       "kasnak",
@@ -1305,7 +1305,7 @@
     "id": 94,
     "kategori": "robotik",
     "kelime": "rotasyonel eklem",
-    "aciklama": "iki robot uzvu arasında tek bir eksen etrafında dairesel dönme serbestliği tanıyan mafsal bağlantısı.",
+    "aciklama": "arasında tek eksen etrafında dairesel dönme serbestliği tanıyan mafsal bağlantısı.",
     "yasakli_kelimeler": [
       "dönme",
       "mafsal",
@@ -1319,7 +1319,7 @@
     "id": 95,
     "kategori": "robotik",
     "kelime": "prizmatik eklem",
-    "aciklama": "bağlı iki robot parçasının birbirine göre sadece doğrusal eksende kayarak uzayıp kısalmasını sağlayan teleskopik eklem.",
+    "aciklama": "göre sadece doğrusal eksende kayarak uzayıp kısalmasını sağlayan teleskopik eklem.",
     "yasakli_kelimeler": [
       "doğrusal",
       "kayma",
@@ -1333,7 +1333,7 @@
     "id": 96,
     "kategori": "robotik",
     "kelime": "güvenli çalışma alanı",
-    "aciklama": "endüstriyel işbirlikçi robotların insan operatör yaklaştığında yavaşladığı veya durduğu sensörle korunan bölge.",
+    "aciklama": "robotların insan operatör yaklaştığında yavaşladığı veya durduğu sensörle korunan bölge.",
     "yasakli_kelimeler": [
       "emniyet",
       "ortak çalışma",
@@ -1347,7 +1347,7 @@
     "id": 97,
     "kategori": "robotik",
     "kelime": "kavrama kuvveti",
-    "aciklama": "tutucu parmaklarının nesneyi düşürmeden veya ezmeden güvenle tutabilmesi için uyguladığı sıkıştırma şiddeti.",
+    "aciklama": "nesneyi düşürmeden veya ezmeden güvenle tutabilmesi için uyguladığı sıkıştırma şiddeti.",
     "yasakli_kelimeler": [
       "sıkıştırma",
       "parmak",
@@ -1361,7 +1361,7 @@
     "id": 98,
     "kategori": "robotik",
     "kelime": "görüntü yönlendirmeli robot",
-    "aciklama": "üzerindeki kameralardan aldığı görsel verileri anlık işleyerek parçaları algılayan ve yönünü belirleyen robotik sistem.",
+    "aciklama": "verileri anlık işleyerek parçaları algılayan ve yönünü belirleyen robotik sistem.",
     "yasakli_kelimeler": [
       "kamera",
       "görme",
@@ -1375,7 +1375,7 @@
     "id": 99,
     "kategori": "robotik",
     "kelime": "biyomimetik",
-    "aciklama": "doğadaki canlıların anatomik yapılarını, kas sistemlerini ve hareket stratejilerini taklit ederek yeni robotlar tasarlama disiplini.",
+    "aciklama": "sistemlerini ve hareket stratejilerini taklit ederek yeni robotlar tasarlama disiplini.",
     "yasakli_kelimeler": [
       "doğa",
       "canlı",
@@ -1389,7 +1389,7 @@
     "id": 100,
     "kategori": "robotik",
     "kelime": "otonom navigasyon",
-    "aciklama": "bir aracın insan müdahalesi olmadan çevresini algılayarak harita üzerinde hedefine güvenli bir şekilde gitme kabiliyeti.",
+    "aciklama": "olmadan çevresini algılayarak harita üzerinde hedefine güvenli şekilde gitme kabiliyeti.",
     "yasakli_kelimeler": [
       "hedef",
       "rotalama",
@@ -1403,7 +1403,7 @@
     "id": 101,
     "kategori": "robotik",
     "kelime": "endüstriyel robot",
-    "aciklama": "fabrikalarda kaynak, boya, montaj ve paketleme gibi ağır ve tekrarlı işleri hatasız yapan programlanabilir manipülatör.",
+    "aciklama": "paketleme gibi ağır ve tekrarlı işleri hatasız yapan programlanabilir manipülatör.",
     "yasakli_kelimeler": [
       "fabrika robotu",
       "otomasyon kolu",
@@ -1417,7 +1417,7 @@
     "id": 102,
     "kategori": "robotik",
     "kelime": "mobil robot",
-    "aciklama": "sabit bir tabana bağlı olmayıp tekerlekleri, paletleri veya bacaklarıyla kendi başına hareket edebilen robot.",
+    "aciklama": "paletleri veya bacaklarıyla kendi başına hareket edebilen robot.",
     "yasakli_kelimeler": [
       "hareketli robot",
       "tekerlekli robot",
@@ -1431,7 +1431,7 @@
     "id": 103,
     "kategori": "robotik",
     "kelime": "servis robotu",
-    "aciklama": "hastanelerde ilaç taşıma, otellerde oda servisi veya restoranlarda yemek sunumu gibi insanlara hizmet eden robot.",
+    "aciklama": "servisi veya restoranlarda yemek sunumu gibi insanlara hizmet eden robot.",
     "yasakli_kelimeler": [
       "hizmet robotu",
       "garson robot",
@@ -1445,7 +1445,7 @@
     "id": 104,
     "kategori": "robotik",
     "kelime": "tarım robotu",
-    "aciklama": "tarlalarda meyve toplama, yabani ot ayıklama ve ilaçlama işlemlerini kameralarıyla otonom yapan tarım makinesi.",
+    "aciklama": "ot ayıklama ve ilaçlama işlemlerini kameralarıyla otonom yapan tarım makinesi.",
     "yasakli_kelimeler": [
       "ot biçme robotu",
       "meyve toplama",
@@ -1459,7 +1459,7 @@
     "id": 105,
     "kategori": "robotik",
     "kelime": "cerrahi robot",
-    "aciklama": "ameliyathanede cerrahın konsoldan yönettiği minik robotik kollarıyla milimetrik kesilerle ameliyat yapan sistem.",
+    "aciklama": "konsoldan yönettiği minik robotik kollarıyla milimetrik kesilerle ameliyat yapan sistem.",
     "yasakli_kelimeler": [
       "da vinci",
       "ameliyat robotu",
@@ -1473,7 +1473,7 @@
     "id": 106,
     "kategori": "robotik",
     "kelime": "temizlik robotu",
-    "aciklama": "evlerde yerdeki tozu, kırıntıyı süpürüp lidar sensörüyle harita çıkaran yuvarlak akıllı robot süpürge.",
+    "aciklama": "kırıntıyı süpürüp lidar sensörüyle harita çıkaran yuvarlak akıllı robot süpürge.",
     "yasakli_kelimeler": [
       "robot süpürge",
       "oda haritalama",
@@ -1487,7 +1487,7 @@
     "id": 107,
     "kategori": "robotik",
     "kelime": "sualtı robotu",
-    "aciklama": "derin denizlerde petrol boru hatlarını denetleyen ve batıkları araştıran uzaktan kumandalı sualtı aracı.",
+    "aciklama": "boru hatlarını denetleyen ve batıkları araştıran uzaktan kumandalı sualtı aracı.",
     "yasakli_kelimeler": [
       "rov",
       "derin deniz aracı",
@@ -1501,7 +1501,7 @@
     "id": 108,
     "kategori": "robotik",
     "kelime": "uzay robotu",
-    "aciklama": "mars veya ay yüzeyinde kayaç örnekleri toplayıp analiz eden merak ve azim benzeri gezgin kaşif robot.",
+    "aciklama": "toplayıp analiz eden merak ve azim benzeri gezgin kaşif robot.",
     "yasakli_kelimeler": [
       "rover",
       "mars kaşifi",
@@ -1515,7 +1515,7 @@
     "id": 109,
     "kategori": "robotik",
     "kelime": "mikrorobot",
-    "aciklama": "milimetre boyutlarında olan, damar içinde ilaç taşıma veya dar kanalları denetleme potansiyeline sahip minik robot.",
+    "aciklama": "ilaç taşıma veya dar kanalları denetleme potansiyeline sahip minik robot.",
     "yasakli_kelimeler": [
       "milimetrik robot",
       "küçük robot",
@@ -1529,7 +1529,7 @@
     "id": 110,
     "kategori": "robotik",
     "kelime": "nanorobot",
-    "aciklama": "hücre boyutunda mikroskobik ölçekte tasarlanıp doğrudan kanserli hücreleri yok etmek için geliştirilen robot.",
+    "aciklama": "ölçekte tasarlanıp doğrudan kanserli hücreleri yok etmek için geliştirilen robot.",
     "yasakli_kelimeler": [
       "nanoteknoloji robotu",
       "hücre boyutu",
@@ -1543,7 +1543,7 @@
     "id": 111,
     "kategori": "robotik",
     "kelime": "yılan robot",
-    "aciklama": "enkaz altı arama kurtarma veya dar boru hatlarında yılankavi dalgalanma hareketiyle ilerleyen çok eklemli robot.",
+    "aciklama": "dar boru hatlarında yılankavi dalgalanma hareketiyle ilerleyen çok eklemli robot.",
     "yasakli_kelimeler": [
       "yılan gibi kıvrılan",
       "enkaz altı arama",
@@ -1557,7 +1557,7 @@
     "id": 112,
     "kategori": "robotik",
     "kelime": "altı bacaklı",
-    "aciklama": "böceklerin yürüme prensibini taklit eden, engebeli kayalık arazilerde üç bacak dengesiyle yürüyen heksapod robot.",
+    "aciklama": "engebeli kayalık arazilerde üç bacak dengesiyle yürüyen heksapod robot.",
     "yasakli_kelimeler": [
       "heksapod",
       "böcek robot",
@@ -1571,7 +1571,7 @@
     "id": 113,
     "kategori": "robotik",
     "kelime": "tekerlekli robot",
-    "aciklama": "düz zeminlerde en yüksek enerji verimliliği ve hızla hareket eden diferansiyel veya omni sürüşlü robot.",
+    "aciklama": "verimliliği ve hızla hareket eden diferansiyel veya omni sürüşlü robot.",
     "yasakli_kelimeler": [
       "tekerlek tahriki",
       "düz zemin robotu",
@@ -1585,7 +1585,7 @@
     "id": 114,
     "kategori": "robotik",
     "kelime": "bacaklı robot",
-    "aciklama": "merdiven çıkabilen, kaygan kayalarda adım atabilen insan veya hayvan benzeri eklemli robot.",
+    "aciklama": "kaygan kayalarda adım atabilen insan veya hayvan benzeri eklemli robot.",
     "yasakli_kelimeler": [
       "ayaklı robot",
       "merdiven tırmanan",
@@ -1599,7 +1599,7 @@
     "id": 115,
     "kategori": "robotik",
     "kelime": "insansız araç",
-    "aciklama": "içinde bir insan pilot veya sürücü bulunmaksızın otonom veya uzaktan kontrolle görev yapan tüm robotik platformlar.",
+    "aciklama": "bulunmaksızın otonom veya uzaktan kontrolle görev yapan tüm robotik platformlar.",
     "yasakli_kelimeler": [
       "otonom araç",
       "sürücüsüz taşıt",
@@ -1613,7 +1613,7 @@
     "id": 116,
     "kategori": "robotik",
     "kelime": "insansız denizaltı",
-    "aciklama": "su altında bataryasıyla günlerce kalarak haritalama ve istihbarat yapan otonom sualtı deniz aracı.",
+    "aciklama": "günlerce kalarak haritalama ve istihbarat yapan otonom sualtı deniz aracı.",
     "yasakli_kelimeler": [
       "auv",
       "otonom denizaltı",
@@ -1627,7 +1627,7 @@
     "id": 117,
     "kategori": "robotik",
     "kelime": "bomba imha",
-    "aciklama": "şüpheli paketleri ve patlayıcı düzenekleri güvenli mesafeden tazyikli su veya kollarla etkisiz kılan paletli robot.",
+    "aciklama": "güvenli mesafeden tazyikli su veya kollarla etkisiz kılan paletli robot.",
     "yasakli_kelimeler": [
       "şüpheli paket robotu",
       "patlayıcı imhası",
@@ -1641,7 +1641,7 @@
     "id": 118,
     "kategori": "robotik",
     "kelime": "insansız kara",
-    "aciklama": "askeri operasyonlarda keşif, gözetleme veya yaralı taşıma görevlerini üstlenen zırhlı tekerlekli veya paletli robot.",
+    "aciklama": "veya yaralı taşıma görevlerini üstlenen zırhlı tekerlekli veya paletli robot.",
     "yasakli_kelimeler": [
       "ika",
       "askeri kara robotu",
@@ -1655,7 +1655,7 @@
     "id": 119,
     "kategori": "robotik",
     "kelime": "otonom drone",
-    "aciklama": "kendi uçuş rotasını gps ve kameralarıyla belirleyip engel görünce kaçınan çok pervaneli uçan robot.",
+    "aciklama": "ve kameralarıyla belirleyip engel görünce kaçınan çok pervaneli uçan robot.",
     "yasakli_kelimeler": [
       "kuadrokopter",
       "kendi uçan drone",
@@ -1669,7 +1669,7 @@
     "id": 120,
     "kategori": "robotik",
     "kelime": "insansı gövde",
-    "aciklama": "insanın göğüs, omuz ve bel eklemlerini taklit eden iki kollu ve kameralı başlığa sahip üst robot iskeleti.",
+    "aciklama": "eden iki kollu ve kameralı başlığa sahip üst robot iskeleti.",
     "yasakli_kelimeler": [
       "torso",
       "robot gövdesi",
@@ -1683,7 +1683,7 @@
     "id": 121,
     "kategori": "robotik",
     "kelime": "robot kolu",
-    "aciklama": "insan kolundaki omuz, dirsek ve bilek eklemlerine sahip endüstriyel manipülatör mekanizması.",
+    "aciklama": "dirsek ve bilek eklemlerine sahip endüstriyel manipülatör mekanizması.",
     "yasakli_kelimeler": [
       "mekanik kol",
       "endüstriyel kol",
@@ -1697,7 +1697,7 @@
     "id": 122,
     "kategori": "robotik",
     "kelime": "robot bileği",
-    "aciklama": "robot kolunun ucunda aletin yönelimini sağlamak için yaw, pitch ve roll hareketlerini yapan üç eksenli eklem.",
+    "aciklama": "pitch ve roll hareketlerini yapan üç eksenli eklem.",
     "yasakli_kelimeler": [
       "üç eksenli bilek",
       "yönelim eklemi",
@@ -1711,7 +1711,7 @@
     "id": 123,
     "kategori": "robotik",
     "kelime": "robot eli",
-    "aciklama": "karmaşık nesneleri insan gibi hassasiyetle kavramak için birden fazla parmağa ve dokunma sensörüne sahip son uç.",
+    "aciklama": "için birden fazla parmağa ve dokunma sensörüne sahip son uç.",
     "yasakli_kelimeler": [
       "beş parmaklı el",
       "biyomimetik el",
@@ -1725,7 +1725,7 @@
     "id": 124,
     "kategori": "robotik",
     "kelime": "mekanik parmak",
-    "aciklama": "tendon telleri veya mikro motorlarla bükülerek nesneyi saran mafsallı kavrama elemanı.",
+    "aciklama": "telleri veya mikro motorlarla bükülerek nesneyi saran mafsallı kavrama elemanı.",
     "yasakli_kelimeler": [
       "eklemli parmak",
       "kavrama mafsalı",
@@ -1739,7 +1739,7 @@
     "id": 125,
     "kategori": "robotik",
     "kelime": "tutucu çene",
-    "aciklama": "pnömatik veya elektrikli motorla paralel ya da açılı açılıp kapanarak parçayı yakalayan iki tırnaklı uç.",
+    "aciklama": "ya da açılı açılıp kapanarak parçayı yakalayan iki tırnaklı uç.",
     "yasakli_kelimeler": [
       "gripper çenesi",
       "paralel çene",
@@ -1753,7 +1753,7 @@
     "id": 126,
     "kategori": "robotik",
     "kelime": "mafsal",
-    "aciklama": "iki robotik uzvu birbirine bağlayarak aralarında dönme veya kayma hareketi sağlayan mekanik eklem.",
+    "aciklama": "birbirine bağlayarak aralarında dönme veya kayma hareketi sağlayan mekanik eklem.",
     "yasakli_kelimeler": [
       "eklem",
       "bağlantı noktası",
@@ -1767,7 +1767,7 @@
     "id": 127,
     "kategori": "robotik",
     "kelime": "döner mafsal",
-    "aciklama": "bir eksen etrafında açısal dönme hareketi yaparak robot kolunun dirsek ve omuz gibi kıvrılmasını sağlayan mafsal.",
+    "aciklama": "yaparak robot kolunun dirsek ve omuz gibi kıvrılmasını sağlayan mafsal.",
     "yasakli_kelimeler": [
       "revolute joint",
       "açısal eklem",
@@ -1781,7 +1781,7 @@
     "id": 128,
     "kategori": "robotik",
     "kelime": "kayar mafsal",
-    "aciklama": "iki uzvun bir doğru boyunca ileri geri doğrusal öteleme hareketi yapmasını sağlayan teleskopik mafsal.",
+    "aciklama": "boyunca ileri geri doğrusal öteleme hareketi yapmasını sağlayan teleskopik mafsal.",
     "yasakli_kelimeler": [
       "prizmatik eklem",
       "doğrusal hareket",
@@ -1795,7 +1795,7 @@
     "id": 129,
     "kategori": "robotik",
     "kelime": "küresel mafsal",
-    "aciklama": "üç serbestlik derecesine sahip, bir yuva içinde her yöne serbestçe dönebilen topbaş eklem.",
+    "aciklama": "yuva içinde her yöne serbestçe dönebilen topbaş eklem.",
     "yasakli_kelimeler": [
       "topbaş eklem",
       "üç serbestlik",
@@ -1809,7 +1809,7 @@
     "id": 130,
     "kategori": "robotik",
     "kelime": "redüktör",
-    "aciklama": "elektrik motorunun yüksek devrini düşürerek robot kolunu kaldırmak için gereken torku yüzlerce kat artıran dişli kutusu.",
+    "aciklama": "kolunu kaldırmak için gereken torku yüzlerce kat artıran dişli kutusu.",
     "yasakli_kelimeler": [
       "hız düşürücü",
       "tork artırıcı",
@@ -1823,7 +1823,7 @@
     "id": 131,
     "kategori": "robotik",
     "kelime": "dişli kutusu",
-    "aciklama": "farklı çaplardaki dişli çarkların bir arada bulunduğu ve hareketin yönünü ile hızını ayarlayan mekanik mahfaza.",
+    "aciklama": "arada bulunduğu ve hareketin yönünü ile hızını ayarlayan mekanik mahfaza.",
     "yasakli_kelimeler": [
       "şanzıman",
       "dişli takımı",
@@ -1837,7 +1837,7 @@
     "id": 132,
     "kategori": "robotik",
     "kelime": "sonsuz vida",
-    "aciklama": "bir vida mili ile helisel dişlinin dik kesiştiği, kendi kendine kilitlenebilen ve yüksek tork üreten mekanizma.",
+    "aciklama": "kendi kendine kilitlenebilen ve yüksek tork üreten mekanizma.",
     "yasakli_kelimeler": [
       "solucan dişli",
       "vida ve çark",
@@ -1851,7 +1851,7 @@
     "id": 133,
     "kategori": "robotik",
     "kelime": "pinyon dişli",
-    "aciklama": "bir kremayer çubuğu üzerinde yürüyerek motorun dönme hareketini çizgi boyunca doğrusal harekete çeviren küçük dişli.",
+    "aciklama": "motorun dönme hareketini çizgi boyunca doğrusal harekete çeviren küçük dişli.",
     "yasakli_kelimeler": [
       "kremayer pinyon",
       "küçük tahrik dişlisi",
@@ -1865,7 +1865,7 @@
     "id": 134,
     "kategori": "robotik",
     "kelime": "kremayer dişli",
-    "aciklama": "üzerinde düz dişler bulunan ve pinyon dişlinin dönerek üzerinde boylamasına ilerlediği uzun çelik ray.",
+    "aciklama": "ve pinyon dişlinin dönerek üzerinde boylamasına ilerlediği uzun çelik ray.",
     "yasakli_kelimeler": [
       "dişli ray",
       "düz dişli çubuk",
@@ -1879,7 +1879,7 @@
     "id": 135,
     "kategori": "robotik",
     "kelime": "triger kayış",
-    "aciklama": "iç yüzeyindeki dişler sayesinde kasnakta hiç kayma yapmadan motor torkunu hassas pozisyonla aktaran kayış.",
+    "aciklama": "kasnakta hiç kayma yapmadan motor torkunu hassas pozisyonla aktaran kayış.",
     "yasakli_kelimeler": [
       "zamanlama kayışı",
       "dişli kayış",
@@ -1893,7 +1893,7 @@
     "id": 136,
     "kategori": "robotik",
     "kelime": "doğrusal motor",
-    "aciklama": "dönme hareketi olmaksızın elektromanyetik kuvvetle doğrudan hat boyunca itme veya çekme kuvveti üreten motor.",
+    "aciklama": "kuvvetle doğrudan hat boyunca itme veya çekme kuvveti üreten motor.",
     "yasakli_kelimeler": [
       "lineer motor",
       "doğrusal itki",
@@ -1907,7 +1907,7 @@
     "id": 137,
     "kategori": "robotik",
     "kelime": "fırçalı motor",
-    "aciklama": "rotoruna elektrik akımını kömür fırçalar ve komütatör aracılığıyla ileten klasik ve ucuz doğru akım motoru.",
+    "aciklama": "ve komütatör ile ileten klasik ve ucuz doğru akım motoru.",
     "yasakli_kelimeler": [
       "kömürlü motor",
       "komütatörlü",
@@ -1921,7 +1921,7 @@
     "id": 138,
     "kategori": "robotik",
     "kelime": "dc motor",
-    "aciklama": "doğru akım elektrik enerjisini dönme hareketine çeviren ve robot tekerleklerini süren temel elektrik motoru.",
+    "aciklama": "dönme hareketine çeviren ve robot tekerleklerini süren temel elektrik motoru.",
     "yasakli_kelimeler": [
       "doğru akım motoru",
       "batarya ile çalışan",
@@ -1935,7 +1935,7 @@
     "id": 139,
     "kategori": "robotik",
     "kelime": "enkoder diski",
-    "aciklama": "motor miline bağlı dönen, üzerinde optik çizgiler veya mıknatıslar olan ve pozisyonu saydıran disk.",
+    "aciklama": "üzerinde optik çizgiler veya mıknatıslar olan ve pozisyonu saydıran disk.",
     "yasakli_kelimeler": [
       "çizgili disk",
       "yarık disk",
@@ -1949,7 +1949,7 @@
     "id": 140,
     "kategori": "robotik",
     "kelime": "optik enkoder",
-    "aciklama": "diskteki yarıkları kızılötesi ışıkla sayarak motor milinin kaç derece döndüğünü dijital palslerle bildiren aygıt.",
+    "aciklama": "sayarak motor milinin kaç derece döndüğünü dijital palslerle bildiren aygıt.",
     "yasakli_kelimeler": [
       "ışıklı enkoder",
       "pals sayıcı",
@@ -1963,7 +1963,7 @@
     "id": 141,
     "kategori": "robotik",
     "kelime": "yakınlık sensörü",
-    "aciklama": "bir cismin robota temas etmeden belirli bir mesafeye girdiğini manyetik veya kapasitif olarak sezen sensör.",
+    "aciklama": "etmeden belirli mesafeye girdiğini manyetik veya kapasitif olarak sezen sensör.",
     "yasakli_kelimeler": [
       "proksimiti",
       "temassız algılama",
@@ -1977,7 +1977,7 @@
     "id": 142,
     "kategori": "robotik",
     "kelime": "kızılötesi sensör",
-    "aciklama": "görünmeyen kızılötesi ışık yayıp cisimden geri yansıyan ışığı ölçerek mesafe ve engel tespiti yapan alıcı.",
+    "aciklama": "geri yansıyan ışığı ölçerek mesafe ve engel tespiti yapan alıcı.",
     "yasakli_kelimeler": [
       "ır sensörü",
       "kızılötesi ışın",
@@ -1991,7 +1991,7 @@
     "id": 143,
     "kategori": "robotik",
     "kelime": "sonar sensör",
-    "aciklama": "yarasalar gibi yüksek frekanslı ses dalgası gönderip yankısının dönüş süresinden engelin uzaklığını bulan alet.",
+    "aciklama": "ses dalgası gönderip yankısının dönüş süresinden engelin uzaklığını bulan alet.",
     "yasakli_kelimeler": [
       "ses dalgası",
       "yankı süresi",
@@ -2005,7 +2005,7 @@
     "id": 144,
     "kategori": "robotik",
     "kelime": "mesafe sensörü",
-    "aciklama": "robot ile etrafındaki nesneler arasındaki uzaklığı lazer, ışık veya ses dalgalarıyla ölçen sensör ailesi.",
+    "aciklama": "ışık veya ses dalgalarıyla ölçen sensör ailesi.",
     "yasakli_kelimeler": [
       "uzaklık ölçer",
       "santimetre ölçümü",
@@ -2019,7 +2019,7 @@
     "id": 145,
     "kategori": "robotik",
     "kelime": "çarpışma sensörü",
-    "aciklama": "robot bir engele fiziksel olarak çarptığı anda devreyi keserek motorları anında durduran mikrosiviç.",
+    "aciklama": "fiziksel olarak çarptığı anda devreyi keserek motorları anında durduran mikrosiviç.",
     "yasakli_kelimeler": [
       "tampon siviçi",
       "çarpma algılama",
@@ -2033,7 +2033,7 @@
     "id": 146,
     "kategori": "robotik",
     "kelime": "tampon sensörü",
-    "aciklama": "robot süpürgelerin ve otonom araçların ön tamponuna basıldığında çarpmayı algılayan yaylı mekanik sensör.",
+    "aciklama": "otonom araçların ön tamponuna basıldığında çarpmayı algılayan yaylı mekanik sensör.",
     "yasakli_kelimeler": [
       "ön tampon",
       "yaylı siviç",
@@ -2047,7 +2047,7 @@
     "id": 147,
     "kategori": "robotik",
     "kelime": "optik sensör",
-    "aciklama": "ortamdaki ortam ışığını, lazer yansımasını veya görüntüyü algılayıp elektrik sinyaline dönüştüren ışık sensörü.",
+    "aciklama": "lazer yansımasını veya görüntüyü algılayıp elektrik sinyaline dönüştüren ışık sensörü.",
     "yasakli_kelimeler": [
       "ışık algılayıcı",
       "fotodiyot fototransistör",
@@ -2061,7 +2061,7 @@
     "id": 148,
     "kategori": "robotik",
     "kelime": "enkoder",
-    "aciklama": "motor şaftının dönme açısını, yönünü ve tur sayısını elektriksel palsler üreterek denetleyiciye bildiren cihaz.",
+    "aciklama": "yönünü ve tur sayısını elektriksel palsler üreterek denetleyiciye bildiren cihaz.",
     "yasakli_kelimeler": [
       "tur sayıcı",
       "açısal konum okuyucu",
@@ -2075,7 +2075,7 @@
     "id": 149,
     "kategori": "robotik",
     "kelime": "renk sensörü",
-    "aciklama": "kırmızı, yeşil ve mavi ışık filtreleriyle zeminin veya önündeki nesnenin rgb renk tonunu ayrıştıran sensör.",
+    "aciklama": "filtreleriyle zeminin veya önündeki nesnenin rgb renk tonunu ayrıştıran sensör.",
     "yasakli_kelimeler": [
       "rgb sensörü",
       "renk ayırt etme",
@@ -2089,7 +2089,7 @@
     "id": 150,
     "kategori": "robotik",
     "kelime": "çizgi sensörü",
-    "aciklama": "beyaz zemin üzerine çekilmiş siyah çizgiyi kızılötesi yansıma farkıyla algılayıp robotu hatta tutan dizi.",
+    "aciklama": "siyah çizgiyi kızılötesi yansıma farkıyla algılayıp robotu hatta tutan dizi.",
     "yasakli_kelimeler": [
       "çizgi izleyen sensörü",
       "siyah beyaz ayrımı",
@@ -2103,7 +2103,7 @@
     "id": 151,
     "kategori": "robotik",
     "kelime": "uçuş süresi",
-    "aciklama": "gönderilen bir fotonun cisme çarpıp robota geri dönme süresini pikosaniyede ölçerek piksel piksel derinlik çıkaran teknoloji.",
+    "aciklama": "geri dönme süresini pikosaniyede ölçerek piksel piksel derinlik çıkaran teknoloji.",
     "yasakli_kelimeler": [
       "tof sensörü",
       "time of flight",
@@ -2117,7 +2117,7 @@
     "id": 152,
     "kategori": "robotik",
     "kelime": "stereo kamera",
-    "aciklama": "insan gibi aralarında belirli bir baz mesafesi bulunan iki kamera görüntüsünü eşleştirerek 3 boyutlu derinlik gören sistem.",
+    "aciklama": "bulunan iki kamera görüntüsünü eşleştirerek 3 boyutlu derinlik gören sistem.",
     "yasakli_kelimeler": [
       "çift kamera",
       "üç boyutlu görme",
@@ -2131,7 +2131,7 @@
     "id": 153,
     "kategori": "robotik",
     "kelime": "termal kamera",
-    "aciklama": "karanlıkta veya dumanda nesnelerin yaydığı ısı radyasyonunu kızılötesi piksellerle renklendirip canlıları bulan cihaz.",
+    "aciklama": "nesnelerin yaydığı ısı radyasyonunu kızılötesi piksellerle renklendirip canlıları bulan cihaz.",
     "yasakli_kelimeler": [
       "ısı kamerası",
       "kızılötesi görüntü",
@@ -2145,7 +2145,7 @@
     "id": 154,
     "kategori": "robotik",
     "kelime": "derinlik haritası",
-    "aciklama": "kamera görüş alanındaki her pikselin robota olan santimetre cinsinden mesafesini renk tonlarıyla kodlayan matris.",
+    "aciklama": "pikselin robota olan santimetre cinsinden mesafesini renk tonlarıyla kodlayan matris.",
     "yasakli_kelimeler": [
       "depth map",
       "üç boyutlu nokta bulutu",
@@ -2159,7 +2159,7 @@
     "id": 155,
     "kategori": "robotik",
     "kelime": "lazer tarayıcı",
-    "aciklama": "üç yüz altmış derece dönerek yaydığı lazer ışınlarıyla odanın duvarlarını santim hassasiyetinde ölçen iki boyutlu lidar.",
+    "aciklama": "lazer ışınlarıyla odanın duvarlarını santim hassasiyetinde ölçen iki boyutlu lidar.",
     "yasakli_kelimeler": [
       "döner lazer",
       "2d lidar",
@@ -2173,7 +2173,7 @@
     "id": 156,
     "kategori": "robotik",
     "kelime": "tork sensörü",
-    "aciklama": "robot eklemine veya bileğine binen burulma momentini ölçerek robotun insanı incitmesini engelleyen gerinim ölçer.",
+    "aciklama": "binen burulma momentini ölçerek robotun insanı incitmesini engelleyen gerinim ölçer.",
     "yasakli_kelimeler": [
       "moment ölçer",
       "burulma sensörü",
@@ -2187,7 +2187,7 @@
     "id": 157,
     "kategori": "robotik",
     "kelime": "açı ölçer",
-    "aciklama": "robot bacaklarının veya kollarının gövdeyle yaptığı açıyı yerçekimine göre ölçen dijital sensör.",
+    "aciklama": "veya kollarının gövdeyle yaptığı açıyı yerçekimine göre ölçen dijital sensör.",
     "yasakli_kelimeler": [
       "gonyometre",
       "açı sensörü",
@@ -2201,7 +2201,7 @@
     "id": 158,
     "kategori": "robotik",
     "kelime": "eğim sensörü",
-    "aciklama": "robotun eğimli bir rampada devrilmesini önlemek için arazinin yokuş açısını bildiren cıvalı veya mems sensör.",
+    "aciklama": "önlemek için arazinin yokuş açısını bildiren cıvalı veya mems sensör.",
     "yasakli_kelimeler": [
       "tilt sensörü",
       "devrilme uyarısı",
@@ -2215,7 +2215,7 @@
     "id": 159,
     "kategori": "robotik",
     "kelime": "basınç sensörü",
-    "aciklama": "robot ayaklarının tabanında veya tutucu parmaklarında temas yüzeyine uygulanan paskal basıncını ölçen algılayıcı.",
+    "aciklama": "veya tutucu parmaklarında temas yüzeyine uygulanan paskal basıncını ölçen algılayıcı.",
     "yasakli_kelimeler": [
       "ayak tabanı sensörü",
       "yüzey basıncı",
@@ -2229,7 +2229,7 @@
     "id": 160,
     "kategori": "robotik",
     "kelime": "akım sensörü",
-    "aciklama": "motorların çektiği amperi ölçerek robot kolunun bir yere takılıp zorlandığını veya aşırı yüklendiğini sezen devre.",
+    "aciklama": "robot kolunun yere takılıp zorlandığını veya aşırı yüklendiğini sezen devre.",
     "yasakli_kelimeler": [
       "motor akımı",
       "amper ölçer",
@@ -2243,7 +2243,7 @@
     "id": 161,
     "kategori": "robotik",
     "kelime": "pid kontrol",
-    "aciklama": "oransal, integral ve türevsel hataları hesaplayarak motorları istenen hedef pozisyonda titreşimsiz tutan algoritma.",
+    "aciklama": "türevsel hataları hesaplayarak motorları istenen hedef pozisyonda titreşimsiz tutan algoritma.",
     "yasakli_kelimeler": [
       "oransal integral türev",
       "kapalı çevrim algoritması",
@@ -2257,7 +2257,7 @@
     "id": 162,
     "kategori": "robotik",
     "kelime": "geri besleme",
-    "aciklama": "çıkıştan alınan sensör verisinin girişteki hedefle karşılaştırılarak hatanın sürekli sıfıra indirilmesi prensibi.",
+    "aciklama": "sensör verisinin girişteki hedefle karşılaştırılarak hatanın sürekli sıfıra indirilmesi prensibi.",
     "yasakli_kelimeler": [
       "feedback",
       "hata sinyali",
@@ -2271,7 +2271,7 @@
     "id": 163,
     "kategori": "robotik",
     "kelime": "açık çevrim",
-    "aciklama": "sensörden hiçbir geri bildirim almadan motorlara sadece belirlenen sürede dönme komutu veren kör kontrol.",
+    "aciklama": "almadan motorlara sadece belirlenen sürede dönme komutu veren kör kontrol.",
     "yasakli_kelimeler": [
       "sensörsüz kontrol",
       "geri bildirimsiz",
@@ -2285,7 +2285,7 @@
     "id": 164,
     "kategori": "robotik",
     "kelime": "kapalı çevrim",
-    "aciklama": "enkoder ve sensörlerden sürekli gelen anlık durum bilgisine göre motor hızını düzelten geri beslemeli sistem.",
+    "aciklama": "anlık durum bilgisine göre motor hızını düzelten geri beslemeli sistem.",
     "yasakli_kelimeler": [
       "geri beslemeli kontrol",
       "sensörlü denetim",
@@ -2299,7 +2299,7 @@
     "id": 165,
     "kategori": "robotik",
     "kelime": "oransal kazanç",
-    "aciklama": "pid kontrol döngüsünde mevcut hatanın büyüklüğüyle doğru orantılı olarak motora verilen tepki katsayısı.",
+    "aciklama": "mevcut hatanın büyüklüğüyle doğru orantılı olarak motora verilen tepki katsayısı.",
     "yasakli_kelimeler": [
       "kp katsayısı",
       "oransal terim",
@@ -2313,7 +2313,7 @@
     "id": 166,
     "kategori": "robotik",
     "kelime": "integral kazanç",
-    "aciklama": "zaman içinde biriken küçük kalıcı hataların toplamını alarak robotun hedefe tam oturmasını sağlayan katsayı.",
+    "aciklama": "kalıcı hataların toplamını alarak robotun hedefe tam oturmasını sağlayan katsayı.",
     "yasakli_kelimeler": [
       "ki katsayısı",
       "kalıcı durum hatası",
@@ -2327,7 +2327,7 @@
     "id": 167,
     "kategori": "robotik",
     "kelime": "türevsel kazanç",
-    "aciklama": "hatanın değişim hızını hesaplayarak robot kolunun hedefi aşmasını ve sarsılmasını önleyen frenleyici terim.",
+    "aciklama": "hesaplayarak robot kolunun hedefi aşmasını ve sarsılmasını önleyen frenleyici terim.",
     "yasakli_kelimeler": [
       "kd katsayısı",
       "aşımı önleme",
@@ -2341,7 +2341,7 @@
     "id": 168,
     "kategori": "robotik",
     "kelime": "hata sinyali",
-    "aciklama": "robotun gitmesi gereken hedef konum ile sensörlerin ölçtüğü gerçek anlık konum arasındaki fark değeri.",
+    "aciklama": "konum ile sensörlerin ölçtüğü gerçek anlık konum arasındaki fark değeri.",
     "yasakli_kelimeler": [
       "fark değeri",
       "hedef eksi gerçek",
@@ -2355,7 +2355,7 @@
     "id": 169,
     "kategori": "robotik",
     "kelime": "durum uzayı",
-    "aciklama": "robotun konum, hız ve ivme gibi tüm dinamik fiziksel değişkenlerini tek bir matris denkleminde modelleme yöntemi.",
+    "aciklama": "gibi tüm dinamik fiziksel değişkenlerini tek matris denkleminde modelleme yöntemi.",
     "yasakli_kelimeler": [
       "state space",
       "durum değişkenleri",
@@ -2369,7 +2369,7 @@
     "id": 170,
     "kategori": "robotik",
     "kelime": "mikrodenetleyici",
-    "aciklama": "robotun beynini oluşturan, sensörleri okuyup motorlara pwm sinyalleri üreten tek çipli programlanabilir bilgisayar.",
+    "aciklama": "sensörleri okuyup motorlara pwm sinyalleri üreten tek çipli programlanabilir bilgisayar.",
     "yasakli_kelimeler": [
       "arduino",
       "stm32",
@@ -2383,7 +2383,7 @@
     "id": 171,
     "kategori": "robotik",
     "kelime": "motor sürücü",
-    "aciklama": "işlemcinin düşük akımlı mantık sinyallerini yüksek voltaj ve ampere çevirerek motorları süren güç kartı.",
+    "aciklama": "sinyallerini yüksek voltaj ve ampere çevirerek motorları süren güç kartı.",
     "yasakli_kelimeler": [
       "h köprüsü kartı",
       "motor kartı",
@@ -2397,7 +2397,7 @@
     "id": 172,
     "kategori": "robotik",
     "kelime": "gömülü sistem",
-    "aciklama": "belirli bir robotik görevi yerine getirmek için donanım ve yazılımın tek bir elektronik kartta birleştiği mimari.",
+    "aciklama": "getirmek için donanım ve yazılımın tek elektronik kartta birleştiği mimari.",
     "yasakli_kelimeler": [
       "embedded system",
       "donanım yazılım birleşimi",
@@ -2411,7 +2411,7 @@
     "id": 173,
     "kategori": "robotik",
     "kelime": "yol takibi",
-    "aciklama": "robotun önceden planlanmış geometrik yol çizgisi üzerinden sapmadan tekerleklerine yön vermesi işlemi.",
+    "aciklama": "planlanmış geometrik yol çizgisi üzerinden sapmadan tekerleklerine yön vermesi işlemi.",
     "yasakli_kelimeler": [
       "çizgi üzerinde gitme",
       "rota takibi",
@@ -2425,7 +2425,7 @@
     "id": 174,
     "kategori": "robotik",
     "kelime": "yörünge takibi",
-    "aciklama": "robotun sadece yolu değil, yol üzerindeki her noktada hangi saniyede hangi hız ve ivmeyle olacağını denetlemesi.",
+    "aciklama": "her noktada hangi saniyede hangi hız ve ivmeyle olacağını denetlemesi.",
     "yasakli_kelimeler": [
       "zaman parametreli yol",
       "trajectory tracking",
@@ -2439,7 +2439,7 @@
     "id": 175,
     "kategori": "robotik",
     "kelime": "engel tespiti",
-    "aciklama": "robotun kameraları veya lidar sensörüyle güzergah üzerindeki yabancı nesneleri görüp haritada işaretlemesi.",
+    "aciklama": "veya lidar sensörüyle güzergah üzerindeki yabancı nesneleri görüp haritada işaretlemesi.",
     "yasakli_kelimeler": [
       "engel görme",
       "nesne algılama",
@@ -2453,7 +2453,7 @@
     "id": 176,
     "kategori": "robotik",
     "kelime": "ızgara harita",
-    "aciklama": "odanın küçük kare hücrelere bölünerek her hücrenin dolu, boş veya bilinmeyen olarak tutulduğu harita tipi.",
+    "aciklama": "boş veya bilinmeyen olarak tutulduğu harita tipi.",
     "yasakli_kelimeler": [
       "grid map",
       "kare hücreli harita",
@@ -2467,7 +2467,7 @@
     "id": 177,
     "kategori": "robotik",
     "kelime": "maliyet haritası",
-    "aciklama": "engellerin çevresine güvenlik payı ekleyerek robotun duvara çok yakın geçmesini önleyen riskli bölge haritası.",
+    "aciklama": "ekleyerek robotun duvara çok yakın geçmesini önleyen riskli bölge haritası.",
     "yasakli_kelimeler": [
       "costmap",
       "risk haritası",
@@ -2481,7 +2481,7 @@
     "id": 178,
     "kategori": "robotik",
     "kelime": "duruş tahmini",
-    "aciklama": "robotun dünya koordinat sisteminde nerede bulunduğunu ve hangi yöne baktığını x, y ve açı olarak hesaplama.",
+    "aciklama": "y ve açı olarak hesaplama.",
     "yasakli_kelimeler": [
       "pose estimation",
       "konum ve yönelim",
@@ -2495,7 +2495,7 @@
     "id": 179,
     "kategori": "robotik",
     "kelime": "yapay zeka",
-    "aciklama": "robotların karmaşık ortamlarda nesneleri tanımasını, kararlar almasını ve tecrübeyle öğrenmesini sağlayan yazılım.",
+    "aciklama": "kararlar almasını ve tecrübeyle öğrenmesini sağlayan yazılım.",
     "yasakli_kelimeler": [
       "ai",
       "makine aklı",
@@ -2509,7 +2509,7 @@
     "id": 180,
     "kategori": "robotik",
     "kelime": "makine öğrenimi",
-    "aciklama": "robotun binlerce deneme yaparak nesneleri düşürmeden tutmayı veya yürümeyi pekiştirmeli olarak öğrenmesi.",
+    "aciklama": "deneme yaparak nesneleri düşürmeden tutmayı veya yürümeyi pekiştirmeli olarak öğrenmesi.",
     "yasakli_kelimeler": [
       "pekiştirmeli öğrenme",
       "veriyle eğitme",
@@ -2523,7 +2523,7 @@
     "id": 181,
     "kategori": "robotik",
     "kelime": "acil durdurma",
-    "aciklama": "tehlike anında operatörün veya izleyicinin basarak robota giden tüm enerjiyi kesip donduran kırmızı mantar buton.",
+    "aciklama": "basarak robota giden tüm enerjiyi kesip donduran kırmızı mantar buton.",
     "yasakli_kelimeler": [
       "e-stop",
       "kırmızı buton",
@@ -2537,7 +2537,7 @@
     "id": 182,
     "kategori": "robotik",
     "kelime": "güvenlik perdesi",
-    "aciklama": "robot hücresine bir insan eli veya vücudu girdiğinde görünmez kızılötesi ışın demeti kesilerek robotu durduran bariyer.",
+    "aciklama": "vücudu girdiğinde görünmez kızılötesi ışın demeti kesilerek robotu durduran bariyer.",
     "yasakli_kelimeler": [
       "ışık perdesi",
       "optik bariyer",
@@ -2551,7 +2551,7 @@
     "id": 183,
     "kategori": "robotik",
     "kelime": "çarpışma algılama",
-    "aciklama": "işbirlikçi cobot'un insana hafifçe çarptığında akım veya tork artışını sezip bir milisaniyede geri çekilmesi.",
+    "aciklama": "hafifçe çarptığında akım veya tork artışını sezip milisaniyede geri çekilmesi.",
     "yasakli_kelimeler": [
       "çarpma güvenliği",
       "temas duruşu",
@@ -2579,7 +2579,7 @@
     "id": 185,
     "kategori": "robotik",
     "kelime": "hız sınırlama",
-    "aciklama": "insanla aynı odada çalışan robotların olası bir kazada yaralamayı önlemek için yavaşlatılmış çalışma modu.",
+    "aciklama": "çalışan robotların olası kazada yaralamayı önlemek için yavaşlatılmış çalışma modu.",
     "yasakli_kelimeler": [
       "yavaş çalışma",
       "güvenli hız",
@@ -2593,7 +2593,7 @@
     "id": 186,
     "kategori": "robotik",
     "kelime": "robot hücresi",
-    "aciklama": "endüstriyel robotun çalıştığı, etrafı tel çit ve emniyet kilitli kapılarla çevrili kapalı güvenlik kafesi.",
+    "aciklama": "tel çit ve emniyet kilitli kapılarla çevrili kapalı güvenlik kafesi.",
     "yasakli_kelimeler": [
       "güvenlik kafesi",
       "çitli alan",
@@ -2607,7 +2607,7 @@
     "id": 187,
     "kategori": "robotik",
     "kelime": "çevrim süresi",
-    "aciklama": "robotun bir parçayı alıp işleyip yerine bırakarak bir sonraki parçaya hazır hale geldiği toplam imalat süresi.",
+    "aciklama": "yerine bırakarak sonraki parçaya hazır hale geldiği toplam imalat süresi.",
     "yasakli_kelimeler": [
       "cycle time",
       "iş süresi",
@@ -2621,7 +2621,7 @@
     "id": 188,
     "kategori": "robotik",
     "kelime": "konum doğruluğu",
-    "aciklama": "robotun uç elemanının gönderildiği hedef koordinata ne kadar milimetre veya mikron yaklaşabildiği hassasiyeti.",
+    "aciklama": "gönderildiği hedef koordinata ne kadar milimetre veya mikron yaklaşabildiği hassasiyeti.",
     "yasakli_kelimeler": [
       "hassasiyet",
       "pozisyon doğruluğu",
@@ -2635,7 +2635,7 @@
     "id": 189,
     "kategori": "robotik",
     "kelime": "yükleme boşaltma",
-    "aciklama": "robotun torna veya cnc tezgahlarına ham parçayı koyup işlenmiş bitmiş parçayı tezgaha zarar vermeden alması.",
+    "aciklama": "ham parçayı koyup işlenmiş bitmiş parçayı tezgaha zarar vermeden alması.",
     "yasakli_kelimeler": [
       "makine besleme",
       "parça takma çıkarma",
@@ -2649,7 +2649,7 @@
     "id": 190,
     "kategori": "robotik",
     "kelime": "punta kaynağı",
-    "aciklama": "otomobil üretim hatlarında robot kolunun iki sac levhayı bakır elektrotlarla sıkıştırıp elektrikle kaynatması.",
+    "aciklama": "robot kolunun iki sac levhayı bakır elektrotlarla sıkıştırıp elektrikle kaynatması.",
     "yasakli_kelimeler": [
       "nokta kaynağı",
       "araba şasisi kaynağı",
@@ -2663,7 +2663,7 @@
     "id": 191,
     "kategori": "robotik",
     "kelime": "ark kaynağı",
-    "aciklama": "robot koluna takılan kaynak torcuyla gaz altı veya lazer kullanarak dikiş boyunca pürüzsüz kaynak yapılması.",
+    "aciklama": "gaz altı veya lazer kullanarak dikiş boyunca pürüzsüz kaynak yapılması.",
     "yasakli_kelimeler": [
       "dikiş kaynağı",
       "gazaltı kaynağı",
@@ -2677,7 +2677,7 @@
     "id": 192,
     "kategori": "robotik",
     "kelime": "sprey boyama",
-    "aciklama": "otomobil gövdelerinin boya kabininde robotik kolların püskürtme tabancalarıyla mikron seviyesinde boyanması.",
+    "aciklama": "gövdelerinin boya kabininde robotik kolların püskürtme tabancalarıyla mikron seviyesinde boyanması.",
     "yasakli_kelimeler": [
       "boya robotu",
       "püskürtme boya",
@@ -2691,7 +2691,7 @@
     "id": 193,
     "kategori": "robotik",
     "kelime": "paletleme robotu",
-    "aciklama": "üretim bandından çıkan yüzlerce koli veya çuvalı ahşap palet üzerine belirli bir kilit deseniyle istifleyen robot.",
+    "aciklama": "veya çuvalı ahşap palet üzerine belirli kilit deseniyle istifleyen robot.",
     "yasakli_kelimeler": [
       "istifleme robotu",
       "koli dizme",
@@ -2705,7 +2705,7 @@
     "id": 194,
     "kategori": "robotik",
     "kelime": "alma bırakma",
-    "aciklama": "ürünleri konveyör üzerinden hızla vakumla veya kıskaçla kapıp kutulara yerleştiren temel robot görevi.",
+    "aciklama": "hızla vakumla veya kıskaçla kapıp kutulara yerleştiren temel robot görevi.",
     "yasakli_kelimeler": [
       "pick and place",
       "parça yakalama",
@@ -2719,7 +2719,7 @@
     "id": 195,
     "kategori": "robotik",
     "kelime": "konveyör takibi",
-    "aciklama": "robot kolunun sürekli hareket eden bir bant üzerindeki ürünün hızını eşitleyerek yürürken parçayı kavraması.",
+    "aciklama": "hareket eden bant üzerindeki ürünün hızını eşitleyerek yürürken parçayı kavraması.",
     "yasakli_kelimeler": [
       "hareketli bant takibi",
       "konveyör senkronizasyonu",
@@ -2733,7 +2733,7 @@
     "id": 196,
     "kategori": "robotik",
     "kelime": "montaj robotu",
-    "aciklama": "elektronik devre kartlarına minik çipleri lehimleyen veya vidaları sıkan yüksek hassasiyetli robotik hücre.",
+    "aciklama": "minik çipleri lehimleyen veya vidaları sıkan yüksek hassasiyetli robotik hücre.",
     "yasakli_kelimeler": [
       "elektronik montaj",
       "vida sıkma robotu",
@@ -2747,7 +2747,7 @@
     "id": 197,
     "kategori": "robotik",
     "kelime": "yapay kas",
-    "aciklama": "elektrik veya hava verildiğinde insan kas lifleri gibi büzüşüp uzayan esnek ve yumuşak polimer eyleyici.",
+    "aciklama": "kas lifleri gibi büzüşüp uzayan esnek ve yumuşak polimer eyleyici.",
     "yasakli_kelimeler": [
       "pnömatik kas",
       "büzülen lif",
@@ -2761,7 +2761,7 @@
     "id": 198,
     "kategori": "robotik",
     "kelime": "esnek tutucu",
-    "aciklama": "domates veya yumurta gibi kırılgan nesneleri ezmeden kavramak için hava basıncıyla şişen silikon parmaklar.",
+    "aciklama": "kırılgan nesneleri ezmeden kavramak için hava basıncıyla şişen silikon parmaklar.",
     "yasakli_kelimeler": [
       "soft gripper",
       "silikon parmak",
@@ -2775,7 +2775,7 @@
     "id": 199,
     "kategori": "robotik",
     "kelime": "haptik eldiven",
-    "aciklama": "kullanıcının eline takarak uzaktaki robotun dokunduğu yüzeyin sertliğini veya pürüzünü avucunda hissettiren donanım.",
+    "aciklama": "uzaktaki robotun dokunduğu yüzeyin sertliğini veya pürüzünü avucunda hissettiren donanım.",
     "yasakli_kelimeler": [
       "dokunsal eldiven",
       "kuvvet geri bildirimi",
@@ -2789,7 +2789,7 @@
     "id": 200,
     "kategori": "robotik",
     "kelime": "televarlık",
-    "aciklama": "bir insanın ekranlar ve robot gövdesi aracılığıyla kilometrelerce uzaktaki bir mekanda fiziksel olarak var gibi hissetmesi.",
+    "aciklama": "gövdesi ile kilometrelerce uzaktaki mekanda fiziksel olarak var gibi hissetmesi.",
     "yasakli_kelimeler": [
       "telepresence",
       "uzaktan var olma",
@@ -2830,7 +2830,7 @@
   {
     "kategori": "robotik",
     "kelime": "algılamak",
-    "aciklama": "sensörler yardımıyla önündeki engeli veya mesafeyi fark etmek",
+    "aciklama": "sensörler ile önündeki engeli veya mesafeyi fark etmek",
     "yasakli_kelimeler": [
       "sensör",
       "engel",
@@ -3040,7 +3040,7 @@
   {
     "kategori": "robotik",
     "kelime": "rota planlamak",
-    "aciklama": "a* veya rrt algoritmasıyla başlangıçtan hedefe en kısa engelsiz yolu bulmak",
+    "aciklama": "veya rrt algoritmasıyla başlangıçtan hedefe en kısa engelsiz yolu bulmak",
     "yasakli_kelimeler": [
       "a star",
       "yol bulma",
@@ -3124,7 +3124,7 @@
   {
     "kategori": "robotik",
     "kelime": "can bus haberleşmek",
-    "aciklama": "tüm motor sürücüler ve mikrodenetleyiciler arasında çift telli seri veri akışı",
+    "aciklama": "motor sürücüler ve mikrodenetleyiciler arasında çift telli seri veri akışı",
     "yasakli_kelimeler": [
       "canbus",
       "seri haberleşme",
@@ -3152,7 +3152,7 @@
   {
     "kategori": "robotik",
     "kelime": "teleoperasyon yapmak",
-    "aciklama": "tehlikeli nükleer veya bomba imha robotunu uzaktan kumanda ve kamerayla yönetmek",
+    "aciklama": "nükleer veya bomba imha robotunu uzaktan kumanda ve kamerayla yönetmek",
     "yasakli_kelimeler": [
       "uzaktan kumanda",
       "bomba imha",
@@ -3166,7 +3166,7 @@
   {
     "kategori": "robotik",
     "kelime": "dronu havada sabitlemek",
-    "aciklama": "dört motorun itiş gücünü gyro sensörüyle eşzamanlı dengeleyip havada asılı kalmak",
+    "aciklama": "motorun itiş gücünü gyro sensörüyle eşzamanlı dengeleyip havada asılı kalmak",
     "yasakli_kelimeler": [
       "hover",
       "quadcopter",
@@ -3194,7 +3194,7 @@
   {
     "kategori": "robotik",
     "kelime": "cobot ile çalışmak",
-    "aciklama": "güvenlik kafesi olmadan insan işçiyle yan yana temas halinde güvenle çalışmak",
+    "aciklama": "kafesi olmadan insan işçiyle yan yana temas halinde güvenle çalışmak",
     "yasakli_kelimeler": [
       "kolaboratif",
       "güvenlik kafessiz",
@@ -3250,7 +3250,7 @@
   {
     "kategori": "robotik",
     "kelime": "jakobiyen matrisi türetmek",
-    "aciklama": "eklem açısal hızları ile uç tutucu çizgisel ve açısal hızları arasındaki türev bağıntısı",
+    "aciklama": "ile uç tutucu çizgisel ve açısal hızları arasındaki türev bağıntısı",
     "yasakli_kelimeler": [
       "hız matrisi",
       "kısmi türev",
@@ -3264,7 +3264,7 @@
   {
     "kategori": "robotik",
     "kelime": "kinematik tekillikten kaçmak",
-    "aciklama": "robot kolunun eklemleri kilitlenip sonsuz hız veya serbestlik kaybı yaşamasını önlemek",
+    "aciklama": "kolunun eklemleri kilitlenip sonsuz hız veya serbestlik kaybı yaşamasını önlemek",
     "yasakli_kelimeler": [
       "singularity",
       "jakobiyen determinantı sıfır",
@@ -3292,7 +3292,7 @@
   {
     "kategori": "robotik",
     "kelime": "ros düğümü başlatmak",
-    "aciklama": "robot işletim sisteminde yayıncı ve abone yapısında asenkron veri kanalları açmak",
+    "aciklama": "işletim sisteminde yayıncı ve abone yapısında asenkron veri kanalları açmak",
     "yasakli_kelimeler": [
       "robot operating system",
       "publisher subscriber",
@@ -3320,7 +3320,7 @@
   {
     "kategori": "robotik",
     "kelime": "sıfır moment hesabı",
-    "aciklama": "iki ayaklı robotun devrilmemesi için taban zeminine binen toplam yatay torkun sıfır olduğu nokta",
+    "aciklama": "için taban zeminine binen toplam yatay torkun sıfır olduğu nokta",
     "yasakli_kelimeler": [
       "zmp",
       "devrilmeme",
@@ -3348,7 +3348,7 @@
   {
     "kategori": "robotik",
     "kelime": "pekiştirmeli sim-to-real transferi",
-    "aciklama": "fizik simülasyonunda eğitilen robot yapay zekasını domain randomization ile gerçek robota aktarmak",
+    "aciklama": "eğitilen robot yapay zekasını domain randomization ile gerçek robota aktarmak",
     "yasakli_kelimeler": [
       "simülasyondan gerçeğe",
       "reinforcement learning",
@@ -3362,7 +3362,7 @@
   {
     "kategori": "robotik",
     "kelime": "görsel odometri yürütmek",
-    "aciklama": "ardışık kamera karelerindeki optik akış ve özellik noktası eşleşmelerinden konum çıkarmak",
+    "aciklama": "kamera karelerindeki optik akış ve özellik noktası eşleşmelerinden konum çıkarmak",
     "yasakli_kelimeler": [
       "visual odometry",
       "orb slam",
@@ -3404,7 +3404,7 @@
   {
     "kategori": "robotik",
     "kelime": "sürü robotik yönetmek",
-    "aciklama": "yüzlerce mikro robotun merkezi lidersiz basit kurallarla karınca gibi koloni hareketi yapması",
+    "aciklama": "robotun merkezi lidersiz basit kurallarla karınca gibi koloni hareketi yapması",
     "yasakli_kelimeler": [
       "sürü zekası",
       "koloni",
@@ -3418,7 +3418,7 @@
   {
     "kategori": "robotik",
     "kelime": "döngü kapatma yapmak",
-    "aciklama": "daha önce geçtiği bir mekanı görsel olarak tanıyıp tüm harita birikimli kayma hatasını düzeltmek",
+    "aciklama": "mekanı görsel olarak tanıyıp tüm harita birikimli kayma hatasını düzeltmek",
     "yasakli_kelimeler": [
       "loop closure",
       "birikimli hata",

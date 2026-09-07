@@ -3,7 +3,7 @@
     "id": 1,
     "kategori": "donanim",
     "kelime": "anakart",
-    "aciklama": "tüm donanım bileşenlerinin üzerine takıldığı ve aralarındaki elektriksel iletişimi sağlayan ana devre levhası.",
+    "aciklama": "donanım bileşenlerinin üzerine takıldığı ve aralarındaki elektriksel devre levhası.",
     "yasakli_kelimeler": [
       "devre",
       "bileşen",
@@ -17,7 +17,7 @@
     "id": 2,
     "kategori": "donanim",
     "kelime": "merkezi işlem birimi",
-    "aciklama": "bilgisayardaki tüm mantıksal ve aritmetik komutları işleyen, sistemin beyni sayılan mikroişlemci.",
+    "aciklama": "bilgisayardaki mantıksal ve aritmetik komutları işleyen, sistemin beyni sayılan mikroişlemci.",
     "yasakli_kelimeler": [
       "işlemci",
       "beyin",
@@ -31,7 +31,7 @@
     "id": 3,
     "kategori": "donanim",
     "kelime": "grafik işlem birimi",
-    "aciklama": "görüntü oluşturma, video işleme ve paralel hesaplama görevlerini hızlandıran özel donanım çipi.",
+    "aciklama": "görüntü oluşturma, video işleme ve paralel hesaplama donanım çipi.",
     "yasakli_kelimeler": [
       "ekran kartı",
       "görüntü",
@@ -45,7 +45,7 @@
     "id": 4,
     "kategori": "donanim",
     "kelime": "rastgele erişimli bellek",
-    "aciklama": "işlemcinin aktif olarak kullandığı verileri geçici süreyle tutan, güç kesilince sıfırlanan bellek türü.",
+    "aciklama": "işlemcinin aktif olarak kullandığı verileri geçici süreyle bellek türü.",
     "yasakli_kelimeler": [
       "geçici",
       "hafıza",
@@ -59,7 +59,7 @@
     "id": 5,
     "kategori": "donanim",
     "kelime": "salt okunur bellek",
-    "aciklama": "üzerindeki verilerin normal şartlarda değiştirilemediği ve bilgisayarın başlangıç kodlarını saklayan kalıcı bellek.",
+    "aciklama": "üzerindeki verilerin normal şartlarda değiştirilemediği ve bilgisayarın kalıcı bellek.",
     "yasakli_kelimeler": [
       "kalıcı",
       "silinmez",
@@ -73,7 +73,7 @@
     "id": 6,
     "kategori": "donanim",
     "kelime": "katı hal sürücüsü",
-    "aciklama": "verileri hareketli parçalar olmadan flaş bellek yongalarında depolayan hızlı ve sessiz depolama aygıtı.",
+    "aciklama": "verileri hareketli parçalar olmadan flaş bellek yongalarında depolama aygıtı.",
     "yasakli_kelimeler": [
       "depolama",
       "disk",
@@ -87,7 +87,7 @@
     "id": 7,
     "kategori": "donanim",
     "kelime": "sabit disk",
-    "aciklama": "verileri manyetik kaplı dönen plakalar ve mekanik okuma yazma kafası yardımıyla kaydeden geleneksel depolama birimi.",
+    "aciklama": "verileri manyetik kaplı dönen plakalar ve mekanik depolama birimi.",
     "yasakli_kelimeler": [
       "manyetik",
       "plaka",
@@ -101,7 +101,7 @@
     "id": 8,
     "kategori": "donanim",
     "kelime": "güç kaynağı",
-    "aciklama": "şebekeden gelen alternatif akımı bilgisayar parçalarının ihtiyaç duyduğu düşük voltajlı doğru akıma çeviren donanım.",
+    "aciklama": "şebekeden gelen alternatif akımı bilgisayar parçalarının ihtiyaç çeviren donanım.",
     "yasakli_kelimeler": [
       "elektrik",
       "voltaj",
@@ -115,7 +115,7 @@
     "id": 9,
     "kategori": "donanim",
     "kelime": "kuzey köprüsü",
-    "aciklama": "anakart üzerinde işlemci, ram ve hızlı grafik veri yolları arasındaki yüksek hızlı iletişimi yöneten eski kontrol yongası.",
+    "aciklama": "anakart üzerinde işlemci, ram ve hızlı grafik kontrol yongası.",
     "yasakli_kelimeler": [
       "yonga",
       "işlemci",
@@ -129,7 +129,7 @@
     "id": 10,
     "kategori": "donanim",
     "kelime": "güney köprüsü",
-    "aciklama": "anakartta usb, sata, ses ve genişleme yuvaları gibi daha yavaş çalışan giriş çıkış birimlerini kontrol eden yonga seti parçası.",
+    "aciklama": "anakartta usb, sata, ses ve genişleme yuvaları seti parçası.",
     "yasakli_kelimeler": [
       "giriş çıkış",
       "usb",
@@ -143,7 +143,7 @@
     "id": 11,
     "kategori": "donanim",
     "kelime": "yonga seti",
-    "aciklama": "işlemcinin bellek ve çevre birimleriyle olan veri akışını koordine eden entegre devre grubu.",
+    "aciklama": "işlemcinin bellek ve çevre birimleriyle olan veri devre grubu.",
     "yasakli_kelimeler": [
       "çip",
       "anakart",
@@ -157,7 +157,7 @@
     "id": 12,
     "kategori": "donanim",
     "kelime": "bios",
-    "aciklama": "bilgisayar açıldığında donanımları test eden ve işletim sistemini başlatan anakart üzerindeki temel yazılım.",
+    "aciklama": "bilgisayar açıldığında donanımları test eden ve işletim temel yazılım.",
     "yasakli_kelimeler": [
       "başlatma",
       "açılış",
@@ -171,7 +171,7 @@
     "id": 13,
     "kategori": "donanim",
     "kelime": "uefi",
-    "aciklama": "geleneksel bios mimarisinin yerini alan, modern arayüze ve gelişmiş güvenlik protokollerine sahip açılış standardı.",
+    "aciklama": "geleneksel bios mimarisinin yerini alan, modern arayüze açılış standardı.",
     "yasakli_kelimeler": [
       "arayüz",
       "standart",
@@ -185,7 +185,7 @@
     "id": 14,
     "kategori": "donanim",
     "kelime": "cmos pili",
-    "aciklama": "bilgisayar kapalıyken anakartın tarih, saat ve bios ayarlarını koruması için güç sağlayan düğme pil.",
+    "aciklama": "bilgisayar kapalıyken anakartın tarih, saat ve bios düğme pil.",
     "yasakli_kelimeler": [
       "saat",
       "tarih",
@@ -199,7 +199,7 @@
     "id": 15,
     "kategori": "donanim",
     "kelime": "işlemci soketi",
-    "aciklama": "anakart üzerinde merkezi işlem biriminin mekanik olarak takıldığı ve pin bağlantılarının sağlandığı özel yuva.",
+    "aciklama": "anakart üzerinde merkezi işlem biriminin mekanik olarak özel yuva.",
     "yasakli_kelimeler": [
       "yuva",
       "pin",
@@ -213,7 +213,7 @@
     "id": 16,
     "kategori": "donanim",
     "kelime": "saat frekansı",
-    "aciklama": "bir mikroişlemcinin saniyede gerçekleştirebileceği temel döngü sayısını gigahertz cinsinden belirten değer.",
+    "aciklama": "mikroişlemcinin saniyede gerçekleştirebileceği temel döngü sayısını gigahertz cinsinden belirten değer.",
     "yasakli_kelimeler": [
       "hız",
       "döngü",
@@ -227,7 +227,7 @@
     "id": 17,
     "kategori": "donanim",
     "kelime": "hız aşırtma",
-    "aciklama": "bir donanım bileşenini üreticinin belirlediği fabrika saat frekansının üzerinde çalışmaya zorlayarak performans artırma.",
+    "aciklama": "donanım bileşenini üreticinin belirlediği fabrika saat frekansının performans artırma.",
     "yasakli_kelimeler": [
       "frekans",
       "voltaj",
@@ -241,7 +241,7 @@
     "id": 18,
     "kategori": "donanim",
     "kelime": "önbellek",
-    "aciklama": "işlemcinin sık ihtiyaç duyduğu verilere ana bellekten çok daha hızlı erişebilmesi için çip içine yerleştirilen yüksek hızlı sram.",
+    "aciklama": "işlemcinin sık ihtiyaç duyduğu verilere ana bellekten hızlı sram.",
     "yasakli_kelimeler": [
       "sram",
       "hızlı",
@@ -255,7 +255,7 @@
     "id": 19,
     "kategori": "donanim",
     "kelime": "l1 önbellek",
-    "aciklama": "işlemci çekirdeğine en yakın olan, en küçük kapasiteli fakat en hızlı çalışan birinci seviye bellek katmanı.",
+    "aciklama": "işlemci çekirdeğine en yakın olan, en küçük bellek katmanı.",
     "yasakli_kelimeler": [
       "seviye",
       "çekirdek",
@@ -269,7 +269,7 @@
     "id": 20,
     "kategori": "donanim",
     "kelime": "l2 önbellek",
-    "aciklama": "l1 ile l3 arasında tampon görevi üstlenen, orta düzeyde gecikme ve kapasiteye sahip ikinci seviye önbellek.",
+    "aciklama": "l1 ile l3 arasında tampon görevi üstlenen, seviye önbellek.",
     "yasakli_kelimeler": [
       "ikinci",
       "seviye",
@@ -283,7 +283,7 @@
     "id": 21,
     "kategori": "donanim",
     "kelime": "l3 önbellek",
-    "aciklama": "işlemci üzerindeki tüm çekirdekler tarafından ortaklaşa paylaşılan en büyük kapasiteli önbellek katmanı.",
+    "aciklama": "işlemci üzerindeki çekirdekler tarafından ortaklaşa paylaşılan en önbellek katmanı.",
     "yasakli_kelimeler": [
       "ortak",
       "paylaşımlı",
@@ -297,7 +297,7 @@
     "id": 22,
     "kategori": "donanim",
     "kelime": "veri yolu",
-    "aciklama": "bilgisayar bileşenleri arasında bitlerin elektriksel sinyaller halinde aktarılmasını sağlayan iletken hatlar.",
+    "aciklama": "bilgisayar bileşenleri arasında bitlerin elektriksel sinyaller halinde iletken hatlar.",
     "yasakli_kelimeler": [
       "hat",
       "iletişim",
@@ -311,7 +311,7 @@
     "id": 23,
     "kategori": "donanim",
     "kelime": "pci express",
-    "aciklama": "ekran kartı, ağ bağdaştırıcısı ve nvme sürücüler gibi yüksek bant genişliği isteyen kartların bağlandığı seri veri yolu standardı.",
+    "aciklama": "ekran kartı, ağ bağdaştırıcısı ve nvme sürücüler yolu standardı.",
     "yasakli_kelimeler": [
       "yuva",
       "ekran kartı",
@@ -325,7 +325,7 @@
     "id": 24,
     "kategori": "donanim",
     "kelime": "nvme",
-    "aciklama": "katı hal sürücülerinin pci express veri yolunu kullanarak çok düşük gecikmeyle veri okuyup yazmasını sağlayan modern protokol.",
+    "aciklama": "katı hal sürücülerinin pci express veri yolunu modern protokol.",
     "yasakli_kelimeler": [
       "protokol",
       "hızlı",
@@ -339,7 +339,7 @@
     "id": 25,
     "kategori": "donanim",
     "kelime": "sata",
-    "aciklama": "optik sürücüler ve geleneksel sabit diskleri anakarta bağlamak için kullanılan seri veri yolu arayüzü.",
+    "aciklama": "optik sürücüler ve geleneksel sabit diskleri anakarta yolu arayüzü.",
     "yasakli_kelimeler": [
       "kablo",
       "bağlantı",
@@ -353,7 +353,7 @@
     "id": 26,
     "kategori": "donanim",
     "kelime": "ddr bellek",
-    "aciklama": "saat sinyalinin her iki kenarında da veri aktarımı yaparak bant genişliğini artıran bellek standardı.",
+    "aciklama": "saat sinyalinin her iki kenarında da veri bellek standardı.",
     "yasakli_kelimeler": [
       "ram",
       "hız",
@@ -367,7 +367,7 @@
     "id": 27,
     "kategori": "donanim",
     "kelime": "ecc bellek",
-    "aciklama": "sunucularda veri bozulmalarını ve bellek hatalarını anlık tespit edip otomatik düzelten güvenilir ram.",
+    "aciklama": "sunucularda veri bozulmalarını ve bellek hatalarını anlık güvenilir ram.",
     "yasakli_kelimeler": [
       "sunucu",
       "hata düzeltme",
@@ -381,7 +381,7 @@
     "id": 28,
     "kategori": "donanim",
     "kelime": "ısı borusu",
-    "aciklama": "içindeki sıvının faz değiştirerek buharlaşması ve yoğunlaşması prensibiyle ısıyı işlemciden soğutucu kanatçıklara ileten bakır boru.",
+    "aciklama": "içindeki sıvının faz değiştirerek buharlaşması ve yoğunlaşması bakır boru.",
     "yasakli_kelimeler": [
       "bakır",
       "soğutma",
@@ -395,7 +395,7 @@
     "id": 29,
     "kategori": "donanim",
     "kelime": "termal macun",
-    "aciklama": "işlemci yüzeyi ile soğutucu metal arasındaki mikroskobik hava boşluklarını doldurarak ısı transferini artıran iletken bileşik.",
+    "aciklama": "işlemci yüzeyi ile soğutucu metal arasındaki mikroskobik iletken bileşik.",
     "yasakli_kelimeler": [
       "soğutucu",
       "macun",
@@ -409,7 +409,7 @@
     "id": 30,
     "kategori": "donanim",
     "kelime": "sıvı soğutma",
-    "aciklama": "pompa, radyatör ve borulardan geçen özel soğutma sıvısıyla yüksek ısılı bileşenlerin sıcaklığını düşüren sistem.",
+    "aciklama": "pompa, radyatör ve borulardan geçen özel soğutma düşüren sistem.",
     "yasakli_kelimeler": [
       "pompa",
       "radyatör",
@@ -423,7 +423,7 @@
     "id": 31,
     "kategori": "donanim",
     "kelime": "voltaj regülatör modülü",
-    "aciklama": "güç kaynağından gelen 12 volt gerilimi işlemci ve ekran kartının hassas çalıştığı düşük voltaj seviyelerine dönüştüren anakart devresi.",
+    "aciklama": "güç kaynağından gelen 12 volt gerilimi işlemci anakart devresi.",
     "yasakli_kelimeler": [
       "gerilim",
       "regülatör",
@@ -437,7 +437,7 @@
     "id": 32,
     "kategori": "donanim",
     "kelime": "mosfet",
-    "aciklama": "elektronik devrelerde güç anahtarlaması ve sinyal yükseltmesi yapmak için kullanılan metal oksit yarı iletken alan etkili transistör.",
+    "aciklama": "elektronik devrelerde güç anahtarlaması ve sinyal yükseltmesi etkili transistör.",
     "yasakli_kelimeler": [
       "transistör",
       "anahtarlama",
@@ -451,7 +451,7 @@
     "id": 33,
     "kategori": "donanim",
     "kelime": "transistör",
-    "aciklama": "elektriksel sinyalleri yükselten veya anahtarlayan, modern mikroişlemcilerin temel yapı taşı olan minik yarı iletken eleman.",
+    "aciklama": "elektriksel sinyalleri yükselten veya anahtarlayan, modern mikroişlemcilerin iletken eleman.",
     "yasakli_kelimeler": [
       "yarı iletken",
       "anahtar",
@@ -465,7 +465,7 @@
     "id": 34,
     "kategori": "donanim",
     "kelime": "kapasitör",
-    "aciklama": "elektrik enerjisini elektrostatik alanda depolayan, voltaj dalgalanmalarını filtrelemek için kullanılan pasif devre elemanı.",
+    "aciklama": "elektrik enerjisini elektrostatik alanda depolayan, voltaj dalgalanmalarını devre elemanı.",
     "yasakli_kelimeler": [
       "depolama",
       "yük",
@@ -479,7 +479,7 @@
     "id": 35,
     "kategori": "donanim",
     "kelime": "direnç",
-    "aciklama": "bir devreden geçen elektrik akımına karşı zorluk göstererek voltajı ve akım şiddetini ayarlayan temel pasif bileşen.",
+    "aciklama": "devreden geçen elektrik akımına karşı zorluk göstererek pasif bileşen.",
     "yasakli_kelimeler": [
       "akım",
       "zorluk",
@@ -493,7 +493,7 @@
     "id": 36,
     "kategori": "donanim",
     "kelime": "indüktör",
-    "aciklama": "üzerinden akım geçtiğinde manyetik alan oluşturan ve akımdaki ani değişimlere direnç gösteren sargılı devre elemanı.",
+    "aciklama": "üzerinden akım geçtiğinde manyetik alan oluşturan ve devre elemanı.",
     "yasakli_kelimeler": [
       "bobin",
       "manyetik",
@@ -507,7 +507,7 @@
     "id": 37,
     "kategori": "donanim",
     "kelime": "diyot",
-    "aciklama": "elektrik akımının yalnızca tek bir yönde geçmesine izin veren, ters yönde akımı engelleyen yarı iletken devre parçası.",
+    "aciklama": "elektrik akımının yalnızca tek yönde geçmesine izin devre parçası.",
     "yasakli_kelimeler": [
       "tek yön",
       "geçiş",
@@ -521,7 +521,7 @@
     "id": 38,
     "kategori": "donanim",
     "kelime": "baskılı devre kartı",
-    "aciklama": "üzerinde bakır yollar ve lehim adacıkları barındıran, elektronik bileşenlerin fiziksel olarak monte edildiği levha.",
+    "aciklama": "üzerinde bakır yollar ve lehim adacıkları barındıran, edildiği levha.",
     "yasakli_kelimeler": [
       "bakır",
       "kart",
@@ -535,7 +535,7 @@
     "id": 39,
     "kategori": "donanim",
     "kelime": "lehimleme",
-    "aciklama": "eriyebilen düşük erime noktalı metal alaşımları kullanarak elektronik bileşenleri devre kartına kalıcı bağlama işlemi.",
+    "aciklama": "eriyebilen düşük erime noktalı metal alaşımları kullanarak bağlama işlemi.",
     "yasakli_kelimeler": [
       "havya",
       "alaşım",
@@ -549,7 +549,7 @@
     "id": 40,
     "kategori": "donanim",
     "kelime": "mikrodenetleyici",
-    "aciklama": "tek bir çip içerisinde işlemci çekirdeği, bellek ve programlanabilir giriş çıkış birimlerini barındıran minik bilgisayar.",
+    "aciklama": "tek çip içerisinde işlemci çekirdeği, bellek ve minik bilgisayar.",
     "yasakli_kelimeler": [
       "çip",
       "entegre",
@@ -563,7 +563,7 @@
     "id": 41,
     "kategori": "donanim",
     "kelime": "mikroişlemci",
-    "aciklama": "hesaplama ve komut işleme görevlerini yerine getiren fakat çalışabilmek için harici ram ve çevre birimlerine ihtiyaç duyan merkezi çip.",
+    "aciklama": "hesaplama ve komut işleme görevlerini yerine getiren merkezi çip.",
     "yasakli_kelimeler": [
       "işlemci",
       "hesaplama",
@@ -577,7 +577,7 @@
     "id": 42,
     "kategori": "donanim",
     "kelime": "fpga çipi",
-    "aciklama": "üretildikten sonra donanım tanımlama dilleriyle mantıksal mimarisi baştan programlanabilen entegre devre.",
+    "aciklama": "üretildikten sonra donanım tanımlama dilleriyle mantıksal mimarisi entegre devre.",
     "yasakli_kelimeler": [
       "kapı dizisi",
       "programlanabilir",
@@ -591,7 +591,7 @@
     "id": 43,
     "kategori": "donanim",
     "kelime": "asic çipi",
-    "aciklama": "yalnızca belirli bir algoritmik görevi en yüksek hız ve verimle yerine getirmek üzere üretilen özel silikon yonga.",
+    "aciklama": "yalnızca belirli algoritmik görevi en yüksek hız silikon yonga.",
     "yasakli_kelimeler": [
       "özel amaçlı",
       "madencilik",
@@ -605,7 +605,7 @@
     "id": 44,
     "kategori": "donanim",
     "kelime": "çip üzerinde sistem",
-    "aciklama": "işlemci, grafik birimi, bellek denetleyicisi ve kablosuz bağlantı modüllerini tek bir silikon yongada toplayan mimari.",
+    "aciklama": "işlemci, grafik birimi, bellek denetleyicisi ve kablosuz toplayan mimari.",
     "yasakli_kelimeler": [
       "tek çip",
       "mobil",
@@ -619,7 +619,7 @@
     "id": 45,
     "kategori": "donanim",
     "kelime": "dijital sinyal işlemcisi",
-    "aciklama": "ses ve görüntü gibi gerçek zamanlı analog kaynaklı sürekli sinyalleri matematiksel olarak işlemek için optimize edilmiş işlemci.",
+    "aciklama": "ses ve görüntü gibi gerçek zamanlı analog edilmiş işlemci.",
     "yasakli_kelimeler": [
       "ses",
       "sinyal",
@@ -633,7 +633,7 @@
     "id": 46,
     "kategori": "donanim",
     "kelime": "analog dijital dönüştürücü",
-    "aciklama": "fiziksel dünyadan gelen sürekli voltaj ve ses gibi analog sinyalleri ikili sayı sistemindeki dijital verilere çeviren donanım devresi.",
+    "aciklama": "fiziksel dünyadan gelen sürekli voltaj ve ses donanım devresi.",
     "yasakli_kelimeler": [
       "örnekleme",
       "dönüştürme",
@@ -647,7 +647,7 @@
     "id": 47,
     "kategori": "donanim",
     "kelime": "dijital analog dönüştürücü",
-    "aciklama": "sayısal ortamdaki ikili verileri hoparlör veya ekranda gösterilmek üzere sürekli analog elektrik sinyaline çeviren devre.",
+    "aciklama": "sayısal ortamdaki ikili verileri hoparlör veya ekranda çeviren devre.",
     "yasakli_kelimeler": [
       "çevirici",
       "ses",
@@ -661,7 +661,7 @@
     "id": 48,
     "kategori": "donanim",
     "kelime": "doğrudan bellek erişimi",
-    "aciklama": "donanım çevre birimlerinin işlemciyi meşgul etmeden sistem belleğine doğrudan veri yazıp okumasını sağlayan mimari.",
+    "aciklama": "donanım çevre birimlerinin işlemciyi meşgul etmeden sistem sağlayan mimari.",
     "yasakli_kelimeler": [
       "bellek",
       "erişim",
@@ -675,7 +675,7 @@
     "id": 49,
     "kategori": "donanim",
     "kelime": "kesme isteği",
-    "aciklama": "bir donanım biriminin işlemciye acil bir olayın gerçekleştiğini bildirerek mevcut işlemi durdurmasını sağlayan elektriksel sinyal.",
+    "aciklama": "donanım biriminin işlemciye acil olayın gerçekleştiğini bildirerek elektriksel sinyal.",
     "yasakli_kelimeler": [
       "durdurma",
       "sinyal",
@@ -689,7 +689,7 @@
     "id": 50,
     "kategori": "donanim",
     "kelime": "tensör işlem birimi",
-    "aciklama": "derin öğrenme ve yapay zeka modellerindeki yoğun matris çarpımlarını olağanüstü hızlandırmak için geliştirilen özelleşmiş donanım.",
+    "aciklama": "derin öğrenme ve yapay zeka modellerindeki yoğun özelleşmiş donanım.",
     "yasakli_kelimeler": [
       "yapay zeka",
       "matris",
@@ -703,7 +703,7 @@
     "id": 51,
     "kategori": "donanim",
     "kelime": "top ızgara dizilimi",
-    "aciklama": "entegre devrenin altına küçük lehim küreleri dizilerek baskılı devre kartına yüzey montajla kalıcı sabitlenmesi yöntemi.",
+    "aciklama": "entegre devrenin altına küçük lehim küreleri dizilerek sabitlenmesi yöntemi.",
     "yasakli_kelimeler": [
       "lehim",
       "küre",
@@ -717,7 +717,7 @@
     "id": 52,
     "kategori": "donanim",
     "kelime": "yüzey temas dizilimi",
-    "aciklama": "pinlerin işlemcinin kendisinde değil doğrudan anakart yuvasında bulunduğu soket bağlantı mimarisi.",
+    "aciklama": "pinlerin işlemcinin kendisinde değil doğrudan anakart yuvasında bağlantı mimarisi.",
     "yasakli_kelimeler": [
       "soket",
       "pin",
@@ -731,7 +731,7 @@
     "id": 53,
     "kategori": "donanim",
     "kelime": "iğne ızgara dizilimi",
-    "aciklama": "bağlantı iğnelerinin doğrudan işlemci çipinin tabanında yer aldığı geleneksel soket yapısı.",
+    "aciklama": "bağlantı iğnelerinin doğrudan işlemci çipinin tabanında yer soket yapısı.",
     "yasakli_kelimeler": [
       "iğne",
       "bacak",
@@ -745,7 +745,7 @@
     "id": 54,
     "kategori": "donanim",
     "kelime": "termal tasarım gücü",
-    "aciklama": "bir işlemcinin azami yük altındayken yaydığı ve soğutma sisteminin uzaklaştırması gereken ısı miktarını gösteren watt değeri.",
+    "aciklama": "işlemcinin azami yük altındayken yaydığı ve soğutma watt değeri.",
     "yasakli_kelimeler": [
       "watt",
       "ısı",
@@ -759,7 +759,7 @@
     "id": 55,
     "kategori": "donanim",
     "kelime": "silikon gofret",
-    "aciklama": "üzerine mikroçiplerin ve transistörlerin fotolitografi yöntemiyle üretildiği daire şeklindeki ince yarı iletken disk dilimi.",
+    "aciklama": "üzerine mikroçiplerin ve transistörlerin fotolitografi yöntemiyle üretildiği disk dilimi.",
     "yasakli_kelimeler": [
       "dilim",
       "yarı iletken",
@@ -773,7 +773,7 @@
     "id": 56,
     "kategori": "donanim",
     "kelime": "fotolitografi",
-    "aciklama": "ışık ve kimyasal maskeler kullanarak mikroskobik devre desenlerini silikon yüzey üzerine hassas şekilde işleme teknolojisi.",
+    "aciklama": "ışık ve kimyasal maskeler kullanarak mikroskobik devre işleme teknolojisi.",
     "yasakli_kelimeler": [
       "ışık",
       "desen",
@@ -787,7 +787,7 @@
     "id": 57,
     "kategori": "donanim",
     "kelime": "nanometre mimarisi",
-    "aciklama": "yarı iletken üretiminde transistörlerin boyutunu, yoğunluğunu ve enerji verimliliğini simgeleyen ölçü birimi.",
+    "aciklama": "yarı iletken üretiminde transistörlerin boyutunu, yoğunluğunu ve ölçü birimi.",
     "yasakli_kelimeler": [
       "boyut",
       "transistör",
@@ -801,7 +801,7 @@
     "id": 58,
     "kategori": "donanim",
     "kelime": "finfet",
-    "aciklama": "akım sızıntısını önlemek ve performansı artırmak için transistör kanalının üç boyutlu ince bir yüzgeç şeklinde tasarlandığı mimari.",
+    "aciklama": "akım sızıntısını önlemek ve performansı artırmak için tasarlandığı mimari.",
     "yasakli_kelimeler": [
       "yüzgeç",
       "üç boyutlu",
@@ -815,7 +815,7 @@
     "id": 59,
     "kategori": "donanim",
     "kelime": "gaafet transistör",
-    "aciklama": "kapı elektrodunun akım kanalını dört bir yandan sarmalayarak sızıntıyı önlediği ileri nanometre transistör mimarisi.",
+    "aciklama": "kapı elektrodunun akım kanalını dört yandan sarmalayarak transistör mimarisi.",
     "yasakli_kelimeler": [
       "kapı",
       "nanometre",
@@ -829,7 +829,7 @@
     "id": 60,
     "kategori": "donanim",
     "kelime": "form faktörü",
-    "aciklama": "anakart, kasa veya güç kaynaklarının fiziksel boyutlarını, montaj vida noktalarını ve yerleşim standartlarını tanımlayan terim.",
+    "aciklama": "anakart, kasa veya güç kaynaklarının fiziksel boyutlarını, tanımlayan terim.",
     "yasakli_kelimeler": [
       "boyut",
       "ölçü",
@@ -843,7 +843,7 @@
     "id": 61,
     "kategori": "donanim",
     "kelime": "atx",
-    "aciklama": "masaüstü bilgisayarlarda en yaygın kullanılan standart anakart ve güç kaynağı boyut standardı.",
+    "aciklama": "masaüstü bilgisayarlarda en yaygın kullanılan standart anakart boyut standardı.",
     "yasakli_kelimeler": [
       "anakart",
       "kasa",
@@ -857,7 +857,7 @@
     "id": 62,
     "kategori": "donanim",
     "kelime": "mini-itx",
-    "aciklama": "küçük boyutlu kompakt sistemler inşa etmek için kullanılan on yediye on yedi santimetre ebatlarındaki anakart biçimi.",
+    "aciklama": "küçük boyutlu kompakt sistemler inşa etmek için anakart biçimi.",
     "yasakli_kelimeler": [
       "küçük",
       "kompakt",
@@ -871,7 +871,7 @@
     "id": 63,
     "kategori": "donanim",
     "kelime": "displayport",
-    "aciklama": "yüksek yenileme hızları ve çoklu monitör desteği sunan, bilgisayardan monitöre görüntü ve ses ileten dijital arabirim.",
+    "aciklama": "yüksek yenileme hızları ve çoklu monitör desteği dijital arabirim.",
     "yasakli_kelimeler": [
       "monitör",
       "görüntü",
@@ -885,7 +885,7 @@
     "id": 64,
     "kategori": "donanim",
     "kelime": "hdmi",
-    "aciklama": "televizyon, bilgisayar ve oyun konsolları arasında yüksek çözünürlüklü dijital ses ve video aktarımı sağlayan yaygın bağlantı standardı.",
+    "aciklama": "televizyon, bilgisayar ve oyun konsolları arasında yüksek bağlantı standardı.",
     "yasakli_kelimeler": [
       "televizyon",
       "kablo",
@@ -899,7 +899,7 @@
     "id": 65,
     "kategori": "donanim",
     "kelime": "thunderbolt",
-    "aciklama": "tek bir kablo üzerinden son derece yüksek veri aktarımı, görüntü çıkışı ve güç beslemesi sağlayan yüksek hızlı arabirim standardı.",
+    "aciklama": "tek kablo üzerinden yüksek veri aktarımı, görüntü arabirim standardı.",
     "yasakli_kelimeler": [
       "hızlı",
       "aktarım",
@@ -913,7 +913,7 @@
     "id": 66,
     "kategori": "donanim",
     "kelime": "usb tip-c",
-    "aciklama": "çift yönlü takılabilen simetrik konnektör yapısına sahip, hızlı veri ve yüksek güç iletimini destekleyen evrensel port tipi.",
+    "aciklama": "çift yönlü takılabilen simetrik konnektör yapısına sahip, port tipi.",
     "yasakli_kelimeler": [
       "çift yönlü",
       "konnektör",
@@ -927,7 +927,7 @@
     "id": 67,
     "kategori": "donanim",
     "kelime": "raid kontrolcüsü",
-    "aciklama": "birden fazla sabit diski veya ssd'yi performans veya veri yedekliliği amacıyla tek bir mantıksal birim olarak yöneten donanım.",
+    "aciklama": "birden fazla sabit diski veya ssd'yi performans yöneten donanım.",
     "yasakli_kelimeler": [
       "yedeklilik",
       "dizi",
@@ -941,7 +941,7 @@
     "id": 68,
     "kategori": "donanim",
     "kelime": "ağ bağdaştırıcısı",
-    "aciklama": "bilgisayarın ethernet kablosu veya kablosuz sinyaller aracılığıyla bir yerel ağa bağlanmasını sağlayan donanım kartı.",
+    "aciklama": "bilgisayarın ethernet kablosu veya kablosuz sinyaller ile donanım kartı.",
     "yasakli_kelimeler": [
       "ethernet",
       "kart",
@@ -955,7 +955,7 @@
     "id": 69,
     "kategori": "donanim",
     "kelime": "donanım hızlandırma",
-    "aciklama": "yazılımsal olarak işlemciye yük bindirecek bazı ağır görevlerin özel tasarlanmış yardımcı donanım birimlerine devredilmesi.",
+    "aciklama": "yazılımsal olarak işlemciye yük bindirecek bazı ağır birimlerine devredilmesi.",
     "yasakli_kelimeler": [
       "işlemci",
       "yük",
@@ -969,7 +969,7 @@
     "id": 70,
     "kategori": "donanim",
     "kelime": "jtag arayüzü",
-    "aciklama": "baskılı devre kartlarındaki mikroçipleri test etmek, donanım hata ayıklaması yapmak ve yazılım yüklemek için kullanılan port.",
+    "aciklama": "baskılı devre kartlarındaki mikroçipleri test etmek, donanım için port.",
     "yasakli_kelimeler": [
       "hata ayıklama",
       "test",
@@ -983,7 +983,7 @@
     "id": 71,
     "kategori": "donanim",
     "kelime": "spi arayüzü",
-    "aciklama": "mikrodenetleyiciler ile çevresel birimler arasında tam çift yönlü ve hızlı veri aktaran seri haberleşme protokolü.",
+    "aciklama": "mikrodenetleyiciler ile çevresel birimler arasında çift yönlü haberleşme protokolü.",
     "yasakli_kelimeler": [
       "seri haberleşme",
       "mikrodenetleyici",
@@ -997,7 +997,7 @@
     "id": 72,
     "kategori": "donanim",
     "kelime": "i2c arayüzü",
-    "aciklama": "sadece iki hat üzerinden birden fazla entegre devrenin birbiriyle haberleşmesini sağlayan seri iletişim protokolü.",
+    "aciklama": "sadece iki hat üzerinden birden fazla entegre iletişim protokolü.",
     "yasakli_kelimeler": [
       "iki hat",
       "iletişim",
@@ -1011,7 +1011,7 @@
     "id": 73,
     "kategori": "donanim",
     "kelime": "uart arayüzü",
-    "aciklama": "eşzamansız seri iletişimi mümkün kılan, saat sinyali olmadan veri alıp gönderen temel donanım devresi.",
+    "aciklama": "eşzamansız seri iletişimi mümkün kılan, saat sinyali donanım devresi.",
     "yasakli_kelimeler": [
       "eşzamansız",
       "seri",
@@ -1025,7 +1025,7 @@
     "id": 74,
     "kategori": "donanim",
     "kelime": "kristal osilatör",
-    "aciklama": "kuvars kristalinin piezoelektrik özelliğini kullanarak bilgisayarın tüm bileşenleri için kararlı bir saat darbesi üreten bileşen.",
+    "aciklama": "kuvars kristalinin piezoelektrik özelliğini kullanarak bilgisayarın bileşenleri üreten bileşen.",
     "yasakli_kelimeler": [
       "kuvars",
       "saat",
@@ -1039,7 +1039,7 @@
     "id": 75,
     "kategori": "donanim",
     "kelime": "eeprom",
-    "aciklama": "üzerindeki verilerin elektriksel voltajla bayt bayt silinip yeniden yazılmasına olanak tanıyan kalıcı bellek çipi.",
+    "aciklama": "üzerindeki verilerin elektriksel voltajla bayt silinip bellek çipi.",
     "yasakli_kelimeler": [
       "silinebilir",
       "elektriksel",
@@ -1053,7 +1053,7 @@
     "id": 76,
     "kategori": "donanim",
     "kelime": "flaş bellek",
-    "aciklama": "bloklar halinde elektriksel olarak silinip programlanabilen, taşınabilir belleklerde ve katı hal sürücülerinde kullanılan teknoloji.",
+    "aciklama": "bloklar halinde elektriksel olarak silinip programlanabilen, taşınabilir kullanılan teknoloji.",
     "yasakli_kelimeler": [
       "blok",
       "hücre",
@@ -1067,7 +1067,7 @@
     "id": 77,
     "kategori": "donanim",
     "kelime": "video belleği",
-    "aciklama": "ekran kartının işlediği görüntü karelerini ve üç boyutlu dokuları depolamak için ayrılmış ultra yüksek hızlı ram.",
+    "aciklama": "ekran kartının işlediği görüntü karelerini ve üç hızlı ram.",
     "yasakli_kelimeler": [
       "ekran kartı",
       "doku",
@@ -1081,7 +1081,7 @@
     "id": 78,
     "kategori": "donanim",
     "kelime": "hbm bellek",
-    "aciklama": "bellek katmanlarının dikey istiflenmesiyle elde edilen yüksek bant genişlikli yeni nesil grafik belleği.",
+    "aciklama": "bellek katmanlarının dikey istiflenmesiyle üretilen yüksek bant grafik belleği.",
     "yasakli_kelimeler": [
       "istifleme",
       "dikey",
@@ -1095,7 +1095,7 @@
     "id": 79,
     "kategori": "donanim",
     "kelime": "ışın izleme çekirdeği",
-    "aciklama": "üç boyutlu sahnelerdeki ışık ışınlarının ve yansımaların fiziksel hareketini gerçek zamanlı hesaplayan özel grafik donanım birimi.",
+    "aciklama": "üç boyutlu sahnelerdeki ışık ışınlarının ve yansımaların donanım birimi.",
     "yasakli_kelimeler": [
       "ışık",
       "yansıma",
@@ -1109,7 +1109,7 @@
     "id": 80,
     "kategori": "donanim",
     "kelime": "anahtarlamalı güç kaynağı",
-    "aciklama": "şebeke elektriğini yarı iletken anahtarlar ile yüksek frekansta açıp kapatarak yüksek verimle voltaj regüle eden güç ünitesi.",
+    "aciklama": "şebeke elektriğini yarı iletken anahtarlar ile yüksek güç ünitesi.",
     "yasakli_kelimeler": [
       "anahtarlama",
       "verimlilik",
@@ -1123,7 +1123,7 @@
     "id": 81,
     "kategori": "donanim",
     "kelime": "transformatör",
-    "aciklama": "elektromanyetik indüksiyon prensibiyle frekansı değiştirmeden alternatif akımın gerilim seviyesini yükselten veya alçaltan araç.",
+    "aciklama": "elektromanyetik indüksiyon prensibiyle frekansı değiştirmeden alternatif akımın alçaltan araç.",
     "yasakli_kelimeler": [
       "bobin",
       "indüksiyon",
@@ -1137,7 +1137,7 @@
     "id": 82,
     "kategori": "donanim",
     "kelime": "optokuplör",
-    "aciklama": "yüksek voltajlı devreler ile düşük voltajlı kontrol devreleri arasında elektriksel teması kesip sinyali ışıkla aktaran yalıtıcı.",
+    "aciklama": "yüksek voltajlı devreler ile düşük voltajlı kontrol aktaran yalıtıcı.",
     "yasakli_kelimeler": [
       "ışık",
       "yalıtım",
@@ -1151,7 +1151,7 @@
     "id": 83,
     "kategori": "donanim",
     "kelime": "röle",
-    "aciklama": "küçük bir akım uygulandığında elektromıknatıs yardımıyla yüksek akımlı başka bir elektrik devresini açıp kapatan anahtar.",
+    "aciklama": "küçük akım uygulandığında elektromıknatıs ile yüksek akımlı kapatan anahtar.",
     "yasakli_kelimeler": [
       "elektromıknatıs",
       "kontak",
@@ -1165,7 +1165,7 @@
     "id": 84,
     "kategori": "donanim",
     "kelime": "potansiyometre",
-    "aciklama": "üzerindeki döner mil veya sürgü sayesinde direnç değeri mekanik olarak ayarlanabilen üç uçlu değişken direnç elemanı.",
+    "aciklama": "üzerindeki döner mil veya sürgü sayesinde direnç elemanı.",
     "yasakli_kelimeler": [
       "değişken",
       "direnç",
@@ -1179,7 +1179,7 @@
     "id": 85,
     "kategori": "donanim",
     "kelime": "zener diyot",
-    "aciklama": "ters kutuplandığında belirli bir kırılma voltajına ulaşıldığında akımı geçirerek voltajı sabit tutan regülatör diyot.",
+    "aciklama": "ters kutuplandığında belirli kırılma voltajına ulaşıldığında akımı regülatör diyot.",
     "yasakli_kelimeler": [
       "kırılma",
       "ters gerilim",
@@ -1193,7 +1193,7 @@
     "id": 86,
     "kategori": "donanim",
     "kelime": "schottky diyot",
-    "aciklama": "düşük ileri yön gerilim düşümüne ve son derece hızlı anahtarlama süresine sahip metal yarı iletken eklemli diyot.",
+    "aciklama": "düşük ileri yön gerilim düşümüne ve hızlı eklemli diyot.",
     "yasakli_kelimeler": [
       "hızlı",
       "gerilim düşümü",
@@ -1207,7 +1207,7 @@
     "id": 87,
     "kategori": "donanim",
     "kelime": "mantık kapısı",
-    "aciklama": "ve, veya, değil gibi boolean cebiri işlemlerini elektriksel seviyelerle gerçekleştiren dijital elektroniğin temel hücresi.",
+    "aciklama": "ve, veya, değil gibi boolean cebiri işlemlerini temel hücresi.",
     "yasakli_kelimeler": [
       "boolean",
       "ve",
@@ -1221,7 +1221,7 @@
     "id": 88,
     "kategori": "donanim",
     "kelime": "flip-flop devresi",
-    "aciklama": "iki kararlı durumu olan ve bir bitlik veriyi elektrik kesilene kadar hafızasında saklayabilen temel dijital bellek devresi.",
+    "aciklama": "iki kararlı durumu olan ve bitlik veriyi bellek devresi.",
     "yasakli_kelimeler": [
       "kararlı",
       "bir bit",
@@ -1235,7 +1235,7 @@
     "id": 89,
     "kategori": "donanim",
     "kelime": "çoğullayıcı",
-    "aciklama": "birden fazla analog veya dijital giriş hattından birini kontrol sinyallerine göre seçip tek bir çıkış hattına ileten devre.",
+    "aciklama": "birden fazla analog veya dijital giriş hattından ileten devre.",
     "yasakli_kelimeler": [
       "seçici",
       "kanal",
@@ -1249,7 +1249,7 @@
     "id": 90,
     "kategori": "donanim",
     "kelime": "kaydırmalı kaydedici",
-    "aciklama": "saat darbeleriyle içerisindeki bitleri sırayla bir sonraki konuma kaydıran ardışık flip-flop dizisi.",
+    "aciklama": "saat darbeleriyle içerisindeki bitleri sırayla sonraki konuma flip-flop dizisi.",
     "yasakli_kelimeler": [
       "kaydırma",
       "bit",
@@ -1263,7 +1263,7 @@
     "id": 91,
     "kategori": "donanim",
     "kelime": "termal kısma",
-    "aciklama": "işlemcinin aşırı ısınıp kalıcı hasar görmesini engellemek için kendi saat frekansını ve voltajını otomatik olarak düşürmesi.",
+    "aciklama": "işlemcinin aşırı ısınıp kalıcı hasar görmesini engellemek otomatik düşürmesi.",
     "yasakli_kelimeler": [
       "ısınma",
       "yavaşlama",
@@ -1277,7 +1277,7 @@
     "id": 92,
     "kategori": "donanim",
     "kelime": "kesintisiz güç kaynağı",
-    "aciklama": "ana şebekede elektrik kesildiğinde bağlı cihazların kapanmaması için dahili aküsüyle elektrik sağlamaya devam eden sistem.",
+    "aciklama": "ana şebekede elektrik kesildiğinde bağlı cihazların kapanmaması eden sistem.",
     "yasakli_kelimeler": [
       "akü",
       "elektrik kesintisi",
@@ -1291,7 +1291,7 @@
     "id": 93,
     "kategori": "donanim",
     "kelime": "elektrostatik boşalma",
-    "aciklama": "farklı potansiyellere sahip iki cisim arasında aniden gerçekleşen ve hassas mikroçipleri yakabilen statik elektrik akımı.",
+    "aciklama": "farklı potansiyellere sahip iki cisim arasında aniden elektrik akımı.",
     "yasakli_kelimeler": [
       "statik",
       "kıvılcım",
@@ -1305,7 +1305,7 @@
     "id": 94,
     "kategori": "donanim",
     "kelime": "multimetre",
-    "aciklama": "elektronik devrelerde voltaj, akım, direnç ve kısa devre sürekliliğini ölçmek için kullanılan taşınabilir ölçü cihazı.",
+    "aciklama": "elektronik devrelerde voltaj, akım, direnç ve kısa ölçü cihazı.",
     "yasakli_kelimeler": [
       "ölçüm",
       "voltaj",
@@ -1319,7 +1319,7 @@
     "id": 95,
     "kategori": "donanim",
     "kelime": "osilaskop",
-    "aciklama": "elektriksel sinyallerin voltaj değişimlerini zamana bağlı grafik dalga formu şeklinde ekranda gösteren laboratuvar aleti.",
+    "aciklama": "elektriksel sinyallerin voltaj değişimlerini zamana bağlı grafik laboratuvar aleti.",
     "yasakli_kelimeler": [
       "dalga",
       "sinyal",
@@ -1333,7 +1333,7 @@
     "id": 96,
     "kategori": "donanim",
     "kelime": "breadboard",
-    "aciklama": "elektronik prototipler yaparken lehimleme gerektirmeden devre elemanlarını geçici olarak birbirine bağlayan delikli test tahtası.",
+    "aciklama": "elektronik prototipler yaparken lehimleme gerektirmeden devre elemanlarını test tahtası.",
     "yasakli_kelimeler": [
       "lehim",
       "delikli",
@@ -1347,7 +1347,7 @@
     "id": 97,
     "kategori": "donanim",
     "kelime": "termistör",
-    "aciklama": "sıcaklık değişimlerine bağlı olarak elektriksel direnci hassas bir biçimde değişen sıcaklığa duyarlı yarı iletken direnç.",
+    "aciklama": "sıcaklık değişimlerine bağlı olarak elektriksel direnci hassas iletken direnç.",
     "yasakli_kelimeler": [
       "sıcaklık",
       "sensör",
@@ -1361,7 +1361,7 @@
     "id": 98,
     "kategori": "donanim",
     "kelime": "gerilim bölücü",
-    "aciklama": "seri bağlı dirençler üzerinden istenilen daha düşük bir çıkış voltajı elde etmeye yarayan basit pasif devre tasarımı.",
+    "aciklama": "seri bağlı dirençler üzerinden istenilen daha düşük devre tasarımı.",
     "yasakli_kelimeler": [
       "seri",
       "oran",
@@ -1375,7 +1375,7 @@
     "id": 99,
     "kategori": "donanim",
     "kelime": "lazer diyot",
-    "aciklama": "uyarılan elektronların foton yaymasıyla uyumlu ve tek dalga boyunda yoğun ışık demeti üreten yarı iletken eleman.",
+    "aciklama": "uyarılan elektronların foton yaymasıyla uyumlu ve tek iletken eleman.",
     "yasakli_kelimeler": [
       "lazer",
       "foton",
@@ -1389,7 +1389,7 @@
     "id": 100,
     "kategori": "donanim",
     "kelime": "varistör",
-    "aciklama": "yüksek voltaj dalgalanmalarına ve yıldırım etkisine karşı direnç değerini düşürerek devreleri koruyan aşırı gerilim bastırıcı.",
+    "aciklama": "yüksek voltaj dalgalanmalarına ve yıldırım etkisine karşı gerilim bastırıcı.",
     "yasakli_kelimeler": [
       "aşırı gerilim",
       "koruma",
@@ -1403,7 +1403,7 @@
     "id": 101,
     "kategori": "donanim",
     "kelime": "klavye",
-    "aciklama": "üzerindeki harf, rakam ve fonksiyon tuşlarına basılarak bilgisayara metin ve komut girmeyi sağlayan temel aygıt.",
+    "aciklama": "üzerindeki harf, rakam ve fonksiyon tuşlarına basılarak temel aygıt.",
     "yasakli_kelimeler": [
       "tuş",
       "yazı yazma",
@@ -1417,7 +1417,7 @@
     "id": 102,
     "kategori": "donanim",
     "kelime": "optik fare",
-    "aciklama": "altındaki kırmızı veya kızılötesi led ışık ve kamera sensörüyle yüzeydeki hareketi algılayan işaretçi aygıtı.",
+    "aciklama": "altındaki kırmızı veya kızılötesi led ışık ve işaretçi aygıtı.",
     "yasakli_kelimeler": [
       "mouse",
       "led sensör",
@@ -1431,7 +1431,7 @@
     "id": 103,
     "kategori": "donanim",
     "kelime": "mekanik klavye",
-    "aciklama": "her tuşun altında bağımsız yaylı ve kontaklı mekanik anahtar barındıran hassas ve sesli klavye türü.",
+    "aciklama": "her tuşun altında bağımsız yaylı ve kontaklı klavye türü.",
     "yasakli_kelimeler": [
       "switch",
       "mavi anahtar",
@@ -1445,7 +1445,7 @@
     "id": 104,
     "kategori": "donanim",
     "kelime": "monitör",
-    "aciklama": "ekran kartından gelen video sinyallerini sıvı kristal veya organik piksellerle ekranda görüntüye dönüştüren aygıt.",
+    "aciklama": "ekran kartından gelen video sinyallerini sıvı kristal dönüştüren aygıt.",
     "yasakli_kelimeler": [
       "ekran",
       "piksel",
@@ -1459,7 +1459,7 @@
     "id": 105,
     "kategori": "donanim",
     "kelime": "yazıcı",
-    "aciklama": "bilgisayardaki metin, grafik ve fotoğrafları lazer toneri veya mürekkep püskürterek kağıda basan donanım.",
+    "aciklama": "bilgisayardaki metin, grafik ve fotoğrafları lazer toneri basan donanım.",
     "yasakli_kelimeler": [
       "kağıt baskı",
       "toner",
@@ -1473,7 +1473,7 @@
     "id": 106,
     "kategori": "donanim",
     "kelime": "tarayıcı",
-    "aciklama": "kağıt üzerindeki yazılı belgeleri ve fotoğrafları optik okuyucuyla tarayarak dijital görüntü dosyasına çeviren aygıt.",
+    "aciklama": "kağıt üzerindeki yazılı belgeleri ve fotoğrafları optik çeviren aygıt.",
     "yasakli_kelimeler": [
       "scanner",
       "optik okuma",
@@ -1487,7 +1487,7 @@
     "id": 107,
     "kategori": "donanim",
     "kelime": "kulaklık",
-    "aciklama": "ses sinyallerini doğrudan kulağa ileterek başkalarını rahatsız etmeden ses dinlemeyi sağlayan aygıt.",
+    "aciklama": "ses sinyallerini doğrudan kulağa ileterek başkalarını rahatsız sağlayan aygıt.",
     "yasakli_kelimeler": [
       "ses dinleme",
       "hoparlör",
@@ -1501,7 +1501,7 @@
     "id": 108,
     "kategori": "donanim",
     "kelime": "mikrofon",
-    "aciklama": "havadaki ses dalgalarını diyafram titreşimiyle elektriksel ses sinyallerine dönüştüren giriş donanımı.",
+    "aciklama": "havadaki ses dalgalarını diyafram titreşimiyle elektriksel ses giriş donanımı.",
     "yasakli_kelimeler": [
       "ses kaydı",
       "diyafram",
@@ -1515,7 +1515,7 @@
     "id": 109,
     "kategori": "donanim",
     "kelime": "hoparlör",
-    "aciklama": "ses kartından gelen elektriksel dalgaları manyetik bobin ve membran yardımıyla işitilebilir sese çeviren aygıt.",
+    "aciklama": "ses kartından gelen elektriksel dalgaları manyetik bobin çeviren aygıt.",
     "yasakli_kelimeler": [
       "ses çıkışı",
       "membran",
@@ -1529,7 +1529,7 @@
     "id": 110,
     "kategori": "donanim",
     "kelime": "web kamerası",
-    "aciklama": "monitörün üstüne takılarak görüntülü görüşme ve canlı yayınlarda canlı video akışı sağlayan küçük kamera.",
+    "aciklama": "monitörün üstüne takılarak görüntülü görüşme ve canlı küçük kamera.",
     "yasakli_kelimeler": [
       "görüntülü konuşma",
       "canlı yayın",
@@ -1543,7 +1543,7 @@
     "id": 111,
     "kategori": "donanim",
     "kelime": "çizim tableti",
-    "aciklama": "dijital çizerlerin basınca duyarlı özel kalemle ekranda serbest çizim yapmasını sağlayan donanım.",
+    "aciklama": "dijital çizerlerin basınca duyarlı özel kalemle ekranda sağlayan donanım.",
     "yasakli_kelimeler": [
       "grafik tablet",
       "dijital kalem",
@@ -1557,7 +1557,7 @@
     "id": 112,
     "kategori": "donanim",
     "kelime": "oyun kolu",
-    "aciklama": "bilgisayar ve konsol oyunlarında iki elle tutularak yön çubukları ve butonlarla kontrol sağlayan kumanda.",
+    "aciklama": "bilgisayar ve konsol oyunlarında iki elle tutularak sağlayan kumanda.",
     "yasakli_kelimeler": [
       "gamepad",
       "joystick",
@@ -1571,7 +1571,7 @@
     "id": 113,
     "kategori": "donanim",
     "kelime": "kesintisiz güç",
-    "aciklama": "elektrikler kesildiğinde içerisindeki akü devreye girerek bilgisayarın aniden kapanmasını önleyen cihaz.",
+    "aciklama": "elektrikler kesildiğinde içerisindeki akü devreye girerek bilgisayarın önleyen cihaz.",
     "yasakli_kelimeler": [
       "ups",
       "akü",
@@ -1585,7 +1585,7 @@
     "id": 114,
     "kategori": "donanim",
     "kelime": "harici disk",
-    "aciklama": "usb kablosuyla bilgisayara bağlanarak büyük boyutlu verileri taşımaya ve yedeklemeye yarayan taşınabilir disk.",
+    "aciklama": "usb kablosuyla bilgisayara bağlanarak büyük boyutlu verileri taşınabilir disk.",
     "yasakli_kelimeler": [
       "taşınabilir",
       "yedekleme",
@@ -1599,7 +1599,7 @@
     "id": 115,
     "kategori": "donanim",
     "kelime": "optik sürücü",
-    "aciklama": "lazer ışını kullanarak cd, dvd veya blu-ray disklerin üzerindeki verileri okuyan ve diske yazan donanım.",
+    "aciklama": "lazer ışını kullanarak cd, dvd veya blu-ray yazan donanım.",
     "yasakli_kelimeler": [
       "dvd yazıcı",
       "cd rom",
@@ -1613,7 +1613,7 @@
     "id": 116,
     "kategori": "donanim",
     "kelime": "ses kartı",
-    "aciklama": "anakart üzerindeki dijital ses verilerini analog hoparlör sinyaline dönüştüren dahili veya harici donanım.",
+    "aciklama": "anakart üzerindeki dijital ses verilerini analog hoparlör harici donanım.",
     "yasakli_kelimeler": [
       "dac",
       "kulaklık çıkışı",
@@ -1627,7 +1627,7 @@
     "id": 117,
     "kategori": "donanim",
     "kelime": "ağ anahtarı",
-    "aciklama": "yerel ağdaki bilgisayarları ve ağ cihazlarını ethernet kablolarıyla birbirine bağlayarak paket ileten cihaz.",
+    "aciklama": "yerel ağdaki bilgisayarları ve ağ cihazlarını ethernet ileten cihaz.",
     "yasakli_kelimeler": [
       "switch",
       "yerel ağ",
@@ -1641,7 +1641,7 @@
     "id": 118,
     "kategori": "donanim",
     "kelime": "yönlendirici",
-    "aciklama": "farklı ağlar arasındaki veri trafiğini en uygun rota üzerinden yönlendiren ve ip dağıtan ağ donanımı.",
+    "aciklama": "farklı ağlar arasındaki veri trafiğini en uygun ağ donanımı.",
     "yasakli_kelimeler": [
       "router",
       "ip yönlendirme",
@@ -1655,7 +1655,7 @@
     "id": 119,
     "kategori": "donanim",
     "kelime": "modem",
-    "aciklama": "internet servis sağlayıcıdan gelen analog sinyalleri bilgisayarın anlayacağı dijital sinyallere çeviren cihaz.",
+    "aciklama": "internet servis sağlayıcıdan gelen analog sinyalleri bilgisayarın çeviren cihaz.",
     "yasakli_kelimeler": [
       "modülasyon",
       "adsl fiber",
@@ -1669,7 +1669,7 @@
     "id": 120,
     "kategori": "donanim",
     "kelime": "erişim noktası",
-    "aciklama": "kablolu ağ sinyalini kablosuz wi-fi sinyaline dönüştürerek kapsama alanını genişleten kablosuz ağ cihazı.",
+    "aciklama": "kablolu ağ sinyalini kablosuz wi-fi sinyaline dönüştürerek ağ cihazı.",
     "yasakli_kelimeler": [
       "access point",
       "kablosuz ağ",
@@ -1683,7 +1683,7 @@
     "id": 121,
     "kategori": "donanim",
     "kelime": "bilgisayar kasası",
-    "aciklama": "anakart, ekran kartı, güç kaynağı ve diskler gibi tüm iç donanımları bir arada tutan ve koruyan metal gövde.",
+    "aciklama": "anakart, ekran kartı, güç kaynağı ve diskler metal gövde.",
     "yasakli_kelimeler": [
       "kasa gövdesi",
       "metal kutu",
@@ -1697,7 +1697,7 @@
     "id": 122,
     "kategori": "donanim",
     "kelime": "kasa fanı",
-    "aciklama": "kasa içine taze soğuk hava çekerek veya içerideki sıcak havayı dışarı üfleyerek hava akışı sağlayan pervane.",
+    "aciklama": "kasa içine taze soğuk hava çekerek veya sağlayan pervane.",
     "yasakli_kelimeler": [
       "pervane",
       "hava akışı",
@@ -1711,7 +1711,7 @@
     "id": 123,
     "kategori": "donanim",
     "kelime": "işlemci soğutucusu",
-    "aciklama": "çalışırken yüksek ısı üreten işlemcinin üzerine monte edilerek sıcaklığı uzaklaştıran alüminyum ve bakır blok.",
+    "aciklama": "çalışırken yüksek ısı üreten işlemcinin üzerine monte bakır blok.",
     "yasakli_kelimeler": [
       "cpu soğutucu",
       "ısı bloğu",
@@ -1725,7 +1725,7 @@
     "id": 124,
     "kategori": "donanim",
     "kelime": "kule soğutucu",
-    "aciklama": "birden çok bakır ısı borusunun dik alüminyum yapraklara bağlandığı yüksek kule tipi hava soğutucu.",
+    "aciklama": "birden çok bakır ısı borusunun dik alüminyum hava soğutucu.",
     "yasakli_kelimeler": [
       "kule tipi",
       "bakır borular",
@@ -1739,7 +1739,7 @@
     "id": 125,
     "kategori": "donanim",
     "kelime": "radyatör",
-    "aciklama": "sıvı soğutma sisteminde sıcak suyun içinden geçerken fanlar yardımıyla ısısını havaya verdiği petekli parça.",
+    "aciklama": "sıvı soğutma sisteminde sıcak suyun içinden geçerken petekli parça.",
     "yasakli_kelimeler": [
       "sıvı soğutma peteği",
       "alüminyum petek",
@@ -1753,7 +1753,7 @@
     "id": 126,
     "kategori": "donanim",
     "kelime": "su pompası",
-    "aciklama": "kapalı devre sıvı soğutmada soğutma sıvısını işlemci bloğu ile radyatör arasında durmaksızın dolaştıran motor.",
+    "aciklama": "kapalı devre sıvı soğutmada soğutma sıvısını işlemci dolaştıran motor.",
     "yasakli_kelimeler": [
       "sıvı devirdaim",
       "pompa motoru",
@@ -1767,7 +1767,7 @@
     "id": 127,
     "kategori": "donanim",
     "kelime": "modüler güç",
-    "aciklama": "yalnızca ihtiyaç duyulan kabloların takılıp çıkarılabildiği, gereksiz kablo karmaşasını önleyen güç kaynağı tipi.",
+    "aciklama": "yalnızca ihtiyaç duyulan kabloların takılıp çıkarılabildiği, gereksiz kaynağı tipi.",
     "yasakli_kelimeler": [
       "sökülebilir kablo",
       "kablo karmaşası",
@@ -1781,7 +1781,7 @@
     "id": 128,
     "kategori": "donanim",
     "kelime": "toz filtresi",
-    "aciklama": "kasa fanlarının önünde yer alarak ortamdaki tozların bilgisayarın hassas devrelerine girmesini engelleyen ızgara.",
+    "aciklama": "kasa fanlarının önünde yer alarak ortamdaki tozların engelleyen ızgara.",
     "yasakli_kelimeler": [
       "manyetik ızgara",
       "toz tutucu",
@@ -1795,7 +1795,7 @@
     "id": 129,
     "kategori": "donanim",
     "kelime": "fan kontrolcüsü",
-    "aciklama": "kasa fanlarının dönüş hızlarını sıcaklığa göre otomatik veya manuel olarak ayarlayan kontrol kartı.",
+    "aciklama": "kasa fanlarının dönüş hızlarını sıcaklığa göre otomatik kontrol kartı.",
     "yasakli_kelimeler": [
       "rpm ayarı",
       "hız kontrolü",
@@ -1809,7 +1809,7 @@
     "id": 130,
     "kategori": "donanim",
     "kelime": "kablo yönetimi",
-    "aciklama": "kasa içindeki güç ve veri kablolarının hava akışını engellemeyecek şekilde anakart arkasına gizlenmesi.",
+    "aciklama": "kasa içindeki güç ve veri kablolarının hava arkasına gizlenmesi.",
     "yasakli_kelimeler": [
       "kablo gizleme",
       "arka panel",
@@ -1823,7 +1823,7 @@
     "id": 131,
     "kategori": "donanim",
     "kelime": "genişleme yuvası",
-    "aciklama": "anakart üzerine ekran kartı, ses kartı veya ağ kartı gibi ek donanımların takıldığı soket yarığı.",
+    "aciklama": "anakart üzerine ekran kartı, ses kartı veya soket yarığı.",
     "yasakli_kelimeler": [
       "slot",
       "ek kart yuvası",
@@ -1837,7 +1837,7 @@
     "id": 132,
     "kategori": "donanim",
     "kelime": "arka plaka",
-    "aciklama": "ekran kartının veya anakartın arkasındaki eğilmeyi önleyen ve ısı dağıtan koruyucu metal plaka.",
+    "aciklama": "ekran kartının veya anakartın arkasındaki eğilmeyi önleyen metal plaka.",
     "yasakli_kelimeler": [
       "backplate",
       "metal levha",
@@ -1851,7 +1851,7 @@
     "id": 133,
     "kategori": "donanim",
     "kelime": "ram yuvası",
-    "aciklama": "anakart üzerinde bellek modüllerinin mandallarla kilitlenerek oturtulduğu dar uzun temas yuvası.",
+    "aciklama": "anakart üzerinde bellek modüllerinin mandallarla kilitlenerek oturtulduğu temas yuvası.",
     "yasakli_kelimeler": [
       "dimm yuvası",
       "bellek soketi",
@@ -1865,7 +1865,7 @@
     "id": 134,
     "kategori": "donanim",
     "kelime": "sata kablosu",
-    "aciklama": "sabit diskler ve katı hal sürücüleri ile anakart arasında yüksek hızlı veri iletişimini sağlayan yassı kablo.",
+    "aciklama": "sabit diskler ve katı hal sürücüleri ile yassı kablo.",
     "yasakli_kelimeler": [
       "veri kablosu",
       "sürücü bağlantısı",
@@ -1879,7 +1879,7 @@
     "id": 135,
     "kategori": "donanim",
     "kelime": "güç kablosu",
-    "aciklama": "elektrik prizinden güç kaynağına veya güç kaynağından donanım parçalarına elektrik akımı taşıyan kalın hat.",
+    "aciklama": "elektrik prizinden güç kaynağına veya güç kaynağından kalın hat.",
     "yasakli_kelimeler": [
       "elektrik hattı",
       "power kablosu",
@@ -1893,7 +1893,7 @@
     "id": 136,
     "kategori": "donanim",
     "kelime": "termal ped",
-    "aciklama": "katı hal sürücüleri veya ekran kartı belleklerinin üzerine yapıştırılarak ısıyı soğutucuya ileten yumuşak silikon parça.",
+    "aciklama": "katı hal sürücüleri veya ekran kartı belleklerinin silikon parça.",
     "yasakli_kelimeler": [
       "silikon ped",
       "ısı iletimi",
@@ -1907,7 +1907,7 @@
     "id": 137,
     "kategori": "donanim",
     "kelime": "koruyucu kapak",
-    "aciklama": "kullanılmayan portları veya işlemci pin yuvasını toz ve darbelerden korumak için takılan plastik kapak.",
+    "aciklama": "kullanılmayan portları veya işlemci pin yuvasını toz plastik kapak.",
     "yasakli_kelimeler": [
       "toz kapağı",
       "soket koruyucu",
@@ -1921,7 +1921,7 @@
     "id": 138,
     "kategori": "donanim",
     "kelime": "güç düğmesi",
-    "aciklama": "bilgisayar kasasının ön panelinde yer alan ve basıldığında anakarta açılma sinyali gönderen basmalı buton.",
+    "aciklama": "bilgisayar kasasının ön panelinde basıldığında anakarta açılma basmalı buton.",
     "yasakli_kelimeler": [
       "power tuşu",
       "açma kapama",
@@ -1935,7 +1935,7 @@
     "id": 139,
     "kategori": "donanim",
     "kelime": "reset düğmesi",
-    "aciklama": "bilgisayar donduğunda veya kilitlendiğinde elektriği kesmeden sistemi anında yeniden başlatan küçük buton.",
+    "aciklama": "bilgisayar donduğunda veya kilitlendiğinde elektriği kesmeden sistemi küçük buton.",
     "yasakli_kelimeler": [
       "yeniden başlatma",
       "kilitlenme",
@@ -1949,7 +1949,7 @@
     "id": 140,
     "kategori": "donanim",
     "kelime": "durum ledi",
-    "aciklama": "bilgisayarın açık olduğunu veya sabit diskin o anda veri okuyup yazdığını yanıp sönerek gösteren küçük ışık.",
+    "aciklama": "bilgisayarın açık olduğunu veya sabit diskin o küçük ışık.",
     "yasakli_kelimeler": [
       "gösterge ışığı",
       "hdd ledi",
@@ -1963,7 +1963,7 @@
     "id": 141,
     "kategori": "donanim",
     "kelime": "manyetik disk",
-    "aciklama": "verileri mikroskobik mıknatıslanma yöntemiyle dönen metal plakalar üzerine yazan geleneksel depolama ortamı.",
+    "aciklama": "verileri mikroskobik mıknatıslanma yöntemiyle dönen metal plakalar depolama ortamı.",
     "yasakli_kelimeler": [
       "plaka",
       "mıknatıslanma",
@@ -1977,7 +1977,7 @@
     "id": 142,
     "kategori": "donanim",
     "kelime": "hibrit sürücü",
-    "aciklama": "geleneksel manyetik diskin kapasitesi ile küçük bir flaş belleğin hızını birleştiren hibrit depolama aygıtı.",
+    "aciklama": "geleneksel manyetik diskin kapasitesi ile küçük flaş depolama aygıtı.",
     "yasakli_kelimeler": [
       "sshd",
       "flaş önbellek",
@@ -1991,7 +1991,7 @@
     "id": 143,
     "kategori": "donanim",
     "kelime": "hafıza kartı",
-    "aciklama": "fotoğraf makinelerinde, telefonlarda ve el konsollarında kullanılan tırnak büyüklüğündeki taşınabilir flaş kart.",
+    "aciklama": "fotoğraf makinelerinde, telefonlarda ve el konsollarında kullanılan flaş kart.",
     "yasakli_kelimeler": [
       "sd kart",
       "micro sd",
@@ -2005,7 +2005,7 @@
     "id": 144,
     "kategori": "donanim",
     "kelime": "kart okuyucu",
-    "aciklama": "farklı tiplerdeki hafıza kartlarını bilgisayarın usb portuna takarak içindeki verilere erişim sağlayan aparat.",
+    "aciklama": "farklı tiplerdeki hafıza kartlarını bilgisayarın usb portuna sağlayan aparat.",
     "yasakli_kelimeler": [
       "sd kart yuvası",
       "usb kart okuyucu",
@@ -2019,7 +2019,7 @@
     "id": 145,
     "kategori": "donanim",
     "kelime": "usb çoklayıcı",
-    "aciklama": "tek bir usb çıkışını dörde veya sekize bölerek aynı anda birden çok aygıtın bağlanmasını sağlayan köprü cihaz.",
+    "aciklama": "tek usb çıkışını dörde veya sekize bölerek köprü cihaz.",
     "yasakli_kelimeler": [
       "usb hub",
       "port çoğaltıcı",
@@ -2033,7 +2033,7 @@
     "id": 146,
     "kategori": "donanim",
     "kelime": "optik kablo",
-    "aciklama": "dijital ses verilerini elektrik yerine ışık dalgalarıyla kayıpsız ve parazitsiz ileten cam lifli kablo.",
+    "aciklama": "dijital ses verilerini elektrik yerine ışık dalgalarıyla lifli kablo.",
     "yasakli_kelimeler": [
       "toslink",
       "ışıkla iletim",
@@ -2047,7 +2047,7 @@
     "id": 147,
     "kategori": "donanim",
     "kelime": "ethernet kablosu",
-    "aciklama": "modem veya ağ anahtarı ile bilgisayar arasında yerel ağ üzerinden kablolu internet sağlayan sekiz telli hat.",
+    "aciklama": "modem veya ağ anahtarı ile bilgisayar arasında telli hat.",
     "yasakli_kelimeler": [
       "cat6",
       "rj45",
@@ -2061,7 +2061,7 @@
     "id": 148,
     "kategori": "donanim",
     "kelime": "vga kablosu",
-    "aciklama": "eski nesil monitörlere analog video sinyali taşımak için kullanılan on beş pinli mavi uçlu kablo.",
+    "aciklama": "eski nesil monitörlere analog video sinyali taşıyan uçlu kablo.",
     "yasakli_kelimeler": [
       "mavi kablo",
       "analog görüntü",
@@ -2075,7 +2075,7 @@
     "id": 149,
     "kategori": "donanim",
     "kelime": "dvi portu",
-    "aciklama": "dijital ve analog video sinyallerini yüksek çözünürlükle monitöre aktarmak için geliştirilmiş geniş soket.",
+    "aciklama": "dijital ve analog video sinyallerini yüksek çözünürlükle geniş soket.",
     "yasakli_kelimeler": [
       "dijital video çıkışı",
       "beyaz soket",
@@ -2089,7 +2089,7 @@
     "id": 150,
     "kategori": "donanim",
     "kelime": "ses jakı",
-    "aciklama": "kulaklık ve mikrofonları ses kartına bağlayan üç buçuk milimetrelik standart yuvarlak metal uç ve yuvası.",
+    "aciklama": "kulaklık ve mikrofonları ses kartına bağlayan üç ve yuvası.",
     "yasakli_kelimeler": [
       "üç buçuk milim",
       "aux girişi",
@@ -2103,7 +2103,7 @@
     "id": 151,
     "kategori": "donanim",
     "kelime": "paralel port",
-    "aciklama": "eski nesil yazıcıların bilgisayara bağlanmasında kullanılan, aynı anda sekiz bit veri ileten geniş pembe port.",
+    "aciklama": "eski nesil yazıcıların bilgisayara bağlanmasında kullanılan, aynı pembe port.",
     "yasakli_kelimeler": [
       "lpt portu",
       "eski yazıcı girişi",
@@ -2117,7 +2117,7 @@
     "id": 152,
     "kategori": "donanim",
     "kelime": "seri port",
-    "aciklama": "verileri tek bir hat üzerinden arka arkaya bit bit aktaran eski tip dokuz pinli donanım arayüzü.",
+    "aciklama": "verileri tek hat üzerinden arka arkaya bit donanım arayüzü.",
     "yasakli_kelimeler": [
       "com portu",
       "dokuz pin",
@@ -2131,7 +2131,7 @@
     "id": 153,
     "kategori": "donanim",
     "kelime": "ps2 portu",
-    "aciklama": "usb öncesinde klavye için mor, fare için yeşil renkte kullanılan altı pinli yuvarlak giriş soketi.",
+    "aciklama": "usb öncesinde klavye için mor, fare için giriş soketi.",
     "yasakli_kelimeler": [
       "mor yeşil",
       "yuvarlak soket",
@@ -2145,7 +2145,7 @@
     "id": 154,
     "kategori": "donanim",
     "kelime": "firewire",
-    "aciklama": "özellikle dijital video kameralardan bilgisayara yüksek hızda görüntü aktarmak için geliştirilmiş arayüz.",
+    "aciklama": "dijital video kameralardan bilgisayara yüksek hızda görüntü geliştirilmiş arayüz.",
     "yasakli_kelimeler": [
       "ieee 1394",
       "kamera aktarımı",
@@ -2159,7 +2159,7 @@
     "id": 155,
     "kategori": "donanim",
     "kelime": "mikrofon girişi",
-    "aciklama": "ses kartında genellikle pembe renkle kodlanan ve mikrofon kablosunun takıldığı analog giriş jakı.",
+    "aciklama": "ses kartında pembe renkle kodlanan ve mikrofon giriş jakı.",
     "yasakli_kelimeler": [
       "pembe jak",
       "ses girişi",
@@ -2173,7 +2173,7 @@
     "id": 156,
     "kategori": "donanim",
     "kelime": "kulaklık çıkışı",
-    "aciklama": "bilgisayarın ürettiği stereo sesi kulaklığa veren yeşil renkli standart üç buçuk milimetrelik soket.",
+    "aciklama": "bilgisayarın ürettiği stereo sesi kulaklığa veren yeşil milimetrelik soket.",
     "yasakli_kelimeler": [
       "yeşil jak",
       "line out",
@@ -2187,7 +2187,7 @@
     "id": 157,
     "kategori": "donanim",
     "kelime": "fare altlığı",
-    "aciklama": "farenin altındaki optik sensörün ışığını düzgün yansıtarak imlecin pürüzsüz kaymasını sağlayan zemin pedi.",
+    "aciklama": "farenin altındaki optik sensörün ışığını düzgün yansıtarak zemin pedi.",
     "yasakli_kelimeler": [
       "mousepad",
       "kaydırma pedi",
@@ -2201,7 +2201,7 @@
     "id": 158,
     "kategori": "donanim",
     "kelime": "harici sürücü",
-    "aciklama": "bilgisayar kasası dışında masaüstünde duran ve usb ya da thunderbolt ile veri depolayan harici kasa.",
+    "aciklama": "bilgisayar kasası dışında masaüstünde duran ve usb harici kasa.",
     "yasakli_kelimeler": [
       "dış disk",
       "masaüstü yedekleme",
@@ -2215,7 +2215,7 @@
     "id": 159,
     "kategori": "donanim",
     "kelime": "pci yuvası",
-    "aciklama": "anakart üzerinde eski tip ses, tv veya ethernet genişleme kartlarının takıldığı beyaz renkli standart yuva.",
+    "aciklama": "anakart üzerinde eski tip ses, tv veya standart yuva.",
     "yasakli_kelimeler": [
       "beyaz yuva",
       "eski genişleme",
@@ -2229,7 +2229,7 @@
     "id": 160,
     "kategori": "donanim",
     "kelime": "m2 yuvası",
-    "aciklama": "yüksek hızlı katı hal sürücülerinin doğrudan anakarta kablosuz ve yatay olarak vidalandığı küçük soket.",
+    "aciklama": "yüksek hızlı katı hal sürücülerinin doğrudan anakarta küçük soket.",
     "yasakli_kelimeler": [
       "nvme yuvası",
       "hızlı ssd girişi",
@@ -2243,7 +2243,7 @@
     "id": 161,
     "kategori": "donanim",
     "kelime": "entegre devre",
-    "aciklama": "milyonlarca transistör, direnç ve diyotun tek bir silikon yonga üzerine sığdırıldığı minyatür elektronik devre.",
+    "aciklama": "milyonlarca transistör, direnç ve diyotun tek silikon elektronik devre.",
     "yasakli_kelimeler": [
       "çip",
       "tümleşik devre",
@@ -2257,7 +2257,7 @@
     "id": 162,
     "kategori": "donanim",
     "kelime": "mikroçip",
-    "aciklama": "elektronik cihazların beynini oluşturan, karmaşık mantıksal hesaplamaları yürüten yarı iletken pul.",
+    "aciklama": "elektronik cihazların beynini oluşturan, karmaşık mantıksal hesaplamaları iletken pul.",
     "yasakli_kelimeler": [
       "yonga",
       "yarı iletken",
@@ -2271,7 +2271,7 @@
     "id": 163,
     "kategori": "donanim",
     "kelime": "lehim teli",
-    "aciklama": "elektronik bileşenlerin bacaklarını devre kartına kalıcı olarak iletken biçimde yapıştıran kalay kurşun alaşımı tel.",
+    "aciklama": "elektronik bileşenlerin bacaklarını devre kartına kalıcı olarak alaşımı tel.",
     "yasakli_kelimeler": [
       "kalay kurşun",
       "eritme teli",
@@ -2285,7 +2285,7 @@
     "id": 164,
     "kategori": "donanim",
     "kelime": "havya",
-    "aciklama": "elektrik akımıyla ucu üç yüz kırk dereceye kadar ısınarak lehim telini eriten kalem biçimli el aleti.",
+    "aciklama": "elektrik akımıyla ucu üç yüz kırk dereceye el aleti.",
     "yasakli_kelimeler": [
       "ısıtıcı uç",
       "lehim aleti",
@@ -2299,7 +2299,7 @@
     "id": 165,
     "kategori": "donanim",
     "kelime": "lehim pastası",
-    "aciklama": "lehimleme sırasında yüzeydeki oksitlenmeyi temizleyerek erimiş lehimin pürüzsüz akmasını sağlayan kimyasal krem.",
+    "aciklama": "lehimleme sırasında yüzeydeki oksitlenmeyi temizleyerek erimiş lehimin kimyasal krem.",
     "yasakli_kelimeler": [
       "pasta",
       "flaks",
@@ -2313,7 +2313,7 @@
     "id": 166,
     "kategori": "donanim",
     "kelime": "bakır yol",
-    "aciklama": "baskılı devre kartının yüzeyinde bileşenler arasında elektrik akımını ve sinyalleri ileten ince bakır çizgiler.",
+    "aciklama": "baskılı devre kartının yüzeyinde bileşenler arasında elektrik bakır çizgiler.",
     "yasakli_kelimeler": [
       "devre çizgisi",
       "iletken hat",
@@ -2327,7 +2327,7 @@
     "id": 167,
     "kategori": "donanim",
     "kelime": "devre elemanı",
-    "aciklama": "elektronik devrenin çalışmasını sağlayan direnç, kondansatör, diyot ve transistör gibi temel yapı taşları.",
+    "aciklama": "elektronik devrenin çalışmasını sağlayan direnç, kondansatör, diyot yapı taşları.",
     "yasakli_kelimeler": [
       "elektronik parça",
       "bileşen",
@@ -2341,7 +2341,7 @@
     "id": 168,
     "kategori": "donanim",
     "kelime": "lojik analizör",
-    "aciklama": "dijital devrelerdeki mantıksal bir ve sıfır sinyallerinin zamanlamasını yakalayıp ekranda analiz eden cihaz.",
+    "aciklama": "dijital devrelerdeki mantıksal ve sıfır sinyallerinin zamanlamasını eden cihaz.",
     "yasakli_kelimeler": [
       "bir sıfır",
       "dijital sinyal",
@@ -2355,7 +2355,7 @@
     "id": 169,
     "kategori": "donanim",
     "kelime": "sinyal üreteci",
-    "aciklama": "elektronik devrelerin test edilmesinde sinüs, kare veya üçgen biçimli elektriksel dalgalar üreten cihaz.",
+    "aciklama": "elektronik devrelerin test edilmesinde sinüs, kare veya üreten cihaz.",
     "yasakli_kelimeler": [
       "fonksiyon jeneratörü",
       "kare dalga",
@@ -2369,7 +2369,7 @@
     "id": 170,
     "kategori": "donanim",
     "kelime": "lojik kapı",
-    "aciklama": "boole mantığına göre girişine uygulanan dijital voltajları işleyip tek bir mantıksal çıkış veren temel devre.",
+    "aciklama": "boole mantığına göre girişine uygulanan dijital voltajları temel devre.",
     "yasakli_kelimeler": [
       "ve veya",
       "mantık kapısı",
@@ -2383,7 +2383,7 @@
     "id": 171,
     "kategori": "donanim",
     "kelime": "ve kapısı",
-    "aciklama": "tüm girişleri aynı anda yüksek mantıksal bir seviyesinde olduğunda çıkışı bir veren mantık devresi.",
+    "aciklama": "girişleri aynı anda yüksek mantıksal seviyesinde olduğunda mantık devresi.",
     "yasakli_kelimeler": [
       "and gate",
       "hepsi birken",
@@ -2397,7 +2397,7 @@
     "id": 172,
     "kategori": "donanim",
     "kelime": "veya kapısı",
-    "aciklama": "girişlerinden en az biri mantıksal bir olduğunda çıkışına bir sinyali üreten temel dijital kapı.",
+    "aciklama": "girişlerinden en az biri mantıksal olduğunda çıkışına dijital kapı.",
     "yasakli_kelimeler": [
       "or gate",
       "en az biri",
@@ -2411,7 +2411,7 @@
     "id": 173,
     "kategori": "donanim",
     "kelime": "değil kapısı",
-    "aciklama": "girişindeki mantıksal sinyali tam tersine çevirerek sıfırı bire, biri de sıfıra dönüştüren evirici devre.",
+    "aciklama": "girişindeki mantıksal sinyali tersine çevirerek sıfırı bire, evirici devre.",
     "yasakli_kelimeler": [
       "not gate",
       "evirici",
@@ -2425,7 +2425,7 @@
     "id": 174,
     "kategori": "donanim",
     "kelime": "nand kapısı",
-    "aciklama": "ve kapısının çıkışına bir değil kapısı eklenmesiyle oluşan ve flaş belleklerin temelini kuran evrensel kapı.",
+    "aciklama": "ve kapısının çıkışına değil kapısı eklenmesiyle oluşan evrensel kapı.",
     "yasakli_kelimeler": [
       "ve değil",
       "flaş bellek temeli",
@@ -2439,7 +2439,7 @@
     "id": 175,
     "kategori": "donanim",
     "kelime": "nor kapısı",
-    "aciklama": "veya kapısının çıkışının terslenmesiyle elde edilen ve sadece tüm girişler sıfırken bir çıkışı veren kapı.",
+    "aciklama": "veya kapısının çıkışının terslenmesiyle üretilen ve sadece veren kapı.",
     "yasakli_kelimeler": [
       "veya değil",
       "ters veya",
@@ -2453,7 +2453,7 @@
     "id": 176,
     "kategori": "donanim",
     "kelime": "xor kapısı",
-    "aciklama": "girişleri birbirinden farklı olduğunda çıkışı bir, girişleri aynı olduğunda çıkışı sıfır veren özel kapı.",
+    "aciklama": "girişleri birbirinden farklı olduğunda çıkışı , girişleri özel kapı.",
     "yasakli_kelimeler": [
       "özel veya",
       "farklıyken bir",
@@ -2467,7 +2467,7 @@
     "id": 177,
     "kategori": "donanim",
     "kelime": "buton",
-    "aciklama": "parmakla basıldığında devreyi tamamlayan veya kesen anlık yaylı mekanik anahtar elemanı.",
+    "aciklama": "parmakla basıldığında devreyi tamamlayan veya kesen anlık anahtar elemanı.",
     "yasakli_kelimeler": [
       "basmalı tuş",
       "yaylı anahtar",
@@ -2481,7 +2481,7 @@
     "id": 178,
     "kategori": "donanim",
     "kelime": "anahtar",
-    "aciklama": "elektrik devresindeki akımı istenildiğinde kesmeye veya başlatmaya yarayan iki konumlu mekanik eleman.",
+    "aciklama": "elektrik devresindeki akımı istenildiğinde kesmeye veya başlatmaya mekanik eleman.",
     "yasakli_kelimeler": [
       "şalter",
       "aç kapa",
@@ -2495,7 +2495,7 @@
     "id": 179,
     "kategori": "donanim",
     "kelime": "dip anahtar",
-    "aciklama": "devre kartı üzerine lehimlenen ve küçük tırnaklarıyla manuel donanım ayarları yapmaya yarayan çoklu minik anahtar.",
+    "aciklama": "devre kartı üzerine lehimlenen ve küçük tırnaklarıyla minik anahtar.",
     "yasakli_kelimeler": [
       "dip switch",
       "minik şalter",
@@ -2509,7 +2509,7 @@
     "id": 180,
     "kategori": "donanim",
     "kelime": "röle modülü",
-    "aciklama": "küçük bir mikrodenetleyici sinyaliyle yüksek voltajlı ve akımlı şebeke cihazlarını güvenle açıp kapatan elektromanyetik anahtar.",
+    "aciklama": "küçük mikrodenetleyici sinyaliyle yüksek voltajlı ve akımlı elektromanyetik anahtar.",
     "yasakli_kelimeler": [
       "bobinli anahtar",
       "yüksek voltaj kontrolü",
@@ -2523,7 +2523,7 @@
     "id": 181,
     "kategori": "donanim",
     "kelime": "çekirdek",
-    "aciklama": "işlemci yongası içinde yer alan ve komutları birbirinden bağımsız olarak işleyebilen fiziksel hesaplama birimi.",
+    "aciklama": "işlemci yongası içinde komutları birbirinden bağımsız olarak hesaplama birimi.",
     "yasakli_kelimeler": [
       "core",
       "fiziksel çekirdek",
@@ -2537,7 +2537,7 @@
     "id": 182,
     "kategori": "donanim",
     "kelime": "iş parçacığı",
-    "aciklama": "fiziksel bir çekirdeğin sanal olarak ikiye bölünmesiyle aynı anda birden çok görevi yürütmesini sağlayan mantıksal izlek.",
+    "aciklama": "fiziksel çekirdeğin sanal olarak ikiye bölünmesiyle aynı mantıksal izlek.",
     "yasakli_kelimeler": [
       "thread",
       "hyper threading",
@@ -2551,7 +2551,7 @@
     "id": 183,
     "kategori": "donanim",
     "kelime": "mantıksal işlemci",
-    "aciklama": "işletim sisteminin görev yöneticisinde gördüğü fiziksel ve sanal çekirdeklerin toplam hesaplama sayısı.",
+    "aciklama": "işletim sisteminin görev yöneticisinde gördüğü fiziksel ve hesaplama sayısı.",
     "yasakli_kelimeler": [
       "sanal işlemci",
       "görev yöneticisi",
@@ -2565,7 +2565,7 @@
     "id": 184,
     "kategori": "donanim",
     "kelime": "komut kümesi",
-    "aciklama": "bir işlemcinin anlayıp yürütebildiği tüm temel makine dili komutlarının ve mimari kurallarının bütünü.",
+    "aciklama": "işlemcinin anlayıp yürütebildiği temel makine dili komutlarının kurallarının bütünü.",
     "yasakli_kelimeler": [
       "x86",
       "arm mimarisi",
@@ -2579,7 +2579,7 @@
     "id": 185,
     "kategori": "donanim",
     "kelime": "mantık birimi",
-    "aciklama": "işlemcinin toplama, çıkarma ve karşılaştırma gibi tüm matematiksel ve mantıksal işlemlerini yapan merkezi ünitesi.",
+    "aciklama": "işlemcinin toplama, çıkarma ve karşılaştırma gibi matematiksel merkezi ünitesi.",
     "yasakli_kelimeler": [
       "alu",
       "aritmetik birim",
@@ -2593,7 +2593,7 @@
     "id": 186,
     "kategori": "donanim",
     "kelime": "saat darbesi",
-    "aciklama": "kristal osilatörün ürettiği ve işlemcideki milyonlarca transistörün adım adım senkronize çalışmasını sağlayan ritmik sinyal.",
+    "aciklama": "kristal osilatörün ürettiği ve işlemcideki milyonlarca transistörün ritmik sinyal.",
     "yasakli_kelimeler": [
       "clock sinyali",
       "senkronizasyon",
@@ -2607,7 +2607,7 @@
     "id": 187,
     "kategori": "donanim",
     "kelime": "frekans çarpanı",
-    "aciklama": "temel saat frekansını belirli bir katsayıyla çarparak işlemci çekirdeklerinin nihai gigahertz hızını belirleyen katsayı.",
+    "aciklama": "temel saat frekansını belirli katsayıyla çarparak işlemci belirleyen katsayı.",
     "yasakli_kelimeler": [
       "çarpan kilidi",
       "katsayı",
@@ -2621,7 +2621,7 @@
     "id": 188,
     "kategori": "donanim",
     "kelime": "sistem yolu",
-    "aciklama": "işlemci ile yonga seti veya ana bellek arasında yüksek hızda veri taşıyan ana veri yolu kanalı.",
+    "aciklama": "işlemci ile yonga seti veya ana bellek yolu kanalı.",
     "yasakli_kelimeler": [
       "fsb",
       "veri hattı",
@@ -2635,7 +2635,7 @@
     "id": 189,
     "kategori": "donanim",
     "kelime": "bant genişliği",
-    "aciklama": "bir veri yolunun veya bellek kanalının saniyede taşıyabildiği maksimum veri miktarı ve kapasitesi.",
+    "aciklama": "veri yolunun veya bellek kanalının saniyede taşıyabildiği ve kapasitesi.",
     "yasakli_kelimeler": [
       "saniyede gigabayt",
       "veri hızı",
@@ -2649,7 +2649,7 @@
     "id": 190,
     "kategori": "donanim",
     "kelime": "bellek gecikmesi",
-    "aciklama": "işlemcinin bellekten veri talep etmesi ile verinin ulaşması arasında geçen saat döngüsü süresi.",
+    "aciklama": "işlemcinin bellekten veri talep etmesi ile verinin döngüsü süresi.",
     "yasakli_kelimeler": [
       "cas latency",
       "cl değeri",
@@ -2663,7 +2663,7 @@
     "id": 191,
     "kategori": "donanim",
     "kelime": "çift kanal",
-    "aciklama": "iki adet eşdeğer ram modülünün aynı anda kullanılarak bellek bant genişliğini iki katına çıkaran teknoloji.",
+    "aciklama": "iki adet eşdeğer ram modülünün aynı anda çıkaran teknoloji.",
     "yasakli_kelimeler": [
       "dual channel",
       "iki ram",
@@ -2677,7 +2677,7 @@
     "id": 192,
     "kategori": "donanim",
     "kelime": "dörtlü kanal",
-    "aciklama": "sunucu veya iş istasyonu anakartlarında dört bellek kanalının paralel çalışarak devasa veri akışı sağladığı mimari.",
+    "aciklama": "sunucu veya iş istasyonu anakartlarında dört bellek sağladığı mimari.",
     "yasakli_kelimeler": [
       "quad channel",
       "dört ram",
@@ -2691,7 +2691,7 @@
     "id": 193,
     "kategori": "donanim",
     "kelime": "lehim sökücü",
-    "aciklama": "yanlış takılmış veya bozulmuş bir bileşeni sökmek için erimiş lehimi vakumlayarak çeken yaylı pompa.",
+    "aciklama": "yanlış takılmış veya bozulmuş bileşeni sökmek için yaylı pompa.",
     "yasakli_kelimeler": [
       "lehim pompası",
       "vakum",
@@ -2705,7 +2705,7 @@
     "id": 194,
     "kategori": "donanim",
     "kelime": "test ucu",
-    "aciklama": "multimetre veya osiloskop cihazının devreye temas ettirilerek voltaj ve sinyal ölçümü yapılan iğneli probu.",
+    "aciklama": "multimetre veya osiloskop cihazının devreye temas ettirilerek iğneli probu.",
     "yasakli_kelimeler": [
       "prob",
       "kırmızı siyah",
@@ -2719,7 +2719,7 @@
     "id": 195,
     "kategori": "donanim",
     "kelime": "jumper",
-    "aciklama": "devre kartındaki iki açık pini birbirine kısa devre ettirerek belirli bir donanım ayarını seçen küçük plastik köprü.",
+    "aciklama": "devre kartındaki iki açık pini birbirine kısa plastik köprü.",
     "yasakli_kelimeler": [
       "köprü",
       "kısa devre",
@@ -2733,7 +2733,7 @@
     "id": 196,
     "kategori": "donanim",
     "kelime": "bellenim",
-    "aciklama": "donanım aygıtlarının kalıcı hafızasına üretici tarafından yazılan ve cihazın temel çalışmasını yöneten yazılım.",
+    "aciklama": "donanım aygıtlarının kalıcı hafızasına üretici tarafından yazılan yöneten yazılım.",
     "yasakli_kelimeler": [
       "firmware",
       "gömülü yazılım",
@@ -2747,7 +2747,7 @@
     "id": 197,
     "kategori": "donanim",
     "kelime": "soket mandalı",
-    "aciklama": "işlemci anakart soketine yerleştirildikten sonra pinlerin tam temas etmesini ve kilitlenmesini sağlayan metal kol.",
+    "aciklama": "işlemci anakart soketine yerleştirildikten sonra pinlerin temas metal kol.",
     "yasakli_kelimeler": [
       "kilitleme kolu",
       "işlemci kilidi",
@@ -2761,7 +2761,7 @@
     "id": 198,
     "kategori": "donanim",
     "kelime": "işlemci kapağı",
-    "aciklama": "işlemci çekirdeğini darbelerden koruyan ve üzerine soğutucu takılan metal entegre ısı dağıtıcı yüzeyi.",
+    "aciklama": "işlemci çekirdeğini darbelerden koruyan ve üzerine soğutucu dağıtıcı yüzeyi.",
     "yasakli_kelimeler": [
       "ihs",
       "ısı dağıtıcı kapak",
@@ -2775,7 +2775,7 @@
     "id": 199,
     "kategori": "donanim",
     "kelime": "statik bileklik",
-    "aciklama": "bilgisayar parçalarını monte ederken vücuttaki durgun elektriği toprağa aktararak çipleri koruyan antistatik bileklik.",
+    "aciklama": "bilgisayar parçalarını monte ederken vücuttaki durgun elektriği antistatik bileklik.",
     "yasakli_kelimeler": [
       "antistatik",
       "topraklama kablosu",
@@ -2789,7 +2789,7 @@
     "id": 200,
     "kategori": "donanim",
     "kelime": "temizleme spreyi",
-    "aciklama": "devre kartı üzerindeki tozları ve oksitlenmeyi kısa devre yapmadan hızla uçarak temizleyen basınçlı kimyasal gaz.",
+    "aciklama": "devre kartı üzerindeki tozları ve oksitlenmeyi kısa kimyasal gaz.",
     "yasakli_kelimeler": [
       "kontak sprey",
       "basınçlı hava",
@@ -2802,7 +2802,7 @@
   {
     "kategori": "donanim",
     "kelime": "bilgisayar toplamak",
-    "aciklama": "işlemci, anakart, ram ve ekran kartını kasaya monte edip bilgisayar kurmak",
+    "aciklama": "işlemci, anakart, ram ve ekran kartını kasaya bilgisayar kurmak.",
     "yasakli_kelimeler": [
       "kasa",
       "anakart",
@@ -2816,7 +2816,7 @@
   {
     "kategori": "donanim",
     "kelime": "ram takmak",
-    "aciklama": "bellek modülünü anakarttaki ddr yuvasına tırnakları kilitlenecek şekilde bastırmak",
+    "aciklama": "bellek modülünü anakarttaki ddr yuvasına tırnakları kilitlenecek şekilde bastırmak.",
     "yasakli_kelimeler": [
       "bellek",
       "ddr slotu",
@@ -2830,7 +2830,7 @@
   {
     "kategori": "donanim",
     "kelime": "ekran kartı takmak",
-    "aciklama": "cpu üzerine fan veya sıvı soğutma bloğu takarak aşırı ısınmayı önlemek",
+    "aciklama": "cpu üzerine fan veya sıvı soğutma bloğu ısınmayı önlemek.",
     "yasakli_kelimeler": [
       "cpu",
       "fan",
@@ -2844,7 +2844,7 @@
   {
     "kategori": "donanim",
     "kelime": "ekran kartı bağlamak",
-    "aciklama": "gpu kartını pci-e yuvasına oturtup güç kablolarını takmak",
+    "aciklama": "gpu kartını pci-e yuvasına oturtup güç kablolarını takmak.",
     "yasakli_kelimeler": [
       "gpu",
       "pcie yuvası",
@@ -2858,7 +2858,7 @@
   {
     "kategori": "donanim",
     "kelime": "kablo düzenlemek",
-    "aciklama": "kasa içi hava akışını engellememesi için güç kablolarını kelepçeyle arkaya gizlemek",
+    "aciklama": "kasa içi hava akışını engellememesi için güç arkaya gizlemek.",
     "yasakli_kelimeler": [
       "kablo yönetimi",
       "hava akışı",
@@ -2872,7 +2872,7 @@
   {
     "kategori": "donanim",
     "kelime": "hard disk takmak",
-    "aciklama": "depolama sürücüsünü sata kablosuyla anakarta ve güç kaynağına bağlamak",
+    "aciklama": "depolama sürücüsünü sata kablosuyla anakarta ve güç kaynağına bağlamak.",
     "yasakli_kelimeler": [
       "hdd",
       "sata kablosu",
@@ -2886,7 +2886,7 @@
   {
     "kategori": "donanim",
     "kelime": "termal macun sürmek",
-    "aciklama": "işlemci ile soğutucu arasına ısı transferini sağlayan gri macundan bir damla sıkmak",
+    "aciklama": "işlemci ile soğutucu arasına ısı transferini sağlayan damla sıkmak.",
     "yasakli_kelimeler": [
       "ısı transferi",
       "gri macun",
@@ -2900,7 +2900,7 @@
   {
     "kategori": "donanim",
     "kelime": "güç kaynağı bağlamak",
-    "aciklama": "fanlarda ve filtrelerde biriken tozları basınçlı hava spreyiyle üflemek",
+    "aciklama": "fanlarda ve filtrelerde biriken tozları basınçlı hava spreyiyle üflemek.",
     "yasakli_kelimeler": [
       "toz",
       "basınçlı hava",
@@ -2914,7 +2914,7 @@
   {
     "kategori": "donanim",
     "kelime": "güç düğmesine basmak",
-    "aciklama": "kasa ön panelindeki power tuşuna basarak sisteme ilk elektriği vermek",
+    "aciklama": "kasa ön panelindeki power tuşuna basarak sisteme ilk elektriği vermek.",
     "yasakli_kelimeler": [
       "power butonu",
       "açma",
@@ -2928,7 +2928,7 @@
   {
     "kategori": "donanim",
     "kelime": "ses kartı takmak",
-    "aciklama": "kaliteli ses çıkışı ve mikrofon kaydı için anakarta ek ses donanımı bağlamak",
+    "aciklama": "kaliteli ses çıkışı ve mikrofon kaydı için donanımı bağlamak.",
     "yasakli_kelimeler": [
       "jak girişi",
       "kulaklık",
@@ -2942,7 +2942,7 @@
   {
     "kategori": "donanim",
     "kelime": "klavye mouse bağlamak",
-    "aciklama": "usb girişlerine çevre birimlerini takarak giriş aygıtlarını çalıştırmak",
+    "aciklama": "usb girişlerine çevre birimlerini takarak giriş aygıtlarını çalıştırmak.",
     "yasakli_kelimeler": [
       "usb girişi",
       "çevre birimi",
@@ -2956,7 +2956,7 @@
   {
     "kategori": "donanim",
     "kelime": "bios ekranına girmek",
-    "aciklama": "işlemci ve ekran kartının saat frekansını ve voltajını artırarak fabrikadan hızlı çalıştırmak",
+    "aciklama": "işlemci ve ekran kartının saat frekansını ve hızlı çalıştırmak.",
     "yasakli_kelimeler": [
       "hız aşırtma",
       "frekans artırma",
@@ -2970,7 +2970,7 @@
   {
     "kategori": "donanim",
     "kelime": "ssd sürücü takmak",
-    "aciklama": "anakartın temel giriş çıkış yazılımını flash bellek üzerinden son sürüme yükseltmek",
+    "aciklama": "anakartın temel giriş çıkış yazılımını flash bellek sürüme yükseltmek.",
     "yasakli_kelimeler": [
       "uefi",
       "anakart yazılımı",
@@ -2984,7 +2984,7 @@
   {
     "kategori": "donanim",
     "kelime": "ssd monte etmek",
-    "aciklama": "yüksek hızlı nvme depolama çubuğunu anakart yuvasına yatırıp vidasını sıkmak",
+    "aciklama": "yüksek hızlı nvme depolama çubuğunu anakart yuvasına yatırıp vidasını sıkmak.",
     "yasakli_kelimeler": [
       "nvme",
       "yüksek hız",
@@ -2998,7 +2998,7 @@
   {
     "kategori": "donanim",
     "kelime": "stres testi uygulamak",
-    "aciklama": "aida64 veya prime95 ile işlemciyi yüzde yüz yüke sokup ısınma ve kararlılığını ölçmek",
+    "aciklama": "aida64 veya prime95 ile işlemciyi yüzde yüz kararlılığını ölçmek.",
     "yasakli_kelimeler": [
       "prime95",
       "furmark",
@@ -3012,7 +3012,7 @@
   {
     "kategori": "donanim",
     "kelime": "işlemci soğutucusu monte",
-    "aciklama": "donanım uyuşmazlığı veya bellek hatası sebebiyle işletim sisteminin çökmesi",
+    "aciklama": "donanım uyuşmazlığı veya bellek hatası sebebiyle işletim sisteminin çökmesi.",
     "yasakli_kelimeler": [
       "bsod",
       "çökme",
@@ -3026,7 +3026,7 @@
   {
     "kategori": "donanim",
     "kelime": "güç değeri hesaplamak",
-    "aciklama": "sistemin tüketeceği toplam elektrik gücüne göre uygun güç kaynağı seçmek",
+    "aciklama": "sistemin tüketeceği toplam elektrik gücüne göre uygun güç kaynağı seçmek.",
     "yasakli_kelimeler": [
       "güç kaynağı",
       "watt",
@@ -3040,7 +3040,7 @@
   {
     "kategori": "donanim",
     "kelime": "fan hızı ayarlamak",
-    "aciklama": "bios veya yazılım üzerinden sıcaklığa göre dönme hızını eğri üzerinde belirlemek",
+    "aciklama": "bios veya yazılım üzerinden sıcaklığa göre dönme üzerinde belirlemek.",
     "yasakli_kelimeler": [
       "pwm",
       "fan eğrisi",
@@ -3054,7 +3054,7 @@
   {
     "kategori": "donanim",
     "kelime": "donanım sıcaklığı izlemek",
-    "aciklama": "güçsüz bir işlemcinin çok güçlü bir ekran kartını tam performans besleyememesi",
+    "aciklama": "güçsüz bir işlemcinin çok güçlü bir ekran kartını performans besleyememesi.",
     "yasakli_kelimeler": [
       "bottleneck",
       "besleyememe",
@@ -3068,7 +3068,7 @@
   {
     "kategori": "donanim",
     "kelime": "soğutma havası almak",
-    "aciklama": "özel sıvı soğutma döngüsündeki radyatör ve borulardaki hava kabarcıklarını tahliye etmek",
+    "aciklama": "özel sıvı soğutma döngüsündeki radyatör ve borulardaki tahliye etmek.",
     "yasakli_kelimeler": [
       "özel döngü",
       "rezervuar",
@@ -3081,8 +3081,8 @@
   },
   {
     "kategori": "donanim",
-    "kelime": "mavi ekran hatası",
-    "aciklama": "fanlar, ramler ve anakart üzerindeki renkli led ışık efektlerini yazılımla eşlemek",
+    "kelime": "rgb ledleri eşlemek",
+    "aciklama": "fanlar, ramler ve anakart üzerindeki renkli led yazılımla eşlemek.",
     "yasakli_kelimeler": [
       "led ışık",
       "aurora",
@@ -3096,7 +3096,7 @@
   {
     "kategori": "donanim",
     "kelime": "lehim tazelemek",
-    "aciklama": "arızalanan anakart devre elemanının bacaklarındaki çatlak lehimi havyayla eritip yenilemek",
+    "aciklama": "arızalanan anakart devre elemanının bacaklarındaki çatlak lehimi havyayla eritip yenilemek.",
     "yasakli_kelimeler": [
       "havya",
       "lehim teli",
@@ -3110,7 +3110,7 @@
   {
     "kategori": "donanim",
     "kelime": "multimetreyle voltaj ölçmek",
-    "aciklama": "güç kaynağı kablolarının 12v ve 5v hatlarını avometre problarıyla kontrol etmek",
+    "aciklama": "güç kaynağı kablolarının 12v ve 5v hatlarını kontrol etmek.",
     "yasakli_kelimeler": [
       "avometre",
       "12 volt",
@@ -3124,7 +3124,7 @@
   {
     "kategori": "donanim",
     "kelime": "çift kanal çalıştırmak",
-    "aciklama": "ramleri 2. ve 4. yuvalara takarak bellek bant genişliğini iki katına çıkarmak",
+    "aciklama": "ramleri 2. ve 4. yuvalara takarak bellek katına çıkarmak.",
     "yasakli_kelimeler": [
       "dual channel",
       "2 ve 4 slot",
@@ -3137,8 +3137,8 @@
   },
   {
     "kategori": "donanim",
-    "kelime": "iki kanallı bellek",
-    "aciklama": "ekran kartının ve yonga setinin işletim sistemiyle tam uyumlu çalışması için driver yüklemek",
+    "kelime": "donanım sürücüsü yüklemek",
+    "aciklama": "ekran kartının ve yonga setinin işletim sistemiyle driver yüklemek.",
     "yasakli_kelimeler": [
       "driver",
       "yonga seti",
@@ -3152,7 +3152,7 @@
   {
     "kategori": "donanim",
     "kelime": "statik elektriği boşaltmak",
-    "aciklama": "hassas devrelere dokunmadan önce topraklı metale dokunarak vücut yükünü sıfırlamak",
+    "aciklama": "hassas devrelere dokunmadan önce topraklı metale dokunarak vücut yükünü sıfırlamak.",
     "yasakli_kelimeler": [
       "antistatik bileklik",
       "topraklama",
@@ -3166,7 +3166,7 @@
   {
     "kategori": "donanim",
     "kelime": "raid dizisi kurmak",
-    "aciklama": "iki veya daha fazla diski birleştirerek hızı katlamak veya yedekli güvenlik oluşturmak",
+    "aciklama": "iki veya daha fazla diski birleştirerek hızı güvenlik oluşturmak.",
     "yasakli_kelimeler": [
       "raid 0",
       "raid 1",
@@ -3179,8 +3179,8 @@
   },
   {
     "kategori": "donanim",
-    "kelime": "sıvı soğutma bloğu",
-    "aciklama": "bilgisayar açılırken anakart hoparlöründen gelen ses kodlarıyla donanım arızasını çözmek",
+    "kelime": "arıza kodlarını dinlemek",
+    "aciklama": "bilgisayar açılırken anakart hoparlöründen gelen ses kodlarıyla donanım arızasını çözmek.",
     "yasakli_kelimeler": [
       "post bip",
       "hata kodu",
@@ -3194,7 +3194,7 @@
   {
     "kategori": "donanim",
     "kelime": "gpu fanını yağlamak",
-    "aciklama": "ses yapan ve dönmeyen ekran kartı fanının göbeğine ince makine yağı damlatmak",
+    "aciklama": "ses yapan ve dönmeyen ekran kartı fanının yağı damlatmak.",
     "yasakli_kelimeler": [
       "fan göbeği",
       "makine yağı",
@@ -3207,8 +3207,8 @@
   },
   {
     "kategori": "donanim",
-    "kelime": "ekran kartı dikey",
-    "aciklama": "bios ayarından ramlerin vaat edilen yüksek mhz değerinde çalışmasını tek tıkla aktif etmek",
+    "kelime": "xmp profilini açmak",
+    "aciklama": "bios ayarından ramlerin vaat edilen yüksek mhz aktif etmek.",
     "yasakli_kelimeler": [
       "expo",
       "mhz artışı",
@@ -3222,7 +3222,7 @@
   {
     "kategori": "donanim",
     "kelime": "vram sıcaklığı izlemek",
-    "aciklama": "ekran kartı belleklerinin aşırı ısınıp oyunun kapanmaması için sıcaklık takibi yapmak",
+    "aciklama": "ekran kartı belleklerinin aşırı ısınıp oyunun kapanmaması takibi yapmak.",
     "yasakli_kelimeler": [
       "gddr6x",
       "bellek sıcaklığı",
@@ -3236,7 +3236,7 @@
   {
     "kategori": "donanim",
     "kelime": "termal ped değiştirmek",
-    "aciklama": "ekran kartı vrm ve bellek üzerindeki kurumuş iletken pedleri yenileriyle değiştirmek",
+    "aciklama": "ekran kartı vrm ve bellek üzerindeki kurumuş yenileriyle değiştirmek.",
     "yasakli_kelimeler": [
       "iletken ped",
       "vrm soğutma",
@@ -3250,7 +3250,7 @@
   {
     "kategori": "donanim",
     "kelime": "sürücü güncellemesi kurmak",
-    "aciklama": "kasa iç yüzeylerine ses emici süngerler yapıştırarak fan gürültüsünü kısmak",
+    "aciklama": "kasa iç yüzeylerine ses emici süngerler yapıştırarak fan gürültüsünü kısmak.",
     "yasakli_kelimeler": [
       "akustik sünger",
       "fan gürültüsü",
@@ -3264,7 +3264,7 @@
   {
     "kategori": "donanim",
     "kelime": "cmos pilini sıfırlamak",
-    "aciklama": "yanlış ayar sonucu açılmayan anakartın biosunu yuvarlak pili sökerek fabrika ayarına döndürmek",
+    "aciklama": "yanlış ayar sonucu açılmayan anakartın biosunu yuvarlak ayarına döndürmek.",
     "yasakli_kelimeler": [
       "cr2032",
       "yuvarlak pil",
@@ -3278,7 +3278,7 @@
   {
     "kategori": "donanim",
     "kelime": "bobin sesi yakalamak",
-    "aciklama": "ekran kartı veya güç kaynağındaki bobinlerin yüksek fpsde çıkardığı tiz ıslık sesini bulmak",
+    "aciklama": "ekran kartı veya güç kaynağındaki bobinlerin yüksek sesini bulmak.",
     "yasakli_kelimeler": [
       "bobin vızıltısı",
       "tiz ıslık",
@@ -3292,7 +3292,7 @@
   {
     "kategori": "donanim",
     "kelime": "işlemciye hız aşırtmak",
-    "aciklama": "işlemcinin üstündeki metal kapağı söküp çip ile kapak arasına sıvı metal sürmek",
+    "aciklama": "işlemcinin üstündeki metal kapağı söküp çip ile metal sürmek.",
     "yasakli_kelimeler": [
       "metal kapak sökme",
       "sıvı metal",
@@ -3306,7 +3306,7 @@
   {
     "kategori": "donanim",
     "kelime": "sıvı nitrojen dökmek",
-    "aciklama": "dünya hız aşırtma rekoru kırmak için işlemci potasına eksi 196 derece nitrojen boca etmek",
+    "aciklama": "dünya hız aşırtma rekoru kırmak için işlemci boca etmek.",
     "yasakli_kelimeler": [
       "ln2",
       "eksi 196",
@@ -3320,7 +3320,7 @@
   {
     "kategori": "donanim",
     "kelime": "undervolt yapmak",
-    "aciklama": "işlemci veya gpu voltajını performans kaybetmeden düşürerek 10 derece soğutmak",
+    "aciklama": "işlemci veya gpu voltajını performans kaybetmeden düşürerek 10 derece soğutmak.",
     "yasakli_kelimeler": [
       "voltaj düşürme",
       "sıcaklık düşürme",
@@ -3334,7 +3334,7 @@
   {
     "kategori": "donanim",
     "kelime": "vrm fazlarını incelemek",
-    "aciklama": "anakartın işlemciye akım sağlayan mosfet ve bobin faz kalitesini osiloskopla ölçmek",
+    "aciklama": "anakartın işlemciye akım sağlayan mosfet ve bobin osiloskopla ölçmek.",
     "yasakli_kelimeler": [
       "mosfet",
       "güç besleme fazı",
@@ -3348,7 +3348,7 @@
   {
     "kategori": "donanim",
     "kelime": "özel soğutma kurmak",
-    "aciklama": "anakart üzerindeki yanmış bga çipini sıcak hava istasyonuyla söküp lehim topları dizmek",
+    "aciklama": "anakart üzerindeki yanmış bga çipini sıcak hava topları dizmek.",
     "yasakli_kelimeler": [
       "reballing",
       "çip sökme",
@@ -3362,7 +3362,7 @@
   {
     "kategori": "donanim",
     "kelime": "osiloskopla dalga izlemek",
-    "aciklama": "anakart veri yollarındaki kare dalga sinyal bozulmalarını ve voltaj gürültüsünü görmek",
+    "aciklama": "anakart veri yollarındaki kare dalga sinyal bozulmalarını gürültüsünü görmek.",
     "yasakli_kelimeler": [
       "sinyal dalgası",
       "kare dalga",
@@ -3376,7 +3376,7 @@
   {
     "kategori": "donanim",
     "kelime": "transistör genişliği ölçmek",
-    "aciklama": "işlemci çipindeki nanometre ölçeğindeki silikon transistör mimarisini analiz etmek",
+    "aciklama": "işlemci çipindeki nanometre ölçeğindeki silikon transistör mimarisini analiz etmek.",
     "yasakli_kelimeler": [
       "nanometre",
       "3nm",
@@ -3390,7 +3390,7 @@
   {
     "kategori": "donanim",
     "kelime": "önbellek gecikmesi ölçmek",
-    "aciklama": "işlemci çekirdekleri ile önbellek arasındaki nanasaniyelik veri aktarım hızını ölçmek",
+    "aciklama": "işlemci çekirdekleri ile önbellek arasındaki nanasaniyelik veri aktarım hızını ölçmek.",
     "yasakli_kelimeler": [
       "l3 cache",
       "nanosaniye gecikme",
@@ -3404,7 +3404,7 @@
   {
     "kategori": "donanim",
     "kelime": "piksel tepki ölçmek",
-    "aciklama": "işlemciden doğrudan gelen 16 adet yüksek hızlı veri yolunu ana ekran kartına atamak",
+    "aciklama": "işlemciden doğrudan gelen 16 adet yüksek hızlı kartına atamak.",
     "yasakli_kelimeler": [
       "pcie gen 5",
       "16 hat",
@@ -3418,7 +3418,7 @@
   {
     "kategori": "donanim",
     "kelime": "eprom çipi yazmak",
-    "aciklama": "çöken ve açılmayan anakart bios çipine bacaklarından harici programlayıcıyla kod basmak",
+    "aciklama": "çöken ve açılmayan anakart bios çipine bacaklarından kod basmak.",
     "yasakli_kelimeler": [
       "ch341a",
       "harici bios yazıcı",
@@ -3432,7 +3432,7 @@
   {
     "kategori": "donanim",
     "kelime": "mosfet fazı saymak",
-    "aciklama": "aynı model işlemciler arasından daha düşük voltajla daha yüksek hıza çıkan kaliteli çipi seçmek",
+    "aciklama": "aynı model işlemciler arasından daha düşük voltajla çipi seçmek.",
     "yasakli_kelimeler": [
       "silicon lottery",
       "kaliteli silikon",
@@ -3446,7 +3446,7 @@
   {
     "kategori": "donanim",
     "kelime": "nand hücresi sınamak",
-    "aciklama": "ssd içindeki her bellek hücresine kaç bit veri yazıldığını ve aşınma ömrünü ölçmek",
+    "aciklama": "ssd içindeki her bellek hücresine kaç bit ömrünü ölçmek.",
     "yasakli_kelimeler": [
       "nand flash",
       "tbw yazma ömrü",
@@ -3460,7 +3460,7 @@
   {
     "kategori": "donanim",
     "kelime": "geçici yük testi",
-    "aciklama": "ekran kartının mikrosaniyelik ani tepe güç sıçramalarında psu'nun kapanıp kapanmadığını sınamak",
+    "aciklama": "ekran kartının mikrosaniyelik ani tepe güç sıçramalarında kapanmadığını sınamak.",
     "yasakli_kelimeler": [
       "transient spikes",
       "ani güç sıçraması",
@@ -3474,7 +3474,7 @@
   {
     "kategori": "donanim",
     "kelime": "bıos çipi kurtarmak",
-    "aciklama": "donanım parçasının spi flaş belleğindeki makine kodunu tersine mühendislik için kopyalamak",
+    "aciklama": "donanım parçasının spi flaş belleğindeki makine kodunu için kopyalamak.",
     "yasakli_kelimeler": [
       "spi flash",
       "makine kodu dökümü",

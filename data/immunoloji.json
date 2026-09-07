@@ -3,7 +3,7 @@
     "id": 1,
     "kategori": "immunoloji",
     "kelime": "antijen",
-    "aciklama": "bağışıklık sistemi hücreleri veya antikorlar tarafından spesifik olarak tanınan ve immün yanıt tetikleyebilen yabancı molekül.",
+    "aciklama": "bağışıklık sistemi yanıtı tetikleyen yabancı molekül",
     "yasakli_kelimeler": [
       "antikor",
       "yabancı madde",
@@ -17,7 +17,7 @@
     "id": 2,
     "kategori": "immunoloji",
     "kelime": "epitop",
-    "aciklama": "antijen molekülünün antikor veya lenfosit reseptörü tarafından doğrudan bağlandığı spesifik antijenik belirleyici bölgesi.",
+    "aciklama": "antijenin antikor tarafından tanınan bağlandığı özel bölgesi",
     "yasakli_kelimeler": [
       "antijenik belirleyici",
       "bağlanma bölgesi",
@@ -31,7 +31,7 @@
     "id": 3,
     "kategori": "immunoloji",
     "kelime": "paratop",
-    "aciklama": "antikorun değişken bölgesinde yer alan ve antijenin epitopuna anahtar-kilit uyumuyla bağlanan kısım.",
+    "aciklama": "antikorun antijen epitopuna bağlanan değişken bölgesi",
     "yasakli_kelimeler": [
       "antikor ucu",
       "epitop eşi",
@@ -45,7 +45,7 @@
     "id": 4,
     "kategori": "immunoloji",
     "kelime": "mhc sınıf 1",
-    "aciklama": "çekirdekli tüm hücrelerde bulunan ve intrasellüler antijenleri sitotoksik t lenfositlere sunan doku uygunluk kompleksi.",
+    "aciklama": "hücre içi antijenleri sitotoksik t hücrelerine sunan molekül",
     "yasakli_kelimeler": [
       "doku uygunluğu",
       "cd8 t hücresi",
@@ -59,7 +59,7 @@
     "id": 5,
     "kategori": "immunoloji",
     "kelime": "mhc sınıf 2",
-    "aciklama": "profesyonel antijen sunan hücrelerde bulunup ekstrasellüler kaynaklı peptidleri yardımcı t lenfositlere sunan molekül.",
+    "aciklama": "hücre dışı peptidleri yardımcı t hücrelerine sunan molekül",
     "yasakli_kelimeler": [
       "cd4 t hücresi",
       "makrofaj",
@@ -73,7 +73,7 @@
     "id": 6,
     "kategori": "immunoloji",
     "kelime": "antijen sunan hücre",
-    "aciklama": "antijenleri yakalayıp işleyerek yüzeyindeki mhc molekülleriyle t lenfositlerine tanıtan uzman bağışıklık hücresi.",
+    "aciklama": "antijenleri işleyerek t hücrelerine sunan uzman bağışıklık hücresi",
     "yasakli_kelimeler": [
       "dendritik hücre",
       "makrofaj",
@@ -87,7 +87,7 @@
     "id": 7,
     "kategori": "immunoloji",
     "kelime": "dendritik hücre",
-    "aciklama": "dokularda antijen toplayıp lenf düğümlerine göç ederek naif t lenfositlerini en güçlü şekilde aktive eden hücre.",
+    "aciklama": "antijenleri toplayıp lenfositlere sunan güçlü bağışıklık hücresi",
     "yasakli_kelimeler": [
       "antijen sunumu",
       "langerhans",
@@ -101,7 +101,7 @@
     "id": 8,
     "kategori": "immunoloji",
     "kelime": "sitotoksik t lenfosit",
-    "aciklama": "cd8 koreseptörü taşıyan, mhc-1 ile sunulan yabancı antijenleri tanıyarak enfekte veya tümöral hücreyi apoptoza uğratan hücre.",
+    "aciklama": "enfekte ve tümörlü hücreleri yok eden t hücresi",
     "yasakli_kelimeler": [
       "cd8 pozitif",
       "hücresel bağışıklık",
@@ -115,7 +115,7 @@
     "id": 9,
     "kategori": "immunoloji",
     "kelime": "yardımcı t hücresi",
-    "aciklama": "cd4 yüzey belirteci taşıyan, mhc-2 ile sunulan antijeni tanıyıp sitokin salgılayarak diğer immün hücreleri yöneten lenfosit.",
+    "aciklama": "sitokin salgılayarak bağışıklık yanıtını yöneten t lenfositi",
     "yasakli_kelimeler": [
       "cd4 pozitif",
       "t helper",
@@ -129,7 +129,7 @@
     "id": 10,
     "kategori": "immunoloji",
     "kelime": "regülatuvar t hücresi",
-    "aciklama": "foxp3 transkripsiyon faktörü eksprese eden, otoimmüniteyi engelleyip immün yanıtı sonlandıran baskılayıcı t lenfosit.",
+    "aciklama": "bağışıklık yanıtını baskılayıp otoimmüniteyi önleyen t lenfositi",
     "yasakli_kelimeler": [
       "treg",
       "foxp3",
@@ -143,7 +143,7 @@
     "id": 11,
     "kategori": "immunoloji",
     "kelime": "doğal katil hücre",
-    "aciklama": "mhc-1 molekülünü kaybetmiş anormal ya da virüsle enfekte hücreleri antijene özgüllük aramaksızın yok eden lenfoid hücre.",
+    "aciklama": "virüslü veya kanserli hücreleri antijensiz öldüren lenfosit",
     "yasakli_kelimeler": [
       "nk hücresi",
       "doğal bağışıklık",
@@ -157,7 +157,7 @@
     "id": 12,
     "kategori": "immunoloji",
     "kelime": "b lenfosit",
-    "aciklama": "kemik iliğinde olgunlaşan, yüzeyinde immünglobulin reseptörü taşıyan ve antikor üreten plazma hücrelerine dönüşebilen lenfosit.",
+    "aciklama": "kemik iliğinde olgunlaşan, yüzeyinde immünglobulin reseptörü taşıyan ve antikor üreten",
     "yasakli_kelimeler": [
       "antikor üretimi",
       "plazma hücresi",
@@ -171,7 +171,7 @@
     "id": 13,
     "kategori": "immunoloji",
     "kelime": "plazma hücresi",
-    "aciklama": "terminal diferansiyasyon geçirmiş b lenfositi olup saniyede binlerce spesifik antikor salgılayan hücresel fabrika.",
+    "aciklama": "antijenle uyarılınca yüksek miktarda antikor salgılayan b hücresi",
     "yasakli_kelimeler": [
       "antikor fabrikası",
       "b lenfosit türevi",
@@ -185,7 +185,7 @@
     "id": 14,
     "kategori": "immunoloji",
     "kelime": "immünglobulin g",
-    "aciklama": "serumda en yüksek konsantrasyonda bulunan, plasentayı geçebilen ve ikincil immün yanıtta baskın olan antikor izotipi.",
+    "aciklama": "serumda en yüksek konsantrasyonda bulunan, plasentayı geçebilen ve ikincil immün",
     "yasakli_kelimeler": [
       "igg",
       "plasenta geçişi",
@@ -199,7 +199,7 @@
     "id": 15,
     "kategori": "immunoloji",
     "kelime": "immünglobulin m",
-    "aciklama": "primer immün yanıtta ilk üretilen, pentamer yapıda olan ve komplemanı en güçlü aktive eden antikor sınıfı.",
+    "aciklama": "primer immün yanıtta ilk üretilen, pentamer yapıda olan ve komplemanı",
     "yasakli_kelimeler": [
       "igm",
       "pentamer",
@@ -213,7 +213,7 @@
     "id": 16,
     "kategori": "immunoloji",
     "kelime": "immünglobulin a",
-    "aciklama": "mukozal yüzeylerde, gözyaşında ve anne sütünde dimerik yapıda bulunan, sekretuvar bileşen içeren antikor izotipi.",
+    "aciklama": "mukozal yüzeylerde, gözyaşında ve anne sütünde dimerik yapıda bulunan, sekretuvar",
     "yasakli_kelimeler": [
       "iga",
       "mukoza salgısı",
@@ -227,7 +227,7 @@
     "id": 17,
     "kategori": "immunoloji",
     "kelime": "immünglobulin e",
-    "aciklama": "mast hücreleri ve bazofillerin fc reseptörlerine bağlanarak tip 1 aşırı duyarlılık ve paraziter yanıtta rol oynayan antikor.",
+    "aciklama": "mast hücreleri ve bazofillerin fc reseptörlerine bağlanarak tip 1 aşırı",
     "yasakli_kelimeler": [
       "ige",
       "alerji",
@@ -241,7 +241,7 @@
     "id": 18,
     "kategori": "immunoloji",
     "kelime": "immünglobulin d",
-    "aciklama": "olgunlaşmış naif b hücrelerinin zarında igm ile birlikte antijen reseptörü olarak eksprese edilen nadir izotip.",
+    "aciklama": "olgunlaşmış naif b hücrelerinin zarında igm ile birlikte antijen reseptörü",
     "yasakli_kelimeler": [
       "igd",
       "naif b hücresi",
@@ -255,7 +255,7 @@
     "id": 19,
     "kategori": "immunoloji",
     "kelime": "kompleman sistemi",
-    "aciklama": "plazmada inaktif bulunan, basamaklı proteolitik kaskadla aktive olup patojenleri parçalayan ve opsonize eden proteinler dizisi.",
+    "aciklama": "patojenleri delerek ve opsonize ederek yok eden plazma proteinleri",
     "yasakli_kelimeler": [
       "c3 konvertaz",
       "membran atak kompleksi",
@@ -269,7 +269,7 @@
     "id": 20,
     "kategori": "immunoloji",
     "kelime": "membran atak kompleksi",
-    "aciklama": "c5b, c6, c7, c8 ve çoklu c9 bileşenlerinin patojen hücre zarına kenetlenerek oluşturduğu litik por kompleksi.",
+    "aciklama": "hedef hücre zarını delerek lizise uğratan son kompleman kompleksi",
     "yasakli_kelimeler": [
       "mak",
       "c5b-9",
@@ -283,7 +283,7 @@
     "id": 21,
     "kategori": "immunoloji",
     "kelime": "opsonizasyon",
-    "aciklama": "antikor veya kompleman bileşenlerinin patojen yüzeyine tutunarak fagositozu kolaylaştırması süreci.",
+    "aciklama": "antijenin fagositozunu kolaylaştırmak için antikorla kaplanması",
     "yasakli_kelimeler": [
       "c3b",
       "fagositoz kolaylaştırma",
@@ -297,7 +297,7 @@
     "id": 22,
     "kategori": "immunoloji",
     "kelime": "fagositoz",
-    "aciklama": "makrofaj veya nötrofillerin yabancı partikülleri veya mikroorganizmaları yutarak fagozom içinde sindirmesi olayı.",
+    "aciklama": "mikropların ve hücresel kalıntıların fagositer hücrelerce yutulup sindirilmesi",
     "yasakli_kelimeler": [
       "makrofaj",
       "fagozom",
@@ -311,7 +311,7 @@
     "id": 23,
     "kategori": "immunoloji",
     "kelime": "makrofaj",
-    "aciklama": "monositlerin dokuya geçerek olgunlaşmasıyla oluşan, fagositoz ve sitokin salgısı yapan uzun ömürlü immün hücre.",
+    "aciklama": "dokularda mikropları yutan ve antijen sunan büyük hücre",
     "yasakli_kelimeler": [
       "monosit",
       "doku fagosit",
@@ -325,7 +325,7 @@
     "id": 24,
     "kategori": "immunoloji",
     "kelime": "nötrofil",
-    "aciklama": "akut bakteriyel enfeksiyonlara ilk yanıt veren, fagositoz yapabilen, en bol bulunan polimorfonükleer lökosit.",
+    "aciklama": "akut enfeksiyon bölgesine ilk ulaşan fagositer lökosit",
     "yasakli_kelimeler": [
       "pmnl",
       "akut enfeksiyon",
@@ -339,7 +339,7 @@
     "id": 25,
     "kategori": "immunoloji",
     "kelime": "kemotaksis",
-    "aciklama": "bağışıklık hücrelerinin kimyasal bir uyaran veya kemokin konsantrasyon gradyanı boyunca yönlenerek göç etmesi.",
+    "aciklama": "hücrelerin kimyasal uyarıcı konsantrasyonuna doğru yönelerek göç etmesi",
     "yasakli_kelimeler": [
       "hücre göçü",
       "kemokin",
@@ -353,7 +353,7 @@
     "id": 26,
     "kategori": "immunoloji",
     "kelime": "kemokin",
-    "aciklama": "hedef lökositlerin iltihap bölgesine veya lenfoid dokulara göçünü yönlendiren küçük kemotaktik sitokin ailesi.",
+    "aciklama": "bağışıklık hücrelerini enfeksiyon odağına çeken kemotaktik protein",
     "yasakli_kelimeler": [
       "il-8",
       "kemotaktik faktör",
@@ -367,7 +367,7 @@
     "id": 27,
     "kategori": "immunoloji",
     "kelime": "interlökin",
-    "aciklama": "lökositler arasında iletişim sağlayan, proliferasyon, farklılaşma ve inflamasyonu koordine eden sitokin grubu.",
+    "aciklama": "lökositler arasında sinyal iletimi sağlayan sitokin grubu",
     "yasakli_kelimeler": [
       "sitokin",
       "il-1",
@@ -381,7 +381,7 @@
     "id": 28,
     "kategori": "immunoloji",
     "kelime": "interferon gama",
-    "aciklama": "th1 ve nk hücrelerinden salgılanarak makrofajları güçlü biçimde aktive eden ve hücre içi patojenleri yok eden sitokin.",
+    "aciklama": "th1 ve nk hücrelerinden salgılanarak makrofajları güçlü biçimde aktive eden",
     "yasakli_kelimeler": [
       "ifn gama",
       "makrofaj aktivasyonu",
@@ -395,7 +395,7 @@
     "id": 29,
     "kategori": "immunoloji",
     "kelime": "tümör nekrozis faktör",
-    "aciklama": "esas olarak makrofajlarca üretilen, lokal iltihabı ve endotel geçirgenliğini artıran, sistemik kaşeksi yapabilen ana sitokin.",
+    "aciklama": "esas olarak makrofajlarca üretilen, lokal iltihabı ve endotel geçirgenliğini artıran,",
     "yasakli_kelimeler": [
       "tnf alfa",
       "sistemik inflamasyon",
@@ -409,7 +409,7 @@
     "id": 30,
     "kategori": "immunoloji",
     "kelime": "anafilaktotoksin",
-    "aciklama": "mast hücre degranülasyonuna, düz kas spazmına ve vasküler geçirgenlik artışına yol açan c3a ve c5a kompleman parçacıkları.",
+    "aciklama": "mast hücre degranülasyonuna, düz kas spazmına ve vasküler geçirgenlik artışına",
     "yasakli_kelimeler": [
       "c3a",
       "c5a",
@@ -423,7 +423,7 @@
     "id": 31,
     "kategori": "immunoloji",
     "kelime": "toll benzeri reseptör",
-    "aciklama": "doğal bağışıklık hücrelerinde bulunup patojenlere özgü korunmuş moleküler kalıpları (pamp) tanıyan transmembran reseptör.",
+    "aciklama": "mikrobiyal moleküler kalıpları tanıyan hücre zarı savunma reseptörü",
     "yasakli_kelimeler": [
       "tlr",
       "pamp",
@@ -437,7 +437,7 @@
     "id": 32,
     "kategori": "immunoloji",
     "kelime": "pamp motifi",
-    "aciklama": "mikroorganizmalara özgü olan ve konakçının doğal bağışıklık reseptörleri tarafından yabancı olarak tanınan moleküler desenler.",
+    "aciklama": "mikroorganizmalara özgü olan ve konakçının doğal bağışıklık reseptörleri tarafından yabancı",
     "yasakli_kelimeler": [
       "patonjen",
       "doğal bağışıklık",
@@ -451,7 +451,7 @@
     "id": 33,
     "kategori": "immunoloji",
     "kelime": "damp motifi",
-    "aciklama": "hücre hasarı veya nekroz anında çevreye saçılarak mikropsuz steril inflamasyonu başlatan doku molekülleri.",
+    "aciklama": "hücre hasarı veya nekroz anında çevreye saçılarak mikropsuz steril inflamasyonu",
     "yasakli_kelimeler": [
       "hasar",
       "steril inflamasyon",
@@ -465,7 +465,7 @@
     "id": 34,
     "kategori": "immunoloji",
     "kelime": "mast hücresi",
-    "aciklama": "dokularda yerleşik bulunan, granüllerinde yüksek miktarda histamin ve heparin depolayan, ige ile degranüle olan hücre.",
+    "aciklama": "dokularda histamin depolayarak alerjik reaksiyonu başlatan hücre",
     "yasakli_kelimeler": [
       "histamin",
       "degranülasyon",
@@ -479,7 +479,7 @@
     "id": 35,
     "kategori": "immunoloji",
     "kelime": "bazofil",
-    "aciklama": "kandaki oranı en düşük olan, yüzeyinde fcepsilon reseptörü taşıyan ve sistemik aşırı duyarlılıkta histamin salan granülosit.",
+    "aciklama": "kanda histamin salgılayarak inflamasyonu başlatan granülosit hücresi",
     "yasakli_kelimeler": [
       "dolaşan mast",
       "lökosit",
@@ -493,7 +493,7 @@
     "id": 36,
     "kategori": "immunoloji",
     "kelime": "eozinofil",
-    "aciklama": "büyük parazit larvalarını majör bazik protein ile tahrip eden ve alerjik astımda havayolu hasarı oluşturan granülosit.",
+    "aciklama": "paraziter enfeksiyonlarda ve alerjik yanıtlarda görev alan granülosit",
     "yasakli_kelimeler": [
       "majör bazik protein",
       "parazit savunması",
@@ -507,7 +507,7 @@
     "id": 37,
     "kategori": "immunoloji",
     "kelime": "somatik hipermutasyon",
-    "aciklama": "antijenle karşılaşan b hücrelerinin ig v-bölgesi genlerinde meydana gelen ve antikor afinitesini artıran noktasal mutasyon süreci.",
+    "aciklama": "antikor değişken genlerinde meydana gelen yüksek mutasyon süreci",
     "yasakli_kelimeler": [
       "afinite olgunlaşması",
       "mutasyon",
@@ -521,7 +521,7 @@
     "id": 38,
     "kategori": "immunoloji",
     "kelime": "izotip sınıf değişimi",
-    "aciklama": "b hücresinin antijen özgüllüğünü koruyarak antikorunun ağır zincir sabit bölgesini igm'den igg, iga veya ige'ye dönüştürmesi.",
+    "aciklama": "b hücresinin antijen özgüllüğünü koruyarak antikorunun ağır zincir sabit bölgesini",
     "yasakli_kelimeler": [
       "class switch",
       "ağır zincir",
@@ -535,7 +535,7 @@
     "id": 39,
     "kategori": "immunoloji",
     "kelime": "afinite olgunlaşması",
-    "aciklama": "germinal merkezdeki b hücrelerinin somatik mutasyonlar sonucu antijene giderek daha yüksek güçle bağlanır hale gelmesi.",
+    "aciklama": "b hücrelerinin antijene olan bağlanma gücünün zamanla artması",
     "yasakli_kelimeler": [
       "yüksek bağlanma gücü",
       "germinal merkez",
@@ -549,7 +549,7 @@
     "id": 40,
     "kategori": "immunoloji",
     "kelime": "germinal merkez",
-    "aciklama": "lenf düğümü ve dalak foliküllerinde b lenfositlerin yoğun proliferasyon, mutasyon ve seçilime uğradığı dinamik mikroçevre.",
+    "aciklama": "lenf düğümü ve dalak foliküllerinde b lenfositlerin yoğun proliferasyon, mutasyon",
     "yasakli_kelimeler": [
       "lenf folikülü",
       "b hücresi eğitimi",
@@ -563,7 +563,7 @@
     "id": 41,
     "kategori": "immunoloji",
     "kelime": "vdj rekombinasyonu",
-    "aciklama": "lenfosit öncüllerinde rag enzimleri aracılığıyla değişken, çeşitlilik ve birleşme gen segmentlerinin rastgele dizilimi süreci.",
+    "aciklama": "lenfosit öncüllerinde rag enzimleri aracılığıyla değişken, çeşitlilik ve birleşme gen",
     "yasakli_kelimeler": [
       "rag1 rag2",
       "antijen reseptör çeşitliliği",
@@ -577,7 +577,7 @@
     "id": 42,
     "kategori": "immunoloji",
     "kelime": "negatif seçilim",
-    "aciklama": "timus veya kemik iliğinde öz antijenlere aşırı yüksek afiniteyle bağlanan lenfositlerin apoptozla elenmesi mekanizması.",
+    "aciklama": "timus veya kemik iliğinde öz antijenlere aşırı yüksek afiniteyle bağlanan",
     "yasakli_kelimeler": [
       "klonal delesyon",
       "santral tolerans",
@@ -591,7 +591,7 @@
     "id": 43,
     "kategori": "immunoloji",
     "kelime": "pozitif seçilim",
-    "aciklama": "timik kortekste kendi mhc moleküllerini orta düzeyde tanıyabilen t lenfositlerin hayatta kalmasına izin veren süreç.",
+    "aciklama": "timik kortekste kendi mhc moleküllerini orta düzeyde tanıyabilen t lenfositlerin",
     "yasakli_kelimeler": [
       "mhc kısıtlaması",
       "timik korteks",
@@ -605,7 +605,7 @@
     "id": 44,
     "kategori": "immunoloji",
     "kelime": "santral tolerans",
-    "aciklama": "birincil lenfoid organlarda (timus ve kemik iliği) kendi dokularına reaktif lenfositlerin yok edilmesi veya susturulması.",
+    "aciklama": "birincil lenfoid organlarda (timus ve kemik iliği) kendi dokularına reaktif",
     "yasakli_kelimeler": [
       "öz reaktif lenfosit",
       "timus kemik iliği",
@@ -619,7 +619,7 @@
     "id": 45,
     "kategori": "immunoloji",
     "kelime": "periferik tolerans",
-    "aciklama": "santral denetimden kaçan oto-reaktif lenfositlerin dolaşımda regülatuvar t hücreleri, anerji veya delesyonla kontrolü.",
+    "aciklama": "dolaşımdaki otoreaktif hücrelerin anerji veya baskılanmayla kontrolü",
     "yasakli_kelimeler": [
       "anerji",
       "treg baskılaması",
@@ -633,7 +633,7 @@
     "id": 46,
     "kategori": "immunoloji",
     "kelime": "anerji",
-    "aciklama": "antijen sunumu sırasında ikincil kostimülatör sinyalin (cd28-b7) eksikliği sonucu lenfositin kalıcı işlevsiz kalması.",
+    "aciklama": "antijenle karşılaşan lenfositin uyarılma yeteneğini kaybetmesi hali",
     "yasakli_kelimeler": [
       "yanıtsızlık",
       "kostimülasyon eksikliği",
@@ -647,7 +647,7 @@
     "id": 47,
     "kategori": "immunoloji",
     "kelime": "kostimülasyon",
-    "aciklama": "t hücresinin tam aktivasyonu için mhc-peptid kompleksine ek olarak gereken cd28 ile cd80/cd86 eşleşmesi sinyali.",
+    "aciklama": "t hücresinin tam aktivasyonu için mhc-peptid kompleksine ek olarak gereken",
     "yasakli_kelimeler": [
       "ikinci sinyal",
       "cd28",
@@ -661,7 +661,7 @@
     "id": 48,
     "kategori": "immunoloji",
     "kelime": "bağışıklık kontrol noktası",
-    "aciklama": "immün yanıtın şiddetini dizginleyen ve doku hasarını önleyen pd-1 veya ctla-4 gibi inhibitör reseptör yolağı.",
+    "aciklama": "immün yanıtın şiddetini dizginleyen ve doku hasarını önleyen pd-1 veya",
     "yasakli_kelimeler": [
       "checkpoint",
       "pd-1",
@@ -675,7 +675,7 @@
     "id": 49,
     "kategori": "immunoloji",
     "kelime": "monosit",
-    "aciklama": "kanda dolaşırken dokulara göç edip makrofaj veya dendritik hücreye farklılaşan böbrek çekirdekli agranülosit.",
+    "aciklama": "kanda dolaşırken dokulara göç edip makrofaj veya dendritik hücreye farklılaşan",
     "yasakli_kelimeler": [
       "dolaşan fagosit",
       "makrofaj öncülü",
@@ -689,7 +689,7 @@
     "id": 50,
     "kategori": "immunoloji",
     "kelime": "langerhans hücresi",
-    "aciklama": "derinin epidermis tabakasında yerleşik olan ve birbeck granülleri içeren dokuya özgü dendritik hücre türü.",
+    "aciklama": "derinin epidermis tabakasında yerleşik olan ve birbeck granülleri içeren dokuya",
     "yasakli_kelimeler": [
       "epidermis",
       "deri dendritik",
@@ -703,7 +703,7 @@
     "id": 51,
     "kategori": "immunoloji",
     "kelime": "mikroglia",
-    "aciklama": "merkezi sinir sisteminin yerleşik makrofajı olup nöronal artıkların temizliği ve nöroinflamasyondan sorumlu hücre.",
+    "aciklama": "merkezi sinir sisteminin yerleşik makrofajı olup nöronal artıkların temizliği ve",
     "yasakli_kelimeler": [
       "beyin makrofajı",
       "sinir sistemi fagosit",
@@ -717,7 +717,7 @@
     "id": 52,
     "kategori": "immunoloji",
     "kelime": "kupffer hücresi",
-    "aciklama": "karaciğer sinüzoidlerinde yerleşik olan ve portal kandan gelen patojenleri ve yaşlı eritrositleri temizleyen uzman makrofaj.",
+    "aciklama": "karaciğer sinüzoidlerinde yerleşik olan ve portal kandan gelen patojenleri ve",
     "yasakli_kelimeler": [
       "karaciğer makrofajı",
       "sinüzoid",
@@ -731,7 +731,7 @@
     "id": 53,
     "kategori": "immunoloji",
     "kelime": "perforin",
-    "aciklama": "sitotoksik t ve nk hücrelerince salgılanıp hedef hücre zarına yerleşerek porlar açan litik protein.",
+    "aciklama": "sitotoksik t ve nk hücrelerince salgılanıp hedef hücre zarına yerleşerek",
     "yasakli_kelimeler": [
       "hedef hücre deliği",
       "zar poru",
@@ -745,7 +745,7 @@
     "id": 54,
     "kategori": "immunoloji",
     "kelime": "granzim",
-    "aciklama": "perforin porlarından hedef hücreye girip kaspazları aktive ederek hücreyi programlı ölüme götüren serin proteaz.",
+    "aciklama": "perforin porlarından hedef hücreye girip kaspazları aktive ederek hücreyi programlı",
     "yasakli_kelimeler": [
       "serin proteaz",
       "kaspaz aktivasyonu",
@@ -759,7 +759,7 @@
     "id": 55,
     "kategori": "immunoloji",
     "kelime": "apoptoz",
-    "aciklama": "çevre dokularda inflamasyon yaratmadan hücrenin büzüşüp kaspazlar yoluyla intihar ettiği programlı hücre ölümü.",
+    "aciklama": "çevre dokularda iltihap oluşturmadan gerçekleşen programlı hücre ölümü",
     "yasakli_kelimeler": [
       "programlı hücre ölümü",
       "kaspaz",
@@ -773,7 +773,7 @@
     "id": 56,
     "kategori": "immunoloji",
     "kelime": "kaspaz",
-    "aciklama": "apoptoz kaskadında kilit rol oynayan ve hedef hücresel proteinleri spesifik aspartat kalıntılarından kesen sistein proteazlar.",
+    "aciklama": "apoptoz kaskadında kilit rol oynayan ve hedef hücresel proteinleri spesifik",
     "yasakli_kelimeler": [
       "sistein proteaz",
       "apoptoz enzimi",
@@ -787,7 +787,7 @@
     "id": 57,
     "kategori": "immunoloji",
     "kelime": "granülom",
-    "aciklama": "yok edilemeyen hücre içi etkenleri çevrelemek üzere epiteloid histiyositler ve dev hücrelerin oluşturduğu organize nodüler yapı.",
+    "aciklama": "yok edilemeyen hücre içi etkenleri çevrelemek üzere epiteloid histiyositler ve",
     "yasakli_kelimeler": [
       "kronik inflamasyon",
       "epiteloid hücre",
@@ -801,7 +801,7 @@
     "id": 58,
     "kategori": "immunoloji",
     "kelime": "interlökin 2",
-    "aciklama": "aktive t hücrelerince salgılanıp otokrin yolla lenfosit proliferasyon ve klonal genişlemesini tetikleyen temel büyüme faktörü.",
+    "aciklama": "aktive t hücrelerince salgılanıp otokrin yolla lenfosit proliferasyon ve klonal",
     "yasakli_kelimeler": [
       "t hücresi proliferasyonu",
       "otokrin büyüme",
@@ -815,7 +815,7 @@
     "id": 59,
     "kategori": "immunoloji",
     "kelime": "interlökin 6",
-    "aciklama": "karaciğerden crp gibi akut faz proteinlerinin sentezini uyaran ve hipotalamusta ateş oluşturan majör proinflamatuar sitokin.",
+    "aciklama": "karaciğerden crp gibi akut faz proteinlerinin sentezini uyaran ve hipotalamusta",
     "yasakli_kelimeler": [
       "akut faz yanıtı",
       "crp uyarısı",
@@ -829,7 +829,7 @@
     "id": 60,
     "kategori": "immunoloji",
     "kelime": "c reaktif protein",
-    "aciklama": "akut faz yanıtında karaciğerce bol miktarda üretilen, patojenlere bağlanıp komplemanı aktive eden kanda takip edilen belirteç.",
+    "aciklama": "akut faz yanıtında karaciğerce bol miktarda üretilen, patojenlere bağlanıp komplemanı",
     "yasakli_kelimeler": [
       "crp",
       "akut faz proteini",
@@ -843,7 +843,7 @@
     "id": 61,
     "kategori": "immunoloji",
     "kelime": "eritrosit sedimantasyon hızı",
-    "aciklama": "inflamasyon sırasında plazma fibrinojen seviyesi arttıkça kırmızı kan hücrelerinin tüp dibine çökme hızının artması testi.",
+    "aciklama": "inflamasyon sırasında plazma fibrinojen seviyesi arttıkça kırmızı kan hücrelerinin tüp",
     "yasakli_kelimeler": [
       "sedim",
       "çökme hızı",
@@ -857,7 +857,7 @@
     "id": 62,
     "kategori": "immunoloji",
     "kelime": "timus",
-    "aciklama": "ön mediastende bulunan, t lenfositlerinin olgunlaştığı ve pozitif/negatif seçilim basamaklarından geçtiği birincil lenfoid organ.",
+    "aciklama": "t lenfositlerinin olgunlaştığı ve eğitildiği primer lenfoid organ",
     "yasakli_kelimeler": [
       "t hücresi olgunlaşma",
       "mediasten",
@@ -871,7 +871,7 @@
     "id": 63,
     "kategori": "immunoloji",
     "kelime": "kemik iliği",
-    "aciklama": "tüm kan hücrelerinin köken aldığı ve b lenfositlerinin antijen bağımsız olgunlaşmasını tamamladığı hematopoetik organ.",
+    "aciklama": "tüm kan hücrelerinin ve b lenfositlerin üretildiği primer merkez",
     "yasakli_kelimeler": [
       "hematopoez",
       "b hücresi olgunlaşması",
@@ -885,7 +885,7 @@
     "id": 64,
     "kategori": "immunoloji",
     "kelime": "dalak",
-    "aciklama": "kan filtre eden, yaşlı eritrositleri parçalayan ve beyaz pulpasında kana karışan patojenlere karşı bağışıklık başlatan organ.",
+    "aciklama": "kandaki antijenleri süzen ve bağışıklık yanıtı başlatan lenfoid organ",
     "yasakli_kelimeler": [
       "kırmızı pulpa",
       "beyaz pulpa",
@@ -899,7 +899,7 @@
     "id": 65,
     "kategori": "immunoloji",
     "kelime": "peyer plağı",
-    "aciklama": "ince bağırsağın ileum tabakasında yerleşik, mukozal bağışıklığın çekirdeğini oluşturan organized lenf folikülleri topluluğu.",
+    "aciklama": "ince bağırsağın ileum tabakasında yerleşik, mukozal bağışıklığın çekirdeğini oluşturan organized",
     "yasakli_kelimeler": [
       "malt",
       "ince bağırsak",
@@ -913,7 +913,7 @@
     "id": 66,
     "kategori": "immunoloji",
     "kelime": "mikrofold hücresi",
-    "aciklama": "peyer plaklarının üzerindeki bağırsak epitelinde bulunup lümendeki antijenleri transsitozla alttaki dendritik hücreye ileten hücre.",
+    "aciklama": "peyer plaklarının üzerindeki bağırsak epitelinde bulunup lümendeki antijenleri transsitozla alttaki",
     "yasakli_kelimeler": [
       "m hücresi",
       "transsitoz",
@@ -927,7 +927,7 @@
     "id": 67,
     "kategori": "immunoloji",
     "kelime": "özgül bağışıklık",
-    "aciklama": "antijene özel reseptörlerle tanıma yapan, klonal genişleme gösteren ve immünolojik hafıza oluşturan edinsel savunma hattı.",
+    "aciklama": "antijene özel reseptörlerle tanıma yapan, klonal genişleme gösteren ve immünolojik",
     "yasakli_kelimeler": [
       "edinsel bağışıklık",
       "kazanılmış immünite",
@@ -941,7 +941,7 @@
     "id": 68,
     "kategori": "immunoloji",
     "kelime": "doğal bağışıklık",
-    "aciklama": "önceden maruziyet gerektirmeyen, genetik kodlu reseptörlerle patojen yapılarını hızla tanıyan ilk savunma mekanizması.",
+    "aciklama": "doğuştan gelen ve özgül olmayan ilk savunma hattı",
     "yasakli_kelimeler": [
       "doğuştan gelen",
       "hafızasız",
@@ -955,7 +955,7 @@
     "id": 69,
     "kategori": "immunoloji",
     "kelime": "klonal seleksiyon",
-    "aciklama": "özgül bir antijenle karşılaşan tek bir öncül lenfositin çoğalarak aynı antijen reseptörüne sahip klon ordusu oluşturması teorisi.",
+    "aciklama": "özgül bir antijenle karşılaşan tek bir öncül lenfositin çoğalarak aynı",
     "yasakli_kelimeler": [
       "klon çoğalması",
       "antijen seçimi",
@@ -969,7 +969,7 @@
     "id": 70,
     "kategori": "immunoloji",
     "kelime": "adcc mekanizması",
-    "aciklama": "hedef hücreye bağlanan antikorların fc ucunu tanıyan katil hücrelerin perforin ve granzim salarak hedefi imha etmesi.",
+    "aciklama": "hedef hücreye bağlanan antikorların fc ucunu tanıyan katil hücrelerin perforin",
     "yasakli_kelimeler": [
       "antikor",
       "nk hücresi",
@@ -983,7 +983,7 @@
     "id": 71,
     "kategori": "immunoloji",
     "kelime": "anafilaksi",
-    "aciklama": "ige aracılı mast hücresi degranülasyonu sonucu hızla gelişen bronkospazm, hipotansiyon ve larinks ödemi tablosu.",
+    "aciklama": "tüm vücudu etkileyen ölümcül akut alerjik şok tablosu",
     "yasakli_kelimeler": [
       "tip 1 alerji",
       "epinefrin tedavisi",
@@ -997,7 +997,7 @@
     "id": 72,
     "kategori": "immunoloji",
     "kelime": "aşırı duyarlılık",
-    "aciklama": "bağışıklık sisteminin zararsız çevre antijenlerine veya patojenlere karşı doku hasarı yaratacak boyutta kontrolsüz yanıt vermesi.",
+    "aciklama": "bağışıklık sisteminin zararsız maddelere verdiği abartılı doku hasarı",
     "yasakli_kelimeler": [
       "aşırı reaksiyon",
       "alerji",
@@ -1011,7 +1011,7 @@
     "id": 73,
     "kategori": "immunoloji",
     "kelime": "serum hastalığı",
-    "aciklama": "dolaşımdaki antijen-antikor immün komplekslerinin küçük damar duvarlarına çökmesiyle gelişen sistemik tip 3 reaksiyon.",
+    "aciklama": "dolaşımdaki antijen-antikor immün komplekslerinin küçük damar duvarlarına çökmesiyle gelişen sistemik",
     "yasakli_kelimeler": [
       "tip 3 hipersensitivite",
       "immün kompleks çökmesi",
@@ -1025,7 +1025,7 @@
     "id": 74,
     "kategori": "immunoloji",
     "kelime": "gecikmiş aşırı duyarlılık",
-    "aciklama": "antijenle temastan bir ila üç gün sonra t lenfositleri ve makrofajların dokuya hücum etmesiyle beliren tip 4 reaksiyon.",
+    "aciklama": "antijenle temastan bir ila üç gün sonra t lenfositleri ve",
     "yasakli_kelimeler": [
       "tip 4",
       "t lenfosit",
@@ -1039,7 +1039,7 @@
     "id": 75,
     "kategori": "immunoloji",
     "kelime": "otoantikor",
-    "aciklama": "bağışıklık sisteminin kendi vücut doku, hücre veya moleküllerini yabancı algılayarak onlara karşı ürettiği hatalı antikor.",
+    "aciklama": "bağışıklık sisteminin kendi vücut doku, hücre veya moleküllerini yabancı algılayarak",
     "yasakli_kelimeler": [
       "otoimmünite",
       "kendi dokusuna saldırı",
@@ -1053,7 +1053,7 @@
     "id": 76,
     "kategori": "immunoloji",
     "kelime": "antinükleer antikor",
-    "aciklama": "hücre çekirdeğindeki çeşitli nükleer bileşenlere karşı oluşan ve sistemik lupus eritematozus gibi hastalıklarda bakılan otoantikor.",
+    "aciklama": "hücre çekirdeğindeki çeşitli nükleer bileşenlere karşı oluşan ve sistemik lupus",
     "yasakli_kelimeler": [
       "ana",
       "hücre çekirdeği",
@@ -1067,7 +1067,7 @@
     "id": 77,
     "kategori": "immunoloji",
     "kelime": "romatoid faktör",
-    "aciklama": "özellikle igg antikorunun fc sabit parçasına karşı üretilmiş çoğunlukla igm yapısındaki otoantikor.",
+    "aciklama": "özellikle igg antikorunun fc sabit parçasına karşı üretilmiş çoğunlukla igm",
     "yasakli_kelimeler": [
       "rf",
       "romatoid artrit",
@@ -1081,7 +1081,7 @@
     "id": 78,
     "kategori": "immunoloji",
     "kelime": "sitokin fırtınası",
-    "aciklama": "bağışıklık hücrelerinin aşırı ve kontrolsüz aktivasyonu sonucu dolaşıma devasa sitokin salınması ve çoklu organ yetmezliği tablosu.",
+    "aciklama": "kontrolsüz aşırı sitokin salımıyla gelişen ölümcül sistemik inflamasyon",
     "yasakli_kelimeler": [
       "kontrolsüz sitokin",
       "hiperenflamasyon",
@@ -1095,7 +1095,7 @@
     "id": 79,
     "kategori": "immunoloji",
     "kelime": "aşı",
-    "aciklama": "patojene yakalanmadan koruyucu bağışıklık ve hafıza hücreleri oluşturmak için verilen zayıflatılmış, ölü veya mrna tabanlı antijen.",
+    "aciklama": "bağışıklık sistemini eğiterek antikor üretimini tetikleyen zayıflatılmış biyolojik ürün",
     "yasakli_kelimeler": [
       "immünizasyon",
       "koruyucu tıp",
@@ -1109,7 +1109,7 @@
     "id": 80,
     "kategori": "immunoloji",
     "kelime": "pasif bağışıklık",
-    "aciklama": "başka bir canlı tarafından üretilmiş hazır antikorların kişiye verilmesiyle sağlanan hızlı fakat geçici koruma.",
+    "aciklama": "dışarıdan hazır antikor verilerek sağlanan geçici koruma",
     "yasakli_kelimeler": [
       "hazır antikor",
       "kısa süreli koruma",
@@ -1123,7 +1123,7 @@
     "id": 81,
     "kategori": "immunoloji",
     "kelime": "aktif bağışıklık",
-    "aciklama": "bireyin kendi bağışıklık sisteminin antijenle karşılaşıp antikor ve spesifik hafıza hücreleri geliştirmesiyle kazanılan uzun süreli koruma.",
+    "aciklama": "enfeksiyon veya aşı yoluyla vücudun kendi antikorunu üretmesi",
     "yasakli_kelimeler": [
       "aşılanma",
       "enfeksiyon geçirme",
@@ -1137,7 +1137,7 @@
     "id": 82,
     "kategori": "immunoloji",
     "kelime": "sürü bağışıklığı",
-    "aciklama": "toplumun kritik bir oranının aşı veya enfeksiyonla bağışık olması sayesinde enfeksiyon zincirinin kırılıp bağışık olmayanların da korunması.",
+    "aciklama": "toplumun büyük kısmının aşılanmasıyla salgının yayılmasının durdurulması durumu",
     "yasakli_kelimeler": [
       "toplumsal koruma",
       "bulaş zinciri kesilmesi",
@@ -1151,7 +1151,7 @@
     "id": 83,
     "kategori": "immunoloji",
     "kelime": "scid hastalığı",
-    "aciklama": "hem t hem de b lenfositlerinin doğuştan yokluğu nedeniyle bebeği en ufak enfeksiyonlara karşı savunmasız bırakan genetik yetmezlik.",
+    "aciklama": "hem t hem de b lenfositlerinin doğuştan yokluğu nedeniyle bebeği",
     "yasakli_kelimeler": [
       "balon çocuk",
       "lenfosit",
@@ -1165,7 +1165,7 @@
     "id": 84,
     "kategori": "immunoloji",
     "kelime": "bruton agamaglobulinemisi",
-    "aciklama": "btk gen mutasyonu nedeniyle b lenfosit öncüllerinin olgunlaşamadığı ve kanda hiç antikor üretilemeyen x'e bağlı hastalık.",
+    "aciklama": "btk gen mutasyonu nedeniyle b lenfosit öncüllerinin olgunlaşamadığı ve kanda",
     "yasakli_kelimeler": [
       "btk enzimi",
       "b hücresi yokluğu",
@@ -1179,7 +1179,7 @@
     "id": 85,
     "kategori": "immunoloji",
     "kelime": "digeorge sendromu",
-    "aciklama": "22q11.2 delesyonu sonucu 3. ve 4. faringeal ceplerin gelişememesiyle timus aplazisi ve t lenfosit eksikliği görülen sendrom.",
+    "aciklama": "timus bezi gelişmemesi sonucu t lenfositi eksikliği sendromu",
     "yasakli_kelimeler": [
       "timus yokluğu",
       "22q11",
@@ -1193,7 +1193,7 @@
     "id": 86,
     "kategori": "immunoloji",
     "kelime": "kronik granülomatöz hastalık",
-    "aciklama": "fagositlerde nadph oksidaz enzim kompleksinin genetik defekti nedeniyle reaktif oksijen ürünleri üretilemeyen hastalık.",
+    "aciklama": "fagositlerin mikropları öldürme mekanizmasının bozuk olduğu hastalık",
     "yasakli_kelimeler": [
       "nadph oksidaz eksikliği",
       "solunumsal patlama yokluğu",
@@ -1207,7 +1207,7 @@
     "id": 87,
     "kategori": "immunoloji",
     "kelime": "solunumsal patlama",
-    "aciklama": "aktive fagositlerin fagositoz esnasında oksijen tüketimini hızla artırarak mikropları öldüren reaktif oksijen radikalleri üretmesi süreci.",
+    "aciklama": "aktive fagositlerin fagositoz esnasında oksijen tüketimini hızla artırarak mikropları öldüren",
     "yasakli_kelimeler": [
       "respiratory burst",
       "nadph oksidaz",
@@ -1221,7 +1221,7 @@
     "id": 88,
     "kategori": "immunoloji",
     "kelime": "miyeloperoksidaz",
-    "aciklama": "nötrofil azurofilik granüllerinde bulunan, hidrojen peroksit ve klorürden güçlü bakterisid hipokloröz asit üreten enzim.",
+    "aciklama": "nötrofil azurofilik granüllerinde bulunan, hidrojen peroksit ve klorürden güçlü bakterisid",
     "yasakli_kelimeler": [
       "yeşil pigment",
       "hipokloröz asit",
@@ -1235,7 +1235,7 @@
     "id": 89,
     "kategori": "immunoloji",
     "kelime": "lökosit adezyon defekti",
-    "aciklama": "lökosit yüzeyindeki integrin adezyon moleküllerinin eksikliği nedeniyle nötrofillerin damardan enfekte dokuya göç edememesi hastalığı.",
+    "aciklama": "lökosit yüzeyindeki integrin adezyon moleküllerinin eksikliği nedeniyle nötrofillerin damardan enfekte",
     "yasakli_kelimeler": [
       "integrin eksikliği",
       "cd18",
@@ -1249,7 +1249,7 @@
     "id": 90,
     "kategori": "immunoloji",
     "kelime": "diapedez",
-    "aciklama": "aktive lökositlerin damar endotel hücrelerinin aralığından biçim değiştirerek hasarlı veya iltihaplı bağ dokuya sızması olayı.",
+    "aciklama": "lökositlerin kan damarı duvarından geçerek dokuya sızması",
     "yasakli_kelimeler": [
       "transmigrasyon",
       "damardan çıkış",
@@ -1263,7 +1263,7 @@
     "id": 91,
     "kategori": "immunoloji",
     "kelime": "selektin",
-    "aciklama": "lökositlerin kan damarı duvarı boyunca yavaşlayarak yuvarlanmasını sağlayan hücre yüzey adezyon molekülü ailesi.",
+    "aciklama": "lökositlerin kan damarı duvarı boyunca yavaşlayarak yuvarlanmasını sağlayan hücre yüzey",
     "yasakli_kelimeler": [
       "yuvarlanma",
       "endotel tutunması",
@@ -1277,7 +1277,7 @@
     "id": 92,
     "kategori": "immunoloji",
     "kelime": "integrin",
-    "aciklama": "selektinlerle yavaşlayan lökositin damar endoteline sıkıca kenetlenmesini ve durmasını sağlayan heterodimerik adezyon reseptörü.",
+    "aciklama": "selektinlerle yavaşlayan lökositin damar endoteline sıkıca kenetlenmesini ve durmasını sağlayan",
     "yasakli_kelimeler": [
       "sıkı tutunma",
       "vcam ve icam",
@@ -1291,7 +1291,7 @@
     "id": 93,
     "kategori": "immunoloji",
     "kelime": "gvhd hastalığı",
-    "aciklama": "kemik iliği naklinden sonra donör lenfositlerinin alıcının sağlıklı organlarını yabancı görerek saldırması durumu.",
+    "aciklama": "kemik iliği naklinden sonra donör lenfositlerinin alıcının sağlıklı organlarını yabancı",
     "yasakli_kelimeler": [
       "greft",
       "ilik nakli",
@@ -1305,7 +1305,7 @@
     "id": 94,
     "kategori": "immunoloji",
     "kelime": "hiperakut organ reddi",
-    "aciklama": "nakil tamamlandıktan dakikalar sonra alıcıdaki önceden var olan antikorların donör damar endoteline saldırmasıyla gelişen trombotik rejeksiyon.",
+    "aciklama": "nakil tamamlandıktan dakikalar sonra alıcıdaki önceden var olan antikorların donör",
     "yasakli_kelimeler": [
       "dakikalar içinde",
       "önceden var olan antikor",
@@ -1319,7 +1319,7 @@
     "id": 95,
     "kategori": "immunoloji",
     "kelime": "akut organ reddi",
-    "aciklama": "organ naklinden haftalar veya aylar sonra alıcının t lenfositlerinin allogrefte hücresel saldırı başlatmasıyla oluşan rejeksiyon.",
+    "aciklama": "organ naklinden haftalar veya aylar sonra alıcının t lenfositlerinin allogrefte",
     "yasakli_kelimeler": [
       "hücresel rejeksiyon",
       "t lenfosit saldırısı",
@@ -1333,7 +1333,7 @@
     "id": 96,
     "kategori": "immunoloji",
     "kelime": "kronik organ reddi",
-    "aciklama": "yıllar içinde damar intiması proliferasyonu ve interstisyel fibrozis ile organın yavaş yavaş işlevini kaybetmesi tablosu.",
+    "aciklama": "yıllar içinde damar intiması proliferasyonu ve interstisyel fibrozis ile organın",
     "yasakli_kelimeler": [
       "uzun vadeli red",
       "vasküler intima kalınlaşması",
@@ -1347,7 +1347,7 @@
     "id": 97,
     "kategori": "immunoloji",
     "kelime": "monoklonal gamopati",
-    "aciklama": "tek bir klonal plazma hücresi popülasyonunun aşırı miktarda homojen yapıda immünglobulin proteini salgılaması durumu.",
+    "aciklama": "tek bir klonal plazma hücresi popülasyonunun aşırı miktarda homojen yapıda",
     "yasakli_kelimeler": [
       "m proteini",
       "paraproteinemi",
@@ -1361,7 +1361,7 @@
     "id": 98,
     "kategori": "immunoloji",
     "kelime": "kriyoglobülin",
-    "aciklama": "vücut ısısı normalin altına (4°c) düştüğünde çöken veya jel haline gelen, ısınınca tekrar çözünen anormal serum immünglobulinleri.",
+    "aciklama": "vücut ısısı normalin altına (4°c) düştüğünde çöken veya jel haline",
     "yasakli_kelimeler": [
       "soğukta çöken antikor",
       "vaskülit",
@@ -1375,7 +1375,7 @@
     "id": 99,
     "kategori": "immunoloji",
     "kelime": "prozon fenomeni",
-    "aciklama": "antijen-antikor testlerinde ortamda aşırı miktarda antikor bulunması nedeniyle çökelme veya aglütinasyonun yalancı negatif çıkması.",
+    "aciklama": "antijen-antikor testlerinde ortamda aşırı miktarda antikor bulunması nedeniyle çökelme veya",
     "yasakli_kelimeler": [
       "aşırı antikor",
       "yalancı negatif",
@@ -1389,7 +1389,7 @@
     "id": 100,
     "kategori": "immunoloji",
     "kelime": "western blot",
-    "aciklama": "proteinleri jel elektroforezi ile ayırıp membrana aktardıktan sonra spesifik antikorlar yardımıyla hedef proteini tespit eden yöntem.",
+    "aciklama": "özel proteinleri jel elektroforezi ve antikorlarla tespit eden yöntem",
     "yasakli_kelimeler": [
       "protein analizi",
       "jel elektroforezi",
@@ -1403,7 +1403,7 @@
     "id": 101,
     "kategori": "immunoloji",
     "kelime": "hafıza hücresi",
-    "aciklama": "bir patojenle ilk karşılaşmadan sonra yıllarca kanda kalarak ikinci enfeksiyonda çok hızlı antikor üreten lenfosit.",
+    "aciklama": "bir patojenle ilk karşılaşmadan sonra yıllarca kanda kalarak ikinci enfeksiyonda",
     "yasakli_kelimeler": [
       "bellek hücresi",
       "uzun ömürlü",
@@ -1417,7 +1417,7 @@
     "id": 102,
     "kategori": "immunoloji",
     "kelime": "lenfosit",
-    "aciklama": "kazanılmış bağışıklığın temelini oluşturan, t ve b tipleri bulunan tek çekirdekli beyaz kan hücresi.",
+    "aciklama": "kazanılmış bağışıklığın temelini oluşturan, t ve b tipleri bulunan tek",
     "yasakli_kelimeler": [
       "t hücresi",
       "b hücresi",
@@ -1431,7 +1431,7 @@
     "id": 103,
     "kategori": "immunoloji",
     "kelime": "lökosit",
-    "aciklama": "vücudu enfeksiyonlara ve yabancı mikroorganizmalara karşı savunan tüm beyaz kan hücrelerinin genel adı.",
+    "aciklama": "vücudu enfeksiyonlara ve yabancı mikroorganizmalara karşı savunan tüm beyaz kan",
     "yasakli_kelimeler": [
       "akyuvar",
       "beyaz kan",
@@ -1445,7 +1445,7 @@
     "id": 104,
     "kategori": "immunoloji",
     "kelime": "granülosit",
-    "aciklama": "sitoplazmasında sindirici enzimler barındıran granüllere sahip nötrofil, eozinofil ve bazofilleri kapsayan hücre grubu.",
+    "aciklama": "sitoplazmasında sindirici enzimler barındıran granüllere sahip nötrofil, eozinofil ve bazofilleri",
     "yasakli_kelimeler": [
       "nötrofil bazofil",
       "granüllü akyuvar",
@@ -1459,7 +1459,7 @@
     "id": 105,
     "kategori": "immunoloji",
     "kelime": "agranülosit",
-    "aciklama": "sitoplazmasında belirgin granüller bulunmayan ve tek parça çekirdeğe sahip lenfosit ve monosit hücreleri.",
+    "aciklama": "sitoplazmasında belirgin granüller bulunmayan ve tek parça çekirdeğe sahip lenfosit",
     "yasakli_kelimeler": [
       "granülsüz akyuvar",
       "lenfosit monosit",
@@ -1473,7 +1473,7 @@
     "id": 106,
     "kategori": "immunoloji",
     "kelime": "trombosit",
-    "aciklama": "kemik iliğindeki megakaryositlerden kopan, pıhtılaşmayı sağlayan ve inflamasyonda kimyasal sinyal yayan kan pulcuğu.",
+    "aciklama": "kemik iliğindeki megakaryositlerden kopan, pıhtılaşmayı sağlayan ve inflamasyonda kimyasal sinyal",
     "yasakli_kelimeler": [
       "kan pulcuğu",
       "pıhtılaşma",
@@ -1487,7 +1487,7 @@
     "id": 107,
     "kategori": "immunoloji",
     "kelime": "retikülosit",
-    "aciklama": "kemik iliğinde olgunlaşmasını tamamlayıp henüz dolaşıma yeni çıkmış genç ve çekirdeksiz kırmızı kan hücresi.",
+    "aciklama": "kemik iliğinde olgunlaşmasını tamamlayıp henüz dolaşıma yeni çıkmış genç ve",
     "yasakli_kelimeler": [
       "genç alyuvar",
       "olgunlaşmamış eritrosit",
@@ -1501,7 +1501,7 @@
     "id": 108,
     "kategori": "immunoloji",
     "kelime": "miyeloid seri",
-    "aciklama": "kemik iliği kök hücresinden köken alarak eritrosit, trombosit, monosit ve granülositleri oluşturan hücre hattı.",
+    "aciklama": "kemik iliği kök hücresinden köken alarak eritrosit, trombosit, monosit ve",
     "yasakli_kelimeler": [
       "kök hücre hattı",
       "kemik iliği kökeni",
@@ -1515,7 +1515,7 @@
     "id": 109,
     "kategori": "immunoloji",
     "kelime": "lenfoid seri",
-    "aciklama": "kemik iliğindeki ortak öncülden farklılaşarak t lenfosit, b lenfosit ve doğal katil hücreleri oluşturan soy.",
+    "aciklama": "kemik iliğindeki ortak öncülden farklılaşarak t lenfosit, b lenfosit ve",
     "yasakli_kelimeler": [
       "lenfosit hattı",
       "t ve b hücresi kökeni",
@@ -1529,7 +1529,7 @@
     "id": 110,
     "kategori": "immunoloji",
     "kelime": "naif hücre",
-    "aciklama": "kemik iliği veya timusta olgunlaşmış ancak henüz kendi hedef antijeniyle hiç karşılaşmamış olgun lenfosit.",
+    "aciklama": "kemik iliği veya timusta olgunlaşmış ancak henüz kendi hedef antijeniyle",
     "yasakli_kelimeler": [
       "karşılaşmamış",
       "deneyimsiz lenfosit",
@@ -1543,7 +1543,7 @@
     "id": 111,
     "kategori": "immunoloji",
     "kelime": "t reseptörü",
-    "aciklama": "t hücrelerinin yüzeyinde yer alan ve mhc molekülleri tarafından sunulan peptit antijenlerini tanıyan alıcı.",
+    "aciklama": "t hücrelerinin yüzeyinde yer alan ve mhc molekülleri tarafından sunulan",
     "yasakli_kelimeler": [
       "tcr",
       "antijen alıcısı",
@@ -1557,7 +1557,7 @@
     "id": 112,
     "kategori": "immunoloji",
     "kelime": "b reseptörü",
-    "aciklama": "b lenfositlerinin zarında bulunan ve serbest antijenleri doğrudan bağlayan zara bağlı immünglobulin molekülü.",
+    "aciklama": "b lenfositlerinin zarında bulunan ve serbest antijenleri doğrudan bağlayan zara",
     "yasakli_kelimeler": [
       "bcr",
       "zara bağlı antikor",
@@ -1571,7 +1571,7 @@
     "id": 113,
     "kategori": "immunoloji",
     "kelime": "fc reseptörü",
-    "aciklama": "fagositer hücrelerin yüzeyinde antikorların sabit kuyruk kısmına bağlanarak opsonizasyonu sağlayan reseptör.",
+    "aciklama": "fagositer hücrelerin yüzeyinde antikorların sabit kuyruk kısmına bağlanarak opsonizasyonu sağlayan",
     "yasakli_kelimeler": [
       "antikor kuyruğu",
       "fagosit reseptörü",
@@ -1585,7 +1585,7 @@
     "id": 114,
     "kategori": "immunoloji",
     "kelime": "cd4 belirteci",
-    "aciklama": "yardımcı t hücrelerinin yüzeyinde bulunan ve mhc sınıf iki moleküllerine kilitlenen koreseptör glikoprotein.",
+    "aciklama": "yardımcı t hücrelerinin yüzeyinde bulunan ve mhc sınıf iki moleküllerine",
     "yasakli_kelimeler": [
       "yardımcı t belirteci",
       "hiv hedefi",
@@ -1599,7 +1599,7 @@
     "id": 115,
     "kategori": "immunoloji",
     "kelime": "cd8 belirteci",
-    "aciklama": "sitotoksik t lenfositlerinin yüzeyinde yer alıp virüslü hücrelerin mhc sınıf bir moleküllerini tanıyan koreseptör.",
+    "aciklama": "sitotoksik t lenfositlerinin yüzeyinde yer alıp virüslü hücrelerin mhc sınıf",
     "yasakli_kelimeler": [
       "sitotoksik t belirteci",
       "mhc 1 bağlayan",
@@ -1613,7 +1613,7 @@
     "id": 116,
     "kategori": "immunoloji",
     "kelime": "cd3 molekülü",
-    "aciklama": "t hücre reseptörüne bağlı olarak antijen tanındığında hücre içine aktivasyon sinyali ileten protein kompleksi.",
+    "aciklama": "t hücre reseptörüne bağlı olarak antijen tanındığında hücre içine aktivasyon",
     "yasakli_kelimeler": [
       "tcr kompleksi",
       "sinyal iletimi",
@@ -1627,7 +1627,7 @@
     "id": 117,
     "kategori": "immunoloji",
     "kelime": "yüzey antijeni",
-    "aciklama": "hücrelerin zarında bulunan ve bağışıklık sistemi tarafından dost veya düşman olarak tanınan kimlik molekülleri.",
+    "aciklama": "hücrelerin zarında bulunan ve bağışıklık sistemi tarafından dost veya düşman",
     "yasakli_kelimeler": [
       "zar molekülü",
       "kimlik proteini",
@@ -1641,7 +1641,7 @@
     "id": 118,
     "kategori": "immunoloji",
     "kelime": "adezyon molekülü",
-    "aciklama": "kandaki akyuvarların damar duvarına tutunarak iltihap bölgesine sızmasını sağlayan yapışkan yüzey proteini.",
+    "aciklama": "kandaki akyuvarların damar duvarına tutunarak iltihap bölgesine sızmasını sağlayan yapışkan",
     "yasakli_kelimeler": [
       "damara tutunma",
       "yapışma proteini",
@@ -1655,7 +1655,7 @@
     "id": 119,
     "kategori": "immunoloji",
     "kelime": "hücre göçü",
-    "aciklama": "bağışıklık hücrelerinin kemokin sinyallerini izleyerek kandan enfekte veya hasarlı doku bölgesine yönelmesi.",
+    "aciklama": "bağışıklık hücrelerinin kemokin sinyallerini izleyerek kandan enfekte veya hasarlı doku",
     "yasakli_kelimeler": [
       "dokulara geçiş",
       "kemotaksis",
@@ -1669,7 +1669,7 @@
     "id": 120,
     "kategori": "immunoloji",
     "kelime": "hücre lizisi",
-    "aciklama": "bağışıklık proteinleri veya toksinler tarafından hedef yabancı hücrenin zarının delinerek patlatılması.",
+    "aciklama": "bağışıklık proteinleri veya toksinler tarafından hedef yabancı hücrenin zarının delinerek",
     "yasakli_kelimeler": [
       "hücre patlaması",
       "zar delinmesi",
@@ -1683,7 +1683,7 @@
     "id": 121,
     "kategori": "immunoloji",
     "kelime": "lenf bezi",
-    "aciklama": "boyun, koltuk altı ve kasıkta yer alan, lenf sıvısını süzüp mikropları yakalayan fasulye biçimli organ.",
+    "aciklama": "boyun, koltuk altı ve kasıkta yer alan, lenf sıvısını süzüp",
     "yasakli_kelimeler": [
       "lenf düğümü",
       "beze şişmesi",
@@ -1697,7 +1697,7 @@
     "id": 122,
     "kategori": "immunoloji",
     "kelime": "lenf düğümü",
-    "aciklama": "lenfatik dolaşım ağı boyunca dizilmiş, lenfositlerin toplandığı ve antijenlerle karşılaştığı filtre merkezi.",
+    "aciklama": "lenf sıvısını süzen ve lenfositlerin buluştuğu sekonder lenfoid doku",
     "yasakli_kelimeler": [
       "lenf nodu",
       "bağışıklık filtresi",
@@ -1711,7 +1711,7 @@
     "id": 123,
     "kategori": "immunoloji",
     "kelime": "lenf damarı",
-    "aciklama": "dokularda biriken fazla sıvıyı, akyuvarları ve antijenleri lenf bezlerine taşıyan ince çeperli damar.",
+    "aciklama": "dokularda biriken fazla sıvıyı, akyuvarları ve antijenleri lenf bezlerine taşıyan",
     "yasakli_kelimeler": [
       "lenfatik hat",
       "ak kan damarı",
@@ -1725,7 +1725,7 @@
     "id": 124,
     "kategori": "immunoloji",
     "kelime": "lenf sıvısı",
-    "aciklama": "doku aralıklarından toplanan, içinde akyuvarlar barındıran renksiz veya hafif sarımtırak berrak vücut sıvısı.",
+    "aciklama": "doku aralıklarından toplanan, içinde akyuvarlar barındıran renksiz veya hafif sarımtırak",
     "yasakli_kelimeler": [
       "ak kan",
       "lenfa",
@@ -1739,7 +1739,7 @@
     "id": 125,
     "kategori": "immunoloji",
     "kelime": "lenfoid doku",
-    "aciklama": "bağışıklık sistemi hücrelerinin üretildiği, farklılaştığı veya topluca konuşlandığı özelleşmiş doku yapısı.",
+    "aciklama": "bağışıklık sistemi hücrelerinin üretildiği, farklılaştığı veya topluca konuşlandığı özelleşmiş doku",
     "yasakli_kelimeler": [
       "bağışıklık dokusu",
       "malt",
@@ -1753,7 +1753,7 @@
     "id": 126,
     "kategori": "immunoloji",
     "kelime": "mukoza bağışıklığı",
-    "aciklama": "solunum, sindirim ve üreme kanallarını kaplayan ıslak zarlarda patojenlere ilk seti çeken bağışıklık kalkanı.",
+    "aciklama": "solunum, sindirim ve üreme kanallarını kaplayan ıslak zarlarda patojenlere ilk",
     "yasakli_kelimeler": [
       "salgısal iga",
       "ıslak zar",
@@ -1767,7 +1767,7 @@
     "id": 127,
     "kategori": "immunoloji",
     "kelime": "bademcik dokusu",
-    "aciklama": "ağız ve boğaz girişinde yer alarak hava ve besinle gelen mikropları ilk karşılayan lenfoid savunma dokusu.",
+    "aciklama": "ağız ve boğaz girişinde yer alarak hava ve besinle gelen",
     "yasakli_kelimeler": [
       "tonsil",
       "boğaz savunması",
@@ -1781,7 +1781,7 @@
     "id": 128,
     "kategori": "immunoloji",
     "kelime": "apandis",
-    "aciklama": "kör bağırsağın ucunda yer alan ve bağırsak florasını koruyan zengin lenfoid hücre rezervuarı.",
+    "aciklama": "kör bağırsağın ucunda yer alan ve bağırsak florasını koruyan zengin",
     "yasakli_kelimeler": [
       "kör bağırsak",
       "apandisit",
@@ -1795,7 +1795,7 @@
     "id": 129,
     "kategori": "immunoloji",
     "kelime": "kırmızı pulpa",
-    "aciklama": "dalağın yaşlanmış alyuvarları kandan filtre edip parçaladığı ve demiri geri kazandığı kanla dolu bölgesi.",
+    "aciklama": "dalağın yaşlanmış alyuvarları kandan filtre edip parçaladığı ve demiri geri",
     "yasakli_kelimeler": [
       "dalak içi",
       "eritrosit yıkımı",
@@ -1809,7 +1809,7 @@
     "id": 130,
     "kategori": "immunoloji",
     "kelime": "beyaz pulpa",
-    "aciklama": "dalak içinde t ve b lenfositlerinin yoğun olarak toplandığı ve kan yoluyla gelen mikroplara karşı antikor ürettiği alan.",
+    "aciklama": "dalak içinde t ve b lenfositlerinin yoğun olarak toplandığı ve",
     "yasakli_kelimeler": [
       "dalak lenfoidi",
       "lenfosit adacığı",
@@ -1823,7 +1823,7 @@
     "id": 131,
     "kategori": "immunoloji",
     "kelime": "timus korteksi",
-    "aciklama": "olgunlaşmamış t hücrelerinin yoğun mitoz geçirdiği ve kendi dokusuna saldırmayanların seçildiği dış timus katmanı.",
+    "aciklama": "olgunlaşmamış t hücrelerinin yoğun mitoz geçirdiği ve kendi dokusuna saldırmayanların",
     "yasakli_kelimeler": [
       "dış katman",
       "pozitif seçim",
@@ -1837,7 +1837,7 @@
     "id": 132,
     "kategori": "immunoloji",
     "kelime": "timus medullası",
-    "aciklama": "t hücrelerinin kendi vücut proteinlerini tanıyıp tanımadığının son kez elendiği iç timus çekirdek bölgesi.",
+    "aciklama": "t hücrelerinin kendi vücut proteinlerini tanıyıp tanımadığının son kez elendiği",
     "yasakli_kelimeler": [
       "iç bölge",
       "negatif seçim",
@@ -1851,7 +1851,7 @@
     "id": 133,
     "kategori": "immunoloji",
     "kelime": "lenf dolaşımı",
-    "aciklama": "kan dolaşımından bağımsız olarak lenf sıvısını tek yönlü kapakçıklarla kalbe doğru taşıyan damar sistemi.",
+    "aciklama": "kan dolaşımından bağımsız olarak lenf sıvısını tek yönlü kapakçıklarla kalbe",
     "yasakli_kelimeler": [
       "ikinci dolaşım",
       "lenf sistemi",
@@ -1865,7 +1865,7 @@
     "id": 134,
     "kategori": "immunoloji",
     "kelime": "beyin bariyeri",
-    "aciklama": "kandaki toksinlerin ve bağışıklık hücrelerinin kontrolsüzce beyin dokusuna geçmesini engelleyen sıkı endotel tabakası.",
+    "aciklama": "kandaki toksinlerin ve bağışıklık hücrelerinin kontrolsüzce beyin dokusuna geçmesini engelleyen",
     "yasakli_kelimeler": [
       "kan beyin",
       "koruyucu filtre",
@@ -1879,7 +1879,7 @@
     "id": 135,
     "kategori": "immunoloji",
     "kelime": "epitel bariyeri",
-    "aciklama": "cilt ve iç organ yüzeylerini kaplayarak mikropların dokulara sızmasını mekanik olarak engelleyen ilk savunma hattı.",
+    "aciklama": "cilt ve iç organ yüzeylerini kaplayarak mikropların dokulara sızmasını mekanik",
     "yasakli_kelimeler": [
       "deri tabakası",
       "sıkı bağlantı",
@@ -1893,7 +1893,7 @@
     "id": 136,
     "kategori": "immunoloji",
     "kelime": "mukus tabakası",
-    "aciklama": "solunum ve sindirim yollarında tozları ve bakterileri yapışkan sıvısıyla tuzağa düşüren koruyucu salgı.",
+    "aciklama": "solunum ve sindirim yollarında tozları ve bakterileri yapışkan sıvısıyla tuzağa",
     "yasakli_kelimeler": [
       "sümüksü sıvı",
       "yapışkan salgı",
@@ -1907,7 +1907,7 @@
     "id": 137,
     "kategori": "immunoloji",
     "kelime": "siliyer epitel",
-    "aciklama": "soluk borusunda mukusa yapışmış mikropları titrek tüycükleriyle boğaza doğru yukarı süpüren hücre katmanı.",
+    "aciklama": "soluk borusunda mukusa yapışmış mikropları titrek tüycükleriyle boğaza doğru yukarı",
     "yasakli_kelimeler": [
       "titrek tüyler",
       "solunum süpürgesi",
@@ -1921,7 +1921,7 @@
     "id": 138,
     "kategori": "immunoloji",
     "kelime": "mide asidi",
-    "aciklama": "yiyeceklerle birlikte yutulan bakterileri ve patojenleri düşük ph derecesiyle yakarak yok eden kimyasal kalkan.",
+    "aciklama": "yiyeceklerle birlikte yutulan bakterileri ve patojenleri düşük ph derecesiyle yakarak",
     "yasakli_kelimeler": [
       "hidroklorik asit",
       "düşük ph",
@@ -1935,7 +1935,7 @@
     "id": 139,
     "kategori": "immunoloji",
     "kelime": "tükürük enzimi",
-    "aciklama": "ağız boşluğuna giren bakterilerin hücre duvarını parçalayarak enfeksiyonu önleyen tükürük içindeki koruyucu sıvı.",
+    "aciklama": "ağız boşluğuna giren bakterilerin hücre duvarını parçalayarak enfeksiyonu önleyen tükürük",
     "yasakli_kelimeler": [
       "tükürük sıvısı",
       "ağız savunması",
@@ -1949,7 +1949,7 @@
     "id": 140,
     "kategori": "immunoloji",
     "kelime": "lizozim",
-    "aciklama": "gözyaşı, tükürük ve mukusta bulunup bakterilerin peptidoglikan hücre duvarını hidroliz eden doğal antibakteriyel enzim.",
+    "aciklama": "bakteri hücre duvarındaki peptidoglikan tabakasını parçalayan enzim",
     "yasakli_kelimeler": [
       "gözyaşı enzimi",
       "peptidoglikan parçalama",
@@ -1963,7 +1963,7 @@
     "id": 141,
     "kategori": "immunoloji",
     "kelime": "sitokin",
-    "aciklama": "bağışıklık sistemi hücrelerinin birbirleriyle haberleşmesini ve yanıtı koordine etmesini sağlayan küçük proteinler.",
+    "aciklama": "bağışıklık hücreleri arasında iletişimi sağlayan sinyal proteinleri",
     "yasakli_kelimeler": [
       "hücresel haberci",
       "sinyal proteini",
@@ -1977,7 +1977,7 @@
     "id": 142,
     "kategori": "immunoloji",
     "kelime": "histamin",
-    "aciklama": "mast hücrelerinden salgılanarak damarları genişleten, kızarıklık ve kaşıntıya yol açan temel alerji medyatörü.",
+    "aciklama": "mast hücrelerinden salgılanarak damarları genişleten, kızarıklık ve kaşıntıya yol açan",
     "yasakli_kelimeler": [
       "alerji kimyasalı",
       "mast hücresi salgısı",
@@ -1991,7 +1991,7 @@
     "id": 143,
     "kategori": "immunoloji",
     "kelime": "heparin sülfat",
-    "aciklama": "mast hücrelerinde histaminle birlikte depolanan ve iltihap alanında yerel pıhtılaşmayı geciktiren glikozaminoglikan.",
+    "aciklama": "mast hücrelerinde histaminle birlikte depolanan ve iltihap alanında yerel pıhtılaşmayı",
     "yasakli_kelimeler": [
       "doğal antikoagülan",
       "mast hücresi",
@@ -2005,7 +2005,7 @@
     "id": 144,
     "kategori": "immunoloji",
     "kelime": "lökotrien",
-    "aciklama": "astım krizinde bronşların şiddetle kasılmasına ve aşırı mukus salgısına neden olan güçlü inflamatuar lipid bileşiği.",
+    "aciklama": "astım krizinde bronşların şiddetle kasılmasına ve aşırı mukus salgısına neden",
     "yasakli_kelimeler": [
       "astım atağı",
       "bronş kasılması",
@@ -2019,7 +2019,7 @@
     "id": 145,
     "kategori": "immunoloji",
     "kelime": "prostaglandin",
-    "aciklama": "enfeksiyon ve yaralanma yerinde ağrı reseptörlerini duyarlılaştıran ve ateşi tetikleyen siklooksijenaz ürünü lipid.",
+    "aciklama": "enfeksiyon ve yaralanma yerinde ağrı reseptörlerini duyarlılaştıran ve ateşi tetikleyen",
     "yasakli_kelimeler": [
       "ağrı ateşi",
       "siklooksijenaz",
@@ -2033,7 +2033,7 @@
     "id": 146,
     "kategori": "immunoloji",
     "kelime": "bradikinin",
-    "aciklama": "damar geçirgenliğini aşırı artırarak anjiyoödeme ve zonklayıcı ağrıya sebep olan güçlü yangısal peptit.",
+    "aciklama": "damar geçirgenliğini aşırı artırarak anjiyoödeme ve zonklayıcı ağrıya sebep olan",
     "yasakli_kelimeler": [
       "anjiyoödem nedeni",
       "damar geçirgenliği",
@@ -2047,7 +2047,7 @@
     "id": 147,
     "kategori": "immunoloji",
     "kelime": "nitrik oksit",
-    "aciklama": "makrofajların fagositoz sırasında mikropları öldürmek için sentezlediği serbest radikal gaz molekülü.",
+    "aciklama": "makrofajlarca mikropları yok etmek için salgılanan toksik gaz molekülü",
     "yasakli_kelimeler": [
       "bakterisid gaz",
       "makrofaj gazı",
@@ -2061,7 +2061,7 @@
     "id": 148,
     "kategori": "immunoloji",
     "kelime": "serbest radikal",
-    "aciklama": "eşleşmemiş elektrona sahip, akyuvarların yuttuğu mikropların proteinlerini ve dna'sını parçalayan reaktif oksijen türevi.",
+    "aciklama": "eşleşmemiş elektrona sahip, akyuvarların yuttuğu mikropların proteinlerini ve dna'sını parçalayan",
     "yasakli_kelimeler": [
       "oksidatif stres",
       "reaktif oksijen",
@@ -2075,7 +2075,7 @@
     "id": 149,
     "kategori": "immunoloji",
     "kelime": "akut faz",
-    "aciklama": "enfeksiyon veya doku hasarı anında karaciğer tarafından kana hızla salınan savunma proteinleri yanıtı.",
+    "aciklama": "enfeksiyon veya doku hasarı anında karaciğer tarafından kana hızla salınan",
     "yasakli_kelimeler": [
       "crp sedimantasyon",
       "karaciğer yanıtı",
@@ -2089,7 +2089,7 @@
     "id": 150,
     "kategori": "immunoloji",
     "kelime": "haptoglobin",
-    "aciklama": "kanda parçalanan alyuvarlardan açığa çıkan serbest hemoglobini bağlayarak böbrek hasarını önleyen protein.",
+    "aciklama": "kanda parçalanan alyuvarlardan açığa çıkan serbest hemoglobini bağlayarak böbrek hasarını",
     "yasakli_kelimeler": [
       "hemoglobin bağlayıcı",
       "akut faz proteini",
@@ -2103,7 +2103,7 @@
     "id": 151,
     "kategori": "immunoloji",
     "kelime": "fibrinojen",
-    "aciklama": "iltihap alanında fibrin ağı oluşturarak enfeksiyonun çevre dokulara yayılmasını hapseden pıhtılaşma faktörü.",
+    "aciklama": "iltihap alanında fibrin ağı oluşturarak enfeksiyonun çevre dokulara yayılmasını hapseden",
     "yasakli_kelimeler": [
       "pıhtı proteini",
       "fibrin ağı",
@@ -2117,7 +2117,7 @@
     "id": 152,
     "kategori": "immunoloji",
     "kelime": "transferrin",
-    "aciklama": "kandaki serbest demiri bağlayarak bakterilerin çoğalmak için demiri kullanmasını engelleyen taşıyıcı protein.",
+    "aciklama": "kandaki serbest demiri bağlayarak bakterilerin çoğalmak için demiri kullanmasını engelleyen",
     "yasakli_kelimeler": [
       "demir taşıyıcı",
       "bakteri aç bırakma",
@@ -2131,7 +2131,7 @@
     "id": 153,
     "kategori": "immunoloji",
     "kelime": "laktoferrin",
-    "aciklama": "anne sütü ve nötrofillerin salgılarında bulunup demiri tutarak mikrop üremesini durduran doğal antibakteriyel madde.",
+    "aciklama": "demiri bağlayarak bakterilerin çoğalmasını önleyen salgı proteini",
     "yasakli_kelimeler": [
       "anne sütü",
       "nötrofil proteini",
@@ -2145,7 +2145,7 @@
     "id": 154,
     "kategori": "immunoloji",
     "kelime": "kompleman proteini",
-    "aciklama": "kanda inaktif dolaşan, aktive olduğunda mikropları delen ve fagositozu tetikleyen enzimler zinciri elemanı.",
+    "aciklama": "kanda inaktif dolaşan, aktive olduğunda mikropları delen ve fagositozu tetikleyen",
     "yasakli_kelimeler": [
       "c3 c5",
       "kaskad",
@@ -2159,7 +2159,7 @@
     "id": 155,
     "kategori": "immunoloji",
     "kelime": "defensin",
-    "aciklama": "epitel hücreleri ve lökositler tarafından salgılanan, bakteri ve mantar zarlarını bozan küçük antimikrobiyal peptit.",
+    "aciklama": "mikrop zarını delerek öldüren küçük antimikrobiyal peptitler",
     "yasakli_kelimeler": [
       "antimikrobiyal peptit",
       "zar bozucu",
@@ -2173,7 +2173,7 @@
     "id": 156,
     "kategori": "immunoloji",
     "kelime": "monokin",
-    "aciklama": "esas olarak monositler ve makrofajlar tarafından salgılanarak yangı tepkisini başlatan sitokinler grubu.",
+    "aciklama": "esas olarak monositler ve makrofajlar tarafından salgılanarak yangı tepkisini başlatan",
     "yasakli_kelimeler": [
       "monosit sitokini",
       "makrofaj salgısı",
@@ -2187,7 +2187,7 @@
     "id": 157,
     "kategori": "immunoloji",
     "kelime": "lenfokin",
-    "aciklama": "aktive olmuş t lenfositleri tarafından üretilerek diğer bağışıklık hücrelerini uyaran çözünür protein molekülü.",
+    "aciklama": "aktive olmuş t lenfositleri tarafından üretilerek diğer bağışıklık hücrelerini uyaran",
     "yasakli_kelimeler": [
       "t hücresi salgısı",
       "lenfosit sitokini",
@@ -2201,7 +2201,7 @@
     "id": 158,
     "kategori": "immunoloji",
     "kelime": "endojen pirojen",
-    "aciklama": "vücut hücrelerinin enfeksiyon sırasında salgılayarak beyni uyaran ve vücut sıcaklığını yükselten iç ateş maddesi.",
+    "aciklama": "vücut hücrelerinin enfeksiyon sırasında salgılayarak beyni uyaran ve vücut sıcaklığını",
     "yasakli_kelimeler": [
       "ateş yapıcı",
       "interlökin 1",
@@ -2215,7 +2215,7 @@
     "id": 159,
     "kategori": "immunoloji",
     "kelime": "yangı",
-    "aciklama": "doku hasarına karşı kızarıklık, ısı artışı, şişlik ve ağrı ile karakterize vücudun koruyucu iltihap tepkisi.",
+    "aciklama": "doku hasarına karşı kızarıklık, ısı artışı, şişlik ve ağrı ile",
     "yasakli_kelimeler": [
       "inflamasyon",
       "iltihap",
@@ -2229,7 +2229,7 @@
     "id": 160,
     "kategori": "immunoloji",
     "kelime": "cerahat",
-    "aciklama": "iltihap bölgesinde ölmüş nötrofiller, parçalanmış doku hücreleri ve bakterilerden oluşan sarımtırak koyu sıvı.",
+    "aciklama": "iltihap bölgesinde ölmüş nötrofiller, parçalanmış doku hücreleri ve bakterilerden oluşan",
     "yasakli_kelimeler": [
       "irin",
       "apse içeriği",
@@ -2243,7 +2243,7 @@
     "id": 161,
     "kategori": "immunoloji",
     "kelime": "otoimmünite",
-    "aciklama": "bağışıklık sisteminin kendi öz dokularını yabancı düşman olarak algılayıp onlara saldırması patolojisi.",
+    "aciklama": "bağışıklık sisteminin vücudun kendi dokularına saldırarak hasar vermesi",
     "yasakli_kelimeler": [
       "kendi dokusuna saldırı",
       "özbağışıklık",
@@ -2257,7 +2257,7 @@
     "id": 162,
     "kategori": "immunoloji",
     "kelime": "alerji",
-    "aciklama": "vücudun polen veya toz gibi normalde zararsız yabancı maddelere karşı aşırı ve zararlı bağışıklık tepkisi vermesi.",
+    "aciklama": "zararsız çevresel maddelere karşı gelişen aşırı duyarlılık hali",
     "yasakli_kelimeler": [
       "aşırı duyarlılık",
       "polen tozu",
@@ -2271,7 +2271,7 @@
     "id": 163,
     "kategori": "immunoloji",
     "kelime": "saman nezlesi",
-    "aciklama": "bahar aylarında polenlerin burun mukozasına yapışmasıyla gelişen burun akıntısı ve göz kaşıntısı alerjisi.",
+    "aciklama": "bahar aylarında polenlerin burun mukozasına yapışmasıyla gelişen burun akıntısı ve",
     "yasakli_kelimeler": [
       "alerjik rinit",
       "bahar alerjisi",
@@ -2285,7 +2285,7 @@
     "id": 164,
     "kategori": "immunoloji",
     "kelime": "besin alerjisi",
-    "aciklama": "süt, fıstık veya yumurta gibi gıdalara karşı bağışıklık sisteminin dudakta şişme ve nefes darlığı yaratması.",
+    "aciklama": "süt, fıstık veya yumurta gibi gıdalara karşı bağışıklık sisteminin dudakta",
     "yasakli_kelimeler": [
       "fıstık alerjisi",
       "gıda intoleransı",
@@ -2299,7 +2299,7 @@
     "id": 165,
     "kategori": "immunoloji",
     "kelime": "temas dermatiti",
-    "aciklama": "nikel saat veya kimyasalların cilde temasıyla t lenfositlerinin tetiklediği gecikmiş kızarıklık ve kabarcıklar.",
+    "aciklama": "nikel saat veya kimyasalların cilde temasıyla t lenfositlerinin tetiklediği gecikmiş",
     "yasakli_kelimeler": [
       "kontakt egzama",
       "nikel alerjisi",
@@ -2313,7 +2313,7 @@
     "id": 166,
     "kategori": "immunoloji",
     "kelime": "ürtiker",
-    "aciklama": "ciltte aniden beliren, yoğun kaşıntılı, ortası soluk etrafı kırmızı kabarık döküntü plakları.",
+    "aciklama": "ciltte aniden beliren, yoğun kaşıntılı, ortası soluk etrafı kırmızı kabarık",
     "yasakli_kelimeler": [
       "kurdeşen",
       "kaşıntılı kabarcık",
@@ -2327,7 +2327,7 @@
     "id": 167,
     "kategori": "immunoloji",
     "kelime": "anjiyoödem",
-    "aciklama": "göz kapakları, dudaklar ve nefes borusunda ani sıvı toplanmasıyla gelişen ve boğulma tehlikesi yaratan derin şişlik.",
+    "aciklama": "göz kapakları, dudaklar ve nefes borusunda ani sıvı toplanmasıyla gelişen",
     "yasakli_kelimeler": [
       "dudak şişmesi",
       "nefes borusu tıkanması",
@@ -2341,7 +2341,7 @@
     "id": 168,
     "kategori": "immunoloji",
     "kelime": "astım",
-    "aciklama": "hava yollarının alerjenlere aşırı tepki vererek daralması sonucu gelişen hırıltılı solunum ve nefes darlığı krizi.",
+    "aciklama": "hava yollarının alerjenlere aşırı tepki vererek daralması sonucu gelişen hırıltılı",
     "yasakli_kelimeler": [
       "nefes darlığı",
       "hırıltılı solunum",
@@ -2355,7 +2355,7 @@
     "id": 169,
     "kategori": "immunoloji",
     "kelime": "atopik dermatit",
-    "aciklama": "özellikle bebek ve çocuklarda dirsek içleri ve yanaklarda kuruluk ve şiddetli kaşıntıyla seyreden kronik egzama.",
+    "aciklama": "özellikle bebek ve çocuklarda dirsek içleri ve yanaklarda kuruluk ve",
     "yasakli_kelimeler": [
       "çocuk egzaması",
       "kuru cilt",
@@ -2369,7 +2369,7 @@
     "id": 170,
     "kategori": "immunoloji",
     "kelime": "lupus",
-    "aciklama": "yüzde kelebek döküntüsü ve böbrek hasarıyla seyreden, bağışıklığın tüm vücut dokularına saldırdığı ağır otoimmün hastalık.",
+    "aciklama": "yüzde kelebek döküntüsü ve böbrek hasarıyla seyreden, bağışıklığın tüm vücut",
     "yasakli_kelimeler": [
       "kelebek döküntüsü",
       "sle",
@@ -2383,7 +2383,7 @@
     "id": 171,
     "kategori": "immunoloji",
     "kelime": "sedef hastalığı",
-    "aciklama": "t hücrelerinin aşırı uyarılmasıyla deri hücrelerinin hızla çoğalıp gümüş renkli pullar ve plaklar oluşturduğu hastalık.",
+    "aciklama": "t hücrelerinin aşırı uyarılmasıyla deri hücrelerinin hızla çoğalıp gümüş renkli",
     "yasakli_kelimeler": [
       "psoriyazis",
       "gümüş pul",
@@ -2397,7 +2397,7 @@
     "id": 172,
     "kategori": "immunoloji",
     "kelime": "vitiligo",
-    "aciklama": "bağışıklık hücrelerinin deriye renk veren melanositleri yok etmesi sonucu ciltte tebeşir beyazı lekeler oluşması.",
+    "aciklama": "bağışıklık hücrelerinin deriye renk veren melanositleri yok etmesi sonucu ciltte",
     "yasakli_kelimeler": [
       "beyaz lekeler",
       "melanosit yıkımı",
@@ -2411,7 +2411,7 @@
     "id": 173,
     "kategori": "immunoloji",
     "kelime": "haşimato tiroiditi",
-    "aciklama": "otoantikorların tiroid bezini yavaş yavaş tahrip ederek tiroid hormonu yetmezliğine yol açtığı guatr tablosu.",
+    "aciklama": "tiroid bezinin lenfositik infiltrasyonu sonucu gelişen otoimmün hipotiroidi",
     "yasakli_kelimeler": [
       "tiroid yetmezliği",
       "hipotiroidi",
@@ -2425,7 +2425,7 @@
     "id": 174,
     "kategori": "immunoloji",
     "kelime": "graves hastalığı",
-    "aciklama": "antikorların tiroid bezini sürekli uyararak aşırı hormon üretimine ve gözlerin öne fırlamasına yol açtığı hastalık.",
+    "aciklama": "tsh reseptörüne karşı antikorların aşırı tiroid hormonu salgılatması",
     "yasakli_kelimeler": [
       "zehirli guatr",
       "hipertiroidi",
@@ -2439,7 +2439,7 @@
     "id": 175,
     "kategori": "immunoloji",
     "kelime": "çölyak hastalığı",
-    "aciklama": "buğday gluteni tüketildiğinde bağışıklık sisteminin ince bağırsak emilim villuslarını yok ettiği otoimmün hastalık.",
+    "aciklama": "glutene karşı gelişen ince bağırsak mukozası otoimmün hasarı",
     "yasakli_kelimeler": [
       "gluten alerjisi",
       "buğday proteini",
@@ -2453,7 +2453,7 @@
     "id": 176,
     "kategori": "immunoloji",
     "kelime": "multipl skleroz",
-    "aciklama": "t hücrelerinin beyin ve omurilikteki sinir liflerini saran miyelin kılıfı kemirerek felç ve his kaybı yarattığı hastalık.",
+    "aciklama": "merkezi sinir sistemindeki miyelin kılıfın bağışıklıkça tahrip edilmesi",
     "yasakli_kelimeler": [
       "ms hastalığı",
       "miyelin kılıf",
@@ -2467,7 +2467,7 @@
     "id": 177,
     "kategori": "immunoloji",
     "kelime": "çocukluk diyabeti",
-    "aciklama": "otoantikorların pankreastaki insülin üreten beta hücrelerini tamamen yok etmesi sonucu gelişen ömür boyu diyabet.",
+    "aciklama": "otoantikorların pankreastaki insülin üreten beta hücrelerini tamamen yok etmesi sonucu",
     "yasakli_kelimeler": [
       "tip 1 diyabet",
       "beta hücresi yıkımı",
@@ -2481,7 +2481,7 @@
     "id": 178,
     "kategori": "immunoloji",
     "kelime": "immün yetmezlik",
-    "aciklama": "bağışıklık sisteminin bir veya birden çok parçasının eksikliği nedeniyle vücudun mikroplara açık ve savunmasız kalması.",
+    "aciklama": "bağışıklık sisteminin bir veya birden çok parçasının eksikliği nedeniyle vücudun",
     "yasakli_kelimeler": [
       "bağışıklık eksikliği",
       "savunmasız",
@@ -2495,7 +2495,7 @@
     "id": 179,
     "kategori": "immunoloji",
     "kelime": "edinsel yetmezlik",
-    "aciklama": "doğuştan genetik olmayıp hiv virüsü, kemoterapi veya yetersiz beslenme sonucu sonradan edinilen bağışıklık çöküşü.",
+    "aciklama": "doğuştan genetik olmayıp hiv virüsü, kemoterapi veya yetersiz beslenme sonucu",
     "yasakli_kelimeler": [
       "aids",
       "sonradan kazanılan",
@@ -2509,7 +2509,7 @@
     "id": 180,
     "kategori": "immunoloji",
     "kelime": "bağışıklık çöküşü",
-    "aciklama": "yardımcı akyuvar sayısının kritik eşiğin altına inmesiyle normalde zararsız mikropların ölümcül enfeksiyon yapması.",
+    "aciklama": "yardımcı akyuvar sayısının kritik eşiğin altına inmesiyle normalde zararsız mikropların",
     "yasakli_kelimeler": [
       "fırsatçı enfeksiyon",
       "savunma çökmesi",
@@ -2523,7 +2523,7 @@
     "id": 181,
     "kategori": "immunoloji",
     "kelime": "elisa testi",
-    "aciklama": "kandaki spesifik antijen veya antikorların varlığını renk değiştiren enzim reaksiyonuyla ölçen laboratuvar testi.",
+    "aciklama": "antijen veya antikor miktarını ölçen enzim işaretli immünolojik test",
     "yasakli_kelimeler": [
       "enzim testi",
       "antikor tarama",
@@ -2537,7 +2537,7 @@
     "id": 182,
     "kategori": "immunoloji",
     "kelime": "aglütinasyon",
-    "aciklama": "antikorların bakterilere veya alyuvarlara bağlanarak onları gözle görülür kum tanesi gibi kümelere çökertmesi.",
+    "aciklama": "antijen ve antikorların birleşerek gözle görülür kümelenme oluşturması",
     "yasakli_kelimeler": [
       "kümelenme",
       "çökelti",
@@ -2551,7 +2551,7 @@
     "id": 183,
     "kategori": "immunoloji",
     "kelime": "presipitasyon",
-    "aciklama": "çözünmüş haldeki sıvı antijenlerin uygun antikorla birleştiğinde dibe çöken katı beyaz halka veya tortu oluşturması.",
+    "aciklama": "çözünmüş antijen ile antikorun birleşip çökelek oluşturması tepkimesi",
     "yasakli_kelimeler": [
       "çökme",
       "tortu oluşumu",
@@ -2565,7 +2565,7 @@
     "id": 184,
     "kategori": "immunoloji",
     "kelime": "immünfloresan",
-    "aciklama": "dokulardaki antijenleri floresan boyalı antikorlar ve morötesi mikroskop altında parlak yeşil renkte görüntüleme.",
+    "aciklama": "dokulardaki antijenleri floresan boyalı antikorlar ve morötesi mikroskop altında parlak",
     "yasakli_kelimeler": [
       "floresan mikroskobu",
       "parlak boya",
@@ -2579,7 +2579,7 @@
     "id": 185,
     "kategori": "immunoloji",
     "kelime": "akım sitometrisi",
-    "aciklama": "lazer ışığı önünden tek sıra halinde geçirilen bağışıklık hücrelerinin tipini ve yüzey belirteçlerini sayan cihaz.",
+    "aciklama": "lazer ışığı önünden tek sıra halinde geçirilen bağışıklık hücrelerinin tipini",
     "yasakli_kelimeler": [
       "flow sitometri",
       "lazerle hücre sayımı",
@@ -2593,7 +2593,7 @@
     "id": 186,
     "kategori": "immunoloji",
     "kelime": "seroloji",
-    "aciklama": "kan serumundaki antikorları ve antijen tepkimelerini inceleyerek geçirilmiş enfeksiyonları saptayan laboratuvar dalı.",
+    "aciklama": "kan serumundaki antikorları ve antijen tepkimelerini inceleyerek geçirilmiş enfeksiyonları saptayan",
     "yasakli_kelimeler": [
       "serum incelemesi",
       "kan tahlili",
@@ -2607,7 +2607,7 @@
     "id": 187,
     "kategori": "immunoloji",
     "kelime": "antikor titresi",
-    "aciklama": "kanda belirli bir mikroba karşı oluşan koruyucu antikorların serumun kaç kat sulandırıldığında bile tespit edildiği miktarı.",
+    "aciklama": "kanda belirli bir mikroba karşı oluşan koruyucu antikorların serumun kaç",
     "yasakli_kelimeler": [
       "titrasyon",
       "antikor düzeyi",
@@ -2621,7 +2621,7 @@
     "id": 188,
     "kategori": "immunoloji",
     "kelime": "kan grubu",
-    "aciklama": "alyuvarların yüzeyindeki a, b ve sıfır antijenlerine göre belirlenen ve kan naklinde uyumu şart olan biyolojik sınıf.",
+    "aciklama": "alyuvarların yüzeyindeki a, b ve sıfır antijenlerine göre belirlenen ve",
     "yasakli_kelimeler": [
       "ab sıfır",
       "rh faktörü",
@@ -2635,7 +2635,7 @@
     "id": 189,
     "kategori": "immunoloji",
     "kelime": "rh faktörü",
-    "aciklama": "alyuvar zarı üzerinde d antijeninin bulunup bulunmamasına göre kanı pozitif veya negatif yapan antijen.",
+    "aciklama": "alyuvar zarı üzerinde d antijeninin bulunup bulunmamasına göre kanı pozitif",
     "yasakli_kelimeler": [
       "pozitif negatif",
       "kan uyuşmazlığı",
@@ -2649,7 +2649,7 @@
     "id": 190,
     "kategori": "immunoloji",
     "kelime": "çapraz eşleşme",
-    "aciklama": "kan veya böbrek naklinden önce alıcının kan serumu ile vericinin hücrelerinin karıştırılarak reaksiyon testi.",
+    "aciklama": "kan veya böbrek naklinden önce alıcının kan serumu ile vericinin",
     "yasakli_kelimeler": [
       "cross match",
       "nakil öncesi",
@@ -2663,7 +2663,7 @@
     "id": 191,
     "kategori": "immunoloji",
     "kelime": "antijen testi",
-    "aciklama": "hastanın burun veya boğaz sürüntüsünde virüsün yüzey proteinlerini on beş dakikada hızlı kasetle saptayan test.",
+    "aciklama": "hastanın burun veya boğaz sürüntüsünde virüsün yüzey proteinlerini on beş",
     "yasakli_kelimeler": [
       "hızlı test",
       "kaset test",
@@ -2677,7 +2677,7 @@
     "id": 192,
     "kategori": "immunoloji",
     "kelime": "pcr testi",
-    "aciklama": "örnekteki virüs veya bakteri genetik materyalini milyonlarca kez çoğaltarak kesin teşhis koyan moleküler test.",
+    "aciklama": "örnekteki virüs veya bakteri genetik materyalini milyonlarca kez çoğaltarak kesin",
     "yasakli_kelimeler": [
       "dna çoğaltma",
       "genetik test",
@@ -2691,7 +2691,7 @@
     "id": 193,
     "kategori": "immunoloji",
     "kelime": "alerji testi",
-    "aciklama": "hastanın neye alerjisi olduğunu anlamak için cilde alerjen damlatılarak veya kanda ige ölçülerek yapılan test.",
+    "aciklama": "hastanın neye alerjisi olduğunu anlamak için cilde alerjen damlatılarak veya",
     "yasakli_kelimeler": [
       "cilt testi",
       "prick",
@@ -2705,7 +2705,7 @@
     "id": 194,
     "kategori": "immunoloji",
     "kelime": "prick testi",
-    "aciklama": "ön kola damlatılan farklı alerjen solüsyonlarının üzerinden ince bir iğne ucuyla cildi hafifçe delerek yapılan alerji testi.",
+    "aciklama": "ön kola damlatılan farklı alerjen solüsyonlarının üzerinden ince bir iğne",
     "yasakli_kelimeler": [
       "deri delme testi",
       "damlatma iğne",
@@ -2719,7 +2719,7 @@
     "id": 195,
     "kategori": "immunoloji",
     "kelime": "yama testi",
-    "aciklama": "temas alerjilerini teşhis etmek için sırta yapıştırılan ve kırk sekiz saat bekletilen kimyasal bant testi.",
+    "aciklama": "temas alerjilerini teşhis etmek için sırta yapıştırılan ve kırk sekiz",
     "yasakli_kelimeler": [
       "patch testi",
       "sırta yapıştırma",
@@ -2733,7 +2733,7 @@
     "id": 196,
     "kategori": "immunoloji",
     "kelime": "tüberkülin testi",
-    "aciklama": "verem basili proteininin cilt altına enjekte edilip yetmiş iki saat sonra oluşan sertliğin ölçüldüğü test.",
+    "aciklama": "verem basili proteininin cilt altına enjekte edilip yetmiş iki saat",
     "yasakli_kelimeler": [
       "ppd testi",
       "verem testi",
@@ -2747,7 +2747,7 @@
     "id": 197,
     "kategori": "immunoloji",
     "kelime": "immünoterapi",
-    "aciklama": "hastanın kendi bağışıklık sistemini güçlendirerek veya yönlendirerek kanser ve alerjiyi tedavi eden modern tıp yöntemi.",
+    "aciklama": "kanser tedavisinde bağışıklık sisteminin gücünden yararlanan biyolojik tedavi",
     "yasakli_kelimeler": [
       "bağışıklık tedavisi",
       "kanser aşısı",
@@ -2761,7 +2761,7 @@
     "id": 198,
     "kategori": "immunoloji",
     "kelime": "desensitizasyon",
-    "aciklama": "alerjik olunan maddeyi giderek artan dozlarda haftalarca vererek bağışıklık sistemini o maddeye alıştırma tedavisi.",
+    "aciklama": "alerjik olunan maddeyi giderek artan dozlarda haftalarca vererek bağışıklık sistemini",
     "yasakli_kelimeler": [
       "duyarsızlaştırma",
       "alerji aşısı",
@@ -2775,7 +2775,7 @@
     "id": 199,
     "kategori": "immunoloji",
     "kelime": "antivenom",
-    "aciklama": "yılan veya akrep sokmalarında zehri nötralize etmek için atların kanından elde edilen hazır panzehir antikor serumu.",
+    "aciklama": "yılan veya akrep sokmalarında zehri nötralize etmek için atların kanından",
     "yasakli_kelimeler": [
       "panzehir",
       "yılan sokması",
@@ -2789,7 +2789,7 @@
     "id": 200,
     "kategori": "immunoloji",
     "kelime": "serum tedavisi",
-    "aciklama": "kuduz veya tetanoz gibi acil tehlikelerde hastaya doğrudan hazır koruyucu antikor içeren sıvı verilmesi.",
+    "aciklama": "kuduz veya tetanoz gibi acil tehlikelerde hastaya doğrudan hazır koruyucu",
     "yasakli_kelimeler": [
       "pasif bağışıklama",
       "hazır antikor enjeksiyonu",
@@ -3054,7 +3054,7 @@
   {
     "kategori": "immunoloji",
     "kelime": "doğal bağışıklık sergilemek",
-    "aciklama": "vücudun tüm mikroplara karşı doğuştan sahip olduğu ilk savunma hattını devreye sokması.",
+    "aciklama": "vücudun tüm mikroplara karşı doğuştan sahip olduğu ilk savunma hattını",
     "yasakli_kelimeler": [
       "doğuştan gelen",
       "özgül olmayan",
@@ -3124,7 +3124,7 @@
   {
     "kategori": "immunoloji",
     "kelime": "bellek hücresi saklamak",
-    "aciklama": "alerjen maddeye karşı hayatı tehdit eden ani ve şiddetli sistemik reaksiyon yaşamak.",
+    "aciklama": "alerjen maddeye karşı hayatı tehdit eden ani ve şiddetli sistemik",
     "yasakli_kelimeler": [
       "şok",
       "soluk borusu tıkanması",
@@ -3250,7 +3250,7 @@
   {
     "kategori": "immunoloji",
     "kelime": "mhc ile sunmak",
-    "aciklama": "i̇şlenen antijen peptitlerini hücre yüzeyindeki mhc oluğuna yerleştirip t hücresine sunmak.",
+    "aciklama": "i̇şlenen antijen peptitlerini hücre yüzeyindeki mhc oluğuna yerleştirip t hücresine",
     "yasakli_kelimeler": [
       "majör histo-uyumluluk kompleksi",
       "antijen sunan hücre",
@@ -3278,7 +3278,7 @@
   {
     "kategori": "immunoloji",
     "kelime": "kompleman yolağını başlatmak",
-    "aciklama": "yalnızca giren antijene tam uyan tek bir lenfosit klonunun çoğalarak ordu kurması.",
+    "aciklama": "yalnızca giren antijene tam uyan tek bir lenfosit klonunun çoğalarak",
     "yasakli_kelimeler": [
       "burnet teorisi",
       "özgül lenfosit çoğalması",
@@ -3292,7 +3292,7 @@
   {
     "kategori": "immunoloji",
     "kelime": "merkezi tolerans geliştirmek",
-    "aciklama": "timusta vücudun kendi dokusuna tepki veren t hücrelerini programlı ölümle yok etmek.",
+    "aciklama": "timusta vücudun kendi dokusuna tepki veren t hücrelerini programlı ölümle",
     "yasakli_kelimeler": [
       "negatif seleksiyon",
       "kendi antijenine saldıranı yok etme",
@@ -3306,7 +3306,7 @@
   {
     "kategori": "immunoloji",
     "kelime": "hücre zarı delmek",
-    "aciklama": "cd8+ t hücresinin perforin ve granzim salgılayarak enfekte hücreyi delip öldürmesi.",
+    "aciklama": "cd8+ t hücresinin perforin ve granzim salgılayarak enfekte hücreyi delip",
     "yasakli_kelimeler": [
       "cd8+",
       "perforin granzim",
@@ -3320,7 +3320,7 @@
   {
     "kategori": "immunoloji",
     "kelime": "izotip değişimi gerçekleştirmek",
-    "aciklama": "b hücresinin antijen özgüllüğünü koruyarak igm antikorundan igg veya ige üretimine geçmesi.",
+    "aciklama": "b hücresinin antijen özgüllüğünü koruyarak igm antikorundan igg veya ige",
     "yasakli_kelimeler": [
       "class switching",
       "igm den igg ye geçiş",
@@ -3348,7 +3348,7 @@
   {
     "kategori": "immunoloji",
     "kelime": "somatik hipermutasyon geçirmek",
-    "aciklama": "b hücrelerinin antikor bağlama bölgesinde nokta mutasyonları geçirerek antijene tutunma gücünü artırması.",
+    "aciklama": "b hücrelerinin antikor bağlama bölgesinde nokta mutasyonları geçirerek antijene tutunma",
     "yasakli_kelimeler": [
       "germinatif merkez",
       "afinite olgunlaşması",
@@ -3362,7 +3362,7 @@
   {
     "kategori": "immunoloji",
     "kelime": "regülatör t baskılamak",
-    "aciklama": "foxp3+ treg hücreleriyle savaş bittikten sonra bağışıklık tepkisini susturup dokuyu korumak.",
+    "aciklama": "foxp3+ treg hücreleriyle savaş bittikten sonra bağışıklık tepkisini susturup dokuyu",
     "yasakli_kelimeler": [
       "treg",
       "foxp3",
@@ -3376,7 +3376,7 @@
   {
     "kategori": "immunoloji",
     "kelime": "akut rejeksiyon önlemek",
-    "aciklama": "dendritik hücrenin mikrobu alıp lenf düğümüne giderek naif t hücrelerini uyarması.",
+    "aciklama": "dendritik hücrenin mikrobu alıp lenf düğümüne giderek naif t hücrelerini",
     "yasakli_kelimeler": [
       "dendritik hücre",
       "toll-like reseptör",
@@ -3418,7 +3418,7 @@
   {
     "kategori": "immunoloji",
     "kelime": "antijen reseptörü klonlamak",
-    "aciklama": "hücre dışından alınan yabancı antijenin istisnai olarak mhc-i molekülüne yüklenip sunulması.",
+    "aciklama": "hücre dışından alınan yabancı antijenin istisnai olarak mhc-i molekülüne yüklenip",
     "yasakli_kelimeler": [
       "cross-presentation",
       "ekstrasellüler antijen",

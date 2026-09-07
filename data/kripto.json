@@ -3,7 +3,7 @@
     "id": 1,
     "kategori": "kripto",
     "kelime": "blokzincir",
-    "aciklama": "işlemlerin kriptografik özetlerle birbirine bağlandığı, dağıtık ve değiştirilemez dijital veri tabanı.",
+    "aciklama": "şifreli bloklarla birbirine bağlı dağıtık ve güvenli veritabanı",
     "yasakli_kelimeler": [
       "dağıtık",
       "zincir",
@@ -31,7 +31,7 @@
     "id": 3,
     "kategori": "kripto",
     "kelime": "bitcoin",
-    "aciklama": "satoshi nakamoto tarafından tasarlanan, merkeziyetsiz çalışan ilk ve en büyük kripto para birimi.",
+    "aciklama": "merkeziyetsiz çalışan ilk ve en büyük kripto para birimi",
     "yasakli_kelimeler": [
       "satoshi",
       "nakamoto",
@@ -45,7 +45,7 @@
     "id": 4,
     "kategori": "kripto",
     "kelime": "akıllı sözleşme",
-    "aciklama": "koşulları kodlarla önceden belirlenmiş ve blokzincir üzerinde otomatik yürütülen kendi kendini uygulayan protokol.",
+    "aciklama": "şartlar gerçekleştiğinde otomatik olarak yürütülen blokzincir kodları",
     "yasakli_kelimeler": [
       "kod",
       "otomatik",
@@ -59,7 +59,7 @@
     "id": 5,
     "kategori": "kripto",
     "kelime": "iş kanıtı",
-    "aciklama": "ağ güvenliğini ve yeni blok üretimini yüksek işlemci gücüyle matematiksel bulmacalar çözerek sağlayan mutabakat algoritması.",
+    "aciklama": "yüksek enerji ve işlem gücüyle blok doğrulayan konsensüs mekanizması",
     "yasakli_kelimeler": [
       "proof of work",
       "madencilik",
@@ -73,7 +73,7 @@
     "id": 6,
     "kategori": "kripto",
     "kelime": "hisse kanıtı",
-    "aciklama": "blok doğrulayıcılarının sahip oldukları kripto varlık miktarı ve kilitleme süresine göre seçildiği mutabakat mekanizması.",
+    "aciklama": "varlık kilitlenerek doğrulayıcı olunan enerji tasarruflu mutabakat modeli",
     "yasakli_kelimeler": [
       "proof of stake",
       "stake",
@@ -87,7 +87,7 @@
     "id": 7,
     "kategori": "kripto",
     "kelime": "özet fonksiyonu",
-    "aciklama": "herhangi bir büyüklükteki girdiyi sabit uzunlukta benzersiz bir karakter dizisine dönüştüren tek yönlü matematiksel fonksiyon.",
+    "aciklama": "herhangi bir büyüklükteki girdiyi sabit uzunlukta benzersiz bir karakter dizisine",
     "yasakli_kelimeler": [
       "hash",
       "sha256",
@@ -101,7 +101,7 @@
     "id": 8,
     "kategori": "kripto",
     "kelime": "özel anahtar",
-    "aciklama": "kripto para cüzdanındaki fonlara erişim sağlayan ve asla başkalarıyla paylaşılmaması gereken gizli şifre dizisi.",
+    "aciklama": "kripto varlıkları harcamak için gizli tutulması gereken dijital şifre",
     "yasakli_kelimeler": [
       "gizli",
       "şifre",
@@ -115,7 +115,7 @@
     "id": 9,
     "kategori": "kripto",
     "kelime": "genel anahtar",
-    "aciklama": "özel anahtardan türetilen ve ağdaki diğer katılımcıların size bakiye transfer edebilmesini sağlayan açık adres.",
+    "aciklama": "para transferi almak için herkesle paylaşılan cüzdan adresi",
     "yasakli_kelimeler": [
       "açık",
       "adres",
@@ -129,7 +129,7 @@
     "id": 10,
     "kategori": "kripto",
     "kelime": "dijital imza",
-    "aciklama": "bir işlemin gönderici tarafından gerçekten onaylandığını ve sonradan değiştirilmediğini ispatlayan kriptografik kanıt.",
+    "aciklama": "bir işlemin gönderici tarafından gerçekten onaylandığını ve sonradan değiştirilmediğini ispatlayan",
     "yasakli_kelimeler": [
       "onay",
       "ispat",
@@ -143,7 +143,7 @@
     "id": 11,
     "kategori": "kripto",
     "kelime": "madencilik",
-    "aciklama": "özel donanımlarla blokzincir ağındaki işlemleri doğrulayıp yeni blok üreterek kripto para ödülü kazanma faaliyeti.",
+    "aciklama": "blokzincirde karmaşık problemleri çözerek yeni bloklar üretme işlemi",
     "yasakli_kelimeler": [
       "asic",
       "donanım",
@@ -157,7 +157,7 @@
     "id": 12,
     "kategori": "kripto",
     "kelime": "yarılanma",
-    "aciklama": "bitcoin ağında her 210 bin blokta bir madencilere verilen blok ödülünün yarı yarıya azalması olayı.",
+    "aciklama": "bitcoin ağında her 210 bin blokta bir madencilere verilen blok",
     "yasakli_kelimeler": [
       "halving",
       "ödül",
@@ -171,7 +171,7 @@
     "id": 13,
     "kategori": "kripto",
     "kelime": "merkeziyetsiz finans",
-    "aciklama": "banka veya aracı kurumlar olmaksızın blokzincir tabanlı akıllı sözleşmelerle yürütülen finansal hizmetler ekosistemi.",
+    "aciklama": "aracı olmadan akıllı sözleşmelerle yürütülen finansal hizmetler ekosistemi",
     "yasakli_kelimeler": [
       "defi",
       "banka",
@@ -185,7 +185,7 @@
     "id": 14,
     "kategori": "kripto",
     "kelime": "merkeziyetsiz borsa",
-    "aciklama": "kullanıcıların cüzdanlarından doğrudan eşler arası token takası yapmalarını sağlayan aracı kuruluşu olmayan ticaret platformu.",
+    "aciklama": "aracı olmadan cüzdandan cüzdana doğrudan takas sağlayan kripto borsası",
     "yasakli_kelimeler": [
       "dex",
       "takas",
@@ -199,7 +199,7 @@
     "id": 15,
     "kategori": "kripto",
     "kelime": "likidite havuzu",
-    "aciklama": "merkeziyetsiz borsalarda işlem yapılabilmesi için kullanıcıların akıllı sözleşmeye kilitledikleri kripto para fonları toplamı.",
+    "aciklama": "merkeziyetsiz borsalarda işlem yapılabilmesi için kullanıcıların akıllı sözleşmeye kilitledikleri kripto",
     "yasakli_kelimeler": [
       "havuz",
       "fon",
@@ -213,7 +213,7 @@
     "id": 16,
     "kategori": "kripto",
     "kelime": "otomatik piyasa yapıcı",
-    "aciklama": "geleneksel emir defteri yerine matematiksel formüllerle token fiyatlarını belirleyen algoritmik sistem.",
+    "aciklama": "geleneksel emir defteri yerine matematiksel formüllerle token fiyatlarını belirleyen algoritmik",
     "yasakli_kelimeler": [
       "amm",
       "formül",
@@ -227,7 +227,7 @@
     "id": 17,
     "kategori": "kripto",
     "kelime": "merkeziyetsiz otonom organizasyon",
-    "aciklama": "yönetim kararlarının token sahiplerinin oylarıyla ve akıllı sözleşmelerle yürütüldüğü hiyerarşisiz topluluk yapısı.",
+    "aciklama": "yönetim kararlarının token sahiplerinin oylarıyla ve akıllı sözleşmelerle yürütüldüğü hiyerarşisiz",
     "yasakli_kelimeler": [
       "akıllı sözleşme",
       "yönetim",
@@ -241,7 +241,7 @@
     "id": 18,
     "kategori": "kripto",
     "kelime": "nitelikli fikri tapu",
-    "aciklama": "dijital sanat, müzik veya koleksiyon parçalarının blokzincir üzerinde mülkiyetini belgeleyen benzersiz dijital varlık.",
+    "aciklama": "dijital sanat, müzik veya koleksiyon parçalarının blokzincir üzerinde mülkiyetini belgeleyen",
     "yasakli_kelimeler": [
       "benzersiz varlık",
       "dijital sanat",
@@ -255,7 +255,7 @@
     "id": 19,
     "kategori": "kripto",
     "kelime": "sabit kripto para",
-    "aciklama": "volatilitesini önlemek amacıyla değeri genellikle abd doları veya altın gibi istikrarlı bir varlığa sabitlenmiş kripto para.",
+    "aciklama": "volatilitesini önlemek amacıyla değeri genellikle abd doları veya altın gibi",
     "yasakli_kelimeler": [
       "stablecoin",
       "dolar",
@@ -269,7 +269,7 @@
     "id": 20,
     "kategori": "kripto",
     "kelime": "dijital para",
-    "aciklama": "devletlerin merkez bankaları tarafından çıkarılan ve teminat altına alınan resmi dijital para birimi.",
+    "aciklama": "devletlerin merkez bankaları tarafından çıkarılan ve teminat altına alınan resmi",
     "yasakli_kelimeler": [
       "merkez bankası",
       "cbdc",
@@ -283,7 +283,7 @@
     "id": 21,
     "kategori": "kripto",
     "kelime": "soğuk cüzdan",
-    "aciklama": "özel anahtarları internete bağlı olmayan fiziksel donanımlarda saklayan en güvenli kripto saklama yöntemi.",
+    "aciklama": "internete bağlı olmadan kripto varlıkları güvenle saklayan donanım cihazı",
     "yasakli_kelimeler": [
       "donanım",
       "çevrimdışı",
@@ -297,7 +297,7 @@
     "id": 22,
     "kategori": "kripto",
     "kelime": "sıcak cüzdan",
-    "aciklama": "internete sürekli bağlı olan ve hızlı transferler yapmaya yarayan tarayıcı veya mobil cüzdan uygulaması.",
+    "aciklama": "internete sürekli bağlı olan ve günlük kullanılan yazılım cüzdanı",
     "yasakli_kelimeler": [
       "çevrimiçi",
       "mobil",
@@ -311,7 +311,7 @@
     "id": 23,
     "kategori": "kripto",
     "kelime": "kurtarma ifadesi",
-    "aciklama": "cüzdan kaybedildiğinde tüm özel anahtarları yeniden üretebilen genellikle 12 veya 24 kelimelik anahtar dizesi.",
+    "aciklama": "cüzdan kaybedildiğinde tüm özel anahtarları yeniden üretebilen genellikle 12 veya",
     "yasakli_kelimeler": [
       "seed phrase",
       "kelime",
@@ -325,7 +325,7 @@
     "id": 24,
     "kategori": "kripto",
     "kelime": "gaz ücreti",
-    "aciklama": "ethereum gibi ağlarda akıllı sözleşmeleri çalıştırmak ve transferleri onaylatmak için madencilere ödenen işlem bedeli.",
+    "aciklama": "blokzincirde işlem yapmak için ağ doğrulayıcılarına ödenen transfer ücreti",
     "yasakli_kelimeler": [
       "komisyon",
       "maliyet",
@@ -339,7 +339,7 @@
     "id": 25,
     "kategori": "kripto",
     "kelime": "sıfır bilgi ispatı",
-    "aciklama": "bir tarafın elindeki gizli bilgiyi karşı tarafa ifşa etmeden o bilginin doğruluğunu matematiksel olarak kanıtlama tekniği.",
+    "aciklama": "bir tarafın elindeki gizli bilgiyi karşı tarafa ifşa etmeden o",
     "yasakli_kelimeler": [
       "zero knowledge",
       "gizlilik",
@@ -353,7 +353,7 @@
     "id": 26,
     "kategori": "kripto",
     "kelime": "ikinci katman",
-    "aciklama": "ana blokzincirin üzerindeki yükü azaltmak ve işlem hızını artırmak için zincir dışında çalışan ölçeklenebilirlik çözümü.",
+    "aciklama": "ana blokzincirin üzerindeki yükü azaltmak ve işlem hızını artırmak için",
     "yasakli_kelimeler": [
       "layer 2",
       "ölçekleme",
@@ -367,7 +367,7 @@
     "id": 27,
     "kategori": "kripto",
     "kelime": "iyileştirici dürümler",
-    "aciklama": "işlemleri zincir dışında toplayıp işlemlerin geçerli olduğunu varsayan ve itiraz süresi tanıyan ikinci katman çözümü.",
+    "aciklama": "işlemleri zincir dışında toplayıp işlemlerin geçerli olduğunu varsayan ve itiraz",
     "yasakli_kelimeler": [
       "optimistic rollup",
       "sahtekarlık kanıtı",
@@ -381,7 +381,7 @@
     "id": 28,
     "kategori": "kripto",
     "kelime": "zk-rollup",
-    "aciklama": "işlemleri katman 2'de toplayıp sıfır bilgi kanıtıyla ana ağa onaylatan ölçekleme çözümü.",
+    "aciklama": "işlemleri katman 2'de toplayıp sıfır bilgi kanıtıyla ana ağa onaylatan",
     "yasakli_kelimeler": [
       "katman 2",
       "sıfır bilgi",
@@ -395,7 +395,7 @@
     "id": 29,
     "kategori": "kripto",
     "kelime": "yıldırım ağı",
-    "aciklama": "bitcoin üzerinde mikrotutarlı transferlerin neredeyse anında ve sıfıra yakın masrafla yapılmasını sağlayan ödeme kanalı.",
+    "aciklama": "bitcoin üzerinde mikrotutarlı transferlerin neredeyse anında ve sıfıra yakın masrafla",
     "yasakli_kelimeler": [
       "lightning network",
       "mikro ödeme",
@@ -409,7 +409,7 @@
     "id": 30,
     "kategori": "kripto",
     "kelime": "merkle ağacı",
-    "aciklama": "bloktaki tüm işlemlerin ikili çiftler halinde özetlenerek tek bir kök özet değerinde toplandığı hiyerarşik veri yapısı.",
+    "aciklama": "bloktaki tüm işlemlerin ikili çiftler halinde özetlenerek tek bir kök",
     "yasakli_kelimeler": [
       "kök",
       "yaprak",
@@ -423,7 +423,7 @@
     "id": 31,
     "kategori": "kripto",
     "kelime": "zincirler arası köprü",
-    "aciklama": "birbirinden bağımsız iki farklı blokzincir ağı arasında token ve veri transferini mümkün kılan protokol.",
+    "aciklama": "birbirinden bağımsız iki farklı blokzincir ağı arasında token ve veri",
     "yasakli_kelimeler": [
       "bridge",
       "aktarım",
@@ -437,7 +437,7 @@
     "id": 32,
     "kategori": "kripto",
     "kelime": "karşılıksız jeton dağıtımı",
-    "aciklama": "yeni bir blokzincir projesinin tanıtım amacıyla kullanıcılara bedelsiz dijital varlık dağıtması.",
+    "aciklama": "yeni bir blokzincir projesinin tanıtım amacıyla kullanıcılara bedelsiz dijital varlık",
     "yasakli_kelimeler": [
       "bedava varlık",
       "dağıtım kampanyası",
@@ -451,7 +451,7 @@
     "id": 33,
     "kategori": "kripto",
     "kelime": "ilk para arzı",
-    "aciklama": "yeni başlatılan bir kripto projesinin erken dönem yatırımcılara token satarak fon toplama yöntemi.",
+    "aciklama": "yeni başlatılan bir kripto projesinin erken dönem yatırımcılara token satarak",
     "yasakli_kelimeler": [
       "ico",
       "fonlama",
@@ -465,7 +465,7 @@
     "id": 34,
     "kategori": "kripto",
     "kelime": "geçici kayıp",
-    "aciklama": "likidite havuzuna yatırılan tokenların fiyatlarının birbirine göre değişmesi sebebiyle al-tut stratejisine kıyasla oluşan kayıp.",
+    "aciklama": "likidite havuzuna yatırılan tokenların fiyatlarının birbirine göre değişmesi sebebiyle al-tut",
     "yasakli_kelimeler": [
       "impermanent loss",
       "havuz",
@@ -479,7 +479,7 @@
     "id": 35,
     "kategori": "kripto",
     "kelime": "getiri çiftçiliği",
-    "aciklama": "kripto varlıkları en yüksek faiz ve ödül getirisini elde etmek için çeşitli defi protokolleri arasında dolaştırma stratejisi.",
+    "aciklama": "kripto varlıkları en yüksek faiz ve ödül getirisini elde etmek",
     "yasakli_kelimeler": [
       "yield farming",
       "faiz",
@@ -493,7 +493,7 @@
     "id": 36,
     "kategori": "kripto",
     "kelime": "sözleşme denetimi",
-    "aciklama": "akıllı sözleşmelerin kodlarındaki güvenlik açıklarını ve hataları bulmak için yapılan uzman incelemesi.",
+    "aciklama": "akıllı sözleşmelerin kodlarındaki güvenlik açıklarını ve hataları bulmak için yapılan",
     "yasakli_kelimeler": [
       "güvenlik",
       "kod",
@@ -507,7 +507,7 @@
     "id": 37,
     "kategori": "kripto",
     "kelime": "yüzde 51 saldırısı",
-    "aciklama": "bir madencilik veya doğrulama ağındaki bilgi işlem gücünün çoğunluğunu ele geçirerek yapılan saldırı.",
+    "aciklama": "bir madencilik veya doğrulama ağındaki bilgi işlem gücünün çoğunluğunu ele",
     "yasakli_kelimeler": [
       "hash gücü",
       "çoğunluk",
@@ -521,7 +521,7 @@
     "id": 38,
     "kategori": "kripto",
     "kelime": "çift harcama",
-    "aciklama": "aynı dijital varlığın eş zamanlı olarak birden fazla kişiye transfer edilmeye çalışılması sahtekarlığı.",
+    "aciklama": "aynı dijital varlığın eş zamanlı olarak birden fazla kişiye transfer",
     "yasakli_kelimeler": [
       "dolandırıcılık",
       "aynı para",
@@ -535,7 +535,7 @@
     "id": 39,
     "kategori": "kripto",
     "kelime": "çatallanma",
-    "aciklama": "blokzincir yazılım kurallarındaki köklü değişiklikler sonucu zincirin iki ayrı yola veya ağa bölünmesi.",
+    "aciklama": "blokzincir yazılım kurallarındaki köklü değişiklikler sonucu zincirin iki ayrı yola",
     "yasakli_kelimeler": [
       "fork",
       "bölünme",
@@ -549,7 +549,7 @@
     "id": 40,
     "kategori": "kripto",
     "kelime": "blok gezgini",
-    "aciklama": "blokzincir üzerindeki tüm blokları, cüzdan adreslerini ve işlem geçmişini şeffafça sorgulamaya yarayan web aracı.",
+    "aciklama": "blokzincir üzerindeki tüm blokları, cüzdan adreslerini ve işlem geçmişini şeffafça",
     "yasakli_kelimeler": [
       "etherscan",
       "sorgu",
@@ -563,7 +563,7 @@
     "id": 41,
     "kategori": "kripto",
     "kelime": "müşterini tanı",
-    "aciklama": "kripto borsalarının kara para aklamayı önlemek amacıyla kullanıcılarından kimlik ve ikametgah belgesi talep etme süreci.",
+    "aciklama": "kripto borsalarının kara para aklamayı önlemek amacıyla kullanıcılarından kimlik ve",
     "yasakli_kelimeler": [
       "kyc",
       "kimlik",
@@ -577,7 +577,7 @@
     "id": 42,
     "kategori": "kripto",
     "kelime": "kara para önleme",
-    "aciklama": "yasa dışı yollarla elde edilen fonların finansal sisteme sokulmasını engellemeye yönelik denetim kuralları.",
+    "aciklama": "yasa dışı yollarla elde edilen fonların finansal sisteme sokulmasını engellemeye",
     "yasakli_kelimeler": [
       "mali suç",
       "aklama",
@@ -591,7 +591,7 @@
     "id": 43,
     "kategori": "kripto",
     "kelime": "hızlı kredi",
-    "aciklama": "defi üzerinde hiçbir teminat gerektirmeden alınan ve aynı blok işlem dizisi içerisinde geri ödenmesi zorunlu olan anlık borç.",
+    "aciklama": "defi üzerinde hiçbir teminat gerektirmeden alınan ve aynı blok işlem",
     "yasakli_kelimeler": [
       "flash loan",
       "teminatsız",
@@ -605,7 +605,7 @@
     "id": 44,
     "kategori": "kripto",
     "kelime": "kripto arbitrajı",
-    "aciklama": "aynı kripto paranın farklı borsalardaki fiyat farkından yararlanarak eş zamanlı alım satımla risksiz kâr elde etme.",
+    "aciklama": "aynı kripto paranın farklı borsalardaki fiyat farkından yararlanarak eş zamanlı",
     "yasakli_kelimeler": [
       "fiyat farkı",
       "farklı borsa",
@@ -633,7 +633,7 @@
     "id": 46,
     "kategori": "kripto",
     "kelime": "ponzi şeması",
-    "aciklama": "eski yatırımcıların kâr paylarını yeni giren yatırımcıların parasıyla ödeyen ve çökmeye mahkum sahte yatırım düzeni.",
+    "aciklama": "eski yatırımcıların kâr paylarını yeni giren yatırımcıların parasıyla ödeyen ve",
     "yasakli_kelimeler": [
       "saadet zinciri",
       "dolandırıcılık",
@@ -647,7 +647,7 @@
     "id": 47,
     "kategori": "kripto",
     "kelime": "kripto stake etme",
-    "aciklama": "hisse kanıtı ağlarında ağın güvenliğine katkı sağlamak amacıyla coinleri belirli bir süre kilitleyerek pasif getiri kazanma.",
+    "aciklama": "hisse kanıtı ağlarında ağın güvenliğine katkı sağlamak amacıyla coinleri belirli",
     "yasakli_kelimeler": [
       "kilitleme",
       "faiz",
@@ -661,7 +661,7 @@
     "id": 48,
     "kategori": "kripto",
     "kelime": "slashing",
-    "aciklama": "hatalı veya kötü niyetli işlem doğrulayan pos doğrulayıcılarının stake ettikleri teminatın kesilmesi.",
+    "aciklama": "hatalı veya kötü niyetli işlem doğrulayan pos doğrulayıcılarının stake ettikleri",
     "yasakli_kelimeler": [
       "ceza",
       "doğrulayıcı",
@@ -675,7 +675,7 @@
     "id": 49,
     "kategori": "kripto",
     "kelime": "kripto para yakma",
-    "aciklama": "belirli miktarda coin veya tokenın kimsenin erişemeyeceği ölü bir adrese gönderilerek dolaşımdan kalıcı çıkarılması.",
+    "aciklama": "belirli miktarda coin veya tokenın kimsenin erişemeyeceği ölü bir adrese",
     "yasakli_kelimeler": [
       "burn",
       "ölü adres",
@@ -689,7 +689,7 @@
     "id": 50,
     "kategori": "kripto",
     "kelime": "dolaşımdaki arz",
-    "aciklama": "şu anda piyasada serbestçe alınıp satılabilen ve kamuya açık cüzdanlarda bulunan toplam kripto para adedi.",
+    "aciklama": "şu anda piyasada serbestçe alınıp satılabilen ve kamuya açık cüzdanlarda",
     "yasakli_kelimeler": [
       "adet",
       "miktar",
@@ -703,7 +703,7 @@
     "id": 51,
     "kategori": "kripto",
     "kelime": "maksimum arz",
-    "aciklama": "bir kripto para biriminin protokol koduna göre var olabilecek en üst sınır token veya coin miktarı.",
+    "aciklama": "bir kripto para biriminin protokol koduna göre var olabilecek en",
     "yasakli_kelimeler": [
       "üst sınır",
       "toplam limit",
@@ -717,7 +717,7 @@
     "id": 52,
     "kategori": "kripto",
     "kelime": "piyasa değeri",
-    "aciklama": "bir kripto paranın güncel birim fiyatı ile dolaşımdaki toplam arzının çarpılmasıyla hesaplanan büyüklük.",
+    "aciklama": "bir kripto paranın güncel birim fiyatı ile dolaşımdaki toplam arzının",
     "yasakli_kelimeler": [
       "market cap",
       "toplam değer",
@@ -731,7 +731,7 @@
     "id": 53,
     "kategori": "kripto",
     "kelime": "bitcoin hakimiyeti",
-    "aciklama": "bitcoin piyasa değerinin tüm kripto para piyasasının toplam değerine olan yüzde oranını gösteren metrik.",
+    "aciklama": "bitcoin piyasa değerinin tüm kripto para piyasasının toplam değerine olan",
     "yasakli_kelimeler": [
       "dominance",
       "yüzde",
@@ -745,7 +745,7 @@
     "id": 54,
     "kategori": "kripto",
     "kelime": "altcoin",
-    "aciklama": "bitcoin dışındaki diğer tüm alternatif kripto para ve token projelerine verilen genel ad.",
+    "aciklama": "bitcoin dışındaki diğer tüm alternatif kripto para ve token projelerine",
     "yasakli_kelimeler": [
       "alternatif",
       "ethereum",
@@ -759,7 +759,7 @@
     "id": 55,
     "kategori": "kripto",
     "kelime": "kripto balinası",
-    "aciklama": "elinde piyasa fiyatlarını etkileyebilecek büyüklükte devasa miktarda kripto varlık bulunduran kişi veya kurum.",
+    "aciklama": "elinde piyasa fiyatlarını etkileyebilecek büyüklükte devasa miktarda kripto varlık bulunduran",
     "yasakli_kelimeler": [
       "büyük yatırımcı",
       "yüklü miktar",
@@ -773,7 +773,7 @@
     "id": 56,
     "kategori": "kripto",
     "kelime": "açgözlülük endeksi",
-    "aciklama": "kripto piyasasındaki duygu durumunu korkudan aşırı iyimserliğe kadar 0-100 arasında ölçen gösterge.",
+    "aciklama": "kripto piyasasındaki duygu durumunu korkudan aşırı iyimserliğe kadar 0-100 arasında",
     "yasakli_kelimeler": [
       "korku",
       "piyasa",
@@ -787,7 +787,7 @@
     "id": 57,
     "kategori": "kripto",
     "kelime": "ayı piyasası",
-    "aciklama": "fiyatların uzun süre düşüş trendinde olduğu, karamsarlığın ve hacimsizliğin hakim olduğu piyasa dönemi.",
+    "aciklama": "fiyatların uzun süre düşüş trendinde olduğu, karamsarlığın ve hacimsizliğin hakim",
     "yasakli_kelimeler": [
       "düşüş",
       "trend",
@@ -801,7 +801,7 @@
     "id": 58,
     "kategori": "kripto",
     "kelime": "boğa piyasası",
-    "aciklama": "fiyatların sürekli yükseldiği, yeni yatırımcıların akın ettiği ve genel coşkunun zirve yaptığı piyasa dönemi.",
+    "aciklama": "fiyatların sürekli yükseldiği, yeni yatırımcıların akın ettiği ve genel coşkunun",
     "yasakli_kelimeler": [
       "yükseliş",
       "ralli",
@@ -815,7 +815,7 @@
     "id": 59,
     "kategori": "kripto",
     "kelime": "fırsatı kaçırma korkusu",
-    "aciklama": "hızla yükselen bir kripto varlığı kaçırma endişesiyle aceleyle ve plansızca tepe fiyattan satın alma dürtüsü.",
+    "aciklama": "hızla yükselen bir kripto varlığı kaçırma endişesiyle aceleyle ve plansızca",
     "yasakli_kelimeler": [
       "fomo",
       "panik alış",
@@ -829,7 +829,7 @@
     "id": 60,
     "kategori": "kripto",
     "kelime": "korku yayma",
-    "aciklama": "piyasada panik satışı yaratmak amacıyla olumsuz ve teyitsiz haberlerin kasten dolaşıma sokulması.",
+    "aciklama": "piyasada panik satışı yaratmak amacıyla olumsuz ve teyitsiz haberlerin kasten",
     "yasakli_kelimeler": [
       "panik satışı",
       "güvensizlik ortamı",
@@ -843,7 +843,7 @@
     "id": 61,
     "kategori": "kripto",
     "kelime": "kripto kahini",
-    "aciklama": "gerçek dünyadaki hava durumu veya borsa fiyatları gibi harici verileri akıllı sözleşmelere aktaran veri köprüsü.",
+    "aciklama": "gerçek dünyadaki hava durumu veya borsa fiyatları gibi harici verileri",
     "yasakli_kelimeler": [
       "oracle",
       "chainlink",
@@ -857,7 +857,7 @@
     "id": 62,
     "kategori": "kripto",
     "kelime": "sıfırıncı katman",
-    "aciklama": "farklı bağımsız blokzincirlerin kendi aralarında iletişim kurmasına ve birlikte çalışmasına zemin hazırlayan temel altyapı protokolü.",
+    "aciklama": "farklı bağımsız blokzincirlerin kendi aralarında iletişim kurmasına ve birlikte çalışmasına",
     "yasakli_kelimeler": [
       "layer 0",
       "polkadot",
@@ -871,7 +871,7 @@
     "id": 63,
     "kategori": "kripto",
     "kelime": "parçalama",
-    "aciklama": "blokzincir ağını daha küçük bağımsız parçalara bölerek işlemlerin paralel yapılmasıyla verimi artıran ölçekleme tekniği.",
+    "aciklama": "blokzincir ağını daha küçük bağımsız parçalara bölerek işlemlerin paralel yapılmasıyla",
     "yasakli_kelimeler": [
       "sharding",
       "bölme",
@@ -885,7 +885,7 @@
     "id": 64,
     "kategori": "kripto",
     "kelime": "durum kanalı",
-    "aciklama": "katılımcıların blokzincir haricinde aralarında defalarca işlem yapıp sadece başlangıç ve bitiş durumunu ana zincire yazdığı yöntem.",
+    "aciklama": "katılımcıların blokzincir haricinde aralarında defalarca işlem yapıp sadece başlangıç ve",
     "yasakli_kelimeler": [
       "state channel",
       "zincir dışı",
@@ -899,7 +899,7 @@
     "id": 65,
     "kategori": "kripto",
     "kelime": "merkeziyetsiz kimlik",
-    "aciklama": "kullanıcının kendi kişisel kimlik bilgilerinin kontrolünü merkezi otorite yerine kriptografik anahtarlarla elinde tuttuğu sistem.",
+    "aciklama": "kullanıcının kendi kişisel kimlik bilgilerinin kontrolünü merkezi otorite yerine kriptografik",
     "yasakli_kelimeler": [
       "did",
       "kimlik",
@@ -913,7 +913,7 @@
     "id": 66,
     "kategori": "kripto",
     "kelime": "gizlilik parası",
-    "aciklama": "işlem taraflarını ve transfer tutarlarını kriptografik yöntemlerle gizleyen kripto para türü.",
+    "aciklama": "işlem taraflarını ve transfer tutarlarını kriptografik yöntemlerle gizleyen kripto para",
     "yasakli_kelimeler": [
       "monero",
       "anonim",
@@ -927,7 +927,7 @@
     "id": 67,
     "kategori": "kripto",
     "kelime": "halka imza",
-    "aciklama": "bir işlemi grup içindeki herhangi bir üyenin imzaladığını kanıtlayan ama tam olarak kim olduğunu ele vermeyen gizlilik aracı.",
+    "aciklama": "bir işlemi grup içindeki herhangi bir üyenin imzaladığını kanıtlayan ama",
     "yasakli_kelimeler": [
       "ring signature",
       "monero",
@@ -941,7 +941,7 @@
     "id": 68,
     "kategori": "kripto",
     "kelime": "elips eğri kriptografisi",
-    "aciklama": "küçük anahtar boyutlarıyla yüksek düzeyde güvenlik sağlayan ve bitcoin'de anahtar çifti üretiminde kullanılan matematiksel yöntem.",
+    "aciklama": "küçük anahtar boyutlarıyla yüksek düzeyde güvenlik sağlayan ve bitcoin'de anahtar",
     "yasakli_kelimeler": [
       "ecc",
       "secp256k1",
@@ -955,7 +955,7 @@
     "id": 69,
     "kategori": "kripto",
     "kelime": "sha-256",
-    "aciklama": "girdileri 256 bitlik sabit bir özet değerine dönüştüren ve bitcoin madenciliğinde kullanılan kriptografik özet standardı.",
+    "aciklama": "girdileri 256 bitlik sabit bir özet değerine dönüştüren ve bitcoin",
     "yasakli_kelimeler": [
       "algoritma",
       "özet",
@@ -969,7 +969,7 @@
     "id": 70,
     "kategori": "kripto",
     "kelime": "nonce değeri",
-    "aciklama": "madencilerin geçerli bir blok özeti bulabilmek için blok başlığında sürekli artırarak denedikleri 32 bitlik rastgele sayı.",
+    "aciklama": "madencilerin geçerli bir blok özeti bulabilmek için blok başlığında sürekli",
     "yasakli_kelimeler": [
       "rastgele sayı",
       "deneme",
@@ -983,7 +983,7 @@
     "id": 71,
     "kategori": "kripto",
     "kelime": "zorluk derecesi",
-    "aciklama": "yeni bir blok bulmanın ne kadar zor olduğunu belirleyen ve blok üretim süresini sabit tutmak için periyodik ayarlanan parametre.",
+    "aciklama": "yeni bir blok bulmanın ne kadar zor olduğunu belirleyen ve",
     "yasakli_kelimeler": [
       "madencilik",
       "hedef süre",
@@ -997,7 +997,7 @@
     "id": 72,
     "kategori": "kripto",
     "kelime": "karma gücü",
-    "aciklama": "bir madencilik cihazının veya tüm ağın saniyede gerçekleştirdiği özet hesaplama sayısını gösteren işlem kapasitesi.",
+    "aciklama": "bir madencilik cihazının veya tüm ağın saniyede gerçekleştirdiği özet hesaplama",
     "yasakli_kelimeler": [
       "hash rate",
       "terahash",
@@ -1011,7 +1011,7 @@
     "id": 73,
     "kategori": "kripto",
     "kelime": "arka kapı",
-    "aciklama": "bir şifreleme algoritması veya yazılımda güvenlik önlemlerini aşmak için gizlice bırakılan geçit.",
+    "aciklama": "bir şifreleme algoritması veya yazılımda güvenlik önlemlerini aşmak için gizlice",
     "yasakli_kelimeler": [
       "tuzak",
       "güvenlik",
@@ -1025,7 +1025,7 @@
     "id": 74,
     "kategori": "kripto",
     "kelime": "bizans hata toleransı",
-    "aciklama": "ağdaki bazı düğümlerin hatalı veya kötü niyetli davrandığı koşullarda bile sistemin doğru fikir birliğine varabilme yeteneği.",
+    "aciklama": "ağdaki bazı düğümlerin hatalı veya kötü niyetli davrandığı koşullarda bile",
     "yasakli_kelimeler": [
       "bft",
       "konsensüs",
@@ -1039,7 +1039,7 @@
     "id": 75,
     "kategori": "kripto",
     "kelime": "yetki kanıtı",
-    "aciklama": "blok doğrulama yetkisinin sadece kimliği önceden onaylanmış güvenilir kurumsal düğümlere verildiği merkeziyetçi mutabakat modeli.",
+    "aciklama": "blok doğrulama yetkisinin sadece kimliği önceden onaylanmış güvenilir kurumsal düğümlere",
     "yasakli_kelimeler": [
       "proof of authority",
       "kimlik",
@@ -1053,7 +1053,7 @@
     "id": 76,
     "kategori": "kripto",
     "kelime": "zaman kanıtı",
-    "aciklama": "bloklar arasındaki zaman aralığını doğrulanabilir gecikme fonksiyonlarıyla ölçerek çalışan çevre dostu mutabakat yöntemi.",
+    "aciklama": "bloklar arasındaki zaman aralığını doğrulanabilir gecikme fonksiyonlarıyla ölçerek çalışan çevre",
     "yasakli_kelimeler": [
       "proof of time",
       "chia",
@@ -1067,7 +1067,7 @@
     "id": 77,
     "kategori": "kripto",
     "kelime": "alan kanıtı",
-    "aciklama": "madencilik için işlemci gücü yerine kullanılmayan boş sabit disk depolama alanını kullanan mutabakat mekanizması.",
+    "aciklama": "madencilik için işlemci gücü yerine kullanılmayan boş sabit disk depolama",
     "yasakli_kelimeler": [
       "proof of space",
       "sabit disk",
@@ -1081,7 +1081,7 @@
     "id": 78,
     "kategori": "kripto",
     "kelime": "ethereum sanal makinesi",
-    "aciklama": "ethereum ağındaki tüm akıllı sözleşmelerin durumunu takip eden ve bayt kodlarını yürüten küresel sanal bilgisayar.",
+    "aciklama": "ethereum ağındaki tüm akıllı sözleşmelerin durumunu takip eden ve bayt",
     "yasakli_kelimeler": [
       "evm",
       "sanal makine",
@@ -1095,7 +1095,7 @@
     "id": 79,
     "kategori": "kripto",
     "kelime": "solidity",
-    "aciklama": "ethereum ve evm uyumlu blokzincirlerde akıllı sözleşmeler yazmak için kullanılan nesne yönelimli dil.",
+    "aciklama": "ethereum ve evm uyumlu blokzincirlerde akıllı sözleşmeler yazmak için nesne",
     "yasakli_kelimeler": [
       "akıllı sözleşme",
       "ethereum",
@@ -1109,7 +1109,7 @@
     "id": 80,
     "kategori": "kripto",
     "kelime": "erc-20 standardı",
-    "aciklama": "ethereum blokzinciri üzerinde birbirinin yerine geçebilen fungible tokenların oluşturulmasını düzenleyen teknik standart.",
+    "aciklama": "ethereum blokzinciri üzerinde birbirinin yerine geçebilen fungible tokenların oluşturulmasını düzenleyen",
     "yasakli_kelimeler": [
       "token",
       "standart",
@@ -1123,7 +1123,7 @@
     "id": 81,
     "kategori": "kripto",
     "kelime": "erc-721 standardı",
-    "aciklama": "blokzincirde her bir tokenın benzersiz özelliklere sahip olmasını tanımlayan nft standardı.",
+    "aciklama": "blokzincirde her bir tokenın benzersiz özelliklere sahip olmasını tanımlayan nft",
     "yasakli_kelimeler": [
       "benzersiz varlık",
       "dijital tapu",
@@ -1137,7 +1137,7 @@
     "id": 82,
     "kategori": "kripto",
     "kelime": "ayırma protokolü",
-    "aciklama": "bitcoin blok boyut limitini aşmak için işlem imzalarını tanık verisi olarak ayıran ve ölçeklemeyi iyileştiren yükseltme.",
+    "aciklama": "bitcoin blok boyut limitini aşmak için işlem imzalarını tanık verisi",
     "yasakli_kelimeler": [
       "segwit",
       "imza",
@@ -1151,7 +1151,7 @@
     "id": 83,
     "kategori": "kripto",
     "kelime": "taproot yükseltmesi",
-    "aciklama": "bitcoin ağında gizliliği, işlem verimliliğini artıran ve schnorr imzalarını sisteme getiren önemli protokol güncellemesi.",
+    "aciklama": "bitcoin ağında gizliliği, işlem verimliliğini artıran ve schnorr imzalarını sisteme",
     "yasakli_kelimeler": [
       "schnorr",
       "güncelleme",
@@ -1165,7 +1165,7 @@
     "id": 84,
     "kategori": "kripto",
     "kelime": "madencilik havuzu",
-    "aciklama": "bireysel madencilerin işlem güçlerini birleştirerek blok bulma şanslarını artırdıkları ve ödülü paylaştıkları organizasyon.",
+    "aciklama": "bireysel madencilerin işlem güçlerini birleştirerek blok bulma şanslarını artırdıkları ve",
     "yasakli_kelimeler": [
       "pool",
       "güç birleştirme",
@@ -1179,7 +1179,7 @@
     "id": 85,
     "kategori": "kripto",
     "kelime": "bulut madenciliği",
-    "aciklama": "fiziksel madencilik donanımı satın almadan uzak bir veri merkezinden bilgi işlem gücü kiralayarak yapılan kripto madenciliği.",
+    "aciklama": "fiziksel madencilik donanımı satın almadan uzak bir veri merkezinden bilgi",
     "yasakli_kelimeler": [
       "kiralama",
       "uzak sunucu",
@@ -1193,7 +1193,7 @@
     "id": 86,
     "kategori": "kripto",
     "kelime": "asenkron aktarım",
-    "aciklama": "blokzincir ağlarında işlemlerin aynı anda onaylanmasını beklemeden bağımsız yürütülmesini sağlayan iletişim yapısı.",
+    "aciklama": "blokzincir ağlarında işlemlerin aynı anda onaylanmasını beklemeden bağımsız yürütülmesini sağlayan",
     "yasakli_kelimeler": [
       "eşzamanlı olmayan",
       "gecikmeli",
@@ -1207,7 +1207,7 @@
     "id": 87,
     "kategori": "kripto",
     "kelime": "kayma payı",
-    "aciklama": "merkeziyetsiz borsada işlem onaylanana kadar piyasa fiyatındaki dalgalanma sebebiyle beklenen fiyat ile gerçekleşen fiyat farkı.",
+    "aciklama": "merkeziyetsiz borsada işlem onaylanana kadar piyasa fiyatındaki dalgalanma sebebiyle beklenen",
     "yasakli_kelimeler": [
       "slippage",
       "fiyat toleransı",
@@ -1221,7 +1221,7 @@
     "id": 88,
     "kategori": "kripto",
     "kelime": "işlem sırası kapma",
-    "aciklama": "onay bekleyen büyük bir işlemi görüp daha yüksek komisyon ödeyerek önüne geçme taktiği.",
+    "aciklama": "onay bekleyen büyük bir işlemi görüp daha yüksek komisyon ödeyerek",
     "yasakli_kelimeler": [
       "bekleme havuzu",
       "yüksek komisyon",
@@ -1235,7 +1235,7 @@
     "id": 89,
     "kategori": "kripto",
     "kelime": "bellek havuzu",
-    "aciklama": "ağda doğrulanmış ancak henüz bir bloğa dahil edilip mühürlenmemiş bekleyen işlemlerin kuyrukta beklediği alan.",
+    "aciklama": "ağda doğrulanmış ancak henüz bir bloğa dahil edilip mühürlenmemiş bekleyen",
     "yasakli_kelimeler": [
       "mempool",
       "kuyruk",
@@ -1249,7 +1249,7 @@
     "id": 90,
     "kategori": "kripto",
     "kelime": "doğrulayıcı düğüm",
-    "aciklama": "hisse kanıtı ağında zincirin tam bir kopyasını tutarak işlemleri kontrol eden ve yeni blokları imzalayan sunucu.",
+    "aciklama": "hisse kanıtı ağında zincirin tam bir kopyasını tutarak işlemleri kontrol",
     "yasakli_kelimeler": [
       "validator",
       "düğüm",
@@ -1263,7 +1263,7 @@
     "id": 91,
     "kategori": "kripto",
     "kelime": "tam düğüm",
-    "aciklama": "blokzincirin ilk gününden itibaren tüm işlem geçmişini ve bloklarını indirip kurallara göre doğrulayan bağımsız bilgisayar.",
+    "aciklama": "blokzincirin ilk gününden itibaren tüm işlem geçmişini ve bloklarını indirip",
     "yasakli_kelimeler": [
       "full node",
       "geçmiş",
@@ -1277,7 +1277,7 @@
     "id": 92,
     "kategori": "kripto",
     "kelime": "hafif düğüm",
-    "aciklama": "tüm zincir geçmişi yerine yalnızca blok başlıklarını indirerek az veriyle işlem doğrulaması yapan hafif istemci.",
+    "aciklama": "tüm zincir geçmişi yerine yalnızca blok başlıklarını indirerek az veriyle",
     "yasakli_kelimeler": [
       "light node",
       "başlık",
@@ -1291,7 +1291,7 @@
     "id": 93,
     "kategori": "kripto",
     "kelime": "başlangıç bloğu",
-    "aciklama": "bir blokzincir ağında üretilen ilk blok olan ve önceki hiçbir bloğa referans vermeyen sıfırıncı blok.",
+    "aciklama": "bir blokzincir ağında üretilen ilk blok olan ve önceki hiçbir",
     "yasakli_kelimeler": [
       "genesis block",
       "sıfırıncı",
@@ -1305,7 +1305,7 @@
     "id": 94,
     "kategori": "kripto",
     "kelime": "zincir içi analiz",
-    "aciklama": "halka açık blokzincir defterindeki cüzdan hareketlerini, işlem hacimlerini ve varlık transferlerini inceleme yöntemi.",
+    "aciklama": "halka açık blokzincir defterindeki cüzdan hareketlerini, işlem hacimlerini ve varlık",
     "yasakli_kelimeler": [
       "on-chain",
       "metrik",
@@ -1319,7 +1319,7 @@
     "id": 95,
     "kategori": "kripto",
     "kelime": "kripto mikseri",
-    "aciklama": "farklı kullanıcılardan gelen kripto varlıkları karıştırarak fonların takip edilebilirliğini kaldıran servis.",
+    "aciklama": "farklı kullanıcılardan gelen kripto varlıkları karıştırarak fonların takip edilebilirliğini kaldıran",
     "yasakli_kelimeler": [
       "karıştırma",
       "tornado cash",
@@ -1333,7 +1333,7 @@
     "id": 96,
     "kategori": "kripto",
     "kelime": "çoklu imzalı cüzdan",
-    "aciklama": "bir transferin gerçekleşebilmesi için önceden belirlenmiş birden fazla yetkili anahtarın onayını zorunlu kılan güvenli cüzdan.",
+    "aciklama": "bir transferin gerçekleşebilmesi için önceden belirlenmiş birden fazla yetkili anahtarın",
     "yasakli_kelimeler": [
       "multisig",
       "ortak",
@@ -1347,7 +1347,7 @@
     "id": 97,
     "kategori": "kripto",
     "kelime": "sosyal kurtarma",
-    "aciklama": "özel anahtar kaybedildiğinde cüzdanı önceden seçilmiş güvenilir kişilerin ortak onayıyla geri alma mekanizması.",
+    "aciklama": "özel anahtar kaybedildiğinde cüzdanı önceden seçilmiş güvenilir kişilerin ortak onayıyla",
     "yasakli_kelimeler": [
       "kurtarma",
       "vasi",
@@ -1361,7 +1361,7 @@
     "id": 98,
     "kategori": "kripto",
     "kelime": "oy hakkı varlığı",
-    "aciklama": "merkeziyetsiz bir protokolün geleceğine dair kararlarda sahiplerine oy hakkı tanıyan dijital birim.",
+    "aciklama": "merkeziyetsiz bir protokolün geleceğine dair kararlarda sahiplerine oy hakkı tanıyan",
     "yasakli_kelimeler": [
       "yönetişim",
       "oylama hakkı",
@@ -1375,7 +1375,7 @@
     "id": 99,
     "kategori": "kripto",
     "kelime": "merkezi borsa",
-    "aciklama": "şirket kontrolünde olan, emir defterlerini ve kullanıcıların özel anahtarlarını kendi bünyesinde tutan ticaret platformu.",
+    "aciklama": "kullanıcıların kripto varlık alıp sattığı şirket yönetimindeki platform",
     "yasakli_kelimeler": [
       "cex",
       "binance",
@@ -1403,7 +1403,7 @@
     "id": 101,
     "kategori": "kripto",
     "kelime": "kripto varlık",
-    "aciklama": "dağıtık defter teknolojisi kullanılarak elektronik olarak alınıp satılabilen ve transfer edilebilen dijital değer.",
+    "aciklama": "dağıtık defter teknolojisi kullanılarak elektronik olarak alınıp satılabilen ve transfer",
     "yasakli_kelimeler": [
       "dijital değer",
       "blokzincir",
@@ -1417,7 +1417,7 @@
     "id": 102,
     "kategori": "kripto",
     "kelime": "kripto cüzdan",
-    "aciklama": "kullanıcının blokzincir üzerindeki kripto paralarını yönetmesini, genel ve özel anahtarlarını saklamasını sağlayan araç.",
+    "aciklama": "özel ve genel anahtarları saklayarak kripto para transferi sağlayan araç",
     "yasakli_kelimeler": [
       "özel anahtar",
       "bakiye",
@@ -1431,7 +1431,7 @@
     "id": 103,
     "kategori": "kripto",
     "kelime": "kağıt cüzdan",
-    "aciklama": "özel ve genel anahtarlar ile karekodların fiziksel bir kağıda basılarak çevrimdışı saklandığı soğuk cüzdan yöntemi.",
+    "aciklama": "özel ve genel anahtarlar ile karekodların fiziksel bir kağıda basılarak",
     "yasakli_kelimeler": [
       "kağıt baskı",
       "karekod",
@@ -1445,7 +1445,7 @@
     "id": 104,
     "kategori": "kripto",
     "kelime": "donanım cüzdanı",
-    "aciklama": "özel anahtarları internete bağlı olmayan güvenli bir usb aygıtı içinde izole ederek saklayan fiziksel kripto kasası.",
+    "aciklama": "özel anahtarları internete bağlı olmayan güvenli bir usb aygıtı içinde",
     "yasakli_kelimeler": [
       "usb aygıtı",
       "fiziksel cihaz",
@@ -1459,7 +1459,7 @@
     "id": 105,
     "kategori": "kripto",
     "kelime": "yazılım cüzdanı",
-    "aciklama": "bilgisayara veya akıllı telefona uygulama olarak yüklenip internet üzerinden kolay işlem yapılmasını sağlayan cüzdan.",
+    "aciklama": "bilgisayara veya akıllı telefona uygulama olarak yüklenip internet üzerinden kolay",
     "yasakli_kelimeler": [
       "mobil uygulama",
       "bilgisayar",
@@ -1473,7 +1473,7 @@
     "id": 106,
     "kategori": "kripto",
     "kelime": "gözetimsiz cüzdan",
-    "aciklama": "özel anahtarların ve tohum kelimelerin yalnızca kullanıcının kendi kontrolünde olduğu merkeziyetsiz cüzdan türü.",
+    "aciklama": "özel anahtarların ve tohum kelimelerin yalnızca kullanıcının kendi kontrolünde olduğu",
     "yasakli_kelimeler": [
       "kendi kontrolü",
       "merkeziyetsiz",
@@ -1487,7 +1487,7 @@
     "id": 107,
     "kategori": "kripto",
     "kelime": "gözetimli cüzdan",
-    "aciklama": "kullanıcıların özel anahtarlarının merkezi bir kripto para borsası tarafından emanetçi olarak tutulduğu cüzdan.",
+    "aciklama": "kullanıcıların özel anahtarlarının merkezi bir kripto para borsası tarafından emanetçi",
     "yasakli_kelimeler": [
       "merkezi borsa",
       "emanetçi",
@@ -1501,7 +1501,7 @@
     "id": 108,
     "kategori": "kripto",
     "kelime": "açık anahtar",
-    "aciklama": "kripto para transferi almak için herkesle güvenle paylaşılabilen ve matematiksel olarak hesaplanan hesap adresi temeli.",
+    "aciklama": "kripto para transferi almak için herkesle güvenle paylaşılabilen ve matematiksel",
     "yasakli_kelimeler": [
       "hesap adresi",
       "herkese açık",
@@ -1515,7 +1515,7 @@
     "id": 109,
     "kategori": "kripto",
     "kelime": "gizli anahtar",
-    "aciklama": "cüzdandaki varlıkları harcamak ve işlemleri imzalamak için sadece sahibinin bilmesi gereken çok gizli dijital şifre.",
+    "aciklama": "cüzdandaki varlıkları harcamak ve işlemleri imzalamak için sadece sahibinin bilmesi",
     "yasakli_kelimeler": [
       "harcama yetkisi",
       "özel şifre",
@@ -1529,7 +1529,7 @@
     "id": 110,
     "kategori": "kripto",
     "kelime": "tohum kelimeler",
-    "aciklama": "kaybolan veya sıfırlanan bir cüzdanı yeniden yüklemek için verilen on iki veya yirmi dört kelimelik kurtarma dizisi.",
+    "aciklama": "kaybolan veya sıfırlanan bir cüzdanı yeniden yüklemek için verilen on",
     "yasakli_kelimeler": [
       "on iki kelime",
       "kurtarma dizisi",
@@ -1543,7 +1543,7 @@
     "id": 111,
     "kategori": "kripto",
     "kelime": "cüzdan adresi",
-    "aciklama": "kripto para transferlerinde fonların gönderileceği alıcıyı temsil eden harf ve rakamlardan oluşan karakter dizisi.",
+    "aciklama": "kripto para transferlerinde fonların gönderileceği alıcıyı temsil eden harf ve",
     "yasakli_kelimeler": [
       "iban benzeri",
       "karakter dizisi",
@@ -1557,7 +1557,7 @@
     "id": 112,
     "kategori": "kripto",
     "kelime": "blok ödülü",
-    "aciklama": "yeni bir bloğu başarıyla doğrulayıp zincire ekleyen madenciye sistem tarafından otomatik olarak basılıp verilen kripto para.",
+    "aciklama": "yeni bir bloğu başarıyla doğrulayıp zincire ekleyen madenciye sistem tarafından",
     "yasakli_kelimeler": [
       "madenci hakkı",
       "yeni basılan",
@@ -1571,7 +1571,7 @@
     "id": 113,
     "kategori": "kripto",
     "kelime": "madenci ücreti",
-    "aciklama": "kullanıcıların işlemlerinin bloğa daha hızlı dahil edilmesi için madencilere veya doğrulayıcılara ödediği işlem payı.",
+    "aciklama": "kullanıcıların işlemlerinin bloğa daha hızlı dahil edilmesi için madencilere veya",
     "yasakli_kelimeler": [
       "komisyon",
       "hızlı işlem",
@@ -1585,7 +1585,7 @@
     "id": 114,
     "kategori": "kripto",
     "kelime": "işlem ücreti",
-    "aciklama": "blokzincir ağında bir transfer veya akıllı sözleşme çağrısı yaparken ağ kaynaklarının kullanımı karşılığında ödenen maliyet.",
+    "aciklama": "blokzincir ağında bir transfer veya akıllı sözleşme çağrısı yaparken ağ",
     "yasakli_kelimeler": [
       "ağ maliyeti",
       "transfer masrafı",
@@ -1599,7 +1599,7 @@
     "id": 115,
     "kategori": "kripto",
     "kelime": "işlem hacmi",
-    "aciklama": "belirli bir zaman diliminde bir kripto paranın veya borsanın gerçekleştirdiği toplam alım satım parasal büyüklüğü.",
+    "aciklama": "belirli bir zaman diliminde bir kripto paranın veya borsanın gerçekleştirdiği",
     "yasakli_kelimeler": [
       "yirmi dört saat",
       "alım satım",
@@ -1613,7 +1613,7 @@
     "id": 116,
     "kategori": "kripto",
     "kelime": "emir defteri",
-    "aciklama": "borsada alıcıların ve satıcıların farklı fiyat seviyelerinde bekleyen tüm alım ve satım tekliflerinin listelendiği ekran.",
+    "aciklama": "borsada alıcıların ve satıcıların farklı fiyat seviyelerinde bekleyen tüm alım",
     "yasakli_kelimeler": [
       "alım satım teklifleri",
       "derinlik listesi",
@@ -1627,7 +1627,7 @@
     "id": 117,
     "kategori": "kripto",
     "kelime": "piyasa emri",
-    "aciklama": "fiyat belirtmeksizin o anki en iyi mevcut fiyattan anında gerçekleşen hızlı alım veya satım talimatı.",
+    "aciklama": "fiyat belirtmeksizin o anki en iyi mevcut fiyattan anında gerçekleşen",
     "yasakli_kelimeler": [
       "anında işlem",
       "mevcut fiyat",
@@ -1641,7 +1641,7 @@
     "id": 118,
     "kategori": "kripto",
     "kelime": "limit emir",
-    "aciklama": "işlemin yalnızca kullanıcının belirlediği fiyattan veya daha avantajlı bir fiyattan yapılması için girilen şartlı emir.",
+    "aciklama": "işlemin yalnızca kullanıcının belirlediği fiyattan veya daha avantajlı bir fiyattan",
     "yasakli_kelimeler": [
       "belirli fiyat",
       "şartlı talimat",
@@ -1655,7 +1655,7 @@
     "id": 119,
     "kategori": "kripto",
     "kelime": "stop emri",
-    "aciklama": "fiyat belirlenen kritik bir seviyeye düştüğünde zararı durdurmak amacıyla otomatik olarak tetiklenen koruma emri.",
+    "aciklama": "fiyat belirlenen kritik bir seviyeye düştüğünde zararı durdurmak amacıyla otomatik",
     "yasakli_kelimeler": [
       "zarar durdur",
       "tetiklenme",
@@ -1669,7 +1669,7 @@
     "id": 120,
     "kategori": "kripto",
     "kelime": "kaldıraçlı işlem",
-    "aciklama": "kullanıcının sahip olduğu teminat miktarının katları kadar borç alarak büyük pozisyon açmasına imkan veren işlem.",
+    "aciklama": "kullanıcının sahip olduğu teminat miktarının katları kadar borç alarak büyük",
     "yasakli_kelimeler": [
       "borç alma",
       "katı kadar",
@@ -1683,7 +1683,7 @@
     "id": 121,
     "kategori": "kripto",
     "kelime": "vadeli işlem",
-    "aciklama": "bir kripto varlığın gelecekteki belirli bir tarihteki fiyatı üzerine bugünden sözleşme yapılarak alınıp satılması.",
+    "aciklama": "bir kripto varlığın gelecekteki belirli bir tarihteki fiyatı üzerine bugünden",
     "yasakli_kelimeler": [
       "futures",
       "gelecek fiyat",
@@ -1697,7 +1697,7 @@
     "id": 122,
     "kategori": "kripto",
     "kelime": "spot piyasa",
-    "aciklama": "kripto varlığın o anki piyasa fiyatından satın alınıp anında cüzdana teslim edildiği nakit işlem piyasası.",
+    "aciklama": "kripto varlığın o anki piyasa fiyatından satın alınıp anında cüzdana",
     "yasakli_kelimeler": [
       "nakit alım",
       "anında teslim",
@@ -1711,7 +1711,7 @@
     "id": 123,
     "kategori": "kripto",
     "kelime": "tasfiye",
-    "aciklama": "kaldıraçlı pozisyon açan yatırımcının zararının teminat miktarını aşması durumunda borsanın pozisyonu zorla kapatması.",
+    "aciklama": "kaldıraçlı pozisyon açan yatırımcının zararının teminat miktarını aşması durumunda borsanın",
     "yasakli_kelimeler": [
       "likidasyon",
       "teminat sıfırlanması",
@@ -1725,7 +1725,7 @@
     "id": 124,
     "kategori": "kripto",
     "kelime": "marjin çağrısı",
-    "aciklama": "zarardaki kaldıraçlı pozisyonun kapanmaması için borsanın yatırımcıdan ek teminat yatırmasını talep etmesi.",
+    "aciklama": "zarardaki kaldıraçlı pozisyonun kapanmaması için borsanın yatırımcıdan ek teminat yatırmasını",
     "yasakli_kelimeler": [
       "ek teminat",
       "uyarı bildirimi",
@@ -1739,7 +1739,7 @@
     "id": 125,
     "kategori": "kripto",
     "kelime": "derinlik tablosu",
-    "aciklama": "farklı fiyat adımlarında bekleyen yeşil alış ve kırmızı satış emirlerinin kümülatif hacmini gösteren grafik.",
+    "aciklama": "farklı fiyat adımlarında bekleyen yeşil alış ve kırmızı satış emirlerinin",
     "yasakli_kelimeler": [
       "yeşil kırmızı",
       "kümülatif hacim",
@@ -1753,7 +1753,7 @@
     "id": 126,
     "kategori": "kripto",
     "kelime": "fiyat grafiği",
-    "aciklama": "bir kripto paranın geçmişten bugüne kadarki değer değişimlerini ve trendlerini görsel olarak çizen grafik.",
+    "aciklama": "bir kripto paranın geçmişten bugüne kadarki değer değişimlerini ve trendlerini",
     "yasakli_kelimeler": [
       "trend",
       "zaman çizgisi",
@@ -1767,7 +1767,7 @@
     "id": 127,
     "kategori": "kripto",
     "kelime": "mum grafiği",
-    "aciklama": "belirli bir zaman aralığındaki açılış, kapanış, en yüksek ve en düşük fiyatları gövde ve fitille gösteren grafik.",
+    "aciklama": "belirli bir zaman aralığındaki açılış, kapanış, en yüksek ve en",
     "yasakli_kelimeler": [
       "gövde ve fitil",
       "açılış kapanış",
@@ -1781,7 +1781,7 @@
     "id": 128,
     "kategori": "kripto",
     "kelime": "destek seviyesi",
-    "aciklama": "fiyat düşerken alıcıların yoğunlaşarak düşüşü durdurması ve fiyatı yukarı zıplatması beklenen taban fiyat hattı.",
+    "aciklama": "fiyat düşerken alıcıların yoğunlaşarak düşüşü durdurması ve fiyatı yukarı zıplatması",
     "yasakli_kelimeler": [
       "taban fiyat",
       "alım bölgesi",
@@ -1795,7 +1795,7 @@
     "id": 129,
     "kategori": "kripto",
     "kelime": "direnç seviyesi",
-    "aciklama": "fiyat yükselirken satıcıların baskı kurarak yükselişi engellediği ve kar realizasyonu yaptığı tavan fiyat bölgesi.",
+    "aciklama": "fiyat yükselirken satıcıların baskı kurarak yükselişi engellediği ve kar realizasyonu",
     "yasakli_kelimeler": [
       "tavan fiyat",
       "satış baskısı",
@@ -1809,7 +1809,7 @@
     "id": 130,
     "kategori": "kripto",
     "kelime": "fiyat kırılımı",
-    "aciklama": "kripto para fiyatının uzun süredir içinde hareket ettiği destek veya direnç bandını sert bir hacimle delip geçmesi.",
+    "aciklama": "kripto para fiyatının uzun süredir içinde hareket ettiği destek veya",
     "yasakli_kelimeler": [
       "bant delme",
       "sert hareket",
@@ -1823,7 +1823,7 @@
     "id": 131,
     "kategori": "kripto",
     "kelime": "aşırı alım",
-    "aciklama": "fiyatın çok kısa sürede aşırı yükselerek teknik göstergelerin şiştiğini ve yakın zamanda düzeltme geleceğini belirten durum.",
+    "aciklama": "fiyatın çok kısa sürede aşırı yükselerek teknik göstergelerin şiştiğini ve",
     "yasakli_kelimeler": [
       "rsi şişmesi",
       "doygunluk",
@@ -1837,7 +1837,7 @@
     "id": 132,
     "kategori": "kripto",
     "kelime": "aşırı satım",
-    "aciklama": "yoğun panik satışlarıyla fiyatın gerçek değerinin çok altına indiğini ve yukarı yönlü tepki alımı geleceğini gösteren hal.",
+    "aciklama": "yoğun panik satışlarıyla fiyatın gerçek değerinin çok altına indiğini ve",
     "yasakli_kelimeler": [
       "panik satışı",
       "dip seviye",
@@ -1851,7 +1851,7 @@
     "id": 133,
     "kategori": "kripto",
     "kelime": "dip fiyat",
-    "aciklama": "bir kripto paranın piyasaya çıktığı günden itibaren tarihindeki gördüğü en düşük değer seviyesi.",
+    "aciklama": "bir kripto paranın piyasaya çıktığı günden itibaren tarihindeki gördüğü en",
     "yasakli_kelimeler": [
       "tarihi en düşük",
       "atl",
@@ -1865,7 +1865,7 @@
     "id": 134,
     "kategori": "kripto",
     "kelime": "zirve fiyat",
-    "aciklama": "bir kripto paranın tüm zamanlar boyunca piyasada ulaştığı kaydedilmiş en yüksek rekor fiyat noktası.",
+    "aciklama": "bir kripto paranın tüm zamanlar boyunca piyasada ulaştığı kaydedilmiş en",
     "yasakli_kelimeler": [
       "ath",
       "tüm zamanlar rekoru",
@@ -1879,7 +1879,7 @@
     "id": 135,
     "kategori": "kripto",
     "kelime": "fiyat oynaklığı",
-    "aciklama": "kripto para piyasasında fiyatların çok kısa süreler içinde yukarı ve aşağı yönlü aşırı sert dalgalanması durumu.",
+    "aciklama": "kripto para piyasasında fiyatların çok kısa süreler içinde yukarı ve",
     "yasakli_kelimeler": [
       "volatilite",
       "sert dalgalanma",
@@ -1893,7 +1893,7 @@
     "id": 136,
     "kategori": "kripto",
     "kelime": "piyasa düzeltmesi",
-    "aciklama": "hızlı yükseliş yaşayan bir kripto paranın aşırı şişen fiyatının yüzde on veya yirmi gerileyerek dengelenmesi.",
+    "aciklama": "hızlı yükseliş yaşayan bir kripto paranın aşırı şişen fiyatının yüzde",
     "yasakli_kelimeler": [
       "geri çekilme",
       "düzeltme",
@@ -1907,7 +1907,7 @@
     "id": 137,
     "kategori": "kripto",
     "kelime": "kapitülasyon",
-    "aciklama": "uzun süren ayı piyasasının sonunda yatırımcıların umutlarını tamamen kaybedip zararına toplu satış yapıp pes etmesi.",
+    "aciklama": "uzun süren ayı piyasasının sonunda yatırımcıların umutlarını tamamen kaybedip zararına",
     "yasakli_kelimeler": [
       "pes etmek",
       "toplu satış",
@@ -1921,7 +1921,7 @@
     "id": 138,
     "kategori": "kripto",
     "kelime": "fiyat rallisi",
-    "aciklama": "piyasada yoğun para girişiyle birlikte kripto para fiyatlarının günlerce ve haftalarca soluksuz yükseliş trendi.",
+    "aciklama": "piyasada yoğun para girişiyle birlikte kripto para fiyatlarının günlerce ve",
     "yasakli_kelimeler": [
       "hızlı yükseliş",
       "soluksuz artış",
@@ -1935,7 +1935,7 @@
     "id": 139,
     "kategori": "kripto",
     "kelime": "varlık sepeti",
-    "aciklama": "tüm parayı tek bir kriptoya yatırmak yerine farklı kategorilerdeki coinlere paylaştırılan yatırım portföyü.",
+    "aciklama": "tüm parayı tek bir kriptoya yatırmak yerine farklı kategorilerdeki coinlere",
     "yasakli_kelimeler": [
       "portföy",
       "çeşitlendirme",
@@ -1949,7 +1949,7 @@
     "id": 140,
     "kategori": "kripto",
     "kelime": "sepet yapmak",
-    "aciklama": "kripto piyasasındaki tek bir projenin batma riskinden korunmak amacıyla parayı birden fazla projeye dağıtma eylemi.",
+    "aciklama": "kripto piyasasındaki tek bir projenin batma riskinden korunmak amacıyla parayı",
     "yasakli_kelimeler": [
       "dağıtmak",
       "farklı yatırımlar",
@@ -1963,7 +1963,7 @@
     "id": 141,
     "kategori": "kripto",
     "kelime": "uzun pozisyon",
-    "aciklama": "kripto paranın gelecekte değer kazanacağı beklentisiyle vadeli piyasada açılan yükseliş yönlü işlem.",
+    "aciklama": "kripto paranın gelecekte değer kazanacağı beklentisiyle vadeli piyasada açılan yükseliş",
     "yasakli_kelimeler": [
       "long",
       "yükseliş beklentisi",
@@ -1977,7 +1977,7 @@
     "id": 142,
     "kategori": "kripto",
     "kelime": "kısa pozisyon",
-    "aciklama": "fiyatın düşeceğini öngörerek vadeli piyasada satış yönünde açılan ve düşüşten kar elde etmeyi hedefleyen pozisyon.",
+    "aciklama": "fiyatın düşeceğini öngörerek vadeli piyasada satış yönünde açılan ve düşüşten",
     "yasakli_kelimeler": [
       "short",
       "düşüşten kazanma",
@@ -1991,7 +1991,7 @@
     "id": 143,
     "kategori": "kripto",
     "kelime": "fonlama oranı",
-    "aciklama": "vadeli işlemler ile spot piyasa fiyatı arasındaki dengeyi korumak için uzun ve kısa pozisyon sahiplerinin birbirine ödediği periyodik ücret.",
+    "aciklama": "vadeli işlemler ile spot piyasa fiyatı arasındaki dengeyi korumak için",
     "yasakli_kelimeler": [
       "sekiz saatte bir",
       "long short dengesi",
@@ -2005,7 +2005,7 @@
     "id": 144,
     "kategori": "kripto",
     "kelime": "açık pozisyon",
-    "aciklama": "türev piyasasında henüz kapatılmamış veya tasfiye edilmemiş aktif durumdaki tüm vadeli sözleşmelerin toplam tutarı.",
+    "aciklama": "türev piyasasında henüz kapatılmamış veya tasfiye edilmemiş aktif durumdaki tüm",
     "yasakli_kelimeler": [
       "open interest",
       "kapatılmamış kontrat",
@@ -2019,7 +2019,7 @@
     "id": 145,
     "kategori": "kripto",
     "kelime": "borçlanma protokolü",
-    "aciklama": "kullanıcıların kripto paralarını teminat göstererek kredi çekmesini veya faiz getirisi kazanmasını sağlayan akıllı sözleşme.",
+    "aciklama": "kullanıcıların kripto paralarını teminat göstererek kredi çekmesini veya faiz getirisi",
     "yasakli_kelimeler": [
       "kredi",
       "faiz",
@@ -2033,7 +2033,7 @@
     "id": 146,
     "kategori": "kripto",
     "kelime": "teminatlandırma",
-    "aciklama": "kripto kredisi alabilmek veya sabit para basabilmek için belirli miktarda kripto varlığı akıllı sözleşmeye kilitleme işlemi.",
+    "aciklama": "kripto kredisi alabilmek veya sabit para basabilmek için belirli miktarda",
     "yasakli_kelimeler": [
       "kilitleme",
       "rehin",
@@ -2047,7 +2047,7 @@
     "id": 147,
     "kategori": "kripto",
     "kelime": "aşırı teminat",
-    "aciklama": "fiyat dalgalanmalarından korunmak amacıyla çekilen kredi miktarından daha yüksek değerde kripto varlığın rehin verilmesi.",
+    "aciklama": "fiyat dalgalanmalarından korunmak amacıyla çekilen kredi miktarından daha yüksek değerde",
     "yasakli_kelimeler": [
       "yüzde yüz elli",
       "fazla teminat",
@@ -2061,7 +2061,7 @@
     "id": 148,
     "kategori": "kripto",
     "kelime": "tasfiye botu",
-    "aciklama": "merkeziyetsiz kredi protokollerinde teminat oranı sınırın altına düşen borçluların varlıklarını anında tasfiye edip ödül alan yazılım.",
+    "aciklama": "merkeziyetsiz kredi protokollerinde teminat oranı sınırın altına düşen borçluların varlıklarını",
     "yasakli_kelimeler": [
       "otomatik tasfiye",
       "kredi botu",
@@ -2075,7 +2075,7 @@
     "id": 149,
     "kategori": "kripto",
     "kelime": "arbitraj botu",
-    "aciklama": "iki farklı kripto borsası arasındaki anlık fiyat farklarını milisaniyeler içinde tespit edip al-sat yaparak risksiz kar eden algoritma.",
+    "aciklama": "iki farklı kripto borsası arasındaki anlık fiyat farklarını milisaniyeler içinde",
     "yasakli_kelimeler": [
       "fiyat farkı",
       "iki borsa arası",
@@ -2089,7 +2089,7 @@
     "id": 150,
     "kategori": "kripto",
     "kelime": "ticaret botu",
-    "aciklama": "önceden belirlenmiş teknik indikatörler ve kurallara göre yatırımcı adına gece gündüz otomatik alım satım yapan yazılım.",
+    "aciklama": "önceden belirlenmiş teknik indikatörler ve kurallara göre yatırımcı adına gece",
     "yasakli_kelimeler": [
       "otomatik al sat",
       "indikatör",
@@ -2103,7 +2103,7 @@
     "id": 151,
     "kategori": "kripto",
     "kelime": "önceden çalıştırma",
-    "aciklama": "bellek havuzundaki büyük bir işlemi görüp daha yüksek gaz ücreti ödeyerek kendi işlemini öne geçirip kar sağlama taktiği.",
+    "aciklama": "bellek havuzundaki büyük bir işlemi görüp daha yüksek gaz ücreti",
     "yasakli_kelimeler": [
       "front-running",
       "yüksek gaz ücreti",
@@ -2117,7 +2117,7 @@
     "id": 152,
     "kategori": "kripto",
     "kelime": "sandviç saldırısı",
-    "aciklama": "hedef bir alıcının işleminin hemen önüne alım ve arkasına satış emri koyarak alıcının fiyat kaymasından haksız kazanç sağlama.",
+    "aciklama": "hedef bir alıcının işleminin hemen önüne alım ve arkasına satış",
     "yasakli_kelimeler": [
       "araya sıkıştırma",
       "öncesi ve sonrası",
@@ -2131,7 +2131,7 @@
     "id": 153,
     "kategori": "kripto",
     "kelime": "çekirdek geliştirici",
-    "aciklama": "blokzincirin ana protokol kodunu yazan, güncellemeleri yöneten ve sistemin temel güvenliğini sağlayan baş yazılımcı.",
+    "aciklama": "blokzincirin ana protokol kodunu yazan, güncellemeleri yöneten ve sistemin temel",
     "yasakli_kelimeler": [
       "ana yazılımcı",
       "protokol kodu",
@@ -2145,7 +2145,7 @@
     "id": 154,
     "kategori": "kripto",
     "kelime": "teknik rapor",
-    "aciklama": "kripto para projesinin felsefesini, mimarisini, token ekonomisini ve hedeflerini açıklayan resmi tanıtım belgesi.",
+    "aciklama": "kripto para projesinin felsefesini, mimarisini, token ekonomisini ve hedeflerini açıklayan",
     "yasakli_kelimeler": [
       "whitepaper",
       "tanıtım belgesi",
@@ -2159,7 +2159,7 @@
     "id": 155,
     "kategori": "kripto",
     "kelime": "yol haritası",
-    "aciklama": "kripto projesinin çeyrekler halinde gelecekte hangi aşamaları ve teknik güncellemeleri tamamlayacağını gösteren takvim planı.",
+    "aciklama": "kripto projesinin çeyrekler halinde gelecekte hangi aşamaları ve teknik güncellemeleri",
     "yasakli_kelimeler": [
       "roadmap",
       "çeyrek planı",
@@ -2173,7 +2173,7 @@
     "id": 156,
     "kategori": "kripto",
     "kelime": "test ağı",
-    "aciklama": "geliştiricilerin gerçek para riski olmadan akıllı sözleşmelerini ve güncellemelerini denediği sahte paralı simülasyon ağı.",
+    "aciklama": "geliştiricilerin gerçek para riski olmadan akıllı sözleşmelerini ve güncellemelerini denediği",
     "yasakli_kelimeler": [
       "testnet",
       "sahte bakiye",
@@ -2187,7 +2187,7 @@
     "id": 157,
     "kategori": "kripto",
     "kelime": "ana ağ",
-    "aciklama": "tüm işlemlerin gerçek ekonomik değere sahip kripto paralarla yapıldığı, resmi olarak faal olan ana blokzincir.",
+    "aciklama": "tüm işlemlerin gerçek ekonomik değere sahip kripto paralarla yapıldığı, resmi",
     "yasakli_kelimeler": [
       "mainnet",
       "gerçek ağ",
@@ -2201,7 +2201,7 @@
     "id": 158,
     "kategori": "kripto",
     "kelime": "yumuşak çatallanma",
-    "aciklama": "eski düğümlerin de yeni blokları geçerli saymaya devam ettiği, geriye dönük uyumlu protokol güncellemesi.",
+    "aciklama": "eski düğümlerin de yeni blokları geçerli saymaya devam ettiği, geriye",
     "yasakli_kelimeler": [
       "soft fork",
       "geriye dönük uyumlu",
@@ -2215,7 +2215,7 @@
     "id": 159,
     "kategori": "kripto",
     "kelime": "sert çatallanma",
-    "aciklama": "eski kurallarla uyumsuz olan ve güncellenmeyen düğümlerin ayrılarak yeni bağımsız bir zincir ve coin oluşturduğu bölünme.",
+    "aciklama": "eski kurallarla uyumsuz olan ve güncellenmeyen düğümlerin ayrılarak yeni bağımsız",
     "yasakli_kelimeler": [
       "hard fork",
       "zincir bölünmesi",
@@ -2229,7 +2229,7 @@
     "id": 160,
     "kategori": "kripto",
     "kelime": "mutabakat mekanizması",
-    "aciklama": "dağıtık düğümlerin hangi blokların ve işlemlerin geçerli olduğu konusunda merkezi bir otorite olmadan anlaşma sağlama yöntemi.",
+    "aciklama": "dağıtık düğümlerin hangi blokların ve işlemlerin geçerli olduğu konusunda merkezi",
     "yasakli_kelimeler": [
       "uzlaşma",
       "anlaşma",
@@ -2243,7 +2243,7 @@
     "id": 161,
     "kategori": "kripto",
     "kelime": "mutabakat protokolü",
-    "aciklama": "ağdaki bilgisayarların birbirleriyle konuşurken uyduğu kurallar dizisi ve ortak veri doğrulama algoritması.",
+    "aciklama": "ağdaki bilgisayarların birbirleriyle konuşurken uyduğu kurallar dizisi ve ortak veri",
     "yasakli_kelimeler": [
       "protokol kuralları",
       "algoritma",
@@ -2257,7 +2257,7 @@
     "id": 162,
     "kategori": "kripto",
     "kelime": "devredilmiş hisse",
-    "aciklama": "jeton sahiplerinin oylarını seçilmiş temsilci doğrulayıcılara devrederek hızlı blok üretimi sağladığı mutabakat modeli.",
+    "aciklama": "jeton sahiplerinin oylarını seçilmiş temsilci doğrulayıcılara devrederek hızlı blok üretimi",
     "yasakli_kelimeler": [
       "dpos",
       "oy devretme",
@@ -2271,7 +2271,7 @@
     "id": 163,
     "kategori": "kripto",
     "kelime": "yakım adresi",
-    "aciklama": "özel anahtarı hiç kimsenin bilmediği, gönderilen paraların bir daha asla geri alınamayarak yok edildiği adres.",
+    "aciklama": "özel anahtarı hiç kimsenin bilmediği, gönderilen paraların bir daha asla",
     "yasakli_kelimeler": [
       "coin yakma",
       "özel anahtarsız",
@@ -2285,7 +2285,7 @@
     "id": 164,
     "kategori": "kripto",
     "kelime": "ölü adres",
-    "aciklama": "içine atılan kripto paraların sonsuza dek kilitlenip piyasadan çekilmesi için kullanılan erişilemez cüzdan.",
+    "aciklama": "içine atılan kripto paraların sonsuza dek kilitlenip piyasadan çekilmesi için",
     "yasakli_kelimeler": [
       "erişilemez",
       "sonsuza dek kilitli",
@@ -2299,7 +2299,7 @@
     "id": 165,
     "kategori": "kripto",
     "kelime": "madencilik donanımı",
-    "aciklama": "kripto para madenciliği için özel tasarlanmış yüksek işlem gücüne ve özel soğutuculara sahip bilgisayar ekipmanı.",
+    "aciklama": "kripto para madenciliği için özel tasarlanmış yüksek işlem gücüne ve",
     "yasakli_kelimeler": [
       "rig",
       "cihaz",
@@ -2313,7 +2313,7 @@
     "id": 166,
     "kategori": "kripto",
     "kelime": "kart madenciliği",
-    "aciklama": "grafik işlemcisi barındıran güçlü ekran kartlarının paralel hesaplama gücünden yararlanılarak yapılan madencilik.",
+    "aciklama": "grafik işlemcisi barındıran güçlü ekran kartlarının paralel hesaplama gücünden yararlanılarak",
     "yasakli_kelimeler": [
       "ekran kartı",
       "gpu",
@@ -2327,7 +2327,7 @@
     "id": 167,
     "kategori": "kripto",
     "kelime": "işlemci madenciliği",
-    "aciklama": "özellikle monero gibi gizlilik odaklı kripto paraların standart bilgisayar ana işlemcisiyle üretilmesi yöntemi.",
+    "aciklama": "özellikle monero gibi gizlilik odaklı kripto paraların standart bilgisayar ana",
     "yasakli_kelimeler": [
       "cpu",
       "ana işlemci",
@@ -2341,7 +2341,7 @@
     "id": 168,
     "kategori": "kripto",
     "kelime": "blok aralığı",
-    "aciklama": "blokzincir ağında ardışık iki yeni blok üretimi arasında geçen ortalama zaman süresi.",
+    "aciklama": "blokzincir ağında ardışık iki yeni blok üretimi arasında geçen ortalama",
     "yasakli_kelimeler": [
       "on dakika",
       "süre",
@@ -2355,7 +2355,7 @@
     "id": 169,
     "kategori": "kripto",
     "kelime": "blok büyüklüğü",
-    "aciklama": "tek bir blok içine sığdırılabilecek işlem verilerinin megabayt cinsinden sınırlandırılmış azami boyutu.",
+    "aciklama": "tek bir blok içine sığdırılabilecek işlem verilerinin megabayt cinsinden sınırlandırılmış",
     "yasakli_kelimeler": [
       "megabayt",
       "veri sınırı",
@@ -2369,7 +2369,7 @@
     "id": 170,
     "kategori": "kripto",
     "kelime": "blok yüksekliği",
-    "aciklama": "başlangıç bloğundan itibaren o ana kadar zincire eklenmiş olan toplam blok sayısını gösteren sıra numarası.",
+    "aciklama": "başlangıç bloğundan itibaren o ana kadar zincire eklenmiş olan toplam",
     "yasakli_kelimeler": [
       "sıra numarası",
       "blok sayısı",
@@ -2383,7 +2383,7 @@
     "id": 171,
     "kategori": "kripto",
     "kelime": "işlem onayı",
-    "aciklama": "yapılan bir para transferinin yeni çıkarılan bir bloğa dahil edilerek geri döndürülemez kesinlik kazanması.",
+    "aciklama": "yapılan bir para transferinin yeni çıkarılan bir bloğa dahil edilerek",
     "yasakli_kelimeler": [
       "onay sayısı",
       "kesinlik",
@@ -2397,7 +2397,7 @@
     "id": 172,
     "kategori": "kripto",
     "kelime": "onay süresi",
-    "aciklama": "transfer emri verildikten sonra işlemin ağ tarafından doğrulanıp bloğa yazılmasına kadar geçen bekleme müddeti.",
+    "aciklama": "transfer emri verildikten sonra işlemin ağ tarafından doğrulanıp bloğa yazılmasına",
     "yasakli_kelimeler": [
       "bekleme süresi",
       "transfer hızı",
@@ -2411,7 +2411,7 @@
     "id": 173,
     "kategori": "kripto",
     "kelime": "sıfır onay",
-    "aciklama": "henüz hiçbir bloğa yazılmamış ve madencilerce onaylanmamış olan ama bellek havuzunda bekleyen riskli transfer.",
+    "aciklama": "henüz hiçbir bloğa yazılmamış ve madencilerce onaylanmamış olan ama bellek",
     "yasakli_kelimeler": [
       "onaysız işlem",
       "çift harcama riski",
@@ -2425,7 +2425,7 @@
     "id": 174,
     "kategori": "kripto",
     "kelime": "çift imza",
-    "aciklama": "bir doğrulayıcının aynı blok yüksekliğinde iki farklı bloğu imzalayarak kural ihlali yapması ve cezalandırılması durumu.",
+    "aciklama": "bir doğrulayıcının aynı blok yüksekliğinde iki farklı bloğu imzalayarak kural",
     "yasakli_kelimeler": [
       "kural ihlali",
       "slashing cezası",
@@ -2439,7 +2439,7 @@
     "id": 175,
     "kategori": "kripto",
     "kelime": "eşler arası",
-    "aciklama": "aracı bir banka, sunucu veya şirket olmaksızın iki bilgisayar veya kişinin doğrudan birbiriyle veri ve para aktarması.",
+    "aciklama": "aracı bir banka, sunucu veya şirket olmaksızın iki bilgisayar veya",
     "yasakli_kelimeler": [
       "aracısız",
       "p2p",
@@ -2453,7 +2453,7 @@
     "id": 176,
     "kategori": "kripto",
     "kelime": "dağıtık defter",
-    "aciklama": "tüm muhasebe ve işlem kayıtlarının tek bir merkezde değil, dünya çapındaki binlerce eşzamanlı kopyada tutulduğu veritabanı.",
+    "aciklama": "tüm muhasebe ve işlem kayıtlarının tek bir merkezde değil, dünya",
     "yasakli_kelimeler": [
       "ortak kayıt",
       "merkeziyetsiz veritabanı",
@@ -2467,7 +2467,7 @@
     "id": 177,
     "kategori": "kripto",
     "kelime": "dağıtık ağ",
-    "aciklama": "tek bir ana sunucunun çökmesiyle durmayan, binlerce bağımsız düğümün birbirine bağlanmasıyla çalışan dirençli ağ.",
+    "aciklama": "tek bir ana sunucunun çökmesiyle durmayan, binlerce bağımsız düğümün birbirine",
     "yasakli_kelimeler": [
       "merkeziyetsiz",
       "sunucusuz",
@@ -2481,7 +2481,7 @@
     "id": 178,
     "kategori": "kripto",
     "kelime": "sansür direnci",
-    "aciklama": "hiçbir hükümetin, şirketin veya kurumun geçerli bir kripto para transferini durduramama veya iptal edememe özelliği.",
+    "aciklama": "hiçbir hükümetin, şirketin veya kurumun geçerli bir kripto para transferini",
     "yasakli_kelimeler": [
       "engellenemez",
       "müdahale edilemez",
@@ -2495,7 +2495,7 @@
     "id": 179,
     "kategori": "kripto",
     "kelime": "değişmezlik",
-    "aciklama": "blokzincire bir kez yazılmış olan geçmiş işlem verilerinin geriye dönük olarak silinememesi ve değiştirilememesi ilkesi.",
+    "aciklama": "blokzincire bir kez yazılmış olan geçmiş işlem verilerinin geriye dönük",
     "yasakli_kelimeler": [
       "silinemez",
       "değiştirilemez",
@@ -2509,7 +2509,7 @@
     "id": 180,
     "kategori": "kripto",
     "kelime": "şeffaflık",
-    "aciklama": "kamuya açık blokzincirlerde yapılan tüm transferlerin, adreslerin ve bakiyelerin herkes tarafından incelenebilmesi hali.",
+    "aciklama": "kamuya açık blokzincirlerde yapılan tüm transferlerin, adreslerin ve bakiyelerin herkes",
     "yasakli_kelimeler": [
       "herkese açık",
       "denetlenebilir",
@@ -2523,7 +2523,7 @@
     "id": 181,
     "kategori": "kripto",
     "kelime": "anonimlik",
-    "aciklama": "kripto para transferlerinde kişinin gerçek kimliğinin, adının ve soyadının sistemde hiçbir şekilde yer almaması durumu.",
+    "aciklama": "kripto para transferlerinde kişinin gerçek kimliğinin, adının ve soyadının sistemde",
     "yasakli_kelimeler": [
       "kimliksiz",
       "gizlilik",
@@ -2537,7 +2537,7 @@
     "id": 182,
     "kategori": "kripto",
     "kelime": "takma adlılık",
-    "aciklama": "kullanıcının gerçek adının yerine rastgele harf ve rakamlardan oluşan cüzdan adresinin kimlik olarak kullanılması.",
+    "aciklama": "kullanıcının gerçek adının yerine rastgele harf ve rakamlardan oluşan cüzdan",
     "yasakli_kelimeler": [
       "pseudonym",
       "rumuz",
@@ -2551,7 +2551,7 @@
     "id": 183,
     "kategori": "kripto",
     "kelime": "simetrik şifreleme",
-    "aciklama": "verinin şifrelenmesi ve şifrenin çözülmesi işlemlerinde tamamen aynı gizli anahtarın kullanıldığı geleneksel yöntem.",
+    "aciklama": "verinin şifrelenmesi ve şifrenin çözülmesi işlemlerinde tamamen aynı gizli anahtarın",
     "yasakli_kelimeler": [
       "tek anahtar",
       "aynı şifre",
@@ -2565,7 +2565,7 @@
     "id": 184,
     "kategori": "kripto",
     "kelime": "asimetrik şifreleme",
-    "aciklama": "biri şifreleme yapan açık anahtar, diğeri ise şifreyi çözen gizli anahtar olmak üzere birbiriyle eşleşen anahtar çifti sistemi.",
+    "aciklama": "biri şifreleme yapan açık anahtar, diğeri ise şifreyi çözen gizli",
     "yasakli_kelimeler": [
       "çift anahtar",
       "açık ve gizli",
@@ -2579,7 +2579,7 @@
     "id": 185,
     "kategori": "kripto",
     "kelime": "kriptografik özet",
-    "aciklama": "herhangi bir büyüklükteki veriyi sabit uzunlukta benzersiz bir karakter dizisine dönüştüren tek yönlü matematiksel işlem.",
+    "aciklama": "herhangi bir büyüklükteki veriyi sabit uzunlukta benzersiz bir karakter dizisine",
     "yasakli_kelimeler": [
       "hash",
       "özet fonksiyonu",
@@ -2593,7 +2593,7 @@
     "id": 186,
     "kategori": "kripto",
     "kelime": "tuzlama",
-    "aciklama": "şifrelerin özet fonksiyonundan geçirilmeden önce tahmin edilmesini zorlaştırmak için sonuna eklenen rastgele veri parçası.",
+    "aciklama": "şifrelerin özet fonksiyonundan geçirilmeden önce tahmin edilmesini zorlaştırmak için sonuna",
     "yasakli_kelimeler": [
       "salt",
       "rastgele karakter",
@@ -2607,7 +2607,7 @@
     "id": 187,
     "kategori": "kripto",
     "kelime": "şifre metni",
-    "aciklama": "düz metnin bir şifreleme algoritmasıyla anlaşılamaz hale getirilmiş ve yalnızca anahtarla çözülebilen hali.",
+    "aciklama": "düz metnin bir şifreleme algoritmasıyla anlaşılamaz hale getirilmiş ve yalnızca",
     "yasakli_kelimeler": [
       "kriptolanmış",
       "okunamaz",
@@ -2621,7 +2621,7 @@
     "id": 188,
     "kategori": "kripto",
     "kelime": "düz metin",
-    "aciklama": "henüz şifrelenmemiş olan veya şifresi çözüldükten sonra herkes tarafından doğrudan okunabilen açık orijinal veri.",
+    "aciklama": "henüz şifrelenmemiş olan veya şifresi çözüldükten sonra herkes tarafından doğrudan",
     "yasakli_kelimeler": [
       "şifresiz",
       "okunabilir",
@@ -2635,7 +2635,7 @@
     "id": 189,
     "kategori": "kripto",
     "kelime": "anahtar değişimi",
-    "aciklama": "iki tarafın güvensiz bir iletişim kanalı üzerinden üçüncü taraflara ifşa etmeden ortak bir gizli şifre belirlemesi yöntemi.",
+    "aciklama": "iki tarafın güvensiz bir iletişim kanalı üzerinden üçüncü taraflara ifşa",
     "yasakli_kelimeler": [
       "diffie hellman",
       "ortak sır",
@@ -2649,7 +2649,7 @@
     "id": 190,
     "kategori": "kripto",
     "kelime": "oturum anahtarı",
-    "aciklama": "iki taraf arasındaki tek bir iletişim seansı boyunca verileri hızlıca şifrelemek için üretilen geçici simetrik anahtar.",
+    "aciklama": "iki taraf arasındaki tek bir iletişim seansı boyunca verileri hızlıca",
     "yasakli_kelimeler": [
       "geçici şifre",
       "seans anahtarı",
@@ -2663,7 +2663,7 @@
     "id": 191,
     "kategori": "kripto",
     "kelime": "kaba kuvvet",
-    "aciklama": "bir şifreyi veya özel anahtarı kırmak için olası tüm kombinasyonları bilgisayarla sırayla deneme yöntemi.",
+    "aciklama": "bir şifreyi veya özel anahtarı kırmak için olası tüm kombinasyonları",
     "yasakli_kelimeler": [
       "tüm denemeler",
       "brute force",
@@ -2677,7 +2677,7 @@
     "id": 192,
     "kategori": "kripto",
     "kelime": "sözlük saldırısı",
-    "aciklama": "şifre kırma yazılımlarının yaygın kullanılan kelimeleri ve şifre listelerini otomatik olarak peş peşe denemesi tekniği.",
+    "aciklama": "şifre kırma yazılımlarının yaygın kullanılan kelimeleri ve şifre listelerini otomatik",
     "yasakli_kelimeler": [
       "kelime listesi",
       "yaygın şifreler",
@@ -2691,7 +2691,7 @@
     "id": 193,
     "kategori": "kripto",
     "kelime": "ortadaki adam",
-    "aciklama": "saldırganın iki taraf arasındaki iletişimin arasına gizlice sızarak mesajları dinlemesi veya değiştirmesi siber saldırısı.",
+    "aciklama": "saldırganın iki taraf arasındaki iletişimin arasına gizlice sızarak mesajları dinlemesi",
     "yasakli_kelimeler": [
       "araya girme",
       "dinleme",
@@ -2705,7 +2705,7 @@
     "id": 194,
     "kategori": "kripto",
     "kelime": "tekrar saldırısı",
-    "aciklama": "bir blokzincirde geçerli olan eski bir imzanın veya işlemin çatallanan başka bir zincirde kötü niyetle yeniden yayınlanması.",
+    "aciklama": "bir blokzincirde geçerli olan eski bir imzanın veya işlemin çatallanan",
     "yasakli_kelimeler": [
       "replay attack",
       "çatallanma sonrası",
@@ -2719,7 +2719,7 @@
     "id": 195,
     "kategori": "kripto",
     "kelime": "sybil saldırısı",
-    "aciklama": "tek bir saldırganın ağ üzerinde sahte kimliklerle binlerce düğüm oluşturarak oy çoğunluğunu ele geçirmeye çalışması.",
+    "aciklama": "tek bir saldırganın ağ üzerinde sahte kimliklerle binlerce düğüm oluşturarak",
     "yasakli_kelimeler": [
       "sahte kimlikler",
       "sahte düğüm",
@@ -2733,7 +2733,7 @@
     "id": 196,
     "kategori": "kripto",
     "kelime": "oltalama saldırısı",
-    "aciklama": "kullanıcıları sahte borsa web sitelerine yönlendirerek cüzdan şifrelerini ve tohum kelimelerini çalma dolandırıcılığı.",
+    "aciklama": "kullanıcıları sahte borsa web sitelerine yönlendirerek cüzdan şifrelerini ve tohum",
     "yasakli_kelimeler": [
       "phishing",
       "sahte web sitesi",
@@ -2747,7 +2747,7 @@
     "id": 197,
     "kategori": "kripto",
     "kelime": "sahte token",
-    "aciklama": "popüler bir projenin adını ve logosunu kopyalayarak yatırımcıları aldatmak amacıyla oluşturulan değersiz kopya jeton.",
+    "aciklama": "popüler bir projenin adını ve logosunu kopyalayarak yatırımcıları aldatmak amacıyla",
     "yasakli_kelimeler": [
       "dolandırıcı jeton",
       "kopya isim",
@@ -2761,7 +2761,7 @@
     "id": 198,
     "kategori": "kripto",
     "kelime": "bal küpü",
-    "aciklama": "kodunda yalnızca satın almaya izin verip satışı kasıtlı olarak engelleyen kötü niyetli akıllı sözleşme tuzağı.",
+    "aciklama": "kodunda yalnızca satın almaya izin verip satışı kasıtlı olarak engelleyen",
     "yasakli_kelimeler": [
       "satış yasağı",
       "honeypot",
@@ -2775,7 +2775,7 @@
     "id": 199,
     "kategori": "kripto",
     "kelime": "kripto borçlanma",
-    "aciklama": "merkeziyetsiz platformlarda kripto teminat vererek nakit veya stabil para borç alma finansal işlemi.",
+    "aciklama": "merkeziyetsiz platformlarda kripto teminat vererek nakit veya stabil para borç",
     "yasakli_kelimeler": [
       "borç alma",
       "kredi çekme",
@@ -2789,7 +2789,7 @@
     "id": 200,
     "kategori": "kripto",
     "kelime": "sözleşme açığı",
-    "aciklama": "akıllı sözleşmenin kodlama mimarisindeki mantık hatasını kullanarak fonların bilgisayar korsanlarınca çalınması zafiyeti.",
+    "aciklama": "akıllı sözleşmenin kodlama mimarisindeki mantık hatasını kullanarak fonların bilgisayar korsanlarınca",
     "yasakli_kelimeler": [
       "yazılım hatası",
       "güvenlik açığı",
@@ -3068,7 +3068,7 @@
   {
     "kategori": "kripto",
     "kelime": "kurtarma kelimelerini yazmak",
-    "aciklama": "cüzdanın yedeği olan 12 veya 24 kelimelik anahtarı kağıda not etmek.",
+    "aciklama": "cüzdanın yedeği olan 12 veya 24 kelimelik anahtarı kağıda not",
     "yasakli_kelimeler": [
       "seed phrase",
       "12 24 kelime",
@@ -3292,7 +3292,7 @@
   {
     "kategori": "kripto",
     "kelime": "boğa piyasasını yaşamak",
-    "aciklama": "tüm kripto varlıkların aylar boyu rekorlar kırarak değer kazandığı dönemi görmek.",
+    "aciklama": "tüm kripto varlıkların aylar boyu rekorlar kırarak değer kazandığı dönemi",
     "yasakli_kelimeler": [
       "bull run",
       "sürekli yükseliş",
@@ -3320,7 +3320,7 @@
   {
     "kategori": "kripto",
     "kelime": "flaş kredi çekmek",
-    "aciklama": "aynı işlem bloku içinde geri ödenmek kaydıyla teminatsız milyonlarca dolar borçlanmak.",
+    "aciklama": "aynı işlem bloku içinde geri ödenmek kaydıyla teminatsız milyonlarca dolar",
     "yasakli_kelimeler": [
       "flash loan",
       "teminatsız borç",
@@ -3334,7 +3334,7 @@
   {
     "kategori": "kripto",
     "kelime": "geçici kayıp yaşamak",
-    "aciklama": "likidite havuzuna konan iki coinin fiyat dengesinin bozulmasıyla oluşan göreceli zarar.",
+    "aciklama": "likidite havuzuna konan iki coinin fiyat dengesinin bozulmasıyla oluşan göreceli",
     "yasakli_kelimeler": [
       "impermanent loss",
       "likidite sağlama",
@@ -3362,7 +3362,7 @@
   {
     "kategori": "kripto",
     "kelime": "iyimser doğrulama yapmak",
-    "aciklama": "i̇şlemleri doğru varsayıp itiraz süresi içinde sahtecilik kanıtıyla denetleme mekanizması işletmek.",
+    "aciklama": "i̇şlemleri doğru varsayıp itiraz süresi içinde sahtecilik kanıtıyla denetleme mekanizması",
     "yasakli_kelimeler": [
       "katman 2",
       "dolandırıcılık kanıtı",
@@ -3376,7 +3376,7 @@
   {
     "kategori": "kripto",
     "kelime": "sharding mimarisi uygulamak",
-    "aciklama": "ağın yükünü küçük parçalara bölerek paralel doğrulamayla saniyedeki işlem kapasitesini katlamak.",
+    "aciklama": "ağın yükünü küçük parçalara bölerek paralel doğrulamayla saniyedeki işlem kapasitesini",
     "yasakli_kelimeler": [
       "parçalama",
       "veritabanı bölme",
@@ -3390,7 +3390,7 @@
   {
     "kategori": "kripto",
     "kelime": "sıfır bilgi kanıtı",
-    "aciklama": "bloktaki tüm işlemlerin hash özetlerini ikili ağaç yapısıyla tek bir kök hash'e bağlamak.",
+    "aciklama": "bloktaki tüm işlemlerin hash özetlerini ikili ağaç yapısıyla tek bir",
     "yasakli_kelimeler": [
       "hash ağacı",
       "kök özeti",
@@ -3404,7 +3404,7 @@
   {
     "kategori": "kripto",
     "kelime": "hata toleransı sağlamak",
-    "aciklama": "ağdaki bazı düğümler yalan söylese veya çökse dahi sistemin doğru kararda mutabık kalmasını sağlamak.",
+    "aciklama": "ağdaki bazı düğümler yalan söylese veya çökse dahi sistemin doğru",
     "yasakli_kelimeler": [
       "pbft",
       "hain generaller problemi",
@@ -3418,7 +3418,7 @@
   {
     "kategori": "kripto",
     "kelime": "eliptik eğri şifrelemek",
-    "aciklama": "özel anahtardan genel anahtarı türetmek için eliptik eğri matematiksel fonksiyonunu işletmek.",
+    "aciklama": "özel anahtardan genel anahtarı türetmek için eliptik eğri matematiksel fonksiyonunu",
     "yasakli_kelimeler": [
       "ecc",
       "secp256k1",
@@ -3432,7 +3432,7 @@
   {
     "kategori": "kripto",
     "kelime": "validatör düğümü işletmek",
-    "aciklama": "sunucu kurup teminat bağlayarak proof of stake ağında yeni blokları doğrulamak.",
+    "aciklama": "sunucu kurup teminat bağlayarak proof of stake ağında yeni blokları",
     "yasakli_kelimeler": [
       "32 eth",
       "pos doğrulayıcı",
@@ -3446,7 +3446,7 @@
   {
     "kategori": "kripto",
     "kelime": "flash kredi çekmek",
-    "aciklama": "kural ihlali yapan doğrulayıcının kilitli coinlerinin protokol tarafından yakılarak elinden alınması.",
+    "aciklama": "kural ihlali yapan doğrulayıcının kilitli coinlerinin protokol tarafından yakılarak elinden",
     "yasakli_kelimeler": [
       "teminatın yakılması",
       "çift imza atma",
@@ -3474,7 +3474,7 @@
   {
     "kategori": "kripto",
     "kelime": "zk-rollup ile sıkıştırmak",
-    "aciklama": "binlerce işlemi ana ağ dışında işleyip tek bir sıfır bilgi kanıtıyla l1'e kaydetmek.",
+    "aciklama": "binlerce işlemi ana ağ dışında işleyip tek bir sıfır bilgi",
     "yasakli_kelimeler": [
       "sıfır bilgi kanıtı",
       "yüzlerce işlemi tek kanıta indirgeme",
@@ -3488,7 +3488,7 @@
   {
     "kategori": "kripto",
     "kelime": "piyasa yapıcı formülü",
-    "aciklama": "merkeziyetsiz havuzda fiyatı otomatik belirleyen 'x * y = k' matematiksel eğrisini işletmek.",
+    "aciklama": "merkeziyetsiz havuzda fiyatı otomatik belirleyen 'x * y = k'",
     "yasakli_kelimeler": [
       "amm",
       "x çarpı y eşittir k",

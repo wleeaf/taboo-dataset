@@ -3,7 +3,7 @@
     "id": 1,
     "kategori": "siber",
     "kelime": "sıfırıncı gün açığı",
-    "aciklama": "yazılım geliştiricisi tarafından henüz fark edilmemiş veya yaması yayınlanmamış güvenlik zafiyeti.",
+    "aciklama": "geliştiricisi tarafından henüz keşfedilmemiş veya yamalanmamış güvenlik açığı",
     "yasakli_kelimeler": [
       "zafiyet",
       "yama",
@@ -17,7 +17,7 @@
     "id": 2,
     "kategori": "siber",
     "kelime": "oltalama",
-    "aciklama": "kullanıcıları sahte e-posta veya web siteleriyle kandırarak hassas bilgileri ele geçirme yöntemi.",
+    "aciklama": "sahte e-posta veya sitelerle kullanıcı bilgilerini çalma yöntemi",
     "yasakli_kelimeler": [
       "e-posta",
       "sahte",
@@ -31,7 +31,7 @@
     "id": 3,
     "kategori": "siber",
     "kelime": "fidye yazılımı",
-    "aciklama": "kurbanın sistemindeki dosyaları şifreleyip erişimi engelleyen ve açmak için para talep eden zararlı yazılım.",
+    "aciklama": "sistemdeki dosyaları şifreleyip açmak için para isteyen yazılım",
     "yasakli_kelimeler": [
       "şifrelemek",
       "kripto",
@@ -45,7 +45,7 @@
     "id": 4,
     "kategori": "siber",
     "kelime": "truva atı",
-    "aciklama": "faydalı veya masum bir yazılım gibi görünüp arka planda sisteme gizlice zarar veren kod bütünü.",
+    "aciklama": "masum görünüp arka planda sisteme zarar veren yazılım",
     "yasakli_kelimeler": [
       "zararlı",
       "gizli",
@@ -59,7 +59,7 @@
     "id": 5,
     "kategori": "siber",
     "kelime": "solucan",
-    "aciklama": "herhangi bir kullanıcı etkileşimi olmadan ağlar üzerinden kendi kendini kopyalayarak yayılan zararlı yazılım.",
+    "aciklama": "ağ üzerinden kendi kendine kopyalanarak yayılan zararlı yazılım",
     "yasakli_kelimeler": [
       "kendini kopyalama",
       "ağ",
@@ -73,7 +73,7 @@
     "id": 6,
     "kategori": "siber",
     "kelime": "arka kapı",
-    "aciklama": "standart kimlik doğrulama süreçlerini atlayarak bir sisteme yetkisiz erişim sağlayan gizli giriş mekanizması.",
+    "aciklama": "kimlik doğrulamasını atlayarak sisteme erişim sağlayan gizli giriş",
     "yasakli_kelimeler": [
       "giriş",
       "yetki",
@@ -87,7 +87,7 @@
     "id": 7,
     "kategori": "siber",
     "kelime": "tuş kaydedici",
-    "aciklama": "klavyede basılan her tuş vuruşunu gizlice kaydedip saldırgana ileten yazılım veya donanım.",
+    "aciklama": "klavyede basılan tüm tuşları gizlice kaydeden casus yazılım",
     "yasakli_kelimeler": [
       "klavye",
       "basış",
@@ -101,7 +101,7 @@
     "id": 8,
     "kategori": "siber",
     "kelime": "botnet",
-    "aciklama": "merkezi bir komuta sunucusu tarafından uzaktan yönetilen ve ele geçirilmiş bilgisayarlar ordusu.",
+    "aciklama": "uzaktan kontrol edilen zombi bilgisayarlardan oluşan saldırı ağı",
     "yasakli_kelimeler": [
       "zombi",
       "bilgisayar",
@@ -115,7 +115,7 @@
     "id": 9,
     "kategori": "siber",
     "kelime": "ddos saldırısı",
-    "aciklama": "bir sunucu veya ağı yoğun trafik bombardımanına tutarak hedef sistemin hizmet veremez hale getirilmesi.",
+    "aciklama": "sunucuyu yoğun trafikle çökerterek hizmeti durduran siber saldırı",
     "yasakli_kelimeler": [
       "trafik",
       "çökertme",
@@ -129,7 +129,7 @@
     "id": 10,
     "kategori": "siber",
     "kelime": "kaba kuvvet saldırısı",
-    "aciklama": "doğru şifre veya anahtarı bulabilmek için tüm olası kombinasyonların sırayla denenmesi tekniği.",
+    "aciklama": "tüm olası şifre kombinasyonlarını sırayla deneyerek kırma yöntemi",
     "yasakli_kelimeler": [
       "şifre",
       "deneme",
@@ -143,7 +143,7 @@
     "id": 11,
     "kategori": "siber",
     "kelime": "ortadaki adam saldırısı",
-    "aciklama": "iki taraf arasındaki iletişimin gizlice araya girilerek dinlenmesi, izlenmesi veya değiştirilmesi durumu.",
+    "aciklama": "iki taraf arasındaki iletişime gizlice sızıp verileri değiştirme",
     "yasakli_kelimeler": [
       "iletişim",
       "araya girme",
@@ -157,7 +157,7 @@
     "id": 12,
     "kategori": "siber",
     "kelime": "sql enjeksiyonu",
-    "aciklama": "web uygulamalarındaki girdi alanlarına kötü niyetli veri tabanı sorguları eklenerek yapılan siber saldırı.",
+    "aciklama": "veri tabanına zararlı kod ekleyerek bilgi sızdırma saldırısı",
     "yasakli_kelimeler": [
       "veri tabanı",
       "sorgu",
@@ -171,7 +171,7 @@
     "id": 13,
     "kategori": "siber",
     "kelime": "zararlı betik çalıştırma",
-    "aciklama": "güvenilir bir web sayfasına zararlı istemci kodları enjekte ederek kullanıcıların tarayıcı oturumlarını veya çerezlerini ele geçirme saldırısı.",
+    "aciklama": "web sayfasına zararlı istemci kodları enjekte etme saldırısı",
     "yasakli_kelimeler": [
       "tarayıcı açığı",
       "çerez hırsızlığı",
@@ -185,7 +185,7 @@
     "id": 14,
     "kategori": "siber",
     "kelime": "istek sahteciliği",
-    "aciklama": "kullanıcının oturum açmış olduğu bir sitede haberi olmadan yetkili işlemler veya para transferleri yapmasını sağlayan açık türü.",
+    "aciklama": "kullanıcının oturumunu kullanarak habersiz istek ve işlem yaptırma",
     "yasakli_kelimeler": [
       "kullanıcı oturumu",
       "onaysız işlem",
@@ -199,7 +199,7 @@
     "id": 15,
     "kategori": "siber",
     "kelime": "arabellek taşması",
-    "aciklama": "bir programa ayrılan bellek alanına kapasitesinden fazla veri yazılarak bitişik bellek bloklarının bozulması.",
+    "aciklama": "bellek alanına kapasiteden fazla veri yazarak sistemi bozma",
     "yasakli_kelimeler": [
       "bellek",
       "hafıza",
@@ -213,7 +213,7 @@
     "id": 16,
     "kategori": "siber",
     "kelime": "ayrıcalık yükseltme",
-    "aciklama": "kullanıcının mevcut düşük yetkilerini bir zafiyeti istismar ederek yönetici düzeyine çıkarma eylemi.",
+    "aciklama": "sistemdeki yetkileri istismar ederek yönetici düzeyine çıkarma eylemi",
     "yasakli_kelimeler": [
       "yetki",
       "yönetici",
@@ -227,7 +227,7 @@
     "id": 17,
     "kategori": "siber",
     "kelime": "bal küpü",
-    "aciklama": "saldırganları cezbetmek, hareketlerini izlemek ve bilgi toplamak amacıyla bilerek savunmasız bırakılan tuzak sistem.",
+    "aciklama": "saldırganları tuzağa düşürüp izlemek için kurulan sahte sistem",
     "yasakli_kelimeler": [
       "tuzak",
       "yem",
@@ -241,7 +241,7 @@
     "id": 18,
     "kategori": "siber",
     "kelime": "sızma testi",
-    "aciklama": "bir bilişim sistemindeki güvenlik açıklarını tespit edip raporlamak amacıyla izinli olarak yapılan benzetimli saldırı.",
+    "aciklama": "sistem açıklarını bulmak için izinli yapılan güvenlik testi",
     "yasakli_kelimeler": [
       "test",
       "denetim",
@@ -255,7 +255,7 @@
     "id": 19,
     "kategori": "siber",
     "kelime": "güvenlik duvarı",
-    "aciklama": "gelen ve giden ağ trafiğini önceden belirlenmiş kurallara göre denetleyip engelleyen ya da geçişine izin veren donanım veya yazılım.",
+    "aciklama": "ağ trafiğini kurallara göre denetleyip süzen güvenlik sistemi",
     "yasakli_kelimeler": [
       "trafik",
       "paket",
@@ -269,7 +269,7 @@
     "id": 20,
     "kategori": "siber",
     "kelime": "kimlik doğrulama",
-    "aciklama": "bir kullanıcının veya sistemin iddia ettiği kişi veya varlık olduğunu kanıtlama süreci.",
+    "aciklama": "kullanıcının iddia ettiği kişi olduğunu doğrulama süreci",
     "yasakli_kelimeler": [
       "parola",
       "şifre",
@@ -283,7 +283,7 @@
     "id": 21,
     "kategori": "siber",
     "kelime": "yetkilendirme",
-    "aciklama": "kimliği doğrulanmış bir kullanıcının hangi kaynaklara erişebileceğini ve hangi işlemleri yapabileceğini belirleme adımı.",
+    "aciklama": "hesaba girişte şifreye ek ikinci doğrulama adımı",
     "yasakli_kelimeler": [
       "izin",
       "erişim",
@@ -297,7 +297,7 @@
     "id": 22,
     "kategori": "siber",
     "kelime": "çok faktörlü doğrulama",
-    "aciklama": "kullanıcı hesabına girişte parola yanında sms, e-posta veya parmak izi gibi ek kanıtlar isteme güvenlik yöntemi.",
+    "aciklama": "bilgileri sadece yetkili kişilerin okuyabileceği koda dönüştürme",
     "yasakli_kelimeler": [
       "parola",
       "ek kanıt",
@@ -311,7 +311,7 @@
     "id": 23,
     "kategori": "siber",
     "kelime": "dijital imza",
-    "aciklama": "elektronik bir belgenin kaynağını, bütünlüğünü ve inkar edilemezliğini matematiksel yöntemlerle doğrulayan yapı.",
+    "aciklama": "şifreleme ve şifre çözme için aynı anahtarı kullanma",
     "yasakli_kelimeler": [
       "imza",
       "bütünlük",
@@ -325,7 +325,7 @@
     "id": 24,
     "kategori": "siber",
     "kelime": "açık anahtarlı şifreleme",
-    "aciklama": "biri herkese açık diğeri gizli tutulan iki farklı matematiksel anahtar çiftiyle gerçekleştirilen asimetrik şifreleme yöntemi.",
+    "aciklama": "şifreleme ve çözmede genel ile özel anahtar ikilisi",
     "yasakli_kelimeler": [
       "anahtar",
       "asimetrik",
@@ -339,7 +339,7 @@
     "id": 25,
     "kategori": "siber",
     "kelime": "simetrik şifreleme",
-    "aciklama": "verinin şifrelenmesinde ve şifresinin çözülmesinde aynı gizli anahtarın kullanıldığı geleneksel kriptografik yöntem.",
+    "aciklama": "verinin bütünlüğünü doğrulamak için üretilen sabit uzunluklu özet",
     "yasakli_kelimeler": [
       "ortak",
       "aynı",
@@ -353,7 +353,7 @@
     "id": 26,
     "kategori": "siber",
     "kelime": "karma fonksiyonu",
-    "aciklama": "herhangi bir boyuttaki veriyi sabit uzunlukta benzersiz bir alfasayısal dizeye dönüştüren tek yönlü matematiksel işlem.",
+    "aciklama": "dijital belgenin kaynağını ve değiştirilmediğini kanıtlayan elektronik imza",
     "yasakli_kelimeler": [
       "özet",
       "tek yönlü",
@@ -367,7 +367,7 @@
     "id": 27,
     "kategori": "siber",
     "kelime": "tuzlama",
-    "aciklama": "parolalar karma işlemine tabi tutulmadan önce tahmin edilmesini zorlaştırmak için sonuna eklenen rastgele karakter dizisi.",
+    "aciklama": "web sitelerinin kimliğini doğrulayan ve trafiği şifreleyen sertifika",
     "yasakli_kelimeler": [
       "parola",
       "ekleme",
@@ -381,7 +381,7 @@
     "id": 28,
     "kategori": "siber",
     "kelime": "blokzincir",
-    "aciklama": "verilerin kriptografik özetlerle birbirine bağlandığı, değiştirilemez ve dağıtık dijital kayıt defteri mimarisi.",
+    "aciklama": "güvenli web trafiği sağlayan şifreli iletişim protokolü",
     "yasakli_kelimeler": [
       "zincir",
       "dağıtık",
@@ -395,7 +395,7 @@
     "id": 29,
     "kategori": "siber",
     "kelime": "sıfır güven",
-    "aciklama": "ağın içindeki veya dışındaki hiçbir kullanıcıya ya da cihaza varsayılan olarak güvenmeyip sürekli doğrulama isteyen güvenlik modeli.",
+    "aciklama": "şifreli tünel oluşturarak güvenli internet bağlantısı sağlayan ağ",
     "yasakli_kelimeler": [
       "güven",
       "doğrulama",
@@ -409,7 +409,7 @@
     "id": 30,
     "kategori": "siber",
     "kelime": "derin paket inceleme",
-    "aciklama": "ağ üzerinden geçen veri paketlerinin yalnızca başlıklarını değil, taşıdığı yükün içeriğini de ayrıntılı analiz etme yöntemi.",
+    "aciklama": "kullanıcının gizlice internet aktivitelerini izleyen casus yazılım türü",
     "yasakli_kelimeler": [
       "paket",
       "içerik",
@@ -423,7 +423,7 @@
     "id": 31,
     "kategori": "siber",
     "kelime": "tersine mühendislik",
-    "aciklama": "derlenmiş bir ikili dosyanın veya yazılımın iç mekanizmasını, kod mantığını ve çalışma prensibini çözme süreci.",
+    "aciklama": "yazılımlardaki güvenlik açıklarını kötü amaçla kullanan kod parçası",
     "yasakli_kelimeler": [
       "kaynak kod",
       "çözümleme",
@@ -437,7 +437,7 @@
     "id": 32,
     "kategori": "siber",
     "kelime": "kök kullanıcı takımı",
-    "aciklama": "işletim sisteminin derinliklerine yerleşip varlığını ve diğer zararlı yazılımları antivirüslerden ustaca gizleyen zararlı araç seti.",
+    "aciklama": "arka planda gizlice çalışarak sistem kontrolünü ele geçiren yazılım",
     "yasakli_kelimeler": [
       "gizleme",
       "çekirdek",
@@ -451,7 +451,7 @@
     "id": 33,
     "kategori": "siber",
     "kelime": "casus yazılım",
-    "aciklama": "kullanıcının izni olmadan kişisel verilerini, internet alışkanlıklarını toplayıp üçüncü kişilere gizlice aktaran yazılım.",
+    "aciklama": "bellekte çalışıp dosya sisteminde iz bırakmayan zararlı yazılım",
     "yasakli_kelimeler": [
       "izleme",
       "bilgi",
@@ -465,7 +465,7 @@
     "id": 34,
     "kategori": "siber",
     "kelime": "zafiyet tarayıcı",
-    "aciklama": "ağdaki sistemlerde, portlarda veya yazılımlarda bilinen güvenlik kusurlarını otomatik olarak arayan araç.",
+    "aciklama": "kullanıcıların güvenini suistimal ederek bilgi sızdırma sanatı",
     "yasakli_kelimeler": [
       "tarama",
       "açık",
@@ -479,7 +479,7 @@
     "id": 35,
     "kategori": "siber",
     "kelime": "bayrak kapmaca",
-    "aciklama": "siber güvenlik uzmanlarının zafiyet bulma, sızma ve kriptografi becerilerini sergilediği yarışma formatı.",
+    "aciklama": "üst düzey hedeflere yönelik yapılan özel hedefli oltalama",
     "yasakli_kelimeler": [
       "yarışma",
       "bayrak",
@@ -493,7 +493,7 @@
     "id": 36,
     "kategori": "siber",
     "kelime": "kırmızı takım",
-    "aciklama": "bir kurumun savunma hattını test etmek amacıyla gerçek saldırgan taktiklerini taklit eden ofansif güvenlik ekibi.",
+    "aciklama": "yem olarak bırakılan virüslü usb ile sisteme sızma",
     "yasakli_kelimeler": [
       "saldırı",
       "ekip",
@@ -507,7 +507,7 @@
     "id": 37,
     "kategori": "siber",
     "kelime": "mavi takım",
-    "aciklama": "kurumsal ağları ve sistemleri siber saldırılara karşı 7/24 savunan, izleyen ve yanıt veren defansif güvenlik ekibi.",
+    "aciklama": "kart kopyalama cihazıyla manyetik şerit bilgilerini gizlice çalma",
     "yasakli_kelimeler": [
       "savunma",
       "izleme",
@@ -521,7 +521,7 @@
     "id": 38,
     "kategori": "siber",
     "kelime": "mor takım",
-    "aciklama": "ofansif ve defansif siber güvenlik ekiplerinin iş birliği yaparak bilgi paylaşmasını sağlayan hibrit çalışma yapısı.",
+    "aciklama": "ekrandaki şifre veya bilgileri arkadan gizlice gözetleme",
     "yasakli_kelimeler": [
       "iş birliği",
       "koordinasyon",
@@ -535,7 +535,7 @@
     "id": 39,
     "kategori": "siber",
     "kelime": "güvenlik operasyon merkezi",
-    "aciklama": "bir kuruluşun bilgi güvenliği olaylarını gerçek zamanlı izleyen, tespit eden ve müdahale eden merkezi birim.",
+    "aciklama": "şirket çöplerini karıştırarak hassas doküman ve şifre arama",
     "yasakli_kelimeler": [
       "merkez",
       "izleme",
@@ -549,7 +549,7 @@
     "id": 40,
     "kategori": "siber",
     "kelime": "güvenlik olayı yönetimi",
-    "aciklama": "kurum ağındaki tüm cihazlardan güvenlik günlüklerini toplayıp eşleştirerek siber tehditleri tespit eden merkezi sistem.",
+    "aciklama": "yüksek yetkili yöneticilere yönelik özel hedefli oltalama saldırısı",
     "yasakli_kelimeler": [
       "günlük kaydı",
       "olay tespiti",
@@ -563,7 +563,7 @@
     "id": 41,
     "kategori": "siber",
     "kelime": "güvenlik otomasyonu",
-    "aciklama": "siber güvenlik uyarılarına karşı müdahale adımlarını ve olay yanıt süreçlerini otomatik olarak yürüten teknoloji.",
+    "aciklama": "telefonla sesli arama yaparak yapılan sahte oltalama dolandırıcılığı",
     "yasakli_kelimeler": [
       "olay müdahalesi",
       "otomatik yanıt",
@@ -577,7 +577,7 @@
     "id": 42,
     "kategori": "siber",
     "kelime": "uç nokta koruması",
-    "aciklama": "bilgisayar, sunucu ve mobil cihaz gibi uç noktalardaki anormal davranışları izleyen gelişmiş güvenlik yazılımı.",
+    "aciklama": "sms mesajı yoluyla zararlı link göndererek yapılan dolandırıcılık",
     "yasakli_kelimeler": [
       "cihaz",
       "izleme",
@@ -591,7 +591,7 @@
     "id": 43,
     "kategori": "siber",
     "kelime": "veri sızıntısı önleme",
-    "aciklama": "hassas kurumsal bilgilerin yetkisiz yollarla kurum dışına çıkarılmasını engelleyen güvenlik teknolojisi.",
+    "aciklama": "qr kod içine zararlı bağlantı gizleyerek yapılan dolandırıcılık",
     "yasakli_kelimeler": [
       "kaçırma",
       "sızdırma",
@@ -605,7 +605,7 @@
     "id": 44,
     "kategori": "siber",
     "kelime": "hava boşluğu",
-    "aciklama": "kritik bir bilgisayarın veya ağın güvenliği için tüm harici ağ ve internet bağlantılarından fiziksel olarak yalıtılması yöntemi.",
+    "aciklama": "tarayıcıda girilen adresin sahte siteye yönlendirilmesi saldırısı",
     "yasakli_kelimeler": [
       "fiziksel",
       "izolasyon",
@@ -619,7 +619,7 @@
     "id": 45,
     "kategori": "siber",
     "kelime": "sosyal mühendislik",
-    "aciklama": "insan psikolojisindeki güven, korku veya merak zaaflarını manipüle ederek gizli bilgileri ele geçirme sanatı.",
+    "aciklama": "ip adresini taklit ederek kendini başka cihaz gibi gösterme",
     "yasakli_kelimeler": [
       "insan",
       "manipülasyon",
@@ -633,7 +633,7 @@
     "id": 46,
     "kategori": "siber",
     "kelime": "hedefli oltalama",
-    "aciklama": "genel kitle yerine belirli bir kişiye, kuruluşa veya yöneticiye özel araştırmalar yapılarak hazırlanan sahte iletişim saldırısı.",
+    "aciklama": "mac adresini taklit ederek ağ filtrelerini ve kontrollerini atlatma",
     "yasakli_kelimeler": [
       "özel",
       "hedef",
@@ -647,7 +647,7 @@
     "id": 47,
     "kategori": "siber",
     "kelime": "su birikintisi saldırısı",
-    "aciklama": "saldırganın hedef kitlenin sıklıkla ziyaret ettiği güvenilir bir web sitesine sızarak oraya zararlı kod yerleştirmesi yöntemi.",
+    "aciklama": "arp tablosunu zehirleyerek yerel ağ trafiğini araya alma",
     "yasakli_kelimeler": [
       "web sitesi",
       "ziyaret",
@@ -661,7 +661,7 @@
     "id": 48,
     "kategori": "siber",
     "kelime": "yemleme",
-    "aciklama": "kurbanın merakını cezbetmek için otopark veya masaya üzerinde virüs bulunan usb bellek bırakılması gibi taktikler.",
+    "aciklama": "dns sorgularını saptırarak kullanıcıları sahte sitelere yönlendirme saldırısı",
     "yasakli_kelimeler": [
       "usb",
       "merak",
@@ -675,7 +675,7 @@
     "id": 49,
     "kategori": "siber",
     "kelime": "omuzdan izleme",
-    "aciklama": "bir kullanıcının ekranını veya klavyesini fiziksel olarak arkasından gözetleyerek şifresini öğrenme eylemi.",
+    "aciklama": "güvenlik açığını kapatmak için yayınlanan resmi yazılım yaması",
     "yasakli_kelimeler": [
       "fiziksel",
       "gözetleme",
@@ -689,7 +689,7 @@
     "id": 50,
     "kategori": "siber",
     "kelime": "parola püskürtme",
-    "aciklama": "hesap kilitlenmelerini önlemek amacıyla tek bir yaygın parolayı çok sayıda farklı kullanıcı adında deneme taktiği.",
+    "aciklama": "sistemdeki güvenlik açıklarını tespit etmek için yapılan tarama",
     "yasakli_kelimeler": [
       "hesap",
       "kilitleme",
@@ -703,7 +703,7 @@
     "id": 51,
     "kategori": "siber",
     "kelime": "sözlük saldırısı",
-    "aciklama": "önceden derlenmiş kelime listelerindeki milyonlarca kelimeyi sırayla deneyerek parola kırma yöntemi.",
+    "aciklama": "ağ trafiğini izleyip şüpheli etkinlikleri tespit eden sistem",
     "yasakli_kelimeler": [
       "kelime",
       "liste",
@@ -717,7 +717,7 @@
     "id": 52,
     "kategori": "siber",
     "kelime": "gökkuşağı tablosu",
-    "aciklama": "parola karmalarını tersine çevirmek için önceden hesaplanmış matematiksel hash eşleşmelerini içeren devasa veri tablosu.",
+    "aciklama": "zararlı ağ trafiğini tespit ettiği anda otomatik engelleyen sistem",
     "yasakli_kelimeler": [
       "özet",
       "tablo",
@@ -731,7 +731,7 @@
     "id": 53,
     "kategori": "siber",
     "kelime": "ortadaki tarayıcı",
-    "aciklama": "kullanıcının internet tarayıcısına sızarak bankacılık gibi oturumlar sırasında iletilen verileri gizlice değiştiren trojan saldırısı.",
+    "aciklama": "uç noktalardaki güvenlik tehditlerini izleyip engelleyen güvenlik yazılımı",
     "yasakli_kelimeler": [
       "tarayıcı",
       "zararlı",
@@ -745,7 +745,7 @@
     "id": 54,
     "kategori": "siber",
     "kelime": "önbellek zehirlenmesi",
-    "aciklama": "sunucunun adres tablosuna sahte kayıtlar ekleyerek kullanıcıları gitmek istedikleri site yerine dolandırıcı bir adrese yönlendirme saldırısı.",
+    "aciklama": "güvenlik loglarını toplayıp analiz eden merkezi izleme yazılımı",
     "yasakli_kelimeler": [
       "sahte yönlendirme",
       "isim çözümleme",
@@ -759,7 +759,7 @@
     "id": 55,
     "kategori": "siber",
     "kelime": "adres çözümleme zehirlemesi",
-    "aciklama": "yerel ağda sahte adres eşleme mesajları yayınlayarak trafiği araya girip dinleyen korsanın cihazı üzerinden akıtma yöntemi.",
+    "aciklama": "güvenlik operasyonlarını otomatikleştiren ve müdahaleyi hızlandıran platform",
     "yasakli_kelimeler": [
       "yerel ağ tuzağı",
       "fiziksel adres eşleme",
@@ -773,7 +773,7 @@
     "id": 56,
     "kategori": "siber",
     "kelime": "kaynak adres sahteciliği",
-    "aciklama": "ağ paketlerinin başlık kısmındaki gönderen adresini değiştirerek trafiğin başka bir kaynaktan geliyormuş gibi gösterilmesi hilesi.",
+    "aciklama": "hassas kurumsal verilerin dışarı sızmasını engelleyen güvenlik sistemi",
     "yasakli_kelimeler": [
       "sahte gönderici",
       "paket başlığı",
@@ -787,7 +787,7 @@
     "id": 57,
     "kategori": "siber",
     "kelime": "paket koklama",
-    "aciklama": "ağ kablosundan veya kablosuz sinyallerden geçen ham veri akışını özel izleme yazılımlarıyla yakalama eylemi.",
+    "aciklama": "şüpheli dosyaları güvenli izole ortamda çalıştırıp analiz etme",
     "yasakli_kelimeler": [
       "ağ",
       "trafik",
@@ -801,7 +801,7 @@
     "id": 58,
     "kategori": "siber",
     "kelime": "oturum çalma",
-    "aciklama": "yetkilendirilmiş bir kullanıcının oturum tanımlayıcısını veya çerezini çalarak onun adına sisteme sızma.",
+    "aciklama": "hiçbir kullanıcı veya cihaza varsayılan olarak güvenmeme mimarisi",
     "yasakli_kelimeler": [
       "çerez",
       "kimlik",
@@ -815,7 +815,7 @@
     "id": 59,
     "kategori": "siber",
     "kelime": "çerez zehirlenmesi",
-    "aciklama": "kullanıcı tarayıcısında saklanan durum bilgilerinin değiştirilerek sistem kontrollerinin atlatılması yöntemi.",
+    "aciklama": "kullanıcılara sadece işleri için gereken minimum yetkileri verme",
     "yasakli_kelimeler": [
       "çerez",
       "tarayıcı",
@@ -829,7 +829,7 @@
     "id": 60,
     "kategori": "siber",
     "kelime": "etki alanı önleme",
-    "aciklama": "sansürü aşmak veya zararlı trafiği gizlemek için tls el sıkışmasında farklı, http başlığında farklı hedef sunucu gösterme tekniği.",
+    "aciklama": "güvenlik olaylarının 7/24 izlendiği ve yönetildiği operasyon merkezi",
     "yasakli_kelimeler": [
       "sansür",
       "gizleme",
@@ -843,7 +843,7 @@
     "id": 61,
     "kategori": "siber",
     "kelime": "tünelleme",
-    "aciklama": "bir ağ protokolünün verilerini başka bir protokolün paketleri içine sarmalayarak güvenlik denetimlerinden geçirme yöntemi.",
+    "aciklama": "siber tehditlere karşı savunma ve koruma yapan ekip",
     "yasakli_kelimeler": [
       "protokol",
       "kapsülleme",
@@ -857,7 +857,7 @@
     "id": 62,
     "kategori": "siber",
     "kelime": "sanal özel ağ",
-    "aciklama": "kullanıcı ile uzak bir ağ arasında internet üzerinden şifreli ve güvenli bir iletişim koridoru oluşturan teknoloji.",
+    "aciklama": "sistemlere sızarak güvenlik açıklarını test eden saldırı ekibi",
     "yasakli_kelimeler": [
       "şifreli",
       "tünel",
@@ -871,7 +871,7 @@
     "id": 63,
     "kategori": "siber",
     "kelime": "kum havuzu",
-    "aciklama": "şüpheli bir yazılımı veya dosyayı ana sisteme zarar vermeden izole ve güvenli bir ortamda çalıştırıp analiz etme alanı.",
+    "aciklama": "kırmızı ve mavi ekipleri koordine eden güvenlik ekibi",
     "yasakli_kelimeler": [
       "izolasyon",
       "analiz",
@@ -885,7 +885,7 @@
     "id": 64,
     "kategori": "siber",
     "kelime": "istismar kodu",
-    "aciklama": "yazılımdaki belirli bir güvenlik zafiyetini hedef alarak sisteme sızmayı veya yetki almayı sağlayan yazılım parçası.",
+    "aciklama": "siber suç delillerini inceleyen ve analiz eden adli bilişim",
     "yasakli_kelimeler": [
       "zafiyet",
       "kod",
@@ -899,7 +899,7 @@
     "id": 65,
     "kategori": "siber",
     "kelime": "faydalı yük",
-    "aciklama": "bir siber saldırının hedef sisteme sızdıktan sonra asıl icra ettiği zararlı eylemi gerçekleştiren kod bölümü.",
+    "aciklama": "zararlı yazılımların çalışma mantığını çözmek için yapılan analiz",
     "yasakli_kelimeler": [
       "zararlı",
       "çalıştırma",
@@ -913,7 +913,7 @@
     "id": 66,
     "kategori": "siber",
     "kelime": "komuta kontrol sunucusu",
-    "aciklama": "zombi bilgisayarları veya botnet ağındaki virüslü cihazları uzaktan yönetmek ve yönlendirmek için saldırganlarca kullanılan ana sunucu.",
+    "aciklama": "yazılımı kaynak koduna dönüştürerek mantığını çözme işlemi",
     "yasakli_kelimeler": [
       "botnet",
       "zombi",
@@ -927,7 +927,7 @@
     "id": 67,
     "kategori": "siber",
     "kelime": "yanal hareket",
-    "aciklama": "bir ağa ilk giriş sağlandıktan sonra saldırganın daha kritik sunuculara ulaşmak için içeride yatay olarak yayılması.",
+    "aciklama": "bilinen zararlı yazılımları ve saldırı izlerini gösteren göstergeler",
     "yasakli_kelimeler": [
       "içeride",
       "yayılma",
@@ -941,7 +941,7 @@
     "id": 68,
     "kategori": "siber",
     "kelime": "kalıcılık",
-    "aciklama": "zararlı yazılımın sistem yeniden başlatılsa dahi çalışmaya devam edebilmek için kayıt defterine veya başlangıç süreçlerine yerleşmesi.",
+    "aciklama": "siber saldırganların taktik ve tekniklerini sınıflandıran bilgi tabanı",
     "yasakli_kelimeler": [
       "yeniden başlatma",
       "kayıt defteri",
@@ -955,7 +955,7 @@
     "id": 69,
     "kategori": "siber",
     "kelime": "veri sızdırma",
-    "aciklama": "ele geçirilen gizli kurumsal bilgilerin veya dosyaların saldırgan tarafından hedef ağ dışına gizlice aktarılması.",
+    "aciklama": "siber saldırının keşiften hedefe kadar olan aşamalarını tanımlama",
     "yasakli_kelimeler": [
       "aktarma",
       "dışarı",
@@ -969,7 +969,7 @@
     "id": 70,
     "kategori": "siber",
     "kelime": "adli bilişim",
-    "aciklama": "siber suçların aydınlatılması için dijital kanıtların hukuka uygun şekilde toplanması, incelenmesi ve raporlanması bilimi.",
+    "aciklama": "devlet destekli ve uzun süreli gizli siber tehdit grubu",
     "yasakli_kelimeler": [
       "kanıt",
       "suç",
@@ -983,7 +983,7 @@
     "id": 71,
     "kategori": "siber",
     "kelime": "bellek dökümü",
-    "aciklama": "adli bilişim analizi için ram üzerindeki geçici verilerin anlık bir kopyasının diske kaydedilmesi işlemi.",
+    "aciklama": "yazılım geliştirme aşamasına güvenliği baştan entegre etme yaklaşımı",
     "yasakli_kelimeler": [
       "ram",
       "geçici",
@@ -997,7 +997,7 @@
     "id": 72,
     "kategori": "siber",
     "kelime": "trafik dökümü analizi",
-    "aciklama": "ağ arabiriminden kaydedilen ham paket verilerinin protokol seviyesinde derinlemesine incelenmesi faaliyeti.",
+    "aciklama": "kaynak kodu güvenlik açıkları için statik olarak analiz etme",
     "yasakli_kelimeler": [
       "paket",
       "yakalama",
@@ -1011,7 +1011,7 @@
     "id": 73,
     "kategori": "siber",
     "kelime": "sertifika yetkilisi",
-    "aciklama": "web sitelerinin ve kuruluşların kimliklerini doğrulayarak dijital ssl/tls sertifikaları imzalayan güvenilir üçüncü taraf kurum.",
+    "aciklama": "çalışan uygulamayı güvenlik zafiyetleri için dinamik test etme",
     "yasakli_kelimeler": [
       "güvenilir",
       "imza",
@@ -1025,7 +1025,7 @@
     "id": 74,
     "kategori": "siber",
     "kelime": "güvenli bağlantı düşürme",
-    "aciklama": "tarayıcı ile sunucu arasındaki şifreli bağlantıyı araya girerek şifresiz düz metin bağlantıya zorlayıp verileri okuma tekniği.",
+    "aciklama": "yazılıma rastgele bozuk girdiler vererek açıkları tespit etme",
     "yasakli_kelimeler": [
       "şifresiz bağlantı",
       "şifre kırma",
@@ -1039,7 +1039,7 @@
     "id": 75,
     "kategori": "siber",
     "kelime": "güvenli el sıkışma",
-    "aciklama": "istemci ile sunucu arasında şifreli veri aktarımı başlamadan önce sertifika doğrulama ve oturum şifresi belirleme süreci.",
+    "aciklama": "sunucu ve cihazları güvenlik standartlarına göre sıkılaştırma işlemi",
     "yasakli_kelimeler": [
       "şifreli iletişim",
       "sertifika kontrolü",
@@ -1053,7 +1053,7 @@
     "id": 76,
     "kategori": "siber",
     "kelime": "örtük kanal",
-    "aciklama": "normalde iletişim için tasarlanmamış sistem kaynaklarını veya protokol alanlarını kullanarak gizlice veri iletme yolu.",
+    "aciklama": "kurumların internete açık tüm dijital varlık ve riskleri",
     "yasakli_kelimeler": [
       "gizli",
       "iletişim",
@@ -1067,7 +1067,7 @@
     "id": 77,
     "kategori": "siber",
     "kelime": "steganografi",
-    "aciklama": "gizli bir mesajı veya dosyayı başka bir resim, ses ya da video dosyasının pikselleri içine görünmez şekilde gizleme tekniği.",
+    "aciklama": "açık kaynak kodlu istihbarat ve bilgi toplama yöntemi",
     "yasakli_kelimeler": [
       "gizleme",
       "resim",
@@ -1081,7 +1081,7 @@
     "id": 78,
     "kategori": "siber",
     "kelime": "homomorfik şifreleme",
-    "aciklama": "verilerin şifresi çözülmeden ve içeriği açığa çıkmadan doğrudan şifreli hali üzerinde matematiksel işlem yapabilmeyi sağlayan kriptografi türü.",
+    "aciklama": "siber tehditler hakkında toplanan ve paylaşılan istihbarat verisi",
     "yasakli_kelimeler": [
       "hesaplama",
       "şifreli",
@@ -1095,7 +1095,7 @@
     "id": 79,
     "kategori": "siber",
     "kelime": "kuantum sonrası kriptografi",
-    "aciklama": "geleceğin güçlü kuantum bilgisayarlarının geleneksel şifreleme yöntemlerini kırmasına karşı geliştirilen dayanıklı algoritmalar.",
+    "aciklama": "güvenlik açığı bildirenlere para ödülü veren resmi program",
     "yasakli_kelimeler": [
       "kuantum",
       "kriptografi",
@@ -1109,7 +1109,7 @@
     "id": 80,
     "kategori": "siber",
     "kelime": "erişim kontrol listesi",
-    "aciklama": "bir dosya, dizin veya ağ cihazına hangi kullanıcıların hangi koşullarla erişebileceğini tanımlayan kurallar tablosu.",
+    "aciklama": "güvenlik açıklarına verilen resmi uluslararası tanımlayıcı numara",
     "yasakli_kelimeler": [
       "izin",
       "kural",
@@ -1123,7 +1123,7 @@
     "id": 81,
     "kategori": "siber",
     "kelime": "rol tabanlı erişim",
-    "aciklama": "kullanıcıların şirket içi rol ve pozisyonlarına göre sistemdeki kaynaklara erişim izinlerinin otomatik belirlenmesi.",
+    "aciklama": "güvenlik açığının ciddiyetini derecelendiren standart puanlama sistemi",
     "yasakli_kelimeler": [
       "yetki",
       "pozisyon",
@@ -1137,7 +1137,7 @@
     "id": 82,
     "kategori": "siber",
     "kelime": "en düşük yetki",
-    "aciklama": "bir kullanıcının veya programın yalnızca görevini yerine getirebilmesi için gereken minimum haklara sahip olması ilkesi.",
+    "aciklama": "yazılımın içerdiği tüm bileşen ve kütüphanelerin listesi",
     "yasakli_kelimeler": [
       "asgari yetki",
       "kısıtlama",
@@ -1151,7 +1151,7 @@
     "id": 83,
     "kategori": "siber",
     "kelime": "saldırı yüzeyi",
-    "aciklama": "yetkisiz bir kullanıcının sisteme sızmak veya veri çıkarmak için hedef alabileceği tüm açık noktaların ve zafiyetlerin toplamı.",
+    "aciklama": "güvenilir yazılım sağlayıcıları üzerinden sisteme sızma saldırısı",
     "yasakli_kelimeler": [
       "açık",
       "alan",
@@ -1165,7 +1165,7 @@
     "id": 84,
     "kategori": "siber",
     "kelime": "tehdit avcılığı",
-    "aciklama": "otomatik alarmları beklemeden ağ içinde gizlenmiş olabilecek gelişmiş saldırganları insan sezgisi ve analizle proaktif arama faaliyeti.",
+    "aciklama": "kullanıcı şifrelerini güvenli şekilde saklayan ve üreten yazılım",
     "yasakli_kelimeler": [
       "proaktif",
       "arama",
@@ -1179,7 +1179,7 @@
     "id": 85,
     "kategori": "siber",
     "kelime": "siber tehdit istihbaratı",
-    "aciklama": "saldırgan gruplar, motivasyonları ve saldırı yöntemleri hakkında toplanıp işlenen stratejik ve teknik bilgi bütünü.",
+    "aciklama": "kullanıcının tek şifreyle birden fazla sisteme erişmesi",
     "yasakli_kelimeler": [
       "bilgi",
       "analiz",
@@ -1193,7 +1193,7 @@
     "id": 86,
     "kategori": "siber",
     "kelime": "gelişmiş sürekli tehdit",
-    "aciklama": "genellikle devlet destekli olan ve hedef sistemde fark edilmeden yıllarca kalarak veri casusluğu yapan organize siber grup.",
+    "aciklama": "ağdaki kullanıcı ve cihazları yöneten merkezi dizin servisi",
     "yasakli_kelimeler": [
       "devlet",
       "organize",
@@ -1207,7 +1207,7 @@
     "id": 87,
     "kategori": "siber",
     "kelime": "taviz göstergesi",
-    "aciklama": "bir ağda veya sistemde güvenlik ihlali yaşandığını kanıtlayan ip adresi, dosya karması veya url gibi adli ipuçları.",
+    "aciklama": "windows sistemlerinde kullanılan standart biletli kimlik doğrulama protokolü",
     "yasakli_kelimeler": [
       "ipucu",
       "iz",
@@ -1221,7 +1221,7 @@
     "id": 88,
     "kategori": "siber",
     "kelime": "saldırı teknikleri",
-    "aciklama": "siber saldırganların sistemlere sızmak, yayılmak ve veri çalmak için izlediği sistematik taktik ve yöntemler bütünü.",
+    "aciklama": "web uygulamalarında kimlik doğrulama için kullanılan yetkilendirme standardı",
     "yasakli_kelimeler": [
       "saldırgan",
       "yöntem",
@@ -1235,7 +1235,7 @@
     "id": 89,
     "kategori": "siber",
     "kelime": "siber ölüm zinciri",
-    "aciklama": "bir siber saldırının keşiften veri sızdırmaya kadar olan tüm aşamalarını modelleyen yapısal güvenlik çerçevesi.",
+    "aciklama": "kullanıcı kimlik bilgilerini aktaran güvenli xml tabanlı protokol",
     "yasakli_kelimeler": [
       "aşama",
       "model",
@@ -1249,7 +1249,7 @@
     "id": 90,
     "kategori": "siber",
     "kelime": "mitre att&ck",
-    "aciklama": "siber saldırganların kullandığı taktik ve teknikleri sınıflandıran dünyaca kabul görmüş açık bilgi matrisi.",
+    "aciklama": "istemci ve sunucu arasında güvenli veri taşıyan token formatı",
     "yasakli_kelimeler": [
       "matris",
       "teknik",
@@ -1263,7 +1263,7 @@
     "id": 91,
     "kategori": "siber",
     "kelime": "port taraması",
-    "aciklama": "hedef bilgisayarda hangi ağ servislerinin ve kapılarının dinlemede olduğunu tespit etmek için gönderilen test paketleri işlemi.",
+    "aciklama": "kurum verilerini korumak için uygulanan resmi güvenlik politikası",
     "yasakli_kelimeler": [
       "kapı",
       "nmap",
@@ -1277,7 +1277,7 @@
     "id": 92,
     "kategori": "siber",
     "kelime": "güvenlik atlatma",
-    "aciklama": "antivirüs, güvenlik duvarı veya saldırı tespit sistemlerinin kurallarını geçersiz kılmak için kullanılan hileli yöntemler.",
+    "aciklama": "çalışanları siber risklere ve oltalamalara karşı bilinçlendirme eğitimi",
     "yasakli_kelimeler": [
       "aşma",
       "atlatma",
@@ -1291,7 +1291,7 @@
     "id": 93,
     "kategori": "siber",
     "kelime": "bulanık test",
-    "aciklama": "bir yazılımdaki çökme ve zafiyetleri ortaya çıkarmak için beklenmeyen veya rastgele bozuk girdilerin otomatik gönderilmesi testi.",
+    "aciklama": "olası bir veri kaybında sistemi kurtarmak için yedekleme",
     "yasakli_kelimeler": [
       "rastgele",
       "girdi",
@@ -1305,7 +1305,7 @@
     "id": 94,
     "kategori": "siber",
     "kelime": "zombi bilgisayar",
-    "aciklama": "kullanıcısının haberi olmadan kötü niyetli kişilerce ele geçirilip ddos gibi saldırılarda köle olarak kullanılan cihaz.",
+    "aciklama": "siber felaket sonrası sistemleri yeniden çalışır kılma planı",
     "yasakli_kelimeler": [
       "köle",
       "habersiz",
@@ -1319,7 +1319,7 @@
     "id": 95,
     "kategori": "siber",
     "kelime": "kod karartma",
-    "aciklama": "yazılımın kaynak kodunu tersine mühendisliğe ve incelenmeye karşı anlaşılması son derece güç hale getirme işlemi.",
+    "aciklama": "bir siber saldırı veya kesinti anında işi sürdürme",
     "yasakli_kelimeler": [
       "anlaşılmaz",
       "gizleme",
@@ -1333,7 +1333,7 @@
     "id": 96,
     "kategori": "siber",
     "kelime": "bellek güvenliği",
-    "aciklama": "bir programlama dilinin arabellek taşması ve sarkan işaretçi gibi bellek hatalarına karşı dahili koruma sağlaması özelliği.",
+    "aciklama": "siber güvenlik standartlarını belirleyen uluslararası bilgi güvenliği standardı",
     "yasakli_kelimeler": [
       "hafıza",
       "işaretçi",
@@ -1347,7 +1347,7 @@
     "id": 97,
     "kategori": "siber",
     "kelime": "tedarik zinciri saldırısı",
-    "aciklama": "asıl hedef kuruma doğrudan saldırmak yerine onun güvendiği bir üçüncü taraf yazılım veya hizmet sağlayıcısına sızma stratejisi.",
+    "aciklama": "avrupa birliği vatandaşlarının kişisel verilerini koruyan resmi tüzük",
     "yasakli_kelimeler": [
       "üçüncü taraf",
       "sağlayıcı",
@@ -1361,7 +1361,7 @@
     "id": 98,
     "kategori": "siber",
     "kelime": "tık tuzağı",
-    "aciklama": "kullanıcının masum görünen bir butona tıkladığını sanırken arkasındaki gizli katmandaki zararlı bağlantıyı tetiklemesi tekniği.",
+    "aciklama": "türkiye'de kişisel verilerin korunmasını sağlayan yasal kanun",
     "yasakli_kelimeler": [
       "tıklama",
       "gizli",
@@ -1375,7 +1375,7 @@
     "id": 99,
     "kategori": "siber",
     "kelime": "şifre çözücü",
-    "aciklama": "fidye yazılımları tarafından şifrelenen verileri saldırgana fidye ödemeden kurtarmak için geliştirilen özel kurtarma yazılımı.",
+    "aciklama": "kredi kartı verilerini korumak için zorunlu güvenlik standardı",
     "yasakli_kelimeler": [
       "kurtarma",
       "çözme",
@@ -1389,7 +1389,7 @@
     "id": 100,
     "kategori": "siber",
     "kelime": "kötü amaçlı yazılım",
-    "aciklama": "bilgisayar sistemlerine sızmak, zarar vermek veya yetkisiz işlemler gerçekleştirmek üzere tasarlanmış her türlü zararlı kodun genel adı.",
+    "aciklama": "sağlık bilgilerinin gizliliğini ve güvenliğini sağlayan yasal düzenleme",
     "yasakli_kelimeler": [
       "virüs",
       "zararlı",
@@ -1403,7 +1403,7 @@
     "id": 101,
     "kategori": "siber",
     "kelime": "bilgisayar virüsü",
-    "aciklama": "kendi kodunu diğer çalıştırılabilir dosyalara ekleyerek çoğalan ve sisteme zarar veren kötü amaçlı yazılım.",
+    "aciklama": "donanım düzeyinde şifreleme anahtarları saklayan güvenli güvenlik çipi",
     "yasakli_kelimeler": [
       "zararlı yazılım",
       "dosya bulaşması",
@@ -1417,7 +1417,7 @@
     "id": 102,
     "kategori": "siber",
     "kelime": "reklam yazılımı",
-    "aciklama": "kullanıcının izni olmadan ekranda sürekli istenmeyen açılır pencereler ve reklamlar gösteren zararlı yazılım.",
+    "aciklama": "bilgisayar açılışında sadece onaylı yazılımların çalışmasını sağlama",
     "yasakli_kelimeler": [
       "adware",
       "istenmeyen reklam",
@@ -1431,7 +1431,7 @@
     "id": 103,
     "kategori": "siber",
     "kelime": "fidye virüsü",
-    "aciklama": "kullanıcının tüm dosyalarını güçlü algoritmalarla şifreleyip açmak için kripto para talep eden zararlı.",
+    "aciklama": "işletim sisteminin ve sürücülerin altına gizlenen zararlı yazılım",
     "yasakli_kelimeler": [
       "ransomware",
       "dosya şifreleme",
@@ -1445,7 +1445,7 @@
     "id": 104,
     "kategori": "siber",
     "kelime": "şantaj yazılımı",
-    "aciklama": "kurbanın özel fotoğraf veya verilerini internete sızdırma tehdidiyle para koparmaya çalışan kötü niyetli kod.",
+    "aciklama": "anakart yazılımını hedef alan kalıcı ve tehlikeli virüs",
     "yasakli_kelimeler": [
       "doxware",
       "tehdit etme",
@@ -1459,7 +1459,7 @@
     "id": 105,
     "kategori": "siber",
     "kelime": "makro virüsü",
-    "aciklama": "word veya excel gibi ofis belgelerinin içine gömülü makro komut dosyalarıyla yayılan virüs türü.",
+    "aciklama": "veri sızıntısını önlemek için dış dünyadan tamamen izole ağ",
     "yasakli_kelimeler": [
       "ofis virüsü",
       "word excel makrosu",
@@ -1473,7 +1473,7 @@
     "id": 106,
     "kategori": "siber",
     "kelime": "bellek kazıma",
-    "aciklama": "pos cihazları veya sunucuların ram belleğinde o an açıkta duran kredi kartı verilerini çalan zararlı teknik.",
+    "aciklama": "şifrelenmiş veriyi anahtar olmadan kırma ve analiz bilimi",
     "yasakli_kelimeler": [
       "ram kazıma",
       "pos zararlısı",
@@ -1487,7 +1487,7 @@
     "id": 107,
     "kategori": "siber",
     "kelime": "kimlik hırsızlığı",
-    "aciklama": "başka bir kişinin tc kimlik, parola ve kredi kartı bilgilerini ele geçirip onun adına yasa dışı işlemler yapma.",
+    "aciklama": "kriptografik fonksiyonlarda rastgeleliği artırmak için eklenen rastgele veri",
     "yasakli_kelimeler": [
       "başkası adına işlem",
       "hesap çalma",
@@ -1501,7 +1501,7 @@
     "id": 108,
     "kategori": "siber",
     "kelime": "veri sızıntısı",
-    "aciklama": "şirketlerin veya kurumların hassas müşteri ve personel verilerinin yetkisiz biçimde internete düşmesi.",
+    "aciklama": "şifreleme algoritmalarının güvenliğini sağlayan rastgele başlangıç vektörü",
     "yasakli_kelimeler": [
       "bilgi sızması",
       "veri ifşası",
@@ -1515,7 +1515,7 @@
     "id": 109,
     "kategori": "siber",
     "kelime": "veri ihlali",
-    "aciklama": "yetkisiz bir saldırganın korunan bir veri tabanına girerek gizli kayıtları kopyalaması veya ifşa etmesi olayı.",
+    "aciklama": "iki tarafın ortak gizli anahtar üretmesini sağlayan protokol",
     "yasakli_kelimeler": [
       "data breach",
       "güvenlik ihlali",
@@ -1529,7 +1529,7 @@
     "id": 110,
     "kategori": "siber",
     "kelime": "hizmet engelleme",
-    "aciklama": "bir web sunucusuna aşırı trafik göndererek sunucuyu kilitleyip meşru kullanıcıların siteye girmesini önleme.",
+    "aciklama": "kriptografide yüksek güvenlik sağlayan eliptik eğri şifreleme",
     "yasakli_kelimeler": [
       "dos atağı",
       "sunucu çökertme",
@@ -1543,7 +1543,7 @@
     "id": 111,
     "kategori": "siber",
     "kelime": "kaba kuvvet",
-    "aciklama": "bir parola veya şifreleme anahtarını bulmak için olası tüm harf ve rakam kombinasyonlarını sırayla deneme.",
+    "aciklama": "kuantum bilgisayarların kıramayacağı yeni nesil şifreleme algoritmaları",
     "yasakli_kelimeler": [
       "brute force",
       "tüm kombinasyonları deneme",
@@ -1557,7 +1557,7 @@
     "id": 112,
     "kategori": "siber",
     "kelime": "parola kırma",
-    "aciklama": "şifrelenmiş veya özetlenmiş karma parola dizinlerini algoritmalar ve sözlükler yardımıyla açık metne çevirme.",
+    "aciklama": "şifrelenmiş veri üzerinde şifreyi çözmeden hesaplama yapabilme teknolojisi",
     "yasakli_kelimeler": [
       "şifre çözme",
       "password cracking",
@@ -1571,7 +1571,7 @@
     "id": 113,
     "kategori": "siber",
     "kelime": "parola yöneticisi",
-    "aciklama": "kullanıcının tüm hesapları için karmaşık ve benzersiz parolalar üretip şifreli bir kasada saklayan yazılım.",
+    "aciklama": "gizli mesajı bir resim veya dosyanın içine gizleme",
     "yasakli_kelimeler": [
       "şifre kasası",
       "parola saklama",
@@ -1585,7 +1585,7 @@
     "id": 114,
     "kategori": "siber",
     "kelime": "sahte e-posta",
-    "aciklama": "banka veya resmi kurumdan gelmiş süsü verilerek kullanıcının şifresini çalmak için atılan tuzak mektup.",
+    "aciklama": "veri tabanındaki hassas bilgileri anlamsız token değerleriyle değiştirme",
     "yasakli_kelimeler": [
       "oltalama postası",
       "tuzak mail",
@@ -1599,7 +1599,7 @@
     "id": 115,
     "kategori": "siber",
     "kelime": "sahte site",
-    "aciklama": "gerçek bir banka veya sosyal medya giriş sayfasının birebir kopyalanarak kullanıcı giriş bilgilerini çalan web sayfası.",
+    "aciklama": "hassas bilgilerin sadece bir kısmını görünür kılma tekniği",
     "yasakli_kelimeler": [
       "taklit web sayfası",
       "klon site",
@@ -1613,7 +1613,7 @@
     "id": 116,
     "kategori": "siber",
     "kelime": "klavye dinleme",
-    "aciklama": "klavyede basılan her tuş vuruşunu gizlice kaydedip saldırgana göndererek parola ve mesajları çalma eylemi.",
+    "aciklama": "şifre karmaşıklığını artırarak kırılmasını zorlaştıran hashing algoritması",
     "yasakli_kelimeler": [
       "keylogger",
       "tuş kaydetme",
@@ -1627,7 +1627,7 @@
     "id": 117,
     "kategori": "siber",
     "kelime": "fare takibi",
-    "aciklama": "ekran klavyesine basılan tuşları tahmin etmek için imlecin ekran üzerindeki tıklama koordinatlarını kaydeden casusluk.",
+    "aciklama": "şifreleri kırmak için önceden hesaplanmış hash tabloları listesi",
     "yasakli_kelimeler": [
       "tıklama kaydı",
       "imleç takibi",
@@ -1641,7 +1641,7 @@
     "id": 118,
     "kategori": "siber",
     "kelime": "ekran casusu",
-    "aciklama": "kurbanın bilgisayar veya telefon ekranının düzenli aralıklarla ekran görüntüsünü alıp saldırgana ileten casus yazılım.",
+    "aciklama": "daha önce ele geçirilmiş şifre listeleriyle hesapları deneme",
     "yasakli_kelimeler": [
       "ekran kaydı zararlısı",
       "screenshot alma",
@@ -1655,7 +1655,7 @@
     "id": 119,
     "kategori": "siber",
     "kelime": "açık port",
-    "aciklama": "sunucuda dışarıdan gelen ağ bağlantılarına cevap vermeye hazır bekleyen ve saldırganlarca taranan iletişim kapısı.",
+    "aciklama": "aynı yaygın şifreyi binlerce farklı kullanıcı adında deneme",
     "yasakli_kelimeler": [
       "dinleyen kapı",
       "port tarama hedefi",
@@ -1669,7 +1669,7 @@
     "id": 120,
     "kategori": "siber",
     "kelime": "zafiyet",
-    "aciklama": "yazılım veya donanım tasarımındaki hatalar nedeniyle saldırganların yetkisiz erişim sağlamasına yol açan güvenlik açığı.",
+    "aciklama": "şifreyi kırmadan hash değerini kullanarak oturum açma tekniği",
     "yasakli_kelimeler": [
       "güvenlik açığı",
       "vulnerability",
@@ -1683,7 +1683,7 @@
     "id": 121,
     "kategori": "siber",
     "kelime": "yerel ağ",
-    "aciklama": "ev veya ofis gibi sınırlı bir coğrafi alanda bilgisayarların birbirine ethernet veya kablosuz bağlandığı iç ağ.",
+    "aciklama": "kerberos biletini çalarak veya sahte biletle yetki alma",
     "yasakli_kelimeler": [
       "lan",
       "ev ağı",
@@ -1697,7 +1697,7 @@
     "id": 122,
     "kategori": "siber",
     "kelime": "geniş ağ",
-    "aciklama": "şehirler veya ülkeler arası mesafeleri birbirine bağlayan ve internetin omurgasını oluşturan geniş alan ağı.",
+    "aciklama": "kerberos şifreli servis biletlerini ele geçirip çevrimdışı kırma",
     "yasakli_kelimeler": [
       "wan",
       "ülkeler arası ağ",
@@ -1711,7 +1711,7 @@
     "id": 123,
     "kategori": "siber",
     "kelime": "sanal ağ",
-    "aciklama": "fiziksel kablolamadan bağımsız olarak yazılımla mantıksal olarak birbirinden izole edilmiş özel yerel ağ bölmesi.",
+    "aciklama": "yüksek yetkili kerberos biletini taklit ederek tam erişim sağlama",
     "yasakli_kelimeler": [
       "vlan",
       "yazılımsal ağ",
@@ -1725,7 +1725,7 @@
     "id": 124,
     "kategori": "siber",
     "kelime": "ara sunucu",
-    "aciklama": "kullanıcı ile internet arasında aracı olarak girip web isteklerini filtreleyen ve kimliği gizleyen vekil sunucu.",
+    "aciklama": "bellekten windows parola hashlerini ve şifrelerini çalan araç",
     "yasakli_kelimeler": [
       "proxy sunucu",
       "vekil sunucu",
@@ -1739,7 +1739,7 @@
     "id": 125,
     "kategori": "siber",
     "kelime": "vekil sunucu",
-    "aciklama": "internet trafiğini kendi üzerinden yönlendirerek gerçek ip adresini gizleyen veya şirket filtrelemesi yapan ara bilgisayar.",
+    "aciklama": "windows sistemlerinde kullanılan yerel güvenlik otoritesi alt sistemi servisi",
     "yasakli_kelimeler": [
       "proxy",
       "ara sunucu",
@@ -1753,7 +1753,7 @@
     "id": 126,
     "kategori": "siber",
     "kelime": "yönlendirici",
-    "aciklama": "farklı ağlar arasındaki veri paketlerinin gideceği en uygun yolu belirleyip iletimi sağlayan akıllı ağ cihazı.",
+    "aciklama": "ağ trafiğini paket paket kaydedip analiz eden açık kaynaklı araç",
     "yasakli_kelimeler": [
       "router",
       "ağ yönlendirme",
@@ -1767,7 +1767,7 @@
     "id": 127,
     "kategori": "siber",
     "kelime": "anahtar cihazı",
-    "aciklama": "yerel ağdaki bilgisayarları kablolarla birbirine bağlayıp paketleri sadece hedef mac adresine ileten kutu.",
+    "aciklama": "ağdaki açık portları ve çalışan servisleri tarayan araç",
     "yasakli_kelimeler": [
       "switch",
       "ağ anahtarı",
@@ -1781,7 +1781,7 @@
     "id": 128,
     "kategori": "siber",
     "kelime": "ağ geçidi",
-    "aciklama": "farklı protokollere veya mimarilere sahip iki farklı ağın birbiriyle konuşmasını sağlayan giriş çıkış noktası.",
+    "aciklama": "siber saldırı ve sızma testlerinde kullanılan istismar çatısı",
     "yasakli_kelimeler": [
       "gateway",
       "ağ kapısı",
@@ -1795,7 +1795,7 @@
     "id": 129,
     "kategori": "siber",
     "kelime": "ağ izleme",
-    "aciklama": "şirket ağındaki tüm veri akışını, hızını ve olası anormal saldırı trafiğini yirmi dört saat takip etme işlemi.",
+    "aciklama": "web uygulamalarındaki açıkları tespit etmek için kullanılan proxy aracı",
     "yasakli_kelimeler": [
       "network monitoring",
       "ağ gözetimi",
@@ -1809,7 +1809,7 @@
     "id": 130,
     "kategori": "siber",
     "kelime": "paket analizi",
-    "aciklama": "ağ kablolarından geçen veri paketlerinin başlık ve yük kısımlarını wireshark gibi programlarla inceleme.",
+    "aciklama": "sql enjeksiyonu açıklarını otomatik tespit edip sömüren araç",
     "yasakli_kelimeler": [
       "packet analysis",
       "wireshark incelemesi",
@@ -1823,7 +1823,7 @@
     "id": 131,
     "kategori": "siber",
     "kelime": "ağ trafiği",
-    "aciklama": "ağ üzerindeki cihazlar arasında anlık olarak alınıp verilen dijital veri paketlerinin toplam yoğunluğu.",
+    "aciklama": "şifre karmalarını kırmak için ekran kartı gücünü kullanan araç",
     "yasakli_kelimeler": [
       "veri akışı",
       "gelen giden paketler",
@@ -1837,7 +1837,7 @@
     "id": 132,
     "kategori": "siber",
     "kelime": "bant genişliği",
-    "aciklama": "bir iletişim kanalının saniyede taşıyabileceği maksimum dijital veri miktarı ve hız kapasitesi.",
+    "aciklama": "şifre kırmak için kullanılan popüler açık kaynaklı araç",
     "yasakli_kelimeler": [
       "bandwidth",
       "veri taşıma kapasitesi",
@@ -1851,7 +1851,7 @@
     "id": 133,
     "kategori": "siber",
     "kelime": "alan adı",
-    "aciklama": "kullanıcıların karmaşık ip adreslerini ezberlemek yerine tarayıcıya yazdığı insan dostu web sitesi adresi.",
+    "aciklama": "sızma testleri ve siber güvenlik için özel linux dağıtımı",
     "yasakli_kelimeler": [
       "domain",
       "web adresi",
@@ -1865,7 +1865,7 @@
     "id": 134,
     "kategori": "siber",
     "kelime": "ip adresi",
-    "aciklama": "internete bağlanan her cihaza kimlik ve konum tespiti için verilen noktalı rakamlardan oluşan benzersiz adres.",
+    "aciklama": "kullanıcı eylemlerini ve sistem olaylarını kronolojik kaydeden günlük",
     "yasakli_kelimeler": [
       "internet protokolü",
       "cihaz adresi",
@@ -1879,7 +1879,7 @@
     "id": 135,
     "kategori": "siber",
     "kelime": "mac adresi",
-    "aciklama": "cihazın ağ kartı üretilirken donanıma kalıcı olarak yazılan on altılık on iki basamaklı fiziksel adres.",
+    "aciklama": "sistem loglarının kaydedilip merkezi sunucuya iletildiği protokol",
     "yasakli_kelimeler": [
       "fiziksel adres",
       "ağ kartı kimliği",
@@ -1893,7 +1893,7 @@
     "id": 136,
     "kategori": "siber",
     "kelime": "dinamik ip",
-    "aciklama": "modem her yeniden başladığında internet servis sağlayıcı tarafından otomatik olarak değişen geçici ip adresi.",
+    "aciklama": "güvenlik loglarını aramak ve analiz etmek için kullanılan platform",
     "yasakli_kelimeler": [
       "değişken ip",
       "otomatik atanan",
@@ -1907,7 +1907,7 @@
     "id": 137,
     "kategori": "siber",
     "kelime": "statik ip",
-    "aciklama": "sunucuların ve güvenlik kameralarının dışarıdan sürekli bulunabilmesi için hiç değişmeyen sabit ip adresi.",
+    "aciklama": "açık kaynaklı log toplama ve görselleştirme yazılım yığını",
     "yasakli_kelimeler": [
       "sabit ip",
       "değişmeyen adres",
@@ -1921,7 +1921,7 @@
     "id": 138,
     "kategori": "siber",
     "kelime": "şifreli bağlantı",
-    "aciklama": "tarayıcı ile sunucu arasındaki tüm veri akışının tls protokolüyle şifrelenip aradaki kulak misafirlerinden korunması.",
+    "aciklama": "birden fazla güvenlik olayını ilişkilendirerek saldırıyı tespit etme",
     "yasakli_kelimeler": [
       "https",
       "yeşil kilit simgesi",
@@ -1935,7 +1935,7 @@
     "id": 139,
     "kategori": "siber",
     "kelime": "güvenlik sertifikası",
-    "aciklama": "bir web sitesinin gerçek kimliğini ve şifreleme anahtarlarını onaylayan resmi dijital ssl belgesi.",
+    "aciklama": "sistemde güvenlik açığı olmadığı halde verilen hatalı alarm",
     "yasakli_kelimeler": [
       "ssl sertifikası",
       "dijital sertifika",
@@ -1949,7 +1949,7 @@
     "id": 140,
     "kategori": "siber",
     "kelime": "ağ izolasyonu",
-    "aciklama": "virüs bulaşan bir bilgisayarın diğer sunuculara yayılmasını önlemek için yerel ağ bağlantısının anında kesilmesi.",
+    "aciklama": "gerçek bir saldırı olduğu halde sistemin tespit edememesi durumu",
     "yasakli_kelimeler": [
       "ağdan koparma",
       "karantina izolasyonu",
@@ -1963,7 +1963,7 @@
     "id": 141,
     "kategori": "siber",
     "kelime": "şifreleme",
-    "aciklama": "okunabilir bir metni yetkisiz kişilerin anlayamayacağı anlamsız karmaşık karakter dizisine dönüştürme işlemi.",
+    "aciklama": "yazılımdaki zafiyetin kapatıldığını doğrulayan resmi güvenlik bildirisi",
     "yasakli_kelimeler": [
       "kriptolama",
       "kriptografi",
@@ -1977,7 +1977,7 @@
     "id": 142,
     "kategori": "siber",
     "kelime": "şifre çözme",
-    "aciklama": "şifrelenmiş anlamsız metni doğru gizli anahtarı kullanarak yeniden orijinal açık okunabilir metne dönüştürme.",
+    "aciklama": "sistemdeki güvenlik açıklarını kapatmak için yapılan güncelleme süreci",
     "yasakli_kelimeler": [
       "deşifre etme",
       "dekript",
@@ -1991,7 +1991,7 @@
     "id": 143,
     "kategori": "siber",
     "kelime": "gizli anahtar",
-    "aciklama": "simetrik şifrelemede hem kilitleme hem açma için kullanılan ve asla başkasıyla paylaşılmaması gereken gizli parola.",
+    "aciklama": "aynı ağdaki cihazlar arasında yatayda ilerleyerek yayılma hareketi",
     "yasakli_kelimeler": [
       "secret key",
       "simetrik anahtar",
@@ -2005,7 +2005,7 @@
     "id": 144,
     "kategori": "siber",
     "kelime": "genel anahtar",
-    "aciklama": "asimetrik kriptografide herkese açık olan ve sadece kullanıcıya şifreli mesaj göndermeye yarayan anahtar.",
+    "aciklama": "saldırganın ele geçirdiği sistemdeki erişimini kalıcı hale getirmesi",
     "yasakli_kelimeler": [
       "public key",
       "açık anahtar",
@@ -2019,7 +2019,7 @@
     "id": 145,
     "kategori": "siber",
     "kelime": "asimetrik şifreleme",
-    "aciklama": "biri şifreleyen genel, diğeri şifreyi çözen özel olmak üzere iki farklı matematiksel anahtar çifti kullanan sistem.",
+    "aciklama": "saldırganın hedef ağ hakkında bilgi toplamak için yaptığı keşif",
     "yasakli_kelimeler": [
       "çift anahtarlı",
       "public private key",
@@ -2033,7 +2033,7 @@
     "id": 146,
     "kategori": "siber",
     "kelime": "şifreli metin",
-    "aciklama": "orijinal mesajın şifreleme algoritmasından geçtikten sonra aldığı anlamsız ve okunamaz karmaşık çıktı.",
+    "aciklama": "ağ cihazlarının ve portların aktifliğini tespit etmek için tarama",
     "yasakli_kelimeler": [
       "kriptolu metin",
       "ciphertext",
@@ -2047,7 +2047,7 @@
     "id": 147,
     "kategori": "siber",
     "kelime": "açık metin",
-    "aciklama": "herhangi bir şifreleme işlemine tabi tutulmamış, herkes tarafından doğrudan okunabilen ham veri metni.",
+    "aciklama": "hedef sistemde çalışan yazılımın sürümünü ve türünü belirleme",
     "yasakli_kelimeler": [
       "plaintext",
       "şifresiz yazı",
@@ -2061,7 +2061,7 @@
     "id": 148,
     "kategori": "siber",
     "kelime": "anahtar uzunluğu",
-    "aciklama": "bir şifreleme anahtarının bit cinsinden boyutu olup kaba kuvvet saldırılarına karşı güvenlik direncini belirleyen değer.",
+    "aciklama": "ağdaki paylaşımları ve kullanıcı listelerini detaylıca dökme işlemi",
     "yasakli_kelimeler": [
       "bit uzunluğu",
       "128 256 bit",
@@ -2075,7 +2075,7 @@
     "id": 149,
     "kategori": "siber",
     "kelime": "rsa şifreleme",
-    "aciklama": "iki dev asal sayının çarpımının çarpanlarına ayrılmasının zorluğuna dayanan en popüler açık anahtarlı algoritma.",
+    "aciklama": "ele geçirilen verileri gizlice kurum dışındaki sunucuya aktarma",
     "yasakli_kelimeler": [
       "asal sayılar",
       "rivest shamir adleman",
@@ -2089,7 +2089,7 @@
     "id": 150,
     "kategori": "siber",
     "kelime": "aes şifreleme",
-    "aciklama": "dünya genelinde devletler ve bankalarca standart kabul edilen iki yüz elli altı bitlik gelişmiş simetrik şifreleme.",
+    "aciklama": "saldırganın zararlı yazılımı uzaktan yönettiği komuta kontrol sunucusu",
     "yasakli_kelimeler": [
       "gelişmiş şifreleme standardı",
       "rijndael",
@@ -2103,7 +2103,7 @@
     "id": 151,
     "kategori": "siber",
     "kelime": "sezar şifresi",
-    "aciklama": "antik roma'da askeri mesajları gizlemek için alfabedeki her harfi üç sıra ileri kaydırarak yapılan en eski şifreleme.",
+    "aciklama": "ağ trafiğini gizlice dinleyerek paketleri yakalama eylemi",
     "yasakli_kelimeler": [
       "harf kaydırma",
       "üç harf öteleme",
@@ -2117,7 +2117,7 @@
     "id": 152,
     "kategori": "siber",
     "kelime": "enigma makinesi",
-    "aciklama": "ikinci dünya savaşı'nda alman ordusunun dönen rotorlarla mesajları şifrelediği ve alan turing'in kırdığı elektro-mekanik aygıt.",
+    "aciklama": "yetkisiz kablosuz ağlar arayarak sokak sokak dolaşma faaliyeti",
     "yasakli_kelimeler": [
       "alman şifre makinesi",
       "alan turing",
@@ -2131,7 +2131,7 @@
     "id": 153,
     "kategori": "siber",
     "kelime": "kripto para",
-    "aciklama": "merkezi bir otoriteye bağlı olmadan kriptografik işlemlerle güvenliği ve transferi sağlanan dijital sanal para.",
+    "aciklama": "kullanıcıları kandırmak için sahte ve açık kablosuz ağ kurma",
     "yasakli_kelimeler": [
       "bitcoin",
       "blokzincir parası",
@@ -2145,7 +2145,7 @@
     "id": 154,
     "kategori": "siber",
     "kelime": "dijital cüzdan",
-    "aciklama": "kripto paraların özel ve genel anahtarlarını internete bağlı veya donanımsal olarak saklayan güvenli yazılım.",
+    "aciklama": "kablosuz ağlardaki cihazların bağlantısını koparmaya yönelik saldırı",
     "yasakli_kelimeler": [
       "kripto cüzdanı",
       "soğuk cüzdan",
@@ -2159,7 +2159,7 @@
     "id": 155,
     "kategori": "siber",
     "kelime": "özel anahtar",
-    "aciklama": "kripto para cüzdanındaki bakiyeyi harcama ve transfer etme yetkisi veren, asla kaybedilmemesi gereken gizli şifre.",
+    "aciklama": "kablosuz ağ şifreleme protokollerindeki açıkları istismar etme",
     "yasakli_kelimeler": [
       "private key",
       "gizli imza anahtarı",
@@ -2173,7 +2173,7 @@
     "id": 156,
     "kategori": "siber",
     "kelime": "tohum kelimeler",
-    "aciklama": "kaybolan bir kripto cüzdanını yeniden kurtarmak için verilen on iki veya yirmi dört adet rastgele ingilizce kelime.",
+    "aciklama": "bluetooth üzerinden cihazlara sızarak izinsiz bilgi çalma",
     "yasakli_kelimeler": [
       "seed phrase",
       "kurtarma kelimeleri",
@@ -2187,7 +2187,7 @@
     "id": 157,
     "kategori": "siber",
     "kelime": "tek kullanımlık",
-    "aciklama": "banka girişlerinde cep telefonuna sms olarak gelen ve sadece birkaç dakika içinde geçerli olan geçici güvenlik kodu.",
+    "aciklama": "bluetooth üzerinden hedefe izinsiz mesaj veya dosya gönderme",
     "yasakli_kelimeler": [
       "otp kodu",
       "sms onay kodu",
@@ -2201,7 +2201,7 @@
     "id": 158,
     "kategori": "siber",
     "kelime": "zamanlı şifre",
-    "aciklama": "authenticator uygulamalarında her otuz saniyede bir matematiksel olarak yenilenen altı haneli dinamik doğrulama kodu.",
+    "aciklama": "yetkisiz olarak akıllı telefonun sistem kısıtlamalarını ve kontrollerini kaldırma",
     "yasakli_kelimeler": [
       "totp",
       "google authenticator",
@@ -2215,7 +2215,7 @@
     "id": 159,
     "kategori": "siber",
     "kelime": "şifreleme anahtarı",
-    "aciklama": "algoritmanın açık metni anlamsız hale getirmek veya açmak için matematiksel parametre olarak kullandığı gizli dizi.",
+    "aciklama": "android işletim sisteminde yönetici root yetkilerini ele geçirme",
     "yasakli_kelimeler": [
       "kripto anahtarı",
       "şifre parametresi",
@@ -2229,7 +2229,7 @@
     "id": 160,
     "kategori": "siber",
     "kelime": "entropi",
-    "aciklama": "kriptografide üretilen bir parolanın veya anahtarın tahmin edilemezliğini ve rastgelelik seviyesini belirten ölçü.",
+    "aciklama": "kaynağı bilinmeyen veya güvenilmeyen uygulamaları cihaza manuel yükleme",
     "yasakli_kelimeler": [
       "rastgelelik ölçüsü",
       "tahmin edilemezlik",
@@ -2243,7 +2243,7 @@
     "id": 161,
     "kategori": "siber",
     "kelime": "antivirüs",
-    "aciklama": "bilgisayarı sürekli tarayarak virüs, truva atı ve casus yazılımları tespit edip temizleyen koruma programı.",
+    "aciklama": "cihazda yüklü kurumsal ve kişisel verileri uzaktan silme",
     "yasakli_kelimeler": [
       "virüs temizleyici",
       "koruma yazılımı",
@@ -2257,7 +2257,7 @@
     "id": 162,
     "kategori": "siber",
     "kelime": "tespit sistemi",
-    "aciklama": "ağ trafiğini veya sistem günlüklerini izleyerek şüpheli saldırı girişimlerini fark edip uyarı üreten güvenlik yazılımı.",
+    "aciklama": "kurumsal mobil cihazları ve güvenlik politikalarını uzaktan yönetme sistemi",
     "yasakli_kelimeler": [
       "ids",
       "saldırı tespit",
@@ -2271,7 +2271,7 @@
     "id": 163,
     "kategori": "siber",
     "kelime": "engelleme sistemi",
-    "aciklama": "tespit ettiği kötü niyetli saldırı paketini ağa girmeden o anda aktif olarak düşürüp engelleyen güvenlik aygıtı.",
+    "aciklama": "çalışanların kendi kişisel cihazlarını iş için kullanma modeli",
     "yasakli_kelimeler": [
       "ips",
       "saldırı önleme",
@@ -2285,7 +2285,7 @@
     "id": 164,
     "kategori": "siber",
     "kelime": "güvenlik yaması",
-    "aciklama": "yazılım şirketinin sistemde keşfedilen bir güvenlik zafiyetini kapatmak için yayınladığı güncelleme paketi.",
+    "aciklama": "şirket içi ağ ile internet arasında bulunan güvenli tampon bölge",
     "yasakli_kelimeler": [
       "patch",
       "güvenlik güncellemesi",
@@ -2299,7 +2299,7 @@
     "id": 165,
     "kategori": "siber",
     "kelime": "yama yönetimi",
-    "aciklama": "şirketteki yüzlerce bilgisayar ve sunucunun işletim sistemi yamalarının merkezi olarak planlı yüklenmesi süreci.",
+    "aciklama": "ağı mantıksal bölümlere ayırarak trafiği izole eden teknoloji",
     "yasakli_kelimeler": [
       "patch management",
       "güncelleme dağıtımı",
@@ -2313,7 +2313,7 @@
     "id": 166,
     "kategori": "siber",
     "kelime": "yedekleme",
-    "aciklama": "verilerin fidye virüsü, disk arızası veya yangın riskine karşı harici bir diske veya buluta kopyalanması.",
+    "aciklama": "ağı küçük alt bölümlere ayırarak saldırı yayılımını engelleme",
     "yasakli_kelimeler": [
       "backup",
       "veri kopyalama",
@@ -2327,7 +2327,7 @@
     "id": 167,
     "kategori": "siber",
     "kelime": "veri kurtarma",
-    "aciklama": "bozulan, silinen veya saldırıya uğrayan depolama aygıtlarındaki kritik dosyaların özel yazılımlarla geri getirilmesi.",
+    "aciklama": "ip paketlerinin başlıklarındaki adresleri değiştiren ağ teknolojisi",
     "yasakli_kelimeler": [
       "silineni getirme",
       "data recovery",
@@ -2341,7 +2341,7 @@
     "id": 168,
     "kategori": "siber",
     "kelime": "olay müdahalesi",
-    "aciklama": "bir siber saldırı veya sızıntı gerçekleştiğinde zararı sınırlandırmak ve sistemi ayağa kaldırmak için yürütülen kriz planı.",
+    "aciklama": "ip paketlerinin güvenliğini ve şifrelenmesini sağlayan ağ protokolü",
     "yasakli_kelimeler": [
       "incident response",
       "kriz yönetimi",
@@ -2355,7 +2355,7 @@
     "id": 169,
     "kategori": "siber",
     "kelime": "felaket kurtarma",
-    "aciklama": "ana veri merkezinin tamamen çökmesi halinde sistemlerin saniyeler içinde yedek veri merkezinden çalıştırılması planı.",
+    "aciklama": "cihazlara otomatik ip adresi ve ağ ayarları dağıtan protokol",
     "yasakli_kelimeler": [
       "disaster recovery",
       "yedek veri merkezi",
@@ -2369,7 +2369,7 @@
     "id": 170,
     "kategori": "siber",
     "kelime": "kural tabanlı",
-    "aciklama": "güvenlik duvarı veya erişim sisteminde trafiğin yazılmış önceden katı kurallara göre geçirilmesi prensibi.",
+    "aciklama": "alan adlarını ip adreslerine çeviren temel internet servisi",
     "yasakli_kelimeler": [
       "firewall kuralları",
       "izin ve yasak",
@@ -2383,7 +2383,7 @@
     "id": 171,
     "kategori": "siber",
     "kelime": "beyaz liste",
-    "aciklama": "sadece güvenli olduğu açıkça belirtilen programların ve ip adreslerinin çalışmasına izin veren en katı güvenlik yaklaşımı.",
+    "aciklama": "dns sorgularının güvenliğini ve doğruluğunu sağlayan protokol eklentisi",
     "yasakli_kelimeler": [
       "whitelist",
       "izinli liste",
@@ -2397,7 +2397,7 @@
     "id": 172,
     "kategori": "siber",
     "kelime": "kara liste",
-    "aciklama": "bilinen tüm zararlı web sitelerinin ve ip adreslerinin ağa girişini yasaklayan engelleme listesi.",
+    "aciklama": "sahte dhcp sunucusu kurarak ağ trafiğini kendi üzerinden geçirme",
     "yasakli_kelimeler": [
       "blacklist",
       "yasaklı liste",
@@ -2411,7 +2411,7 @@
     "id": 173,
     "kategori": "siber",
     "kelime": "karantina",
-    "aciklama": "antivirüs programının tespit ettiği şüpheli virüslü dosyayı silemiyorsa yayılmaması için kilitlediği izole alan.",
+    "aciklama": "sahte arp yanıtlarıyla hedef cihazın ağ trafiğini yönlendirme",
     "yasakli_kelimeler": [
       "izole bölge",
       "şüpheli dosya hapsi",
@@ -2425,7 +2425,7 @@
     "id": 174,
     "kategori": "siber",
     "kelime": "karantinaya alma",
-    "aciklama": "ağda zararlı aktivite gösteren bir bilgisayarın diğer sunuculardan tamamen tecrit edilerek hapsedilmesi eylemi.",
+    "aciklama": "aynı ağdaki diğer cihazların mac adreslerini taklit ederek dinleme",
     "yasakli_kelimeler": [
       "tecrit etme",
       "izolasyon",
@@ -2439,7 +2439,7 @@
     "id": 175,
     "kategori": "siber",
     "kelime": "günlük kaydı",
-    "aciklama": "işletim sisteminde gerçekleşen tüm kullanıcı girişlerini, dosya erişimlerini ve hataları kaydeden log arşivi.",
+    "aciklama": "sunucuya eksik tcp paketleri yollayarak bağlantı kaynaklarını tüketme",
     "yasakli_kelimeler": [
       "log kaydı",
       "olay günlüğü",
@@ -2453,7 +2453,7 @@
     "id": 176,
     "kategori": "siber",
     "kelime": "log analizi",
-    "aciklama": "milyonlarca sistem kaydı taranarak saldırganın sisteme hangi saatte hangi kapıdan girdiğinin ortaya çıkarılması.",
+    "aciklama": "kaynak ip adresini kurban yaparak sahte yankı trafiği üretme",
     "yasakli_kelimeler": [
       "kayıt inceleme",
       "log okuma",
@@ -2467,7 +2467,7 @@
     "id": 177,
     "kategori": "siber",
     "kelime": "güvenlik denetimi",
-    "aciklama": "bir şirketin bilişim altyapısının güvenlik standartlarına ve yasalara uygunluğunun bağımsız uzmanlarca denetlenmesi.",
+    "aciklama": "udp protokolü kullanarak hedef sisteme sahte paket bombardımanı",
     "yasakli_kelimeler": [
       "security audit",
       "güvenlik teftişi",
@@ -2481,7 +2481,7 @@
     "id": 178,
     "kategori": "siber",
     "kelime": "zafiyet yönetimi",
-    "aciklama": "kurum ağındaki tüm cihazların güvenlik açıklarını düzenli olarak tarayıp önem derecesine göre yamama süreci.",
+    "aciklama": "açık ntp sunucularını kullanarak hedefe devasa trafik yönlendirme",
     "yasakli_kelimeler": [
       "açık yönetimi",
       "zafiyet tarama ve kapama",
@@ -2495,7 +2495,7 @@
     "id": 179,
     "kategori": "siber",
     "kelime": "siber hijyen",
-    "aciklama": "parolaları düzenli değiştirme, güncellemeleri yapma ve şüpheli linklere tıklamama gibi temel dijital temizlik alışkanlıkları.",
+    "aciklama": "dns sunucularını aracı yaparak hedefe katlanmış trafik gönderme",
     "yasakli_kelimeler": [
       "dijital temizlik",
       "temel güvenlik kuralları",
@@ -2509,7 +2509,7 @@
     "id": 180,
     "kategori": "siber",
     "kelime": "güvenlik politikası",
-    "aciklama": "kurum çalışanlarının bilgisayar, internet ve şifre kullanırken uymak zorunda olduğu kurallar yönetmeliği.",
+    "aciklama": "güvenlik duvarlarını ve filtreleri aşmak için parçalanmış paketler yollama",
     "yasakli_kelimeler": [
       "şirket güvenlik kuralları",
       "bilgi güvenliği prosedürü",
@@ -2523,7 +2523,7 @@
     "id": 181,
     "kategori": "siber",
     "kelime": "beyaz şapkalı",
-    "aciklama": "sistemlerdeki güvenlik açıklarını kötü niyetle değil, sistem sahibine bildirip kapatılmasını sağlayan ahlaklı hacker.",
+    "aciklama": "cihazların gelen icmp yankı isteklerine yanıt vermesini engelleme",
     "yasakli_kelimeler": [
       "etik hacker",
       "iyi niyetli korsan",
@@ -2537,7 +2537,7 @@
     "id": 182,
     "kategori": "siber",
     "kelime": "siyah şapkalı",
-    "aciklama": "kendi kişisel veya mali çıkarları için sistemleri yasa dışı çökerten, veri çalan kötü niyetli hacker.",
+    "aciklama": "ağdaki yetkisiz ve onaysız erişim noktalarını tespit edip engelleme",
     "yasakli_kelimeler": [
       "kötü niyetli hacker",
       "siber suçlu",
@@ -2551,7 +2551,7 @@
     "id": 183,
     "kategori": "siber",
     "kelime": "gri şapkalı",
-    "aciklama": "izinsiz olarak sistemlere sızan ancak çaldığı veriyi satmayıp açığı ifşa ederek para veya şöhret arayan ara hacker.",
+    "aciklama": "güvenli kablosuz ağlar için kurumsal kimlik doğrulama standardı",
     "yasakli_kelimeler": [
       "orta yol hacker",
       "izinsiz açık arayan",
@@ -2565,7 +2565,7 @@
     "id": 184,
     "kategori": "siber",
     "kelime": "etik korsanlık",
-    "aciklama": "kurumların izniyle sistemlere sızma testleri yaparak güvenlik açıklarını ortaya çıkaran profesyonel meslek dalı.",
+    "aciklama": "kurumsal ağa sadece güvenlik kriterlerini karşılayan cihazları alma",
     "yasakli_kelimeler": [
       "ethical hacking",
       "beyaz şapkalılık",
@@ -2579,7 +2579,7 @@
     "id": 185,
     "kategori": "siber",
     "kelime": "lamer",
-    "aciklama": "hiçbir teknik bilgiye sahip olmadığı halde kendini büyük bir bilgisayar korsanı gibi gösteren bilgisiz hevesli.",
+    "aciklama": "kullanıcıların sadece izin verilen güvenli web sitelerine girmesini sağlama",
     "yasakli_kelimeler": [
       "özentili bilgisiz",
       "hacker özentisi",
@@ -2593,7 +2593,7 @@
     "id": 186,
     "kategori": "siber",
     "kelime": "betik çocuğu",
-    "aciklama": "kendi kod yazamayıp internetten indirdiği hazır saldırı araçlarını kullanarak sistemlere saldıran acemi korsan.",
+    "aciklama": "kurum dışına gönderilen e-postaları ve trafiği denetleyen sistem",
     "yasakli_kelimeler": [
       "script kiddie",
       "hazır program kullanan",
@@ -2607,7 +2607,7 @@
     "id": 187,
     "kategori": "siber",
     "kelime": "siber savaş",
-    "aciklama": "devletlerin birbirlerinin elektrik şebekesi, nükleer santral ve askeri iletişimini çökertmek için dijital saldırılar yapması.",
+    "aciklama": "gönderilen e-postanın sahte olmadığını doğrulayan alan adı kaydı",
     "yasakli_kelimeler": [
       "devletler arası siber saldırı",
       "altyapı çökertme",
@@ -2621,7 +2621,7 @@
     "id": 188,
     "kategori": "siber",
     "kelime": "siber casusluk",
-    "aciklama": "rakip devlet veya şirketlerin ticari sırlarını ve askeri planlarını internet üzerinden gizlice çalma faaliyeti.",
+    "aciklama": "e-postaların dijital imzayla doğrulanmasını sağlayan güvenlik standardı",
     "yasakli_kelimeler": [
       "dijital ajanlık",
       "devlet sırrı çalma",
@@ -2635,7 +2635,7 @@
     "id": 189,
     "kategori": "siber",
     "kelime": "siber terörizm",
-    "aciklama": "siyasi veya ideolojik hedefler uğruna kritik altyapıları çökerterek toplumda panik ve kaos yaratma eylemi.",
+    "aciklama": "e-posta sahteciliğini önleyen ve alan adı politikasını belirleyen kural",
     "yasakli_kelimeler": [
       "dijital terör",
       "kaos yaratma",
@@ -2649,7 +2649,7 @@
     "id": 190,
     "kategori": "siber",
     "kelime": "siber zorbalık",
-    "aciklama": "sosyal medya üzerinden bir kişiye yönelik hakaret, tehdit, iftira ve dışlama gibi sistematik dijital tacizler.",
+    "aciklama": "e-posta sunucuları arasında şifreli iletişimi başlatan komut uzantısı",
     "yasakli_kelimeler": [
       "dijital taciz",
       "sosyal medya linci",
@@ -2663,7 +2663,7 @@
     "id": 191,
     "kategori": "siber",
     "kelime": "karanlık ağ",
-    "aciklama": "arama motorlarınca taranamayan, sadece tor gibi özel tarayıcılarla girilen ve yasa dışı ticaretin döndüğü ağ.",
+    "aciklama": "kurum içi e-posta ve dosya paylaşımında kullanılan şifreleme standardı",
     "yasakli_kelimeler": [
       "dark web",
       "özel tarayıcı",
@@ -2677,7 +2677,7 @@
     "id": 192,
     "kategori": "siber",
     "kelime": "derin ağ",
-    "aciklama": "google gibi standart arama motorlarının dizinine eklenmemiş, şifreli veritabanları ve özel şirket ağları bütünü.",
+    "aciklama": "kullanıcının dosya ve şifreleme anahtarlarını güvenle imzalayan açık anahtar",
     "yasakli_kelimeler": [
       "deep web",
       "arama motorunda çıkmayan",
@@ -2691,7 +2691,7 @@
     "id": 193,
     "kategori": "siber",
     "kelime": "tor ağı",
-    "aciklama": "trafiği dünyanın dört bir yanındaki gönüllü düğümlerden kat kat şifreleyerek geçirip tam anonimlik sağlayan ağ.",
+    "aciklama": "e-postalara veya dosyalara uçtan uca şifreleme sağlayan yazılım",
     "yasakli_kelimeler": [
       "soğan ağı",
       "the onion router",
@@ -2705,7 +2705,7 @@
     "id": 194,
     "kategori": "siber",
     "kelime": "soğan yönlendirme",
-    "aciklama": "verinin kat kat şifrelenerek her bir düğümde bir katmanın soyulduğu ve kimliği gizleyen kriptografik yönlendirme.",
+    "aciklama": "açık kaynaklı ve ücretsiz uçtan uca e-posta şifreleme aracı",
     "yasakli_kelimeler": [
       "onion routing",
       "kat kat şifreleme",
@@ -2719,7 +2719,7 @@
     "id": 195,
     "kategori": "siber",
     "kelime": "siber güvenlik",
-    "aciklama": "bilgisayarları, sunucuları, mobil cihazları ve verileri kötü niyetli dijital saldırılardan koruma disiplini.",
+    "aciklama": "dijital sertifikaları üreten ve doğrulayan resmi güvenilir otorite",
     "yasakli_kelimeler": [
       "bilgi güvenliği",
       "dijital koruma",
@@ -2733,7 +2733,7 @@
     "id": 196,
     "kategori": "siber",
     "kelime": "kişisel veri",
-    "aciklama": "kimliği belirli veya belirlenebilir gerçek bir kişiye ilişkin ad, soyad, telefon ve konum gibi her türlü bilgi.",
+    "aciklama": "süresi dolmadan iptal edilen geçersiz sertifikaların resmi listesi",
     "yasakli_kelimeler": [
       "kvkk kapsamı",
       "özel bilgi",
@@ -2747,7 +2747,7 @@
     "id": 197,
     "kategori": "siber",
     "kelime": "veri gizliliği",
-    "aciklama": "kişisel bilgilerin bireyin izni olmadan toplanmasını, paylaşılmasını veya satılmasını önleyen mahremiyet hakkı.",
+    "aciklama": "dijital sertifikanın geçerlilik durumunu anlık olarak sorgulayan protokol",
     "yasakli_kelimeler": [
       "mahremiyet",
       "privacy",
@@ -2761,7 +2761,7 @@
     "id": 198,
     "kategori": "siber",
     "kelime": "kullanıcı hesabı",
-    "aciklama": "bir işletim sistemine veya web sitesine kimlik doğrulamasıyla giriş yapmayı sağlayan kişisel profil kaydı.",
+    "aciklama": "bir uygulamanın sadece belirli sertifikalara güvenmesini sağlama yöntemi",
     "yasakli_kelimeler": [
       "hesap profili",
       "kullanıcı adı ve şifre",
@@ -2775,7 +2775,7 @@
     "id": 199,
     "kategori": "siber",
     "kelime": "yönetici yetkisi",
-    "aciklama": "işletim sisteminde dosya silme, program kurma ve kullanıcı yönetimi yapabilen en üst idari erişim hakkı.",
+    "aciklama": "şifreli bağlantılarda oturum anahtarının gelecekte deşifre edilememesi özelliği",
     "yasakli_kelimeler": [
       "admin yetkisi",
       "root izni",
@@ -2789,7 +2789,7 @@
     "id": 200,
     "kategori": "siber",
     "kelime": "dijital kimlik",
-    "aciklama": "bir bireyin internet dünyasındaki tüm hesapları, kullanıcı adları, e-postaları ve dijital varlığının toplamı.",
+    "aciklama": "kullanıcı oturum bilgilerini tarayıcıda saklayan metin tabanlı küçük dosya",
     "yasakli_kelimeler": [
       "çevrimiçi kimlik",
       "internet profili",
@@ -2802,7 +2802,7 @@
   {
     "kategori": "siber",
     "kelime": "şifre koymak",
-    "aciklama": "hesabı korumak için harf ve rakamlardan güçlü parola belirlemek",
+    "aciklama": "bir bilgisayar sistemine veya ağa izinsiz olarak sızmak",
     "yasakli_kelimeler": [
       "parola",
       "güçlü",
@@ -2816,7 +2816,7 @@
   {
     "kategori": "siber",
     "kelime": "hacklemek",
-    "aciklama": "yetkisiz şekilde bir bilgisayar sistemine veya web sitesine sızmak",
+    "aciklama": "şifreli bir veriyi veya kilitli sistemi kırmak",
     "yasakli_kelimeler": [
       "sızmak",
       "yetkisiz",
@@ -2830,7 +2830,7 @@
   {
     "kategori": "siber",
     "kelime": "virüs bulaşmak",
-    "aciklama": "zararlı yazılımın bilgisayara girip dosyalara zarar vermesi",
+    "aciklama": "verileri okunamaz hale getirmek için şifreleme algoritmaları kullanmak",
     "yasakli_kelimeler": [
       "zararlı yazılım",
       "bulaşma",
@@ -2844,7 +2844,7 @@
   {
     "kategori": "siber",
     "kelime": "taramak",
-    "aciklama": "antivirüs programıyla tüm diski zararlı kodlara karşı kontrol etmek",
+    "aciklama": "kullanıcıları kandırarak şifrelerini çalmak için oltalama yapmak",
     "yasakli_kelimeler": [
       "antivirüs",
       "disk",
@@ -2858,7 +2858,7 @@
   {
     "kategori": "siber",
     "kelime": "engellemek",
-    "aciklama": "güvenlik duvarıyla şüpheli internet trafiğini ve ip adreslerini kesmek",
+    "aciklama": "sistemdeki açıkları kapatmak için güvenlik yaması yüklemek",
     "yasakli_kelimeler": [
       "güvenlik duvarı",
       "ip adresi",
@@ -2872,7 +2872,7 @@
   {
     "kategori": "siber",
     "kelime": "güncellemek",
-    "aciklama": "işletim sistemindeki güvenlik açıklarını kapatmak için yeni sürümü yüklemek",
+    "aciklama": "olası veri kaybına karşı kritik sistem dosyalarını yedeklemek",
     "yasakli_kelimeler": [
       "yama",
       "güvenlik açığı",
@@ -2886,7 +2886,7 @@
   {
     "kategori": "siber",
     "kelime": "yedeklemek",
-    "aciklama": "verilerin kaybolmaması için harici diske veya buluta kopyasını almak",
+    "aciklama": "sistemdeki güvenlik açıklarını tespit etmek için sızma testi yapmak",
     "yasakli_kelimeler": [
       "backup",
       "bulut",
@@ -2900,7 +2900,7 @@
   {
     "kategori": "siber",
     "kelime": "şifre kırmak",
-    "aciklama": "unutulan veya başkasına ait parolayı deneme yanılmayla çözmek",
+    "aciklama": "ağ trafiğini ve sunucu loglarını güvenlik için sürekli izlemek",
     "yasakli_kelimeler": [
       "brute force",
       "çözmek",
@@ -2914,7 +2914,7 @@
   {
     "kategori": "siber",
     "kelime": "gizlemek",
-    "aciklama": "vpn kullanarak gerçek ip adresini ve konumunu internetten saklamak",
+    "aciklama": "güvenlik açığını kullanarak sisteme erişim sağlamak ve istismar etmek",
     "yasakli_kelimeler": [
       "vpn",
       "ip adresi",
@@ -2928,7 +2928,7 @@
   {
     "kategori": "siber",
     "kelime": "silmek",
-    "aciklama": "virüslü dosyayı veya diski tamamen sıfırlayıp temizlemek",
+    "aciklama": "cihazda bulunan zararlı virüs ve yazılımları güvenle temizlemek",
     "yasakli_kelimeler": [
       "temizlemek",
       "yok etmek",
@@ -2942,7 +2942,7 @@
   {
     "kategori": "siber",
     "kelime": "uyarmak",
-    "aciklama": "sistem güvenlik ihlali algıladığında yöneticiye acil e-posta göndermek",
+    "aciklama": "sistemlerin güvenliğini artırmak amacıyla hesaplara çift faktörlü doğrulama kurmak",
     "yasakli_kelimeler": [
       "alarm",
       "bildirim",
@@ -2956,7 +2956,7 @@
   {
     "kategori": "siber",
     "kelime": "giriş yapmak",
-    "aciklama": "kullanıcı adı ve şifreyle sisteme yetkili olarak oturum açmak",
+    "aciklama": "sunucuya yoğun trafik göndererek ddos saldırısı düzenlemek",
     "yasakli_kelimeler": [
       "login",
       "oturum",
@@ -2970,7 +2970,7 @@
   {
     "kategori": "siber",
     "kelime": "iki aşamalı güvenlik",
-    "aciklama": "sahte banka e-postası atarak kurbanın şifresini ve kartını çalmak",
+    "aciklama": "veri tabanına zararlı kod enjekte ederek sql sorgusu çalıştırmak",
     "yasakli_kelimeler": [
       "phishing",
       "sahte mail",
@@ -2984,7 +2984,7 @@
   {
     "kategori": "siber",
     "kelime": "sızma testi yapmak",
-    "aciklama": "etik hacker olarak şirketin sunucularındaki açıkları denetlemek",
+    "aciklama": "iki taraf arasındaki iletişimi gizlice dinlemek ve araya girmek",
     "yasakli_kelimeler": [
       "penetrasyon",
       "pentest",
@@ -2998,7 +2998,7 @@
   {
     "kategori": "siber",
     "kelime": "ddos atağı başlatmak",
-    "aciklama": "milyonlarca bot cihazla web sitesine aynı anda istek atıp çökertmek",
+    "aciklama": "klavyede basılan tüm tuşları arka planda gizlice kaydetmek",
     "yasakli_kelimeler": [
       "çökertme",
       "botnet",
@@ -3012,7 +3012,7 @@
   {
     "kategori": "siber",
     "kelime": "fidye yazılımı bulaştırmak",
-    "aciklama": "kurbanın tüm sabit diskini şifreleyip açmak için bitcoin talep etmek",
+    "aciklama": "tüm olası şifre kombinasyonlarını sırayla deneyerek kaba kuvvet uygulamak",
     "yasakli_kelimeler": [
       "ransomware",
       "dosya şifreleme",
@@ -3026,7 +3026,7 @@
   {
     "kategori": "siber",
     "kelime": "trojan sokmak",
-    "aciklama": "faydalı bir program gibi görünen truva atı virüsüyle arka kapı açmak",
+    "aciklama": "kullanıcıların güvenini suistimal ederek sosyal mühendislik yapmak",
     "yasakli_kelimeler": [
       "truva atı",
       "arka kapı",
@@ -3040,7 +3040,7 @@
   {
     "kategori": "siber",
     "kelime": "keylogger yerleştirmek",
-    "aciklama": "klavyede basılan tüm tuşları gizlice kaydedip saldırgana göndermek",
+    "aciklama": "sunucunun ağ trafiğini filtrelemek için güvenlik duvarı yapılandırmak",
     "yasakli_kelimeler": [
       "tuş kaydı",
       "klavye",
@@ -3054,7 +3054,7 @@
   {
     "kategori": "siber",
     "kelime": "iki faktörlü doğrulamak",
-    "aciklama": "şifreye ek olarak telefona gelen sms veya authenticator kodunu girmek",
+    "aciklama": "ağdaki cihazları ve portları güvenlik açıkları için taramak",
     "yasakli_kelimeler": [
       "2fa",
       "sms kodu",
@@ -3068,7 +3068,7 @@
   {
     "kategori": "siber",
     "kelime": "port taraması yapmak",
-    "aciklama": "nmap aracıyla hedef sunucunun hangi ağ kapılarının açık olduğunu bulmak",
+    "aciklama": "şüpheli bir dosyayı izole edilmiş korumalı alanda çalıştırmak",
     "yasakli_kelimeler": [
       "nmap",
       "açık port",
@@ -3082,7 +3082,7 @@
   {
     "kategori": "siber",
     "kelime": "paket dinlemek",
-    "aciklama": "wireshark programıyla yerel ağdaki şifrelenmemiş veri paketlerini yakalamak",
+    "aciklama": "web sitelerine güvenli ve şifreli https sertifikası kurmak",
     "yasakli_kelimeler": [
       "wireshark",
       "sniffing",
@@ -3096,7 +3096,7 @@
   {
     "kategori": "siber",
     "kelime": "ortadaki adam olmak",
-    "aciklama": "kullanıcı ile modem arasına girip giden gelen tüm verileri gizlice okumak",
+    "aciklama": "güvenli iletişim için tünel açarak vpn bağlantısı kurmak",
     "yasakli_kelimeler": [
       "mitm",
       "araya girme",
@@ -3110,7 +3110,7 @@
   {
     "kategori": "siber",
     "kelime": "zararlı yazılım temizlemek",
-    "aciklama": "arama kutusuna özel sql komutları yazarak veri tabanını dışarı dökmek",
+    "aciklama": "şüpheli bir zararlı yazılımı ayrıştırıp tersine mühendislik uygulamak",
     "yasakli_kelimeler": [
       "sql injection",
       "veri tabanı",
@@ -3124,7 +3124,7 @@
   {
     "kategori": "siber",
     "kelime": "xss açığı aramak",
-    "aciklama": "web sitesinin yorum alanına kötü niyetli javascript kodu gömmek",
+    "aciklama": "siber olayların loglarını merkezi siem sistemine toplayıp analiz etmek",
     "yasakli_kelimeler": [
       "cross site scripting",
       "javascript",
@@ -3138,7 +3138,7 @@
   {
     "kategori": "siber",
     "kelime": "sosyal mühendislik yapmak",
-    "aciklama": "kendini bilgi işlem görevlisi gibi tanıtıp kurbandan şifresini telefonda almak",
+    "aciklama": "saldırganları cezbetmek ve izlemek için tuzak bal küpü kurmak",
     "yasakli_kelimeler": [
       "insan kandırma",
       "manipülasyon",
@@ -3152,7 +3152,7 @@
   {
     "kategori": "siber",
     "kelime": "kriptografik imzalamak",
-    "aciklama": "belgenin kaynağını ve değişmediğini asimetrik özel anahtarla mühürlemek",
+    "aciklama": "hiçbir kullanıcıya güvenmeyen sıfır güven mimarisini uygulamak",
     "yasakli_kelimeler": [
       "dijital imza",
       "özel anahtar",
@@ -3166,7 +3166,7 @@
   {
     "kategori": "siber",
     "kelime": "karantinaya almak",
-    "aciklama": "şüpheli zararlı dosyayı diğer dosyalardan izole edip çalıştırmasını engellemek",
+    "aciklama": "zararlı yazılımın sistem üzerindeki etkilerini adli bilişimle analiz etmek",
     "yasakli_kelimeler": [
       "izolasyon",
       "şüpheli dosya",
@@ -3180,7 +3180,7 @@
   {
     "kategori": "siber",
     "kelime": "güvenlik duvarı yapılandırmak",
-    "aciklama": "evdeki bilgisayar ile şirket ağı arasında uçtan uca şifreli güvenli hat açmak",
+    "aciklama": "ağ trafiğindeki şüpheli paketleri derinlemesine paket analiziyle yakalamak",
     "yasakli_kelimeler": [
       "şifreli tünel",
       "uzaktan erişim",
@@ -3194,7 +3194,7 @@
   {
     "kategori": "siber",
     "kelime": "ip spoofing yapmak",
-    "aciklama": "ağ paketlerinin başlığındaki kaynak ip adresini sahte bir numarayla değiştirmek",
+    "aciklama": "sistemdeki düşük kullanıcı yetkilerini yönetici seviyesine yükseltmek",
     "yasakli_kelimeler": [
       "sahte ip",
       "başlık değiştirme",
@@ -3208,7 +3208,7 @@
   {
     "kategori": "siber",
     "kelime": "güvenlik kuralı yazmak",
-    "aciklama": "gelen trafiğin belirli port ve ip aralıklarından geçişine izin vermek veya kesmek",
+    "aciklama": "bellek alanına kapasiteden fazla veri yazarak arabellek taşırmak",
     "yasakli_kelimeler": [
       "iptables",
       "firewall kuralı",
@@ -3222,7 +3222,7 @@
   {
     "kategori": "siber",
     "kelime": "soc merkezinde izlemek",
-    "aciklama": "güvenlik operasyon merkezinde 7/24 log kayıtlarını ve saldırı uyarılarını takip etmek",
+    "aciklama": "windows sistemlerinde parola karmalarını bellekten çekerek hash toplamak",
     "yasakli_kelimeler": [
       "soc",
       "güvenlik operasyon",
@@ -3236,7 +3236,7 @@
   {
     "kategori": "siber",
     "kelime": "parola yöneticisi kullanmak",
-    "aciklama": "yüzlerce karmaşık şifreyi tek bir ana parolayla kasada şifreli saklamak",
+    "aciklama": "sunucunun alan adı sorgularını saptırarak dns zehirlemesi yapmak",
     "yasakli_kelimeler": [
       "password manager",
       "kasa",
@@ -3250,7 +3250,7 @@
   {
     "kategori": "siber",
     "kelime": "sözlük saldırısı yapmak",
-    "aciklama": "milyonlarca kelimelik wordlist dosyasıyla parola kırma yazılımı çalıştırmak",
+    "aciklama": "e-posta sahteciliğini önlemek için dmarc ve spf kayıtlarını yapılandırmak",
     "yasakli_kelimeler": [
       "wordlist",
       "sözlük",
@@ -3264,7 +3264,7 @@
   {
     "kategori": "siber",
     "kelime": "çerez çalmak",
-    "aciklama": "tarayıcıda kayıtlı oturum kimliğini ele geçirip şifresiz hesaba girmek",
+    "aciklama": "uygulamalardaki güvenlik açıklarını bulup bildiren ödül programına katılmak",
     "yasakli_kelimeler": [
       "cookie",
       "oturum kimliği",
@@ -3278,7 +3278,7 @@
   {
     "kategori": "siber",
     "kelime": "arka kapı bırakmak",
-    "aciklama": "sunucuya ilk girişte daha sonra tekrar kolayca sızabilmek için gizli kullanıcı açmak",
+    "aciklama": "kodlama aşamasında güvenlik açıklarını statik kod analiziyle denetlemek",
     "yasakli_kelimeler": [
       "backdoor",
       "gizli giriş",
@@ -3292,7 +3292,7 @@
   {
     "kategori": "siber",
     "kelime": "yetki yükseltmek",
-    "aciklama": "düşük yetkili normal kullanıcı hesabından sunucunun root veya admin yetkisine zıplamak",
+    "aciklama": "yazılım kütüphanelerinin bileşenlerini gösteren yazılım malzeme listesi hazırlamak",
     "yasakli_kelimeler": [
       "privilege escalation",
       "root yetkisi",
@@ -3306,7 +3306,7 @@
   {
     "kategori": "siber",
     "kelime": "pentest yapmak",
-    "aciklama": "üreticinin henüz bilmediği ve yaması olmayan yazılım açığını exploit etmek",
+    "aciklama": "sunucuları gereksiz servisleri kapatıp güvenlik standartlarına göre sıkılaştırmak",
     "yasakli_kelimeler": [
       "zero day",
       "yamasız açık",
@@ -3320,7 +3320,7 @@
   {
     "kategori": "siber",
     "kelime": "tersine mühendislik yapmak",
-    "aciklama": "derlenmiş kötü amaçlı yazılım ikili kodunu ida pro veya ghidra ile söküp analiz etmek",
+    "aciklama": "açık kaynaklardan bilgi toplayarak hedef hakkında istihbarat çıkarmak",
     "yasakli_kelimeler": [
       "disassembler",
       "ghidra",
@@ -3334,7 +3334,7 @@
   {
     "kategori": "siber",
     "kelime": "arabellek taşması tetiklemek",
-    "aciklama": "bellek yığınına ayrılan boyuttan fazla veri yazıp dönüş adresini ele geçirmek",
+    "aciklama": "saldırı göstergelerini ve tehdit aktörlerini tehdit istihbaratıyla izlemek",
     "yasakli_kelimeler": [
       "buffer overflow",
       "yığın",
@@ -3348,7 +3348,7 @@
   {
     "kategori": "siber",
     "kelime": "apt grubu izlemek",
-    "aciklama": "devlet destekli gelişmiş kalıcı tehdit aktörlerinin siber casusluk operasyonlarını deşifre etmek",
+    "aciklama": "yazılım geliştirme sürecinin her adımına devsecops ile güvenlik entegre etmek",
     "yasakli_kelimeler": [
       "advanced persistent threat",
       "devlet destekli",
@@ -3362,7 +3362,7 @@
   {
     "kategori": "siber",
     "kelime": "siem korelasyonu kurmak",
-    "aciklama": "milyonlarca ağ logunu güvenlik bilgi ve olay yönetim yazılımında eşleştirip alarm üretmek",
+    "aciklama": "siber olay müdahalesi için playout senaryoları ve tatbikatlar hazırlamak",
     "yasakli_kelimeler": [
       "siem",
       "log korelasyonu",
@@ -3376,7 +3376,7 @@
   {
     "kategori": "siber",
     "kelime": "bal küpü kurmak",
-    "aciklama": "saldırganları kandırmak ve taktiklerini öğrenmek için kasten savunmasız sahte sunucu açmak",
+    "aciklama": "kullanıcıların oturum açma sürelerini sınırlandıran yetkilendirme tokenı yönetmek",
     "yasakli_kelimeler": [
       "honeypot",
       "sahte sunucu",
@@ -3390,7 +3390,7 @@
   {
     "kategori": "siber",
     "kelime": "kum havuzunda patlatmak",
-    "aciklama": "şüpheli virüsü izole sanal makinede çalıştırıp dosya ve ağ davranışını izlemek",
+    "aciklama": "kimlik ve erişim yönetimini tek noktadan merkezi olarak yönetmek",
     "yasakli_kelimeler": [
       "sandbox",
       "sanal makine",
@@ -3404,7 +3404,7 @@
   {
     "kategori": "siber",
     "kelime": "bellek adli bilişimi",
-    "aciklama": "bilgisayarın ram dökümünü volatility aracıyla tarayıp belleğe gizlenmiş zararlıyı bulmak",
+    "aciklama": "kişisel verilerin korunması için kvkk ve gdpr uyumluluğu sağlamak",
     "yasakli_kelimeler": [
       "volatility",
       "ram dökümü",
@@ -3418,7 +3418,7 @@
   {
     "kategori": "siber",
     "kelime": "dijital delil toplamak",
-    "aciklama": "suçlu bilgisayarının sabit diskinden write blocker ile adli kopyasını mühürleyip almak",
+    "aciklama": "hassas kurumsal verilerin dışarı sızmasını dlp çözümleriyle engellemek",
     "yasakli_kelimeler": [
       "adli kopya",
       "write blocker",
@@ -3432,7 +3432,7 @@
   {
     "kategori": "siber",
     "kelime": "fuzzing testi yapmak",
-    "aciklama": "yazılım girdisine otomatik olarak milyonlarca rastgele geçersiz veri basıp çökmeleri bulmak",
+    "aciklama": "uç nokta cihazlarında tehditleri tespit eden edr yazılımı konuşlandırmak",
     "yasakli_kelimeler": [
       "fuzzer",
       "rastgele girdi",
@@ -3446,7 +3446,7 @@
   {
     "kategori": "siber",
     "kelime": "asimetrik şifrelemek",
-    "aciklama": "rsa veya eliptik eğri ile açık anahtarla şifreleyip sadece gizli anahtarla çözmek",
+    "aciklama": "kurumsal ağ altyapısını mikro segmentasyon ile güvenli bölgelere ayırmak",
     "yasakli_kelimeler": [
       "rsa",
       "eliptik eğri",
@@ -3460,7 +3460,7 @@
   {
     "kategori": "siber",
     "kelime": "rop zinciri oluşturmak",
-    "aciklama": "dep/nx korumasını aşmak için bellekteki mevcut kod parçacıklarını uç uca eklemek",
+    "aciklama": "şifrelenmiş verileri kuantum sonrası kriptografi algoritmalarıyla geleceğe karşı korumak",
     "yasakli_kelimeler": [
       "return oriented",
       "gadget",
@@ -3474,7 +3474,7 @@
   {
     "kategori": "siber",
     "kelime": "kırmızı takım tatbikatı",
-    "aciklama": "şirketin güvenlik ekiplerine haber vermeden tam kapsamlı siber saldırı simülasyonu yürütmek",
+    "aciklama": "bulut bilişim ortamlarındaki verileri ve iş yüklerini güvenle korumak",
     "yasakli_kelimeler": [
       "kırmızı takım",
       "blue team",
@@ -3488,7 +3488,7 @@
   {
     "kategori": "siber",
     "kelime": "steganografi ile gizlemek",
-    "aciklama": "gizli casusluk metnini masum bir kedi fotoğrafının pikselleri arasına şifreleyip gömmek",
+    "aciklama": "kaynak kodları güvenlik açıkları ve zafiyetler için düzenli denetlemek",
     "yasakli_kelimeler": [
       "görsel içi gizleme",
       "steganografi",

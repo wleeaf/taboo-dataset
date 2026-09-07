@@ -3,7 +3,7 @@
     "id": 1,
     "kategori": "algoritmalar",
     "kelime": "özyineleme",
-    "aciklama": "bir fonksiyonun problemi daha küçük alt parçalara bölerek doğrudan veya dolaylı olarak kendini çağırması.",
+    "aciklama": "bir fonksiyonun doğrudan veya dolaylı olarak kendini çağırması.",
     "yasakli_kelimeler": [
       "fonksiyon",
       "kendini çağırma",
@@ -17,7 +17,7 @@
     "id": 2,
     "kategori": "algoritmalar",
     "kelime": "ikili arama",
-    "aciklama": "sıralı bir dizide hedef elemanı diziyi her adımda ortadan ikiye bölerek logaritmik sürede bulan algoritma.",
+    "aciklama": "sıralı dizide hedef elemanı yarıya bölerek bulan algoritma.",
     "yasakli_kelimeler": [
       "sıralı",
       "dizi",
@@ -31,7 +31,7 @@
     "id": 3,
     "kategori": "algoritmalar",
     "kelime": "hızlı sıralama",
-    "aciklama": "bir pivot eleman seçip diziyi pivottan küçük ve büyük olarak bölerek sıralayan böl ve yönet algoritması.",
+    "aciklama": "pivot eleman etrafında bölerek çalışan hızlı sıralama algoritması.",
     "yasakli_kelimeler": [
       "quicksort",
       "pivot",
@@ -45,7 +45,7 @@
     "id": 4,
     "kategori": "algoritmalar",
     "kelime": "birleştirmeli sıralama",
-    "aciklama": "diziyi tek eleman kalana kadar ikiye bölüp sonra sıralı şekilde birleştiren kararlı sıralama algoritması.",
+    "aciklama": "diziyi parçalara bölüp sıralı birleştiren kararlı sıralama yöntemi.",
     "yasakli_kelimeler": [
       "mergesort",
       "böl ve yönet",
@@ -59,7 +59,7 @@
     "id": 5,
     "kategori": "algoritmalar",
     "kelime": "kabarcık sıralaması",
-    "aciklama": "komşu elemanları sırayla karşılaştırıp büyük olanı sağa doğru kaydırarak sıralayan temel algoritma.",
+    "aciklama": "komşu elemanları karşılaştırıp yer değiştirerek sıralayan temel algoritma.",
     "yasakli_kelimeler": [
       "baloncuk",
       "bubblesort",
@@ -73,7 +73,7 @@
     "id": 6,
     "kategori": "algoritmalar",
     "kelime": "eklemeli sıralama",
-    "aciklama": "dizideki her bir elemanı sıralanmış alt dizideki doğru yerine kaydırarak yerleştiren yöntem.",
+    "aciklama": "elemanları sıralı alt diziye tek tek ekleyen algoritma.",
     "yasakli_kelimeler": [
       "insertionsort",
       "kart",
@@ -87,7 +87,7 @@
     "id": 7,
     "kategori": "algoritmalar",
     "kelime": "seçmeli sıralama",
-    "aciklama": "dizideki en küçük elemanı bulup dizinin başındaki elemanla yer değiştirerek ilerleyen sıralama.",
+    "aciklama": "en küçük elemanı bulup başa taşıyarak ilerleyen sıralama.",
     "yasakli_kelimeler": [
       "selectionsort",
       "en küçük",
@@ -101,7 +101,7 @@
     "id": 8,
     "kategori": "algoritmalar",
     "kelime": "yığın sıralaması",
-    "aciklama": "elemanları ikili tepe ağacı yapısına yerleştirip kökteki elemanı çıkararak çalışan sıralama algoritması.",
+    "aciklama": "ikili tepe ağacı yapısını kullanarak çalışan sıralama algoritması.",
     "yasakli_kelimeler": [
       "heapsort",
       "tepe",
@@ -115,7 +115,7 @@
     "id": 9,
     "kategori": "algoritmalar",
     "kelime": "zaman karmaşıklığı",
-    "aciklama": "bir algoritmanın girdi boyutu büyüdükçe ihtiyaç duyduğu işlem sayısının büyüme hızı.",
+    "aciklama": "girdi boyutu büyüdükçe işlem sayısının artış hızı.",
     "yasakli_kelimeler": [
       "büyük o",
       "çalışma süresi",
@@ -129,7 +129,7 @@
     "id": 10,
     "kategori": "algoritmalar",
     "kelime": "alan karmaşıklığı",
-    "aciklama": "bir algoritmanın çalışırken bellekte kapladığı azami geçici ve ek hafıza miktarı.",
+    "aciklama": "algoritmanın çalışırken bellekte kapladığı azami hafıza miktarı.",
     "yasakli_kelimeler": [
       "bellek",
       "hafıza",
@@ -143,7 +143,7 @@
     "id": 11,
     "kategori": "algoritmalar",
     "kelime": "büyük o gösterimi",
-    "aciklama": "algoritmaların asimptotik zaman ve bellek büyüme sınırını ifade eden matematiksel notasyon.",
+    "aciklama": "işlemin girdi boyutundan bağımsız sabit sürede tamamlanması.",
     "yasakli_kelimeler": [
       "notasyon",
       "asimptotik",
@@ -157,7 +157,7 @@
     "id": 12,
     "kategori": "algoritmalar",
     "kelime": "dinamik programlama",
-    "aciklama": "problemi çakışan alt problemlere bölüp ara sonuçları hafızaya kaydederek çözen optimizasyon yöntemi.",
+    "aciklama": "girdi iki katına çıktığında işlem süresinin doğrusal artması.",
     "yasakli_kelimeler": [
       "alt problem",
       "bellekleme",
@@ -171,7 +171,7 @@
     "id": 13,
     "kategori": "algoritmalar",
     "kelime": "açgözlü yaklaşım",
-    "aciklama": "her adımda geleceği düşünmeden o an için en kazançlı ve yerel olarak en iyi görünen seçimi yapma stratejisi.",
+    "aciklama": "girdi boyutu büyüdükçe karesel oranda artan süre.",
     "yasakli_kelimeler": [
       "greedy",
       "yerel en iyi",
@@ -185,7 +185,7 @@
     "id": 14,
     "kategori": "algoritmalar",
     "kelime": "böl ve yönet",
-    "aciklama": "büyük bir problemi bağımsız küçük parçalara ayırıp çözdükten sonra sonuçları birleştirme tekniği.",
+    "aciklama": "algoritmanın en kötü durumdaki azami karmaşıklık üst sınırı.",
     "yasakli_kelimeler": [
       "parçalama",
       "birleştirme",
@@ -199,7 +199,7 @@
     "id": 15,
     "kategori": "algoritmalar",
     "kelime": "geri izleme",
-    "aciklama": "çözüme giden yolları adım adım deneyip çıkmaza girildiğinde bir önceki adıma dönerek arama yapan teknik.",
+    "aciklama": "algoritmanın en iyi durumdaki asgari işlem süresi alt sınırı.",
     "yasakli_kelimeler": [
       "backtracking",
       "çıkmaz",
@@ -213,7 +213,7 @@
     "id": 16,
     "kategori": "algoritmalar",
     "kelime": "dal ve sınır",
-    "aciklama": "tüm çözüm uzayını ağaç şeklinde dallara ayırıp sınır değerleri aşan dalları budayarak gezen yöntem.",
+    "aciklama": "algoritmanın alt ve üst sınırlarının birbirine eşit olması.",
     "yasakli_kelimeler": [
       "branch and bound",
       "budama",
@@ -227,7 +227,7 @@
     "id": 17,
     "kategori": "algoritmalar",
     "kelime": "bellekleme",
-    "aciklama": "bir fonksiyonun pahalı hesaplama sonuçlarını önbelleğe alıp aynı parametreler gelince hafızadan döndürmesi.",
+    "aciklama": "çizgelerde en kısa yolu katman katman arayan yöntem.",
     "yasakli_kelimeler": [
       "memoization",
       "önbellek",
@@ -241,7 +241,7 @@
     "id": 18,
     "kategori": "algoritmalar",
     "kelime": "tablolama",
-    "aciklama": "dinamik programlamada alt problemleri en küçükten başlayarak dizi veya tabloda adım adım çözme yöntemi.",
+    "aciklama": "ağaç ve çizgelerde en derine kadar inen arama.",
     "yasakli_kelimeler": [
       "bottom up",
       "tablo",
@@ -255,7 +255,7 @@
     "id": 19,
     "kategori": "algoritmalar",
     "kelime": "dijkstra algoritması",
-    "aciklama": "ağırlıklı bir çizgede negatif kenar olmamak koşuluyla bir düğümden diğer tüm düğümlere en kısa yolu bulan yöntem.",
+    "aciklama": "ağırlıklı çizgelerde iki düğüm arasındaki en kısa yolu bulan algoritma.",
     "yasakli_kelimeler": [
       "en kısa yol",
       "çizge",
@@ -269,7 +269,7 @@
     "id": 20,
     "kategori": "algoritmalar",
     "kelime": "bellman-ford algoritması",
-    "aciklama": "negatif ağırlıklı kenarlar ve negatif döngüler içeren çizgelerde en kısa yolu hesaplayan algoritma.",
+    "aciklama": "sezgisel fonksiyon kullanarak en kısa yolu bulan akıllı arama.",
     "yasakli_kelimeler": [
       "negatif",
       "döngü",
@@ -283,7 +283,7 @@
     "id": 21,
     "kategori": "algoritmalar",
     "kelime": "floyd-warshall",
-    "aciklama": "yönlü ve ağırlıklı bir çizgedeki tüm düğüm çiftleri arasındaki en kısa mesafeleri hesaplayan algoritma.",
+    "aciklama": "tüm düğüm çiftleri arasındaki en kısa mesafeleri hesaplayan yöntem.",
     "yasakli_kelimeler": [
       "tüm çiftler",
       "matris",
@@ -297,7 +297,7 @@
     "id": 22,
     "kategori": "algoritmalar",
     "kelime": "a* algoritması",
-    "aciklama": "sezgisel tahmin fonksiyonu kullanarak başlangıçtan hedefe en kısa yolu hızla bulan akıllı arama yöntemi.",
+    "aciklama": "negatif kenar ağırlıklarını da destekleyen en kısa yol algoritması.",
     "yasakli_kelimeler": [
       "sezgisel",
       "heuristik",
@@ -311,7 +311,7 @@
     "id": 23,
     "kategori": "algoritmalar",
     "kelime": "genişlik öncelikli arama",
-    "aciklama": "çizge veya ağacı kökten başlayarak aynı derinlikteki tüm komşu düğümleri sırayla kuyruk kullanarak tarayan yöntem.",
+    "aciklama": "en küçük kapsayan ağacı kenarları küçükten büyüğe sıralayarak bulan yöntem.",
     "yasakli_kelimeler": [
       "bfs",
       "kuyruk",
@@ -325,7 +325,7 @@
     "id": 24,
     "kategori": "algoritmalar",
     "kelime": "derinlik öncelikli arama",
-    "aciklama": "çizgede bir kolda gidebildiği kadar derine inip sonra geri dönerek yığın yapısıyla tarama yapan yöntem.",
+    "aciklama": "en küçük kapsayan ağacı düğümleri sırayla genişleterek bulan algoritma.",
     "yasakli_kelimeler": [
       "dfs",
       "yığın",
@@ -339,7 +339,7 @@
     "id": 25,
     "kategori": "algoritmalar",
     "kelime": "kruskal algoritması",
-    "aciklama": "çizgedeki kenarları küçükten büyüğe sıralayıp döngü oluşturmadan en küçük kapsayan ağacı kuran algoritma.",
+    "aciklama": "dizilimleri eşleştirmek için kullanılan dinamik programlama algoritması.",
     "yasakli_kelimeler": [
       "minimum spanning tree",
       "kenar",
@@ -353,7 +353,7 @@
     "id": 26,
     "kategori": "algoritmalar",
     "kelime": "prim algoritması",
-    "aciklama": "başlangıç düğümünden itibaren çizgeye en yakın düğümü adım adım ekleyerek en küçük kapsayan ağacı oluşturan yöntem.",
+    "aciklama": "yerel dizi hizalama için kullanılan dinamik programlama yöntemi.",
     "yasakli_kelimeler": [
       "kapsayan ağaç",
       "düğüm",
@@ -367,7 +367,7 @@
     "id": 27,
     "kategori": "algoritmalar",
     "kelime": "topolojik sıralama",
-    "aciklama": "yönlü ve döngüsüz çizgelerde düğümleri öncelik ilişkilerine ve bağımlılıklarına göre doğrusal sıralama.",
+    "aciklama": "alt problemleri önbelleğe alarak çözen optimizasyon yöntemi.",
     "yasakli_kelimeler": [
       "dag",
       "bağımlılık",
@@ -381,7 +381,7 @@
     "id": 28,
     "kategori": "algoritmalar",
     "kelime": "tarjan algoritması",
-    "aciklama": "yönlü bir çizgedeki güçlü bağlı bileşenleri derinlik öncelikli arama ile doğrusal sürede bulan yöntem.",
+    "aciklama": "daha önce hesaplanan alt problem sonuçlarını tabloda saklama.",
     "yasakli_kelimeler": [
       "güçlü bağlı",
       "çizge",
@@ -395,7 +395,7 @@
     "id": 29,
     "kategori": "algoritmalar",
     "kelime": "kosaraju algoritması",
-    "aciklama": "çizgenin tersini alarak ve iki kez dfs çalıştırarak güçlü bağlı bileşenleri bulan klasik algoritma.",
+    "aciklama": "alt problemleri en küçükten başlayarak tabloya yazma tekniği.",
     "yasakli_kelimeler": [
       "çizge",
       "ters çevirme",
@@ -409,7 +409,7 @@
     "id": 30,
     "kategori": "algoritmalar",
     "kelime": "kmp algoritması",
-    "aciklama": "bir metin içinde belirli bir alt dizgiyi eşleşmeyen karakterleri geriye sarmadan arayan doğrusal algoritma.",
+    "aciklama": "her adımda anlık olarak en karlı görünen seçimi yapma.",
     "yasakli_kelimeler": [
       "metin arama",
       "dizgi",
@@ -423,7 +423,7 @@
     "id": 31,
     "kategori": "algoritmalar",
     "kelime": "rabin-karp algoritması",
-    "aciklama": "metin içinde kalıp ararken kayan özet değerlerini karşılaştırarak hız kazanan arama algoritması.",
+    "aciklama": "karakter sıklığına göre en uygun ikili kodlama algoritması.",
     "yasakli_kelimeler": [
       "özet",
       "hash",
@@ -437,7 +437,7 @@
     "id": 32,
     "kategori": "algoritmalar",
     "kelime": "boyer-moore algoritması",
-    "aciklama": "aranan kalıbı sağdan sola doğru inceleyip kötü karakter kuralıyla büyük sıçramalar yapan metin arama yöntemi.",
+    "aciklama": "metin içinde kalıp arayan doğrusal zamanlı string algoritması.",
     "yasakli_kelimeler": [
       "metin",
       "sıçrama",
@@ -451,7 +451,7 @@
     "id": 33,
     "kategori": "algoritmalar",
     "kelime": "önek ağacı",
-    "aciklama": "kelimeleri ve karakter dizilerini ortak öneklerine göre kökten yaprağa dallanan ağaçta saklayan veri yapısı.",
+    "aciklama": "kaydırma tablosu kullanarak metinde hızlı kalıp arayan algoritma.",
     "yasakli_kelimeler": [
       "trie",
       "kelime",
@@ -465,7 +465,7 @@
     "id": 34,
     "kategori": "algoritmalar",
     "kelime": "huffman kodlaması",
-    "aciklama": "karakterlerin kullanım sıklığına göre değişken uzunluklu ikili kodlar üreten kayıpsız veri sıkıştırma yöntemi.",
+    "aciklama": "karma fonksiyonu kullanarak metinde desen arayan arama yöntemi.",
     "yasakli_kelimeler": [
       "sıkıştırma",
       "ikili ağaç",
@@ -479,7 +479,7 @@
     "id": 35,
     "kategori": "algoritmalar",
     "kelime": "lzw sıkıştırma",
-    "aciklama": "metindeki tekrarlanan karakter öbeklerini dinamik bir sözlük oluşturarak kodlayan kayıpsız sıkıştırma yöntemi.",
+    "aciklama": "metinleri sabit boyutlu özet değere dönüştüren tek yönlü fonksiyon.",
     "yasakli_kelimeler": [
       "sözlük",
       "sıkıştırma",
@@ -493,7 +493,7 @@
     "id": 36,
     "kategori": "algoritmalar",
     "kelime": "hash tablosu",
-    "aciklama": "anahtar-değer çiftlerini matematiksel bir fonksiyon aracılığıyla indeksleyip sabit zamanda erişim sağlayan yapı.",
+    "aciklama": "anahtar-değer çiftlerini hızlı saklayan ve arayan dinamik veri yapısı.",
     "yasakli_kelimeler": [
       "anahtar",
       "değer",
@@ -507,7 +507,7 @@
     "id": 37,
     "kategori": "algoritmalar",
     "kelime": "çakışma çözümü",
-    "aciklama": "özet tablosunda aynı indekse denk gelen farklı anahtarları zincirleme veya açık adreslemeyle yönetme tekniği.",
+    "aciklama": "farklı iki anahtarın aynı indeks değerini üretmesi durumu.",
     "yasakli_kelimeler": [
       "hash",
       "çakışma",
@@ -521,7 +521,7 @@
     "id": 38,
     "kategori": "algoritmalar",
     "kelime": "zincirleme yöntemi",
-    "aciklama": "özet tablosundaki her indekste çakışan elemanları birbirine bağlı liste şeklinde saklama tekniği.",
+    "aciklama": "çakışmaları çözmek için bağlı liste kullanan açık adresleme yöntemi.",
     "yasakli_kelimeler": [
       "bağlı liste",
       "hash",
@@ -535,7 +535,7 @@
     "id": 39,
     "kategori": "algoritmalar",
     "kelime": "açık adresleme",
-    "aciklama": "özet tablosunda çakışma olduğunda dizi içinde boş bir hücre bulana kadar arama yapan yöntem.",
+    "aciklama": "çakışan elemanları tabloda sıradaki boş yere yerleştirme yöntemi.",
     "yasakli_kelimeler": [
       "hash",
       "doğrusal yoklama",
@@ -549,7 +549,7 @@
     "id": 40,
     "kategori": "algoritmalar",
     "kelime": "bloom filtresi",
-    "aciklama": "bir elemanın bir kümede kesinlikle olmadığını veya belki olduğunu söyleyen olasılıksal veri yapısı.",
+    "aciklama": "çakışan anahtarları karesel adımlarla ilerleterek yerleştirme yöntemi.",
     "yasakli_kelimeler": [
       "küme",
       "olasılık",
@@ -563,7 +563,7 @@
     "id": 41,
     "kategori": "algoritmalar",
     "kelime": "ortak alt dizi",
-    "aciklama": "verilen diziler arasında sırası bozulmadan ortak olarak bulunan en büyük eleman grubunu dinamik programlamayla bulma problemi.",
+    "aciklama": "çakışmada ikinci bir karma fonksiyonu kullanarak arama yapma.",
     "yasakli_kelimeler": [
       "lcs",
       "dinamik programlama",
@@ -577,7 +577,7 @@
     "id": 42,
     "kategori": "algoritmalar",
     "kelime": "levenshtein mesafesi",
-    "aciklama": "bir kelimeyi diğerine dönüştürmek için gereken en az ekleme, silme ve değiştirme işlem sayısı.",
+    "aciklama": "elemanların son giren ilk çıkar mantığıyla çalıştığı veri yapısı.",
     "yasakli_kelimeler": [
       "düzenleme",
       "mesafe",
@@ -591,7 +591,7 @@
     "id": 43,
     "kategori": "algoritmalar",
     "kelime": "sırt çantası problemi",
-    "aciklama": "belirli bir kapasiteyi aşmadan çantaya en yüksek toplam değeri getirecek eşyaları seçme problemi.",
+    "aciklama": "elemanların ilk giren ilk çıkar kuralıyla işlendiği veri yapısı.",
     "yasakli_kelimeler": [
       "knapsack",
       "kapasite",
@@ -605,7 +605,7 @@
     "id": 44,
     "kategori": "algoritmalar",
     "kelime": "gezgin satıcı problemi",
-    "aciklama": "verilen tüm şehirleri tam bir kez ziyaret edip başlangıç noktasına dönen en kısa turu bulma problemi.",
+    "aciklama": "elemanların öncelik sırasına göre işlem gördüğü kuyruk yapısı.",
     "yasakli_kelimeler": [
       "tsp",
       "tur",
@@ -619,7 +619,7 @@
     "id": 45,
     "kategori": "algoritmalar",
     "kelime": "n-vezir problemi",
-    "aciklama": "bir satranç tahtasına hiçbir vezir birbirini tehdit etmeyecek şekilde vezirleri yerleştirme bulmacası.",
+    "aciklama": "düğümlerin işaretçilerle birbirine bağlandığı dinamik doğrusal veri yapısı.",
     "yasakli_kelimeler": [
       "satranç",
       "vezir",
@@ -633,7 +633,7 @@
     "id": 46,
     "kategori": "algoritmalar",
     "kelime": "graf renklendirme",
-    "aciklama": "bir çizgenin komşu düğümlerine farklı renkler vererek en az sayıda renkle boyama problemi.",
+    "aciklama": "her düğümün hem ileri hem geri işaretçisi olan bağlı liste.",
     "yasakli_kelimeler": [
       "çizge",
       "renk",
@@ -647,7 +647,7 @@
     "id": 47,
     "kategori": "algoritmalar",
     "kelime": "en büyük akış",
-    "aciklama": "kapasiteleri sınırlı borulardan oluşan bir ağda kaynaktan hedefe pompalanabilecek azami akış miktarı.",
+    "aciklama": "son düğümü ilk düğüme bağlanan kapalı döngülü liste yapısı.",
     "yasakli_kelimeler": [
       "akış",
       "ford-fulkerson",
@@ -661,7 +661,7 @@
     "id": 48,
     "kategori": "algoritmalar",
     "kelime": "ford-fulkerson",
-    "aciklama": "artırıcı yollar bularak bir akış ağındaki maksimum akışı hesaplayan klasik algoritma.",
+    "aciklama": "her düğümün en fazla iki çocuk düğüme sahip olduğu ağaç.",
     "yasakli_kelimeler": [
       "maksimum akış",
       "artırıcı yol",
@@ -675,7 +675,7 @@
     "id": 49,
     "kategori": "algoritmalar",
     "kelime": "edmonds-karp",
-    "aciklama": "ford-fulkerson yöntemini en kısa artırıcı yolları bfs ile seçerek polinom zamanda çalıştıran algoritma.",
+    "aciklama": "sol tarafı küçük sağ tarafı büyük olan ikili arama ağacı.",
     "yasakli_kelimeler": [
       "bfs",
       "akış",
@@ -689,7 +689,7 @@
     "id": 50,
     "kategori": "algoritmalar",
     "kelime": "iki parçalı çizge",
-    "aciklama": "düğümleri komşu olmayan iki bağımsız kümeye ayrılabilen ve kenarları sadece kümeler arasında olan çizge.",
+    "aciklama": "yükseklik dengesini otomatik koruyan dengeli ikili arama ağacı.",
     "yasakli_kelimeler": [
       "bipartite",
       "küme",
@@ -703,7 +703,7 @@
     "id": 51,
     "kategori": "algoritmalar",
     "kelime": "ikili ağaç",
-    "aciklama": "her bir düğümün en fazla sol ve sağ olmak üzere iki çocuk düğüme sahip olabildiği hiyerarşik yapı.",
+    "aciklama": "düğümleri kırmızı ve siyah renklerle dengelenen ikili arama ağacı.",
     "yasakli_kelimeler": [
       "kök",
       "yaprak",
@@ -717,7 +717,7 @@
     "id": 52,
     "kategori": "algoritmalar",
     "kelime": "ikili arama ağacı",
-    "aciklama": "her düğümün solundaki tüm elemanların kendisinden küçük, sağındakilerin büyük olduğu ağaç yapısı.",
+    "aciklama": "veritabanlarında ve diskte blok erişimini optimize eden çoklu ağaç.",
     "yasakli_kelimeler": [
       "bst",
       "ağaç",
@@ -731,7 +731,7 @@
     "id": 53,
     "kategori": "algoritmalar",
     "kelime": "avl ağacı",
-    "aciklama": "her düğümün sol ve sağ alt ağaçlarının yükseklik farkı en fazla bir olan kendi kendini dengeleyen ikili ağaç.",
+    "aciklama": "tüm yaprakları zincirleme bağlı olan disk odaklı b ağacı türü.",
     "yasakli_kelimeler": [
       "denge",
       "yükseklik",
@@ -745,7 +745,7 @@
     "id": 54,
     "kategori": "algoritmalar",
     "kelime": "kırmızı-siyah ağaç",
-    "aciklama": "düğümleri renk kurallarıyla boyanarak dengeli kalan ve ekleme silmede logaritmik zaman veren arama ağacı.",
+    "aciklama": "kelimeleri ve karakter dizilerini hızlı aramak için kullanılan önek ağacı.",
     "yasakli_kelimeler": [
       "renk",
       "denge",
@@ -759,7 +759,7 @@
     "id": 55,
     "kategori": "algoritmalar",
     "kelime": "b-ağacı",
-    "aciklama": "özellikle veritabanlarında ve dosya sistemlerinde blok erişimini optimize eden çok dallı dengeli arama ağacı.",
+    "aciklama": "aralık ve dizi toplamı sorgularını logaritmik sürede çözen ağaç.",
     "yasakli_kelimeler": [
       "veritabanı",
       "disk",
@@ -773,7 +773,7 @@
     "id": 56,
     "kategori": "algoritmalar",
     "kelime": "b+ ağacı",
-    "aciklama": "verilerin sadece yaprak düğümlerde saklandığı ve yaprakların birbirine bağlı olduğu b-ağacı türevi.",
+    "aciklama": "dizi üzerinde aralık sorgularını verimli çözen ikili indeksli ağaç.",
     "yasakli_kelimeler": [
       "yaprak",
       "aralık sorgusu",
@@ -787,7 +787,7 @@
     "id": 57,
     "kategori": "algoritmalar",
     "kelime": "splay ağacı",
-    "aciklama": "en son erişilen elemanı ağacın köküne taşıyan ve sık kullanılanlara hızlı erişim sağlayan kendini ayarlayan ağaç.",
+    "aciklama": "dizideki en küçük eleman sorgularını çözen veri yapısı.",
     "yasakli_kelimeler": [
       "splaying",
       "kök",
@@ -801,7 +801,7 @@
     "id": 58,
     "kategori": "algoritmalar",
     "kelime": "treap",
-    "aciklama": "ikili arama ağacı özelliği ile tepe yapısı önceliğini rastgele anahtarlarla birleştiren veri yapısı.",
+    "aciklama": "düğümler ve aralarındaki kenarlardan oluşan matematiksel ağ yapısı.",
     "yasakli_kelimeler": [
       "ağaç",
       "yığın",
@@ -815,7 +815,7 @@
     "id": 59,
     "kategori": "algoritmalar",
     "kelime": "fenwick ağacı",
-    "aciklama": "bir sayı dizisinin belirli aralıklardaki toplamlarını ve güncellemelerini logaritmik sürede hesaplayan ağaç.",
+    "aciklama": "kenarların belirli bir başlangıç ve bitiş yönü olan çizge.",
     "yasakli_kelimeler": [
       "ikili indeksli ağaç",
       "aralık toplamı",
@@ -829,7 +829,7 @@
     "id": 60,
     "kategori": "algoritmalar",
     "kelime": "kesit ağacı",
-    "aciklama": "dizi üzerindeki aralık sorgularını ve aralık güncellemelerini logaritmik zamanda yanıtlayan ikili ağaç yapısı.",
+    "aciklama": "kenarlarında yön kavramı bulunmayan çift taraflı çizge yapısı.",
     "yasakli_kelimeler": [
       "segment tree",
       "aralık",
@@ -843,7 +843,7 @@
     "id": 61,
     "kategori": "algoritmalar",
     "kelime": "ayrık küme yapısı",
-    "aciklama": "elemanların hangi kümeye ait olduğunu bulan ve iki kümeyi birleştiren verimli veri yapısı.",
+    "aciklama": "kenarlarına maliyet veya ağırlık değerleri atanmış çizge modeli.",
     "yasakli_kelimeler": [
       "union find",
       "küme",
@@ -857,7 +857,7 @@
     "id": 62,
     "kategori": "algoritmalar",
     "kelime": "yol sıkıştırma",
-    "aciklama": "ayrık küme yapısında arama işlemi yapılırken tüm düğümleri doğrudan köke bağlayarak hızı artıran teknik.",
+    "aciklama": "düğümler arasındaki bağlantıları ikili matrisle gösteren temsil biçimi.",
     "yasakli_kelimeler": [
       "kök",
       "union find",
@@ -871,7 +871,7 @@
     "id": 63,
     "kategori": "algoritmalar",
     "kelime": "min-max tepe",
-    "aciklama": "çift seviyelerde minimum, tek seviyelerde maksimum elemanları tutan ve her iki uca hızlı erişim sağlayan tepe.",
+    "aciklama": "her düğüme bağlı komşuların listesini tutan bellek dostu temsil.",
     "yasakli_kelimeler": [
       "heap",
       "uç değer",
@@ -885,7 +885,7 @@
     "id": 64,
     "kategori": "algoritmalar",
     "kelime": "fibonacci yığını",
-    "aciklama": "birleştirme ve anahtar azaltma işlemlerini amorti edilmiş sabit zamanda yapan gelişmiş öncelikli kuyruk.",
+    "aciklama": "düğümleri birbirini kesmeyen iki bağımsız kümeye ayrılabilen çizge.",
     "yasakli_kelimeler": [
       "heap",
       "öncelik",
@@ -899,7 +899,7 @@
     "id": 65,
     "kategori": "algoritmalar",
     "kelime": "sayarak sıralama",
-    "aciklama": "elemanların dizide kaçar kez geçtiğini bir sayaç dizisinde tutarak karşılaştırma yapmadan çalışan sıralama.",
+    "aciklama": "her düğümün diğer tüm düğümlere doğrudan bağlı olduğu çizge.",
     "yasakli_kelimeler": [
       "countingsort",
       "sayaç",
@@ -913,7 +913,7 @@
     "id": 66,
     "kategori": "algoritmalar",
     "kelime": "taban sıralaması",
-    "aciklama": "sayıları basamak basamak en anlamsız basamaktan en anlamlıya doğru kararlı sıralayan algoritma.",
+    "aciklama": "çizgede döngü oluşturmadan tüm düğümleri bağlayan ağaç alt kümesi.",
     "yasakli_kelimeler": [
       "radixsort",
       "basamak",
@@ -927,7 +927,7 @@
     "id": 67,
     "kategori": "algoritmalar",
     "kelime": "kova sıralaması",
-    "aciklama": "verileri belirli aralıklardaki kovalara bölüp her kovayı ayrı ayrı sıralayan dağıtım tabanlı algoritma.",
+    "aciklama": "kapalı yönlü döngüsü bulunmayan hiyerarşik yönlü çizge yapısı.",
     "yasakli_kelimeler": [
       "bucketsort",
       "kova",
@@ -941,7 +941,7 @@
     "id": 68,
     "kategori": "algoritmalar",
     "kelime": "kabuk sıralaması",
-    "aciklama": "birbirinden belirli bir adım aralığı kadar uzakta olan elemanları takas ederek çalışan eklemeli sıralama türevi.",
+    "aciklama": "yönlü döngüsüz çizgelerdeki düğümleri bağımlılık sırasına dizme işlemi.",
     "yasakli_kelimeler": [
       "shellsort",
       "adım",
@@ -955,7 +955,7 @@
     "id": 69,
     "kategori": "algoritmalar",
     "kelime": "uyarlamalı sıralama",
-    "aciklama": "girdi verisindeki mevcut sıralılık derecesinden faydalanarak daha az işlemle tamamlanan sıralama türü.",
+    "aciklama": "çizgede her kenardan tam bir kez geçen kapalı döngü rotası.",
     "yasakli_kelimeler": [
       "timsort",
       "sıralılık",
@@ -969,7 +969,7 @@
     "id": 70,
     "kategori": "algoritmalar",
     "kelime": "timsort",
-    "aciklama": "birleştirmeli ve eklemeli sıralamayı harmanlayan, python ve java'da varsayılan olarak kullanılan hibrit algoritma.",
+    "aciklama": "çizgedeki her düğümü tam bir kez ziyaret eden kapalı yol.",
     "yasakli_kelimeler": [
       "hibrit",
       "python",
@@ -983,7 +983,7 @@
     "id": 71,
     "kategori": "algoritmalar",
     "kelime": "öklid algoritması",
-    "aciklama": "iki tamsayının en büyük ortak bölenini ardışık kalan bulma bölmeleriyle hızla hesaplayan antik yöntem.",
+    "aciklama": "tüm şehirleri gezip en kısa yoldan dönmeyi amaçlayan problem.",
     "yasakli_kelimeler": [
       "ebob",
       "bölme",
@@ -997,7 +997,7 @@
     "id": 72,
     "kategori": "algoritmalar",
     "kelime": "genişletilmiş öklid",
-    "aciklama": "iki sayının ebob'unu bulurken aynı zamanda bezout katsayılarını ve modüler tersini de hesaplayan yöntem.",
+    "aciklama": "kapasite sınırını aşmadan çantaya en değerli eşyaları koyma problemi.",
     "yasakli_kelimeler": [
       "ebob",
       "katsayı",
@@ -1011,7 +1011,7 @@
     "id": 73,
     "kategori": "algoritmalar",
     "kelime": "eratosten kalburu",
-    "aciklama": "belirli bir sayıya kadar olan tüm asal sayıları katlarını eleyerek bulan antik ve hızlı yöntem.",
+    "aciklama": "belirli bir para üstünü en az madeni parayla verme problemi.",
     "yasakli_kelimeler": [
       "asal",
       "eleme",
@@ -1025,7 +1025,7 @@
     "id": 74,
     "kategori": "algoritmalar",
     "kelime": "hızlı üs alma",
-    "aciklama": "bir sayının büyük kuvvetini üssü ikinin kuvvetleri şeklinde parçalayarak logaritmik adımda hesaplama yöntemi.",
+    "aciklama": "farklı zamanlı aktiviteler arasından çakışmayan en çok etkinliği seçme.",
     "yasakli_kelimeler": [
       "üs",
       "kuvvet",
@@ -1039,7 +1039,7 @@
     "id": 75,
     "kategori": "algoritmalar",
     "kelime": "miller-rabin testi",
-    "aciklama": "büyük bir sayının asal olup olmadığını son derece yüksek olasılıkla belirleyen olasılıksal asallık testi.",
+    "aciklama": "iki metin arasındaki en uzun ortak karakter dizilimini bulma problemi.",
     "yasakli_kelimeler": [
       "asal",
       "olasılık",
@@ -1053,7 +1053,7 @@
     "id": 76,
     "kategori": "algoritmalar",
     "kelime": "karatsuba çarpımı",
-    "aciklama": "iki büyük sayıyı klasik çarpmanın gerektirdiği dört alt çarpma yerine üç çarpmayla hesaplayan algoritma.",
+    "aciklama": "iki dizide de kesintisiz yer alan en uzun alt dizi.",
     "yasakli_kelimeler": [
       "çarpma",
       "büyük sayı",
@@ -1067,7 +1067,7 @@
     "id": 77,
     "kategori": "algoritmalar",
     "kelime": "hızlı fourier dönüşümü",
-    "aciklama": "ayrık bir sinyali veya polinom çarpımını n-kare yerine n-log-n sürede frekans ortamına taşıyan algoritma.",
+    "aciklama": "bir dizideki değerlerin sürekli arttığı en uzun alt dizi problemi.",
     "yasakli_kelimeler": [
       "fft",
       "frekans",
@@ -1081,7 +1081,7 @@
     "id": 78,
     "kategori": "algoritmalar",
     "kelime": "strassen algoritması",
-    "aciklama": "iki matrisin çarpımını sekiz yerine yedi alt matris çarpımıyla gerçekleştiren böl ve yönet yöntemi.",
+    "aciklama": "bir kelimeyi diğerine dönüştürmek için gereken asgari harf değişimi.",
     "yasakli_kelimeler": [
       "matris",
       "çarpım",
@@ -1095,7 +1095,7 @@
     "id": 79,
     "kategori": "algoritmalar",
     "kelime": "monte carlo algoritması",
-    "aciklama": "rastgele sayılar kullanarak çalışan, cevabın kesinliğini değil doğruluğunu yüksek olasılıkla sunan yöntem.",
+    "aciklama": "çizgede kaynaktan hedefe iletilebilecek en yüksek akış miktarı.",
     "yasakli_kelimeler": [
       "rastgele",
       "olasılık",
@@ -1109,7 +1109,7 @@
     "id": 80,
     "kategori": "algoritmalar",
     "kelime": "las vegas algoritması",
-    "aciklama": "çalışma süresi rastgele olmakla birlikte her zaman kesinlikle doğru sonucu üreten algoritmik yaklaşım.",
+    "aciklama": "çizgede azami akışı artırıcı yollar bularak hesaplayan klasik algoritma.",
     "yasakli_kelimeler": [
       "rastgele",
       "kesin",
@@ -1123,7 +1123,7 @@
     "id": 81,
     "kategori": "algoritmalar",
     "kelime": "simüle tavlama",
-    "aciklama": "metalurjideki tavlama sürecinden esinlenerek yerel optimum tuzaklarından kaçıp küresel optimumu arayan teknik.",
+    "aciklama": "en geniş yolu genişlik öncelikli aramayla bulan akış algoritması.",
     "yasakli_kelimeler": [
       "tavlama",
       "optimizasyon",
@@ -1137,7 +1137,7 @@
     "id": 82,
     "kategori": "algoritmalar",
     "kelime": "genetik algoritma",
-    "aciklama": "biyolojik evrim, doğal seçilim, çaprazlama ve mutasyon mekanizmalarını taklit eden optimizasyon yöntemi.",
+    "aciklama": "çizgedeki azami akış miktarının asgari kesit kapasitesine eşit olması.",
     "yasakli_kelimeler": [
       "evrim",
       "kromozom",
@@ -1151,7 +1151,7 @@
     "id": 83,
     "kategori": "algoritmalar",
     "kelime": "parçacık sürü optimizasyonu",
-    "aciklama": "kuş veya balık sürülerinin kolektif hareket ve sosyal bilgi paylaşımını modelleyen optimizasyon yöntemi.",
+    "aciklama": "çizgelerde düğümleri ayıran en küçük ağırlıklı kenar kümesi problemi.",
     "yasakli_kelimeler": [
       "sürü",
       "parçacık",
@@ -1165,7 +1165,7 @@
     "id": 84,
     "kategori": "algoritmalar",
     "kelime": "karınca kolonisi",
-    "aciklama": "karıncaların yiyecek ararken yere bıraktığı feromon izlerini taklit ederek en kısa yolu bulan algoritma.",
+    "aciklama": "iki parçalı çizgelerde en çok sayıda kenar eşleştirmesi bulma.",
     "yasakli_kelimeler": [
       "karınca",
       "feromon",
@@ -1179,7 +1179,7 @@
     "id": 85,
     "kategori": "algoritmalar",
     "kelime": "gradient descent",
-    "aciklama": "bir kayıp fonksiyonunun eğiminin tersi yönünde adım atarak fonksiyonu minimuma indiren optimizasyon yöntemi.",
+    "aciklama": "evlilik ve tercih listelerinde kararlı ve adil eşleştirme algoritması.",
     "yasakli_kelimeler": [
       "gradyan",
       "türev",
@@ -1193,7 +1193,7 @@
     "id": 86,
     "kategori": "algoritmalar",
     "kelime": "stokastik gradyan inişi",
-    "aciklama": "gradyan inişinde her adımda tüm veri yerine rastgele seçilen tek bir örnekle parametreleri güncelleyen yöntem.",
+    "aciklama": "olasılıksal olarak bir elemanın kümede olup olmadığını kontrol eden filtre.",
     "yasakli_kelimeler": [
       "sgd",
       "örnek",
@@ -1207,7 +1207,7 @@
     "id": 87,
     "kategori": "algoritmalar",
     "kelime": "k-en yakın komşu",
-    "aciklama": "yeni bir veri noktasını öklid mesafesine göre en yakınındaki k adet örneğin çoğunluğuna göre sınıflandıran yöntem.",
+    "aciklama": "farklı eleman sayısını sabit bellekle yaklaşık tahmin eden olasılıksal algoritma.",
     "yasakli_kelimeler": [
       "knn",
       "mesafe",
@@ -1221,7 +1221,7 @@
     "id": 88,
     "kategori": "algoritmalar",
     "kelime": "k-ortalama kümeleme",
-    "aciklama": "verileri merkez noktalarına olan uzaklıklarına göre k adet kümeye ayıran gözetimsiz öğrenme algoritması.",
+    "aciklama": "veri akışlarındaki eleman frekanslarını yaklaşık sayan kompakt olasılıksal matris.",
     "yasakli_kelimeler": [
       "kmeans",
       "kümeleme",
@@ -1235,7 +1235,7 @@
     "id": 89,
     "kategori": "algoritmalar",
     "kelime": "karar ağacı",
-    "aciklama": "veriyi özniteliklerine göre sorulan evet-hayır sorularıyla yapraklara doğru dallandıran sınıflandırma modeli.",
+    "aciklama": "rastgele katmanlarla logaritmik arama sağlayan bağlı liste yapısı.",
     "yasakli_kelimeler": [
       "ağaç",
       "kök",
@@ -1249,7 +1249,7 @@
     "id": 90,
     "kategori": "algoritmalar",
     "kelime": "rastgele orman",
-    "aciklama": "birden çok bağımsız karar ağacının oylarını birleştirerek tahmin doğruluğunu artıran topluluk yöntemi.",
+    "aciklama": "rastgele sayılar kullanarak deterministik olmayan yöntemlerle çalışan algoritma.",
     "yasakli_kelimeler": [
       "random forest",
       "karar ağacı",
@@ -1263,7 +1263,7 @@
     "id": 91,
     "kategori": "algoritmalar",
     "kelime": "pagerank",
-    "aciklama": "web sayfalarının önemini kendisine bağlanan diğer sayfaların bağlantı sayısına ve ağırlığına göre hesaplayan algoritma.",
+    "aciklama": "her zaman kesin doğru sonuç veren rastgele çalışma süreli algoritma.",
     "yasakli_kelimeler": [
       "google",
       "web",
@@ -1277,7 +1277,7 @@
     "id": 92,
     "kategori": "algoritmalar",
     "kelime": "minimax",
-    "aciklama": "sıra tabanlı iki oyunculu oyunlarda oyuncunun kendi kazancını maksimum, rakibin kazancını minimum yapma stratejisi.",
+    "aciklama": "hızlı çalışan ancak küçük hata payı olan rastgele yöntem.",
     "yasakli_kelimeler": [
       "oyun",
       "satranç",
@@ -1291,7 +1291,7 @@
     "id": 93,
     "kategori": "algoritmalar",
     "kelime": "alfa-beta budama",
-    "aciklama": "minimax ağacında sonucu değiştirmeyeceği kesinleşen dalları aramadan çıkararak hız kazandıran budama yöntemi.",
+    "aciklama": "aralık toplamı sorgularını hızlı yanıtlamak için kullanılan kümülatif dizi.",
     "yasakli_kelimeler": [
       "budama",
       "minimax",
@@ -1305,7 +1305,7 @@
     "id": 94,
     "kategori": "algoritmalar",
     "kelime": "kayan pencere",
-    "aciklama": "bir dizi veya dizgi üzerinde sabit veya değişken boyutlu bir çerçeveyi kaydırarak alt dizi problemlerini çözen teknik.",
+    "aciklama": "dizide sol ve sağ sınırları kaydırarak alt dizi problemlerini çözme.",
     "yasakli_kelimeler": [
       "sliding window",
       "çerçeve",
@@ -1319,7 +1319,7 @@
     "id": 95,
     "kategori": "algoritmalar",
     "kelime": "iki işaretçi tekniği",
-    "aciklama": "bir dizide iki farklı indeksi baştan, sondan veya aynı yönde hareket ettirerek çiftleri arama tekniği.",
+    "aciklama": "birbirine zıt iki indeksi hareket ettirerek problem çözme tekniği.",
     "yasakli_kelimeler": [
       "two pointers",
       "indeks",
@@ -1333,7 +1333,7 @@
     "id": 96,
     "kategori": "algoritmalar",
     "kelime": "kaplumbağa ve tavşan",
-    "aciklama": "bağlı listelerde döngü olup olmadığını bulmak için biri bir adım diğeri iki adım ilerleyen iki işaretçi tekniği.",
+    "aciklama": "çemberde adım adım ilerleyerek silinen son kişiyi bulma problemi.",
     "yasakli_kelimeler": [
       "floyd",
       "döngü tespiti",
@@ -1347,7 +1347,7 @@
     "id": 97,
     "kategori": "algoritmalar",
     "kelime": "amorti edilmiş analiz",
-    "aciklama": "bir algoritmanın en kötü durumdaki pahalı işlemlerinin ortalama maliyetini adım başına düşürerek hesaplama.",
+    "aciklama": "bağlı listelerde döngü varlığını iki farklı hızlı işaretçiyle tespit etme.",
     "yasakli_kelimeler": [
       "maliyet",
       "ortalama",
@@ -1361,7 +1361,7 @@
     "id": 98,
     "kategori": "algoritmalar",
     "kelime": "en yakın ata",
-    "aciklama": "bir ağaç veya hiyerarşik veri yapısında iki düğümün her ikisinin de soyundan geldiği en derin düğüm.",
+    "aciklama": "bir dizide çoğunlukta olan yarıdan fazla elemanı doğrusal zamanda bulma.",
     "yasakli_kelimeler": [
       "lca",
       "ağaç",
@@ -1375,7 +1375,7 @@
     "id": 99,
     "kategori": "algoritmalar",
     "kelime": "döngü algılama",
-    "aciklama": "bir çizgede veya veri yapısında bir düğümden başlayıp aynı düğüme dönen kapalı yolun tespiti.",
+    "aciklama": "dizide toplamı en büyük olan bitişik alt diziyi bulma.",
     "yasakli_kelimeler": [
       "çevrim",
       "bağlantı",
@@ -1389,7 +1389,7 @@
     "id": 100,
     "kategori": "algoritmalar",
     "kelime": "kararlı eşleme algoritması",
-    "aciklama": "tercih listelerine göre iki taraf arasında hiçbirinin mevcut eşini bırakıp diğerine gitmek istemeyeceği eşleşme.",
+    "aciklama": "belirli bir aralıktaki tüm asal sayıları eleyerek bulan antik yöntem.",
     "yasakli_kelimeler": [
       "gale-shapley",
       "evlilik",
@@ -1403,7 +1403,7 @@
     "id": 101,
     "kategori": "algoritmalar",
     "kelime": "doğrusal arama",
-    "aciklama": "bir veri kümesindeki elemanları ilk baştan sonuna kadar sırayla inceleyerek aranan değeri bulan yöntem.",
+    "aciklama": "büyük sayıların asallığını olasılıksal olarak son derece hızlı sınayan algoritma.",
     "yasakli_kelimeler": [
       "arama",
       "liste",
@@ -1417,7 +1417,7 @@
     "id": 102,
     "kategori": "algoritmalar",
     "kelime": "üçlü arama",
-    "aciklama": "sıralı bir diziyi üç parçaya bölerek hedef elemanın hangi aralıkta olduğunu belirleyen arama yöntemi.",
+    "aciklama": "iki sayının en büyük ortak bölenini bölme kalanlarıyla bulan algoritma.",
     "yasakli_kelimeler": [
       "arama",
       "üç",
@@ -1431,7 +1431,7 @@
     "id": 103,
     "kategori": "algoritmalar",
     "kelime": "atlama araması",
-    "aciklama": "sıralı bir listede sabit adımlarla ileriye atlayarak aranan değerin bulunduğu bloğu tespit eden algoritma.",
+    "aciklama": "en büyük ortak bölen ile doğrusal katsayıları hesaplayan genişletilmiş algoritma.",
     "yasakli_kelimeler": [
       "blok",
       "adım",
@@ -1445,7 +1445,7 @@
     "id": 104,
     "kategori": "algoritmalar",
     "kelime": "enterpolasyon araması",
-    "aciklama": "düzgün dağılmış sıralı dizilerde aranan elemanın konumunu değer tahmin formülüyle bulan algoritma.",
+    "aciklama": "büyük sayıların modüler üslerini kare alarak logaritmik sürede hesaplama.",
     "yasakli_kelimeler": [
       "tahmin",
       "dağılım",
@@ -1459,7 +1459,7 @@
     "id": 105,
     "kategori": "algoritmalar",
     "kelime": "üstel arama",
-    "aciklama": "aralık sınırlarını iki katına çıkararak ilerleyip ardından bulunan aralıkta ikili arama yapan yöntem.",
+    "aciklama": "farklı modüler denkliklerden oluşan denklem sisteminin tekil çözümünü bulma.",
     "yasakli_kelimeler": [
       "aralık",
       "katlama",
@@ -1473,7 +1473,7 @@
     "id": 106,
     "kategori": "algoritmalar",
     "kelime": "rastgele yürüyüş",
-    "aciklama": "bir çizgede veya olasılık uzayında her adımda rastgele bir komşuya geçerek ilerleyen stokastik algoritma.",
+    "aciklama": "büyük sayıların tamsayı çarpanlarını bulmaya yarayan algoritma.",
     "yasakli_kelimeler": [
       "stokastik",
       "adım",
@@ -1487,7 +1487,7 @@
     "id": 107,
     "kategori": "algoritmalar",
     "kelime": "saçma sıralama",
-    "aciklama": "dizinin elemanlarını rastgele karıştırıp dizinin sıralı olup olmadığını kontrol eden son derece verimsiz yöntem.",
+    "aciklama": "büyük sayıları polinom çarpımlarıyla logaritmik hızlı çarpan algoritma.",
     "yasakli_kelimeler": [
       "rastgele",
       "karıştırma",
@@ -1501,7 +1501,7 @@
     "id": 108,
     "kategori": "algoritmalar",
     "kelime": "kokteyl sıralaması",
-    "aciklama": "kabarcık sıralamasının diziyi her iki yönde sırayla tarayarak elemanları yer değiştiren çift yönlü türevi.",
+    "aciklama": "polinom ve sinyalleri frekans uzayında logaritmik sürede çarpan algoritma.",
     "yasakli_kelimeler": [
       "kabarcık",
       "çift yönlü",
@@ -1515,7 +1515,7 @@
     "id": 109,
     "kategori": "algoritmalar",
     "kelime": "cüce sıralaması",
-    "aciklama": "elemanları karşılaştırıp yanlış sıradaysa geri doğru takas yaparak ilerleyen bahçe cücesi mantıklı algoritma.",
+    "aciklama": "iki büyük tam sayıyı alt parçalara bölerek çarpan algoritma.",
     "yasakli_kelimeler": [
       "bahçe",
       "takas",
@@ -1529,7 +1529,7 @@
     "id": 110,
     "kategori": "algoritmalar",
     "kelime": "tek-çift sıralaması",
-    "aciklama": "ardışık tek ve çift indisli eleman çiftlerini paralel biçimde karşılaştırıp takas eden sıralama algoritması.",
+    "aciklama": "büyük matrisleri yedi alt çarpımla çarpan böl yönet yöntemi.",
     "yasakli_kelimeler": [
       "tek",
       "çift",
@@ -1543,7 +1543,7 @@
     "id": 111,
     "kategori": "algoritmalar",
     "kelime": "krep sıralaması",
-    "aciklama": "elemanları sadece dizinin belirli bir önekini ters çevirme işlemi kullanarak sıralayan yöntem.",
+    "aciklama": "dışbükey çokgeni çevreleyen en küçük sınır geometrik alanı bulma.",
     "yasakli_kelimeler": [
       "ters çevirme",
       "spatula",
@@ -1557,7 +1557,7 @@
     "id": 112,
     "kategori": "algoritmalar",
     "kelime": "bitonik sıralama",
-    "aciklama": "önce artan ve sonra azalan bitonik diziler oluşturup bunları birleştiren paralel donanıma uygun sıralama yöntemi.",
+    "aciklama": "düzlemdeki noktalar için dışbükey kabuğu tarayarak bulan geometrik algoritma.",
     "yasakli_kelimeler": [
       "artan",
       "azalan",
@@ -1571,7 +1571,7 @@
     "id": 113,
     "kategori": "algoritmalar",
     "kelime": "ağaç sıralaması",
-    "aciklama": "tüm elemanları bir ikili arama ağacına ekleyip ardından ağacı sırayla dolaşarak sıralı liste elde eden yöntem.",
+    "aciklama": "düzlemde birbirine en yakın iki noktayı bulan geometrik algoritma.",
     "yasakli_kelimeler": [
       "arama ağacı",
       "dolaşma",
@@ -1585,7 +1585,7 @@
     "id": 114,
     "kategori": "algoritmalar",
     "kelime": "güvercin yuvası",
-    "aciklama": "eleman değer aralığının az olduğu durumlarda değerleri ilgili yuvalara atayarak çalışan sıralama tekniği.",
+    "aciklama": "noktaların birbirine olan en yakınlık alanlarını çokgenlerle bölme yöntemi.",
     "yasakli_kelimeler": [
       "yuva",
       "pigeonhole",
@@ -1599,7 +1599,7 @@
     "id": 115,
     "kategori": "algoritmalar",
     "kelime": "blok sıralaması",
-    "aciklama": "verileri küçük bloklara ayırıp her bloğu sıraladıktan sonra blokları verimli şekilde birleştiren yöntem.",
+    "aciklama": "üçgenlerin açılarını maksimize eden optimal düzlemsel üçgenleme yöntemi.",
     "yasakli_kelimeler": [
       "parça",
       "birleştirme",
@@ -1613,7 +1613,7 @@
     "id": 116,
     "kategori": "algoritmalar",
     "kelime": "kütüphane sıralaması",
-    "aciklama": "eklemeli sıralamanın aralara boşluklar bırakarak yeni elemanların daha hızlı eklenmesini sağlayan uyarlaması.",
+    "aciklama": "polinom zamanda doğrulanabilen ve çözülebilen karar problemleri sınıfı.",
     "yasakli_kelimeler": [
       "boşluk",
       "kitap",
@@ -1627,7 +1627,7 @@
     "id": 117,
     "kategori": "algoritmalar",
     "kelime": "turnuva sıralaması",
-    "aciklama": "elemanları ikili eşleşmelerle bir eleme ağacında yarıştırarak en küçük ya da en büyüğü bulan sıralama tekniği.",
+    "aciklama": "çözümü polinom zamanda doğrulanabilen karmaşık karar problemleri kümesi.",
     "yasakli_kelimeler": [
       "eleme",
       "maç",
@@ -1641,7 +1641,7 @@
     "id": 118,
     "kategori": "algoritmalar",
     "kelime": "köprü bulma",
-    "aciklama": "bir grafikten çıkarıldığında bağlı bileşen sayısını artıran kritik kenarları tespit eden algoritma.",
+    "aciklama": "tüm np problemlerinin polinom sürede dönüştürülebildiği en zor problemler.",
     "yasakli_kelimeler": [
       "kenar",
       "bağlantı",
@@ -1655,7 +1655,7 @@
     "id": 119,
     "kategori": "algoritmalar",
     "kelime": "eklem noktası",
-    "aciklama": "çizgeden silindiğinde çizgenin ayrık parçalara bölünmesine neden olan kritik tepe noktası.",
+    "aciklama": "en az np-zor problemleri kadar zor olan hesaplama problemleri.",
     "yasakli_kelimeler": [
       "düğüm",
       "tepe",
@@ -1669,7 +1669,7 @@
     "id": 120,
     "kategori": "algoritmalar",
     "kelime": "kapsayan ağaç",
-    "aciklama": "bağlantılı bir çizgenin tüm düğümlerini döngü içermeyecek biçimde birleştiren alt çizge.",
+    "aciklama": "bir problemin çözümünü başka bir probleme dönüştürme işlemi.",
     "yasakli_kelimeler": [
       "döngüsüz",
       "ağaç",
@@ -1683,7 +1683,7 @@
     "id": 121,
     "kategori": "algoritmalar",
     "kelime": "euler yolu",
-    "aciklama": "bir çizgedeki her kenardan tam olarak bir kez geçen patika veya dolaşım.",
+    "aciklama": "mantıksal önermelerin doğrulanabilirliğini sınayan temel np-tam problemi.",
     "yasakli_kelimeler": [
       "kenar",
       "bir kez",
@@ -1697,7 +1697,7 @@
     "id": 122,
     "kategori": "algoritmalar",
     "kelime": "hamilton yolu",
-    "aciklama": "bir çizgedeki tüm tepe noktalarından tam olarak bir kez geçen kesintisiz yol.",
+    "aciklama": "çizgede birbirine tamamen bağlı k düğümlü tam alt çizge bulma.",
     "yasakli_kelimeler": [
       "düğüm",
       "tepe",
@@ -1711,7 +1711,7 @@
     "id": 123,
     "kategori": "algoritmalar",
     "kelime": "klik problemi",
-    "aciklama": "bir çizge içinde birbirine tüm kenarlarla tamamen bağlı alt kümeleri bulma problemi.",
+    "aciklama": "çizgedeki tüm kenarları en az bir ucundan kapsayan düğüm kümesi.",
     "yasakli_kelimeler": [
       "alt küme",
       "tam bağlı",
@@ -1725,7 +1725,7 @@
     "id": 124,
     "kategori": "algoritmalar",
     "kelime": "tepe örtüsü",
-    "aciklama": "çizgedeki her kenarın en az bir ucunu kapsayan minimum sayıdaki tepe düğüm kümesi.",
+    "aciklama": "çizgede birbirine bağlı olmayan en büyük düğüm kümesini bulma.",
     "yasakli_kelimeler": [
       "düğüm",
       "kenar",
@@ -1739,7 +1739,7 @@
     "id": 125,
     "kategori": "algoritmalar",
     "kelime": "akış ağı",
-    "aciklama": "her kenarının belirli bir taşıma kapasitesi olduğu ve kaynaktan hedefe veri akıtılan yönlü çizge.",
+    "aciklama": "bir kümenin alt kümelerinden belirli toplamı veren alt küme seçme.",
     "yasakli_kelimeler": [
       "kaynak",
       "hedef",
@@ -1753,7 +1753,7 @@
     "id": 126,
     "kategori": "algoritmalar",
     "kelime": "dinic algoritması",
-    "aciklama": "akış ağlarında seviye grafları ve engelleyici akışlar kullanarak maksimum akışı hesaplayan hızlı yöntem.",
+    "aciklama": "kümenin elemanlarını verilen alt kümelerle ayrık olarak tamamen örtme.",
     "yasakli_kelimeler": [
       "akış",
       "seviye",
@@ -1767,7 +1767,7 @@
     "id": 127,
     "kategori": "algoritmalar",
     "kelime": "johnson algoritması",
-    "aciklama": "ağırlıklı ve negatif kenarlı çizgelerde tüm düğüm çiftleri arasındaki en kısa yolları bulan algoritma.",
+    "aciklama": "çizgenin komşu düğümlerini aynı renge boyamadan renklendirme problemi.",
     "yasakli_kelimeler": [
       "en kısa yol",
       "negatif",
@@ -1781,7 +1781,7 @@
     "id": 128,
     "kategori": "algoritmalar",
     "kelime": "hopcroft-karp algoritması",
-    "aciklama": "iki parçalı çizgelerde maksimum eşleşmeyi polinom zamanda bulan verimli çizge algoritması.",
+    "aciklama": "zor optimizasyon problemlerinde kabul edilebilir yakın çözümler üreten algoritma.",
     "yasakli_kelimeler": [
       "eşleme",
       "iki parçalı",
@@ -1795,7 +1795,7 @@
     "id": 129,
     "kategori": "algoritmalar",
     "kelime": "macar algoritması",
-    "aciklama": "bipartit eşleme tabanlı atama problemlerinde toplam maliyeti en aza indiren optimizasyon yöntemi.",
+    "aciklama": "optimal çözümün belirli bir çarpanı kadar yakınlık garantileyen algoritma.",
     "yasakli_kelimeler": [
       "atama",
       "maliyet",
@@ -1809,7 +1809,7 @@
     "id": 130,
     "kategori": "algoritmalar",
     "kelime": "baskın küme",
-    "aciklama": "çizgedeki diğer tüm düğümlerin bu kümedeki en az bir düğüme komşu olduğu tepe alt kümesi.",
+    "aciklama": "doğrusal kısıtlar altında doğrusal amaç fonksiyonunu optimize eden yöntem.",
     "yasakli_kelimeler": [
       "komşu",
       "alt küme",
@@ -1823,7 +1823,7 @@
     "id": 131,
     "kategori": "algoritmalar",
     "kelime": "bağımsız küme",
-    "aciklama": "bir çizgede seçilen hiçbir düğümün birbirine doğrudan bir kenarla bağlı olmadığı tepe kümesi.",
+    "aciklama": "doğrusal programlama problemlerini köşe noktalarını gezerek çözen klasik algoritma.",
     "yasakli_kelimeler": [
       "bağlantısız",
       "kenarsız",
@@ -1837,7 +1837,7 @@
     "id": 132,
     "kategori": "algoritmalar",
     "kelime": "graf izomorfizmi",
-    "aciklama": "iki farklı çizgenin yapısal ve bağlantısal açıdan birebir aynı olup olmadığını belirleme problemi.",
+    "aciklama": "doğrusal programlamayı çokyüzlünün içinden geçerek polinom sürede çözen yöntem.",
     "yasakli_kelimeler": [
       "birebir",
       "yapısal",
@@ -1851,7 +1851,7 @@
     "id": 133,
     "kategori": "algoritmalar",
     "kelime": "komşuluk matrisi",
-    "aciklama": "bir çizgedeki tepeler arasında kenar olup olmadığını ikili değerlerle gösteren iki boyutlu tablo.",
+    "aciklama": "değişkenlerin tam sayı olma kısıtını gevşeterek yaklaşık çözme tekniği.",
     "yasakli_kelimeler": [
       "matris",
       "tablo",
@@ -1865,7 +1865,7 @@
     "id": 134,
     "kategori": "algoritmalar",
     "kelime": "komşuluk listesi",
-    "aciklama": "her tepe noktasının bağlı olduğu komşu tepeleri birer bağlantılı listede tutan veri yapısı.",
+    "aciklama": "çözüm uzayını dallara ayırıp alt-üst sınırlarla budayan optimizasyon yöntemi.",
     "yasakli_kelimeler": [
       "liste",
       "düğüm",
@@ -1879,7 +1879,7 @@
     "id": 135,
     "kategori": "algoritmalar",
     "kelime": "derece dizisi",
-    "aciklama": "bir çizgedeki tüm tepelerin sahip olduğu kenar sayılarının sıralı listesi.",
+    "aciklama": "olası tüm çözümleri sistematik deneyip çıkmaz sokakta geri dönen yöntem.",
     "yasakli_kelimeler": [
       "kenar sayısı",
       "tepe",
@@ -1893,7 +1893,7 @@
     "id": 136,
     "kategori": "algoritmalar",
     "kelime": "asiklik çizge",
-    "aciklama": "içerisinde başlangıç noktasına geri dönen hiçbir kapalı döngü bulundurmayan yönlü veya yönsüz çizge.",
+    "aciklama": "sekiz veziri birbirini tehdit etmeyecek şekilde satranç tahtasına yerleştirme.",
     "yasakli_kelimeler": [
       "döngüsüz",
       "ağaç",
@@ -1907,7 +1907,7 @@
     "id": 137,
     "kategori": "algoritmalar",
     "kelime": "sonek ağacı",
-    "aciklama": "bir metnin tüm soneklerini temsil eden ve hızlı kalıp arama sağlayan basık önek ağacı yapısı.",
+    "aciklama": "satranç tahtasındaki tüm kareleri atla birer kez ziyaret etme.",
     "yasakli_kelimeler": [
       "sonek",
       "metin",
@@ -1921,7 +1921,7 @@
     "id": 138,
     "kategori": "algoritmalar",
     "kelime": "sonek dizisi",
-    "aciklama": "bir dizgenin tüm soneklerinin sözlük sırasına göre sıralanmış başlangıç indislerini tutan tamsayı dizisi.",
+    "aciklama": "sudoku bulmacasındaki boş kareleri kurallara uygun tamamlayan algoritma.",
     "yasakli_kelimeler": [
       "sözlük sırası",
       "indis",
@@ -1935,7 +1935,7 @@
     "id": 139,
     "kategori": "algoritmalar",
     "kelime": "manacher algoritması",
-    "aciklama": "bir dize içindeki en uzun palindrom alt dizgiyi doğrusal zaman karmaşıklığında bulan algoritma.",
+    "aciklama": "çözüm uzayında yerel tepeye tırmanarak optimal arayan sezgisel yöntem.",
     "yasakli_kelimeler": [
       "palindrom",
       "simetri",
@@ -1949,7 +1949,7 @@
     "id": 140,
     "kategori": "algoritmalar",
     "kelime": "aho-corasick algoritması",
-    "aciklama": "metin içinde birden fazla anahtar kelimeyi aynı anda tek bir taramada arayan dize eşleme yöntemi.",
+    "aciklama": "tavlama sürecini taklit ederek yerel tuzaklardan kurtulan olasılıksal sezgisel.",
     "yasakli_kelimeler": [
       "çoklu",
       "arama",
@@ -1963,7 +1963,7 @@
     "id": 141,
     "kategori": "algoritmalar",
     "kelime": "dize eşleme",
-    "aciklama": "uzun bir metin bloğu içinde belirli bir aranan kelime deseninin geçtiği yerleri saptama işlemi.",
+    "aciklama": "doğal seçilim ve mutasyon ilkeleriyle çözüm arayan evrimsel optimizasyon.",
     "yasakli_kelimeler": [
       "desen",
       "metin",
@@ -1977,7 +1977,7 @@
     "id": 142,
     "kategori": "algoritmalar",
     "kelime": "hamming mesafesi",
-    "aciklama": "aynı uzunluktaki iki dizgi arasında birbirine karşılık gelen farklı karakterlerin toplam sayısı.",
+    "aciklama": "bireylerin çözüm kalitesini ölçen evrimsel amaç fonksiyonu.",
     "yasakli_kelimeler": [
       "fark",
       "uzunluk",
@@ -1991,7 +1991,7 @@
     "id": 143,
     "kategori": "algoritmalar",
     "kelime": "jaccard benzerliği",
-    "aciklama": "iki kümenin kesişim büyüklüğünün birleşim büyüklüğüne oranıyla hesaplanan benzerlik metriği.",
+    "aciklama": "iki ebeveynin genlerini birleştirerek yeni çözüm üreten genetik operatör.",
     "yasakli_kelimeler": [
       "kesişim",
       "birleşim",
@@ -2005,7 +2005,7 @@
     "id": 144,
     "kategori": "algoritmalar",
     "kelime": "ngram analizi",
-    "aciklama": "bir metni ardışık n adet harf veya kelimeden oluşan parçalara bölerek istatistiksel inceleme yöntemi.",
+    "aciklama": "çözüm çeşitliliğini korumak için genlerde yapılan rastgele değişiklik işlemi.",
     "yasakli_kelimeler": [
       "ardışık",
       "parça",
@@ -2019,7 +2019,7 @@
     "id": 145,
     "kategori": "algoritmalar",
     "kelime": "palindrom kontrolü",
-    "aciklama": "bir kelimenin veya cümlenin tersten okunuşunun düz okunuşuyla özdeş olup olmadığını anlama işlemi.",
+    "aciklama": "karıncaların feromon izi bırakma davranışını taklit eden rota algoritması.",
     "yasakli_kelimeler": [
       "ters",
       "düz",
@@ -2033,7 +2033,7 @@
     "id": 146,
     "kategori": "algoritmalar",
     "kelime": "uzunluk kodlaması",
-    "aciklama": "arka arkaya tekrar eden aynı verileri veri ve tekrar sayısı ikilisi olarak sıkıştıran yöntem.",
+    "aciklama": "kuş sürülerinin koordineli hareketini taklit eden sürü optimizasyon yöntemi.",
     "yasakli_kelimeler": [
       "tekrar",
       "sayı",
@@ -2047,7 +2047,7 @@
     "id": 147,
     "kategori": "algoritmalar",
     "kelime": "aritmetik kodlama",
-    "aciklama": "bir mesaj dizisini sıfır ile bir arasındaki tek bir kayan noktalı kesir sayısına dönüştüren kayıpsız sıkıştırma.",
+    "aciklama": "yerel tuzaklara düşmemek için geçmiş adımları hafızada yasaklayan sezgisel.",
     "yasakli_kelimeler": [
       "kesir",
       "olasılık",
@@ -2061,7 +2061,7 @@
     "id": 148,
     "kategori": "algoritmalar",
     "kelime": "lempel-ziv algoritması",
-    "aciklama": "metin içindeki tekrarlanan dizgileri sözlük oluşturarak daha kısa referanslarla değiştiren sıkıştırma yöntemi.",
+    "aciklama": "oyunlarda en kötü durumu öngörerek en iyi hamleyi seçme.",
     "yasakli_kelimeler": [
       "sözlük",
       "sıkıştırma",
@@ -2075,7 +2075,7 @@
     "id": 149,
     "kategori": "algoritmalar",
     "kelime": "soundex algoritması",
-    "aciklama": "kelimeleri telaffuzlarına ve fonetik benzerliklerine göre harf ve rakam koduna çeviren indeksleme tekniği.",
+    "aciklama": "minimax ağacında sonucu değiştirmeyecek alt dalları budayarak hızlandıran yöntem.",
     "yasakli_kelimeler": [
       "telaffuz",
       "fonetik",
@@ -2089,7 +2089,7 @@
     "id": 150,
     "kategori": "algoritmalar",
     "kelime": "metafon algoritması",
-    "aciklama": "ingilizce ve diğer dillerde kelimeleri fonetik telaffuzlarına göre eşleştiren gelişmiş ses benzerliği algoritması.",
+    "aciklama": "rastgele oyun simülasyonları yaparak karar veren akıllı ağaç arama.",
     "yasakli_kelimeler": [
       "ses",
       "benzerlik",
@@ -2103,7 +2103,7 @@
     "id": 151,
     "kategori": "algoritmalar",
     "kelime": "dize hizalama",
-    "aciklama": "biyolojik dizilimlerde veya metinlerde benzerlikleri maksimize etmek için karakterler arasına boşluk koyarak eşleme.",
+    "aciklama": "veri noktalarını k adet merkeze göre benzerlik kümelerine ayıran yöntem.",
     "yasakli_kelimeler": [
       "hizalama",
       "boşluk",
@@ -2117,7 +2117,7 @@
     "id": 152,
     "kategori": "algoritmalar",
     "kelime": "asal çarpanlar",
-    "aciklama": "bir bileşik tamsayıyı kendisini tam bölen asal sayıların çarpımı biçiminde ifade etme işlemi.",
+    "aciklama": "yoğunluk temelli ve gürültüye dayanıklı uzamsal kümeleme algoritması.",
     "yasakli_kelimeler": [
       "bölme",
       "sayı",
@@ -2131,7 +2131,7 @@
     "id": 153,
     "kategori": "algoritmalar",
     "kelime": "modüler üs",
-    "aciklama": "büyük bir sayının üssünün modüler aritmetik altında karesini alarak çok hızlı hesaplanması yöntemi.",
+    "aciklama": "verileri hiyerarşik bir ağaç şeklinde kümelere ayıran algoritma.",
     "yasakli_kelimeler": [
       "üs",
       "mod",
@@ -2145,7 +2145,7 @@
     "id": 154,
     "kategori": "algoritmalar",
     "kelime": "kalan teoremi",
-    "aciklama": "aralarında asal modüllere göre kalanları verilen bir sistemin ortak tekil çözümünü bulan yöntem.",
+    "aciklama": "farklı olasılık dağılımlarının karışımını modelleyen parametrik kümeleme yöntemi.",
     "yasakli_kelimeler": [
       "kalan",
       "modül",
@@ -2159,7 +2159,7 @@
     "id": 155,
     "kategori": "algoritmalar",
     "kelime": "fermat testi",
-    "aciklama": "fermat'nın küçük teoremine dayanarak bir sayının asal olup olmadığını olasılıksal inceleyen yöntem.",
+    "aciklama": "gizli değişkenli modellerde parametreleri yinelemeli olarak en çoklayan algoritma.",
     "yasakli_kelimeler": [
       "asallık",
       "küçük teorem",
@@ -2173,7 +2173,7 @@
     "id": 156,
     "kategori": "algoritmalar",
     "kelime": "pollard algoritması",
-    "aciklama": "büyük tamsayıların asal çarpanlarını doğum günü paradoksu ve döngü tespiti mantığıyla bulan yöntem.",
+    "aciklama": "verileri öznitelik kurallarına göre dallara ayıran ağaç sınıflandırıcısı.",
     "yasakli_kelimeler": [
       "çarpan",
       "döngü",
@@ -2187,7 +2187,7 @@
     "id": 157,
     "kategori": "algoritmalar",
     "kelime": "ayrık logaritma",
-    "aciklama": "modüler tabanda verilen bir üslü değerin bilinmeyen üssünü bulma üzerine kurulu zor matematiksel problem.",
+    "aciklama": "özniteliklerin veri kümesindeki belirsizliği ne kadar azalttığını gösteren ölçüt.",
     "yasakli_kelimeler": [
       "üs",
       "logaritma",
@@ -2201,7 +2201,7 @@
     "id": 158,
     "kategori": "algoritmalar",
     "kelime": "matris çarpımı",
-    "aciklama": "iki matrisin satır ve sütun elemanlarının çarpımlarının toplanmasıyla yeni bir matris elde etme işlemi.",
+    "aciklama": "bir veri kümesindeki düzensizlik ve rastgelelik miktarının matematiksel ölçüsü.",
     "yasakli_kelimeler": [
       "satır",
       "sütun",
@@ -2215,7 +2215,7 @@
     "id": 159,
     "kategori": "algoritmalar",
     "kelime": "gauss elemesi",
-    "aciklama": "lineer denklem sistemlerini satır işlemleri yaparak üst üçgensel matris biçimine dönüştürüp çözme yöntemi.",
+    "aciklama": "veri kümesindeki safsızlığı ölçen karar ağacı dallanma metriği.",
     "yasakli_kelimeler": [
       "denklem",
       "satır",
@@ -2229,7 +2229,7 @@
     "id": 160,
     "kategori": "algoritmalar",
     "kelime": "lu ayrışımı",
-    "aciklama": "kare bir matrisi alt üçgensel ve üst üçgensel iki matrisin çarpımı olarak ayrıştıran teknik.",
+    "aciklama": "karar ağaçlarını rastgele eğitip oylamayla tahmin üreten topluluk yöntemi.",
     "yasakli_kelimeler": [
       "alt",
       "üst",
@@ -2243,7 +2243,7 @@
     "id": 161,
     "kategori": "algoritmalar",
     "kelime": "newton yöntemi",
-    "aciklama": "bir fonksiyonun türevini ve teğet doğrularını kullanarak köklerini ardışık yaklaşımlarla bulan analiz tekniği.",
+    "aciklama": "zayıf öğrenicileri sıralı eğiterek hataları düzelten güçlü topluluk algoritması.",
     "yasakli_kelimeler": [
       "türev",
       "teğet",
@@ -2257,7 +2257,7 @@
     "id": 162,
     "kategori": "algoritmalar",
     "kelime": "kirişler yöntemi",
-    "aciklama": "türev hesaplamadan fonksiyon üzerinde iki noktadan geçen kesen doğrular yardımıyla kök arayan sayısal yöntem.",
+    "aciklama": "hata gradyanlarını kullanarak ağaçları optimize eden yüksek başarımlı algoritma.",
     "yasakli_kelimeler": [
       "kök",
       "kiriş",
@@ -2271,7 +2271,7 @@
     "id": 163,
     "kategori": "algoritmalar",
     "kelime": "ikiye bölme",
-    "aciklama": "sürekli bir fonksiyonun zıt işaretli olduğu aralığı sürekli ortadan bölerek sıfır noktasını bulan algoritma.",
+    "aciklama": "karar sınırını maksimize eden hiper düzlemle sınıflandırma yapan model.",
     "yasakli_kelimeler": [
       "orta",
       "aralık",
@@ -2285,7 +2285,7 @@
     "id": 164,
     "kategori": "algoritmalar",
     "kelime": "sayısal integral",
-    "aciklama": "analitik olarak integrali alınamayan fonksiyonların eğri altında kalan alanını yaklaşık hesaplama yöntemleri.",
+    "aciklama": "yüksek boyutlu uzaylara doğrusal olmayan eşleme yapan matematiksel fonksiyon.",
     "yasakli_kelimeler": [
       "alan",
       "eğri",
@@ -2299,7 +2299,7 @@
     "id": 165,
     "kategori": "algoritmalar",
     "kelime": "simpson kuralı",
-    "aciklama": "alanı hesaplanacak eğriyi parabolik yay parçaları ile modelleyerek integral tahmini yapan sayısal teknik.",
+    "aciklama": "yeni noktayı en yakın k komşunun çoğunluğuna göre sınıflandırma.",
     "yasakli_kelimeler": [
       "parabol",
       "eğri",
@@ -2313,7 +2313,7 @@
     "id": 166,
     "kategori": "algoritmalar",
     "kelime": "yamuk kuralı",
-    "aciklama": "eğri altındaki alanı küçük yamuklara bölerek yaklaşık integral değeri hesaplayan basit sayısal yöntem.",
+    "aciklama": "özniteliklerin bağımsız olduğu varsayımına dayalı olasılıksal bayes sınıflandırıcısı.",
     "yasakli_kelimeler": [
       "yamuk",
       "alan",
@@ -2327,7 +2327,7 @@
     "id": 167,
     "kategori": "algoritmalar",
     "kelime": "cholesky ayrışımı",
-    "aciklama": "simetrik ve pozitif tanımlı matrisleri bir alt üçgensel matris ve transpozunun çarpımına ayıran yöntem.",
+    "aciklama": "girdi verilerini sigmoid fonksiyonuyla olasılık değerine dönüştüren doğrusal sınıflandırıcı.",
     "yasakli_kelimeler": [
       "simetrik",
       "pozitif",
@@ -2341,7 +2341,7 @@
     "id": 168,
     "kategori": "algoritmalar",
     "kelime": "özdeğer hesabı",
-    "aciklama": "bir lineer dönüşümün doğrultusunu değiştirmeyip sadece ölçeklendirdiği skaler sayıları bulma işlemi.",
+    "aciklama": "bağımlı ve bağımsız değişkenler arasındaki doğrusal ilişkiyi modelleyen regresyon türü.",
     "yasakli_kelimeler": [
       "özvektör",
       "skaler",
@@ -2355,7 +2355,7 @@
     "id": 169,
     "kategori": "algoritmalar",
     "kelime": "dışbükey kabuk",
-    "aciklama": "düzlemdeki bir grup noktanın tamamını içine alan en küçük dışbükey çokgeni oluşturma geometrisi.",
+    "aciklama": "hata fonksiyonunu en aza indirmek için eğim yönünde ilerleme.",
     "yasakli_kelimeler": [
       "nokta",
       "dışbükey",
@@ -2369,7 +2369,7 @@
     "id": 170,
     "kategori": "algoritmalar",
     "kelime": "graham taraması",
-    "aciklama": "noktaları kutupsal açılarına göre sıralayıp yığın kullanarak dışbükey kabuğu doğrusal zamanda bulan algoritma.",
+    "aciklama": "her adımda tek bir rastgele veriyle gradyan güncelleyen hızlı optimizasyon.",
     "yasakli_kelimeler": [
       "kabuk",
       "açı",
@@ -2383,7 +2383,7 @@
     "id": 171,
     "kategori": "algoritmalar",
     "kelime": "jarvis yürüyüşü",
-    "aciklama": "bir noktadan başlayıp hediye paketi sarar gibi en dıştaki noktaları tek tek seçerek kabuk oluşturan yöntem.",
+    "aciklama": "tüm parametreler için öğrenme oranını geçmiş gradyanlara göre uyarlayan algoritma.",
     "yasakli_kelimeler": [
       "hediye",
       "paketleme",
@@ -2397,7 +2397,7 @@
     "id": 172,
     "kategori": "algoritmalar",
     "kelime": "chan algoritması",
-    "aciklama": "noktaları küçük gruplara bölerek dışbükey kabuğu optimal zamanda hesaplayan gelişmiş geometri algoritması.",
+    "aciklama": "momentum ve uyarlamalı öğrenme oranını birleştiren derin öğrenme optimizasyonu.",
     "yasakli_kelimeler": [
       "optimal",
       "küçük grup",
@@ -2411,7 +2411,7 @@
     "id": 173,
     "kategori": "algoritmalar",
     "kelime": "doğru kesişimi",
-    "aciklama": "düzlemde verilen iki veya daha fazla doğrunun ortak temas noktasını belirleme işlemi.",
+    "aciklama": "yapay sinir ağlarında çıkış hatasını geriye doğru türevlerle yayan algoritma.",
     "yasakli_kelimeler": [
       "kesişme",
       "doğru",
@@ -2425,7 +2425,7 @@
     "id": 174,
     "kategori": "algoritmalar",
     "kelime": "öklid mesafesi",
-    "aciklama": "n boyutlu uzayda iki nokta arasındaki kuş uçuşu geometrik doğrusal uzaklığı hesaplayan metrik.",
+    "aciklama": "yüksek boyutlu verilerin varyansını koruyarak boyutunu azaltan doğrusal yöntem.",
     "yasakli_kelimeler": [
       "uzaklık",
       "geometri",
@@ -2439,7 +2439,7 @@
     "id": 175,
     "kategori": "algoritmalar",
     "kelime": "voronoi diyagramı",
-    "aciklama": "düzlemi her bir tohum noktaya en yakın olan bölgelere göre çokgen alanlara ayıran geometrik bölümleme.",
+    "aciklama": "bir matrisi üç kurucu matrisin çarpımına ayıran temel cebir algoritması.",
     "yasakli_kelimeler": [
       "bölge",
       "hücre",
@@ -2453,7 +2453,7 @@
     "id": 176,
     "kategori": "algoritmalar",
     "kelime": "delaunay üçgenlemesi",
-    "aciklama": "noktaların çevrel çemberlerinin içinde başka nokta kalmayacak şekilde üçgenlere ayrılması yöntemi.",
+    "aciklama": "yüksek boyutlu karmaşık verileri iki veya üç boyutta görselleştirme.",
     "yasakli_kelimeler": [
       "çember",
       "üçgen",
@@ -2467,7 +2467,7 @@
     "id": 177,
     "kategori": "algoritmalar",
     "kelime": "poligon alanı",
-    "aciklama": "köşe koordinatları bilinen bir çokgenin yüzölçümünü ayakkabı bağı formülüyle hesaplama tekniği.",
+    "aciklama": "verilerin yerel manifold yapısını koruyarak boyut indirgeyen modern algoritma.",
     "yasakli_kelimeler": [
       "yüzölçümü",
       "köşe",
@@ -2481,7 +2481,7 @@
     "id": 178,
     "kategori": "algoritmalar",
     "kelime": "nokta konumlandırma",
-    "aciklama": "verilen bir sorgu noktasının düzlemdeki hangi poligonun veya bölgenin içinde kaldığını bulma işlemi.",
+    "aciklama": "girdileri sabit boyutlu güvenli özet koda çeviren algoritma.",
     "yasakli_kelimeler": [
       "bölge",
       "içinde",
@@ -2495,7 +2495,7 @@
     "id": 179,
     "kategori": "algoritmalar",
     "kelime": "tuzlama yöntemi",
-    "aciklama": "parolaları özetlemeden önce rastgele ek veri ekleyerek gökkuşağı tablosu saldırılarını engelleyen teknik.",
+    "aciklama": "günümüzde güvenliği kırılmış eski ve zayıf kriptografik özet fonksiyonu.",
     "yasakli_kelimeler": [
       "parola",
       "ek",
@@ -2509,7 +2509,7 @@
     "id": 180,
     "kategori": "algoritmalar",
     "kelime": "kriptografik özet",
-    "aciklama": "herhangi bir boyuttaki veriden tek yönlü ve sabit uzunlukta benzersiz parmak izi üreten matematiksel fonksiyon.",
+    "aciklama": "güvenlik açıkları nedeniyle terk edilmiş yüz altmış bitlik kriptografik özet.",
     "yasakli_kelimeler": [
       "parmak izi",
       "tek yönlü",
@@ -2523,7 +2523,7 @@
     "id": 181,
     "kategori": "algoritmalar",
     "kelime": "simetrik şifreleme",
-    "aciklama": "veriyi şifrelemek ve deşifre etmek için aynı gizli anahtarın kullanıldığı kriptografik sistem.",
+    "aciklama": "günümüzde yaygın kullanılan iki yüz elli altı bitlik standart.",
     "yasakli_kelimeler": [
       "tek anahtar",
       "aynı",
@@ -2537,7 +2537,7 @@
     "id": 182,
     "kategori": "algoritmalar",
     "kelime": "asimetrik şifreleme",
-    "aciklama": "biri açık diğeri gizli olmak üzere iki farklı anahtar çiftiyle çalışan güvenlik mekanizması.",
+    "aciklama": "keccak algoritmasına dayanan en güncel güvenli kriptografik özet ailesi.",
     "yasakli_kelimeler": [
       "çift anahtar",
       "açık anahtar",
@@ -2551,7 +2551,7 @@
     "id": 183,
     "kategori": "algoritmalar",
     "kelime": "dijital imza",
-    "aciklama": "bir belgenin kim tarafından oluşturulduğunu ve değiştirilmediğini doğrulayan elektronik onay mührü.",
+    "aciklama": "asimetrik şifreleme ve dijital imza sağlayan klasik algoritma.",
     "yasakli_kelimeler": [
       "doğrulama",
       "mühür",
@@ -2565,7 +2565,7 @@
     "id": 184,
     "kategori": "algoritmalar",
     "kelime": "doğrusal yoklama",
-    "aciklama": "özet tablosundaki çakışmalarda bir sonraki boş yuvayı sırayla ardışık olarak arayan açık adresleme biçimi.",
+    "aciklama": "güvensiz kanal üzerinden ortak gizli anahtar oluşturmayı sağlayan protokol.",
     "yasakli_kelimeler": [
       "çakışma",
       "boş yuva",
@@ -2579,7 +2579,7 @@
     "id": 185,
     "kategori": "algoritmalar",
     "kelime": "karesel yoklama",
-    "aciklama": "çakışma durumunda adımları karesel artışlarla büyüterek kümelenmeyi azaltan arama yaklaşımı.",
+    "aciklama": "kısa anahtarlarla yüksek güvenlik sunan eliptik eğri matematiğine dayalı kriptografi.",
     "yasakli_kelimeler": [
       "kare",
       "çakışma",
@@ -2593,7 +2593,7 @@
     "id": 186,
     "kategori": "algoritmalar",
     "kelime": "çift karma",
-    "aciklama": "özet tablosunda çakışma yaşandığında ikinci bir bağımsız özet fonksiyonu kullanarak sonraki konumu belirleme.",
+    "aciklama": "dijital verinin bütünlüğünü ve kaynağını kanıtlayan kriptografik doğrulama kodu.",
     "yasakli_kelimeler": [
       "ikinci",
       "fonksiyon",
@@ -2607,7 +2607,7 @@
     "id": 187,
     "kategori": "algoritmalar",
     "kelime": "guguklu karma",
-    "aciklama": "yeni eleman geldiğinde mevcut elemanı başka bir tabloya kovarak çalışan sabit zamanlı karma tekniği.",
+    "aciklama": "simetrik blok şifreleme standardı olarak dünya genelinde kullanılan güvenli algoritma.",
     "yasakli_kelimeler": [
       "kovma",
       "kuş",
@@ -2621,7 +2621,7 @@
     "id": 188,
     "kategori": "algoritmalar",
     "kelime": "tutarlı karma",
-    "aciklama": "sunucu eklenip çıkarıldığında yalnızca minimum sayıda anahtarın taşınmasını sağlayan dairesel karma tekniği.",
+    "aciklama": "günümüzde güvensiz sayılan eski elli altı bitlik blok şifreleyici.",
     "yasakli_kelimeler": [
       "sunucu",
       "dağıtık",
@@ -2635,7 +2635,7 @@
     "id": 189,
     "kategori": "algoritmalar",
     "kelime": "tepe tırmanma",
-    "aciklama": "her adımda sadece mevcut durumdan daha iyi olan en yakın komşuya geçerek zirveye ulaşmayı hedefleyen algoritma.",
+    "aciklama": "des algoritmasını üç farklı anahtarla arka arkaya uygulayan şifreleme yöntemi.",
     "yasakli_kelimeler": [
       "zirve",
       "komşu",
@@ -2649,7 +2649,7 @@
     "id": 190,
     "kategori": "algoritmalar",
     "kelime": "ışın araması",
-    "aciklama": "genişlik öncelikli aramada her seviyede sadece en umut verici sabit sayıdaki durumu saklayarak ilerleyen yöntem.",
+    "aciklama": "açık metnin her baytını sözde rastgele bitlerle xorlayan akış şifreleyici.",
     "yasakli_kelimeler": [
       "genişlik",
       "seviye",
@@ -2663,7 +2663,7 @@
     "id": 191,
     "kategori": "algoritmalar",
     "kelime": "tabu araması",
-    "aciklama": "yerel optimumdan kaçmak için son ziyaret edilen adımları bir yasaklı listesinde tutarak arama yapan yöntem.",
+    "aciklama": "günümüzde güvenli iletişimde sıkça kullanılan yüksek performanslı akış şifreleyici.",
     "yasakli_kelimeler": [
       "yasaklı liste",
       "döngü",
@@ -2677,7 +2677,7 @@
     "id": 192,
     "kategori": "algoritmalar",
     "kelime": "doğrusal programlama",
-    "aciklama": "belirli doğrusal kısıtlar altında doğrusal bir amaç fonksiyonunu en büyük veya en küçük yapma tekniği.",
+    "aciklama": "şifrelenmiş veriler üzerinde şifreyi çözmeden doğrudan matematiksel işlem yapma yeteneği.",
     "yasakli_kelimeler": [
       "kısıt",
       "amaç",
@@ -2691,7 +2691,7 @@
     "id": 193,
     "kategori": "algoritmalar",
     "kelime": "simpleks algoritması",
-    "aciklama": "doğrusal programlama problemlerini çokyüzlü geometrik şeklin köşeleri boyunca dolaşarak çözen algoritma.",
+    "aciklama": "bir ifadenin doğruluğunu gizli bilgiyi açıklamadan kanıtlayan kriptografik protokol.",
     "yasakli_kelimeler": [
       "köşe",
       "çokyüzlü",
@@ -2705,7 +2705,7 @@
     "id": 194,
     "kategori": "algoritmalar",
     "kelime": "hiyerarşik kümeleme",
-    "aciklama": "verileri ağaç benzeri bir dendrogram yapısı kurarak adım adım birleştiren veya bölen kümeleme yaklaşımı.",
+    "aciklama": "birden fazla tarafın gizli verileri açığa vurmadan ortak hesaplama yapması.",
     "yasakli_kelimeler": [
       "ağaç",
       "dendrogram",
@@ -2719,7 +2719,7 @@
     "id": 195,
     "kategori": "algoritmalar",
     "kelime": "yoğunluk kümelemesi",
-    "aciklama": "noktaların birbirine yakın olduğu yüksek yoğunluklu bölgeleri küme, seyrek noktaları ise gürültü sayan yöntem.",
+    "aciklama": "dağıtık düğümlerin ağın durumu üzerinde uzlaşmasını sağlayan algoritma.",
     "yasakli_kelimeler": [
       "gürültü",
       "yoğunluk",
@@ -2733,7 +2733,7 @@
     "id": 196,
     "kategori": "algoritmalar",
     "kelime": "beklenti maksimizasyonu",
-    "aciklama": "gizli değişkenler içeren istatistiksel modellerde parametreleri tahmin etmek için kullanılan yinelemeli yöntem.",
+    "aciklama": "işlem gücüne dayalı blokzincir mutabakat ve madencilik algoritması.",
     "yasakli_kelimeler": [
       "gizli",
       "tahmin",
@@ -2747,7 +2747,7 @@
     "id": 197,
     "kategori": "algoritmalar",
     "kelime": "bileşen analizi",
-    "aciklama": "yüksek boyutlu verilerdeki varyansı koruyarak daha az sayıda ortogonal eksene indirgeme tekniği.",
+    "aciklama": "ağdaki varlık miktarına ve kilitlenen coinlere dayalı mutabakat mekanizması.",
     "yasakli_kelimeler": [
       "boyut indirgeme",
       "varyans",
@@ -2761,7 +2761,7 @@
     "id": 198,
     "kategori": "algoritmalar",
     "kelime": "lojistik regresyon",
-    "aciklama": "verilen bağımsız değişkenlere göre ikili bir sonucun ortaya çıkma olasılığını sigmoit eğrisiyle modelleyen algoritma.",
+    "aciklama": "asenkron ağlarda güvenli mutabakat sağlayan dağıtık sistem algoritması.",
     "yasakli_kelimeler": [
       "olasılık",
       "sigmoit",
@@ -2775,7 +2775,7 @@
     "id": 199,
     "kategori": "algoritmalar",
     "kelime": "doğrusal regresyon",
-    "aciklama": "bağımlı ve bağımsız değişkenler arasındaki ilişkiyi düz bir çizgi denklemiyle en uygun biçimde açıklayan yöntem.",
+    "aciklama": "anlaşılması kolay modern dağıtık lider seçme ve mutabakat algoritması.",
     "yasakli_kelimeler": [
       "düz çizgi",
       "tahmin",
@@ -2789,7 +2789,7 @@
     "id": 200,
     "kategori": "algoritmalar",
     "kelime": "geri yayılım",
-    "aciklama": "yapay sinir ağlarında çıkış hatasını geriye doğru yayarak zincir kuralıyla ağırlıkları güncelleyen temel algoritma.",
+    "aciklama": "dağıtık sistemlerin tutarlılık, erişilebilirlik ve bölüntü toleransı arasındaki ödünleşim teoremi.",
     "yasakli_kelimeler": [
       "hata",
       "zincir kuralı",
@@ -2802,7 +2802,7 @@
   {
     "kategori": "algoritmalar",
     "kelime": "sıralamak",
-    "aciklama": "elemanları belirli bir kurala veya büyüklüğe göre dizmek",
+    "aciklama": "bir problemin girdi boyutunu yarıya bölerek çözümlerini birleştirme stratejisi.",
     "yasakli_kelimeler": [
       "dizi",
       "küçükten büyüğe",
@@ -2816,7 +2816,7 @@
   {
     "kategori": "algoritmalar",
     "kelime": "arama yapmak",
-    "aciklama": "bir veri kümesi içinde belirli bir değeri bulmaya çalışmak",
+    "aciklama": "çözüm uzayını tüm seçenekleri deneyerek tüketen kaba kuvvet yaklaşımı.",
     "yasakli_kelimeler": [
       "binary",
       "linear",
@@ -2830,7 +2830,7 @@
   {
     "kategori": "algoritmalar",
     "kelime": "kod yazmak",
-    "aciklama": "bilgisayarın anlayacağı dilde komutlar dizisi oluşturmak",
+    "aciklama": "arama uzayını belirli genişlik sınırı içinde tutan sezgisel yöntem.",
     "yasakli_kelimeler": [
       "program",
       "yazılım",
@@ -2844,7 +2844,7 @@
   {
     "kategori": "algoritmalar",
     "kelime": "hata ayıklamak",
-    "aciklama": "programdaki yazım veya mantık kusurlarını bulup düzeltmek",
+    "aciklama": "ardışık tekrar eden karakterleri sayı ve karakterle sıkıştıran yöntem.",
     "yasakli_kelimeler": [
       "debug",
       "bug",
@@ -2858,7 +2858,7 @@
   {
     "kategori": "algoritmalar",
     "kelime": "döngüye sokmak",
-    "aciklama": "belirli bir kod bloğunu şart sağlandığı sürece tekrar tekrar çalıştırmak",
+    "aciklama": "metindeki tekrar eden sözcükleri bir sözlük tablosu kurarak sıkıştıran algoritma.",
     "yasakli_kelimeler": [
       "for",
       "while",
@@ -2872,7 +2872,7 @@
   {
     "kategori": "algoritmalar",
     "kelime": "değer atamak",
-    "aciklama": "bir değişkene hafızada saklanacak veri yüklemek",
+    "aciklama": "tüm modern dosya arşivleme yazılımlarında kullanılan popüler kayıpsız sözlük sıkıştırması.",
     "yasakli_kelimeler": [
       "değişken",
       "eşittir",
@@ -2886,7 +2886,7 @@
   {
     "kategori": "algoritmalar",
     "kelime": "fonksiyon çağırmak",
-    "aciklama": "tanımlanmış bir kod bloğunu ismini belirterek yürütmek",
+    "aciklama": "yüksek sıkıştırma oranı ve hızlı açma sağlayan lzma algoritması.",
     "yasakli_kelimeler": [
       "parametre",
       "metot",
@@ -2900,7 +2900,7 @@
   {
     "kategori": "algoritmalar",
     "kelime": "şart koşmak",
-    "aciklama": "kodun akışını belirli bir koşulun doğruluğuna göre yönlendirmek",
+    "aciklama": "karakterlerin dizilimini benzer harfler yan yana gelecek biçimde dönüştüren algoritma.",
     "yasakli_kelimeler": [
       "if",
       "else",
@@ -2914,7 +2914,7 @@
   {
     "kategori": "algoritmalar",
     "kelime": "veri saklamak",
-    "aciklama": "bilgileri bellekte veya diskte daha sonra kullanmak üzere tutmak",
+    "aciklama": "burrows-wheeler çıktısını sıkıştırmak için sembolleri en öne taşıyan algoritma.",
     "yasakli_kelimeler": [
       "depolama",
       "bellek",
@@ -2928,7 +2928,7 @@
   {
     "kategori": "algoritmalar",
     "kelime": "çıktı üretmek",
-    "aciklama": "işlenen verilerin sonucunu ekrana veya dosyaya yazdırmak",
+    "aciklama": "sembolleri olasılıklarına göre sıfır-bir aralığında tek kesirle kodlama.",
     "yasakli_kelimeler": [
       "print",
       "ekran",
@@ -2942,7 +2942,7 @@
   {
     "kategori": "algoritmalar",
     "kelime": "değer döndürmek",
-    "aciklama": "bir fonksiyonun işlem bittikten sonra çağrıldığı yere sonuç iletmesi",
+    "aciklama": "veri iletimindeki tek bitlik hataları tespit edip düzelten kodlama.",
     "yasakli_kelimeler": [
       "return",
       "sonuç",
@@ -2956,7 +2956,7 @@
   {
     "kategori": "algoritmalar",
     "kelime": "girdi almak",
-    "aciklama": "kullanıcıdan veya dış kaynaktan işlenmek üzere veri okumak",
+    "aciklama": "cd ve qr kodlarda veri kayıplarını düzelten hata kodu.",
     "yasakli_kelimeler": [
       "input",
       "klavye",
@@ -2970,7 +2970,7 @@
   {
     "kategori": "algoritmalar",
     "kelime": "bellek ayırmak",
-    "aciklama": "işletim sisteminden programın kullanımı için ram alanı talep etmek",
+    "aciklama": "veri paketinin bozulup bozulmadığını polinom bölmesiyle denetleyen hata kontrol kodu.",
     "yasakli_kelimeler": [
       "ram",
       "hafıza",
@@ -2984,7 +2984,7 @@
   {
     "kategori": "algoritmalar",
     "kelime": "indekslemek",
-    "aciklama": "verilere hızlı erişim için anahtar ve konum eşleştirmesi oluşturmak",
+    "aciklama": "bayttaki birlerin sayısının çift veya tek olduğunu gösteren bit.",
     "yasakli_kelimeler": [
       "dizin",
       "hızlı erişim",
@@ -2998,7 +2998,7 @@
   {
     "kategori": "algoritmalar",
     "kelime": "graf gezmek",
-    "aciklama": "düğümler ve kenarlardan oluşan ağ yapısındaki tüm elemanları dolaşmak",
+    "aciklama": "veri paketlerinin doğruluğunu denetlemek için eklenen özet sağlama toplamı.",
     "yasakli_kelimeler": [
       "bfs",
       "dfs",
@@ -3012,7 +3012,7 @@
   {
     "kategori": "algoritmalar",
     "kelime": "yığına eklemek",
-    "aciklama": "son giren ilk çıkar mantığındaki veri yapısına eleman koymak",
+    "aciklama": "arama motorlarında web sayfalarını bağlantı yapılarına göre sıralayan temel algoritma.",
     "yasakli_kelimeler": [
       "push",
       "stack",
@@ -3026,7 +3026,7 @@
   {
     "kategori": "algoritmalar",
     "kelime": "kuyruktan çıkarmak",
-    "aciklama": "ilk giren ilk çıkar mantığındaki veri yapısından sıradaki elemanı almak",
+    "aciklama": "arama motorlarında kelime eşleşmesi ve alaka düzeyini puanlayan algoritma.",
     "yasakli_kelimeler": [
       "dequeue",
       "queue",
@@ -3040,7 +3040,7 @@
   {
     "kategori": "algoritmalar",
     "kelime": "ağaç dengelemek",
-    "aciklama": "ikili arama ağacının derinliğini minimize ederek arama hızını korumak",
+    "aciklama": "metin belgelerinin kelime frekanslarına göre önem ağırlığını hesaplayan klasik formül.",
     "yasakli_kelimeler": [
       "avl",
       "red black",
@@ -3054,7 +3054,7 @@
   {
     "kategori": "algoritmalar",
     "kelime": "böl yönet uygulamak",
-    "aciklama": "büyük problemi küçük alt parçalara bölüp çözümleri birleştirmek",
+    "aciklama": "kullanıcıların geçmiş davranışlarına bakarak benzer ürün önerileri üreten tavsiye algoritması.",
     "yasakli_kelimeler": [
       "parçalamak",
       "alt problem",
@@ -3068,7 +3068,7 @@
   {
     "kategori": "algoritmalar",
     "kelime": "açgözlü yaklaşmak",
-    "aciklama": "her adımda o an için en kazançlı görünen yerel tercihi yapmak",
+    "aciklama": "ürünlerin öznitelik benzerliklerine bakarak kullanıcıya yeni ürünler öneren algoritma.",
     "yasakli_kelimeler": [
       "greedy",
       "yerel optimum",
@@ -3082,7 +3082,7 @@
   {
     "kategori": "algoritmalar",
     "kelime": "karmaşıklık hesaplamak",
-    "aciklama": "algoritmanın çalışma süresi ve bellek tüketimini matematiksel ifade etmek",
+    "aciklama": "kullanıcı-ürün matrisini gizli faktörlere ayrıştırarak eksik puanları tahmin eden yöntem.",
     "yasakli_kelimeler": [
       "big o",
       "zaman",
@@ -3096,7 +3096,7 @@
   {
     "kategori": "algoritmalar",
     "kelime": "çakışma çözmek",
-    "aciklama": "özetleme tablosunda aynı indekse denk gelen verileri ayrıştırmak",
+    "aciklama": "veri akışından elemanların eşit olasılıkla seçilmesini sağlayan örnekleme.",
     "yasakli_kelimeler": [
       "collision",
       "hash",
@@ -3109,8 +3109,8 @@
   },
   {
     "kategori": "algoritmalar",
-    "kelime": "en kısa rota",
-    "aciklama": "ağ üzerindeki iki düğüm arasındaki minimum maliyetli rotayı hesaplamak",
+    "kelime": "diziyi rastgele karıştırmak",
+    "aciklama": "bir dizideki elemanları eşit olasılıkla rastgele sıralamak",
     "yasakli_kelimeler": [
       "dijkstra",
       "a star",
@@ -3124,7 +3124,7 @@
   {
     "kategori": "algoritmalar",
     "kelime": "bağlı liste oluşturmak",
-    "aciklama": "elemanların birbirini işaretçiyle gösterdiği dinamik liste kurmak",
+    "aciklama": "bir sayının karesini ve karekökünü bit hilesiyle hızlı hesaplama.",
     "yasakli_kelimeler": [
       "pointer",
       "düğüm",
@@ -3138,7 +3138,7 @@
   {
     "kategori": "algoritmalar",
     "kelime": "ikili aramak",
-    "aciklama": "sıralı diziyi her adımda ortadan ikiye bölerek veriyi logaritmik hızda bulmak",
+    "aciklama": "üç boyutlu sahnelerde poligonları derinliklerine göre gizleyen tampon algoritması.",
     "yasakli_kelimeler": [
       "binary search",
       "orta",
@@ -3152,7 +3152,7 @@
   {
     "kategori": "algoritmalar",
     "kelime": "dizi kopyalamak",
-    "aciklama": "bellekteki bir dizinin elemanlarını başka bir bellek alanına aktarmak",
+    "aciklama": "ekranda iki nokta arasına pürüzsüz düz çizgi çizen algoritma.",
     "yasakli_kelimeler": [
       "aktarma",
       "klonlama",
@@ -3166,7 +3166,7 @@
   {
     "kategori": "algoritmalar",
     "kelime": "matris çarpmak",
-    "aciklama": "satır ve sütun elemanlarının skaler çarpımlarıyla yeni matris üretmek",
+    "aciklama": "yalnızca tamsayı işlemleriyle ekrana kusursuz çember çizen verimli piksel algoritması.",
     "yasakli_kelimeler": [
       "satır",
       "sütun",
@@ -3180,7 +3180,7 @@
   {
     "kategori": "algoritmalar",
     "kelime": "metin eşleştirmek",
-    "aciklama": "uzun bir metin içinde belirli bir alt dizgiyi algoritmalarla aramak",
+    "aciklama": "kapalı piksel alanını sınır rengine kadar özyinelemeli dolduran algoritma.",
     "yasakli_kelimeler": [
       "kmp",
       "string matching",
@@ -3194,7 +3194,7 @@
   {
     "kategori": "algoritmalar",
     "kelime": "optimizasyon yapmak",
-    "aciklama": "kodun çalışma hızını ve kaynak tüketimini en iyi seviyeye getirmek",
+    "aciklama": "ışık ışınlarının fiziksel yansımalarını geriye izleyerek görüntü üreten algoritma.",
     "yasakli_kelimeler": [
       "iyileştirme",
       "hızlandırma",
@@ -3208,7 +3208,7 @@
   {
     "kategori": "algoritmalar",
     "kelime": "iş parçacığı senkronlamak",
-    "aciklama": "aynı anda çalışan paralel kod bloklarının veri çakışmasını engellemek",
+    "aciklama": "üç boyutlu ışık saçılımını simüle eden global aydınlatma algoritması.",
     "yasakli_kelimeler": [
       "thread",
       "mutex",
@@ -3222,7 +3222,7 @@
   {
     "kategori": "algoritmalar",
     "kelime": "veri sıkıştırmak",
-    "aciklama": "bilgiyi daha az bit kullanarak kayıpsız veya kayıplı kodlamak",
+    "aciklama": "hacimsel verilerden eşyüzeyli poligon ağları çıkaran grafik algoritması.",
     "yasakli_kelimeler": [
       "huffman",
       "gzip",
@@ -3236,7 +3236,7 @@
   {
     "kategori": "algoritmalar",
     "kelime": "tip dönüşümü yapmak",
-    "aciklama": "bir veri tipini başka bir veri tipine programatik çevirmek",
+    "aciklama": "karmaşık eğrileri ve yüzeyleri kontrol noktalarıyla modelleyen parametrik eğri algoritması.",
     "yasakli_kelimeler": [
       "casting",
       "integer",
@@ -3250,7 +3250,7 @@
   {
     "kategori": "algoritmalar",
     "kelime": "prototip üretmek",
-    "aciklama": "algoritmanın mantığını test etmek için hızlı ve basit bir taslak kod yazmak",
+    "aciklama": "farklı ağırlıklı kontrol noktalarıyla pürüzsüz yüzey modelleme matematiksel standardı.",
     "yasakli_kelimeler": [
       "taslak",
       "deneme",
@@ -3264,7 +3264,7 @@
   {
     "kategori": "algoritmalar",
     "kelime": "istisna yakalamak",
-    "aciklama": "çalışma zamanında oluşan beklenmedik hataları programı çökertmeden yönetmek",
+    "aciklama": "çizgileri ekran penceresi sınırlarına göre kesip kırpan grafik algoritması.",
     "yasakli_kelimeler": [
       "try catch",
       "exception",
@@ -3278,7 +3278,7 @@
   {
     "kategori": "algoritmalar",
     "kelime": "önbelleğe almak",
-    "aciklama": "sık kullanılan işlem sonuçlarını hızlı erişilen belleğe kaydetmek",
+    "aciklama": "çokgenleri görünüm sınırına göre kırpan klasik bilgisayar grafiği algoritması.",
     "yasakli_kelimeler": [
       "cache",
       "lru",
@@ -3292,7 +3292,7 @@
   {
     "kategori": "algoritmalar",
     "kelime": "dinamik programlamak",
-    "aciklama": "alt problemlerin çözümlerini tabloya kaydedip tekrar kullanmak",
+    "aciklama": "ayrık veriler arasına pürüzsüz ara değerler ekleyen interpolasyon işlemi.",
     "yasakli_kelimeler": [
       "memoization",
       "tabulation",
@@ -3306,7 +3306,7 @@
   {
     "kategori": "algoritmalar",
     "kelime": "geri iz sürmek",
-    "aciklama": "çözüm uzayında çıkmaza girildiğinde önceki adıma dönüp diğer yolu denemek",
+    "aciklama": "verilere en yakın eğriyi kare hatalarını minimize ederek uydurma.",
     "yasakli_kelimeler": [
       "backtracking",
       "sudoku",
@@ -3320,7 +3320,7 @@
   {
     "kategori": "algoritmalar",
     "kelime": "bellek sızıntısı önlemek",
-    "aciklama": "kullanımı biten dinamik bellek alanlarını serbest bırakmak",
+    "aciklama": "fonksiyonun kökünü teğet doğruları çizerek hızlıca bulan nümerik yöntem.",
     "yasakli_kelimeler": [
       "memory leak",
       "free",
@@ -3334,7 +3334,7 @@
   {
     "kategori": "algoritmalar",
     "kelime": "asenkron çalıştırmak",
-    "aciklama": "ana program akışını bloke etmeden arka planda işlem yürütmek",
+    "aciklama": "fonksiyonun kökünü aralığı sürekli ikiye bölerek bulan yöntem.",
     "yasakli_kelimeler": [
       "async",
       "await",
@@ -3348,7 +3348,7 @@
   {
     "kategori": "algoritmalar",
     "kelime": "serileştirmek",
-    "aciklama": "bellekteki karmaşık nesneyi iletilmek veya saklanmak üzere bayt dizisine çevirmek",
+    "aciklama": "diferansiyel denklemleri adım adım sayısal olarak çözen yöntem.",
     "yasakli_kelimeler": [
       "serialization",
       "json",
@@ -3362,7 +3362,7 @@
   {
     "kategori": "algoritmalar",
     "kelime": "kriptografik özetlemek",
-    "aciklama": "girdi verisinden tek yönlü sabit uzunlukta güvenli karma üretmek",
+    "aciklama": "diferansiyel denklemleri yüksek doğrulukla çözen dördüncü dereceden popüler nümerik algoritma.",
     "yasakli_kelimeler": [
       "sha256",
       "hash",
@@ -3376,7 +3376,7 @@
   {
     "kategori": "algoritmalar",
     "kelime": "çöp toplamak",
-    "aciklama": "çalışma ortamının erişilemeyen nesnelerin belleğini otomatik geri kazanması",
+    "aciklama": "eğri altındaki alanı yamuklara bölerek hesaplayan integral yöntemi.",
     "yasakli_kelimeler": [
       "garbage collection",
       "otomatik",
@@ -3390,7 +3390,7 @@
   {
     "kategori": "algoritmalar",
     "kelime": "vektörize etmek",
-    "aciklama": "döngü yerine tek bir komutla birden çok veri üzerinde simdi işlemi yapmak",
+    "aciklama": "fonksiyon altındaki alanı parabolik parçalarla entegre eden yöntem.",
     "yasakli_kelimeler": [
       "simd",
       "paralel",
@@ -3404,7 +3404,7 @@
   {
     "kategori": "algoritmalar",
     "kelime": "topolojik sıralamak",
-    "aciklama": "yönlü döngüsüz grafta bağımlılık sırasına göre düğümleri dizmek",
+    "aciklama": "rastgele sayılar üreterek karmaşık integralleri ve fiziksel sistemleri hesaplayan yöntem.",
     "yasakli_kelimeler": [
       "dag",
       "bağımlılık",
@@ -3418,7 +3418,7 @@
   {
     "kategori": "algoritmalar",
     "kelime": "kapsüllemek",
-    "aciklama": "nesne yönelimli programlamada veri ve metotları dışarıdan gizleyerek paketlemek",
+    "aciklama": "matrisi alt ve üst üçgen matrislere ayıran yöntem.",
     "yasakli_kelimeler": [
       "encapsulation",
       "private",
@@ -3432,7 +3432,7 @@
   {
     "kategori": "algoritmalar",
     "kelime": "ağaç rotasyonu yapmak",
-    "aciklama": "kendi kendini dengeleyen ağaçlarda sola veya sağa döndürme işlemi uygulamak",
+    "aciklama": "doğrusal denklem sistemlerini bilinmeyenleri eleyerek üçgensel matrise dönüştüren klasik yöntem.",
     "yasakli_kelimeler": [
       "sol sağ",
       "avl",
@@ -3446,7 +3446,7 @@
   {
     "kategori": "algoritmalar",
     "kelime": "np tamlığa indirgemek",
-    "aciklama": "bir problemi bilinen zor bir probleme polinom zamanda dönüştürmek",
+    "aciklama": "doğrusal denklem sistemlerini yinelemeli olarak çözen matris algoritması.",
     "yasakli_kelimeler": [
       "reduction",
       "polinom zaman",
@@ -3460,7 +3460,7 @@
   {
     "kategori": "algoritmalar",
     "kelime": "yapılandırılmış programlamak",
-    "aciklama": "goto komutları yerine bloklar ve fonksiyonlarla düzenli kod akışı kurmak",
+    "aciklama": "büyük seyrek simetrik denklem sistemlerini hızlı çözen gradyan algoritması.",
     "yasakli_kelimeler": [
       "blok",
       "goto",

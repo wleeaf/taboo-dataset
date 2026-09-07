@@ -3,7 +3,7 @@
     "id": 1,
     "kategori": "astronotik",
     "kelime": "itki",
-    "aciklama": "roket motorunun egzoz gazlarını yüksek hızla dışarı püskürterek newton prensibiyle ürettiği ileri itme kuvveti.",
+    "aciklama": "roket motorunun gazları püskürterek ürettiği ileri itme kuvveti.",
     "yasakli_kelimeler": [
       "thrust",
       "kuvvet",
@@ -17,7 +17,7 @@
     "id": 2,
     "kategori": "astronotik",
     "kelime": "yakıt",
-    "aciklama": "roket motorlarında yanma odasında oksitleyici ile tepkimeye girerek yüksek enerjili gaz oluşturan kimyasal madde.",
+    "aciklama": "roket motorlarında oksitleyici ile tepkimeye giren kimyasal yakıt.",
     "yasakli_kelimeler": [
       "itici gaz",
       "hidrojen",
@@ -31,7 +31,7 @@
     "id": 3,
     "kategori": "astronotik",
     "kelime": "oksitleyici",
-    "aciklama": "atmosfersiz uzay boşluğunda yakıtın yanabilmesi için roket tanklarında taşınan sıvı oksijen gibi bileşen.",
+    "aciklama": "uzay boşluğunda yakıtın yanması için taşınan sıvı oksijen bileşeni.",
     "yasakli_kelimeler": [
       "sıvı oksijen",
       "yanma",
@@ -45,7 +45,7 @@
     "id": 4,
     "kategori": "astronotik",
     "kelime": "kademe",
-    "aciklama": "yakıtı tükendikçe ağırlığı azaltmak amacıyla ana gövdeden ayrılarak denize veya atmosfere düşen bağımsız roket bölümü.",
+    "aciklama": "roket motorunun yakıt verimliliğini gösteren temel itki metriği.",
     "yasakli_kelimeler": [
       "evre",
       "bölüm",
@@ -59,7 +59,7 @@
     "id": 5,
     "kategori": "astronotik",
     "kelime": "yörünge",
-    "aciklama": "bir uzay aracının veya uydunun yerçekimi etkisi altında bir gök cisminin etrafında izlediği düzenli kapalı eğri.",
+    "aciklama": "roket motorunun ürettiği itki kuvvetinin toplam roket ağırlığına oranı.",
     "yasakli_kelimeler": [
       "dönüş yolu",
       "dolap",
@@ -73,7 +73,7 @@
     "id": 6,
     "kategori": "astronotik",
     "kelime": "faydalıyük",
-    "aciklama": "roketin ana görevi olarak uzaya, yörüngeye veya diğer gezegenlere taşıdığı uydu, kargo veya mürettebat.",
+    "aciklama": "roketin hızındaki toplam değişim miktarını gösteren hız kapasitesi.",
     "yasakli_kelimeler": [
       "kargo",
       "uydu",
@@ -87,7 +87,7 @@
     "id": 7,
     "kategori": "astronotik",
     "kelime": "fırlatmarampası",
-    "aciklama": "roketin kalkış öncesinde dik olarak sabitlendiği, yakıt dolumu yapılan ve ateşlemenin gerçekleştiği beton kule.",
+    "aciklama": "roketin başlangıçtaki kütlesinin yakıt bittikten sonraki kuru kütlesine oranı.",
     "yasakli_kelimeler": [
       "pad",
       "kalkış yeri",
@@ -101,7 +101,7 @@
     "id": 8,
     "kategori": "astronotik",
     "kelime": "gerisayım",
-    "aciklama": "fırlatma anına kadar tüm sistem kontrollerinin saniye saniye takip edildiği sıfıra doğru azalan zamanlama süreci.",
+    "aciklama": "roket hızını kütle oranı ve egzoz hızına bağlayan tsiolkovsky denklemi.",
     "yasakli_kelimeler": [
       "zaman",
       "sıfır",
@@ -115,7 +115,7 @@
     "id": 9,
     "kategori": "astronotik",
     "kelime": "ateşleme",
-    "aciklama": "yanma odasındaki yakıt ve oksitleyici karışımının kıvılcımla tutuşturulup devasa enerjinin açığa çıktığı başlangıç anı.",
+    "aciklama": "sıvı hidrojen ve sıvı oksijen gibi kriyojenik yakıtlarla çalışan motor.",
     "yasakli_kelimeler": [
       "başlatma",
       "kıvılcım",
@@ -129,7 +129,7 @@
     "id": 10,
     "kategori": "astronotik",
     "kelime": "fırlatma",
-    "aciklama": "roketin yerçekimini yenerek rampadan havalanıp atmosferi aşmak üzere gökyüzüne yükselmesi olayı.",
+    "aciklama": "katı yakıt ve oksitleyici hamuruyla çalışan güçlü itici roket.",
     "yasakli_kelimeler": [
       "kalkış",
       "lift off",
@@ -143,7 +143,7 @@
     "id": 11,
     "kategori": "astronotik",
     "kelime": "burunkonisi",
-    "aciklama": "roketin en ucunda bulunan ve atmosferden çıkarken aerodinamik sürtünmeyi en aza indiren sivri kaporta.",
+    "aciklama": "katı yakıt ile sıvı oksitleyiciyi birleştiren hibrit motor.",
     "yasakli_kelimeler": [
       "sivri uç",
       "aerodinamik",
@@ -157,7 +157,7 @@
     "id": 12,
     "kategori": "astronotik",
     "kelime": "skkafes",
-    "aciklama": "fırlatma esnasında basınç ve aerodinamik yüklerin faydalı yüke zarar vermesini önleyen koruyucu kaporta kabuğu.",
+    "aciklama": "gazları elektrik alanıyla hızlandırarak yüksek verimli itki üreten motor.",
     "yasakli_kelimeler": [
       "fairing",
       "kaporta",
@@ -171,7 +171,7 @@
     "id": 13,
     "kategori": "astronotik",
     "kelime": "dönüştürücü",
-    "aciklama": "birinci kademe motorlarından çıkan sıcak gazların yönünü değiştirerek rokete açı ve istikamet kazandıran lüle sistemi.",
+    "aciklama": "gazı mikrodalga veya manyetik alanla plazmaya çevirip hızlandıran motor.",
     "yasakli_kelimeler": [
       "lüle",
       "gimbal",
@@ -185,7 +185,7 @@
     "id": 14,
     "kategori": "astronotik",
     "kelime": "nozul",
-    "aciklama": "yanma odasında oluşan yüksek basınçlı gazları süpersonik hızlara ulaştırarak dışarı püskürten çan biçimli ağız.",
+    "aciklama": "nükleer reaktör ısısıyla hidrojeni genleştirerek itki üreten fütüristik roket.",
     "yasakli_kelimeler": [
       "lüle",
       "çan",
@@ -199,7 +199,7 @@
     "id": 15,
     "kategori": "astronotik",
     "kelime": "turbopompa",
-    "aciklama": "tonlarca sıvı yakıt ve oksitleyiciyi saniyeler içinde devasa basınçla yanma odasına basan yüksek devirli pompa.",
+    "aciklama": "roket motorunda yakıt ve oksitleyicinin alev aldığı yüksek basınçlı oda.",
     "yasakli_kelimeler": [
       "pompa",
       "yakıt besleme",
@@ -213,7 +213,7 @@
     "id": 16,
     "kategori": "astronotik",
     "kelime": "katıyakıt",
-    "aciklama": "bir kez ateşlendikten sonra durdurulamayan, alüminyum tozu ve amonyum perklorat içeren yoğun itici blok.",
+    "aciklama": "yanma gazlarını süpersonik hıza ulaştıran daralıp genişleyen çan lüle.",
     "yasakli_kelimeler": [
       "katı itici",
       "durdurulamayan",
@@ -227,7 +227,7 @@
     "id": 17,
     "kategori": "astronotik",
     "kelime": "sıvıyakıt",
-    "aciklama": "akışı vanalarla kontrol edilebilen, motoru durdurulup tekrar çalıştırılabilen sıvı hidrojen veya kerosin türevi.",
+    "aciklama": "roket lülesinde gazların ses hızına ulaştığı en dar boğaz.",
     "yasakli_kelimeler": [
       "kerosin",
       "sıvı hidrojen",
@@ -241,7 +241,7 @@
     "id": 18,
     "kategori": "astronotik",
     "kelime": "kriyojenik",
-    "aciklama": "sıvı hidrojen ve sıvı oksijen gibi gazların eksi iki yüz derecelerin altında sıvı halde saklandığı aşırı soğuk teknoloji.",
+    "aciklama": "roket yakıtını yanma odasına devasa basınçla basan yüksek hızlı pompa.",
     "yasakli_kelimeler": [
       "çok soğuk",
       "eksi derece",
@@ -255,7 +255,7 @@
     "id": 19,
     "kategori": "astronotik",
     "kelime": "apogee",
-    "aciklama": "dünya etrafında eliptik yörüngede dönen bir uzay aracının dünyaya en uzak olduğu yörünge doruk noktası.",
+    "aciklama": "turbopompayı döndürmek için az miktar yakıt yakan ön yanma odası.",
     "yasakli_kelimeler": [
       "en uzak",
       "yörünge",
@@ -269,7 +269,7 @@
     "id": 20,
     "kategori": "astronotik",
     "kelime": "perigee",
-    "aciklama": "eliptik yörüngedeki bir uzay aracının veya ayın yerküreye en yakın mesafede bulunduğu yörünge taban noktası.",
+    "aciklama": "ön yanma gazlarını ana odaya yönlendirerek yakıtı ziyan etmeyen çevrim.",
     "yasakli_kelimeler": [
       "en yakın",
       "nokta",
@@ -283,7 +283,7 @@
     "id": 21,
     "kategori": "astronotik",
     "kelime": "apoapsis",
-    "aciklama": "herhangi bir gök cisminin yörüngesinde dolanan aracın o merkez cisme en uzak olduğu genel astronomik konum.",
+    "aciklama": "turbopompayı çalıştıran gazın doğrudan dışarıya atıldığı açık motor çevrimi.",
     "yasakli_kelimeler": [
       "en uzak",
       "yörünge noktası",
@@ -297,7 +297,7 @@
     "id": 22,
     "kategori": "astronotik",
     "kelime": "periapsis",
-    "aciklama": "yörüngedeki bir aracın çekim merkezini oluşturan gök cismine en çok yaklaştığı en alçak yörünge pozisyonu.",
+    "aciklama": "kriyojenik yakıtı yanma odası duvarlarında dolaştırarak motoru soğutma yöntemi.",
     "yasakli_kelimeler": [
       "en yakın",
       "alçak nokta",
@@ -311,7 +311,7 @@
     "id": 23,
     "kategori": "astronotik",
     "kelime": "alçakyörünge",
-    "aciklama": "dünya yüzeyinden yaklaşık 160 ile 2000 kilometre yükseklik arasında kalan ve uzay istasyonunun bulunduğu kuşak.",
+    "aciklama": "lüle iç yüzeyine ince yakıt tabakası püskürterek ısıyı kesme yöntemi.",
     "yasakli_kelimeler": [
       "leo",
       "uzay istasyonu",
@@ -325,7 +325,7 @@
     "id": 24,
     "kategori": "astronotik",
     "kelime": "jeosenkron",
-    "aciklama": "dünyanın kendi ekseni etrafındaki 24 saatlik dönüş periyoduyla tam eşzamanlı dönen yüksek yörünge sınıfı.",
+    "aciklama": "lüle yüzeyindeki karbon malzemenin buharlaşarak ısıyı uzaklaştırması yöntemi.",
     "yasakli_kelimeler": [
       "yirmi dört saat",
       "eşzamanlı",
@@ -339,7 +339,7 @@
     "id": 25,
     "kategori": "astronotik",
     "kelime": "jeostatik",
-    "aciklama": "ekvator üzerinde 35.786 km yükseklikte bulunan ve yerdeki bir gözlemciye göre gökyüzünde hep sabit duran yörünge.",
+    "aciklama": "birbirine temas ettiği anda kendiliğinden alev alan kimyasal yakıtlar.",
     "yasakli_kelimeler": [
       "sabit",
       "ekvator",
@@ -353,7 +353,7 @@
     "id": 26,
     "kategori": "astronotik",
     "kelime": "kutupyörüngesi",
-    "aciklama": "aracın kuzey ve güney kutuplarının üzerinden geçerek dönmesi sayesinde tüm dünya yüzeyini tarayabilen yörünge.",
+    "aciklama": "eksi yüz elli derecenin altındaki sıvılaştırılmış kriyojenik roket gazları.",
     "yasakli_kelimeler": [
       "kuzey",
       "güney",
@@ -367,7 +367,7 @@
     "id": 27,
     "kategori": "astronotik",
     "kelime": "güneşzamanlı",
-    "aciklama": "kutup yörüngesinde dönerken geçtiği her bölgenin üzerinden her gün aynı yerel güneş saatinde geçen özel yörünge.",
+    "aciklama": "roket yakıtı olarak kullanılan yüksek oranda rafine edilmiş kerosen.",
     "yasakli_kelimeler": [
       "sun synchronous",
       "güneş açısı",
@@ -381,7 +381,7 @@
     "id": 28,
     "kategori": "astronotik",
     "kelime": "hohmann",
-    "aciklama": "iki dairesel yörünge arasında en az yakıt harcayarak geçiş yapmayı sağlayan eliptik transfer manevrası.",
+    "aciklama": "en yüksek kimyasal verimi sağlayan sıvı yakıt bileşimi.",
     "yasakli_kelimeler": [
       "transfer",
       "manevra",
@@ -395,7 +395,7 @@
     "id": 29,
     "kategori": "astronotik",
     "kelime": "kurtulmahızı",
-    "aciklama": "bir cismin bir gezegenin kütleçekim alanından tamamen kopup uzaya çıkabilmesi için gereken asgari hız.",
+    "aciklama": "yüksek verimli, temiz yanan ve ucuz sıvı metan yakıtı.",
     "yasakli_kelimeler": [
       "çekimden kaçış",
       "on bir kilometre",
@@ -409,7 +409,7 @@
     "id": 30,
     "kategori": "astronotik",
     "kelime": "deltav",
-    "aciklama": "bir uzay aracının yörünge değiştirmek veya manevra yapmak için sahip olduğu toplam hız değişimi kapasitesi.",
+    "aciklama": "roketin hedefe ulaşmak için taşıdığı uydu veya insanlı kapsül.",
     "yasakli_kelimeler": [
       "hız değişimi",
       "manevra bütçesi",
@@ -423,7 +423,7 @@
     "id": 31,
     "kategori": "astronotik",
     "kelime": "özgülitki",
-    "aciklama": "roket motorunun yakıt verimliliğini gösteren ve birim yakıt kütlesi başına üretilen itme süresi değeri.",
+    "aciklama": "fırlatma sırasında yükü ve kapsülü aerodinamik sürtünmeden koruyan burun konisi.",
     "yasakli_kelimeler": [
       "isp",
       "verimlilik",
@@ -437,7 +437,7 @@
     "id": 32,
     "kategori": "astronotik",
     "kelime": "max-q",
-    "aciklama": "roketin atmosferden çıkışı sırasında hız ve hava yoğunluğu çarpımıyla üzerine binen en yüksek dinamik basınç anı.",
+    "aciklama": "yakıtı biten roket katının gövdeden patlayıcı cıvatalarla ayrılması işlemi.",
     "yasakli_kelimeler": [
       "azami basınç",
       "dinamik yük",
@@ -451,7 +451,7 @@
     "id": 33,
     "kategori": "astronotik",
     "kelime": "yerçekimisapanı",
-    "aciklama": "bir gezegenin kütleçekiminden ve yörünge hızından faydalanarak uzay sondasını hızlandırma manevrası.",
+    "aciklama": "fırlatmanın ilk anında ana rokete destek veren yan güçlendiriciler.",
     "yasakli_kelimeler": [
       "gravity assist",
       "gezegen çekimi",
@@ -465,7 +465,7 @@
     "id": 34,
     "kategori": "astronotik",
     "kelime": "aerobraking",
-    "aciklama": "uzay aracının yakıt harcamadan hızını düşürmek ve yörüngeye oturmak için bir gezegenin atmosferine sürtünmesi.",
+    "aciklama": "ana roketten ayrıldıktan sonra yükü hedef yörüngeye taşıyan üst kademe.",
     "yasakli_kelimeler": [
       "atmosfer freni",
       "sürtünme",
@@ -479,7 +479,7 @@
     "id": 35,
     "kategori": "astronotik",
     "kelime": "kenetlenme",
-    "aciklama": "yörüngedeki iki bağımsız uzay aracının hassas manevralarla birbirine fiziksel ve hava sızdırmaz olarak kilitlenmesi.",
+    "aciklama": "roket motorunun lülesini hidrolik kollarla döndürerek roketi yönlendirme tekniği.",
     "yasakli_kelimeler": [
       "docking",
       "bağlanma",
@@ -493,7 +493,7 @@
     "id": 36,
     "kategori": "astronotik",
     "kelime": "hava-kilidi",
-    "aciklama": "astronotların uzay yürüyüşüne çıkarken kabin havasını kaybetmemek için kullandıkları çift kapılı geçiş odası.",
+    "aciklama": "uzay aracının yönünü hassas ayarlamak için kullanılan minik itici motorlar.",
     "yasakli_kelimeler": [
       "airlock",
       "basınç odası",
@@ -507,7 +507,7 @@
     "id": 37,
     "kategori": "astronotik",
     "kelime": "eva",
-    "aciklama": "astronotun uzay aracının veya istasyonun dışına çıkarak uzay boşluğunda gerçekleştirdiği tüm faaliyetler.",
+    "aciklama": "uzay aracını itki harcamadan döndürmek için dönen ağır tepki tekeri.",
     "yasakli_kelimeler": [
       "uzay yürüyüşü",
       "dışarı çıkış",
@@ -521,7 +521,7 @@
     "id": 38,
     "kategori": "astronotik",
     "kelime": "uzaygiysisi",
-    "aciklama": "vakum ortamında astronota oksijen, basınç, ısı yalıtımı ve mikrometeorit koruması sağlayan giyilebilir modül.",
+    "aciklama": "jiroskop ve ivmeölçerlerle uzay aracının konumunu hesaplayan ataletsel sistem.",
     "yasakli_kelimeler": [
       "elbise",
       "kask",
@@ -535,7 +535,7 @@
     "id": 39,
     "kategori": "astronotik",
     "kelime": "kask",
-    "aciklama": "astronotun başını koruyan, telsiz iletişimi barındıran ve güneş parlamasına karşı altın vizörlü sert başlık.",
+    "aciklama": "uzay aracının yıldızları tarayarak uzaydaki yönelimini hassas belirleyen kamera.",
     "yasakli_kelimeler": [
       "başlık",
       "vizör",
@@ -549,7 +549,7 @@
     "id": 40,
     "kategori": "astronotik",
     "kelime": "vizör",
-    "aciklama": "uzay kaskının önünde bulunan, gözleri zararlı morötesi güneş ışınlarından koruyan ince altın kaplı kalkan.",
+    "aciklama": "dünya yüzeyinden yüz kilometre yükseklikte başlayan resmi uzay sınırı.",
     "yasakli_kelimeler": [
       "güneş kalkanı",
       "altın",
@@ -563,7 +563,7 @@
     "id": 41,
     "kategori": "astronotik",
     "kelime": "yaşamdestek",
-    "aciklama": "uzay kabininde oksijen üreten, karbondioksiti filtreleyen, su ve sıcaklığı dengeleyen hayati sistemler bütünü.",
+    "aciklama": "yüz altmış ile iki bin kilometre arasındaki uydu yörüngesi kuşağı.",
     "yasakli_kelimeler": [
       "eclss",
       "oksijen",
@@ -577,7 +577,7 @@
     "id": 42,
     "kategori": "astronotik",
     "kelime": "karbondioksitovucu",
-    "aciklama": "kapalı uzay kabininde astronotların nefes vermesiyle biriken zehirli gazı kimyasal olarak emen lityum hidroksit filtresi.",
+    "aciklama": "iki bin ile otuz beş bin kilometre arasındaki navigasyon yörüngesi.",
     "yasakli_kelimeler": [
       "scrubber",
       "filtre",
@@ -591,7 +591,7 @@
     "id": 43,
     "kategori": "astronotik",
     "kelime": "mikroyerçekimi",
-    "aciklama": "yörüngedeki serbest düşüş hareketi nedeniyle uzay istasyonunda oluşan ağırlıksızlık ve havada süzülme ortamı.",
+    "aciklama": "otuz beş bin yedi yüz seksen altı kilometredeki sabit yörünge.",
     "yasakli_kelimeler": [
       "ağırlıksızlık",
       "sıfır yerçekimi",
@@ -605,7 +605,7 @@
     "id": 44,
     "kategori": "astronotik",
     "kelime": "uzaytutması",
-    "aciklama": "ağırlıksız ortama giren astronotların iç kulak denge sisteminin bozulmasıyla yaşadığı mide bulantısı ve sersemlik.",
+    "aciklama": "uydunun kutuplar üzerinden geçerek tüm dünyayı taradığı kutupsal yörünge.",
     "yasakli_kelimeler": [
       "mide bulantısı",
       "iç kulak",
@@ -619,7 +619,7 @@
     "id": 45,
     "kategori": "astronotik",
     "kelime": "kasvekemikerimesi",
-    "aciklama": "yerçekimsiz ortamda vücudun dirençle karşılaşmaması sonucu astronotların yaşadığı kalsiyum ve kas lifi kaybı.",
+    "aciklama": "dünya üzerindeki bir noktadan her gün aynı saatte geçen yörünge.",
     "yasakli_kelimeler": [
       "kalsiyum",
       "kemik kaybı",
@@ -633,7 +633,7 @@
     "id": 46,
     "kategori": "astronotik",
     "kelime": "koşubandı",
-    "aciklama": "istasyonda astronotların kemik erimesini önlemek için kendilerini lastik halatlarla bağlayarak koştukları cihaz.",
+    "aciklama": "rusya'nın yüksek enlemlerini kapsamak için kullandığı eliptik yüksek yörünge.",
     "yasakli_kelimeler": [
       "egzersiz",
       "bağlanmak",
@@ -647,7 +647,7 @@
     "id": 47,
     "kategori": "astronotik",
     "kelime": "uzayyemeği",
-    "aciklama": "kırıntı dökülüp cihazlara kaçmaması için suyu alınmış, vakumlanmış veya tüplere doldurulmuş özel gıda.",
+    "aciklama": "iki gezegen arasında en az yakıt harcayarak geçiş sağlayan yörünge.",
     "yasakli_kelimeler": [
       "dondurulup kurutulmuş",
       "vakumlu",
@@ -661,7 +661,7 @@
     "id": 48,
     "kategori": "astronotik",
     "kelime": "uykutulumu",
-    "aciklama": "astronotların havada süzülüp kabin duvarlarına çarpmaması için duvara sabitlenerek içinde uyudukları tulum.",
+    "aciklama": "bir gezegenin kütleçekiminden hız alarak derin uzaya fırlama manevrası.",
     "yasakli_kelimeler": [
       "uyumak",
       "duvara bağlı",
@@ -675,7 +675,7 @@
     "id": 49,
     "kategori": "astronotik",
     "kelime": "uzaytuvaleti",
-    "aciklama": "ağırlıksız ortamda sıvı ve katı atıkları hava vakumu emiş gücü kullanarak toplayan karmaşık hijyen ünitesi.",
+    "aciklama": "atmosfer sürtünmesini kullanarak yakıt harcamadan yörüngeyi küçültme tekniği.",
     "yasakli_kelimeler": [
       "vakum",
       "emiş",
@@ -689,7 +689,7 @@
     "id": 50,
     "kategori": "astronotik",
     "kelime": "sugeri-dönüşümü",
-    "aciklama": "istasyondaki mürettebatın idrarını, terini ve solunum nemini arıtarak yeniden içme suyu haline getiren ünite.",
+    "aciklama": "uzay aracının motorlarını ters ateşleyerek yörüngeden çıkıp dünyaya dönmesi.",
     "yasakli_kelimeler": [
       "arıtma",
       "idrar",
@@ -703,7 +703,7 @@
     "id": 51,
     "kategori": "astronotik",
     "kelime": "güneşpaneli",
-    "aciklama": "uzay aracının ve uyduların elektrik ihtiyacını karşılamak için güneş ışığını fotonlarla elektriğe dönüştüren kanat.",
+    "aciklama": "uzay aracının atmosfere girerken binlerce derece sürtünme ısısına dayanması.",
     "yasakli_kelimeler": [
       "kanat",
       "elektrik",
@@ -717,7 +717,7 @@
     "id": 52,
     "kategori": "astronotik",
     "kelime": "radyatör",
-    "aciklama": "kabin içi elektronik cihazların ve insan vücudunun ürettiği aşırı ısıyı uzay boşluğuna kızılötesi ışıma ile yayan panel.",
+    "aciklama": "uzay mekiği ve kapsülleri koruyan seramik ısı kalkanı karoları.",
     "yasakli_kelimeler": [
       "ısı atımı",
       "soğutma",
@@ -731,7 +731,7 @@
     "id": 53,
     "kategori": "astronotik",
     "kelime": "termalkoruma",
-    "aciklama": "dünya atmosferine yeniden giriş sırasında binlerce derecelik sürtünme plazmasına karşı aracı koruyan seramik kalkan.",
+    "aciklama": "uzay aracının atmosfere girişte aşırı sürtünmeyle buharlaşan ısı kalkanı.",
     "yasakli_kelimeler": [
       "ısı kalkanı",
       "seramik karo",
@@ -745,7 +745,7 @@
     "id": 54,
     "kategori": "astronotik",
     "kelime": "ablativ",
-    "aciklama": "atmosfere giriş anında kontrollü olarak eriyip buharlaşarak sıcaklığı gövdeden uzaklaştıran tek kullanımlık kalkan.",
+    "aciklama": "atmosfere giriş anında aracın arkasında oluşan şok dalgası kalkanı.",
     "yasakli_kelimeler": [
       "eriyen kalkan",
       "buharlaşma",
@@ -759,7 +759,7 @@
     "id": 55,
     "kategori": "astronotik",
     "kelime": "plazma",
-    "aciklama": "atmosfere hipersonik hızla giren aracın önündeki havanın aşırı sıkışmasıyla oluşan ve radyo sinyalini kesen akkor gaz.",
+    "aciklama": "kapsülün yere veya suya yumuşak inmesini sağlayan devasa paraşüt.",
     "yasakli_kelimeler": [
       "iyonize gaz",
       "akkor",
@@ -773,7 +773,7 @@
     "id": 56,
     "kategori": "astronotik",
     "kelime": "blackout",
-    "aciklama": "atmosfere yeniden giriş sırasında kapsülün etrafını saran plazma yüzünden birkaç dakika süren radyo sessizliği.",
+    "aciklama": "space x roketlerinin iniş bacaklarıyla dik olarak zemin platformuna inmesi.",
     "yasakli_kelimeler": [
       "iletişim kopması",
       "radyo sessizliği",
@@ -787,7 +787,7 @@
     "id": 57,
     "kategori": "astronotik",
     "kelime": "paraşüt",
-    "aciklama": "atmosfere giren uzay kapsülünün iniş hızını yere veya denize çarpmadan önce yavaşlatan devasa kumaş kubbe.",
+    "aciklama": "uzay mekiğinin piste uçak gibi süzülerek tekerlekleri üzerinde inmesi.",
     "yasakli_kelimeler": [
       "yavaşlatma",
       "kumaş",
@@ -801,7 +801,7 @@
     "id": 58,
     "kategori": "astronotik",
     "kelime": "splashdown",
-    "aciklama": "uzay görevinden dönen kapsülün okyanusa veya denize paraşütlerle yumuşak iniş yapması olayı.",
+    "aciklama": "uzay kapsüllerinin okyanusa paraşütle düşerek kurtarma gemisiyle alınması.",
     "yasakli_kelimeler": [
       "suya iniş",
       "okyanus",
@@ -815,7 +815,7 @@
     "id": 59,
     "kategori": "astronotik",
     "kelime": "retro-roket",
-    "aciklama": "yörüngeden çıkmak veya inişte yere çarpmadan hemen önce hızı sıfırlamak için hareket yönünün tersine ateşlenen motor.",
+    "aciklama": "acil fırlatma anında kapsülü roketten hızla uzaklaştıran kaçış kulesi.",
     "yasakli_kelimeler": [
       "fren roketi",
       "ters ateşleme",
@@ -829,7 +829,7 @@
     "id": 60,
     "kategori": "astronotik",
     "kelime": "re-entry",
-    "aciklama": "yörüngedeki bir uzay aracının motorlarını ters yönde ateşleyerek dünya atmosferine geri dalış yapması süreci.",
+    "aciklama": "uzay aracının basınçlı kabinindeki oksijen, su ve sıcaklığı sağlayan sistem.",
     "yasakli_kelimeler": [
       "yeniden giriş",
       "atmosfere giriş",
@@ -843,7 +843,7 @@
     "id": 61,
     "kategori": "astronotik",
     "kelime": "kapsül",
-    "aciklama": "astronotları uzaya taşıyan ve görev bitiminde ısı kalkanıyla atmosfere sokarak yere indiren konik mürettebat aracı.",
+    "aciklama": "astronotların soluduğu havadaki karbondioksiti kimyasal olarak filtreleyen filtre.",
     "yasakli_kelimeler": [
       "konik",
       "mürettebat",
@@ -857,7 +857,7 @@
     "id": 62,
     "kategori": "astronotik",
     "kelime": "uzaymekiği",
-    "aciklama": "roket gibi dikey fırlatılan, yörüngede görev yaptıktan sonra uçak gibi piste tekerlek koyarak inen araç.",
+    "aciklama": "astronotların idrarını ve atık sularını arıtarak içme suyuna dönüştürme.",
     "yasakli_kelimeler": [
       "shuttle",
       "uçak gibi iniş",
@@ -871,7 +871,7 @@
     "id": 63,
     "kategori": "astronotik",
     "kelime": "uzayistasyonu",
-    "aciklama": "yıllar boyunca alçak dünya yörüngesinde kalarak bilimsel deneylere ve sürekli mürettebata ev sahipliği yapan tesis.",
+    "aciklama": "suyu elektroliz ederek uzay istasyonunda kesintisiz oksijen üreten cihaz.",
     "yasakli_kelimeler": [
       "iss",
       "laboratuvar",
@@ -885,7 +885,7 @@
     "id": 64,
     "kategori": "astronotik",
     "kelime": "küpsat",
-    "aciklama": "üniversiteler ve araştırmacılar tarafından kullanılan 10x10x10 cm boyutlarında standart minyatür küp uydu.",
+    "aciklama": "uzay boşluğuna çıkarken astronotun içine girdiği iki kapılı basınç odası.",
     "yasakli_kelimeler": [
       "küçük uydu",
       "on santim",
@@ -899,7 +899,7 @@
     "id": 65,
     "kategori": "astronotik",
     "kelime": "telemetri",
-    "aciklama": "uzay aracının yakıt seviyesi, sıcaklık, voltaj gibi sağlık verilerini radyo sinyalleriyle yer kontrol merkezine iletmesi.",
+    "aciklama": "astronotun uzay istasyonu veya aracının dışına çıkarak uzayda yürümesi.",
     "yasakli_kelimeler": [
       "veri iletimi",
       "sağlık verisi",
@@ -913,7 +913,7 @@
     "id": 66,
     "kategori": "astronotik",
     "kelime": "görevkontrol",
-    "aciklama": "fırlatmadan inişe kadar uzay uçuşunun her saniyesini ekrandan izleyip yöneten yeryüzündeki ana merkez üssü.",
+    "aciklama": "astronotları uzay boşluğundaki vakum ve radyasyondan koruyan zırhlı tulum.",
     "yasakli_kelimeler": [
       "houston",
       "yer istasyonu",
@@ -927,7 +927,7 @@
     "id": 67,
     "kategori": "astronotik",
     "kelime": "capcom",
-    "aciklama": "görev kontrol merkezinde astronotlarla telsizden doğrudan konuşma yetkisine sahip tek görevli astronot.",
+    "aciklama": "astronotun uzay yürüyüşünde sırtında taşıdığı oksijen ve soğutma çantası.",
     "yasakli_kelimeler": [
       "telsiz",
       "iletişimci",
@@ -941,7 +941,7 @@
     "id": 68,
     "kategori": "astronotik",
     "kelime": "fırlatmakulesi",
-    "aciklama": "fırlatma öncesinde roketi dik tutan, yakıt ve elektrik hortumlarını bağlayan ve astronotların bindiği asansörlü kule.",
+    "aciklama": "uzay yürüyüşü sırasında vücut ısısını uzaklaştıran su kanallı iç giysi.",
     "yasakli_kelimeler": [
       "servis kulesi",
       "asansör",
@@ -955,7 +955,7 @@
     "id": 69,
     "kategori": "astronotik",
     "kelime": "kaçışkulesi",
-    "aciklama": "fırlatma anında patlama tehlikesi olursa kapsülü roketten saniyeler içinde yukarı fırlatarak kurtaran roketli kule.",
+    "aciklama": "astronotların uzay yürüyüşü yaparken kaskın içine taktığı telsiz kulaklık.",
     "yasakli_kelimeler": [
       "abort",
       "acil durum",
@@ -969,7 +969,7 @@
     "id": 70,
     "kategori": "astronotik",
     "kelime": "abort",
-    "aciklama": "teknik bir arıza veya tehlike anında fırlatmanın ya da görevin derhal iptal edilerek acil durum protokolüne geçilmesi.",
+    "aciklama": "astronotun serbestçe uzayda uçmasını sağlayan iticili sırt roketi.",
     "yasakli_kelimeler": [
       "iptal",
       "acil durdurma",
@@ -983,7 +983,7 @@
     "id": 71,
     "kategori": "astronotik",
     "kelime": "iyonmotoru",
-    "aciklama": "ksenon gazını elektrikle iyonlaştırıp manyetik olarak hızlandırarak çok az yakıtla yıllarca çalışan itici sistemi.",
+    "aciklama": "astronotu istasyona bağlı tutarak uzayda kaybolmasını önleyen çelik halat.",
     "yasakli_kelimeler": [
       "elektrikli itki",
       "ksenon",
@@ -997,7 +997,7 @@
     "id": 72,
     "kategori": "astronotik",
     "kelime": "güneşyelkeni",
-    "aciklama": "güneşten gelen fotonların devasa yansıtıcı aynalara çarpmasıyla elde edilen radyasyon basıncıyla ilerleyen uzay aracı.",
+    "aciklama": "iki bağımsız uzay aracının yörüngede birbirini bulup yaklaşma manevrası.",
     "yasakli_kelimeler": [
       "foton",
       "yansıtıcı",
@@ -1011,7 +1011,7 @@
     "id": 73,
     "kategori": "astronotik",
     "kelime": "rtg",
-    "aciklama": "güneş ışığının ulaşamadığı derin uzay araçlarında plütonyumun radyoaktif bozunma ısısını elektriğe çeviren nükleer pil.",
+    "aciklama": "iki uzay aracının basınçlı körüklerle birbirine kilitlenip kenetlenmesi işlemi.",
     "yasakli_kelimeler": [
       "nükleer pil",
       "plütonyum",
@@ -1025,7 +1025,7 @@
     "id": 74,
     "kategori": "astronotik",
     "kelime": "lagrange",
-    "aciklama": "iki büyük gök cisminin kütleçekim kuvvetlerinin dengelendiği ve uzay teleskoplarının park edildiği beş kararlı nokta.",
+    "aciklama": "uzay istasyonunda kargo ve modülleri yakalayıp taşıyan devasa robot kol.",
     "yasakli_kelimeler": [
       "çekim dengesi",
       "l2",
@@ -1039,7 +1039,7 @@
     "id": 75,
     "kategori": "astronotik",
     "kelime": "jameswebb",
-    "aciklama": "lagrange-2 noktasında bulunan, evrenin ilk yıldızlarını görmek için tasarlanmış dev altın aynalı kızılötesi teleskop.",
+    "aciklama": "istasyon dışına deney ve çöp atan hava kilidi.",
     "yasakli_kelimeler": [
       "uzay teleskobu",
       "altın ayna",
@@ -1053,7 +1053,7 @@
     "id": 76,
     "kategori": "astronotik",
     "kelime": "hubble",
-    "aciklama": "1990 yılından beri alçak dünya yörüngesinde dönerek evrenin büyüleyici fotoğraflarını çeken efsanevi teleskop.",
+    "aciklama": "uzay aracının elektrik ihtiyacını karşılayan geniş yüzeyli güneş panelleri.",
     "yasakli_kelimeler": [
       "teleskop",
       "yörünge",
@@ -1067,7 +1067,7 @@
     "id": 77,
     "kategori": "astronotik",
     "kelime": "rover",
-    "aciklama": "ay veya mars yüzeyinde tekerlekleri üzerinde hareket ederek kaya ve toprak analizi yapan robotik keşif aracı.",
+    "aciklama": "güneş ışığı almayan derin uzay sondalarında elektrik üreten nükleer pil.",
     "yasakli_kelimeler": [
       "mars aracı",
       "tekerlekli robot",
@@ -1081,7 +1081,7 @@
     "id": 78,
     "kategori": "astronotik",
     "kelime": "lander",
-    "aciklama": "bir gezegen veya uydunun yüzeyine yumuşak iniş yapan ancak tekerlekleri olmayıp indiği yerde sabit kalan bilim istasyonu.",
+    "aciklama": "hidrojen ve oksijeni birleştirerek elektrik ve saf su üreten pil.",
     "yasakli_kelimeler": [
       "iniş aracı",
       "sabit",
@@ -1095,7 +1095,7 @@
     "id": 79,
     "kategori": "astronotik",
     "kelime": "orbiter",
-    "aciklama": "yüzeye inmeyip hedef gezegenin veya ayın yörüngesine girerek yukarıdan kamera ve radarlarla haritalama yapan araç.",
+    "aciklama": "güneş görmeyen yörünge evresinde elektrik sağlayan lityum-iyon bataryalar.",
     "yasakli_kelimeler": [
       "yörünge aracı",
       "haritalama",
@@ -1109,7 +1109,7 @@
     "id": 80,
     "kategori": "astronotik",
     "kelime": "sonda",
-    "aciklama": "insansız olarak güneş sisteminin derinliklerine veya yıldızlararası boşluğa bilimsel ölçümler için yollanan robotik araç.",
+    "aciklama": "elektronik cihazların ve kabinin aşırı ısınmasını önleyen soğutma radyatörleri.",
     "yasakli_kelimeler": [
       "insansız araç",
       "derin uzay",
@@ -1123,7 +1123,7 @@
     "id": 81,
     "kategori": "astronotik",
     "kelime": "canadarm",
-    "aciklama": "uzay istasyonuna gelen kargo araçlarını yakalayan ve astronotlara montajda yardım eden devasa robot kol.",
+    "aciklama": "uzay aracında ısıyı sıcak bölgelerden radyatörlere hızla aktaran kılcal borular.",
     "yasakli_kelimeler": [
       "robotik kol",
       "kanada",
@@ -1137,7 +1137,7 @@
     "id": 82,
     "kategori": "astronotik",
     "kelime": "cupola",
-    "aciklama": "uzay istasyonunda astronotların dünyayı ve kenetlenme manevralarını izlediği yedi pencereli kubbe seyir modülü.",
+    "aciklama": "uzay aracının dışını sararak güneş radyasyonundan koruyan parlak altın folyo.",
     "yasakli_kelimeler": [
       "kubbe",
       "yedi pencere",
@@ -1151,7 +1151,7 @@
     "id": 83,
     "kategori": "astronotik",
     "kelime": "uzayçöpü",
-    "aciklama": "eski uydular, roket parçaları ve boya kalıntılarından oluşan, yörüngedeki aktif araçlar için büyük tehlike saçan enkaz.",
+    "aciklama": "nasa'nın uzay araçlarıyla iletişim kurduğu derin uzay anten ağı.",
     "yasakli_kelimeler": [
       "enkaz",
       "hurda",
@@ -1165,7 +1165,7 @@
     "id": 84,
     "kategori": "astronotik",
     "kelime": "kessler",
-    "aciklama": "uzay çöplerinin birbirine çarparak zincirleme patlamalara yol açıp yörüngeyi tamamen kullanılamaz kılacağı felaket senaryosu.",
+    "aciklama": "alçak yörüngedeki uyduların verilerini aktaran aktarıcı uydu ağı.",
     "yasakli_kelimeler": [
       "sendrom",
       "zincirleme reaksiyon",
@@ -1179,7 +1179,7 @@
     "id": 85,
     "kategori": "astronotik",
     "kelime": "radyasyon",
-    "aciklama": "dünyanın manyetik kalkanı dışına çıkan astronotların hücrelerine zarar veren kozmik ışınlar ve güneş fırtınaları.",
+    "aciklama": "uydulardan gelen radyo sinyallerini toplayan yeryüzündeki dev çanak anten istasyonu.",
     "yasakli_kelimeler": [
       "kozmik ışın",
       "van allen",
@@ -1193,7 +1193,7 @@
     "id": 86,
     "kategori": "astronotik",
     "kelime": "vanallen",
-    "aciklama": "dünyanın manyetik alanı tarafından yakalanmış yüksek enerjili yüklü parçacıklardan oluşan koruyucu radyasyon kuşağı.",
+    "aciklama": "dünya ile uzay aracı arasındaki sinyallerin gecikme süresi.",
     "yasakli_kelimeler": [
       "manyetik kuşak",
       "radyasyon kuşağı",
@@ -1207,7 +1207,7 @@
     "id": 87,
     "kategori": "astronotik",
     "kelime": "dönüşyükü",
-    "aciklama": "uzaydan dünyaya dönerken astronotların vücuduna binen ve normal yerçekiminin katbekat üstünde olan g-kuvveti baskısı.",
+    "aciklama": "uzay araçlarının veri iletim hızını katlarca artıran optik lazer iletişim.",
     "yasakli_kelimeler": [
       "g kuvveti",
       "ivmelenme",
@@ -1221,7 +1221,7 @@
     "id": 88,
     "kategori": "astronotik",
     "kelime": "santrifüj",
-    "aciklama": "astronot adaylarını yüksek g-kuvvetlerine alıştırmak için kendi etrafında fırdöly dönen dev döner kol simülatörü.",
+    "aciklama": "uzay araçlarının dünyadan bağımsız olarak rotasını hesaplayabilen otonom yazılım.",
     "yasakli_kelimeler": [
       "dönen kabin",
       "g testi",
@@ -1235,7 +1235,7 @@
     "id": 89,
     "kategori": "astronotik",
     "kelime": "tarafsızyüzme",
-    "aciklama": "astronotların uzay yürüyüşü antrenmanlarını yapmak için dev havuzlarda uzay giysisiyle sıfır ağırlığı taklit ettiği laboratuvar.",
+    "aciklama": "mars yüzeyinde dolaşarak kaya ve toprak analizi yapan tekerlekli robot.",
     "yasakli_kelimeler": [
       "nbl",
       "dev havuz",
@@ -1249,7 +1249,7 @@
     "id": 90,
     "kategori": "astronotik",
     "kelime": "yeristasyonu",
-    "aciklama": "uzay araçlarından telemetri verisi alan ve komut gönderen devasa parabolik çanak antenlerin bulunduğu kara tesisi.",
+    "aciklama": "mars veya ay yüzeyine inip ölçüm yapan araç.",
     "yasakli_kelimeler": [
       "çanak anten",
       "haberleşme",
@@ -1263,7 +1263,7 @@
     "id": 91,
     "kategori": "astronotik",
     "kelime": "derinuzay-ağı",
-    "aciklama": "nasa'nın mars ve ötesindeki uzak gezegen sondalarıyla kesintisiz haberleşmek için dünyaya yaydığı dev üç anten kompleksi.",
+    "aciklama": "başka bir gezegenin veya uydunun yörüngesine girerek gözlem yapan araç.",
     "yasakli_kelimeler": [
       "dsn",
       "anten",
@@ -1277,7 +1277,7 @@
     "id": 92,
     "kategori": "astronotik",
     "kelime": "starship",
-    "aciklama": "tamamen paslanmaz çelikten üretilen, süper ağır iticiye sahip devasa tekrar kullanılabilir yeni nesil roket sistemi.",
+    "aciklama": "hedef gökcisminin yanından hızla geçerek fotoğraf çeken uzay sondası.",
     "yasakli_kelimeler": [
       "spacex",
       "paslanmaz çelik",
@@ -1291,7 +1291,7 @@
     "id": 93,
     "kategori": "astronotik",
     "kelime": "artemis",
-    "aciklama": "insanları yarım asır sonra yeniden aya ve oradan marsa götürmeyi hedefleyen uluslararası ay keşif programı.",
+    "aciklama": "mars yüzeyinde uçarak hava keşfi yapan ilk robotik helikopter.",
     "yasakli_kelimeler": [
       "ay programı",
       "orion",
@@ -1305,7 +1305,7 @@
     "id": 94,
     "kategori": "astronotik",
     "kelime": "gateway",
-    "aciklama": "ay yörüngesinde kurulması planlanan ve yüzeye inecek astronotlar için aktarma üssü olacak mini uzay istasyonu.",
+    "aciklama": "bir gökcisminin yüzeyinden taş ve toprak toplayıp dünyaya getiren görev.",
     "yasakli_kelimeler": [
       "ay istasyonu",
       "aktarma üssü",
@@ -1319,7 +1319,7 @@
     "id": 95,
     "kategori": "astronotik",
     "kelime": "itkisizsüzülme",
-    "aciklama": "roket motorları kapandıktan sonra aracın sadece kütleçekim yasalarına göre yörüngede serbestçe akıp gitmesi hali.",
+    "aciklama": "bir kuyrukluyıldız veya asteroide kasten çarptırılan gözlem sondası.",
     "yasakli_kelimeler": [
       "coasting",
       "motor kapalı",
@@ -1333,7 +1333,7 @@
     "id": 96,
     "kategori": "astronotik",
     "kelime": "reaksiyon-tekeri",
-    "aciklama": "uyduların yakıt harcamadan elektrik motorlarıyla dönerek istedikleri hedefe yönelmesini sağlayan dönme çarkları.",
+    "aciklama": "jüpiter veya satürn'ün kalın atmosferine dalarak veri toplayan atmosferik kapsül.",
     "yasakli_kelimeler": [
       "volan",
       "açısal momentum",
@@ -1347,7 +1347,7 @@
     "id": 97,
     "kategori": "astronotik",
     "kelime": "yıldız-izleyici",
-    "aciklama": "uzay aracının uzaydaki konumunu ve yönünü gökyüzündeki takımyıldızların haritasıyla kıyaslayarak bulan optik kamera.",
+    "aciklama": "uzay aracının hedefe çarpmadan yavaşça iniş bacakları üzerine inmesi.",
     "yasakli_kelimeler": [
       "star tracker",
       "navigasyon",
@@ -1361,7 +1361,7 @@
     "id": 98,
     "kategori": "astronotik",
     "kelime": "rcs",
-    "aciklama": "uzay aracının burnunda ve yanlarında bulunan, minik itmelerle yana dönme ve yönelim sağlayan küçük kontrol iticileri.",
+    "aciklama": "uzay aracının hedef gökcismine yüksek hızla çarparak yok olması.",
     "yasakli_kelimeler": [
       "yönelim iticisi",
       "manevra motoru",
@@ -1375,7 +1375,7 @@
     "id": 99,
     "kategori": "astronotik",
     "kelime": "booster",
-    "aciklama": "kalkış anında ana rokete ilave çekiş gücü sağlamak için yanlara takılan büyük katı veya sıvı yardımcı roketler.",
+    "aciklama": "astronotları uzaya fırlatmak, uzayda yaşatmak ve güvenle geri getirmek programı.",
     "yasakli_kelimeler": [
       "yardımcı roket",
       "yan itici",
@@ -1389,7 +1389,7 @@
     "id": 100,
     "kategori": "astronotik",
     "kelime": "yenidengirişkoridoru",
-    "aciklama": "atmosfere girerken aracın ne uzaya sekip fırlayacağı ne de yanıp kül olacağı çok dar ve hassas açı aralığı.",
+    "aciklama": "astronotların fırlatma anında ve dönüşte maruz kaldığı yerçekimi katı yükü.",
     "yasakli_kelimeler": [
       "giriş açısı",
       "dar koridor",
@@ -1403,7 +1403,7 @@
     "id": 101,
     "kategori": "astronotik",
     "kelime": "fırlatma penceresi",
-    "aciklama": "bir uzay aracının hedeflenen yörüngeye veya gök cismine en az yakıtla ulaşabilmesi için fırlatılması gereken uygun zaman aralığı.",
+    "aciklama": "astronotları yüksek g kuvvetine alıştıran dönen santrifüj kolu.",
     "yasakli_kelimeler": [
       "zaman",
       "aralık",
@@ -1417,7 +1417,7 @@
     "id": 102,
     "kategori": "astronotik",
     "kelime": "fırlatma aracı",
-    "aciklama": "faydalı yükü veya uzay kapsülünü yerçekimini yenerek yörüngeye taşımak üzere tasarlanmış çok kademeli roket sistemi.",
+    "aciklama": "astronotları uzay yürüyüşüne hazırlayan devasa nötr batmazlık havuzu.",
     "yasakli_kelimeler": [
       "roket",
       "taşıyıcı",
@@ -1431,7 +1431,7 @@
     "id": 103,
     "kategori": "astronotik",
     "kelime": "itme vektörü",
-    "aciklama": "roket nozulunu eğerek veya yönlendirerek itki kuvvetinin açısını değiştiren ve aracın rotasını kontrol eden yönlendirme sistemi.",
+    "aciklama": "özel uçağın parabolik dalışlar yaparak yirmi saniyelik sıfır yerçekimi oluşturması.",
     "yasakli_kelimeler": [
       "yön",
       "nozul",
@@ -1445,7 +1445,7 @@
     "id": 104,
     "kategori": "astronotik",
     "kelime": "yanma odası",
-    "aciklama": "roket motorunda yakıt ile oksitleyicinin yüksek basınç altında karışıp alev alarak çok yüksek sıcaklıkta gaz ürettiği bölüm.",
+    "aciklama": "kask takarak sanal ortamda uzay yürüyüşü pratiği yapma.",
     "yasakli_kelimeler": [
       "yakıt",
       "oksitleyici",
@@ -1459,7 +1459,7 @@
     "id": 105,
     "kategori": "astronotik",
     "kelime": "yakıt enjektörü",
-    "aciklama": "sıvı yakıt ve oksitleyiciyi yanma odasına atomize ederek son derece ince damlacıklar halinde püskürten mekanik parça.",
+    "aciklama": "astronotların uzayda bozulmadan tüketebileceği dondurularak kurutulmuş özel gıdalar.",
     "yasakli_kelimeler": [
       "püskürtme",
       "karışım",
@@ -1473,7 +1473,7 @@
     "id": 106,
     "kategori": "astronotik",
     "kelime": "kademe ayrılması",
-    "aciklama": "yakıtı tükenen roket parçasının ağırlık oluşturmaması için ana gövdeden piroteknik mekanizmalarla koparılıp bırakılması işlemi.",
+    "aciklama": "uzayda yerçekimi olmadığı için hava akımıyla çalışan özel tuvalet vakumu.",
     "yasakli_kelimeler": [
       "ayrılma",
       "aşama",
@@ -1487,7 +1487,7 @@
     "id": 107,
     "kategori": "astronotik",
     "kelime": "yük kaportası",
-    "aciklama": "roketin burnunda yer alan ve fırlatma sırasındaki şiddetli aerodinamik sürtünme ve ısıdan uyduyu koruyan ayrılabilir burun kılıfı.",
+    "aciklama": "astronotların duvara asılı fermuarlı tulumlarda uyuduğu dar özel kabin.",
     "yasakli_kelimeler": [
       "burun",
       "koruma",
@@ -1501,7 +1501,7 @@
     "id": 108,
     "kategori": "astronotik",
     "kelime": "dikey iniş",
-    "aciklama": "roket kademesinin veya iniş modülünün motorlarını ateşleyerek yere dik vaziyette ve ayakları üzerine kontrollü iniş yapması.",
+    "aciklama": "uzayda kas erimesini önleyen yerçekimsiz koşu bandı.",
     "yasakli_kelimeler": [
       "dik",
       "ayak",
@@ -1515,7 +1515,7 @@
     "id": 109,
     "kategori": "astronotik",
     "kelime": "iniş takımı",
-    "aciklama": "uzay aracının gezegen yüzeyine veya iniş platformuna temas ederken çarpma enerjisini emip dik durmasını sağlayan mekanik bacaklar.",
+    "aciklama": "astronotların bacak kaslarını korumak için kullandığı kayışlı egzersiz bisikleti.",
     "yasakli_kelimeler": [
       "bacak",
       "ayak",
@@ -1529,7 +1529,7 @@
     "id": 110,
     "kategori": "astronotik",
     "kelime": "ızgara kanat",
-    "aciklama": "atmosfere geri dönen roket gövdesini yüksek hızda havayı yönlendirerek hedefe doğru yönlendiren kafes yapılı küçük kanatçık.",
+    "aciklama": "uzayda ağırlık kaldırma hissi veren vakumlu direnç egzersiz cihazı.",
     "yasakli_kelimeler": [
       "kanat",
       "kafes",
@@ -1543,7 +1543,7 @@
     "id": 111,
     "kategori": "astronotik",
     "kelime": "ısı kalkanı",
-    "aciklama": "uzay aracının tabanına yerleştirilen ve atmosfere binlerce derece sıcaklıkta yeniden girerken kabini erimekten koruyan yalıtım katmanı.",
+    "aciklama": "yerçekimsiz ortamda iç kulak dengesinin bozulmasıyla oluşan uzay tutması rahatsızlığı.",
     "yasakli_kelimeler": [
       "sıcaklık",
       "koruma",
@@ -1557,7 +1557,7 @@
     "id": 112,
     "kategori": "astronotik",
     "kelime": "fren paraşütü",
-    "aciklama": "atmosfere giren kapsülü ana paraşütler açılmadan önce ilk yüksek süratinden kurtarmak için açılan küçük ve dayanıklı paraşüt.",
+    "aciklama": "yerçekimi kalkınca vücut sıvılarının başa hücum etmesiyle oluşan yüz şişkinliği.",
     "yasakli_kelimeler": [
       "yavaşlatma",
       "açılma",
@@ -1571,7 +1571,7 @@
     "id": 113,
     "kategori": "astronotik",
     "kelime": "hava yastığı",
-    "aciklama": "bazı gezegen sondalarının yüzeye çarparak hasarsız zıplayıp durmasını sağlamak amacıyla kapsül çevresinde şişirilen koruyucu balonlar.",
+    "aciklama": "omurlar arasındaki baskı kalktığı için astronotların uzayda birkaç santim uzaması.",
     "yasakli_kelimeler": [
       "şişme",
       "balon",
@@ -1585,7 +1585,7 @@
     "id": 114,
     "kategori": "astronotik",
     "kelime": "gök vinci",
-    "aciklama": "ağır mars yüzey araçlarını roket motorlu bir askı platformundan kablolarla yüzeye yavaşça indiren özel iniş sistemi.",
+    "aciklama": "uzayda kafa içi basınçla görmenin bozulması sendromu.",
     "yasakli_kelimeler": [
       "vinç",
       "kablo",
@@ -1599,7 +1599,7 @@
     "id": 115,
     "kategori": "astronotik",
     "kelime": "iniş modülü",
-    "aciklama": "ana uzay aracından ayrılarak astronotları veya bilimsel donanımı hedef gezegen ya da ay yüzeyine ulaştıran iniş aracı.",
+    "aciklama": "uzun süreli uzay görevlerinde astronotların yaşadığı psikolojik izolasyon ve stres.",
     "yasakli_kelimeler": [
       "yüzey",
       "ay",
@@ -1613,7 +1613,7 @@
     "id": 116,
     "kategori": "astronotik",
     "kelime": "kalkış modülü",
-    "aciklama": "ay veya gezegen yüzeyindeki görev tamamlandıktan sonra astronotları tekrar yörüngedeki ana gemiye taşımak için havalanan bölüm.",
+    "aciklama": "ilk uydunun fırlatıldığı baykonur uzay üssü kompleksi.",
     "yasakli_kelimeler": [
       "havalanma",
       "yüzey",
@@ -1627,7 +1627,7 @@
     "id": 117,
     "kategori": "astronotik",
     "kelime": "servis modülü",
-    "aciklama": "insanlı uzay aracına yolculuk boyunca yakıt, elektrik enerjisi, su ve oksijen gibi temel kaynakları sağlayan arka donanım ünitesi.",
+    "aciklama": "florida'daki nasa apollo ve mekik fırlatma merkezi.",
     "yasakli_kelimeler": [
       "oksijen",
       "elektrik",
@@ -1641,7 +1641,7 @@
     "id": 118,
     "kategori": "astronotik",
     "kelime": "komuta modülü",
-    "aciklama": "astronotların uçuş sırasında oturduğu, kontrol panellerini yönettiği ve atmosfere geri dönüşü gerçekleştirdiği ana yaşam hücresi.",
+    "aciklama": "fransız guyanası'nda bulunan avrupa uzay ajansı'nın ekvatora yakın fırlatma üssü.",
     "yasakli_kelimeler": [
       "kokpit",
       "kontrol",
@@ -1655,7 +1655,7 @@
     "id": 119,
     "kategori": "astronotik",
     "kelime": "kenetlenme mekanizması",
-    "aciklama": "iki bağımsız uzay aracının yörüngede kafa kafaya gelerek hava sızdırmaz biçimde kilitlenmesini sağlayan mekanik halka sistemi.",
+    "aciklama": "çin'in gobi çölü'nde insanlı shenzhou uçuşlarını fırlattığı uzay üssü.",
     "yasakli_kelimeler": [
       "kilit",
       "bağlantı",
@@ -1669,7 +1669,7 @@
     "id": 120,
     "kategori": "astronotik",
     "kelime": "kenetlenme limanı",
-    "aciklama": "uzay istasyonunun gövdesinde gelen ziyaretçi kapsüllerin yanaşıp kilitlenebilmesi için tasarlanmış özel kapı ve geçit noktası.",
+    "aciklama": "houston'da insanlı uzay uçuşlarını yöneten kontrol merkezi.",
     "yasakli_kelimeler": [
       "kapı",
       "yanaşma",
@@ -1683,7 +1683,7 @@
     "id": 121,
     "kategori": "astronotik",
     "kelime": "uzay limanı",
-    "aciklama": "roketlerin fırlatılması, yakıt ikmali ve görev operasyonlarının yürütülmesi için inşa edilmiş kapsamlı fırlatma üssü kompleksi.",
+    "aciklama": "moskova yakınlarında bulunan rus uzay görevlerini yöneten resmi kontrol merkezi.",
     "yasakli_kelimeler": [
       "fırlatma",
       "üs",
@@ -1697,7 +1697,7 @@
     "id": 122,
     "kategori": "astronotik",
     "kelime": "fırlatma kompleksi",
-    "aciklama": "bir uzay limanında fırlatma rampası, servis kulesi, alev kanalı ve yakıt depolama tanklarını barındıran teknik saha.",
+    "aciklama": "almanya'da bulunan avrupa uzay ajansı'nın uydu ve sondalarını yöneten merkezi.",
     "yasakli_kelimeler": [
       "rampa",
       "kule",
@@ -1711,7 +1711,7 @@
     "id": 123,
     "kategori": "astronotik",
     "kelime": "yörünge transferi",
-    "aciklama": "bir uzay aracının motorlarını ateşleyerek bulunduğu ilk yörüngeden farklı irtifadaki bir hedef yörüngeye geçiş yapması.",
+    "aciklama": "fırlatma anına kadar süreyi sayan resmi geri sayım.",
     "yasakli_kelimeler": [
       "geçiş",
       "irtifa",
@@ -1725,7 +1725,7 @@
     "id": 124,
     "kategori": "astronotik",
     "kelime": "yörünge eğikliği",
-    "aciklama": "bir gök cisminin veya uydunun yörünge düzlemi ile ana gövdenin ekvator düzlemi arasındaki açısal sapma değeri.",
+    "aciklama": "fırlatmanın son anlarında roket motorunun çalıştırılarak kalkışın başladığı an.",
     "yasakli_kelimeler": [
       "ekvator",
       "açı",
@@ -1739,7 +1739,7 @@
     "id": 125,
     "kategori": "astronotik",
     "kelime": "dairesel yörünge",
-    "aciklama": "uzay aracının merkezdeki cisme olan uzaklığının her noktada neredeyse sabit kaldığı, dışmerkezliği sıfıra yakın yörünge tipi.",
+    "aciklama": "roketin fırlatma rampasından havalanarak ilk yükselişe geçtiği an.",
     "yasakli_kelimeler": [
       "çember",
       "sabit",
@@ -1753,7 +1753,7 @@
     "id": 126,
     "kategori": "astronotik",
     "kelime": "eliptik yörünge",
-    "aciklama": "uydunun en yakın ve en uzak noktalar arasında hızının sürekli değiştiği, basık yumurta veya elips şeklindeki yörünge rotası.",
+    "aciklama": "roketin atmosferde en yüksek aerodinamik basınca maruz kaldığı kritik an.",
     "yasakli_kelimeler": [
       "oval",
       "elips",
@@ -1767,7 +1767,7 @@
     "id": 127,
     "kategori": "astronotik",
     "kelime": "molniya yörüngesi",
-    "aciklama": "yüksek enlemlerdeki kutup bölgelerine uzun süreli kesintisiz iletişim sağlamak amacıyla geliştirilmiş çok basık ve eğik yörünge.",
+    "aciklama": "roketin birinci kademe ana motorunun yakıtı bitince durdurulması anı.",
     "yasakli_kelimeler": [
       "kutup",
       "eğim",
@@ -1781,7 +1781,7 @@
     "id": 128,
     "kategori": "astronotik",
     "kelime": "mezarlık yörüngesi",
-    "aciklama": "operasyonel ömrü biten uyduların çalışan araçlarla çarpışmaması için görev sonunda itildikleri çok yüksek güvenli atık yörüngesi.",
+    "aciklama": "roketin ikinci kademe motorunun ateşlenerek yükü yörüngeye taşıması.",
     "yasakli_kelimeler": [
       "çöp",
       "hurda",
@@ -1795,7 +1795,7 @@
     "id": 129,
     "kategori": "astronotik",
     "kelime": "yörüngeden çıkma",
-    "aciklama": "uydunun veya uzay aracının motorlarını hareket yönünün tersine ateşleyerek irtifa kaybedip atmosfere düşmesini sağlayan manevra.",
+    "aciklama": "roketin üst kademesinin uyduyu yörüngede serbest bırakıp itmesi anı.",
     "yasakli_kelimeler": [
       "frenleme",
       "düşüş",
@@ -1809,7 +1809,7 @@
     "id": 130,
     "kategori": "astronotik",
     "kelime": "yörünge düzeltme",
-    "aciklama": "atmosferik sürtünme veya kütleçekim bozulmalarıyla alçalan uzay istasyonu veya uydunun irtifasını korumak için yapılan küçük itkiler.",
+    "aciklama": "fırlatma sırasında arıza çıkması durumunda görevin durdurulup iptal edilmesi.",
     "yasakli_kelimeler": [
       "irtifa",
       "koruma",
@@ -1823,7 +1823,7 @@
     "id": 131,
     "kategori": "astronotik",
     "kelime": "yerçekimi ivmesi",
-    "aciklama": "roket kalkışı veya atmosferik giriş esnasında astronotların ve gövdenin maruz kaldığı serbest düşme ivmesi katı.",
+    "aciklama": "yolunu kaybeden roketin yere düşmesini önlemek için havada patlatılması.",
     "yasakli_kelimeler": [
       "ivme",
       "kat",
@@ -1837,7 +1837,7 @@
     "id": 132,
     "kategori": "astronotik",
     "kelime": "g kuvveti",
-    "aciklama": "fırlatma ve ani manevralar sırasında ivmelenme sebebiyle astronotun bedenine binen ve kan dolaşımını zorlayan aşırı yük.",
+    "aciklama": "roketin hedef rotasından sapmadan uzaya çıkmasını sağlayan uçuş kontrol yazılımı.",
     "yasakli_kelimeler": [
       "ivme",
       "yük",
@@ -1851,7 +1851,7 @@
     "id": 133,
     "kategori": "astronotik",
     "kelime": "uzay yürüyüşü",
-    "aciklama": "astronotun uzay aracının veya istasyonun dışına çıkarak açık uzay boşluğunda tam koruyucu kıyafetle çalışması.",
+    "aciklama": "roket üzerindeki binlerce sensörden yer istasyonuna akan canlı veri yayını.",
     "yasakli_kelimeler": [
       "astronot",
       "dışarı",
@@ -1865,7 +1865,7 @@
     "id": 134,
     "kategori": "astronotik",
     "kelime": "güvenlik halatı",
-    "aciklama": "uzay yürüyüşü yapan astronotu istasyonun dış gövdesine bağlayarak boşluğa sürüklenip kaybolmasını önleyen çelik kancalı kordon.",
+    "aciklama": "yer istasyonundan uzay aracına gönderilen komut ve yönlendirme sinyalleri.",
     "yasakli_kelimeler": [
       "halat",
       "kanca",
@@ -1879,7 +1879,7 @@
     "id": 135,
     "kategori": "astronotik",
     "kelime": "robotik kol",
-    "aciklama": "uzay istasyonunun veya mekiğin dışına monte edilmiş, uzaktan kumandayla uyduları yakalayıp montaj yapabilen mekanik kol.",
+    "aciklama": "askeri veya sivil amaçlarla belirli bir bölgeyi fotoğraflayan yörünge uydusu.",
     "yasakli_kelimeler": [
       "mekanik",
       "kol",
@@ -1893,7 +1893,7 @@
     "id": 136,
     "kategori": "astronotik",
     "kelime": "hidroponik tarım",
-    "aciklama": "uzun uzay görevlerinde astronotlara taze sebze ve oksijen sağlamak amacıyla toprak yerine besinli su eriyikleriyle yapılan bitki üretimi.",
+    "aciklama": "gps, galileo ve glonass gibi konum belirleyen uydu takımyıldızları.",
     "yasakli_kelimeler": [
       "topraksız",
       "su",
@@ -1907,7 +1907,7 @@
     "id": 137,
     "kategori": "astronotik",
     "kelime": "uzay serası",
-    "aciklama": "yerçekimsiz ortamda yapay ışık ve kontrollü hava dolaşımıyla astronotların tüketimi için bitki yetiştirilen laboratuvar modülü.",
+    "aciklama": "televizyon, telefon ve internet sinyallerini kıtalar arası aktaran uydular.",
     "yasakli_kelimeler": [
       "bitki",
       "sera",
@@ -1921,7 +1921,7 @@
     "id": 138,
     "kategori": "astronotik",
     "kelime": "yapay yerçekimi",
-    "aciklama": "uzay istasyonunun veya geminin kendi etrafında dönerek oluşturduğu merkezkaç kuvvetiyle yerde çekim hissi taklit etme yöntemi.",
+    "aciklama": "dünya'nın bulut hareketlerini ve kasırgalarını takip eden meteoroloji uydusu.",
     "yasakli_kelimeler": [
       "merkezkaç",
       "dönme",
@@ -1935,7 +1935,7 @@
     "id": 139,
     "kategori": "astronotik",
     "kelime": "uzay hekimliği",
-    "aciklama": "sıfır yerçekimi, kozmik radyasyon ve izolasyonun insan bedeni ve psikolojisi üzerindeki etkilerini inceleyen tıp uzmanlığı.",
+    "aciklama": "orman yangınlarını, tarım alanlarını ve iklim değişimini izleyen uydular.",
     "yasakli_kelimeler": [
       "tıp",
       "sağlık",
@@ -1949,7 +1949,7 @@
     "id": 140,
     "kategori": "astronotik",
     "kelime": "fırlatma simülatörü",
-    "aciklama": "astronotların ve uçuş kontrolörlerinin fırlatma anını ve acil durum senaryolarını birebir yaşayarak hazırlandığı mekanik eğitim kabini.",
+    "aciklama": "astronomi ve fizik araştırmaları için uzaya gönderilen bilimsel gözlem uydusu.",
     "yasakli_kelimeler": [
       "eğitim",
       "kabin",
@@ -1963,7 +1963,7 @@
     "id": 141,
     "kategori": "astronotik",
     "kelime": "astronot eğitimi",
-    "aciklama": "uzaya gidecek adayların fiziksel dayanıklılık, su altı ağırlıksızlık provası ve sistem bilgisi kazandığı kapsamlı hazırlık programı.",
+    "aciklama": "küçük uydular için tasarlanmış standart küp minyatür uydu.",
     "yasakli_kelimeler": [
       "hazırlık",
       "havuz",
@@ -1977,7 +1977,7 @@
     "id": 142,
     "kategori": "astronotik",
     "kelime": "insansız uçuş",
-    "aciklama": "uzay aracının içerisinde insan mürettebat bulunmadan tamamen otonom bilgisayarlar veya uzaktan komutla icra edilen görev.",
+    "aciklama": "kütlesi bir ile on kilogram arasında olan minyatür hafif uydular.",
     "yasakli_kelimeler": [
       "otonom",
       "mürettebatsız",
@@ -1991,7 +1991,7 @@
     "id": 143,
     "kategori": "astronotik",
     "kelime": "mürettebatlı uçuş",
-    "aciklama": "uzay aracında yaşam destek sistemleriyle korunan ve görevleri doğrudan idare eden astronotların bulunduğu insanlı uçuş faaliyeti.",
+    "aciklama": "kütlesi bir kilogramdan az olan pikouydu uyduları.",
     "yasakli_kelimeler": [
       "insanlı",
       "astronot",
@@ -2005,7 +2005,7 @@
     "id": 144,
     "kategori": "astronotik",
     "kelime": "uzay turizmi",
-    "aciklama": "mesleği astronotluk olmayan sivil kişilerin eğlence, macera ve uzayı deneyimlemek amacıyla ücret karşılığı yaptığı seyahatler.",
+    "aciklama": "kredi kartı büyüklüğünde ve birkaç gramlık tek çiğlik minik uydular.",
     "yasakli_kelimeler": [
       "sivil",
       "turist",
@@ -2019,7 +2019,7 @@
     "id": 145,
     "kategori": "astronotik",
     "kelime": "ay üssü",
-    "aciklama": "ay yüzeyinde kalıcı insan varlığı sağlamak ve bilimsel araştırmalar yürütmek amacıyla inşa edilmesi planlanan yerleşim tesisi.",
+    "aciklama": "dünya genelinde kesintisiz internet sağlamak için fırlatılan binlerce uyduluk filo.",
     "yasakli_kelimeler": [
       "ay",
       "yerleşim",
@@ -2033,7 +2033,7 @@
     "id": 146,
     "kategori": "astronotik",
     "kelime": "mars kolonisi",
-    "aciklama": "kızıl gezegen üzerinde kendi kendine yetebilen, yapay barınaklar ve seralar içeren kalıcı insan topluluğu yerleşkesi.",
+    "aciklama": "uyduların yörüngesini korumak için periyodik olarak yaptığı irtifa yükseltme ateşlemeleri.",
     "yasakli_kelimeler": [
       "kızıl gezegen",
       "yerleşim",
@@ -2047,7 +2047,7 @@
     "id": 147,
     "kategori": "astronotik",
     "kelime": "yerinde kaynak",
-    "aciklama": "ay veya mars'taki toprak, kaya ve buz tabakalarından su, oksijen ve roket yakıtı üreterek dışa bağımlılığı azaltma stratejisi.",
+    "aciklama": "güneş patlamalarının uzaydaki uyduları ve elektrik şebekelerini etkilemesi durumu.",
     "yasakli_kelimeler": [
       "kaynak",
       "üretim",
@@ -2061,7 +2061,7 @@
     "id": 148,
     "kategori": "astronotik",
     "kelime": "regolit tuğlası",
-    "aciklama": "ay veya mars toprağının fırınlanması veya üç boyutlu yazıcıyla basılmasıyla uzay barınaklarının inşasında kullanılan yapı bloğu.",
+    "aciklama": "dünya'nın manyetik alanının van allen kuşaklarında yakaladığı tehlikeli iyonlaştırıcı radyasyon.",
     "yasakli_kelimeler": [
       "tuğla",
       "inşaat",
@@ -2075,7 +2075,7 @@
     "id": 149,
     "kategori": "astronotik",
     "kelime": "gezegen mühendisliği",
-    "aciklama": "cansız ve elverişsiz bir gezegenin atmosferini, sıcaklığını ve ekolojisini yapay müdahalelerle dünya benzeri hale getirme teorisi.",
+    "aciklama": "yüksek enerjili kozmik parçacıkların mikroçiplerdeki bitleri tersine çevirerek hata yaratması.",
     "yasakli_kelimeler": [
       "terraform",
       "iklim",
@@ -2089,7 +2089,7 @@
     "id": 150,
     "kategori": "astronotik",
     "kelime": "güneş sensörü",
-    "aciklama": "uzay aracının güneş ışığının geliş yönünü tespit ederek panellerini güneşe doğru çevirmesini sağlayan optik algılayıcı.",
+    "aciklama": "uzay araçlarında kullanılan radyasyona ve aşırı sıcağa dayanıklı özel çipler.",
     "yasakli_kelimeler": [
       "ışık",
       "yön",
@@ -2103,7 +2103,7 @@
     "id": 151,
     "kategori": "astronotik",
     "kelime": "jiroskop",
-    "aciklama": "kendi ekseni etrafında hızla dönen bir rotor yardımıyla uzay aracının açısal yönelimini ve sapmalarını ölçen denge aygıtı.",
+    "aciklama": "kritik bilgisayarların iki veya üç yedekli çalışması ilkesi.",
     "yasakli_kelimeler": [
       "dönme",
       "denge",
@@ -2117,7 +2117,7 @@
     "id": 152,
     "kategori": "astronotik",
     "kelime": "ataletsel navigasyon",
-    "aciklama": "uzaydan veya yerden harici hiçbir sinyal almadan ivmeölçer ve jiroskoplarla aracın anlık konum ve hızını hesaplayan seyrüsefer sistemi.",
+    "aciklama": "uydunun yörüngede kendi etrafında dönerek dönme ekseniyle kararlı kalması.",
     "yasakli_kelimeler": [
       "ivmeölçer",
       "konum",
@@ -2131,7 +2131,7 @@
     "id": 153,
     "kategori": "astronotik",
     "kelime": "manyetometre",
-    "aciklama": "uzay aracının geçtiği bölgelerdeki manyetik alanın yönünü ve şiddetini ölçerek aracın yönelimini bulmaya yarayan alet.",
+    "aciklama": "uydunun üç ekseninde sensörler ve tepki tekerleriyle yönünü sabit tutması.",
     "yasakli_kelimeler": [
       "manyetik",
       "şiddet",
@@ -2145,7 +2145,7 @@
     "id": 154,
     "kategori": "astronotik",
     "kelime": "manyetik torker",
-    "aciklama": "dünya'nın manyetik alanına karşı elektromanyetik itme ve çekme üreterek uydunun yakıt harcamadan dönmesini sağlayan manyetik çubuk.",
+    "aciklama": "uydunun uzun bir çubuk açarak dünyanın kütleçekimiyle dik durması tekniği.",
     "yasakli_kelimeler": [
       "elektromanyetik",
       "dönme",
@@ -2159,7 +2159,7 @@
     "id": 155,
     "kategori": "astronotik",
     "kelime": "aviyonik",
-    "aciklama": "uzay aracının uçuşunu, seyrüseferini, haberleşmesini ve enerji yönetimini gerçekleştiren tüm yerleşik elektronik donanım sistemleri.",
+    "aciklama": "uydunun dünya'nın manyetik alanıyla etkileşerek yönelmesini sağlayan elektromanyetik bobin.",
     "yasakli_kelimeler": [
       "elektronik",
       "donanım",
@@ -2173,7 +2173,7 @@
     "id": 156,
     "kategori": "astronotik",
     "kelime": "uçuş bilgisayarı",
-    "aciklama": "fırlatmadan inişe kadar tüm sensör verilerini anlık işleyip roket motorlarına ve yön kontrol kanatlarına komut veren ana beyin.",
+    "aciklama": "uzay ortamındaki atomik oksijenin uzay aracı malzemelerini aşındırması etkisi.",
     "yasakli_kelimeler": [
       "beyin",
       "yazılım",
@@ -2187,7 +2187,7 @@
     "id": 157,
     "kategori": "astronotik",
     "kelime": "lazer haberleşmesi",
-    "aciklama": "uzay araçları ile yer istasyonları arasında radyo dalgaları yerine odaklanmış ışık demetleriyle çok yüksek hızda veri aktaran teknoloji.",
+    "aciklama": "uzaydaki mutlak vakum nedeniyle plastik ve metallerden gazların buharlaşıp çıkması.",
     "yasakli_kelimeler": [
       "optik",
       "ışık",
@@ -2201,7 +2201,7 @@
     "id": 158,
     "kategori": "astronotik",
     "kelime": "sinyal gecikmesi",
-    "aciklama": "uzay aracının çok uzakta olması nedeniyle gönderilen radyo veya lazer komutlarının hedefe dakikalar veya saatler sonra varması durumu.",
+    "aciklama": "uzay boşluğunda oksit tabakası olmayan iki temiz metalin birbirine kaynaması.",
     "yasakli_kelimeler": [
       "gecikme",
       "ışık hızı",
@@ -2215,7 +2215,7 @@
     "id": 159,
     "kategori": "astronotik",
     "kelime": "derin uzay",
-    "aciklama": "dünya ve ay sisteminin çok ötesinde kalan, gezegenlerarası ve yıldızlararası devasa mesafeleri kapsayan uzay bölgesi.",
+    "aciklama": "ay tozunun statik yapısıyla giysilere yapışıp aşındırması tehlikesi.",
     "yasakli_kelimeler": [
       "uzak",
       "ay ötesi",
@@ -2229,7 +2229,7 @@
     "id": 160,
     "kategori": "astronotik",
     "kelime": "gezegenlerarası uçuş",
-    "aciklama": "dünya'dan fırlatılan bir uzay gemisinin güneş sistemindeki mars veya venüs gibi başka bir gezegene doğru yaptığı uzun sefer.",
+    "aciklama": "astronotların uzay yürüyüşünde kaskına takılan ultraviyole koruyucu altın siperlik.",
     "yasakli_kelimeler": [
       "sefer",
       "yolculuk",
@@ -2243,7 +2243,7 @@
     "id": 161,
     "kategori": "astronotik",
     "kelime": "roket denklemi",
-    "aciklama": "bir roketin hız değişimini yakıtının egzoz çıkış hızı ve kütle oranına bağlayan temel tsiolkovski matematiksel bağıntısı.",
+    "aciklama": "fırlatma sırasında roketin yakıt tanklarındaki basıncı sabit tutan gaz.",
     "yasakli_kelimeler": [
       "tsiolkovski",
       "hız",
@@ -2257,7 +2257,7 @@
     "id": 162,
     "kategori": "astronotik",
     "kelime": "statik ateşleme",
-    "aciklama": "roket fırlatılmadan önce rampaya kilitli tutularak motorlarının birkaç saniye boyunca tam güçle ateşlendiği yer güvenlik testi.",
+    "aciklama": "roket sesini sönümlemek için rampaya basılan su perdesi.",
     "yasakli_kelimeler": [
       "test",
       "rampa",
@@ -2271,7 +2271,7 @@
     "id": 163,
     "kategori": "astronotik",
     "kelime": "ıslak prova",
-    "aciklama": "fırlatma öncesinde rokete gerçek kriyojenik yakıtların doldurulduğu ve geri sayımın fırlatma anına kadar eksiksiz denendiği tatbikat.",
+    "aciklama": "fırlatma rampasında roketin egzoz alevlerini yana yönlendiren derin beton hendek.",
     "yasakli_kelimeler": [
       "prova",
       "yakıt dolumu",
@@ -2285,7 +2285,7 @@
     "id": 164,
     "kategori": "astronotik",
     "kelime": "fırlatma iptali",
-    "aciklama": "geri sayım sırasında veya kalkış anında tespit edilen kritik bir arıza sebebiyle fırlatma sürecinin otomatikman durdurulması.",
+    "aciklama": "fırlatma rampasında rokete yakıt ve elektrik bağlayan kule.",
     "yasakli_kelimeler": [
       "durdurma",
       "arıza",
@@ -2299,7 +2299,7 @@
     "id": 165,
     "kategori": "astronotik",
     "kelime": "uçuş direktörü",
-    "aciklama": "görev kontrol merkezindeki tüm teknik masaların başında bulunan ve görevin gidişatıyla ilgili nihai kararları veren baş yönetici.",
+    "aciklama": "roket kalkarken roketten ayrılan elektrik ve yakıt ikmal hortumu bağlantıları.",
     "yasakli_kelimeler": [
       "yönetici",
       "karar",
@@ -2313,7 +2313,7 @@
     "id": 166,
     "kategori": "astronotik",
     "kelime": "görev uzmanı",
-    "aciklama": "insanlı uzay uçuşlarında bilimsel deneyleri yürütmek, robot kolu kullanmak veya uzay yürüyüşü yapmakla görevli astronot.",
+    "aciklama": "roketin fırlatılacağı gün rüzgar, fırtına ve bulut durumunu değerlendiren kurallar.",
     "yasakli_kelimeler": [
       "astronot",
       "deney",
@@ -2327,7 +2327,7 @@
     "id": 167,
     "kategori": "astronotik",
     "kelime": "kozmonot",
-    "aciklama": "rusya ve eski sovyetler birliği uzay programlarında görev alan ve uzaya seyahat eden eğitimli uzay insanlarına verilen unvan.",
+    "aciklama": "uzay aracının hedefe ulaşabilmesi için fırlatmanın yapılabileceği sınırlı zaman aralığı.",
     "yasakli_kelimeler": [
       "rusya",
       "sovyet",
@@ -2341,7 +2341,7 @@
     "id": 168,
     "kategori": "astronotik",
     "kelime": "taykonot",
-    "aciklama": "çin uzay ajansı bünyesinde uzay uçuşu gerçekleştiren ve tiangong istasyonunda görev yapan uzay adamlarına verilen ad.",
+    "aciklama": "roketin fırlatılıp yörüngeye oturana kadar çizdiği matematiksel eğri rotası.",
     "yasakli_kelimeler": [
       "çin",
       "tiangong",
@@ -2355,7 +2355,7 @@
     "id": 169,
     "kategori": "astronotik",
     "kelime": "uzay uçağı",
-    "aciklama": "roket gibi dik havalanan veya taşınan ancak atmosfere yeniden girdikten sonra uçak gibi piste süzülerek yatay inebilen kanatlı araç.",
+    "aciklama": "roketin yükselirken yerçekimiyle doğuya doğru yatarak yatay hız kazanması manevrası.",
     "yasakli_kelimeler": [
       "kanatlı",
       "uçak",
@@ -2369,7 +2369,7 @@
     "id": 170,
     "kategori": "astronotik",
     "kelime": "uzay asansörü",
-    "aciklama": "ekvator üzerinde geosenkron yörüngeye kadar uzanan devasa bir kablo üzerinde tırmanıcı kabinlerle yük taşımayı öngören kuramsal yapı.",
+    "aciklama": "roketin yerçekimine karşı dikey yükselirken kaybettiği hız potansiyeli.",
     "yasakli_kelimeler": [
       "kablo",
       "asansör",
@@ -2383,7 +2383,7 @@
     "id": 171,
     "kategori": "astronotik",
     "kelime": "yörüngede yakıt",
-    "aciklama": "uzay araçlarının derin uzay yolculuğuna çıkmadan önce dünya yörüngesindeki tanker gemilerden ilave yakıt alması işlemi.",
+    "aciklama": "roketin kalın atmosfer tabakasını delip geçerken sürtünmeyle kaybettiği hız enerjisi.",
     "yasakli_kelimeler": [
       "ikmal",
       "tanker",
@@ -2397,7 +2397,7 @@
     "id": 172,
     "kategori": "astronotik",
     "kelime": "alev çukuru",
-    "aciklama": "fırlatma anında roket motorlarından çıkan muazzam alev ve yüksek basınçlı egzoz gazlarını rampadan güvenle uzaklaştıran beton hendek.",
+    "aciklama": "roketin yön değiştirmek için itkiyi eğik vermesi kaybı.",
     "yasakli_kelimeler": [
       "hendek",
       "kanal",
@@ -2411,7 +2411,7 @@
     "id": 173,
     "kategori": "astronotik",
     "kelime": "akustik baskılama",
-    "aciklama": "fırlatma anında motorların ürettiği şiddetli ses dalgalarının rokete zarar vermesini önlemek için rampaya devasa su püskürten sistem.",
+    "aciklama": "roketin aerodinamik sürükleme kuvvetini azaltmak için yapılan sivri burunlu tasarım.",
     "yasakli_kelimeler": [
       "ses",
       "su",
@@ -2425,7 +2425,7 @@
     "id": 174,
     "kategori": "astronotik",
     "kelime": "rüzgar tüneli",
-    "aciklama": "roket ve uzay araçlarının modelleri üzerinde atmosferik sürtünme ve ses üstü hava akışını test eden deneysel aerodinamik boru.",
+    "aciklama": "lüle iç gaz basıncının ortam basıncına eşit olması.",
     "yasakli_kelimeler": [
       "akış",
       "hava",
@@ -2439,7 +2439,7 @@
     "id": 175,
     "kategori": "astronotik",
     "kelime": "hipergolik yakıt",
-    "aciklama": "yakıt ve oksitleyicinin hiçbir harici kıvılcım veya ateşleyiciye ihtiyaç duymadan temas ettiği anda kendiliğinden tutuştuğu kimyasal karışım.",
+    "aciklama": "deniz seviyesinde dış basıncın yüksek olması nedeniyle gazların sıkışarak çıkması.",
     "yasakli_kelimeler": [
       "kendiliğinden",
       "kıvılcım",
@@ -2453,7 +2453,7 @@
     "id": 176,
     "kategori": "astronotik",
     "kelime": "sıvı oksijen",
-    "aciklama": "roket motorlarında sıvı yakıtın yanmasını sağlamak için eksi yüz seksen üç derecede sıvılaştırılmış temel oksitleyici madde.",
+    "aciklama": "uzay vakumunda gazların lüleden aşırı genişleyerek çıkması durumu.",
     "yasakli_kelimeler": [
       "sıvı",
       "oksitleyici",
@@ -2467,7 +2467,7 @@
     "id": 177,
     "kategori": "astronotik",
     "kelime": "sıvı hidrojen",
-    "aciklama": "roket motorlarında en yüksek özgül itkiyi veren, eksi iki yüz elli üç derecede depolanan son derece hafif kriyojenik yakıt.",
+    "aciklama": "her irtifada yüksek verimle çalışan çansız aerospike lüle.",
     "yasakli_kelimeler": [
       "hafif",
       "soğuk",
@@ -2481,7 +2481,7 @@
     "id": 178,
     "kategori": "astronotik",
     "kelime": "sıvı metan",
-    "aciklama": "mars yüzeyindeki atmosferik karbondioksitten de üretilebilen ve modern roket motorlarında yaygınlaşan temiz yanan sıvı hidrokarbon yakıtı.",
+    "aciklama": "gövde ve tankları hafif ve dayanıklı tutan alaşımlar.",
     "yasakli_kelimeler": [
       "doğalgaz",
       "temiz",
@@ -2495,7 +2495,7 @@
     "id": 179,
     "kategori": "astronotik",
     "kelime": "hibrit roket",
-    "aciklama": "katı yakıt gövdesine sıvı veya gaz haldeki oksitleyicinin püskürtülmesiyle çalışan, güvenli ve itkisi kontrol edilebilir motor tipi.",
+    "aciklama": "roket tanklarında kullanılan hafif güçlü karbon elyaf malzeme.",
     "yasakli_kelimeler": [
       "katı",
       "sıvı",
@@ -2509,7 +2509,7 @@
     "id": 180,
     "kategori": "astronotik",
     "kelime": "nükleer roket",
-    "aciklama": "itici gazı küçük bir nükleer reaktörden geçirip aşırı ısıtarak nozuldan püskürten yüksek verimli kuramsal sevk sistemi.",
+    "aciklama": "roket motorlarında yüksek basınca ve erimeye dayanıklı nikel bazlı süperalaşımlar.",
     "yasakli_kelimeler": [
       "reaktör",
       "nükleer",
@@ -2523,7 +2523,7 @@
     "id": 181,
     "kategori": "astronotik",
     "kelime": "elektrikli itki",
-    "aciklama": "itici gaz atomlarını elektrik enerjisiyle iyonlaştırıp elektromanyetik alanla hızlandırarak çok yüksek çıkış hızı üreten motor teknolojisi.",
+    "aciklama": "kriyojenik tanklarda çatlamayan ve sağlam kalan alüminyum-lityum roket alaşımı.",
     "yasakli_kelimeler": [
       "iyon",
       "elektrik",
@@ -2537,7 +2537,7 @@
     "id": 182,
     "kategori": "astronotik",
     "kelime": "fırlatma direktörü",
-    "aciklama": "geri sayım sürecinde fırlatma kompleksindeki tüm sistemlerin hazır olduğunu onaylayıp son kalkış iznini veren yetkili.",
+    "aciklama": "roket yakıt tanklarının içindeki yakıtın çalkalanıp motoru bozmasını önleyen perdeler.",
     "yasakli_kelimeler": [
       "izin",
       "kalkış",
@@ -2551,7 +2551,7 @@
     "id": 183,
     "kategori": "astronotik",
     "kelime": "aerojel",
-    "aciklama": "donmuş duman olarak bilinen, yüzde doksan dokuzu havadan oluşan ve uzay araçlarında muazzam hafiflikte ısı yalıtımı sağlayan katı jel.",
+    "aciklama": "sıvı yakıtlı motorlarda yanma odasında ilk kıvılcımı çakma.",
     "yasakli_kelimeler": [
       "yalıtım",
       "hafif",
@@ -2565,7 +2565,7 @@
     "id": 184,
     "kategori": "astronotik",
     "kelime": "balistik giriş",
-    "aciklama": "hiçbir aerodinamik kaldırma kuvveti kullanmadan kapsülün dik bir açıyla ve yüksek g kuvvetleri altında atmosfere hızla düşmesi.",
+    "aciklama": "roket motorlarında elektrik arkıyla yakıtı tutuşturan kıvılcım bujisi.",
     "yasakli_kelimeler": [
       "dik",
       "kontrolsüz",
@@ -2579,7 +2579,7 @@
     "id": 185,
     "kategori": "astronotik",
     "kelime": "süzülerek iniş",
-    "aciklama": "atmosfere giren kanatlı bir aracın aerodinamik kaldırma kuvvetinden yararlanarak planör gibi süzülüp belirlenen piste iniş yapması.",
+    "aciklama": "havayla temas ettiğinde kendiliğinden alev alarak motoru başlatan kimyasal karışım.",
     "yasakli_kelimeler": [
       "planör",
       "pist",
@@ -2593,7 +2593,7 @@
     "id": 186,
     "kategori": "astronotik",
     "kelime": "biyorejeneratif sistem",
-    "aciklama": "uzay istasyonunda bitkiler, algler ve bakteriler kullanarak atıkları arıtıp oksijen ve besini kapalı döngüde yeniden üreten ekosistem.",
+    "aciklama": "roket motorunun kapatıldıktan sonra yörüngede tekrar ateşlenebilme özelliği.",
     "yasakli_kelimeler": [
       "kapalı döngü",
       "alg",
@@ -2607,7 +2607,7 @@
     "id": 187,
     "kategori": "astronotik",
     "kelime": "radyasyon sığınağı",
-    "aciklama": "derin uzay gemisinde güneş fırtınası koptuğunda mürettebatın kalın su tankları ve kalkanlarla korunan güvenli iç odaya çekilmesi.",
+    "aciklama": "roket motorunun itki gücünü yüzde olarak kısıp artırabilme esnekliği.",
     "yasakli_kelimeler": [
       "koruma",
       "fırtına",
@@ -2621,7 +2621,7 @@
     "id": 188,
     "kategori": "astronotik",
     "kelime": "yörünge altı",
-    "aciklama": "uzay aracının uzay sınırını geçip ağırlıksızlığı yaşadığı ancak yörüngeye girecek yatay hıza ulaşamadan dünyaya geri düştüğü uçuş.",
+    "aciklama": "uzay aracının yakıtı azaldığında iki tank arasındaki yakıtı dengeleme pompalaması.",
     "yasakli_kelimeler": [
       "uçuş",
       "karman hattı",
@@ -2635,7 +2635,7 @@
     "id": 189,
     "kategori": "astronotik",
     "kelime": "karman hattı",
-    "aciklama": "deniz seviyesinden yüz kilometre yükseklikte yer alan ve dünya atmosferi ile uzay boşluğu arasındaki resmi sınır kabul edilen irtifa.",
+    "aciklama": "uzayda yerçekimi olmadığı için tanktaki yakıtı motora iten elastik diyafram.",
     "yasakli_kelimeler": [
       "yüz kilometre",
       "sınır",
@@ -2649,7 +2649,7 @@
     "id": 190,
     "kategori": "astronotik",
     "kelime": "yerçekimi gradyanı",
-    "aciklama": "uzay aracının altı ile üstü arasındaki kütleçekim farkını kullanarak uydunun doğal yolla hep dünyaya dönük kalmasını sağlayan yöntem.",
+    "aciklama": "kriyojenik tanklarda basıncın aşırı yükselmesini önlemek için gaz tahliye vanası.",
     "yasakli_kelimeler": [
       "fark",
       "yönelim",
@@ -2663,7 +2663,7 @@
     "id": 191,
     "kategori": "astronotik",
     "kelime": "kütle oranı",
-    "aciklama": "roketin yakıt dolu ilk fırlatma ağırlığının yakıtı tükendikten sonraki boş kuru gövde ağırlığına olan matematiksel oranı.",
+    "aciklama": "uçuş öncesinde roket yakıt tanklarının basınçlı helyumla test edilmesi işlemi.",
     "yasakli_kelimeler": [
       "dolu",
       "boş",
@@ -2677,7 +2677,7 @@
     "id": 192,
     "kategori": "astronotik",
     "kelime": "egzoz hızı",
-    "aciklama": "roket motorunun nozulundan dışarıya püsküren sıcak gazların motordan ayrılma anındaki saniyede kilometre cinsinden çıkış sürati.",
+    "aciklama": "rampada roket motorlarının kalkmadan tam güçte statik testi.",
     "yasakli_kelimeler": [
       "gaz",
       "çıkış",
@@ -2691,7 +2691,7 @@
     "id": 193,
     "kategori": "astronotik",
     "kelime": "manevra motoru",
-    "aciklama": "uzay aracının ana motoru dışında yörüngede ince konum ayarlamaları ve hassas yaklaşmalar yapmak için kullanılan küçük itici ünite.",
+    "aciklama": "uzay aracının vakum ve sıcaklık fırınında test edilmesi.",
     "yasakli_kelimeler": [
       "küçük",
       "itici",
@@ -2705,7 +2705,7 @@
     "id": 194,
     "kategori": "astronotik",
     "kelime": "optik navigasyon",
-    "aciklama": "uzay aracının üzerindeki kameralarla yıldızları, ayı veya hedef gezegeni fotoğraflayıp görüntü işleme yoluyla konumunu saptaması.",
+    "aciklama": "roket ve uyduların fırlatma sarsıntılarına dayanıklılığını ölçen güçlü titreşim masası.",
     "yasakli_kelimeler": [
       "kamera",
       "fotoğraf",
@@ -2719,7 +2719,7 @@
     "id": 195,
     "kategori": "astronotik",
     "kelime": "manyetik kalkan",
-    "aciklama": "uzay gemisini zararlı yüklü kozmik parçacıklardan korumak için gemi etrafında yapay manyetik alan oluşturan kuramsal savunma sistemi.",
+    "aciklama": "roket motorunun fırlatma sırasında çıkaracağı desibele uydunun dayanıklılığını test etme.",
     "yasakli_kelimeler": [
       "kalkan",
       "savunma",
@@ -2733,7 +2733,7 @@
     "id": 196,
     "kategori": "astronotik",
     "kelime": "üçgenleme",
-    "aciklama": "derin uzaydaki bir sondanın konumunu dünyadaki farklı yer istasyonlarından gelen sinyallerin varış zaman farkını ölçerek belirleme tekniği.",
+    "aciklama": "fırlatma ve ayrılma anındaki patlayıcı şoklara uydunun dayanıklılık testi.",
     "yasakli_kelimeler": [
       "konum",
       "istasyon",
@@ -2747,7 +2747,7 @@
     "id": 197,
     "kategori": "astronotik",
     "kelime": "kriyojenik tank",
-    "aciklama": "sıvı oksijen ve sıvı hidrojen gibi aşırı soğuk gazları buharlaşmadan depolamak için çok katmanlı vakumlu yalıtıma sahip özel roket deposu.",
+    "aciklama": "uyduların dünya'nın manyetik alanında nasıl davranacağını test eden manyetik oda.",
     "yasakli_kelimeler": [
       "depo",
       "tank",
@@ -2761,7 +2761,7 @@
     "id": 198,
     "kategori": "astronotik",
     "kelime": "piroteknik cıvata",
-    "aciklama": "roket kademelerini birbirine bağlayan ve ayrılma anında küçük bir patlamayla kırılarak kademelerin serbest kalmasını sağlayan kontrollü patlayıcı vida.",
+    "aciklama": "uyduların mikroplardan arındırıldığı montaj steril temiz odası.",
     "yasakli_kelimeler": [
       "patlayıcı",
       "vida",
@@ -2775,7 +2775,7 @@
     "id": 199,
     "kategori": "astronotik",
     "kelime": "kargo gemisi",
-    "aciklama": "uzay istasyonuna astronotların ihtiyaç duyduğu yiyecek, su, giysi ve bilimsel deney malzemelerini taşıyan insansız ikmal aracı.",
+    "aciklama": "mars gibi gezegenlere dünyadan mikrop bulaşmasını önlemeyi amaçlayan uluslararası kural.",
     "yasakli_kelimeler": [
       "ikmal",
       "taşıma",
@@ -2789,7 +2789,7 @@
     "id": 200,
     "kategori": "astronotik",
     "kelime": "ay modülü",
-    "aciklama": "apollo programında komuta gemisinden ayrılarak astronotları ay yüzeyine indiren ve işleri bitince tekrar yörüngeye fırlatan tarihi iki kademeli araç.",
+    "aciklama": "uzaydan dünyaya getirilen numunelerden dünyaya yabancı patojen bulaşmasını önleme protokolü.",
     "yasakli_kelimeler": [
       "apollo",
       "ay",
@@ -2802,7 +2802,7 @@
   {
     "kategori": "astronotik",
     "kelime": "fırlatmak",
-    "aciklama": "uzay mekiğini veya roketi fırlatma rampasından gökyüzüne ateşlemek",
+    "aciklama": "dünya yörüngesindeki uyduları füzeyle veya lazerle imha etme silahı teknolojisi.",
     "yasakli_kelimeler": [
       "roket",
       "rampa",
@@ -2816,7 +2816,7 @@
   {
     "kategori": "astronotik",
     "kelime": "iniş yapmak",
-    "aciklama": "uzay aracının paraşüt veya itki motorlarıyla aya veya dünyaya inmesi",
+    "aciklama": "uyduların frekanslarını bozarak kör eden elektronik harp yöntemi.",
     "yasakli_kelimeler": [
       "paraşüt",
       "yüzey",
@@ -2830,7 +2830,7 @@
   {
     "kategori": "astronotik",
     "kelime": "uzay yürüyüşü yapmak",
-    "aciklama": "astronotun koruyucu giysiyle uzay istasyonunun dışına çıkması",
+    "aciklama": "yerden yönlendirilen yüksek güçlü lazerle düşman uydusunun optik kamerasını yakma.",
     "yasakli_kelimeler": [
       "eva",
       "giysi",
@@ -2844,7 +2844,7 @@
   {
     "kategori": "astronotik",
     "kelime": "yerçekimsiz ortamda süzülmek",
-    "aciklama": "mikroyerçekimi şartlarında uzay aracının içinde havada yüzmek",
+    "aciklama": "yörüngedeki hedef uyduya yaklaşarak mekanik kollarla yakalayıp etkisiz kılan uydu.",
     "yasakli_kelimeler": [
       "sıfır g",
       "ağırlıksız",
@@ -2858,7 +2858,7 @@
   {
     "kategori": "astronotik",
     "kelime": "roket yakıtı doldurmak",
-    "aciklama": "fırlatma öncesi tanklara sıvı oksijen ve kerosen pompalamak",
+    "aciklama": "yörüngedeki uzay çöplerini ağla yakalayıp atmosfere düşürme.",
     "yasakli_kelimeler": [
       "sıvı oksijen",
       "kerosen",
@@ -2872,7 +2872,7 @@
   {
     "kategori": "astronotik",
     "kelime": "geri sayım yapmak",
-    "aciklama": "roketin ateşlenmesine saniyeler kala ondan geriye saymak",
+    "aciklama": "uzay çöplerini lazerle vurup yavaşlatarak atmosfere sokup yakma konsepti.",
     "yasakli_kelimeler": [
       "on dokuz sekiz",
       "kronometre",
@@ -2886,7 +2886,7 @@
   {
     "kategori": "astronotik",
     "kelime": "telsizle konuşmak",
-    "aciklama": "yörüngedeki kapsülden yer kontrol merkezi houston ile iletişim kurmak",
+    "aciklama": "uzay çöplerine elektrodinamik kablo takarak dünyanın manyetik alanıyla yavaşlatma.",
     "yasakli_kelimeler": [
       "houston",
       "yer kontrol",
@@ -2900,7 +2900,7 @@
   {
     "kategori": "astronotik",
     "kelime": "kask takmak",
-    "aciklama": "astronot kıyafetinin cam vizörlü başlık kısmını kilitlemek",
+    "aciklama": "uyduların ömrü bitince kendiliğinden yelken açıp atmosfere sürtünerek düşmesi.",
     "yasakli_kelimeler": [
       "vizör",
       "başlık",
@@ -2914,7 +2914,7 @@
   {
     "kategori": "astronotik",
     "kelime": "güneş paneli açmak",
-    "aciklama": "uydunun elektrik ihtiyacını karşılamak için kanat panellerini açmak",
+    "aciklama": "ömrü biten uydulara yakıt ikmali yapan robotik araç.",
     "yasakli_kelimeler": [
       "panel",
       "kanat",
@@ -2928,7 +2928,7 @@
   {
     "kategori": "astronotik",
     "kelime": "uydu yerleştirmek",
-    "aciklama": "roketin kargo bölmesindeki haberleşme uydusunu yörüngeye bırakmak",
+    "aciklama": "arızalanan uyduları yörüngede tamir eden veya modülünü değiştiren servis aracı.",
     "yasakli_kelimeler": [
       "faydalı yük",
       "kargo",
@@ -2942,7 +2942,7 @@
   {
     "kategori": "astronotik",
     "kelime": "deney yapmak",
-    "aciklama": "uzay laboratuvarında mikroyerçekiminin bitki ve hücrelere etkisini incelemek",
+    "aciklama": "üç boyutlu yazıcılarla uzayda yedek parça basma.",
     "yasakli_kelimeler": [
       "laboratuvar",
       "iss",
@@ -2956,7 +2956,7 @@
   {
     "kategori": "astronotik",
     "kelime": "kapsüle binmek",
-    "aciklama": "astronotların fırlatma öncesi aracın kokpitindeki koltuklara yatması",
+    "aciklama": "uzayda devasa teleskop aynalarını ve yapıları birleştiren otonom inşaat robotları.",
     "yasakli_kelimeler": [
       "kokpit",
       "koltuk",
@@ -2970,7 +2970,7 @@
   {
     "kategori": "astronotik",
     "kelime": "kenetlenmek",
-    "aciklama": "uzay aracı ile uzay istasyonunun yörüngede buluşup mekanik olarak kilitlenmesi",
+    "aciklama": "ay veya mars toprağından su ve oksijen üretme.",
     "yasakli_kelimeler": [
       "docking",
       "istasyon",
@@ -2984,7 +2984,7 @@
   {
     "kategori": "astronotik",
     "kelime": "itki uygulamak",
-    "aciklama": "roket motorunun nozulundan gaz püskürterek ileri yönde itiş kuvveti üretmesi",
+    "aciklama": "ay toprağını mikrodalga veya güneş fırınında eritip sert tuğla yapma.",
     "yasakli_kelimeler": [
       "thrust",
       "nozul",
@@ -2997,8 +2997,8 @@
   },
   {
     "kategori": "astronotik",
-    "kelime": "kapsül ayrılması",
-    "aciklama": "astronotları taşıyan mürettebat modülünün servis modülünden ayrılması",
+    "kelime": "lav tüpüne sığınmak",
+    "aciklama": "ay ve mars'ta sığınılacak doğal koruyucu lav tüpleri.",
     "yasakli_kelimeler": [
       "mürettebat",
       "servis modülü",
@@ -3012,7 +3012,7 @@
   {
     "kategori": "astronotik",
     "kelime": "atmosfere girmek",
-    "aciklama": "uzay aracının saatte on binlerce kilometre hızla dünya havasına dalması",
+    "aciklama": "radyasyonu ve aşırı sıcağı kesen ay toprağı kalkanı.",
     "yasakli_kelimeler": [
       "yeniden giriş",
       "reentry",
@@ -3026,7 +3026,7 @@
   {
     "kategori": "astronotik",
     "kelime": "paraşüt açmak",
-    "aciklama": "iniş kapsülünün hızını denize veya karaya çarpmadan önce yavaşlatmak",
+    "aciklama": "uzay üslerinde bitki yetiştirmek için kullanılan topraksız besinli sıvı tarım.",
     "yasakli_kelimeler": [
       "yavaşlatma",
       "kumaş",
@@ -3040,7 +3040,7 @@
   {
     "kategori": "astronotik",
     "kelime": "yerçekimi sapanı yapmak",
-    "aciklama": "uzay sondasının bir gezegenin kütleçekim alanından hız kazanarak fırlaması",
+    "aciklama": "uzayda bitki köklerine besinli sis püskürterek yapılan yerçekimsiz tarım.",
     "yasakli_kelimeler": [
       "gravity assist",
       "sapan",
@@ -3054,7 +3054,7 @@
   {
     "kategori": "astronotik",
     "kelime": "g kuvvetine dayanmak",
-    "aciklama": "fırlatma veya dönüş sırasındaki yüksek ivmelenme baskısına vücudun direnmesi",
+    "aciklama": "uzayda bitki fotosentezi için en uygun tarım ledleri.",
     "yasakli_kelimeler": [
       "ivme",
       "baskı",
@@ -3068,7 +3068,7 @@
   {
     "kategori": "astronotik",
     "kelime": "kaçış kulesi ateşlemek",
-    "aciklama": "fırlatma rampasında acil durumda kapsülü roketten hızla uzaklaştıran motor",
+    "aciklama": "uzay istasyonlarında protein kaynağı olarak üretilen hızlı büyüyen mikroalg havuzları.",
     "yasakli_kelimeler": [
       "launch abort",
       "acil durum",
@@ -3082,7 +3082,7 @@
   {
     "kategori": "astronotik",
     "kelime": "yörünge yükseltmek",
-    "aciklama": "istasyonun atmosfer sürtünmesiyle alçalan irtifasını iticilerle artırmak",
+    "aciklama": "astronotların dışkı ve atıklarını fermantasyonla kompost yapıp gübreye dönüştürme.",
     "yasakli_kelimeler": [
       "irtifa",
       "itici",
@@ -3096,7 +3096,7 @@
   {
     "kategori": "astronotik",
     "kelime": "roket dikey indirmek",
-    "aciklama": "yeniden kullanılabilir roket kademesini yüzer platforma bacakları üstüne indirmek",
+    "aciklama": "hava ve suyu kapalı döngüde geri kazanan ekosistem.",
     "yasakli_kelimeler": [
       "falcon 9",
       "spacex",
@@ -3110,7 +3110,7 @@
   {
     "kategori": "astronotik",
     "kelime": "hava kilidinden çıkmak",
-    "aciklama": "istasyon içi basıncı düşürüp dış kapıyı açarak uzay boşluğuna adım atmak",
+    "aciklama": "uzay ortamında insan sağlığı ve biyolojisini inceleyen tıp.",
     "yasakli_kelimeler": [
       "airlock",
       "basınç eşitleme",
@@ -3124,7 +3124,7 @@
   {
     "kategori": "astronotik",
     "kelime": "kriyojenik soğutmak",
-    "aciklama": "roket yakıtı olan sıvı hidrojen ve oksijeni eksi iki yüz derecede tutmak",
+    "aciklama": "yerçekimsiz ortamda protein kristallerinin kusursuz büyümesini inceleyen biyoloji dalı.",
     "yasakli_kelimeler": [
       "sıvı hidrojen",
       "aşırı soğuk",
@@ -3138,7 +3138,7 @@
   {
     "kategori": "astronotik",
     "kelime": "faydalı yük bırakmak",
-    "aciklama": "kargo bölmesini açıp bilimsel ekipman veya uyduyu hedeflenen yörüngeye salmak",
+    "aciklama": "yerçekimsiz ortamda metallerin homojen karışmasını ve alaşım üretimini inceleyen bilim.",
     "yasakli_kelimeler": [
       "payload",
       "kargo",
@@ -3152,7 +3152,7 @@
   {
     "kategori": "astronotik",
     "kelime": "reaksiyon tekeri döndürmek",
-    "aciklama": "aracın yönünü yakıt harcamadan açısal momentum korunumuyla çevirmek",
+    "aciklama": "uzayda yerçekimsiz ortamda alevlerin küresel biçimde yayılmasını inceleyen yanma fiziği.",
     "yasakli_kelimeler": [
       "açısal momentum",
       "volan",
@@ -3166,7 +3166,7 @@
   {
     "kategori": "astronotik",
     "kelime": "termal battaniye sarmak",
-    "aciklama": "aracı uzaydaki eksi yüz elli ile artı yüz elli derece farkından korumak",
+    "aciklama": "yerçekimsiz ortamda sıvıların yüzey gerilimi ve kılcallıkla hareketini inceleyen fizik.",
     "yasakli_kelimeler": [
       "mli",
       "yalıtım",
@@ -3180,7 +3180,7 @@
   {
     "kategori": "astronotik",
     "kelime": "enkazdan kaçmak",
-    "aciklama": "eski uydu parçaları veya enkazla çarpışmamak için rotayı değiştirmek",
+    "aciklama": "uzayda üretilen ultra saf kayıpsız optik florür cam.",
     "yasakli_kelimeler": [
       "enkaz",
       "çarpışma",
@@ -3194,7 +3194,7 @@
   {
     "kategori": "astronotik",
     "kelime": "ay tozu toplamak",
-    "aciklama": "ay yüzeyindeki regolit mineral örneklerini özel tüplere mühürlemek",
+    "aciklama": "uzayda organ ve damarları yerçekimsiz ortamda basma.",
     "yasakli_kelimeler": [
       "regolit",
       "apollon",
@@ -3208,7 +3208,7 @@
   {
     "kategori": "astronotik",
     "kelime": "telemetri almak",
-    "aciklama": "aracın sıcaklık, basınç ve voltaj verilerini saniye saniye yere indirmek",
+    "aciklama": "uzay üslerine elektrik sağlayan minyatür nükleer fisyon reaktörü.",
     "yasakli_kelimeler": [
       "veri akışı",
       "sensör",
@@ -3222,7 +3222,7 @@
   {
     "kategori": "astronotik",
     "kelime": "yaşam desteklemek",
-    "aciklama": "kabin havasındaki karbondioksiti temizleyip oksijen ve nemi dengelemek",
+    "aciklama": "radyoaktif plütonyumun bozunma ısısını elektriğe çeviren termoelektrik jeneratör.",
     "yasakli_kelimeler": [
       "eclss",
       "karbondioksit tutucu",
@@ -3236,7 +3236,7 @@
   {
     "kategori": "astronotik",
     "kelime": "itki yönlendirmek",
-    "aciklama": "roket nozulunu hidrolikle hareket ettirerek uçuş rotasını yönlendirmek",
+    "aciklama": "uyduların yörüngesini dünya'dan yönlendirilen güçlü mikrodalga ışınlarıyla besleme.",
     "yasakli_kelimeler": [
       "gimbal",
       "nozul yönlendirme",
@@ -3250,7 +3250,7 @@
   {
     "kategori": "astronotik",
     "kelime": "hava freni açmak",
-    "aciklama": "yeniden kullanılabilir roketin atmosfer inişinde ızgara kanatçıklarını kullanması",
+    "aciklama": "uzaydaki güneş enerjisini mikrodalga ile yeryüzüne aktarma.",
     "yasakli_kelimeler": [
       "grid fin",
       "kanatçık",
@@ -3264,7 +3264,7 @@
   {
     "kategori": "astronotik",
     "kelime": "simülatörde eğitilmek",
-    "aciklama": "astronotların centrifuge ve sualtı havuzunda fırlatma senaryolarını çalışması",
+    "aciklama": "dünya yörüngesine kurulacak oteller ve zenginlerin uzaya yapacağı turistik seyahatler.",
     "yasakli_kelimeler": [
       "neutral buoyancy",
       "havuz",
@@ -3278,7 +3278,7 @@
   {
     "kategori": "astronotik",
     "kelime": "hohmann transferi yapmak",
-    "aciklama": "iki dairesel yörünge arasında en az yakıt harcayan eliptik geçiş ateşlemesi",
+    "aciklama": "atmosfer sınırına çıkıp birkaç dakika yerçekimsiz bırakan uçuş.",
     "yasakli_kelimeler": [
       "transfer yörüngesi",
       "eliptik",
@@ -3292,7 +3292,7 @@
   {
     "kategori": "astronotik",
     "kelime": "delta v hesaplamak",
-    "aciklama": "belirli bir yörünge manevrası için gereken hız değişim miktarını bulmak",
+    "aciklama": "yolcuları yörüngede birkaç gün boyunca istasyonda ağırlayan uzay uçuşu.",
     "yasakli_kelimeler": [
       "hız değişimi",
       "tsiolkovsky",
@@ -3306,7 +3306,7 @@
   {
     "kategori": "astronotik",
     "kelime": "lagrange noktasına konmak",
-    "aciklama": "güneş ile dünya arasındaki kütleçekimsel denge noktasına teleskop yerleştirmek",
+    "aciklama": "uzay turistlerini ay'ın etrafından dolaştırıp dünyaya geri getiren turistik rota.",
     "yasakli_kelimeler": [
       "l2 noktası",
       "james webb",
@@ -3320,7 +3320,7 @@
   {
     "kategori": "astronotik",
     "kelime": "özgül itki ölçmek",
-    "aciklama": "roket motorunun birim yakıt ağırlığı başına ürettiği itme verimliliğini saptamak",
+    "aciklama": "özel şirketlerin turistler için kuracağı ticari uzay istasyonu.",
     "yasakli_kelimeler": [
       "isp",
       "verimlilik",
@@ -3334,7 +3334,7 @@
   {
     "kategori": "astronotik",
     "kelime": "iyon motoru ateşlemek",
-    "aciklama": "ksenon gazını elektrikle iyonlaştırıp elektrostatik hızlandırarak itki üretmek",
+    "aciklama": "roketlerin tekrar kullanılabilmesi sayesinde fırlatma maliyetlerinin büyük oranda düşmesi.",
     "yasakli_kelimeler": [
       "ksenon",
       "iyon",
@@ -3348,7 +3348,7 @@
   {
     "kategori": "astronotik",
     "kelime": "kavitasyon önlemek",
-    "aciklama": "roket turbopompalarında aşırı basınç düşüşünden gaz kabarcığı patlamasını engellemek",
+    "aciklama": "roketle kıtalar arası yolcuları kırk dakikada taşıma vizyonu.",
     "yasakli_kelimeler": [
       "turbopompa",
       "sıvı yakıt",
@@ -3362,7 +3362,7 @@
   {
     "kategori": "astronotik",
     "kelime": "regresif yanma tasarlamak",
-    "aciklama": "katı yakıtlı roket motorunda yakıt yüzeyi küçüldükçe itiş gücünü azaltmak",
+    "aciklama": "yolcuların uzay limanlarında uçağa biner gibi rokete binip fırlatılması süreci.",
     "yasakli_kelimeler": [
       "katı yakıt",
       "tane geometrisi",
@@ -3376,7 +3376,7 @@
   {
     "kategori": "astronotik",
     "kelime": "rejeneratif soğutmak",
-    "aciklama": "kriyojenik yakıtı yanma odasına girmeden önce nozul borularından dolaştırıp soğutmak",
+    "aciklama": "ticari uzay uçuşlarının güvenliğini ve hava sahası entegrasyonunu denetleyen otorite.",
     "yasakli_kelimeler": [
       "yanma odası",
       "nozul borusu",
@@ -3390,7 +3390,7 @@
   {
     "kategori": "astronotik",
     "kelime": "pogo salınımı sönümlemek",
-    "aciklama": "sıvı yakıt hatlarındaki basınç dalgalanması sonucu oluşan tehlikeli boyuna titreşimi kesmek",
+    "aciklama": "uzayın barışçıl kullanımını düzenleyen temel dış uzay antlaşması.",
     "yasakli_kelimeler": [
       "pogo",
       "boyuna titreşim",
@@ -3404,7 +3404,7 @@
   {
     "kategori": "astronotik",
     "kelime": "aerocapture gerçekleştirmek",
-    "aciklama": "gezegene gelen sondanın tek bir atmosferik geçişle doğrudan yörüngeye yakalanması",
+    "aciklama": "ay ve diğer gökcisimlerinin hiçbir devlet tarafından sahiplenilemeyeceğini belirten antlaşma.",
     "yasakli_kelimeler": [
       "tek geçiş",
       "yörüngeye girme",
@@ -3418,7 +3418,7 @@
   {
     "kategori": "astronotik",
     "kelime": "hibrit motor çalıştırmak",
-    "aciklama": "atmosferde ramjet veya scramjet uzayda roket moduna geçen hibrit itici",
+    "aciklama": "kaza yapan astronotların derhal kurtarılıp iade edilmesi antlaşması.",
     "yasakli_kelimeler": [
       "ramjet",
       "scramjet",
@@ -3432,7 +3432,7 @@
   {
     "kategori": "astronotik",
     "kelime": "nükleer roket ateşlemek",
-    "aciklama": "nükleer reaktör çekirdeğinde hidrojeni aşırı ısıtıp nozuldan püskürtmek",
+    "aciklama": "aracın dünyaya verdiği zararlardan fırlatan devletin sorumluluğu kuralı.",
     "yasakli_kelimeler": [
       "nükleer reaktör",
       "hidrojen ısıtma",
@@ -3445,8 +3445,8 @@
   },
   {
     "kategori": "astronotik",
-    "kelime": "yörüngede yakıt ikmali",
-    "aciklama": "yörüngedeki iki dev roketi birbirine bağlayıp kriyojenik yakıt pompalamak",
+    "kelime": "uyduyu sicile kaydettirmek",
+    "aciklama": "uzaya gönderilen tüm uyduların birleşmiş milletler siciline kaydedilmesi zorunluluğu kuralı.",
     "yasakli_kelimeler": [
       "starship",
       "tanker",

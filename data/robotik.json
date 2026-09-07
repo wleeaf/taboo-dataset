@@ -2829,34 +2829,6 @@
   },
   {
     "kategori": "robotik",
-    "kelime": "tutmak",
-    "aciklama": "robotik tutucu el ile masadaki nesneyi kavrayıp tutmak",
-    "yasakli_kelimeler": [
-      "tutucu",
-      "gripper",
-      "kavramak",
-      "el",
-      "nesne"
-    ],
-    "zorluk": "kolay",
-    "id": 203
-  },
-  {
-    "kategori": "robotik",
-    "kelime": "bırakmak",
-    "aciklama": "tutulan parçayı hedef konuma götürüp elini açarak serbest bırakmak",
-    "yasakli_kelimeler": [
-      "açmak",
-      "serbest",
-      "hedef",
-      "bırakış",
-      "el"
-    ],
-    "zorluk": "kolay",
-    "id": 204
-  },
-  {
-    "kategori": "robotik",
     "kelime": "algılamak",
     "aciklama": "sensörler yardımıyla önündeki engeli veya mesafeyi fark etmek",
     "yasakli_kelimeler": [
@@ -2867,7 +2839,7 @@
       "göz"
     ],
     "zorluk": "kolay",
-    "id": 205
+    "id": 203
   },
   {
     "kategori": "robotik",
@@ -2881,7 +2853,7 @@
       "birleştirme"
     ],
     "zorluk": "kolay",
-    "id": 206
+    "id": 204
   },
   {
     "kategori": "robotik",
@@ -2895,7 +2867,7 @@
       "elektrik"
     ],
     "zorluk": "kolay",
-    "id": 207
+    "id": 205
   },
   {
     "kategori": "robotik",
@@ -2909,7 +2881,7 @@
       "rotasyon"
     ],
     "zorluk": "kolay",
-    "id": 208
+    "id": 206
   },
   {
     "kategori": "robotik",
@@ -2923,7 +2895,7 @@
       "fren"
     ],
     "zorluk": "kolay",
-    "id": 209
+    "id": 207
   },
   {
     "kategori": "robotik",
@@ -2937,7 +2909,7 @@
       "çevre"
     ],
     "zorluk": "kolay",
-    "id": 210
+    "id": 208
   },
   {
     "kategori": "robotik",
@@ -2951,7 +2923,7 @@
       "agv"
     ],
     "zorluk": "kolay",
-    "id": 211
+    "id": 209
   },
   {
     "kategori": "robotik",
@@ -2965,7 +2937,7 @@
       "kavrama"
     ],
     "zorluk": "kolay",
-    "id": 212
+    "id": 210
   },
   {
     "kategori": "robotik",
@@ -2979,7 +2951,7 @@
       "keşif"
     ],
     "zorluk": "orta",
-    "id": 213
+    "id": 211
   },
   {
     "kategori": "robotik",
@@ -2993,7 +2965,7 @@
       "rota"
     ],
     "zorluk": "orta",
-    "id": 214
+    "id": 212
   },
   {
     "kategori": "robotik",
@@ -3007,7 +2979,7 @@
       "açı"
     ],
     "zorluk": "orta",
-    "id": 215
+    "id": 213
   },
   {
     "kategori": "robotik",
@@ -3021,7 +2993,7 @@
       "hata payı"
     ],
     "zorluk": "orta",
-    "id": 216
+    "id": 214
   },
   {
     "kategori": "robotik",
@@ -3035,7 +3007,7 @@
       "darbe"
     ],
     "zorluk": "orta",
-    "id": 217
+    "id": 215
   },
   {
     "kategori": "robotik",
@@ -3049,21 +3021,7 @@
       "milimetre"
     ],
     "zorluk": "orta",
-    "id": 218
-  },
-  {
-    "kategori": "robotik",
-    "kelime": "derinlik kamerası okumak",
-    "aciklama": "rgbd kamerayla piksellerin hem rengini hem de kameraya uzaklığını almak",
-    "yasakli_kelimeler": [
-      "rgb-d",
-      "piksel uzaklığı",
-      "3d kamera",
-      "realsense",
-      "derinlik haritası"
-    ],
-    "zorluk": "orta",
-    "id": 219
+    "id": 216
   },
   {
     "kategori": "robotik",
@@ -3077,7 +3035,7 @@
       "izleme"
     ],
     "zorluk": "orta",
-    "id": 220
+    "id": 217
   },
   {
     "kategori": "robotik",
@@ -3091,21 +3049,7 @@
       "graf"
     ],
     "zorluk": "orta",
-    "id": 221
-  },
-  {
-    "kategori": "robotik",
-    "kelime": "robotik tutucu kapatmak",
-    "aciklama": "görüntü işleme ağıyla konveyör banttaki hatalı vidayı anında tespit etmek",
-    "yasakli_kelimeler": [
-      "yolo",
-      "görüntü işleme",
-      "konveyör",
-      "kamera",
-      "tespit"
-    ],
-    "zorluk": "orta",
-    "id": 222
+    "id": 218
   },
   {
     "kategori": "robotik",
@@ -3119,7 +3063,7 @@
       "aşırı yük"
     ],
     "zorluk": "orta",
-    "id": 223
+    "id": 219
   },
   {
     "kategori": "robotik",
@@ -3133,21 +3077,7 @@
       "odometri"
     ],
     "zorluk": "orta",
-    "id": 224
-  },
-  {
-    "kategori": "robotik",
-    "kelime": "odometri hesaplamak",
-    "aciklama": "tekerlek dönüş sayısından robotun anlık konum koordinatını tahmin etmek",
-    "yasakli_kelimeler": [
-      "konum tahmini",
-      "tekerlek dönüşü",
-      "ölü hesap",
-      "koordinat",
-      "kayma"
-    ],
-    "zorluk": "orta",
-    "id": 225
+    "id": 220
   },
   {
     "kategori": "robotik",
@@ -3161,7 +3091,7 @@
       "kazanç"
     ],
     "zorluk": "orta",
-    "id": 226
+    "id": 221
   },
   {
     "kategori": "robotik",
@@ -3175,7 +3105,7 @@
       "denge"
     ],
     "zorluk": "orta",
-    "id": 227
+    "id": 222
   },
   {
     "kategori": "robotik",
@@ -3189,7 +3119,7 @@
       "piston"
     ],
     "zorluk": "orta",
-    "id": 228
+    "id": 223
   },
   {
     "kategori": "robotik",
@@ -3203,7 +3133,7 @@
       "paket"
     ],
     "zorluk": "orta",
-    "id": 229
+    "id": 224
   },
   {
     "kategori": "robotik",
@@ -3217,7 +3147,7 @@
       "otonom"
     ],
     "zorluk": "orta",
-    "id": 230
+    "id": 225
   },
   {
     "kategori": "robotik",
@@ -3231,7 +3161,7 @@
       "manuel kontrol"
     ],
     "zorluk": "orta",
-    "id": 231
+    "id": 226
   },
   {
     "kategori": "robotik",
@@ -3245,7 +3175,7 @@
       "havada asılı"
     ],
     "zorluk": "orta",
-    "id": 232
+    "id": 227
   },
   {
     "kategori": "robotik",
@@ -3259,7 +3189,7 @@
       "derleme"
     ],
     "zorluk": "orta",
-    "id": 233
+    "id": 228
   },
   {
     "kategori": "robotik",
@@ -3273,7 +3203,7 @@
       "ortak çalışma"
     ],
     "zorluk": "orta",
-    "id": 234
+    "id": 229
   },
   {
     "kategori": "robotik",
@@ -3287,7 +3217,7 @@
       "yüzey oluşturma"
     ],
     "zorluk": "orta",
-    "id": 235
+    "id": 230
   },
   {
     "kategori": "robotik",
@@ -3301,7 +3231,7 @@
       "hızlı hareket"
     ],
     "zorluk": "orta",
-    "id": 236
+    "id": 231
   },
   {
     "kategori": "robotik",
@@ -3315,7 +3245,7 @@
       "homojen matris"
     ],
     "zorluk": "zor",
-    "id": 237
+    "id": 232
   },
   {
     "kategori": "robotik",
@@ -3329,7 +3259,7 @@
       "uç nokta hızı"
     ],
     "zorluk": "zor",
-    "id": 238
+    "id": 233
   },
   {
     "kategori": "robotik",
@@ -3343,7 +3273,7 @@
       "serbestlik kaybı"
     ],
     "zorluk": "zor",
-    "id": 239
+    "id": 234
   },
   {
     "kategori": "robotik",
@@ -3357,7 +3287,7 @@
       "sensör füzyonu"
     ],
     "zorluk": "zor",
-    "id": 240
+    "id": 235
   },
   {
     "kategori": "robotik",
@@ -3371,7 +3301,7 @@
       "middleware"
     ],
     "zorluk": "zor",
-    "id": 241
+    "id": 236
   },
   {
     "kategori": "robotik",
@@ -3385,7 +3315,7 @@
       "optimizasyon"
     ],
     "zorluk": "zor",
-    "id": 242
+    "id": 237
   },
   {
     "kategori": "robotik",
@@ -3399,7 +3329,7 @@
       "honda asimo"
     ],
     "zorluk": "zor",
-    "id": 243
+    "id": 238
   },
   {
     "kategori": "robotik",
@@ -3413,7 +3343,7 @@
       "mekanik empedans"
     ],
     "zorluk": "zor",
-    "id": 244
+    "id": 239
   },
   {
     "kategori": "robotik",
@@ -3427,7 +3357,7 @@
       "politika transferi"
     ],
     "zorluk": "zor",
-    "id": 245
+    "id": 240
   },
   {
     "kategori": "robotik",
@@ -3441,7 +3371,7 @@
       "epipolar geometri"
     ],
     "zorluk": "zor",
-    "id": 246
+    "id": 241
   },
   {
     "kategori": "robotik",
@@ -3455,7 +3385,7 @@
       "konsol"
     ],
     "zorluk": "zor",
-    "id": 247
+    "id": 242
   },
   {
     "kategori": "robotik",
@@ -3469,7 +3399,7 @@
       "eklem tipi"
     ],
     "zorluk": "zor",
-    "id": 248
+    "id": 243
   },
   {
     "kategori": "robotik",
@@ -3483,7 +3413,7 @@
       "mikro robotlar"
     ],
     "zorluk": "zor",
-    "id": 249
+    "id": 244
   },
   {
     "kategori": "robotik",
@@ -3497,6 +3427,6 @@
       "optimizasyon"
     ],
     "zorluk": "zor",
-    "id": 250
+    "id": 245
   }
 ]

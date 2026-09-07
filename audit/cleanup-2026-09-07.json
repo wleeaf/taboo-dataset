@@ -1,0 +1,5066 @@
+{
+  "baseline_revision": "df267689482858f6b77cf8b6659a1f508a25a520",
+  "policy": "Natural independently meaningful Taboo targets; remove redundant generic technical task padding and broken/mismatched cards; preserve common activities and valid specialist concepts. No per-category quotas or forced word count.",
+  "actions": [
+    {
+      "file": "aktuerya.json",
+      "original_id": 227,
+      "before": {
+        "kategori": "aktuerya",
+        "kelime": "hasar frekansı ölçmek",
+        "aciklama": "belirli dönemdeki hasar sayısının poliçe sayısına oranını bulmak",
+        "yasakli_kelimeler": [
+          "sıklık",
+          "oran",
+          "sayı",
+          "oluşma",
+          "dönem"
+        ],
+        "zorluk": "orta",
+        "id": 227
+      },
+      "replacement": null,
+      "reason": "“hasar frekansı ölçmek” is generic measurement padding around the existing hasar frekansı concept."
+    },
+    {
+      "file": "aktuerya.json",
+      "original_id": 228,
+      "before": {
+        "kategori": "aktuerya",
+        "kelime": "hasar şiddeti bulmak",
+        "aciklama": "meydana gelen her bir hasarın ortalama parasal tutarını hesaplamak",
+        "yasakli_kelimeler": [
+          "maliyet",
+          "tutar",
+          "ortalama",
+          "büyüklük",
+          "ağırlık"
+        ],
+        "zorluk": "orta",
+        "id": 228
+      },
+      "replacement": null,
+      "reason": "“hasar şiddeti bulmak” repeats the existing hasar şiddeti concept as generic calculation padding."
+    },
+    {
+      "file": "aktuerya.json",
+      "original_id": 240,
+      "before": {
+        "kategori": "aktuerya",
+        "kelime": "ibnr hesaplamak",
+        "aciklama": "gerçekleşmiş fakat henüz şirkete ihbar edilmemiş hasarları tahmin etmek",
+        "yasakli_kelimeler": [
+          "ihbarsız",
+          "gecikmeli",
+          "karşılık",
+          "zincir merdiven",
+          "tahmin"
+        ],
+        "zorluk": "zor",
+        "id": 240
+      },
+      "replacement": null,
+      "reason": "“ibnr hesaplamak” is generic calculation padding around the existing IBNR concept."
+    },
+    {
+      "file": "aktuerya.json",
+      "original_id": 242,
+      "before": {
+        "kategori": "aktuerya",
+        "kelime": "kuyruk riski modellemek",
+        "aciklama": "dağılımın uç noktalarında gerçekleşebilecek dev felaketleri ölçmek",
+        "yasakli_kelimeler": [
+          "uç değer",
+          "ekstrem",
+          "fat tail",
+          "felaket",
+          "olasılık"
+        ],
+        "zorluk": "zor",
+        "id": 242
+      },
+      "replacement": null,
+      "reason": "“kuyruk riski modellemek” is a generic modeling task around the existing kuyruk riski concept."
+    },
+    {
+      "file": "aktuerya.json",
+      "original_id": 246,
+      "before": {
+        "kategori": "aktuerya",
+        "kelime": "var hesaplamak",
+        "aciklama": "belli güven aralığında karşılaşılabilecek maksimum riske maruz değeri bulmak",
+        "yasakli_kelimeler": [
+          "riske maruz değer",
+          "güven aralığı",
+          "kayıp",
+          "yüzdelik",
+          "sermaye"
+        ],
+        "zorluk": "zor",
+        "id": 246
+      },
+      "replacement": null,
+      "reason": "“var hesaplamak” is generic calculation padding around the existing VaR concept."
+    },
+    {
+      "file": "algoritmalar.json",
+      "original_id": 213,
+      "before": {
+        "kategori": "algoritmalar",
+        "kelime": "özyineleme yapmak",
+        "aciklama": "bir fonksiyonun problemi çözmek için kendi kendini çağırması",
+        "yasakli_kelimeler": [
+          "rekürsif",
+          "kendini çağırma",
+          "taban durum",
+          "yığın",
+          "çağrı"
+        ],
+        "zorluk": "orta",
+        "id": 213
+      },
+      "replacement": null,
+      "reason": "“özyineleme yapmak” merely turns the existing özyineleme concept into a generic verb phrase."
+    },
+    {
+      "file": "algoritmalar.json",
+      "original_id": 248,
+      "before": {
+        "kategori": "algoritmalar",
+        "kelime": "bloom filtresi kurmak",
+        "aciklama": "bir elemanın kümede olup olmadığını olasılıksal ve az bellekle sınamak",
+        "yasakli_kelimeler": [
+          "olasılıksal",
+          "bit dizisi",
+          "küme",
+          "varlık",
+          "hafıza"
+        ],
+        "zorluk": "zor",
+        "id": 248
+      },
+      "replacement": null,
+      "reason": "“bloom filtresi kurmak” is a generic implementation task around the existing bloom filtresi data structure."
+    },
+    {
+      "file": "anatomi.json",
+      "original_id": 238,
+      "before": {
+        "kategori": "anatomi",
+        "kelime": "sinaps yapmak",
+        "aciklama": "iki nöron arasında nörotransmitter maddelerle elektriksel kavşak kurmak",
+        "yasakli_kelimeler": [
+          "nöron",
+          "nörotransmitter",
+          "kavşak",
+          "iletişim",
+          "yarık"
+        ],
+        "zorluk": "zor",
+        "id": 238
+      },
+      "replacement": null,
+      "reason": "“sinaps yapmak” is an unnatural generic verb frame; the existing sinaps card already names the junction defined in the explanation."
+    },
+    {
+      "file": "animasyon.json",
+      "original_id": 221,
+      "before": {
+        "kategori": "animasyon",
+        "kelime": "takip hareketi vermek",
+        "aciklama": "ana gövde durduktan sonra saç, pelerin gibi uzantıların hareketi sürdürmesi",
+        "yasakli_kelimeler": [
+          "uzantı",
+          "pelerin",
+          "atalet",
+          "sürüklenme",
+          "saç"
+        ],
+        "zorluk": "orta",
+        "id": 221
+      },
+      "replacement": null,
+      "reason": "“takip hareketi vermek” is a generic production instruction duplicating the existing takip hareketi concept."
+    },
+    {
+      "file": "animasyon.json",
+      "original_id": 223,
+      "before": {
+        "kategori": "animasyon",
+        "kelime": "rotoskopi yapmak",
+        "aciklama": "gerçek aktörün canlı kamera görüntüsünün üzerinden kare kare çizmek",
+        "yasakli_kelimeler": [
+          "canlı çekim",
+          "iz sürme",
+          "gerçekçi",
+          "kare kare",
+          "kopya"
+        ],
+        "zorluk": "orta",
+        "id": 223
+      },
+      "replacement": null,
+      "reason": "“rotoskopi yapmak” is generic task padding around the existing rotoskopi technique."
+    },
+    {
+      "file": "animasyon.json",
+      "original_id": 224,
+      "before": {
+        "kategori": "animasyon",
+        "kelime": "stop motion çekmek",
+        "aciklama": "fiziksel objelerin her fotoğraf karesinde biraz hareket ettirilmesi tekniği",
+        "yasakli_kelimeler": [
+          "fotoğraf",
+          "hamur",
+          "kukla",
+          "kare",
+          "kamera"
+        ],
+        "zorluk": "orta",
+        "id": 224
+      },
+      "replacement": null,
+      "reason": "“stop motion çekmek” is a generic task frame around the existing stop motion technique."
+    },
+    {
+      "file": "astronomi.json",
+      "original_id": 223,
+      "before": {
+        "kategori": "astronomi",
+        "kelime": "kutup ışığı oluşturmak",
+        "aciklama": "güneş rüzgarı parçacıklarının manyetosfere çarpıp atmosfer gazlarını ışıltması",
+        "yasakli_kelimeler": [
+          "aurora",
+          "güneş rüzgarı",
+          "manyetosfer",
+          "yeşil ışık",
+          "kutup"
+        ],
+        "zorluk": "orta",
+        "id": 223
+      },
+      "replacement": null,
+      "reason": "“kutup ışığı oluşturmak” is verb padding around the existing “kutup ışığı” card, and its explanation describes the named phenomenon itself."
+    },
+    {
+      "file": "astronomi.json",
+      "original_id": 234,
+      "before": {
+        "kategori": "astronomi",
+        "kelime": "nebula genişlemek",
+        "aciklama": "patlayan yıldızın uzaya fırlattığı gaz ve toz bulutunun ışık hızının kesirleriyle yayılması",
+        "yasakli_kelimeler": [
+          "gaz bulutu",
+          "toz",
+          "yayılma",
+          "süpernova kalıntısı",
+          "yengeç"
+        ],
+        "zorluk": "orta",
+        "id": 234
+      },
+      "replacement": null,
+      "reason": "“nebula genişlemek” is an awkward infinitive describing a property of a nebula; the named nebula card already carries the concept."
+    },
+    {
+      "file": "astronomi.json",
+      "original_id": 235,
+      "before": {
+        "kategori": "astronomi",
+        "kelime": "ışık yılı hesaplamak",
+        "aciklama": "ışığın bir dünya yılında boşlukta katettiği 9.46 trilyon kilometreyi temel almak",
+        "yasakli_kelimeler": [
+          "mesafe",
+          "ışık hızı",
+          "yıl",
+          "trilyon kilometre",
+          "uzay"
+        ],
+        "zorluk": "orta",
+        "id": 235
+      },
+      "replacement": null,
+      "reason": "“ışık yılı hesaplamak” is a generic calculation frame around the existing ışık yılı unit, not a conventional standalone target."
+    },
+    {
+      "file": "astronomi.json",
+      "original_id": 243,
+      "before": {
+        "kategori": "astronomi",
+        "kelime": "karanlık enerji modellemek",
+        "aciklama": "evrenin ivmelenerek genişlemesini sağlayan kozmolojik sabiti ve negatif basıncı hesaplamak",
+        "yasakli_kelimeler": [
+          "ivmelenen genişleme",
+          "kozmolojik sabit",
+          "negatif basınç",
+          "evren",
+          "tip 1a"
+        ],
+        "zorluk": "zor",
+        "id": 243
+      },
+      "replacement": null,
+      "reason": "“karanlık enerji modellemek” is a generic modeling task around the existing karanlık enerji concept, not an independently named target."
+    },
+    {
+      "file": "astronotik.json",
+      "original_id": 218,
+      "before": {
+        "kategori": "astronotik",
+        "kelime": "ısı kalkanı kullanmak",
+        "aciklama": "atmosfere girişteki aşırı sürtünme sıcaklığını emip aracı koruyan seramik katman",
+        "yasakli_kelimeler": [
+          "seramik karo",
+          "ablasyon",
+          "sıcaklık",
+          "yanma",
+          "koruma"
+        ],
+        "zorluk": "orta",
+        "id": 218
+      },
+      "replacement": null,
+      "reason": "“ısı kalkanı kullanmak” is a generic task frame and duplicates the existing ısı kalkanı card; its explanation defines the shield itself."
+    },
+    {
+      "file": "astronotik.json",
+      "original_id": 240,
+      "before": {
+        "kategori": "astronotik",
+        "kelime": "aerobraking uygulamak",
+        "aciklama": "gezegen atmosferine hafifçe sürtünerek yakıt yakmadan yörünge küçültmek",
+        "yasakli_kelimeler": [
+          "atmosferik sürtünme",
+          "mars",
+          "yavaşlama",
+          "yörünge daireselleştirme",
+          "sonda"
+        ],
+        "zorluk": "zor",
+        "id": 240
+      },
+      "replacement": null,
+      "reason": "“aerobraking uygulamak” wraps the already represented concept “aerobraking” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "atletizm.json",
+      "original_id": 240,
+      "before": {
+        "kategori": "atletizm",
+        "kelime": "laktat eşiği belirlemek",
+        "aciklama": "kanda laktik asit üretiminin temizlenme hızını aştığı kritik koşu hızını saptamak",
+        "yasakli_kelimeler": [
+          "anaerobik eşik",
+          "kan testi",
+          "parmak ucu",
+          "kritik hız",
+          "tempo"
+        ],
+        "zorluk": "zor",
+        "id": 240
+      },
+      "replacement": null,
+      "reason": "“laktat eşiği belirlemek” wraps the already represented concept “laktat eşiği” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "borsa.json",
+      "original_id": 227,
+      "before": {
+        "kategori": "borsa",
+        "kelime": "piyasa değeri bulmak",
+        "aciklama": "şirketin toplam hisse adediyle güncel hisse fiyatını çarparak toplam değerini saptamak",
+        "yasakli_kelimeler": [
+          "kapitalizasyon",
+          "hisse adedi",
+          "çarpım",
+          "şirket değeri",
+          "bist"
+        ],
+        "zorluk": "orta",
+        "id": 227
+      },
+      "replacement": null,
+      "reason": "“piyasa değeri bulmak” wraps the already represented concept “piyasa değeri” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "borsa.json",
+      "original_id": 235,
+      "before": {
+        "kategori": "borsa",
+        "kelime": "favök hesaplamak",
+        "aciklama": "şirketin faiz, amortisman ve vergi öncesi operasyonel nakit karını bulmak",
+        "yasakli_kelimeler": [
+          "ebitda",
+          "operasyonel kar",
+          "amortisman",
+          "faiz vergi",
+          "nakit akışı"
+        ],
+        "zorluk": "orta",
+        "id": 235
+      },
+      "replacement": null,
+      "reason": "“favök hesaplamak” wraps the already represented concept “favök” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "borsa.json",
+      "original_id": 238,
+      "before": {
+        "kategori": "borsa",
+        "kelime": "volatilite modellemek",
+        "aciklama": "fiyat dalgalanmalarının şiddetini garch modelleriyle tahmin etmek",
+        "yasakli_kelimeler": [
+          "oynaklık",
+          "dalgalanma",
+          "garch",
+          "risk ölçümü",
+          "standart sapma"
+        ],
+        "zorluk": "zor",
+        "id": 238
+      },
+      "replacement": null,
+      "reason": "“volatilite modellemek” wraps the already represented concept “volatilite” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "borsa.json",
+      "original_id": 244,
+      "before": {
+        "kategori": "borsa",
+        "kelime": "beta katsayısı ölçmek",
+        "aciklama": "hissenin genel borsa endeksine göre duyarlılığını ve sistematik riskini bulmak",
+        "yasakli_kelimeler": [
+          "sistematik risk",
+          "endeks duyarlılığı",
+          "kovaryans",
+          "capm",
+          "oynaklık"
+        ],
+        "zorluk": "zor",
+        "id": 244
+      },
+      "replacement": null,
+      "reason": "“beta katsayısı ölçmek” wraps the already represented concept “beta katsayısı” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "borsa.json",
+      "original_id": 245,
+      "before": {
+        "kategori": "borsa",
+        "kelime": "sharpe oranı hesaplamak",
+        "aciklama": "portföyün risksiz faizin üzerinde elde ettiği getiriyi üstlendiği riske oranlamak",
+        "yasakli_kelimeler": [
+          "risksiz getiri",
+          "standart sapma",
+          "performans",
+          "risk getiri",
+          "oran"
+        ],
+        "zorluk": "zor",
+        "id": 245
+      },
+      "replacement": null,
+      "reason": "“sharpe oranı hesaplamak” wraps the already represented concept “sharpe oranı” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "botanik.json",
+      "original_id": 213,
+      "before": {
+        "kategori": "botanik",
+        "kelime": "fotosentez yapmak",
+        "aciklama": "klorofil sayesinde güneş ışığı, su ve karbondioksiti glikoza dönüştürmek",
+        "yasakli_kelimeler": [
+          "klorofil",
+          "güneş ışığı",
+          "karbondioksit",
+          "oksijen",
+          "glikoz"
+        ],
+        "zorluk": "orta",
+        "id": 213
+      },
+      "replacement": null,
+      "reason": "“fotosentez yapmak” wraps the already represented concept “fotosentez” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "botanik.json",
+      "original_id": 216,
+      "before": {
+        "kategori": "botanik",
+        "kelime": "herbaryum yapmak",
+        "aciklama": "toplanan yabani bitkileri kurutup presleyerek etiketli kartonlara yapıştırmak",
+        "yasakli_kelimeler": [
+          "pres",
+          "kurutma",
+          "koleksiyon",
+          "etiket",
+          "botanik müzesi"
+        ],
+        "zorluk": "orta",
+        "id": 216
+      },
+      "replacement": null,
+      "reason": "“herbaryum yapmak” wraps the already represented concept “herbaryum” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "botanik.json",
+      "original_id": 218,
+      "before": {
+        "kategori": "botanik",
+        "kelime": "terleme yapmak",
+        "aciklama": "yapraklardaki gözeneklerden su buharı atarak su iletimini sağlamak",
+        "yasakli_kelimeler": [
+          "transpirasyon",
+          "stoma",
+          "su buharı",
+          "soğuma",
+          "kolluk"
+        ],
+        "zorluk": "orta",
+        "id": 218
+      },
+      "replacement": null,
+      "reason": "“terleme yapmak” wraps the already represented concept “terleme” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "botanik.json",
+      "original_id": 225,
+      "before": {
+        "kategori": "botanik",
+        "kelime": "gutasyon yapmak",
+        "aciklama": "aşırı nemli havada yaprak uçlarındaki hıdatotlardan damla damla su çıkarmak",
+        "yasakli_kelimeler": [
+          "damlama",
+          "hıdatot",
+          "kök basıncı",
+          "nemli hava",
+          "yaprak kenarı"
+        ],
+        "zorluk": "orta",
+        "id": 225
+      },
+      "replacement": null,
+      "reason": "“gutasyon yapmak” wraps the already represented concept “gutasyon” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "botanik.json",
+      "original_id": 231,
+      "before": {
+        "kategori": "botanik",
+        "kelime": "turgor basıncı oluşturmak",
+        "aciklama": "hücre kofuluna dolan suyun hücre çeperine içten itme kuvveti uygulaması",
+        "yasakli_kelimeler": [
+          "koful",
+          "hücre çeperi",
+          "iç basınç",
+          "dik durma",
+          "osmoz"
+        ],
+        "zorluk": "orta",
+        "id": 231
+      },
+      "replacement": null,
+      "reason": "“turgor basıncı oluşturmak” wraps the already represented concept “turgor basıncı” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "botanik.json",
+      "original_id": 247,
+      "before": {
+        "kategori": "botanik",
+        "kelime": "nodül oluşturmak",
+        "aciklama": "baklagil köklerinde rhizobium bakterileriyle azot bağlayıcı pembe yumrular kurmak",
+        "yasakli_kelimeler": [
+          "rhizobium",
+          "baklagil",
+          "azot bağlama",
+          "leghemoglobin",
+          "simbiyotik"
+        ],
+        "zorluk": "zor",
+        "id": 247
+      },
+      "replacement": null,
+      "reason": "“nodül oluşturmak” wraps the already represented concept “nodül” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "casusluk.json",
+      "original_id": 230,
+      "before": {
+        "kategori": "casusluk",
+        "kelime": "görüntü istihbaratı yapmak",
+        "aciklama": "askeri casus uyduları ile düşman füze rampalarını santim santim fotoğraflamak",
+        "yasakli_kelimeler": [
+          "imint",
+          "casus uydu",
+          "yüksek çözünürlük",
+          "füze rampası",
+          "fotoğraf"
+        ],
+        "zorluk": "orta",
+        "id": 230
+      },
+      "replacement": null,
+      "reason": "“görüntü istihbaratı yapmak” wraps the already represented concept “görüntü istihbaratı” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "cizgiroman.json",
+      "original_id": 220,
+      "before": {
+        "kategori": "cizgiroman",
+        "kelime": "mangaka olmak",
+        "aciklama": "japonya tarzında sağdan sola okunan siyah beyaz çizgi roman üreticisi olmak",
+        "yasakli_kelimeler": [
+          "manga",
+          "japonya",
+          "sağdan sola",
+          "asistan",
+          "shonen"
+        ],
+        "zorluk": "orta",
+        "id": 220
+      },
+      "replacement": null,
+      "reason": "“mangaka olmak” wraps the already represented concept “mangaka” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "cizgiroman.json",
+      "original_id": 226,
+      "before": {
+        "kategori": "cizgiroman",
+        "kelime": "grafik roman üretmek",
+        "aciklama": "dergi formatı yerine tek ciltte biten edebi ve sanatsal uzun çizgi roman hazırlamak",
+        "yasakli_kelimeler": [
+          "graphic novel",
+          "kalın cilt",
+          "edebi",
+          "sanatsal",
+          "watchmen"
+        ],
+        "zorluk": "orta",
+        "id": 226
+      },
+      "replacement": null,
+      "reason": "“grafik roman üretmek” wraps the already represented concept “grafik roman” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "cumhuriyettarihi.json",
+      "original_id": 212,
+      "before": {
+        "kategori": "cumhuriyettarihi",
+        "kelime": "harf devrimi yapmak",
+        "aciklama": "1 kasım 1928de arap harfleri yerine yeni türk alfabesini kabul etmek",
+        "yasakli_kelimeler": [
+          "yeni alfabe",
+          "latin harfleri",
+          "kara tahta",
+          "1928",
+          "millet mektepleri"
+        ],
+        "zorluk": "kolay",
+        "id": 212
+      },
+      "replacement": null,
+      "reason": "“harf devrimi yapmak” wraps the already represented concept “harf devrimi” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "cumhuriyettarihi.json",
+      "original_id": 217,
+      "before": {
+        "kategori": "cumhuriyettarihi",
+        "kelime": "soyadı kanunu çıkarmak",
+        "aciklama": "1934te her vatandaşın türkçe bir aile adı almasını zorunlu kılmak",
+        "yasakli_kelimeler": [
+          "1934",
+          "lakaplar",
+          "aile adı",
+          "nüfus",
+          "atatürk soyadı"
+        ],
+        "zorluk": "orta",
+        "id": 217
+      },
+      "replacement": null,
+      "reason": "“soyadı kanunu çıkarmak” wraps the already represented concept “soyadı kanunu” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "cumhuriyettarihi.json",
+      "original_id": 219,
+      "before": {
+        "kategori": "cumhuriyettarihi",
+        "kelime": "millet mektepleri açmak",
+        "aciklama": "yeni türk harflerini halka öğretmek için tüm yetişkinleri okullara çağırmak",
+        "yasakli_kelimeler": [
+          "başöğretmen",
+          "yetişkin eğitimi",
+          "okuma yazma",
+          "kara tahta",
+          "yeni harfler"
+        ],
+        "zorluk": "orta",
+        "id": 219
+      },
+      "replacement": null,
+      "reason": "“millet mektepleri açmak” wraps the already represented concept “millet mektepleri” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "cumhuriyettarihi.json",
+      "original_id": 220,
+      "before": {
+        "kategori": "cumhuriyettarihi",
+        "kelime": "tarih kurumu kurmak",
+        "aciklama": "türklerin kökenini ve dünya tarihindeki yerini bilimsel araştırmak",
+        "yasakli_kelimeler": [
+          "ttk",
+          "tarih tezi",
+          "araştırma",
+          "belleten",
+          "orta asya"
+        ],
+        "zorluk": "orta",
+        "id": 220
+      },
+      "replacement": null,
+      "reason": "“tarih kurumu kurmak” wraps the already represented concept “tarih kurumu” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "cumhuriyettarihi.json",
+      "original_id": 236,
+      "before": {
+        "kategori": "cumhuriyettarihi",
+        "kelime": "üniversite reformu yapmak",
+        "aciklama": "1933te darülfünunu kapatıp yerine modern istanbul üniversitesini kurmak",
+        "yasakli_kelimeler": [
+          "darülfünun kapatma",
+          "1933",
+          "istanbul üniversitesi",
+          "alman profesörler",
+          "modern bilim"
+        ],
+        "zorluk": "orta",
+        "id": 236
+      },
+      "replacement": null,
+      "reason": "“üniversite reformu yapmak” wraps the already represented concept “üniversite reformu” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "cumhuriyettarihi.json",
+      "original_id": 239,
+      "before": {
+        "kategori": "cumhuriyettarihi",
+        "kelime": "istiklal mahkemesi kurmak",
+        "aciklama": "milli mücadelede asker kaçaklarını ve vatan hainlerini hızla yargılayan seyyar mahkeme",
+        "yasakli_kelimeler": [
+          "asker kaçakları",
+          "hıyanet-i vataniye",
+          "üç aliler",
+          "seyyar yargı",
+          "idam"
+        ],
+        "zorluk": "zor",
+        "id": 239
+      },
+      "replacement": null,
+      "reason": "“istiklal mahkemesi kurmak” wraps the already represented concept “istiklal mahkemesi” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "cumhuriyettarihi.json",
+      "original_id": 240,
+      "before": {
+        "kategori": "cumhuriyettarihi",
+        "kelime": "sadabat paktı kurmak",
+        "aciklama": "1937de türkiye, iran, irak ve afganistanın doğu sınırlarını güvenceye alması",
+        "yasakli_kelimeler": [
+          "1937",
+          "tahran",
+          "iran irak afganistan",
+          "doğu sınırı",
+          "saldırmazlık"
+        ],
+        "zorluk": "zor",
+        "id": 240
+      },
+      "replacement": null,
+      "reason": "“sadabat paktı kurmak” wraps the already represented concept “sadabat paktı” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "cumhuriyettarihi.json",
+      "original_id": 243,
+      "before": {
+        "kategori": "cumhuriyettarihi",
+        "kelime": "varlık vergisi koymak",
+        "aciklama": "1942de savaş zenginlerinden ve tüccarlardan alınan ağır servet vergisi",
+        "yasakli_kelimeler": [
+          "1942",
+          "şükrü saraçoğlu",
+          "aşkale",
+          "servet vergisi",
+          "tüccar"
+        ],
+        "zorluk": "zor",
+        "id": 243
+      },
+      "replacement": null,
+      "reason": "“varlık vergisi koymak” wraps the already represented concept “varlık vergisi” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "dalgiclik.json",
+      "original_id": 224,
+      "before": {
+        "kategori": "dalgiclik",
+        "kelime": "gece dalışı yapmak",
+        "aciklama": "karanlıkta fener ışığıyla gündüz saklanan ahtapot ve yengeçleri izlemek",
+        "yasakli_kelimeler": [
+          "fener",
+          "karanlık",
+          "gece avcıları",
+          "fosfor",
+          "ahtapot"
+        ],
+        "zorluk": "orta",
+        "id": 224
+      },
+      "replacement": null,
+      "reason": "“gece dalışı yapmak” wraps the already represented concept “gece dalışı” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "dalgiclik.json",
+      "original_id": 230,
+      "before": {
+        "kategori": "dalgiclik",
+        "kelime": "akıntı dalışı yapmak",
+        "aciklama": "deniz akıntısına kendini bırakıp yüzmeden hızla sürüklenerek resif gezmek",
+        "yasakli_kelimeler": [
+          "drift dive",
+          "sürüklenme",
+          "akıntı",
+          "yüzmeden",
+          "tekne takip"
+        ],
+        "zorluk": "orta",
+        "id": 230
+      },
+      "replacement": null,
+      "reason": "“akıntı dalışı yapmak” wraps the already represented concept “akıntı dalışı” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "deri.json",
+      "original_id": 218,
+      "before": {
+        "kategori": "deri",
+        "kelime": "yarma deri üretmek",
+        "aciklama": "kalın sığır derisini yatay bıçakla ikiye bölüp süet ve cilt tabakası çıkarmak",
+        "yasakli_kelimeler": [
+          "split deri",
+          "yatay bıçak",
+          "ikiye yarma",
+          "süet altı",
+          "katman"
+        ],
+        "zorluk": "orta",
+        "id": 218
+      },
+      "replacement": null,
+      "reason": "“yarma deri üretmek” wraps the already represented concept “yarma deri” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "deri.json",
+      "original_id": 220,
+      "before": {
+        "kategori": "deri",
+        "kelime": "napa deri üretmek",
+        "aciklama": "kuzu ve buzağı derisini ekstra yumuşak ve pürüzsüz giysilik formda işlemek",
+        "yasakli_kelimeler": [
+          "kuzu derisi",
+          "ekstra yumuşak",
+          "montluk",
+          "pürüzsüz yüzey",
+          "premium"
+        ],
+        "zorluk": "orta",
+        "id": 220
+      },
+      "replacement": null,
+      "reason": "“napa deri üretmek” wraps the already represented concept “napa deri” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "deri.json",
+      "original_id": 231,
+      "before": {
+        "kategori": "deri",
+        "kelime": "deri gravür yapmak",
+        "aciklama": "deri üzerine dövme kalemi ve tokmakla el oyması çiçek motifleri işlemek",
+        "yasakli_kelimeler": [
+          "carving",
+          "dövme kalemi",
+          "el oyması",
+          "şerif kemeri",
+          "motif kabartma"
+        ],
+        "zorluk": "orta",
+        "id": 231
+      },
+      "replacement": null,
+      "reason": "“deri gravür yapmak” wraps the already represented concept “deri gravür” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "diplomasi.json",
+      "original_id": 231,
+      "before": {
+        "kategori": "diplomasi",
+        "kelime": "kamu diplomasisi yapmak",
+        "aciklama": "yabancı halkların sempatisini kazanmak için kültür merkezleri ve burslar dağıtmak",
+        "yasakli_kelimeler": [
+          "yunus emre enstitüsü",
+          "tika",
+          "kültür ataşeliği",
+          "yumuşak güç",
+          "halkla ilişkiler"
+        ],
+        "zorluk": "orta",
+        "id": 231
+      },
+      "replacement": null,
+      "reason": "“kamu diplomasisi yapmak” wraps the already represented concept “kamu diplomasisi” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "donanim.json",
+      "original_id": 210,
+      "before": {
+        "kategori": "donanim",
+        "kelime": "termal macun uygulamak",
+        "aciklama": "ekran kartı çıkışından çıkan hdmi veya displayport kablosunu ekrana takmak",
+        "yasakli_kelimeler": [
+          "hdmi",
+          "displayport",
+          "ekran",
+          "görüntü kablosu",
+          "çıkış"
+        ],
+        "zorluk": "kolay",
+        "id": 210
+      },
+      "replacement": null,
+      "reason": "“termal macun uygulamak” wraps the already represented concept “termal macun” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "edebiyat.json",
+      "original_id": 213,
+      "before": {
+        "kategori": "edebiyat",
+        "kelime": "redif bulmak",
+        "aciklama": "mısra sonlarında kafiyeden sonra gelen aynı anlamlı veya görevli ekleri saptamak",
+        "yasakli_kelimeler": [
+          "kafiye sonrası",
+          "aynı ek",
+          "aynı görev",
+          "dize sonu",
+          "ahenk"
+        ],
+        "zorluk": "orta",
+        "id": 213
+      },
+      "replacement": null,
+      "reason": "“redif bulmak” wraps the already represented concept “redif” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "edebiyat.json",
+      "original_id": 217,
+      "before": {
+        "kategori": "edebiyat",
+        "kelime": "iç monolog kurmak",
+        "aciklama": "karakterin aklından geçenleri kendi kendine konuşur gibi metne dökmek",
+        "yasakli_kelimeler": [
+          "kendi kendine konuşma",
+          "zihin akışı",
+          "iç ses",
+          "diyalogsuz",
+          "bilinç"
+        ],
+        "zorluk": "orta",
+        "id": 217
+      },
+      "replacement": null,
+      "reason": "“iç monolog kurmak” wraps the already represented concept “iç monolog” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "edebiyat.json",
+      "original_id": 224,
+      "before": {
+        "kategori": "edebiyat",
+        "kelime": "beyit kurmak",
+        "aciklama": "divan edebiyatında kendi içinde anlam bütünlüğü olan iki dizelik nazım birimi yazmak",
+        "yasakli_kelimeler": [
+          "iki dize",
+          "divan şiiri",
+          "gazel",
+          "matla",
+          "makta"
+        ],
+        "zorluk": "orta",
+        "id": 224
+      },
+      "replacement": null,
+      "reason": "“beyit kurmak” wraps the already represented concept “beyit” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "edebiyat.json",
+      "original_id": 234,
+      "before": {
+        "kategori": "edebiyat",
+        "kelime": "teşhis sanatı yapmak",
+        "aciklama": "insana ait konuşma ve duygu özelliklerini cansız varlıklara veya hayvanlara aktarmak",
+        "yasakli_kelimeler": [
+          "kişileştirme",
+          "cansız varlık",
+          "intak",
+          "edebi sanat",
+          "insan özelliği"
+        ],
+        "zorluk": "orta",
+        "id": 234
+      },
+      "replacement": null,
+      "reason": "“teşhis sanatı yapmak” wraps the already represented concept “teşhis sanatı” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "edebiyat.json",
+      "original_id": 242,
+      "before": {
+        "kategori": "edebiyat",
+        "kelime": "gözlemci bakış kullanmak",
+        "aciklama": "olayları kamera gibi sadece dışarıdan görünen kadarıyla aktarıp zihinleri okuyamamak",
+        "yasakli_kelimeler": [
+          "kamera bakış açısı",
+          "dış gözlem",
+          "zihin okuyamama",
+          "nesnel anlatıcı",
+          "nötr bakış"
+        ],
+        "zorluk": "zor",
+        "id": 242
+      },
+      "replacement": null,
+      "reason": "“gözlemci bakış kullanmak” wraps the already represented concept “gözlemci bakış” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "ekoloji.json",
+      "original_id": 242,
+      "before": {
+        "kategori": "ekoloji",
+        "kelime": "biyomagnifikasyon oluşturmak",
+        "aciklama": "zararlı kimyasalların besin zincirinin en tepesinde en yüksek derişime ulaşması.",
+        "yasakli_kelimeler": [
+          "zehir",
+          "konsantrasyon",
+          "avcı",
+          "toksik",
+          "piramit"
+        ],
+        "zorluk": "zor",
+        "id": 242
+      },
+      "replacement": null,
+      "reason": "“biyomagnifikasyon oluşturmak” wraps the already represented concept “biyomagnifikasyon” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "ekonometri.json",
+      "original_id": 221,
+      "before": {
+        "kategori": "ekonometri",
+        "kelime": "standart hata bulmak",
+        "aciklama": "farklı ölçekteki verileri ortak bir aralığa getirmek.",
+        "yasakli_kelimeler": [
+          "ölçek",
+          "standartlaştırma",
+          "aralık",
+          "sıfır",
+          "bir"
+        ],
+        "zorluk": "orta",
+        "id": 221
+      },
+      "replacement": null,
+      "reason": "“standart hata bulmak” wraps the already represented concept “standart hata” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "ekonometri.json",
+      "original_id": 226,
+      "before": {
+        "kategori": "ekonometri",
+        "kelime": "güven aralığı oluşturmak",
+        "aciklama": "parametrenin belirli bir olasılıkla içinde bulunacağı aralığı belirlemek.",
+        "yasakli_kelimeler": [
+          "yüzde",
+          "alt",
+          "üst",
+          "limit",
+          "anlamlılık"
+        ],
+        "zorluk": "orta",
+        "id": 226
+      },
+      "replacement": null,
+      "reason": "“güven aralığı oluşturmak” wraps the already represented concept “güven aralığı” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "ekonometri.json",
+      "original_id": 230,
+      "before": {
+        "kategori": "ekonometri",
+        "kelime": "otoregresif model kurmak",
+        "aciklama": "bir değişkendeki yüzdelik değişimin diğerine etkisini ölçmek.",
+        "yasakli_kelimeler": [
+          "fiyat",
+          "talep",
+          "yüzde",
+          "duyarlılık",
+          "değişim"
+        ],
+        "zorluk": "orta",
+        "id": 230
+      },
+      "replacement": null,
+      "reason": "“otoregresif model kurmak” wraps the already represented concept “otoregresif model” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "ekonometri.json",
+      "original_id": 244,
+      "before": {
+        "kategori": "ekonometri",
+        "kelime": "varyans ayrıştırması yapmak",
+        "aciklama": "tahmin hatası varyansında her bir şokun yüzde payını hesaplamak.",
+        "yasakli_kelimeler": [
+          "şok payı",
+          "tahmin hatası",
+          "var",
+          "yüzde",
+          "katkı"
+        ],
+        "zorluk": "zor",
+        "id": 244
+      },
+      "replacement": null,
+      "reason": "“varyans ayrıştırması yapmak” wraps the already represented concept “varyans ayrıştırması” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "ekonometri.json",
+      "original_id": 245,
+      "before": {
+        "kategori": "ekonometri",
+        "kelime": "araç değişken kullanmak",
+        "aciklama": "i̇çsel bağımsız değişken yerine dışsal bir değişkeni modele sokmak.",
+        "yasakli_kelimeler": [
+          "iv",
+          "enstrüman",
+          "endojen",
+          "dışsal",
+          "ilişki"
+        ],
+        "zorluk": "zor",
+        "id": 245
+      },
+      "replacement": null,
+      "reason": "“araç değişken kullanmak” wraps the already represented concept “araç değişken” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "epigrafi.json",
+      "original_id": 205,
+      "before": {
+        "kategori": "epigrafi",
+        "kelime": "kitabe incelemek",
+        "aciklama": "bir yapının girişindeki veya anıttaki yazıyı tetkik etmek.",
+        "yasakli_kelimeler": [
+          "yazıt",
+          "çeviri",
+          "tarih",
+          "bina",
+          "duvar"
+        ],
+        "zorluk": "kolay",
+        "id": 205
+      },
+      "replacement": null,
+      "reason": "“kitabe incelemek” wraps the already represented concept “kitabe” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "epigrafi.json",
+      "original_id": 239,
+      "before": {
+        "kategori": "epigrafi",
+        "kelime": "damnatio memoriae uygulamak",
+        "aciklama": "gözden düşen liderin adını yazıtlardan ve anıtlardan kazıyarak sildirmek.",
+        "yasakli_kelimeler": [
+          "hatırayı silme",
+          "kazıma",
+          "lanetleme",
+          "imparator adı",
+          "yok etme"
+        ],
+        "zorluk": "zor",
+        "id": 239
+      },
+      "replacement": null,
+      "reason": "“damnatio memoriae uygulamak” wraps the already represented concept “damnatio memoriae” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "epistemoloji.json",
+      "original_id": 239,
+      "before": {
+        "kategori": "epistemoloji",
+        "kelime": "epistemik gerekçelendirme yapmak",
+        "aciklama": "bir inancı doğru bilgi (episteme) seviyesine yükseltecek rasyonel kanıt sunmak.",
+        "yasakli_kelimeler": [
+          "haklılandırılmış",
+          "doğru inanç",
+          "kanıt",
+          "episteme",
+          "dayanak"
+        ],
+        "zorluk": "zor",
+        "id": 239
+      },
+      "replacement": null,
+      "reason": "“epistemik gerekçelendirme yapmak” wraps the already represented concept “epistemik gerekçelendirme” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "ergonomi.json",
+      "original_id": 239,
+      "before": {
+        "kategori": "ergonomi",
+        "kelime": "reba analizi yapmak",
+        "aciklama": "tüm vücut duruşunu baz alarak ergonomik risk düzeyini belirlemek.",
+        "yasakli_kelimeler": [
+          "tüm vücut",
+          "ergonomi puanı",
+          "postür",
+          "iş güvenliği",
+          "değerlendirme"
+        ],
+        "zorluk": "zor",
+        "id": 239
+      },
+      "replacement": null,
+      "reason": "“reba analizi yapmak” wraps the already represented concept “reba analizi” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "ergonomi.json",
+      "original_id": 246,
+      "before": {
+        "kategori": "ergonomi",
+        "kelime": "termal konfor hesaplamak",
+        "aciklama": "ortamın ısısal parametrelerinden yola çıkarak tahmini memnuniyetsizlik oranını bulmak.",
+        "yasakli_kelimeler": [
+          "pmv",
+          "ppd",
+          "nem",
+          "radyant sıcaklık",
+          "hava hızı"
+        ],
+        "zorluk": "zor",
+        "id": 246
+      },
+      "replacement": null,
+      "reason": "“termal konfor hesaplamak” wraps the already represented concept “termal konfor” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "etik.json",
+      "original_id": 241,
+      "before": {
+        "kategori": "etik",
+        "kelime": "kategorik buyruk çıkarmak",
+        "aciklama": "eylemin sonucuna bakılmaksızın sadece ödeve ve kurala uygunluğuna göre hareket etmek.",
+        "yasakli_kelimeler": [
+          "ödev etiği",
+          "sonuçtan bağımsız",
+          "kural",
+          "kant",
+          "görev"
+        ],
+        "zorluk": "zor",
+        "id": 241
+      },
+      "replacement": null,
+      "reason": "“kategorik buyruk çıkarmak” wraps the already represented concept “kategorik buyruk” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "etnografi.json",
+      "original_id": 244,
+      "before": {
+        "kategori": "etnografi",
+        "kelime": "katılımcı gözlem yürütmek",
+        "aciklama": "kültürü insanların dünyayı anlamlandırmak için ördükleri bir semboller ağı olarak yorumlamak.",
+        "yasakli_kelimeler": [
+          "geertz",
+          "turner",
+          "simge",
+          "kültürel kod",
+          "yorum"
+        ],
+        "zorluk": "zor",
+        "id": 244
+      },
+      "replacement": null,
+      "reason": "“katılımcı gözlem yürütmek” wraps the already represented concept “katılımcı gözlem” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "farmakoloji.json",
+      "original_id": 237,
+      "before": {
+        "kategori": "farmakoloji",
+        "kelime": "terapötik indeks bulmak",
+        "aciklama": "hücre zarındaki alıcıya bağlanıp doğal maddenin etkisini taklit ederek uyarı başlatmak.",
+        "yasakli_kelimeler": [
+          "aktive etmek",
+          "bağlanma bölgesi",
+          "hücresel yanıt",
+          "ligand",
+          "uyarı"
+        ],
+        "zorluk": "zor",
+        "id": 237
+      },
+      "replacement": null,
+      "reason": "“terapötik indeks bulmak” wraps the already represented concept “terapötik indeks” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "felsefe.json",
+      "original_id": 233,
+      "before": {
+        "kategori": "felsefe",
+        "kelime": "ahlak yasası koymak",
+        "aciklama": "i̇nsan davranışlarını yönetecek rasyonel ahlaki ilkeler formüle etmek.",
+        "yasakli_kelimeler": [
+          "kural",
+          "ödev",
+          "evrensel",
+          "davranış",
+          "norm"
+        ],
+        "zorluk": "orta",
+        "id": 233
+      },
+      "replacement": null,
+      "reason": "“ahlak yasası koymak” wraps the already represented concept “ahlak yasası” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "felsefe.json",
+      "original_id": 238,
+      "before": {
+        "kategori": "felsefe",
+        "kelime": "epokhe yapmak",
+        "aciklama": "dış dünya veya iddialar hakkında her türlü hüküm ve yargıyı askıya almak.",
+        "yasakli_kelimeler": [
+          "yargıyı askıya alma",
+          "pyrrhon",
+          "husserl",
+          "tarafsızlık",
+          "şüphe"
+        ],
+        "zorluk": "zor",
+        "id": 238
+      },
+      "replacement": null,
+      "reason": "“epokhe yapmak” wraps the already represented concept “epokhe” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "filateli.json",
+      "original_id": 214,
+      "before": {
+        "kategori": "filateli",
+        "kelime": "dantel ölçmek",
+        "aciklama": "pulun kenar dişlerinin sıklığını özel cetvelle ölçmek.",
+        "yasakli_kelimeler": [
+          "perforasyon",
+          "diş",
+          "odontometre",
+          "sayı",
+          "kenar"
+        ],
+        "zorluk": "orta",
+        "id": 214
+      },
+      "replacement": null,
+      "reason": "“dantel ölçmek” wraps the already represented concept “dantel” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "fotografcilik.json",
+      "original_id": 239,
+      "before": {
+        "kategori": "fotografcilik",
+        "kelime": "histogram okumak",
+        "aciklama": "işığın ton dağılımını gösteren grafikten pozlama hatalarını analiz etmek.",
+        "yasakli_kelimeler": [
+          "tonal dağılım",
+          "patlayan beyazlar",
+          "gölgeler",
+          "grafik",
+          "doğru pozlama"
+        ],
+        "zorluk": "zor",
+        "id": 239
+      },
+      "replacement": null,
+      "reason": "“histogram okumak” wraps the already represented concept “histogram” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "genetik.json",
+      "original_id": 239,
+      "before": {
+        "kategori": "genetik",
+        "kelime": "histon asetilasyonu yapmak",
+        "aciklama": "histon proteinlerine asetil grubu ekleyerek dna'nın transkripsiyona açılmasını sağlamak.",
+        "yasakli_kelimeler": [
+          "kromatini gevşetme",
+          "gen ifadesi artışı",
+          "epigenetik",
+          "hat enzimi",
+          "transkripsiyon"
+        ],
+        "zorluk": "zor",
+        "id": 239
+      },
+      "replacement": null,
+      "reason": "“histon asetilasyonu yapmak” wraps the already represented concept “histon asetilasyonu” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "genetik.json",
+      "original_id": 247,
+      "before": {
+        "kategori": "genetik",
+        "kelime": "gen susturma yapmak",
+        "aciklama": "dideoksi nükleotitlerle zinciri durdurarak klasik yöntemle dna dizisini okumak.",
+        "yasakli_kelimeler": [
+          "didesoksinükleotit",
+          "zincir sonlandırma",
+          "kapiler elektroforez",
+          "kromatogram",
+          "baz"
+        ],
+        "zorluk": "zor",
+        "id": 247
+      },
+      "replacement": null,
+      "reason": "“gen susturma yapmak” wraps the already represented concept “gen susturma” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "havacilik.json",
+      "original_id": 250,
+      "before": {
+        "kategori": "havacilik",
+        "kelime": "ağırlık merkezi hesaplamak",
+        "aciklama": "tekerlekler piste değer değmez motor hava akışını öne yönlendirerek uçağı frenlemek.",
+        "yasakli_kelimeler": [
+          "ters itki",
+          "motor freni",
+          "hava yönlendirme kapakları",
+          "teker koyma anı",
+          "gürültülü yavaşlama"
+        ],
+        "zorluk": "zor",
+        "id": 250
+      },
+      "replacement": null,
+      "reason": "“ağırlık merkezi hesaplamak” wraps the already represented concept “ağırlık merkezi” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "heykeltiraslik.json",
+      "original_id": 226,
+      "before": {
+        "kategori": "heykeltiraslik",
+        "kelime": "noktalama aleti kullanmak",
+        "aciklama": "küçük alçı modeldeki ölçüleri büyük mermer bloğa birebir aktarmak.",
+        "yasakli_kelimeler": [
+          "pantograf",
+          "üç nokta kuralı",
+          "ölçek büyütme",
+          "kopya",
+          "taş aktarma"
+        ],
+        "zorluk": "orta",
+        "id": 226
+      },
+      "replacement": null,
+      "reason": "“noktalama aleti kullanmak” wraps the already represented concept “noktalama aleti” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "heykeltiraslik.json",
+      "original_id": 231,
+      "before": {
+        "kategori": "heykeltiraslik",
+        "kelime": "yüzey dokusu vermek",
+        "aciklama": "malzemenin yüzeyine özel alet darbeleriyle estetik doku kazandırmak.",
+        "yasakli_kelimeler": [
+          "tekstür",
+          "pürüzlü",
+          "çizgili",
+          "mat",
+          "işleme"
+        ],
+        "zorluk": "orta",
+        "id": 231
+      },
+      "replacement": null,
+      "reason": "“yüzey dokusu vermek” wraps the already represented concept “yüzey dokusu” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "iktisat.json",
+      "original_id": 226,
+      "before": {
+        "kategori": "iktisat",
+        "kelime": "monopol olmak",
+        "aciklama": "bir piyasada rakipsiz tek üretici veya satıcı konumuna gelmek.",
+        "yasakli_kelimeler": [
+          "tekel",
+          "tek satıcı",
+          "rekabetsiz",
+          "fiyat belirleyici",
+          "piyasa hakimiyeti"
+        ],
+        "zorluk": "orta",
+        "id": 226
+      },
+      "replacement": null,
+      "reason": "“monopol olmak” wraps the already represented concept “monopol” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "immunoloji.json",
+      "original_id": 214,
+      "before": {
+        "kategori": "immunoloji",
+        "kelime": "fagositoz yapmak",
+        "aciklama": "savunma hücrelerinin mikropları içine alarak sindirip yok etmesi.",
+        "yasakli_kelimeler": [
+          "yutmak",
+          "makrofaj",
+          "mikrop sindirme",
+          "hücresel savunma",
+          "lizozom"
+        ],
+        "zorluk": "orta",
+        "id": 214
+      },
+      "replacement": null,
+      "reason": "“fagositoz yapmak” wraps the already represented concept “fagositoz” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "immunoloji.json",
+      "original_id": 218,
+      "before": {
+        "kategori": "immunoloji",
+        "kelime": "sitokin fırtınası yaşamak",
+        "aciklama": "bağışıklık sisteminin kontrolsüz biçimde aşırı sitokin salgılayarak vücuda zarar vermesi.",
+        "yasakli_kelimeler": [
+          "aşırı bağışıklık yanıtı",
+          "organ hasarı",
+          "covid",
+          "yangı",
+          "iltihap krizi"
+        ],
+        "zorluk": "orta",
+        "id": 218
+      },
+      "replacement": null,
+      "reason": "“sitokin fırtınası yaşamak” wraps the already represented concept “sitokin fırtınası” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "immunoloji.json",
+      "original_id": 220,
+      "before": {
+        "kategori": "immunoloji",
+        "kelime": "antikor titresi ölçmek",
+        "aciklama": "t lenfositlerinin timus bezinde antijen tanıma yeteneği kazanması.",
+        "yasakli_kelimeler": [
+          "timus bezi",
+          "lenfosit",
+          "eğitim",
+          "bağışıklık",
+          "hücresel yanıt"
+        ],
+        "zorluk": "orta",
+        "id": 220
+      },
+      "replacement": null,
+      "reason": "“antikor titresi ölçmek” wraps the already represented concept “antikor titresi” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "immunoloji.json",
+      "original_id": 226,
+      "before": {
+        "kategori": "immunoloji",
+        "kelime": "hafıza hücresi oluşturmak",
+        "aciklama": "mikrobun bilgisini saklayıp sonraki enfeksiyonda anında tepki verecek hücreler üretmek.",
+        "yasakli_kelimeler": [
+          "bellek lenfositi",
+          "ikinci karşılaşma",
+          "hızlı yanıt",
+          "yıllarca yaşama",
+          "bağışıklık"
+        ],
+        "zorluk": "orta",
+        "id": 226
+      },
+      "replacement": null,
+      "reason": "“hafıza hücresi oluşturmak” wraps the already represented concept “hafıza hücresi” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "immunoloji.json",
+      "original_id": 249,
+      "before": {
+        "kategori": "immunoloji",
+        "kelime": "somatik hipermutasyon yapmak",
+        "aciklama": "akyuvarların kan damarından dokuya geçip yoğunluk farkına göre iltihap odağına sızması.",
+        "yasakli_kelimeler": [
+          "lökosit ekstravazasyonu",
+          "endotelden geçiş",
+          "diapedez",
+          "selektin integrin",
+          "iltihap odağı"
+        ],
+        "zorluk": "zor",
+        "id": 249
+      },
+      "replacement": null,
+      "reason": "“somatik hipermutasyon yapmak” wraps the already represented concept “somatik hipermutasyon” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "jeomorfoloji.json",
+      "original_id": 209,
+      "before": {
+        "kategori": "jeomorfoloji",
+        "kelime": "kum tepesi görmek",
+        "aciklama": "rüzgarın yığdığı tepecikleri çöl arazisinde gözlemlemek.",
+        "yasakli_kelimeler": [
+          "kumul",
+          "kum",
+          "rüzgar",
+          "kurak",
+          "sıcak"
+        ],
+        "zorluk": "kolay",
+        "id": 209
+      },
+      "replacement": null,
+      "reason": "“kum tepesi görmek” wraps the already represented concept “kum tepesi” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "jeomorfoloji.json",
+      "original_id": 216,
+      "before": {
+        "kategori": "jeomorfoloji",
+        "kelime": "taraça oluşturmak",
+        "aciklama": "akarsuyun yeniden canlanarak eski vadi tabanını basamak şeklinde yukarda bırakması.",
+        "yasakli_kelimeler": [
+          "seki",
+          "basamak",
+          "akarsu yatağı",
+          "epirojenez",
+          "eski vadi tabanı"
+        ],
+        "zorluk": "orta",
+        "id": 216
+      },
+      "replacement": null,
+      "reason": "“taraça oluşturmak” wraps the already represented concept “taraça” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "jeomorfoloji.json",
+      "original_id": 222,
+      "before": {
+        "kategori": "jeomorfoloji",
+        "kelime": "tombolo bağlamak",
+        "aciklama": "kıyı okunun büyüyerek açıkta duran bir adayı ana karaya bağlaması.",
+        "yasakli_kelimeler": [
+          "saplı ada",
+          "kıyı oku",
+          "adaya bağlanma",
+          "dalga biriktirmesi",
+          "kıstak"
+        ],
+        "zorluk": "orta",
+        "id": 222
+      },
+      "replacement": null,
+      "reason": "“tombolo bağlamak” wraps the already represented concept “tombolo” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "jeomorfoloji.json",
+      "original_id": 224,
+      "before": {
+        "kategori": "jeomorfoloji",
+        "kelime": "dolin oluşturmak",
+        "aciklama": "kireçtaşlı platolarda erime sonucu tava şeklinde çukurlukların açılması.",
+        "yasakli_kelimeler": [
+          "karstik çöküntü",
+          "kapalı havza",
+          "kalker",
+          "obruk başlangıcı",
+          "erime çukuru"
+        ],
+        "zorluk": "orta",
+        "id": 224
+      },
+      "replacement": null,
+      "reason": "“dolin oluşturmak” wraps the already represented concept “dolin” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "jeomorfoloji.json",
+      "original_id": 229,
+      "before": {
+        "kategori": "jeomorfoloji",
+        "kelime": "tabanlı vadi incelemek",
+        "aciklama": "kalsiyumlu sıcak suların yüzeyde gazını kaybedip beyaz kalker basamakları örmesi.",
+        "yasakli_kelimeler": [
+          "pamukkale",
+          "kalsiyum karbonat",
+          "kaynak suyu",
+          "çökelme",
+          "beyaz teras"
+        ],
+        "zorluk": "orta",
+        "id": 229
+      },
+      "replacement": null,
+      "reason": "“tabanlı vadi incelemek” wraps the already represented concept “tabanlı vadi” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "kahve.json",
+      "original_id": 249,
+      "before": {
+        "kategori": "kahve",
+        "kelime": "ekstraksiyon oranı ölçmek",
+        "aciklama": "tadımdaki aromaları tanımlamak için uluslararası lezzet çarkı terminolojisinden yararlanmak.",
+        "yasakli_kelimeler": [
+          "scaa aroma tekerleği",
+          "tat notaları",
+          "çiçeksilik",
+          "narenciye",
+          "tat duyusu"
+        ],
+        "zorluk": "zor",
+        "id": 249
+      },
+      "replacement": null,
+      "reason": "“ekstraksiyon oranı ölçmek” wraps the already represented concept “ekstraksiyon oranı” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "kartografya.json",
+      "original_id": 208,
+      "before": {
+        "kategori": "kartografya",
+        "kelime": "küre döndürmek",
+        "aciklama": "masa üstündeki minyatür dünya modelini ekseni etrafında çevirmek.",
+        "yasakli_kelimeler": [
+          "dünya küresi",
+          "kıtalar",
+          "yuvarlak",
+          "çevirmek",
+          "ülkeler"
+        ],
+        "zorluk": "kolay",
+        "id": 208
+      },
+      "replacement": null,
+      "reason": "“küre döndürmek” wraps the already represented concept “küre” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "kartografya.json",
+      "original_id": 218,
+      "before": {
+        "kategori": "kartografya",
+        "kelime": "tematik harita üretmek",
+        "aciklama": "nüfus, tarım veya sıcaklık gibi belirli bir konuya odaklanan harita yapmak.",
+        "yasakli_kelimeler": [
+          "nüfus yoğunluğu",
+          "iklim",
+          "özel konu",
+          "koroplet",
+          "istatistik"
+        ],
+        "zorluk": "orta",
+        "id": 218
+      },
+      "replacement": null,
+      "reason": "“tematik harita üretmek” wraps the already represented concept “tematik harita” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "kartografya.json",
+      "original_id": 224,
+      "before": {
+        "kategori": "kartografya",
+        "kelime": "eğim haritası üretmek",
+        "aciklama": "arazinin her noktasındaki yamaç dikliğini renklendirilmiş haritaya dökmek.",
+        "yasakli_kelimeler": [
+          "yüzde derece",
+          "diklik",
+          "dem modeli",
+          "renk skalası",
+          "heyelan analizi"
+        ],
+        "zorluk": "orta",
+        "id": 224
+      },
+      "replacement": null,
+      "reason": "“eğim haritası üretmek” wraps the already represented concept “eğim haritası” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "kartografya.json",
+      "original_id": 245,
+      "before": {
+        "kategori": "kartografya",
+        "kelime": "görünürlük analizi yürütmek",
+        "aciklama": "arazideki belirli bir noktadan hangi alanların doğrudan görülebildiğini 3d modelden hesaplamak.",
+        "yasakli_kelimeler": [
+          "viewshed",
+          "görüş hattı",
+          "kule konumu",
+          "arazi engelleri",
+          "dem"
+        ],
+        "zorluk": "zor",
+        "id": 245
+      },
+      "replacement": null,
+      "reason": "“görünürlük analizi yürütmek” wraps the already represented concept “görünürlük analizi” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "kimya.json",
+      "original_id": 214,
+      "before": {
+        "kategori": "kimya",
+        "kelime": "çökelme oluşturmak",
+        "aciklama": "i̇ki çözelti karıştığında çözünmeyen katı maddenin dibe çökmesi.",
+        "yasakli_kelimeler": [
+          "presipitasyon",
+          "dipte birikme",
+          "katı tortu",
+          "çözünürlük çarpımı",
+          "bulanıklık"
+        ],
+        "zorluk": "orta",
+        "id": 214
+      },
+      "replacement": null,
+      "reason": "“çökelme oluşturmak” wraps the already represented concept “çökelme” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "kimya.json",
+      "original_id": 224,
+      "before": {
+        "kategori": "kimya",
+        "kelime": "tampon çözelti oluşturmak",
+        "aciklama": "asit veya baz eklendiğinde ph değişimine direnen çözelti hazırlamak.",
+        "yasakli_kelimeler": [
+          "ph sabit tutma",
+          "zayıf asit tuz",
+          "direnç",
+          "baz ekleme",
+          "denge"
+        ],
+        "zorluk": "orta",
+        "id": 224
+      },
+      "replacement": null,
+      "reason": "“tampon çözelti oluşturmak” wraps the already represented concept “tampon çözelti” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "kimya.json",
+      "original_id": 228,
+      "before": {
+        "kategori": "kimya",
+        "kelime": "redoks tepkimesi yürütmek",
+        "aciklama": "elektron aktarımıyla gerçekleşen oksidasyon-redüksiyon tepkimesini sağlamak.",
+        "yasakli_kelimeler": [
+          "yükseltgenme indirgenme",
+          "elektron alışverişi",
+          "anot katot",
+          "pil",
+          "yük"
+        ],
+        "zorluk": "orta",
+        "id": 228
+      },
+      "replacement": null,
+      "reason": "“redoks tepkimesi yürütmek” wraps the already represented concept “redoks tepkimesi” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "kimya.json",
+      "original_id": 232,
+      "before": {
+        "kategori": "kimya",
+        "kelime": "kimyasal bağ kurmak",
+        "aciklama": "atomların elektron ortaklaşması veya transferiyle kararlı yapıya geçmesi.",
+        "yasakli_kelimeler": [
+          "kovalent",
+          "iyonik",
+          "elektron paylaşımı",
+          "molekül",
+          "kararlılık"
+        ],
+        "zorluk": "orta",
+        "id": 232
+      },
+      "replacement": null,
+      "reason": "“kimyasal bağ kurmak” wraps the already represented concept “kimyasal bağ” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "kimya.json",
+      "original_id": 234,
+      "before": {
+        "kategori": "kimya",
+        "kelime": "erime noktası belirlemek",
+        "aciklama": "katı kimyasalın eridiği sıcaklığı ölçerek saflığını belirlemek.",
+        "yasakli_kelimeler": [
+          "kapiler tüp",
+          "saflık derecesi",
+          "katıdan sıvıya",
+          "sıcaklık",
+          "cihaz"
+        ],
+        "zorluk": "orta",
+        "id": 234
+      },
+      "replacement": null,
+      "reason": "“erime noktası belirlemek” wraps the already represented concept “erime noktası” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "kimya.json",
+      "original_id": 239,
+      "before": {
+        "kategori": "kimya",
+        "kelime": "kızılötesi spektroskopisi yapmak",
+        "aciklama": "moleküldeki fonksiyonel grupların bağ titreşim frekanslarını ir ışığıyla saptamak.",
+        "yasakli_kelimeler": [
+          "ft-ir",
+          "fonksiyonel gruplar",
+          "bağ titreşimleri",
+          "dalga sayısı",
+          "absorbans"
+        ],
+        "zorluk": "zor",
+        "id": 239
+      },
+      "replacement": null,
+      "reason": "“kızılötesi spektroskopisi yapmak” wraps the already represented concept “kızılötesi spektroskopisi” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "kriminoloji.json",
+      "original_id": 214,
+      "before": {
+        "kategori": "kriminoloji",
+        "kelime": "kan sıçraması incelemek",
+        "aciklama": "mermi çekirdeğindeki izleri inceleyerek hangi silahtan atıldığını tespit etmek.",
+        "yasakli_kelimeler": [
+          "kovan",
+          "mermi çekirdeği",
+          "namlu yiv set",
+          "tabanca",
+          "eşleştirme"
+        ],
+        "zorluk": "orta",
+        "id": 214
+      },
+      "replacement": null,
+      "reason": "“kan sıçraması incelemek” wraps the already represented concept “kan sıçraması” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "kriminoloji.json",
+      "original_id": 220,
+      "before": {
+        "kategori": "kriminoloji",
+        "kelime": "adli bilişim incelemek",
+        "aciklama": "bilgisayar ve telefondaki silinmiş dijital suç delillerini kurtarıp incelemek.",
+        "yasakli_kelimeler": [
+          "sabit disk",
+          "silinmiş veriler",
+          "dijital delil",
+          "telefon imajı",
+          "log kayıtları"
+        ],
+        "zorluk": "orta",
+        "id": 220
+      },
+      "replacement": null,
+      "reason": "“adli bilişim incelemek” wraps the already represented concept “adli bilişim” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "kuantum.json",
+      "original_id": 206,
+      "before": {
+        "kategori": "kuantum",
+        "kelime": "kuantum tünelleme yapmak",
+        "aciklama": "elektronları kaynaktan hedefe doğru yönlendirip ateşlemek.",
+        "yasakli_kelimeler": [
+          "katot",
+          "eksi yük",
+          "tabanca",
+          "hareket",
+          "yörünge"
+        ],
+        "zorluk": "kolay",
+        "id": 206
+      },
+      "replacement": null,
+      "reason": "“kuantum tünelleme yapmak” wraps the already represented concept “kuantum tünelleme” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "kuantum.json",
+      "original_id": 214,
+      "before": {
+        "kategori": "kuantum",
+        "kelime": "kuantum dolanıklığı kurmak",
+        "aciklama": "i̇ki parçacığın aralarındaki mesafeye bakılmaksızın birbirinin durumuna kilitlenmesi.",
+        "yasakli_kelimeler": [
+          "entanglement",
+          "mesafeden bağımsız",
+          "ikiz parçacıklar",
+          "spin eşleşmesi",
+          "anlık iletişim"
+        ],
+        "zorluk": "orta",
+        "id": 214
+      },
+      "replacement": null,
+      "reason": "“kuantum dolanıklığı kurmak” wraps the already represented concept “kuantum dolanıklığı” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "kuantum.json",
+      "original_id": 222,
+      "before": {
+        "kategori": "kuantum",
+        "kelime": "kuantum dolanıklığı incelemek",
+        "aciklama": "bir parçacığın konumu ve hızının aynı anda kusursuz bilinemeyeceğini hesaba katmak.",
+        "yasakli_kelimeler": [
+          "heisenberg",
+          "konum ve momentum",
+          "aynı anda ölçülememe",
+          "hassasiyet sınırı",
+          "fizik"
+        ],
+        "zorluk": "orta",
+        "id": 222
+      },
+      "replacement": null,
+      "reason": "“kuantum dolanıklığı incelemek” wraps the already represented concept “kuantum dolanıklığı” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "kuantum.json",
+      "original_id": 223,
+      "before": {
+        "kategori": "kuantum",
+        "kelime": "kuantum sıçraması yapmak",
+        "aciklama": "elektronun bir enerji seviyesinden diğerine aradaki mesafeyi katetmeden anında atlaması.",
+        "yasakli_kelimeler": [
+          "enerji seviyesi",
+          "aralıksız geçiş",
+          "foton salımı",
+          "yörünge atlama",
+          "anlık"
+        ],
+        "zorluk": "orta",
+        "id": 223
+      },
+      "replacement": null,
+      "reason": "“kuantum sıçraması yapmak” wraps the already represented concept “kuantum sıçraması” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "kuantum.json",
+      "original_id": 239,
+      "before": {
+        "kategori": "kuantum",
+        "kelime": "kuantum elektrodinamiği hesaplamak",
+        "aciklama": "işık ile maddenin rölativistik kuantum alan seviyesindeki etkileşimlerini hesaplamak.",
+        "yasakli_kelimeler": [
+          "qed",
+          "feynman diyagramları",
+          "foton elektron etkileşimi",
+          "renormalizasyon",
+          "alan teorisi"
+        ],
+        "zorluk": "zor",
+        "id": 239
+      },
+      "replacement": null,
+      "reason": "“kuantum elektrodinamiği hesaplamak” wraps the already represented concept “kuantum elektrodinamiği” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "kuantum.json",
+      "original_id": 247,
+      "before": {
+        "kategori": "kuantum",
+        "kelime": "kuantum ışınlama yapmak",
+        "aciklama": "büyük asal sayıların çarpımını kuantum fourier dönüşümüyle logaritmik hızda çarpanlarına ayırmak.",
+        "yasakli_kelimeler": [
+          "periyot bulma",
+          "kuantum fourier dönüşümü",
+          "rsa kırma",
+          "polinomiyal zaman",
+          "kübit"
+        ],
+        "zorluk": "zor",
+        "id": 247
+      },
+      "replacement": null,
+      "reason": "“kuantum ışınlama yapmak” wraps the already represented concept “kuantum ışınlama” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "kutugoyunlari.json",
+      "original_id": 238,
+      "before": {
+        "kategori": "kutugoyunlari",
+        "kelime": "işçi yerleştirme yapmak",
+        "aciklama": "geri dönüşü olmayan legacy oyununda talimat gereği kartı yırtıp panoya kalıcı etiket yapıştırmak.",
+        "yasakli_kelimeler": [
+          "kalıcı hasar",
+          "kart imhası",
+          "kutuya etiket yapıştırma",
+          "tek seferlik deneyim",
+          "pandemi legacy"
+        ],
+        "zorluk": "zor",
+        "id": 238
+      },
+      "replacement": null,
+      "reason": "“işçi yerleştirme yapmak” wraps the already represented concept “işçi yerleştirme” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "linguistik.json",
+      "original_id": 218,
+      "before": {
+        "kategori": "linguistik",
+        "kelime": "ses düşmesi yaşamak",
+        "aciklama": "kelime ek aldığında içindeki bir ünlünün veya ünsüzün kaybolması.",
+        "yasakli_kelimeler": [
+          "hece düşmesi",
+          "ünlü kaybı",
+          "burun burnu",
+          "fonetik",
+          "kısalma"
+        ],
+        "zorluk": "orta",
+        "id": 218
+      },
+      "replacement": null,
+      "reason": "“ses düşmesi yaşamak” wraps the already represented concept “ses düşmesi” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "linguistik.json",
+      "original_id": 233,
+      "before": {
+        "kategori": "linguistik",
+        "kelime": "ünsüz benzeşmesi uygulamak",
+        "aciklama": "sert ünsüzle biten kelimenin sonuna gelen ekin ünsüzünü sertleştirmek.",
+        "yasakli_kelimeler": [
+          "sertleşme",
+          "fıstıkçı şahap",
+          "d-t c-ç değişimi",
+          "ses kuralı",
+          "fonetik"
+        ],
+        "zorluk": "orta",
+        "id": 233
+      },
+      "replacement": null,
+      "reason": "“ünsüz benzeşmesi uygulamak” wraps the already represented concept “ünsüz benzeşmesi” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "linguistik.json",
+      "original_id": 234,
+      "before": {
+        "kategori": "linguistik",
+        "kelime": "bükümlü dil incelemek",
+        "aciklama": "kelime çekimlenirken kökün iç seslerinin kırılarak değiştiği gramer yapısını işletmek.",
+        "yasakli_kelimeler": [
+          "fleksiyonel",
+          "kökün kırılması",
+          "arapça almanca",
+          "çekimleme",
+          "iç büküm"
+        ],
+        "zorluk": "orta",
+        "id": 234
+      },
+      "replacement": null,
+      "reason": "“bükümlü dil incelemek” wraps the already represented concept “bükümlü dil” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "lojistik.json",
+      "original_id": 242,
+      "before": {
+        "kategori": "lojistik",
+        "kelime": "tedarik zinciri modellemek",
+        "aciklama": "depodaki malları mali değerlerine ve sirkülasyonlarına göre a, b ve c gruplarına ayırmak.",
+        "yasakli_kelimeler": [
+          "pareto 80-20 kuralı",
+          "stok değer sınıfı",
+          "yüksek kıymetli mallar",
+          "envanter yönetimi",
+          "kategori"
+        ],
+        "zorluk": "zor",
+        "id": 242
+      },
+      "replacement": null,
+      "reason": "“tedarik zinciri modellemek” wraps the already represented concept “tedarik zinciri” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "mantik.json",
+      "original_id": 230,
+      "before": {
+        "kategori": "mantik",
+        "kelime": "aksiyomatik sistem kurmak",
+        "aciklama": "kanıtsız doğru kabul edilen temel aksiyomlardan tüm teoriyi türetmek.",
+        "yasakli_kelimeler": [
+          "temel kabuller",
+          "teorem türetme",
+          "tutarlı yapı",
+          "öklid",
+          "mantıksal temel"
+        ],
+        "zorluk": "orta",
+        "id": 230
+      },
+      "replacement": null,
+      "reason": "“aksiyomatik sistem kurmak” wraps the already represented concept “aksiyomatik sistem” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "mantik.json",
+      "original_id": 240,
+      "before": {
+        "kategori": "mantik",
+        "kelime": "bulanık mantık kurmak",
+        "aciklama": "sadece 0 ve 1 yerine kısmi doğruluk derecelerine dayalı esnek mantık sistemi kurmak.",
+        "yasakli_kelimeler": [
+          "fuzzy logic",
+          "lütfi zadeh",
+          "0 ile 1 arası üyelik derecesi",
+          "keskin olmayan mantık",
+          "yapay zeka"
+        ],
+        "zorluk": "zor",
+        "id": 240
+      },
+      "replacement": null,
+      "reason": "“bulanık mantık kurmak” wraps the already represented concept “bulanık mantık” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "mantik.json",
+      "original_id": 244,
+      "before": {
+        "kategori": "mantik",
+        "kelime": "doğruluk tanımı yapmak",
+        "aciklama": "doğruluğu dilin kendi içinde değil onu açıklayan bir üst-dilde tanımlamak.",
+        "yasakli_kelimeler": [
+          "karşılık kuramı",
+          "üst-dil nesne-dil",
+          "t cümlesi",
+          "semantik doğruluk",
+          "model teorisi"
+        ],
+        "zorluk": "zor",
+        "id": 244
+      },
+      "replacement": null,
+      "reason": "“doğruluk tanımı yapmak” wraps the already represented concept “doğruluk tanımı” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "matbaacilik.json",
+      "original_id": 204,
+      "before": {
+        "kategori": "matbaacilik",
+        "kelime": "mürekkep merdanesi sürmek",
+        "aciklama": "kitabın sayfalarını birden başlayarak sırayla numaralandırmak.",
+        "yasakli_kelimeler": [
+          "mizanpaj",
+          "numaralandırma",
+          "alt bilgi",
+          "sıralama",
+          "dizgi"
+        ],
+        "zorluk": "kolay",
+        "id": 204
+      },
+      "replacement": null,
+      "reason": "“mürekkep merdanesi sürmek” wraps the already represented concept “mürekkep merdanesi” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "mekatronik.json",
+      "original_id": 237,
+      "before": {
+        "kategori": "mekatronik",
+        "kelime": "sensör füzyonu yapmak",
+        "aciklama": "i̇vmeölçer ve jiroskop verilerini kalman filtresiyle birleştirip hatasız açı ve konum üretmek.",
+        "yasakli_kelimeler": [
+          "ivmeölçer jiroskop birleştirme",
+          "durum tahmini",
+          "gürültü ayıklama",
+          "imu",
+          "oryantasyon"
+        ],
+        "zorluk": "zor",
+        "id": 237
+      },
+      "replacement": null,
+      "reason": "“sensör füzyonu yapmak” wraps the already represented concept “sensör füzyonu” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "mekatronik.json",
+      "original_id": 244,
+      "before": {
+        "kategori": "mekatronik",
+        "kelime": "kararlılık analizi yapmak",
+        "aciklama": "lineer olmayan dinamik sistemlerin kararlılığını skaler enerji fonksiyonu türeviyle ispatlamak.",
+        "yasakli_kelimeler": [
+          "doğrusal olmayan sistem",
+          "v fonksiyonu",
+          "enerji sönümlenmesi",
+          "asimptotik kararlılık",
+          "kontrol teorisi"
+        ],
+        "zorluk": "zor",
+        "id": 244
+      },
+      "replacement": null,
+      "reason": "“kararlılık analizi yapmak” wraps the already represented concept “kararlılık analizi” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "mekatronik.json",
+      "original_id": 246,
+      "before": {
+        "kategori": "mekatronik",
+        "kelime": "ters kinematik hesaplamak",
+        "aciklama": "hayvanların kas ve sinir reflekslerini taklit ederek engebeli arazide devrilmeyen yürüme sağlamak.",
+        "yasakli_kelimeler": [
+          "dört bacaklı robot",
+          "boston dynamics",
+          "cpg merkezi örüntü",
+          "dinamik denge",
+          "adım planlama"
+        ],
+        "zorluk": "zor",
+        "id": 246
+      },
+      "replacement": null,
+      "reason": "Incomplete or underqualified target, target/explanation mismatch, or duplicate concept already represented in this category; rejected after inspecting the full card."
+    },
+    {
+      "file": "mevsimler.json",
+      "original_id": 232,
+      "before": {
+        "kategori": "mevsimler",
+        "kelime": "pastırma yazı yaşamak",
+        "aciklama": "kasım ayında birkaç gün süren beklenmedik sıcak hava dönemi",
+        "yasakli_kelimeler": [
+          "kasım",
+          "sonbahar",
+          "sıcak",
+          "güneş",
+          "kısa"
+        ],
+        "zorluk": "orta",
+        "id": 232
+      },
+      "replacement": null,
+      "reason": "“pastırma yazı yaşamak” wraps the already represented concept “pastırma yazı” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "mikrobiyoloji.json",
+      "original_id": 213,
+      "before": {
+        "kategori": "mikrobiyoloji",
+        "kelime": "koloni oluşturmak",
+        "aciklama": "agar yüzeyinde tek bir hücreden gözle görülür bakteri topluluğu oluşması",
+        "yasakli_kelimeler": [
+          "agar",
+          "petri",
+          "topluluk",
+          "üreme",
+          "popülasyon"
+        ],
+        "zorluk": "orta",
+        "id": 213
+      },
+      "replacement": null,
+      "reason": "“koloni oluşturmak” wraps the already represented concept “koloni” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "mikrobiyoloji.json",
+      "original_id": 220,
+      "before": {
+        "kategori": "mikrobiyoloji",
+        "kelime": "biyofilm oluşturmak",
+        "aciklama": "bakterilerin yüzeylere yapışarak sümüksü koruyucu tabaka kurması",
+        "yasakli_kelimeler": [
+          "kateter",
+          "tabaka",
+          "yapışma",
+          "koruma",
+          "matriks"
+        ],
+        "zorluk": "orta",
+        "id": 220
+      },
+      "replacement": null,
+      "reason": "“biyofilm oluşturmak” wraps the already represented concept “biyofilm” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "mikrobiyoloji.json",
+      "original_id": 239,
+      "before": {
+        "kategori": "mikrobiyoloji",
+        "kelime": "transdüksiyon olmak",
+        "aciklama": "bakteriyofaj virüsü aracılığıyla bir bakteriden diğerine gen taşınması",
+        "yasakli_kelimeler": [
+          "bakteriyofaj",
+          "faj",
+          "virüs",
+          "aracı",
+          "gen transferi"
+        ],
+        "zorluk": "zor",
+        "id": 239
+      },
+      "replacement": null,
+      "reason": "“transdüksiyon olmak” wraps the already represented concept “transdüksiyon” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "mimarlik.json",
+      "original_id": 249,
+      "before": {
+        "kategori": "mimarlik",
+        "kelime": "modülör kullanmak",
+        "aciklama": "insan bedeni oranları ve altın orana dayalı mimari ölçek sistemini uygulamak",
+        "yasakli_kelimeler": [
+          "altın oran",
+          "insan ölçeği",
+          "oransal",
+          "antropometri",
+          "le corbusier"
+        ],
+        "zorluk": "zor",
+        "id": 249
+      },
+      "replacement": null,
+      "reason": "“modülör kullanmak” wraps the already represented concept “modülör” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "moda.json",
+      "original_id": 241,
+      "before": {
+        "kategori": "moda",
+        "kelime": "sürdürülebilir moda yapmak",
+        "aciklama": "organik kumaşlar ve geri dönüştürülmüş malzemelerle çevre dostu üretmek",
+        "yasakli_kelimeler": [
+          "ekolojik",
+          "organik",
+          "geri dönüşüm",
+          "çevre",
+          "atık"
+        ],
+        "zorluk": "zor",
+        "id": 241
+      },
+      "replacement": null,
+      "reason": "“sürdürülebilir moda yapmak” wraps the already represented concept “sürdürülebilir moda” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "monarsi.json",
+      "original_id": 236,
+      "before": {
+        "kategori": "monarsi",
+        "kelime": "kapıkulu oluşturmak",
+        "aciklama": "devşirme çocukları yetiştirip doğrudan saraya bağlı ordu kurmak",
+        "yasakli_kelimeler": [
+          "devşirme",
+          "yeniçeri",
+          "ordu",
+          "doğrudan",
+          "saray"
+        ],
+        "zorluk": "orta",
+        "id": 236
+      },
+      "replacement": null,
+      "reason": "“kapıkulu oluşturmak” wraps the already represented concept “kapıkulu” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "monarsi.json",
+      "original_id": 238,
+      "before": {
+        "kategori": "monarsi",
+        "kelime": "primogenitür uygulamak",
+        "aciklama": "tahtın ve mirasın doğrudan en büyük erkek çocuğa geçmesi kuralı",
+        "yasakli_kelimeler": [
+          "en büyük oğul",
+          "veraset",
+          "miras",
+          "kural",
+          "hukuk"
+        ],
+        "zorluk": "zor",
+        "id": 238
+      },
+      "replacement": null,
+      "reason": "“primogenitür uygulamak” wraps the already represented concept “primogenitür” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "monarsi.json",
+      "original_id": 244,
+      "before": {
+        "kategori": "monarsi",
+        "kelime": "interregnum yaşamak",
+        "aciklama": "iki hükümdar arasında tahtın boş kaldığı ve iç savaşların sürdüğü fetret devri",
+        "yasakli_kelimeler": [
+          "fetret",
+          "boşluk",
+          "iç savaş",
+          "taht",
+          "dönem"
+        ],
+        "zorluk": "zor",
+        "id": 244
+      },
+      "replacement": null,
+      "reason": "“interregnum yaşamak” wraps the already represented concept “interregnum” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "motor_sporlari.json",
+      "original_id": 237,
+      "before": {
+        "kategori": "motor_sporlari",
+        "kelime": "telemetri verisi incelemek",
+        "aciklama": "kanatlar ve difüzörle aracı yere bastıran aerodinamik kuvvet sağlamak",
+        "yasakli_kelimeler": [
+          "yere basma",
+          "difüzör",
+          "aerodinami",
+          "kanat",
+          "vakum"
+        ],
+        "zorluk": "zor",
+        "id": 237
+      },
+      "replacement": null,
+      "reason": "“telemetri verisi incelemek” wraps the already represented concept “telemetri verisi” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "muzikoloji.json",
+      "original_id": 219,
+      "before": {
+        "kategori": "muzikoloji",
+        "kelime": "organoloji çalışmak",
+        "aciklama": "müzik aletlerinin tarihsel gelişimini ve yapısını araştırmak",
+        "yasakli_kelimeler": [
+          "çalgı bilimi",
+          "enstrüman",
+          "yapı",
+          "akustik",
+          "tarih"
+        ],
+        "zorluk": "orta",
+        "id": 219
+      },
+      "replacement": null,
+      "reason": "“organoloji çalışmak” wraps the already represented concept “organoloji” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "muzikoloji.json",
+      "original_id": 231,
+      "before": {
+        "kategori": "muzikoloji",
+        "kelime": "kadans yapmak",
+        "aciklama": "müzik cümlesinin sonundaki bitiş akor dizilimini bağlamak",
+        "yasakli_kelimeler": [
+          "bitiş",
+          "cümle sonu",
+          "çözülme",
+          "akor dizilimi",
+          "tam kadans"
+        ],
+        "zorluk": "orta",
+        "id": 231
+      },
+      "replacement": null,
+      "reason": "“kadans yapmak” wraps the already represented concept “kadans” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "nanoteknoloji.json",
+      "original_id": 222,
+      "before": {
+        "kategori": "nanoteknoloji",
+        "kelime": "elektro-eğirme yapmak",
+        "aciklama": "yüksek voltajlı elektrik alanında polimer çözeltisinden nano lif çekmek",
+        "yasakli_kelimeler": [
+          "elektrospinning",
+          "lif",
+          "voltaj",
+          "polimer",
+          "iplik"
+        ],
+        "zorluk": "orta",
+        "id": 222
+      },
+      "replacement": null,
+      "reason": "“elektro-eğirme yapmak” wraps the already represented concept “elektro-eğirme” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "nanoteknoloji.json",
+      "original_id": 232,
+      "before": {
+        "kategori": "nanoteknoloji",
+        "kelime": "fotokataliz yapmak",
+        "aciklama": "titanyum dioksit nano kaplamanın güneş ışığıyla havadaki kirleticileri parçalaması",
+        "yasakli_kelimeler": [
+          "tio2",
+          "titanyum",
+          "ışık",
+          "parçalama",
+          "kendi kendini temizleyen"
+        ],
+        "zorluk": "orta",
+        "id": 232
+      },
+      "replacement": null,
+      "reason": "“fotokataliz yapmak” wraps the already represented concept “fotokataliz” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "nanoteknoloji.json",
+      "original_id": 234,
+      "before": {
+        "kategori": "nanoteknoloji",
+        "kelime": "kontrollü salım yapmak",
+        "aciklama": "nano kapsülün ilacı ph veya sıcaklık değişimiyle zamana yayarak bırakması",
+        "yasakli_kelimeler": [
+          "salım",
+          "ph duyarlı",
+          "zaman",
+          "bırakma",
+          "kapsül"
+        ],
+        "zorluk": "orta",
+        "id": 234
+      },
+      "replacement": null,
+      "reason": "“kontrollü salım yapmak” wraps the already represented concept “kontrollü salım” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "nanoteknoloji.json",
+      "original_id": 236,
+      "before": {
+        "kategori": "nanoteknoloji",
+        "kelime": "nano jeneratör kurmak",
+        "aciklama": "piezoelektrik çinko oksit nano tellerle vücut hareketinden elektrik üretmek",
+        "yasakli_kelimeler": [
+          "piezoelektrik",
+          "hareket",
+          "elektrik",
+          "çinko oksit",
+          "enerji hasadı"
+        ],
+        "zorluk": "orta",
+        "id": 236
+      },
+      "replacement": null,
+      "reason": "“nano jeneratör kurmak” wraps the already represented concept “nano jeneratör” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "nanoteknoloji.json",
+      "original_id": 242,
+      "before": {
+        "kategori": "nanoteknoloji",
+        "kelime": "kuantum tünelleme ölçmek",
+        "aciklama": "taramalı tünelleme mikroskobunda iğne ile yüzey arası akan tünelleme akımını izlemek",
+        "yasakli_kelimeler": [
+          "stm",
+          "tünelleme akımı",
+          "iğne ucu",
+          "dalga",
+          "atomik çözünürlük"
+        ],
+        "zorluk": "zor",
+        "id": 242
+      },
+      "replacement": null,
+      "reason": "“kuantum tünelleme ölçmek” wraps the already represented concept “kuantum tünelleme” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "nanoteknoloji.json",
+      "original_id": 244,
+      "before": {
+        "kategori": "nanoteknoloji",
+        "kelime": "zeta potansiyeli ölçmek",
+        "aciklama": "nano süspansiyondaki partiküllerin kayma düzlemi elektrostatik yükünü saptamak",
+        "yasakli_kelimeler": [
+          "kayma düzlemi",
+          "elektrostatik",
+          "stabilite",
+          "kolloid",
+          "yük"
+        ],
+        "zorluk": "zor",
+        "id": 244
+      },
+      "replacement": null,
+      "reason": "“zeta potansiyeli ölçmek” wraps the already represented concept “zeta potansiyeli” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "numizmatik.json",
+      "original_id": 225,
+      "before": {
+        "kategori": "numizmatik",
+        "kelime": "kenar yazısı incelemek",
+        "aciklama": "madeni paranın tırtıklı veya yazılı yan yüzeyini kontrol etmek",
+        "yasakli_kelimeler": [
+          "tırtık",
+          "yan yüzey",
+          "yazı",
+          "bordür",
+          "kenar"
+        ],
+        "zorluk": "orta",
+        "id": 225
+      },
+      "replacement": null,
+      "reason": "“kenar yazısı incelemek” wraps the already represented concept “kenar yazısı” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "numizmatik.json",
+      "original_id": 226,
+      "before": {
+        "kategori": "numizmatik",
+        "kelime": "emisyon çıkarmak",
+        "aciklama": "merkez bankasının yeni tertip kağıt paraları piyasaya sürmesi",
+        "yasakli_kelimeler": [
+          "tertip",
+          "merkez bankası",
+          "kağıt para",
+          "tedavül",
+          "piyasa"
+        ],
+        "zorluk": "orta",
+        "id": 226
+      },
+      "replacement": null,
+      "reason": "“emisyon çıkarmak” wraps the already represented concept “emisyon” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "okulhayati.json",
+      "original_id": 230,
+      "before": {
+        "kategori": "okulhayati",
+        "kelime": "veli toplantısı olmak",
+        "aciklama": "hafta sonu anne babaların okula gelip öğretmenle görüşmesi",
+        "yasakli_kelimeler": [
+          "anne baba",
+          "öğretmen",
+          "görüşme",
+          "not durumu",
+          "hafta sonu"
+        ],
+        "zorluk": "orta",
+        "id": 230
+      },
+      "replacement": null,
+      "reason": "“veli toplantısı olmak” wraps the already represented concept “veli toplantısı” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "optik.json",
+      "original_id": 215,
+      "before": {
+        "kategori": "optik",
+        "kelime": "kırınım oluşturmak",
+        "aciklama": "ışık dalgasının dar bir yarıktan geçerken bükülüp dairesel yayılması",
+        "yasakli_kelimeler": [
+          "yarık",
+          "bükülme",
+          "difraksiyon",
+          "dalga",
+          "engel"
+        ],
+        "zorluk": "orta",
+        "id": 215
+      },
+      "replacement": null,
+      "reason": "“kırınım oluşturmak” wraps the already represented concept “kırınım” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "optik.json",
+      "original_id": 218,
+      "before": {
+        "kategori": "optik",
+        "kelime": "diyoptri hesaplamak",
+        "aciklama": "merceğin odak uzaklığının tersini alarak kırma gücünü bulmak",
+        "yasakli_kelimeler": [
+          "odak uzaklığı",
+          "kırma gücü",
+          "numara",
+          "metre",
+          "mercek"
+        ],
+        "zorluk": "orta",
+        "id": 218
+      },
+      "replacement": null,
+      "reason": "“diyoptri hesaplamak” wraps the already represented concept “diyoptri” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "optik.json",
+      "original_id": 222,
+      "before": {
+        "kategori": "optik",
+        "kelime": "dispersiyon yaşamak",
+        "aciklama": "farklı frekanstaki renklerin cam içinde farklı hızlarla kırılarak dağılması",
+        "yasakli_kelimeler": [
+          "dağılma",
+          "frekans",
+          "hız farkı",
+          "prizma",
+          "kırılma indisi"
+        ],
+        "zorluk": "orta",
+        "id": 222
+      },
+      "replacement": null,
+      "reason": "“dispersiyon yaşamak” wraps the already represented concept “dispersiyon” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "optik.json",
+      "original_id": 226,
+      "before": {
+        "kategori": "optik",
+        "kelime": "sanal görüntü oluşturmak",
+        "aciklama": "ışınların uzantılarının kesişmesiyle düz aynanın arkasında görüntü doğması",
+        "yasakli_kelimeler": [
+          "düz ayna",
+          "uzantı",
+          "zahiri",
+          "ayna arkası",
+          "kesişim"
+        ],
+        "zorluk": "orta",
+        "id": 226
+      },
+      "replacement": null,
+      "reason": "“sanal görüntü oluşturmak” wraps the already represented concept “sanal görüntü” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "optik.json",
+      "original_id": 236,
+      "before": {
+        "kategori": "optik",
+        "kelime": "lümen ölçmek",
+        "aciklama": "fotometre cihazıyla bir ampulün yaydığı toplam görünür ışık akısını hesaplamak",
+        "yasakli_kelimeler": [
+          "ışık akısı",
+          "lüks",
+          "fotometre",
+          "ampul",
+          "kandela"
+        ],
+        "zorluk": "orta",
+        "id": 236
+      },
+      "replacement": null,
+      "reason": "“lümen ölçmek” wraps the already represented concept “lümen” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "optik.json",
+      "original_id": 237,
+      "before": {
+        "kategori": "optik",
+        "kelime": "fresnel kırınımı incelemek",
+        "aciklama": "kırılma indisleri ve gelme açılarının sinüsleri arasındaki bağıntıyı çözmek",
+        "yasakli_kelimeler": [
+          "sinüs",
+          "kırılma indisi",
+          "n1 n2",
+          "gelme açısı",
+          "formül"
+        ],
+        "zorluk": "zor",
+        "id": 237
+      },
+      "replacement": null,
+      "reason": "“fresnel kırınımı incelemek” wraps the already represented concept “fresnel kırınımı” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "optik.json",
+      "original_id": 242,
+      "before": {
+        "kategori": "optik",
+        "kelime": "sayısal açıklık hesaplamak",
+        "aciklama": "mikroskop objektifinin ortam kırma indisi ve ışık toplama yarı açısının sinüsünü çarpmak",
+        "yasakli_kelimeler": [
+          "numerical aperture",
+          "na",
+          "çözünürlük",
+          "sinüs alfa",
+          "objektif"
+        ],
+        "zorluk": "zor",
+        "id": 242
+      },
+      "replacement": null,
+      "reason": "“sayısal açıklık hesaplamak” wraps the already represented concept “sayısal açıklık” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "orman.json",
+      "original_id": 237,
+      "before": {
+        "kategori": "orman",
+        "kelime": "silvikültür uygulamak",
+        "aciklama": "ormanların planlı yetiştirilmesi, bakımı, gençleştirilmesi ve korunması bilimi",
+        "yasakli_kelimeler": [
+          "orman yetiştirme",
+          "bakım",
+          "gençleştirme",
+          "orman amenajmanı",
+          "bilim"
+        ],
+        "zorluk": "zor",
+        "id": 237
+      },
+      "replacement": null,
+      "reason": "“silvikültür uygulamak” wraps the already represented concept “silvikültür” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "osinografi.json",
+      "original_id": 216,
+      "before": {
+        "kategori": "osinografi",
+        "kelime": "tuzluluk ölçmek",
+        "aciklama": "iletkenlik ölçer cihazla binde bir birim cinsinden tuz oranını saptamak",
+        "yasakli_kelimeler": [
+          "salinite",
+          "binde",
+          "iletkenlik",
+          "tuz",
+          "ctd"
+        ],
+        "zorluk": "orta",
+        "id": 216
+      },
+      "replacement": null,
+      "reason": "“tuzluluk ölçmek” wraps the already represented concept “tuzluluk” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "osinografi.json",
+      "original_id": 228,
+      "before": {
+        "kategori": "osinografi",
+        "kelime": "tuz kaması oluşturmak",
+        "aciklama": "nehir ağzında yoğun tuzlu deniz suyunun tatlı suyun altına kama gibi girmesi",
+        "yasakli_kelimeler": [
+          "estuar",
+          "tatlı su",
+          "nehir ağzı",
+          "yoğunluk",
+          "tabakalaşma"
+        ],
+        "zorluk": "orta",
+        "id": 228
+      },
+      "replacement": null,
+      "reason": "“tuz kaması oluşturmak” wraps the already represented concept “tuz kaması” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "osinografi.json",
+      "original_id": 247,
+      "before": {
+        "kategori": "osinografi",
+        "kelime": "metan hidrat çıkarmak",
+        "aciklama": "derin deniz tabanındaki yüksek basınç ve soğukta donmuş yanıcı buz kristallerini incelemek",
+        "yasakli_kelimeler": [
+          "yanıcı buz",
+          "metan gazı",
+          "kristal kafes",
+          "deniz tabanı",
+          "enerji kaynağı"
+        ],
+        "zorluk": "zor",
+        "id": 247
+      },
+      "replacement": null,
+      "reason": "“metan hidrat çıkarmak” wraps the already represented concept “metan hidrat” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "osmanli.json",
+      "original_id": 234,
+      "before": {
+        "kategori": "osmanli",
+        "kelime": "millet sistemi kurmak",
+        "aciklama": "tebaayı ırklarına göre değil dini inançlarına göre cemaatler halinde yönetmek",
+        "yasakli_kelimeler": [
+          "din",
+          "cemaat",
+          "ortodoks",
+          "yahudi",
+          "yönetim"
+        ],
+        "zorluk": "orta",
+        "id": 234
+      },
+      "replacement": null,
+      "reason": "“millet sistemi kurmak” wraps the already represented concept “millet sistemi” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "osmanli.json",
+      "original_id": 242,
+      "before": {
+        "kategori": "osmanli",
+        "kelime": "tanzimat fermanı okumak",
+        "aciklama": "gülhane parkı'nda reşid paşa'nın can, mal ve namus güvencesi getiren fermanı okuması",
+        "yasakli_kelimeler": [
+          "gülhane",
+          "mustafa reşid",
+          "1839",
+          "hukuk devleti",
+          "abdülmecid"
+        ],
+        "zorluk": "zor",
+        "id": 242
+      },
+      "replacement": null,
+      "reason": "“tanzimat fermanı okumak” wraps the already represented concept “tanzimat fermanı” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "paleontoloji.json",
+      "original_id": 214,
+      "before": {
+        "kategori": "paleontoloji",
+        "kelime": "alçı ceket almak",
+        "aciklama": "karbon 14 izotopunun bozunma hızından fosilin yaşını hesaplamak",
+        "yasakli_kelimeler": [
+          "karbon 14",
+          "izotop",
+          "yaş tayini",
+          "radyometrik",
+          "yıl"
+        ],
+        "zorluk": "orta",
+        "id": 214
+      },
+      "replacement": null,
+      "reason": "“alçı ceket almak” wraps the already represented concept “alçı ceket” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "paleontoloji.json",
+      "original_id": 237,
+      "before": {
+        "kategori": "paleontoloji",
+        "kelime": "iz fosil incelemek",
+        "aciklama": "541 milyon yıl önce hayvan filumlarının aniden çeşitlendiği evrimsel sıçramayı incelemek",
+        "yasakli_kelimeler": [
+          "541 milyon",
+          "filum",
+          "burgess shale",
+          "aniden çeşitlenme",
+          "erken hayvan"
+        ],
+        "zorluk": "zor",
+        "id": 237
+      },
+      "replacement": null,
+      "reason": "“iz fosil incelemek” wraps the already represented concept “iz fosil” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "patoloji.json",
+      "original_id": 227,
+      "before": {
+        "kategori": "patoloji",
+        "kelime": "hiperplazi olmak",
+        "aciklama": "hormon veya uyarılmayla dokudaki hücre sayısının anormal çoğalması",
+        "yasakli_kelimeler": [
+          "sayı artışı",
+          "çoğalma",
+          "hormon",
+          "endometrium",
+          "prostat"
+        ],
+        "zorluk": "orta",
+        "id": 227
+      },
+      "replacement": null,
+      "reason": "“hiperplazi olmak” wraps the already represented concept “hiperplazi” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "patoloji.json",
+      "original_id": 231,
+      "before": {
+        "kategori": "patoloji",
+        "kelime": "metastaz yapmak",
+        "aciklama": "kanser hücrelerinin lenf veya kan yoluyla uzak organlara sıçraması",
+        "yasakli_kelimeler": [
+          "sıçrama",
+          "uzak organ",
+          "yayılma",
+          "kan damarı",
+          "sekonder"
+        ],
+        "zorluk": "orta",
+        "id": 231
+      },
+      "replacement": null,
+      "reason": "“metastaz yapmak” wraps the already represented concept “metastaz” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "patoloji.json",
+      "original_id": 243,
+      "before": {
+        "kategori": "patoloji",
+        "kelime": "kazeifikasyon nekrozu görmek",
+        "aciklama": "tüberküloz lezyonunun merkezinde peynirimsi yumuşak doku yıkımı izlemek",
+        "yasakli_kelimeler": [
+          "peynirimsi",
+          "tüberküloz",
+          "nekroz",
+          "verem",
+          "odak"
+        ],
+        "zorluk": "zor",
+        "id": 243
+      },
+      "replacement": null,
+      "reason": "“kazeifikasyon nekrozu görmek” wraps the already represented concept “kazeifikasyon nekrozu” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "patoloji.json",
+      "original_id": 248,
+      "before": {
+        "kategori": "patoloji",
+        "kelime": "psammom cisimciği görmek",
+        "aciklama": "tiroid veya over kanserinde lameller tarzda kalsifiye eşmerkezli yuvarlak yapılar bulmak",
+        "yasakli_kelimeler": [
+          "eşmerkezli",
+          "papiller tiroid",
+          "over",
+          "kalsiyum küresi",
+          "lameller"
+        ],
+        "zorluk": "zor",
+        "id": 248
+      },
+      "replacement": null,
+      "reason": "“psammom cisimciği görmek” wraps the already represented concept “psammom cisimciği” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "pazarlama.json",
+      "original_id": 242,
+      "before": {
+        "kategori": "pazarlama",
+        "kelime": "dönüşüm hunisi kurmak",
+        "aciklama": "farkındalıktan satın almaya kadar adım adım müşteri dönüşüm hunisi tasarlamak",
+        "yasakli_kelimeler": [
+          "funnel",
+          "aida",
+          "farkındalık",
+          "satın alma adımı",
+          "kayıp oranı"
+        ],
+        "zorluk": "zor",
+        "id": 242
+      },
+      "replacement": null,
+      "reason": "“dönüşüm hunisi kurmak” wraps the already represented concept “dönüşüm hunisi” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "pazarlama.json",
+      "original_id": 248,
+      "before": {
+        "kategori": "pazarlama",
+        "kelime": "nöropazarlama uygulamak",
+        "aciklama": "reklama bakan tüketicinin beyin dalgalarını ve göz bebek hareketlerini ölçmek",
+        "yasakli_kelimeler": [
+          "eye tracking",
+          "eeg",
+          "bilinçaltı",
+          "beyin tepkisi",
+          "biyometrik"
+        ],
+        "zorluk": "zor",
+        "id": 248
+      },
+      "replacement": null,
+      "reason": "“nöropazarlama uygulamak” wraps the already represented concept “nöropazarlama” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "pazarlama.json",
+      "original_id": 250,
+      "before": {
+        "kategori": "pazarlama",
+        "kelime": "marka değeri kurmak",
+        "aciklama": "ismin tüketici algısındaki finansal ve duygusal toplam değer gücünü yükseltmek",
+        "yasakli_kelimeler": [
+          "brand equity",
+          "finansal değer",
+          "duygusal bağ",
+          "saygınlık",
+          "soyut varlık"
+        ],
+        "zorluk": "zor",
+        "id": 250
+      },
+      "replacement": null,
+      "reason": "“marka değeri kurmak” wraps the already represented concept “marka değeri” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "pedagoji.json",
+      "original_id": 239,
+      "before": {
+        "kategori": "pedagoji",
+        "kelime": "güvenli bağlanma kurmak",
+        "aciklama": "bowlby ve ainsworth'ün bebek ile anne arasındaki tutarlı güven bağını inşa etmek",
+        "yasakli_kelimeler": [
+          "john bowlby",
+          "ainsworth",
+          "yabancı durum",
+          "tutarlı tepki",
+          "bağlanma stili"
+        ],
+        "zorluk": "zor",
+        "id": 239
+      },
+      "replacement": null,
+      "reason": "“güvenli bağlanma kurmak” wraps the already represented concept “güvenli bağlanma” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "pediyatri.json",
+      "original_id": 224,
+      "before": {
+        "kategori": "pediyatri",
+        "kelime": "apgar skoru vermek",
+        "aciklama": "altıncı aydan itibaren anne sütüne ek olarak sebze püresi ve yoğurt tattırmak",
+        "yasakli_kelimeler": [
+          "6. ay",
+          "sebze püresi",
+          "tadım",
+          "yoğurt",
+          "katı gıda"
+        ],
+        "zorluk": "orta",
+        "id": 224
+      },
+      "replacement": null,
+      "reason": "“apgar skoru vermek” wraps the already represented concept “apgar skoru” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "psikiyatri.json",
+      "original_id": 244,
+      "before": {
+        "kategori": "psikiyatri",
+        "kelime": "cotard sendromu yaşamak",
+        "aciklama": "hastanın kendi iç organlarının çürüdüğünü veya bizzat kendisinin öldüğünü iddia etmesi",
+        "yasakli_kelimeler": [
+          "yürüyen ceset",
+          "organ çürümesi",
+          "ölüyüm sanma",
+          "nihilistik hezeyan",
+          "ağır depresyon"
+        ],
+        "zorluk": "zor",
+        "id": 244
+      },
+      "replacement": null,
+      "reason": "“cotard sendromu yaşamak” wraps the already represented concept “cotard sendromu” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "psikoloji.json",
+      "original_id": 214,
+      "before": {
+        "kategori": "psikoloji",
+        "kelime": "yansıtma yapmak",
+        "aciklama": "kendi kabul edemediği kusurları ve öfkeyi karşı tarafa yüklemek",
+        "yasakli_kelimeler": [
+          "projeksiyon",
+          "suçlama",
+          "kusur",
+          "karşı taraf",
+          "savunma mekanizması"
+        ],
+        "zorluk": "orta",
+        "id": 214
+      },
+      "replacement": null,
+      "reason": "“yansıtma yapmak” wraps the already represented concept “yansıtma” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "psikoloji.json",
+      "original_id": 219,
+      "before": {
+        "kategori": "psikoloji",
+        "kelime": "bilişsel çarpıtma yapmak",
+        "aciklama": "ya hep ya hiç, felaketleştirme veya zihin okuma gibi hatalı düşünce kalıpları",
+        "yasakli_kelimeler": [
+          "felaketleştirme",
+          "zihin okuma",
+          "hatalı düşünce",
+          "ya hep ya hiç",
+          "bdt"
+        ],
+        "zorluk": "orta",
+        "id": 219
+      },
+      "replacement": null,
+      "reason": "“bilişsel çarpıtma yapmak” wraps the already represented concept “bilişsel çarpıtma” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "psikoloji.json",
+      "original_id": 224,
+      "before": {
+        "kategori": "psikoloji",
+        "kelime": "sosyal kaytarma yapmak",
+        "aciklama": "grup içinde çalışırken bireysel çabayı fark edilmez diye azaltmak",
+        "yasakli_kelimeler": [
+          "grup çalışması",
+          "tembellik",
+          "çaba azaltma",
+          "sorumluluk dağılması",
+          "ringelmann"
+        ],
+        "zorluk": "orta",
+        "id": 224
+      },
+      "replacement": null,
+      "reason": "“sosyal kaytarma yapmak” wraps the already represented concept “sosyal kaytarma” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "psikoloji.json",
+      "original_id": 231,
+      "before": {
+        "kategori": "psikoloji",
+        "kelime": "duygusal zeka kullanmak",
+        "aciklama": "kendi ve başkalarının duygularını doğru tanıyıp ilişkileri ustaca yönetmek",
+        "yasakli_kelimeler": [
+          "eq",
+          "goleman",
+          "duygu yönetimi",
+          "ilişki becerisi",
+          "farkındalık"
+        ],
+        "zorluk": "orta",
+        "id": 231
+      },
+      "replacement": null,
+      "reason": "“duygusal zeka kullanmak” wraps the already represented concept “duygusal zeka” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "resim.json",
+      "original_id": 219,
+      "before": {
+        "kategori": "resim",
+        "kelime": "sfumato uygulamak",
+        "aciklama": "da vinci'nin mona lisa'da yaptığı gibi renk sınırlarını duman gibi yumuşatmak",
+        "yasakli_kelimeler": [
+          "da vinci",
+          "dumanlı",
+          "geçiş yumuşatma",
+          "sınır yok etme",
+          "mona lisa"
+        ],
+        "zorluk": "orta",
+        "id": 219
+      },
+      "replacement": null,
+      "reason": "“sfumato uygulamak” wraps the already represented concept “sfumato” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "resim.json",
+      "original_id": 221,
+      "before": {
+        "kategori": "resim",
+        "kelime": "kroki almak",
+        "aciklama": "hareket halindeki nesneyi birkaç hızlı çizgi darbesiyle taslaklamak",
+        "yasakli_kelimeler": [
+          "taslak",
+          "hızlı çizim",
+          "birkaç saniye",
+          "eskiz",
+          "çizgi"
+        ],
+        "zorluk": "orta",
+        "id": 221
+      },
+      "replacement": null,
+      "reason": "“kroki almak” wraps the already represented concept “kroki” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "resim.json",
+      "original_id": 237,
+      "before": {
+        "kategori": "resim",
+        "kelime": "ışık gölge vermek",
+        "aciklama": "yağlı boyayı alt katmanların kurumasını beklemeden tek seansta ıslak üstüne ıslak tamamlamak",
+        "yasakli_kelimeler": [
+          "ıslak üstüne ıslak",
+          "tek seans",
+          "wet on wet",
+          "hızlı boyama",
+          "katmansız"
+        ],
+        "zorluk": "zor",
+        "id": 237
+      },
+      "replacement": null,
+      "reason": "“ışık gölge vermek” wraps the already represented concept “ışık gölge” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "retorik.json",
+      "original_id": 213,
+      "before": {
+        "kategori": "retorik",
+        "kelime": "hitabet yapmak",
+        "aciklama": "kürsüde vücut dili ve ses tonuyla kitleleri coşturan nutuk atmak",
+        "yasakli_kelimeler": [
+          "oratory",
+          "nutuk",
+          "kitle",
+          "vücut dili",
+          "coşku"
+        ],
+        "zorluk": "orta",
+        "id": 213
+      },
+      "replacement": null,
+      "reason": "“hitabet yapmak” wraps the already represented concept “hitabet” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "retorik.json",
+      "original_id": 233,
+      "before": {
+        "kategori": "retorik",
+        "kelime": "antitez üretmek",
+        "aciklama": "ortaya atılan bir savın tam zıttı olan karşı savı oluşturmak",
+        "yasakli_kelimeler": [
+          "karşı sav",
+          "zıt fikir",
+          "tez karşıtı",
+          "çelişki",
+          "sentez öncesi"
+        ],
+        "zorluk": "orta",
+        "id": 233
+      },
+      "replacement": null,
+      "reason": "“antitez üretmek” wraps the already represented concept “antitez” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "retorik.json",
+      "original_id": 239,
+      "before": {
+        "kategori": "retorik",
+        "kelime": "ad hominem yapmak",
+        "aciklama": "tartışılan fikre cevap vermek yerine doğrudan konuşmacının kişiliğine saldırmak",
+        "yasakli_kelimeler": [
+          "kişiliğe saldırı",
+          "safsata",
+          "fallacy",
+          "konuyu saptırma",
+          "karalama"
+        ],
+        "zorluk": "zor",
+        "id": 239
+      },
+      "replacement": null,
+      "reason": "“ad hominem yapmak” wraps the already represented concept “ad hominem” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "retorik.json",
+      "original_id": 240,
+      "before": {
+        "kategori": "retorik",
+        "kelime": "korkuluk safsatası kurmak",
+        "aciklama": "rakibin argümanını aşırı basitleştirip çarpıtarak kolayca çürütmek",
+        "yasakli_kelimeler": [
+          "straw man",
+          "saman adam",
+          "çarpıtma",
+          "abartılı sav",
+          "safsata"
+        ],
+        "zorluk": "zor",
+        "id": 240
+      },
+      "replacement": null,
+      "reason": "“korkuluk safsatası kurmak” wraps the already represented concept “korkuluk safsatası” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "robotik.json",
+      "original_id": 219,
+      "before": {
+        "kategori": "robotik",
+        "kelime": "derinlik kamerası okumak",
+        "aciklama": "rgbd kamerayla piksellerin hem rengini hem de kameraya uzaklığını almak",
+        "yasakli_kelimeler": [
+          "rgb-d",
+          "piksel uzaklığı",
+          "3d kamera",
+          "realsense",
+          "derinlik haritası"
+        ],
+        "zorluk": "orta",
+        "id": 219
+      },
+      "replacement": null,
+      "reason": "“derinlik kamerası okumak” wraps the already represented concept “derinlik kamerası” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "robotik.json",
+      "original_id": 222,
+      "before": {
+        "kategori": "robotik",
+        "kelime": "robotik tutucu kapatmak",
+        "aciklama": "görüntü işleme ağıyla konveyör banttaki hatalı vidayı anında tespit etmek",
+        "yasakli_kelimeler": [
+          "yolo",
+          "görüntü işleme",
+          "konveyör",
+          "kamera",
+          "tespit"
+        ],
+        "zorluk": "orta",
+        "id": 222
+      },
+      "replacement": null,
+      "reason": "“robotik tutucu kapatmak” wraps the already represented concept “robotik tutucu” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "robotik.json",
+      "original_id": 225,
+      "before": {
+        "kategori": "robotik",
+        "kelime": "odometri hesaplamak",
+        "aciklama": "tekerlek dönüş sayısından robotun anlık konum koordinatını tahmin etmek",
+        "yasakli_kelimeler": [
+          "konum tahmini",
+          "tekerlek dönüşü",
+          "ölü hesap",
+          "koordinat",
+          "kayma"
+        ],
+        "zorluk": "orta",
+        "id": 225
+      },
+      "replacement": null,
+      "reason": "“odometri hesaplamak” wraps the already represented concept “odometri” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "rockmuzik.json",
+      "original_id": 238,
+      "before": {
+        "kategori": "rockmuzik",
+        "kelime": "tapping tekniği kullanmak",
+        "aciklama": "eddie van halen gibi sağ el parmaklarıyla gitar klavyesindeki perdelere doğrudan vurarak çalmak",
+        "yasakli_kelimeler": [
+          "van halen",
+          "iki el klavye",
+          "perdeye vurma",
+          "çekiçleme",
+          "erruption"
+        ],
+        "zorluk": "zor",
+        "id": 238
+      },
+      "replacement": null,
+      "reason": "“tapping tekniği kullanmak” wraps the already represented concept “tapping tekniği” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "saatcilik.json",
+      "original_id": 245,
+      "before": {
+        "kategori": "saatcilik",
+        "kelime": "sütun çarkı takmak",
+        "aciklama": "lüks kronograflarda buton basışını yumuşacık ve kusursuz kılan kule biçimli çark",
+        "yasakli_kelimeler": [
+          "column wheel",
+          "sütun çarkı",
+          "kronograf mekanizması",
+          "yumuşak buton",
+          "kule çark"
+        ],
+        "zorluk": "zor",
+        "id": 245
+      },
+      "replacement": null,
+      "reason": "“sütun çarkı takmak” wraps the already represented concept “sütun çarkı” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "seramik.json",
+      "original_id": 229,
+      "before": {
+        "kategori": "seramik",
+        "kelime": "sır akması yaşamak",
+        "aciklama": "aşırı sıcaklıkta eriyen sırın ürünün tabanından fırın plakasına damlayıp yapışması",
+        "yasakli_kelimeler": [
+          "akma",
+          "plakaya yapışma",
+          "aşırı ısı",
+          "damlama",
+          "sır hatası"
+        ],
+        "zorluk": "orta",
+        "id": 229
+      },
+      "replacement": null,
+      "reason": "“sır akması yaşamak” wraps the already represented concept “sır akması” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "sokaklezzetleri.json",
+      "original_id": 222,
+      "before": {
+        "kategori": "sokaklezzetleri",
+        "kelime": "nohutlu pilav çekmek",
+        "aciklama": "camlı seyyar arabadan kepçeyle tabağa tereyağlı nohutlu pirinç ve tavuk koymak",
+        "yasakli_kelimeler": [
+          "pilav arabası",
+          "tavuk nohut",
+          "cam tezgah",
+          "kepçe",
+          "karabiber"
+        ],
+        "zorluk": "orta",
+        "id": 222
+      },
+      "replacement": null,
+      "reason": "“nohutlu pilav çekmek” wraps the already represented concept “nohutlu pilav” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "sosyalmedya.json",
+      "original_id": 237,
+      "before": {
+        "kategori": "sosyalmedya",
+        "kelime": "etkileşim oranı ölçmek",
+        "aciklama": "etkileşimi artırmak için doğru saatte, doğru ses ve etiketlerle akışa girmek",
+        "yasakli_kelimeler": [
+          "keşfet algoritması",
+          "etkileşim oranı",
+          "doğru saat",
+          "akış mekanizması",
+          "görünürlük"
+        ],
+        "zorluk": "zor",
+        "id": 237
+      },
+      "replacement": null,
+      "reason": "“etkileşim oranı ölçmek” wraps the already represented concept “etkileşim oranı” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "sosyoloji.json",
+      "original_id": 219,
+      "before": {
+        "kategori": "sosyoloji",
+        "kelime": "kültürel gecikme yaşamak",
+        "aciklama": "maddi teknolojinin hızla ilerlemesine karşın ahlak ve yasaların geride kalması",
+        "yasakli_kelimeler": [
+          "ogburn",
+          "maddi manevi kültür",
+          "teknoloji ahlak",
+          "geride kalma",
+          "uyumsuzluk"
+        ],
+        "zorluk": "orta",
+        "id": 219
+      },
+      "replacement": null,
+      "reason": "“kültürel gecikme yaşamak” wraps the already represented concept “kültürel gecikme” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "sosyoloji.json",
+      "original_id": 233,
+      "before": {
+        "kategori": "sosyoloji",
+        "kelime": "toplumsal hareketlilik yaşamak",
+        "aciklama": "eğitim veya servet yoluyla alt sınıftan üst sınıfa dikey yükselmek",
+        "yasakli_kelimeler": [
+          "mobilite",
+          "dikey hareketlilik",
+          "sınıf atlama",
+          "sosyal statü",
+          "yukarı tırmanma"
+        ],
+        "zorluk": "orta",
+        "id": 233
+      },
+      "replacement": null,
+      "reason": "“toplumsal hareketlilik yaşamak” wraps the already represented concept “toplumsal hareketlilik” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "telekomunikasyon.json",
+      "original_id": 238,
+      "before": {
+        "kategori": "telekomunikasyon",
+        "kelime": "frekans bandı ayırmak",
+        "aciklama": "geniş bandı birbirine dik yüzlerce alt taşıyıcı frekansa bölerek veri basmak",
+        "yasakli_kelimeler": [
+          "dik frekans bölmeli",
+          "alt taşıyıcı",
+          "spektrum verimi",
+          "lte modülasyonu",
+          "qam"
+        ],
+        "zorluk": "zor",
+        "id": 238
+      },
+      "replacement": null,
+      "reason": "“frekans bandı ayırmak” wraps the already represented concept “frekans bandı” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "teoloji.json",
+      "original_id": 223,
+      "before": {
+        "kategori": "teoloji",
+        "kelime": "zühd yaşamak",
+        "aciklama": "dünyevi zevklerden, maldan ve mülkten el çekip tamamen ibadete odaklanmak.",
+        "yasakli_kelimeler": [
+          "dünya",
+          "mal",
+          "mülk",
+          "tasavvuf",
+          "çile"
+        ],
+        "zorluk": "orta",
+        "id": 223
+      },
+      "replacement": null,
+      "reason": "“zühd yaşamak” wraps the already represented concept “zühd” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "teoloji.json",
+      "original_id": 241,
+      "before": {
+        "kategori": "teoloji",
+        "kelime": "ontolojik kanıt sunmak",
+        "aciklama": "tanrının varlığını doğrudan varlık kavramı ve mükemmel varlık tanımı üzerinden ispatlamak.",
+        "yasakli_kelimeler": [
+          "varlık",
+          "ispat",
+          "kavram",
+          "mükemmel",
+          "felsefe"
+        ],
+        "zorluk": "zor",
+        "id": 241
+      },
+      "replacement": null,
+      "reason": "“ontolojik kanıt sunmak” wraps the already represented concept “ontolojik kanıt” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "termodinamik.json",
+      "original_id": 222,
+      "before": {
+        "kategori": "termodinamik",
+        "kelime": "entalpi hesaplamak",
+        "aciklama": "bir sistemin iç enerjisi ile basınç-hacim çarpımının toplam ısı içeriğini belirlemek.",
+        "yasakli_kelimeler": [
+          "iç enerji",
+          "ısı içeriği",
+          "h",
+          "basınç",
+          "hacim"
+        ],
+        "zorluk": "orta",
+        "id": 222
+      },
+      "replacement": null,
+      "reason": "“entalpi hesaplamak” wraps the already represented concept “entalpi” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "termodinamik.json",
+      "original_id": 235,
+      "before": {
+        "kategori": "termodinamik",
+        "kelime": "durum değişkeni belirlemek",
+        "aciklama": "sistemin termodinamik halini tanımlayan basınç, sıcaklık ve hacim değerlerini saptamak.",
+        "yasakli_kelimeler": [
+          "basınç",
+          "sıcaklık",
+          "hacim",
+          "hal",
+          "tanım"
+        ],
+        "zorluk": "orta",
+        "id": 235
+      },
+      "replacement": null,
+      "reason": "“durum değişkeni belirlemek” wraps the already represented concept “durum değişkeni” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "termodinamik.json",
+      "original_id": 236,
+      "before": {
+        "kategori": "termodinamik",
+        "kelime": "kapalı sistem oluşturmak",
+        "aciklama": "madde giriş çıkışına kapalı fakat enerji transferine açık bir ortam kurmak.",
+        "yasakli_kelimeler": [
+          "madde",
+          "enerji",
+          "giriş",
+          "çıkış",
+          "sınır"
+        ],
+        "zorluk": "orta",
+        "id": 236
+      },
+      "replacement": null,
+      "reason": "“kapalı sistem oluşturmak” wraps the already represented concept “kapalı sistem” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "tipografi.json",
+      "original_id": 222,
+      "before": {
+        "kategori": "tipografi",
+        "kelime": "tırnaksız font kullanmak",
+        "aciklama": "harf uçlarında dekoratif çıkıntıları olmayan modern sans-serif yazı tipi seçmek.",
+        "yasakli_kelimeler": [
+          "sans serif",
+          "çıkıntı",
+          "modern",
+          "düz",
+          "uç"
+        ],
+        "zorluk": "orta",
+        "id": 222
+      },
+      "replacement": null,
+      "reason": "“tırnaksız font kullanmak” wraps the already represented concept “tırnaksız font” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "tipografi.json",
+      "original_id": 230,
+      "before": {
+        "kategori": "tipografi",
+        "kelime": "blok metin oluşturmak",
+        "aciklama": "metni her iki kenara tam yaslayarak dikdörtgen bir metin bloğu elde etmek.",
+        "yasakli_kelimeler": [
+          "iki yana yasla",
+          "dikdörtgen",
+          "kenar",
+          "düz",
+          "justify"
+        ],
+        "zorluk": "orta",
+        "id": 230
+      },
+      "replacement": null,
+      "reason": "“blok metin oluşturmak” wraps the already represented concept “blok metin” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "tipografi.json",
+      "original_id": 231,
+      "before": {
+        "kategori": "tipografi",
+        "kelime": "ligatür kullanmak",
+        "aciklama": "fi, fl gibi yan yana gelen iki harfin birleşik özel bir glifle yazılması.",
+        "yasakli_kelimeler": [
+          "birleşik",
+          "harf",
+          "bağlantı",
+          "özel glif",
+          "çarpışma"
+        ],
+        "zorluk": "orta",
+        "id": 231
+      },
+      "replacement": null,
+      "reason": "“ligatür kullanmak” wraps the already represented concept “ligatür” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "tipografi.json",
+      "original_id": 241,
+      "before": {
+        "kategori": "tipografi",
+        "kelime": "değişken font üretmek",
+        "aciklama": "kalınlık, eğim ve genişliği tek bir dosya içinde dinamik eksenlerle değişen variable font kodlamak.",
+        "yasakli_kelimeler": [
+          "variable font",
+          "eksen",
+          "dinamik",
+          "tek dosya",
+          "ağırlık"
+        ],
+        "zorluk": "zor",
+        "id": 241
+      },
+      "replacement": null,
+      "reason": "“değişken font üretmek” wraps the already represented concept “değişken font” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "tiyatro.json",
+      "original_id": 229,
+      "before": {
+        "kategori": "tiyatro",
+        "kelime": "aksesuar kullanmak",
+        "aciklama": "karakterin rol gereği sahnede elinde tuttuğu asa, mektup, kadeh gibi nesneleri kullanmak.",
+        "yasakli_kelimeler": [
+          "nesne",
+          "el",
+          "eşya",
+          "mektup",
+          "kadeh"
+        ],
+        "zorluk": "orta",
+        "id": 229
+      },
+      "replacement": null,
+      "reason": "“aksesuar kullanmak” wraps the already represented concept “aksesuar” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "tiyatro.json",
+      "original_id": 238,
+      "before": {
+        "kategori": "tiyatro",
+        "kelime": "epik tiyatro uygulamak",
+        "aciklama": "brecht'in yabancılaştırma efektiyle seyircinin oyuna kapılmasını engelleyip eleştirel düşündürmek.",
+        "yasakli_kelimeler": [
+          "brecht",
+          "yabancılaştırma",
+          "eleştirel",
+          "kapılma",
+          "illüzyon"
+        ],
+        "zorluk": "zor",
+        "id": 238
+      },
+      "replacement": null,
+      "reason": "“epik tiyatro uygulamak” wraps the already represented concept “epik tiyatro” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "turkhalkedebiyati.json",
+      "original_id": 227,
+      "before": {
+        "kategori": "turkhalkedebiyati",
+        "kelime": "yarım uyak yapmak",
+        "aciklama": "dize sonlarında tek bir ünsüz harfin benzeşmesiyle kurulan halk kafiyesi.",
+        "yasakli_kelimeler": [
+          "tek ses",
+          "kafiye",
+          "ünsüz",
+          "mısra sonu",
+          "benzerlik"
+        ],
+        "zorluk": "orta",
+        "id": 227
+      },
+      "replacement": null,
+      "reason": "“yarım uyak yapmak” wraps the already represented concept “yarım uyak” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "videooyunlari.json",
+      "original_id": 234,
+      "before": {
+        "kategori": "videooyunlari",
+        "kelime": "kritik vuruş yapmak",
+        "aciklama": "düşmanın kafasına veya zayıf noktasına vurarak iki katı hasar (crit) çıkarmak.",
+        "yasakli_kelimeler": [
+          "headshot",
+          "hasar",
+          "zayıf nokta",
+          "katı",
+          "crit"
+        ],
+        "zorluk": "orta",
+        "id": 234
+      },
+      "replacement": null,
+      "reason": "“kritik vuruş yapmak” wraps the already represented concept “kritik vuruş” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "voleybol.json",
+      "original_id": 242,
+      "before": {
+        "kategori": "voleybol",
+        "kelime": "joust mücadelesi vermek",
+        "aciklama": "file bandının tam üstündeki topa iki rakip oyuncunun aynı anda elleriyle baskı yapması.",
+        "yasakli_kelimeler": [
+          "file bandı",
+          "karşılıklı itiş",
+          "aynı anda",
+          "baskı",
+          "üstte"
+        ],
+        "zorluk": "zor",
+        "id": 242
+      },
+      "replacement": null,
+      "reason": "“joust mücadelesi vermek” wraps the already represented concept “joust mücadelesi” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "yapayzeka.json",
+      "original_id": 218,
+      "before": {
+        "kategori": "yapayzeka",
+        "kelime": "vektör veritabanı kurmak",
+        "aciklama": "metin ve görsellerin anlamsal embedding değerlerini saklayıp hızlı arama yapmak.",
+        "yasakli_kelimeler": [
+          "embedding",
+          "anlamsal",
+          "pinecone",
+          "rag",
+          "benzerlik"
+        ],
+        "zorluk": "orta",
+        "id": 218
+      },
+      "replacement": null,
+      "reason": "“vektör veritabanı kurmak” wraps the already represented concept “vektör veritabanı” in a generic task frame; the explanation describes the underlying concept rather than a separately named activity."
+    },
+    {
+      "file": "kriminoloji.json",
+      "original_id": 246,
+      "before": {
+        "kategori": "kriminoloji",
+        "kelime": "polen ile konum",
+        "aciklama": "şüphelinin ayakkabısındaki mikroskobik bitki polenlerinden olay yerinde bulunup bulunmadığını kanıtlamak.",
+        "yasakli_kelimeler": [
+          "polen analizi",
+          "mikroskobik sporlar",
+          "çamur örneği",
+          "coğrafi köken tespiti",
+          "ayakkabı tabanı"
+        ],
+        "zorluk": "zor",
+        "id": 246
+      },
+      "replacement": null,
+      "reason": "Incomplete or underqualified target, target/explanation mismatch, or duplicate concept already represented in this category; rejected after inspecting the full card."
+    },
+    {
+      "file": "osinografi.json",
+      "original_id": 223,
+      "before": {
+        "kategori": "osinografi",
+        "kelime": "batısfer ile dalmak",
+        "aciklama": "akustik doppler akım profilleyici ile farklı su katmanlarının hızını bulmak",
+        "yasakli_kelimeler": [
+          "adcp",
+          "akıntı hızı",
+          "doppler",
+          "knot",
+          "katman"
+        ],
+        "zorluk": "orta",
+        "id": 223
+      },
+      "replacement": null,
+      "reason": "Incomplete or underqualified target, target/explanation mismatch, or duplicate concept already represented in this category; rejected after inspecting the full card."
+    },
+    {
+      "file": "resim.json",
+      "original_id": 223,
+      "before": {
+        "kategori": "resim",
+        "kelime": "boyayı spatula ile",
+        "aciklama": "kitreli suyun yüzeyine öd katkılı toprak boyaları fırçayla serpmek",
+        "yasakli_kelimeler": [
+          "kitre",
+          "öd",
+          "toprak boya",
+          "tekne",
+          "biz"
+        ],
+        "zorluk": "orta",
+        "id": 223
+      },
+      "replacement": null,
+      "reason": "Incomplete or underqualified target, target/explanation mismatch, or duplicate concept already represented in this category; rejected after inspecting the full card."
+    },
+    {
+      "file": "saglikliyasam.json",
+      "original_id": 203,
+      "before": {
+        "kategori": "saglikliyasam",
+        "kelime": "günde iki litre",
+        "aciklama": "her gün 10 bin adım hedefine ulaşmak için tempolu yürüyüş yapmak",
+        "yasakli_kelimeler": [
+          "10 bin adım",
+          "yürüyüş",
+          "adım",
+          "tempolu",
+          "hedef"
+        ],
+        "zorluk": "kolay",
+        "id": 203
+      },
+      "replacement": null,
+      "reason": "Incomplete or underqualified target, target/explanation mismatch, or duplicate concept already represented in this category; rejected after inspecting the full card."
+    },
+    {
+      "file": "sosyoloji.json",
+      "original_id": 248,
+      "before": {
+        "kategori": "sosyoloji",
+        "kelime": "mekanik dayanışmadan organiye",
+        "aciklama": "benzerliklere dayalı ilkel kabile bağlarından uzmanlaşmış iş bölümü toplumuna geçmek",
+        "yasakli_kelimeler": [
+          "durkheim evrimi",
+          "iş bölümü",
+          "mekanik dayanışma",
+          "organik dayanışma",
+          "kolektif bilinç"
+        ],
+        "zorluk": "zor",
+        "id": 248
+      },
+      "replacement": null,
+      "reason": "Incomplete or underqualified target, target/explanation mismatch, or duplicate concept already represented in this category; rejected after inspecting the full card."
+    },
+    {
+      "file": "burokrasi.json",
+      "original_id": 246,
+      "before": {
+        "kategori": "burokrasi",
+        "kelime": "apojatör kontrolü yapmak",
+        "aciklama": "arşivlenen evrakın imha edilip edilmeyeceğini devlet arşivleri kriterlerine göre incelemek",
+        "yasakli_kelimeler": [
+          "ayıklama imha",
+          "devlet arşivleri",
+          "saklama planı",
+          "evrak imhası",
+          "tasnif"
+        ],
+        "zorluk": "zor",
+        "id": 246
+      },
+      "replacement": null,
+      "reason": "Incomplete or underqualified target, target/explanation mismatch, or duplicate concept already represented in this category; rejected after inspecting the full card."
+    },
+    {
+      "file": "mekatronik.json",
+      "original_id": 203,
+      "before": {
+        "kategori": "mekatronik",
+        "kelime": "servo motor sürüşü",
+        "aciklama": "i̇ki elektronik parça arasındaki iletken telleri birbirine tutturmak.",
+        "yasakli_kelimeler": [
+          "tel",
+          "elektrik",
+          "bağlantı",
+          "tornavida",
+          "akım"
+        ],
+        "zorluk": "kolay",
+        "id": 203
+      },
+      "replacement": null,
+      "reason": "Incomplete or underqualified target, target/explanation mismatch, or duplicate concept already represented in this category; rejected after inspecting the full card."
+    },
+    {
+      "file": "mekatronik.json",
+      "original_id": 208,
+      "before": {
+        "kategori": "mekatronik",
+        "kelime": "arduino kodu yüklemek",
+        "aciklama": "mekanik sistem içindeki dişli çarkları harekete geçirmek.",
+        "yasakli_kelimeler": [
+          "dişli",
+          "mekanizma",
+          "hareket iletimi",
+          "dönüş",
+          "hız"
+        ],
+        "zorluk": "kolay",
+        "id": 208
+      },
+      "replacement": null,
+      "reason": "Incomplete or underqualified target, target/explanation mismatch, or duplicate concept already represented in this category; rejected after inspecting the full card."
+    },
+    {
+      "file": "mekatronik.json",
+      "original_id": 215,
+      "before": {
+        "kategori": "mekatronik",
+        "kelime": "ultrasonik mesafe ölçmek",
+        "aciklama": "sanayi tipi otomasyon panosundaki programlanabilir kontrolöre mantık kodu yüklemek.",
+        "yasakli_kelimeler": [
+          "ladder diyagramı",
+          "endüstriyel otomasyon",
+          "fabrika",
+          "röle mantığı",
+          "otomasyon kontrolörü"
+        ],
+        "zorluk": "orta",
+        "id": 215
+      },
+      "replacement": null,
+      "reason": "Incomplete or underqualified target, target/explanation mismatch, or duplicate concept already represented in this category; rejected after inspecting the full card."
+    },
+    {
+      "file": "mekatronik.json",
+      "original_id": 217,
+      "before": {
+        "kategori": "mekatronik",
+        "kelime": "potansiyometre ile ayarlamak",
+        "aciklama": "dönen motor milinin attığı tur ve konum bilgisini darbe sayarak okumak.",
+        "yasakli_kelimeler": [
+          "tur sayısı",
+          "darbe sinyali",
+          "hız ve konum",
+          "optik enkoder",
+          "geri bildirim"
+        ],
+        "zorluk": "orta",
+        "id": 217
+      },
+      "replacement": null,
+      "reason": "Incomplete or underqualified target, target/explanation mismatch, or duplicate concept already represented in this category; rejected after inspecting the full card."
+    },
+    {
+      "file": "mekatronik.json",
+      "original_id": 222,
+      "before": {
+        "kategori": "mekatronik",
+        "kelime": "h-köprüsü ile yön",
+        "aciklama": "gönderilen ses dalgasının cisme çarpıp dönme süresinden uzaklığı hesaplamak.",
+        "yasakli_kelimeler": [
+          "ses dalgası yankısı",
+          "hcsr04",
+          "engel algılama",
+          "santimetre",
+          "radar"
+        ],
+        "zorluk": "orta",
+        "id": 222
+      },
+      "replacement": null,
+      "reason": "Incomplete or underqualified target, target/explanation mismatch, or duplicate concept already represented in this category; rejected after inspecting the full card."
+    },
+    {
+      "file": "mekatronik.json",
+      "original_id": 224,
+      "before": {
+        "kategori": "mekatronik",
+        "kelime": "pwm ile hız",
+        "aciklama": "robot kolu ucunun gitmek istediği x-y-z koordinatı için gerekli eklem açılarını bulmak.",
+        "yasakli_kelimeler": [
+          "uç nokta koordinatı",
+          "eklem açıları",
+          "robot kolu",
+          "matematiksel matris",
+          "hedef konum"
+        ],
+        "zorluk": "orta",
+        "id": 224
+      },
+      "replacement": null,
+      "reason": "Incomplete or underqualified target, target/explanation mismatch, or duplicate concept already represented in this category; rejected after inspecting the full card."
+    },
+    {
+      "file": "mekatronik.json",
+      "original_id": 227,
+      "before": {
+        "kategori": "mekatronik",
+        "kelime": "optokuplör ile izolasyon",
+        "aciklama": "yüksek basınçlı yağın akış yönünü değiştirerek devasa hidrolik kolları oynatmak.",
+        "yasakli_kelimeler": [
+          "yağ basıncı",
+          "ağır iş makinesi",
+          "yüksek kuvvet",
+          "silindir",
+          "pompa"
+        ],
+        "zorluk": "orta",
+        "id": 227
+      },
+      "replacement": null,
+      "reason": "Incomplete or underqualified target, target/explanation mismatch, or duplicate concept already represented in this category; rejected after inspecting the full card."
+    },
+    {
+      "file": "mekatronik.json",
+      "original_id": 230,
+      "before": {
+        "kategori": "mekatronik",
+        "kelime": "limit anahtarı okumak",
+        "aciklama": "devrenin hassas çiplerine zarar vermemek için voltajı sabit seviyede tutmak.",
+        "yasakli_kelimeler": [
+          "5 volt 3.3 volt",
+          "gerilim düşürücü",
+          "buck converter",
+          "sabit akım",
+          "regülatör"
+        ],
+        "zorluk": "orta",
+        "id": 230
+      },
+      "replacement": null,
+      "reason": "Incomplete or underqualified target, target/explanation mismatch, or duplicate concept already represented in this category; rejected after inspecting the full card."
+    },
+    {
+      "file": "mekatronik.json",
+      "original_id": 232,
+      "before": {
+        "kategori": "mekatronik",
+        "kelime": "pıd katsayısı ayarlamak",
+        "aciklama": "aracın çevre sensörlerini kullanarak direksiyonu insansız çevirip park etmesini sağlamak.",
+        "yasakli_kelimeler": [
+          "kendi kendine park etme",
+          "araç kontrolü",
+          "direksiyon açısı",
+          "sensör kılavuzluğu",
+          "algoritma"
+        ],
+        "zorluk": "orta",
+        "id": 232
+      },
+      "replacement": null,
+      "reason": "Incomplete or underqualified target, target/explanation mismatch, or duplicate concept already represented in this category; rejected after inspecting the full card."
+    },
+    {
+      "file": "mekatronik.json",
+      "original_id": 234,
+      "before": {
+        "kategori": "mekatronik",
+        "kelime": "karesel enkoder okumak",
+        "aciklama": "motorların yarattığı mekanik titreşimin sensörleri yanıltmasını engellemek.",
+        "yasakli_kelimeler": [
+          "damper",
+          "kauçuk takoz",
+          "rezonans engelleme",
+          "mekanik kararlılık",
+          "izolatör"
+        ],
+        "zorluk": "orta",
+        "id": 234
+      },
+      "replacement": null,
+      "reason": "Incomplete or underqualified target, target/explanation mismatch, or duplicate concept already represented in this category; rejected after inspecting the full card."
+    },
+    {
+      "file": "astronomi.json",
+      "original_id": 204,
+      "before": {
+        "kategori": "astronomi",
+        "kelime": "tutulmak",
+        "aciklama": "ay veya güneşin araya giren gök cismi nedeniyle gölgede kalması",
+        "yasakli_kelimeler": [
+          "güneş",
+          "ay",
+          "gölge",
+          "hiza",
+          "karanlık"
+        ],
+        "zorluk": "kolay",
+        "id": 204
+      },
+      "replacement": null,
+      "reason": "Incomplete or underqualified target, target/explanation mismatch, or duplicate concept already represented in this category; rejected after inspecting the full card."
+    },
+    {
+      "file": "astronomi.json",
+      "original_id": 207,
+      "before": {
+        "kategori": "astronomi",
+        "kelime": "patlamak",
+        "aciklama": "ömrünü tamamlayan dev yıldızın süpernova halinde infilak etmesi",
+        "yasakli_kelimeler": [
+          "süpernova",
+          "infilak",
+          "enerji",
+          "yıldız",
+          "ölüm"
+        ],
+        "zorluk": "kolay",
+        "id": 207
+      },
+      "replacement": null,
+      "reason": "Incomplete or underqualified target, target/explanation mismatch, or duplicate concept already represented in this category; rejected after inspecting the full card."
+    },
+    {
+      "file": "astronomi.json",
+      "original_id": 210,
+      "before": {
+        "kategori": "astronomi",
+        "kelime": "yakınlaşmak",
+        "aciklama": "kuyruklu yıldız veya asteroitin güneşe veya dünyaya en yakın konuma gelmesi",
+        "yasakli_kelimeler": [
+          "perihel",
+          "mesafe",
+          "yakın",
+          "geçiş",
+          "yörünge"
+        ],
+        "zorluk": "kolay",
+        "id": 210
+      },
+      "replacement": null,
+      "reason": "Incomplete or underqualified target, target/explanation mismatch, or duplicate concept already represented in this category; rejected after inspecting the full card."
+    },
+    {
+      "file": "robotik.json",
+      "original_id": 203,
+      "before": {
+        "kategori": "robotik",
+        "kelime": "tutmak",
+        "aciklama": "robotik tutucu el ile masadaki nesneyi kavrayıp tutmak",
+        "yasakli_kelimeler": [
+          "tutucu",
+          "gripper",
+          "kavramak",
+          "el",
+          "nesne"
+        ],
+        "zorluk": "kolay",
+        "id": 203
+      },
+      "replacement": null,
+      "reason": "Incomplete or underqualified target, target/explanation mismatch, or duplicate concept already represented in this category; rejected after inspecting the full card."
+    },
+    {
+      "file": "robotik.json",
+      "original_id": 204,
+      "before": {
+        "kategori": "robotik",
+        "kelime": "bırakmak",
+        "aciklama": "tutulan parçayı hedef konuma götürüp elini açarak serbest bırakmak",
+        "yasakli_kelimeler": [
+          "açmak",
+          "serbest",
+          "hedef",
+          "bırakış",
+          "el"
+        ],
+        "zorluk": "kolay",
+        "id": 204
+      },
+      "replacement": null,
+      "reason": "Incomplete or underqualified target, target/explanation mismatch, or duplicate concept already represented in this category; rejected after inspecting the full card."
+    },
+    {
+      "file": "algoritmalar.json",
+      "original_id": 5,
+      "before": {
+        "id": 5,
+        "kategori": "algoritmalar",
+        "kelime": "kabalık sıralaması",
+        "aciklama": "komşu elemanları sırayla karşılaştırıp büyük olanı sağa doğru kaydırarak sıralayan temel algoritma.",
+        "yasakli_kelimeler": [
+          "baloncuk",
+          "bubblesort",
+          "takas",
+          "komşu",
+          "karşılaştırma"
+        ],
+        "zorluk": "kolay"
+      },
+      "replacement": "kabarcık sıralaması",
+      "reason": "Correct spelling or restore a natural complete target supported by the existing explanation; no forced word-count limit."
+    },
+    {
+      "file": "antropoloji.json",
+      "original_id": 226,
+      "before": {
+        "kategori": "antropoloji",
+        "kelime": "şanmanist ayin yapmak",
+        "aciklama": "şamanın transa geçerek ruhlar alemiyle iletişim kurduğu şifa töreni",
+        "yasakli_kelimeler": [
+          "şaman",
+          "trans",
+          "ruhlar",
+          "davul",
+          "şifa"
+        ],
+        "zorluk": "orta",
+        "id": 226
+      },
+      "replacement": "şamanist ayin yapmak",
+      "reason": "Correct spelling or restore a natural complete target supported by the existing explanation; no forced word-count limit."
+    },
+    {
+      "file": "atletizm.json",
+      "original_id": 232,
+      "before": {
+        "kategori": "atletizm",
+        "kelime": "dekalon tamamlamak",
+        "aciklama": "iki günde yapılan on farklı atletizm branşında yarışıp puan toplamak",
+        "yasakli_kelimeler": [
+          "onlu yarış",
+          "iki gün",
+          "komple atlet",
+          "puan",
+          "branş"
+        ],
+        "zorluk": "orta",
+        "id": 232
+      },
+      "replacement": "dekatlon tamamlamak",
+      "reason": "Correct spelling or restore a natural complete target supported by the existing explanation; no forced word-count limit."
+    },
+    {
+      "file": "balikcilik.json",
+      "original_id": 239,
+      "before": {
+        "kategori": "balikcilik",
+        "kelime": "flourocarbon misina kullanmak",
+        "aciklama": "suyun kırılma indisine sahip suda tamamen görünmez olan pahalı misina takmak",
+        "yasakli_kelimeler": [
+          "görünmez misina",
+          "kırılma indisi",
+          "lider misina",
+          "aşınma direnci",
+          "pahalı"
+        ],
+        "zorluk": "zor",
+        "id": 239
+      },
+      "replacement": "fluorocarbon misina kullanmak",
+      "reason": "Correct spelling or restore a natural complete target supported by the existing explanation; no forced word-count limit."
+    },
+    {
+      "file": "cerrahi.json",
+      "original_id": 1,
+      "before": {
+        "id": 1,
+        "kategori": "cerrahi",
+        "kelime": "laparatomi",
+        "aciklama": "karın içi organlara ulaşmak, tanı koymak veya cerrahi müdahale yapmak için karın duvarının cerrahi olarak açılması.",
+        "yasakli_kelimeler": [
+          "karın kesisi",
+          "batın açılması",
+          "orta hat",
+          "laparoskopi karşıtı",
+          "açık ameliyat"
+        ],
+        "zorluk": "kolay"
+      },
+      "replacement": "laparotomi",
+      "reason": "Correct spelling or restore a natural complete target supported by the existing explanation; no forced word-count limit."
+    },
+    {
+      "file": "muzikoloji.json",
+      "original_id": 1,
+      "before": {
+        "kelime": "muzikoloji",
+        "aciklama": "müziği bilimsel, tarihsel, teorik ve kültürel bağlamda inceleyen akademik disiplin.",
+        "yasakli_kelimeler": [
+          "müzik bilimi",
+          "akademik inceleme",
+          "müzik tarihi",
+          "etnomüzikoloji",
+          "müzikolog"
+        ],
+        "id": 1,
+        "kategori": "muzikoloji",
+        "zorluk": "kolay"
+      },
+      "replacement": "müzikoloji",
+      "reason": "Correct spelling or restore a natural complete target supported by the existing explanation; no forced word-count limit."
+    },
+    {
+      "file": "astronomi.json",
+      "original_id": 201,
+      "before": {
+        "kategori": "astronomi",
+        "kelime": "gözlemlemek",
+        "aciklama": "teleskopla gökyüzündeki yıldız ve gezegenleri incelemek",
+        "yasakli_kelimeler": [
+          "teleskop",
+          "yıldız",
+          "gökyüzü",
+          "gezegen",
+          "uzay"
+        ],
+        "zorluk": "kolay",
+        "id": 201
+      },
+      "replacement": "gökyüzünü gözlemlemek",
+      "reason": "Correct spelling or restore a natural complete target supported by the existing explanation; no forced word-count limit."
+    },
+    {
+      "file": "astronomi.json",
+      "original_id": 203,
+      "before": {
+        "kategori": "astronomi",
+        "kelime": "yıldız kaymak",
+        "aciklama": "atmosfere giren göktaşının sürtünmeyle ışık saçarak yanması",
+        "yasakli_kelimeler": [
+          "meteor",
+          "ışık",
+          "dilek",
+          "atmosfer",
+          "göktaşı"
+        ],
+        "zorluk": "kolay",
+        "id": 203
+      },
+      "replacement": "yıldız kayması",
+      "reason": "Correct spelling or restore a natural complete target supported by the existing explanation; no forced word-count limit."
+    },
+    {
+      "file": "astronomi.json",
+      "original_id": 209,
+      "before": {
+        "kategori": "astronomi",
+        "kelime": "keşfetmek",
+        "aciklama": "uzayda daha önce bilinmeyen yeni bir kuyruklu yıldız veya ötegezegen bulmak",
+        "yasakli_kelimeler": [
+          "ötegezegen",
+          "kuyruklu yıldız",
+          "yeni",
+          "buluş",
+          "astronot"
+        ],
+        "zorluk": "kolay",
+        "id": 209
+      },
+      "replacement": "gök cismi keşfetmek",
+      "reason": "Correct spelling or restore a natural complete target supported by the existing explanation; no forced word-count limit."
+    },
+    {
+      "file": "astronomi.json",
+      "original_id": 241,
+      "before": {
+        "kategori": "astronomi",
+        "kelime": "kozmik şişme yaşamak",
+        "aciklama": "evrenin büyük patlamanın ilk saniyesinin kesrinde ışıktan hızlı üstel genişlemesi",
+        "yasakli_kelimeler": [
+          "enflasyon",
+          "üstel genişleme",
+          "ilk an",
+          "büyük patlama",
+          "guth"
+        ],
+        "zorluk": "zor",
+        "id": 241
+      },
+      "replacement": "kozmik şişme",
+      "reason": "Correct spelling or restore a natural complete target supported by the existing explanation; no forced word-count limit."
+    },
+    {
+      "file": "astronomi.json",
+      "original_id": 248,
+      "before": {
+        "kategori": "astronomi",
+        "kelime": "tayf çizgisi yarılmak",
+        "aciklama": "güçlü manyetik alan etkisiyle atomik emisyon çizgilerinin zeeman etkisiyle bölünmesi",
+        "yasakli_kelimeler": [
+          "zeeman etkisi",
+          "manyetik alan",
+          "emisyon",
+          "yarılma",
+          "polarizasyon"
+        ],
+        "zorluk": "zor",
+        "id": 248
+      },
+      "replacement": "tayf çizgisi yarılması",
+      "reason": "Correct spelling or restore a natural complete target supported by the existing explanation; no forced word-count limit."
+    },
+    {
+      "file": "astronotik.json",
+      "original_id": 214,
+      "before": {
+        "kategori": "astronotik",
+        "kelime": "kademe ayrılmak",
+        "aciklama": "yakıtı biten roket gövdesinin ana gövdeden piroteknik kilitlerle kopması",
+        "yasakli_kelimeler": [
+          "kademe",
+          "ayrılma",
+          "boş depo",
+          "bölüm",
+          "patlama"
+        ],
+        "zorluk": "orta",
+        "id": 214
+      },
+      "replacement": null,
+      "reason": "Merge corrected/padded target into existing same-category card 106 (kademe ayrılması)."
+    },
+    {
+      "file": "astronotik.json",
+      "original_id": 216,
+      "before": {
+        "kategori": "astronotik",
+        "kelime": "kapsül ayrılmak",
+        "aciklama": "astronotları taşıyan mürettebat modülünün servis modülünden ayrılması",
+        "yasakli_kelimeler": [
+          "mürettebat",
+          "servis modülü",
+          "ayrılma",
+          "atmosfere giriş",
+          "paraşüt"
+        ],
+        "zorluk": "orta",
+        "id": 216
+      },
+      "replacement": "kapsül ayrılması",
+      "reason": "Correct spelling or restore a natural complete target supported by the existing explanation; no forced word-count limit."
+    },
+    {
+      "file": "muzikoloji.json",
+      "original_id": 202,
+      "before": {
+        "kategori": "muzikoloji",
+        "kelime": "dinlemek",
+        "aciklama": "müzikal sesleri ve ritimleri kulak vererek takip etmek",
+        "yasakli_kelimeler": [
+          "kulak",
+          "ses",
+          "şarkı",
+          "ezgi",
+          "işitmek"
+        ],
+        "zorluk": "kolay",
+        "id": 202
+      },
+      "replacement": "müzik dinlemek",
+      "reason": "Correct spelling or restore a natural complete target supported by the existing explanation; no forced word-count limit."
+    },
+    {
+      "file": "muzikoloji.json",
+      "original_id": 203,
+      "before": {
+        "kategori": "muzikoloji",
+        "kelime": "çalmak",
+        "aciklama": "bir müzik aletini kullanarak ses üretmek",
+        "yasakli_kelimeler": [
+          "enstrüman",
+          "alet",
+          "piyano",
+          "gitar",
+          "ses"
+        ],
+        "zorluk": "kolay",
+        "id": 203
+      },
+      "replacement": "enstrüman çalmak",
+      "reason": "Correct spelling or restore a natural complete target supported by the existing explanation; no forced word-count limit."
+    },
+    {
+      "file": "muzikoloji.json",
+      "original_id": 204,
+      "before": {
+        "kategori": "muzikoloji",
+        "kelime": "söylemek",
+        "aciklama": "şarkı sözlerini vokal ve melodiyle seslendirmek",
+        "yasakli_kelimeler": [
+          "şarkı",
+          "vokal",
+          "ses",
+          "söz",
+          "koro"
+        ],
+        "zorluk": "kolay",
+        "id": 204
+      },
+      "replacement": "şarkı söylemek",
+      "reason": "Correct spelling or restore a natural complete target supported by the existing explanation; no forced word-count limit."
+    },
+    {
+      "file": "muzikoloji.json",
+      "original_id": 209,
+      "before": {
+        "kategori": "muzikoloji",
+        "kelime": "derlemek",
+        "aciklama": "yörelerdeki anonim halk türkülerini köylerden toplayıp kaydetmek",
+        "yasakli_kelimeler": [
+          "türkü",
+          "halk",
+          "anonim",
+          "yöre",
+          "toplamak"
+        ],
+        "zorluk": "kolay",
+        "id": 209
+      },
+      "replacement": "türkü derlemek",
+      "reason": "Correct spelling or restore a natural complete target supported by the existing explanation; no forced word-count limit."
+    },
+    {
+      "file": "muzikoloji.json",
+      "original_id": 212,
+      "before": {
+        "kategori": "muzikoloji",
+        "kelime": "öğretmek",
+        "aciklama": "konservatuvarda nota ve enstrüman dersi vermek",
+        "yasakli_kelimeler": [
+          "konservatuvar",
+          "hoca",
+          "ders",
+          "eğitim",
+          "öğrenci"
+        ],
+        "zorluk": "kolay",
+        "id": 212
+      },
+      "replacement": "müzik öğretmek",
+      "reason": "Correct spelling or restore a natural complete target supported by the existing explanation; no forced word-count limit."
+    },
+    {
+      "file": "binicilik.json",
+      "original_id": 205,
+      "before": {
+        "kategori": "binicilik",
+        "kelime": "tıkırdatmak",
+        "aciklama": "atın sert asfaltta veya taş yolda yürürken nallarından çıkan ritmik ses",
+        "yasakli_kelimeler": [
+          "nal sesi",
+          "taş yol",
+          "yürüyüş",
+          "ses",
+          "toynak"
+        ],
+        "zorluk": "kolay",
+        "id": 205
+      },
+      "replacement": "nal sesi",
+      "reason": "Correct spelling or restore a natural complete target supported by the existing explanation; no forced word-count limit."
+    },
+    {
+      "file": "denizcilik.json",
+      "original_id": 33,
+      "before": {
+        "id": 33,
+        "kategori": "denizcilik",
+        "kelime": "taramak",
+        "aciklama": "fırtınada demirin deniz dibinde tutunamayıp sürüklenmesi durumu.",
+        "yasakli_kelimeler": [
+          "demir kayması",
+          "sürüklenme",
+          "tutunamama",
+          "çapa",
+          "dip"
+        ],
+        "zorluk": "orta"
+      },
+      "replacement": "demirin taraması",
+      "reason": "Correct spelling or restore a natural complete target supported by the existing explanation; no forced word-count limit."
+    },
+    {
+      "file": "heykeltiraslik.json",
+      "original_id": 34,
+      "before": {
+        "id": 34,
+        "kategori": "heykeltiraslik",
+        "kelime": "tohmak",
+        "aciklama": "keski veya murcun arka ucuna vurarak kontrollü darbe sağlayan ahşap ya da ağır metal heykeltıraş çekici.",
+        "yasakli_kelimeler": [
+          "çekiç",
+          "ahşap",
+          "darbe",
+          "vuruş",
+          "oyma"
+        ],
+        "zorluk": "zor"
+      },
+      "replacement": "tokmak",
+      "reason": "Correct spelling or restore a natural complete target supported by the existing explanation; no forced word-count limit."
+    },
+    {
+      "file": "saatcilik.json",
+      "original_id": 201,
+      "before": {
+        "kategori": "saatcilik",
+        "kelime": "kurmak",
+        "aciklama": "mekanik saatin tepe kolunu çevirip zembereği sıkıştırmak",
+        "yasakli_kelimeler": [
+          "tepe",
+          "zemberek",
+          "mekanik",
+          "çevirmek",
+          "çalıştırmak"
+        ],
+        "zorluk": "kolay",
+        "id": 201
+      },
+      "replacement": "saat kurmak",
+      "reason": "Correct spelling or restore a natural complete target supported by the existing explanation; no forced word-count limit."
+    },
+    {
+      "file": "sinematografi.json",
+      "original_id": 203,
+      "before": {
+        "kategori": "sinematografi",
+        "kelime": "yakınlaşmak",
+        "aciklama": "zoom lensiyle oyuncunun yüz ifadesine doğru optik yaklaşmak",
+        "yasakli_kelimeler": [
+          "zoom in",
+          "yakın çekim",
+          "lens",
+          "ifade",
+          "optik"
+        ],
+        "zorluk": "kolay",
+        "id": 203
+      },
+      "replacement": "optik yakınlaştırma",
+      "reason": "Correct spelling or restore a natural complete target supported by the existing explanation; no forced word-count limit."
+    },
+    {
+      "file": "sinematografi.json",
+      "original_id": 204,
+      "before": {
+        "kategori": "sinematografi",
+        "kelime": "uzaklaşmak",
+        "aciklama": "zoom kolunu çevirerek genel mekanı kadraja almak",
+        "yasakli_kelimeler": [
+          "zoom out",
+          "genel plan",
+          "geniş açı",
+          "mekan",
+          "kadraj"
+        ],
+        "zorluk": "kolay",
+        "id": 204
+      },
+      "replacement": "optik uzaklaştırma",
+      "reason": "Correct spelling or restore a natural complete target supported by the existing explanation; no forced word-count limit."
+    },
+    {
+      "file": "sokaklezzetleri.json",
+      "original_id": 206,
+      "before": {
+        "kategori": "sokaklezzetleri",
+        "kelime": "satmak",
+        "aciklama": "seyyar arabayla sokak sokak dolaşıp nohut pilav veya simit satmak",
+        "yasakli_kelimeler": [
+          "seyyar araba",
+          "simitçi",
+          "müşteri",
+          "para",
+          "sokak"
+        ],
+        "zorluk": "kolay",
+        "id": 206
+      },
+      "replacement": "seyyar satıcılık",
+      "reason": "Correct spelling or restore a natural complete target supported by the existing explanation; no forced word-count limit."
+    },
+    {
+      "file": "teoloji.json",
+      "original_id": 203,
+      "before": {
+        "kategori": "teoloji",
+        "kelime": "i̇nanmak",
+        "aciklama": "bir dinin, tanrının veya dogmanın varlığını şüphesiz kabul etmek.",
+        "yasakli_kelimeler": [
+          "şüphe",
+          "kabul",
+          "iman",
+          "tanrı",
+          "güven"
+        ],
+        "zorluk": "kolay",
+        "id": 203
+      },
+      "replacement": "inanmak",
+      "reason": "Correct spelling or restore a natural complete target supported by the existing explanation; no forced word-count limit."
+    },
+    {
+      "file": "ceza.json",
+      "original_id": 250,
+      "before": {
+        "kategori": "ceza",
+        "kelime": "şahsi cezasızlık ileri",
+        "aciklama": "akrabalık ilişkisi veya failin özel durumu sebebiyle suç oluşsa bile cezadan muaf tutulması",
+        "yasakli_kelimeler": [
+          "ceza verilmesine yer olmadığı",
+          "akrabalık bağı",
+          "cezayı kaldıran sebep",
+          "tck",
+          "muafiyet"
+        ],
+        "zorluk": "zor",
+        "id": 250
+      },
+      "replacement": "şahsi cezasızlık nedeni",
+      "reason": "Correct spelling or restore a natural complete target supported by the existing explanation; no forced word-count limit."
+    },
+    {
+      "file": "burokrasi.json",
+      "original_id": 243,
+      "before": {
+        "kategori": "burokrasi",
+        "kelime": "kamu zararı rücu",
+        "aciklama": "usulsüz harcama sonucu devleti zarara uğratan memurdan parayı faiziyle tahsil etmek",
+        "yasakli_kelimeler": [
+          "hazine zararı",
+          "faiziyle tahsil",
+          "zimmet",
+          "sayıştay ilamı",
+          "tazmin"
+        ],
+        "zorluk": "zor",
+        "id": 243
+      },
+      "replacement": "kamu zararının tazmini",
+      "reason": "Correct spelling or restore a natural complete target supported by the existing explanation; no forced word-count limit."
+    },
+    {
+      "file": "mekatronik.json",
+      "original_id": 248,
+      "before": {
+        "kategori": "mekatronik",
+        "kelime": "gerçek zamanlı işletim",
+        "aciklama": "kritik motor kumandalarının mikrosaniyelik gecikme dahi yaşamadan deterministik yürütülmesini sağlamak.",
+        "yasakli_kelimeler": [
+          "rtos",
+          "kesin zamanlı görev yönetimi",
+          "freertos",
+          "determinizm",
+          "öncelikli kesme"
+        ],
+        "zorluk": "zor",
+        "id": 248
+      },
+      "replacement": "gerçek zamanlı işletim sistemi",
+      "reason": "Correct spelling or restore a natural complete target supported by the existing explanation; no forced word-count limit."
+    },
+    {
+      "file": "monarsi.json",
+      "original_id": 245,
+      "before": {
+        "kategori": "monarsi",
+        "kelime": "feodal beyleri tasfiye",
+        "aciklama": "merkezi krallık otoritesini güçlendirmek için yerel derebeylerin gücünü kırmak",
+        "yasakli_kelimeler": [
+          "merkeziyetçilik",
+          "derebeyi",
+          "feodalizm",
+          "güç",
+          "kral"
+        ],
+        "zorluk": "zor",
+        "id": 245
+      },
+      "replacement": "feodal beyleri tasfiye etmek",
+      "reason": "Correct spelling or restore a natural complete target supported by the existing explanation; no forced word-count limit."
+    },
+    {
+      "file": "nanoteknoloji.json",
+      "original_id": 226,
+      "before": {
+        "kategori": "nanoteknoloji",
+        "kelime": "tem ile kesit",
+        "aciklama": "geçirimli elektron mikroskobunda elektronları numunenin içinden geçirmek",
+        "yasakli_kelimeler": [
+          "tem",
+          "geçirimli",
+          "iç yapı",
+          "atomik çözünürlük",
+          "ince kesit"
+        ],
+        "zorluk": "orta",
+        "id": 226
+      },
+      "replacement": "elektron mikroskobuyla incelemek",
+      "reason": "Correct spelling or restore a natural complete target supported by the existing explanation; no forced word-count limit."
+    },
+    {
+      "file": "zooloji.json",
+      "original_id": 250,
+      "before": {
+        "kategori": "zooloji",
+        "kelime": "uv görüşü test",
+        "aciklama": "kuşların ve böceklerin ultraviyole ışık dalga boylarını algılama kapasitesini test etmek.",
+        "yasakli_kelimeler": [
+          "ultraviyole",
+          "uv görüşü",
+          "dalga boyu",
+          "kuş gözü",
+          "fotoreseptör"
+        ],
+        "zorluk": "zor",
+        "id": 250
+      },
+      "replacement": "ultraviyole görüş",
+      "reason": "Correct spelling or restore a natural complete target supported by the existing explanation; no forced word-count limit."
+    }
+  ]
+}

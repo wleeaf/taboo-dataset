@@ -77,7 +77,7 @@ def validate_file(path, expected_category, expected_count=None):
     return True, f"Başarılı! {len(data)} kart doğrulandı, 0 tekrar, format ve küçük harf tam uyumlu."
 
 if __name__ == "__main__":
-    base_dir = "/home/taceddinsancak/Desktop/Projects/taboo/data"
+    base_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), "data")
     all_ok = True
     files = sorted(glob.glob(os.path.join(base_dir, "*.json")))
     print(f"Toplam doğrulanacak dosya: {len(files)}")
@@ -92,6 +92,20 @@ if __name__ == "__main__":
             with open(fpath, "r", encoding="utf-8") as f:
                 d = json.load(f)
                 total_card_count += len(d)
+    audit_path = os.path.join(os.path.dirname(base_dir), "audit", "cleanup-2026-09-07.json")
+    if os.path.exists(audit_path):
+        with open(audit_path, encoding="utf-8") as f:
+            actions = json.load(f)["actions"]
+        current = {}
+        for action in actions:
+            filename = action["file"]
+            if filename not in current:
+                with open(os.path.join(base_dir, filename), encoding="utf-8") as f:
+                    current[filename] = {card["kelime"] for card in json.load(f)}
+            rejected = action["before"]["kelime"]
+            if rejected != action["replacement"] and rejected in current[filename]:
+                print(f"[{filename}] Reddedilen eski hedef yeniden eklendi: {rejected}")
+                all_ok = False
     if not all_ok:
         print("Doğrulama başarısız!")
         sys.exit(1)

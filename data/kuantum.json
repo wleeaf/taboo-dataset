@@ -1,338 +1,170 @@
 [
   {
-    "id": 1,
-    "kategori": "kuantum",
-    "kelime": "süperpozisyon",
-    "aciklama": "kuantum sisteminin ölçülene kadar olası tüm durumlarda eşzamanlı bulunabilmesi ilkesi.",
+    "kelime": "kuantum fiziği",
+    "aciklama": "atom ve atom altı parçacıkları inceleyen fizik dalı.",
     "yasakli_kelimeler": [
-      "durum",
-      "ölçüm",
-      "aynı anda",
-      "çökme",
-      "olasılık"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 2,
-    "kategori": "kuantum",
-    "kelime": "kuantum dolanıklığı",
-    "aciklama": "birden fazla parçacığın aralarındaki mesafeden bağımsız olarak anlık bağlılık göstermesi.",
-    "yasakli_kelimeler": [
+      "atom",
       "parçacık",
-      "bağlantı",
-      "mesafe",
-      "spin",
+      "mekanik",
+      "teori",
       "einstein"
     ],
-    "zorluk": "kolay"
+    "zorluk": "orta",
+    "id": 1,
+    "kategori": "kuantum"
   },
   {
+    "kelime": "kuantum bilgisayarı",
+    "aciklama": "kübitler ile çalışan süper hızlı işlemci sistemi.",
+    "yasakli_kelimeler": [
+      "kübit",
+      "hesaplama",
+      "teknoloji",
+      "işlemci",
+      "hızlı"
+    ],
+    "zorluk": "zor",
+    "id": 2,
+    "kategori": "kuantum"
+  },
+  {
+    "kelime": "kuantum dolanıklığı",
+    "aciklama": "parçacıkların birbirinden bağımsız hareket edememesi durumu.",
+    "yasakli_kelimeler": [
+      "parçacık",
+      "einstein",
+      "mesafe",
+      "bağlantı",
+      "spin"
+    ],
+    "zorluk": "zor",
     "id": 3,
-    "kategori": "kuantum",
+    "kategori": "kuantum"
+  },
+  {
     "kelime": "belirsizlik ilkesi",
-    "aciklama": "parçacığın konumunun ve momentumunun eşzamanlı kesin doğrulukla bilinemeyeceğini kuralı.",
+    "aciklama": "parçacığın konumu ve hızının aynı anda bilinememesi kuralı.",
     "yasakli_kelimeler": [
       "heisenberg",
       "konum",
-      "momentum",
       "hız",
-      "ölçüm"
+      "ölçüm",
+      "parçacık"
     ],
-    "zorluk": "kolay"
-  },
-  {
+    "zorluk": "zor",
     "id": 4,
-    "kategori": "kuantum",
-    "kelime": "kübit",
-    "aciklama": "eşzamanlı sıfır ve bir durumlarının süperpozisyonunda bulunabilen kuantum bilgi birimi.",
-    "yasakli_kelimeler": [
-      "bit",
-      "sıfır",
-      "bir",
-      "bilgi",
-      "bilgisayar"
-    ],
-    "zorluk": "kolay"
+    "kategori": "kuantum"
   },
   {
-    "id": 5,
-    "kategori": "kuantum",
-    "kelime": "fotoelektrik etki",
-    "aciklama": "bir metal yüzeye çarpan fotonların yüzeyden elektron sökmesi olayı.",
-    "yasakli_kelimeler": [
-      "elektron",
-      "foton",
-      "ışık",
-      "metal",
-      "iş fonksiyonu"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 6,
-    "kategori": "kuantum",
     "kelime": "foton",
-    "aciklama": "ışığın ve elektromanyetik radyasyonun temel kuantumu olan kütlesiz enerji paketi.",
+    "aciklama": "ışığın temel yapı taşı olan enerji paketi.",
     "yasakli_kelimeler": [
       "ışık",
-      "kuantum",
+      "dalga",
+      "tanecik",
       "enerji",
-      "parçacık",
-      "dalga"
+      "parçacık"
     ],
-    "zorluk": "kolay"
+    "zorluk": "orta",
+    "id": 5,
+    "kategori": "kuantum"
   },
   {
-    "id": 7,
-    "kategori": "kuantum",
     "kelime": "kuark",
-    "aciklama": "hadronları, protonları ve nötronları oluşturan kesirli elektrik yüküne parçacığı.",
+    "aciklama": "atom çekirdeğindeki proton ve nötronu oluşturan temel parçacık.",
     "yasakli_kelimeler": [
-      "hadron",
       "proton",
       "nötron",
-      "çeşni",
-      "parçacık"
+      "çekirdek",
+      "parçacık",
+      "atom"
     ],
-    "zorluk": "kolay"
+    "zorluk": "zor",
+    "id": 6,
+    "kategori": "kuantum"
   },
   {
-    "id": 8,
-    "kategori": "kuantum",
     "kelime": "higgs bozonu",
-    "aciklama": "diğer temel parçacıklara higgs alanı ile etkileşerek kütle bozon.",
+    "aciklama": "parçacıklara kütle kazandırdığı düşünülen tanrı parçacığı.",
     "yasakli_kelimeler": [
-      "kütle",
-      "alan",
+      "tanrı parçacığı",
       "cern",
-      "skaler",
-      "parçacık"
+      "kütle",
+      "atom",
+      "bozon"
     ],
-    "zorluk": "kolay"
+    "zorluk": "zor",
+    "id": 7,
+    "kategori": "kuantum"
   },
   {
-    "id": 9,
-    "kategori": "kuantum",
-    "kelime": "kuantum ışınlama",
-    "aciklama": "parçacığın bilinmeyen kuantum durumunun dolanıklık ve klasik kanal aktarımı.",
-    "yasakli_kelimeler": [
-      "ışınlama",
-      "dolanıklık",
-      "durum",
-      "aktarım",
-      "teleportasyon"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 10,
-    "kategori": "kuantum",
     "kelime": "süperiletkenlik",
-    "aciklama": "bazı maddelerin kritik sıcaklığın altında elektriksel dirençlerini tamamen sıfırlaması durumu.",
+    "aciklama": "elektriksel direncin sıfıra indiği fiziksel iletkenlik durumu.",
     "yasakli_kelimeler": [
       "direnç",
+      "elektrik",
       "sıfır",
-      "kritik sıcaklık",
-      "akım",
-      "iletkenlik"
+      "soğuk",
+      "iletken"
     ],
-    "zorluk": "kolay"
+    "zorluk": "orta",
+    "id": 8,
+    "kategori": "kuantum"
   },
   {
-    "id": 11,
-    "kategori": "kuantum",
-    "kelime": "pozitron",
-    "aciklama": "elektron ile aynı kütleye ve spine ancak pozitif parçacığı.",
-    "yasakli_kelimeler": [
-      "antimadde",
-      "elektron",
-      "pozitif",
-      "yük",
-      "yok oluş"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 12,
-    "kategori": "kuantum",
-    "kelime": "çift yarık deneyi",
-    "aciklama": "ışığın veya elektronların iki yarıktan geçerek girişim deseni deney.",
-    "yasakli_kelimeler": [
-      "girişim",
-      "elektron",
-      "yarık",
-      "desen",
-      "dalga parçacık"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 13,
-    "kategori": "kuantum",
-    "kelime": "kuantum fiziği",
-    "aciklama": "atom ve atom altı parçacıkların dalga-parçacık ikiliği ve dalı.",
-    "yasakli_kelimeler": [
-      "modern fizik",
-      "atom altı",
-      "olasılık",
-      "foton elektron",
-      "mikro alem"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 14,
-    "kategori": "kuantum",
-    "kelime": "kuantum mekaniği",
-    "aciklama": "klasik newton mekaniğinin yetersiz kaldığı mikroskobik ölçekte enerjinin kuram.",
-    "yasakli_kelimeler": [
-      "kesikli paket",
-      "kuram",
-      "mikroskobik ölçek",
-      "enerji seviyesi",
-      "klasik fizik karşıtı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 15,
-    "kategori": "kuantum",
-    "kelime": "kuantum bilgisayarı",
-    "aciklama": "verileri sıfır ve bir yerine süperpozisyon ve dolanıklık makine.",
-    "yasakli_kelimeler": [
-      "kübit",
-      "süperpozisyon",
-      "hesaplama gücü",
-      "dolanıklık",
-      "ibm"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 16,
-    "kategori": "kuantum",
     "kelime": "teleportasyon",
-    "aciklama": "maddenin kendisini değil, bir parçacığın bilinmeyen kuantum durum aktarma.",
+    "aciklama": "maddenin veya bilginin bir anda başka yere aktarılması.",
     "yasakli_kelimeler": [
-      "durum aktarımı",
-      "ışınlama",
-      "bilgi iletimi",
-      "dolanıklık kanalı",
-      "klonlama olmadan"
+      "ışınlanma",
+      "aktarım",
+      "uzay",
+      "anlık",
+      "bilimkurgu"
     ],
-    "zorluk": "kolay"
+    "zorluk": "kolay",
+    "id": 9,
+    "kategori": "kuantum"
   },
   {
-    "id": 17,
-    "kategori": "kuantum",
-    "kelime": "dalga ikiliği",
-    "aciklama": "ışığın ve elektron gibi mikro parçacıkların deneyin şartlarına prensibi.",
-    "yasakli_kelimeler": [
-      "dalga ve tanecik",
-      "çift karakter",
-      "de broglie",
-      "ışık ve madde",
-      "ikili doğa"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 18,
-    "kategori": "kuantum",
     "kelime": "sicim teorisi",
-    "aciklama": "tüm temel parçacıkların noktasal değil, farklı frekanslarda titreşen kuram.",
+    "aciklama": "evrendeki her şeyi titreşen iplikçiklerle açıklayan fizik kuramı.",
     "yasakli_kelimeler": [
-      "titreşen teller",
-      "on bir boyut",
-      "noktasal olmayan",
-      "zar",
-      "iplikçik"
+      "boyut",
+      "tel",
+      "fizik",
+      "evren",
+      "titreşim"
     ],
-    "zorluk": "kolay"
+    "zorluk": "zor",
+    "id": 10,
+    "kategori": "kuantum"
   },
   {
-    "id": 19,
-    "kategori": "kuantum",
     "kelime": "lazer ışını",
-    "aciklama": "tüm fotonları aynı dalga boyunda, aynı fazda ve ışık.",
+    "aciklama": "tek dalga boyunda yoğunlaştırılmış güçlü ışık huzmesi.",
     "yasakli_kelimeler": [
-      "koherent ışık",
-      "aynı faz",
-      "tek renk",
-      "uyarılmış ışıma",
-      "odaklanmış ışın"
+      "ışık",
+      "optik",
+      "kırmızı",
+      "ışın",
+      "odak"
     ],
-    "zorluk": "kolay"
+    "zorluk": "kolay",
+    "id": 11,
+    "kategori": "kuantum"
   },
   {
-    "id": 20,
-    "kategori": "kuantum",
-    "kelime": "enerji seviyesi",
-    "aciklama": "kuantum mekaniğinde bir atom veya moleküle hapsolmuş elektronun basamağı.",
-    "yasakli_kelimeler": [
-      "basamak",
-      "kesikli değer",
-      "kuantize enerji",
-      "elektron yörüngesi",
-      "seviye"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 21,
-    "kategori": "kuantum",
     "kelime": "yarı iletken",
-    "aciklama": "küçük bir enerji verilmesiyle valans bandından iletkenlik bandına madde.",
+    "aciklama": "elektrik iletkenliği dış etkiyle değişebilen elektronik malzeme.",
     "yasakli_kelimeler": [
       "silikon",
-      "çip malzemesi",
-      "orta bant aralığı",
-      "germanyum",
-      "transistör"
+      "çip",
+      "elektronik",
+      "devre",
+      "iletken"
     ],
-    "zorluk": "kolay"
-  },
-  {
-    "kategori": "kuantum",
-    "kelime": "ışık saçmak",
-    "aciklama": "enerji alarak çevreye ışık tanecikleri yaymak.",
-    "yasakli_kelimeler": [
-      "foton",
-      "parlamak",
-      "lamba",
-      "aydınlatma",
-      "ışıma"
-    ],
-    "zorluk": "kolay",
-    "id": 22
-  },
-  {
-    "kategori": "kuantum",
-    "kelime": "enerji yaymak",
-    "aciklama": "bünyesindeki enerjiyi dış ortama dalga veya parçacık olarak vermek.",
-    "yasakli_kelimeler": [
-      "radyasyon",
-      "ısı",
-      "dalga",
-      "foton",
-      "salınım"
-    ],
-    "zorluk": "kolay",
-    "id": 23
-  },
-  {
-    "kategori": "kuantum",
-    "kelime": "soğurmak",
-    "aciklama": "gelen ışık ve foton enerjisini bünyesine alarak üst seviyeye çıkmak.",
-    "yasakli_kelimeler": [
-      "absorbe etmek",
-      "enerji çekme",
-      "foton yutma",
-      "içine alma",
-      "tutma"
-    ],
-    "zorluk": "kolay",
-    "id": 24
+    "zorluk": "orta",
+    "id": 12,
+    "kategori": "kuantum"
   }
 ]

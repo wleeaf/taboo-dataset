@@ -3,7 +3,7 @@
     "id": 1,
     "kategori": "psikoloji",
     "kelime": "savunma mekanizması",
-    "aciklama": "ve içsel çatışmalarla başa çıkmak için kullandığı bilinçdışı psikolojik strateji.",
+    "aciklama": "egoyu korumak ve kaygıyı azaltmak için geliştirilen bilinçdışı tepkiler.",
     "yasakli_kelimeler": [
       "ego",
       "kaygı",
@@ -17,7 +17,7 @@
     "id": 2,
     "kategori": "psikoloji",
     "kelime": "bilinçdışı",
-    "aciklama": "ancak düşünce ve davranışları derinden etkileyen anı ve dürtüler alanı.",
+    "aciklama": "farkında olunmayan ancak davranışları yönlendiren zihinsel derin alan.",
     "yasakli_kelimeler": [
       "freud",
       "farkındalık",
@@ -45,7 +45,7 @@
     "id": 4,
     "kategori": "psikoloji",
     "kelime": "kolektif bilinçdışı",
-    "aciklama": "evrimsel ve kültürel geçmişinden miras kalan en derin psişik katman.",
+    "aciklama": "tüm insanlığın ortak hafızasından aktarılan evrensel zihinsel katman.",
     "yasakli_kelimeler": [
       "jung",
       "ortak",
@@ -59,7 +59,7 @@
     "id": 5,
     "kategori": "psikoloji",
     "kelime": "öğrenilmiş çaresizlik",
-    "aciklama": "durumlara maruz kalan canlının durumu değiştirebileceği fırsatta dahi eylemsiz kalması.",
+    "aciklama": "sürekli başarısızlık sonucu kişinin değiştirebileceği durumlarda bile pes etmesi.",
     "yasakli_kelimeler": [
       "seligman",
       "köpek",
@@ -100,20 +100,6 @@
   {
     "id": 8,
     "kategori": "psikoloji",
-    "kelime": "bystander etkisi",
-    "aciklama": "çok tanık varsa bireylerin yardım etme olasılığının o kadar azalması.",
-    "yasakli_kelimeler": [
-      "seyirci",
-      "yardım",
-      "sorumluluk",
-      "acil durum",
-      "tanık"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 9,
-    "kategori": "psikoloji",
     "kelime": "milgram deneyi",
     "aciklama": "otorite figürünün emirlerine vicdanlarına rağmen ne kadar uyduklarını ölçen deney.",
     "yasakli_kelimeler": [
@@ -126,21 +112,21 @@
     "zorluk": "kolay"
   },
   {
-    "id": 10,
+    "id": 9,
     "kategori": "psikoloji",
-    "kelime": "stanford hapishane deneyi",
-    "aciklama": "mahkum rolleri verildiğinde sosyal rollerin davranışları nasıl vahşileştirdiğini gösteren deney.",
+    "kelime": "hapishane deneyi",
+    "aciklama": "gardiyan ve mahkum rollerinin insan psikolojisini nasıl değiştirdiğini gösteren deney.",
     "yasakli_kelimeler": [
       "zimbardo",
       "gardiyan",
       "mahkum",
       "rol",
-      "hapishane"
+      "üniversite"
     ],
     "zorluk": "kolay"
   },
   {
-    "id": 11,
+    "id": 10,
     "kategori": "psikoloji",
     "kelime": "ihtiyaçlar hiyerarşisi",
     "aciklama": "maslow'un insan gereksinimlerini fizyolojik ihtiyaçlardan kendini gerçekleştirmeye doğru piramitleştirdiği model.",
@@ -154,10 +140,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 12,
+    "id": 11,
     "kategori": "psikoloji",
     "kelime": "kendini gerçekleştirme",
-    "aciklama": "olduğu potansiyeli en üst düzeyde kullanması ve özüne ulaşması ideali.",
+    "aciklama": "bireyin doğuştan getirdiği gizil yetenekleri en üst düzeyde kullanması.",
     "yasakli_kelimeler": [
       "potansiyel",
       "maslow",
@@ -168,7 +154,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 13,
+    "id": 12,
     "kategori": "psikoloji",
     "kelime": "ayna nöron",
     "aciklama": "yaparken veya başkasının yaptığını izlerken aynı anda ateşlenen beyin hücreleri.",
@@ -182,10 +168,10 @@
     "zorluk": "zor"
   },
   {
-    "id": 14,
+    "id": 13,
     "kategori": "psikoloji",
     "kelime": "empati",
-    "aciklama": "düşüncelerini ve hissettiklerini anlama yeteneği.",
+    "aciklama": "karşıdaki insanın hislerini ve düşüncelerini onun gözünden anlama becerisi.",
     "yasakli_kelimeler": [
       "anlama",
       "duygu",
@@ -196,7 +182,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 15,
+    "id": 14,
     "kategori": "psikoloji",
     "kelime": "duygusal zeka",
     "aciklama": "yönetme ve sağlıklı iletişim kurma kapasitesi.",
@@ -210,21 +196,21 @@
     "zorluk": "kolay"
   },
   {
-    "id": 16,
+    "id": 15,
     "kategori": "psikoloji",
-    "kelime": "bilişsel davranışçı terapi",
-    "aciklama": "kalıplarını belirleyip değiştirerek duygusal ve davranışsal iyileşme sağlayan psikoterapi ekolü.",
+    "kelime": "davranışçı terapi",
+    "aciklama": "olumsuz düşünce kalıplarını ve zararlı davranışları değiştirmeyi hedefleyen terapi.",
     "yasakli_kelimeler": [
+      "bdt",
       "düşünce",
-      "psikoterapi",
-      "şema",
       "davranış",
-      "inanç"
+      "seans",
+      "psikolog"
     ],
     "zorluk": "zor"
   },
   {
-    "id": 17,
+    "id": 16,
     "kategori": "psikoloji",
     "kelime": "serbest çağrışım",
     "aciklama": "gelen her şeyi sansürsüz ve filtresiz olarak sesli aktarması tekniği.",
@@ -238,7 +224,7 @@
     "zorluk": "zor"
   },
   {
-    "id": 18,
+    "id": 17,
     "kategori": "psikoloji",
     "kelime": "özsaygı",
     "aciklama": "kendini benimseme ve genel benlik algısına ilişkin olumlu tutumu.",
@@ -252,7 +238,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 19,
+    "id": 18,
     "kategori": "psikoloji",
     "kelime": "özyeterlilik",
     "aciklama": "kişinin belirli görevi veya hedefi başarıyla tamamlayabileceğine dair kendi inancı.",
@@ -266,7 +252,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 20,
+    "id": 19,
     "kategori": "psikoloji",
     "kelime": "dışadönüklük",
     "aciklama": "girişken ve dış dünyaya açık kişilik özelliği.",
@@ -280,7 +266,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 21,
+    "id": 20,
     "kategori": "psikoloji",
     "kelime": "içedönüklük",
     "aciklama": "sakin ve derin içsel dünyasına odaklanan kişilik niteliği.",
@@ -294,21 +280,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 22,
-    "kategori": "psikoloji",
-    "kelime": "dunning kruger etkisi",
-    "aciklama": "uzmanların ise kendilerini küçümsemesi eğilimi.",
-    "yasakli_kelimeler": [
-      "cehalet",
-      "özgüven",
-      "yetersizlik",
-      "abartı",
-      "uzman"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 23,
+    "id": 21,
     "kategori": "psikoloji",
     "kelime": "doğrulama yanlılığı",
     "aciklama": "mevcut inanç ve görüşlerini destekleyen kanıtları arayıp diğerlerini yok sayması.",
@@ -322,7 +294,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 24,
+    "id": 22,
     "kategori": "psikoloji",
     "kelime": "dürtü kontrolü",
     "aciklama": "veya tepkiyi uzun vadeli hedefler ve mantık uğruna baskılayabilme becerisi.",
@@ -336,7 +308,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 25,
+    "id": 23,
     "kategori": "psikoloji",
     "kelime": "marshmallow deneyi",
     "aciklama": "çocukların hazzı erteleme becerilerini ve bunun gelecekteki başarılarını inceleyen deneyi.",
@@ -350,7 +322,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 26,
+    "id": 24,
     "kategori": "psikoloji",
     "kelime": "hazzı erteleme",
     "aciklama": "anlamlı gelecekteki ödül uğruna anlık küçük doyumdan gönüllü olarak vazgeçme.",
@@ -364,10 +336,10 @@
     "zorluk": "orta"
   },
   {
-    "id": 27,
+    "id": 25,
     "kategori": "psikoloji",
     "kelime": "içsel motivasyon",
-    "aciklama": "olmaksızın sadece yapmaktan keyif aldığı ve ilgi duyduğu için sürdürme.",
+    "aciklama": "dışarıdan ödül beklemeden yalnızca öğrenme ve keşfetme arzusu duyma.",
     "yasakli_kelimeler": [
       "merak",
       "keyif",
@@ -378,7 +350,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 28,
+    "id": 26,
     "kategori": "psikoloji",
     "kelime": "dışsal motivasyon",
     "aciklama": "övgü gibi ödülü almak ya da cezadan kaçmak için yapma.",
@@ -392,7 +364,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 29,
+    "id": 27,
     "kategori": "psikoloji",
     "kelime": "katarsis",
     "aciklama": "drama veya konuşma ile dışa vurularak ruhsal arınma sağlanması.",
@@ -406,7 +378,7 @@
     "zorluk": "zor"
   },
   {
-    "id": 30,
+    "id": 28,
     "kategori": "psikoloji",
     "kelime": "yansıtma",
     "aciklama": "dürtü ve kusurları başkalarında varmış gibi atfetmesi savunması.",
@@ -420,7 +392,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 31,
+    "id": 29,
     "kategori": "psikoloji",
     "kelime": "bastırma",
     "aciklama": "düşünce veya travmatik anıların bilinçten zorla uzaklaştırılması.",
@@ -434,7 +406,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 32,
+    "id": 30,
     "kategori": "psikoloji",
     "kelime": "id",
     "aciklama": "cinsellik ve saldırganlık dürtüleriyle haz ilkesine göre çalışan ilkel benlik.",
@@ -448,7 +420,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 33,
+    "id": 31,
     "kategori": "psikoloji",
     "kelime": "ego",
     "aciklama": "kuralları arasında denge kurarak gerçeklik ilkesine göre çalışan mantıklı benlik.",
@@ -462,7 +434,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 34,
+    "id": 32,
     "kategori": "psikoloji",
     "kelime": "süperego",
     "aciklama": "ve ideal benliği temsil ederek egoyu kusursuzluğa zorlayan üst benlik.",
@@ -476,7 +448,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 35,
+    "id": 33,
     "kategori": "psikoloji",
     "kelime": "libido",
     "aciklama": "yaşamsal ve cinsel faaliyetlerini besleyen temel psişik yaşam enerjisi.",
@@ -490,7 +462,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 36,
+    "id": 34,
     "kategori": "psikoloji",
     "kelime": "oedipus kompleksi",
     "aciklama": "aşk duyup babasını kıskanarak ona karşı gizli rekabet hissetmesi karmaşası.",
@@ -504,7 +476,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 37,
+    "id": 35,
     "kategori": "psikoloji",
     "kelime": "elektra kompleksi",
     "aciklama": "aşırı hayranlık duyup anneyi rakip olarak algıladığı psikoseksüel gelişim karmaşası.",
@@ -518,7 +490,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 38,
+    "id": 36,
     "kategori": "psikoloji",
     "kelime": "persona",
     "aciklama": "başkalarına hoş görünmek için taktığı sosyal maske ve yapay rol.",
@@ -532,7 +504,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 39,
+    "id": 37,
     "kategori": "psikoloji",
     "kelime": "gestalt",
     "aciklama": "toplamından çok daha farklı ve anlamlı olduğunu savunan algı ekolü.",
@@ -546,7 +518,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 40,
+    "id": 38,
     "kategori": "psikoloji",
     "kelime": "panik atak",
     "aciklama": "korkusuyla aniden başlayan yoğun ve dehşet verici fiziksel kriz nöbeti.",
@@ -560,7 +532,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 41,
+    "id": 39,
     "kategori": "psikoloji",
     "kelime": "panik bozukluk",
     "aciklama": "ve sürekli yine atak gelecek mi şeklinde yaşanan beklenti anksiyetesi.",
@@ -574,7 +546,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 42,
+    "id": 40,
     "kategori": "psikoloji",
     "kelime": "agorafobi",
     "aciklama": "köprülerde veya açık alanlarda bulunma korkusu.",
@@ -588,7 +560,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 43,
+    "id": 41,
     "kategori": "psikoloji",
     "kelime": "klostrofobi",
     "aciklama": "dar kapalı odalarda nefessiz kalıp sıkışma hissiyle yaşanan aşırı korku.",
@@ -602,7 +574,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 44,
+    "id": 42,
     "kategori": "psikoloji",
     "kelime": "sosyal fobi",
     "aciklama": "veya yemek yerken başkaları tarafından rezil ve aptal görünme dehşeti.",
@@ -616,7 +588,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 45,
+    "id": 43,
     "kategori": "psikoloji",
     "kelime": "anksiyete",
     "aciklama": "huzursuzluk ve iç daralması.",
@@ -630,7 +602,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 46,
+    "id": 44,
     "kategori": "psikoloji",
     "kelime": "depresyon",
     "aciklama": "enerji kaybı ve umutsuzlukla karakterize en yaygın duygu durum bozukluğu.",
@@ -644,21 +616,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 47,
-    "kategori": "psikoloji",
-    "kelime": "majör depresyon",
-    "aciklama": "intihar düşünceleri ve ağır uyku bozukluğu getiren klinik depresyon.",
-    "yasakli_kelimeler": [
-      "klinik depresyon",
-      "ağır çökkünlük",
-      "anhedoni",
-      "işlev kaybı",
-      "psikiyatrik tanı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 48,
+    "id": 45,
     "kategori": "psikoloji",
     "kelime": "bipolar bozukluk",
     "aciklama": "mani dönemi ile koyu hüzünlü depresyon dönemleri arasında gidip gelmesi.",
@@ -672,7 +630,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 49,
+    "id": 46,
     "kategori": "psikoloji",
     "kelime": "şizofreni",
     "aciklama": "olmayan sesler duyma ve tuhaf hezeyanlarla seyreden kronik psikotik hastalık.",
@@ -686,7 +644,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 50,
+    "id": 47,
     "kategori": "psikoloji",
     "kelime": "hezeyan",
     "aciklama": "takip edildiğine veya peygamber olduğuna inanma gibi yanlış inanç.",
@@ -700,7 +658,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 51,
+    "id": 48,
     "kategori": "psikoloji",
     "kelime": "halüsinasyon",
     "aciklama": "yokken kulağa sesler gelmesi veya gözün önüne hayaller görünmesi durumu.",
@@ -714,7 +672,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 52,
+    "id": 49,
     "kategori": "psikoloji",
     "kelime": "paranoya",
     "aciklama": "takip edildiğine ve kendisine zarar verilmek istendiğine dair aşırı şüphecilik.",
@@ -728,24 +686,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 53,
-    "kategori": "psikoloji",
-    "kelime": "narsisizm",
-    "aciklama": "övgü bekleme ve başkalarını çıkarları için sömürerek empati duymama hali.",
-    "yasakli_kelimeler": [
-      "özseverlik",
-      "kendini üstün görme",
-      "empati yoksunluğu",
-      "sürekli hayranlık arayışı",
-      "kibir"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 54,
+    "id": 50,
     "kategori": "psikoloji",
     "kelime": "narsist",
-    "aciklama": "eleştiriye tahammülü olmayan ve insanları kendi egosu için kullanan kimse.",
+    "aciklama": "kendini aşırı beğenen ve başkalarını çıkarları için kullanan bencil kişi.",
     "yasakli_kelimeler": [
       "kendini beğenen",
       "egoist",
@@ -756,7 +700,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 55,
+    "id": 51,
     "kategori": "psikoloji",
     "kelime": "borderline",
     "aciklama": "öfke patlamaları ve ilişkilerinde siyah beyaz uçlarda yaşayan kişilik bozukluğu.",
@@ -770,7 +714,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 56,
+    "id": 52,
     "kategori": "psikoloji",
     "kelime": "antisosyal kişilik",
     "aciklama": "suç işlemekten ve yalan söylemekten pişmanlık duymayan yapı.",
@@ -784,7 +728,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 57,
+    "id": 53,
     "kategori": "psikoloji",
     "kelime": "psikopati",
     "aciklama": "manipülatif ve acımasız davranışlar sergileme sendromu.",
@@ -798,7 +742,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 58,
+    "id": 54,
     "kategori": "psikoloji",
     "kelime": "sosyopati",
     "aciklama": "kötü çevre etkisiyle sonradan gelişen dürtüsel ve saldırgan kural tanımazlık.",
@@ -812,7 +756,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 59,
+    "id": 55,
     "kategori": "psikoloji",
     "kelime": "obsesyon",
     "aciklama": "büyük sıkıntı ve kaygı yaratan takıntılı saplantılı düşünce ve imgeler.",
@@ -826,7 +770,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 60,
+    "id": 56,
     "kategori": "psikoloji",
     "kelime": "kompulsiyon",
     "aciklama": "kez el yıkamak veya kapıyı defalarca kilitlemek gibi zorlantılı eylem.",
@@ -840,7 +784,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 61,
+    "id": 57,
     "kategori": "psikoloji",
     "kelime": "takıntı",
     "aciklama": "tekrarlanan ve kişiye saçma gelse bile yapmaktan kendini alamadığı alışkanlık.",
@@ -854,7 +798,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 62,
+    "id": 58,
     "kategori": "psikoloji",
     "kelime": "travma",
     "aciklama": "gibi bireyin ruhsal başa çıkma kapasitesini aşan derin psikolojik yara.",
@@ -868,7 +812,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 63,
+    "id": 59,
     "kategori": "psikoloji",
     "kelime": "akıl sağlığı",
     "aciklama": "stresle baş edebildiği ve toplumla uyumlu olduğu ruhsal iyilik hali.",
@@ -882,7 +826,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 64,
+    "id": 60,
     "kategori": "psikoloji",
     "kelime": "tükenmişlik",
     "aciklama": "duygusal yük altında kalarak enerjinin tükenmesi ve işten kopma sendromu.",
@@ -896,7 +840,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 65,
+    "id": 61,
     "kategori": "psikoloji",
     "kelime": "serotonin",
     "aciklama": "duygudurum dengesi ve uyku düzenini sağlayan popüler nörotransmitter.",
@@ -910,7 +854,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 66,
+    "id": 62,
     "kategori": "psikoloji",
     "kelime": "dopamin",
     "aciklama": "bağımlılık döngülerinde salgılanarak kişiyi hedefine koşmaya teşvik eden beyin kimyasalı.",
@@ -924,7 +868,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 67,
+    "id": 63,
     "kategori": "psikoloji",
     "kelime": "endorfin",
     "aciklama": "ürettiği doğal morfin benzeri ağrı kesici ve neşe verici kimyasal.",
@@ -938,7 +882,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 68,
+    "id": 64,
     "kategori": "psikoloji",
     "kelime": "plasebo etkisi",
     "aciklama": "bulunmayan sahte şeker hapının hastanın sadece iyileşme inancı sayesinde iyileştirmesi.",
@@ -952,7 +896,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 69,
+    "id": 65,
     "kategori": "psikoloji",
     "kelime": "hipnoz",
     "aciklama": "benzeri dikkat odaklanması durumu olup telkine aşırı açık hale gelme.",
@@ -966,7 +910,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 70,
+    "id": 66,
     "kategori": "psikoloji",
     "kelime": "telkin",
     "aciklama": "inancı veya davranışı kişinin zihnine eleştirel süzgeçten geçirmeden aşılama süreci.",
@@ -980,7 +924,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 71,
+    "id": 67,
     "kategori": "psikoloji",
     "kelime": "psikanaliz",
     "aciklama": "danışanı divana yatırarak rüyalarını ve bilinçdışı çatışmalarını inceleyen terapi ekolü.",
@@ -994,7 +938,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 72,
+    "id": 68,
     "kategori": "psikoloji",
     "kelime": "grup terapisi",
     "aciklama": "sorunları olan danışanların terapist liderliğinde çember oluşturup paylaştığı tedavi seansı.",
@@ -1008,7 +952,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 73,
+    "id": 69,
     "kategori": "psikoloji",
     "kelime": "aile terapisi",
     "aciklama": "sisteminin iletişim dinamikleri ve rolleri çerçevesinde ele alan seans türü.",
@@ -1022,7 +966,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 74,
+    "id": 70,
     "kategori": "psikoloji",
     "kelime": "çift terapisi",
     "aciklama": "olan çiftlerin aralarındaki çatışmaları çözüp iletişimi güçlendirmek için katıldığı seans.",
@@ -1036,7 +980,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 75,
+    "id": 71,
     "kategori": "psikoloji",
     "kelime": "oyun terapisi",
     "aciklama": "anlatamadıkları içsel çatışma ve travmalarını oyuncaklar ile ifade ettiği terapi.",
@@ -1050,7 +994,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 76,
+    "id": 72,
     "kategori": "psikoloji",
     "kelime": "sanat terapisi",
     "aciklama": "sanatsal yaratıcılığı kullanarak bastırılmış duyguları ve travmaları dışa vurma yöntemi.",
@@ -1064,7 +1008,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 77,
+    "id": 73,
     "kategori": "psikoloji",
     "kelime": "farkındalık",
     "aciklama": "şekilde tam olarak şimdiki ana ve bedensel duyumlara odaklama becerisi.",
@@ -1078,7 +1022,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 78,
+    "id": 74,
     "kategori": "psikoloji",
     "kelime": "meditasyon",
     "aciklama": "veya mantraya odaklanarak zihindeki karmaşık düşünceleri sakinleştirme ve durultma pratiği.",
@@ -1092,7 +1036,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 79,
+    "id": 75,
     "kategori": "psikoloji",
     "kelime": "rem uykusu",
     "aciklama": "kasların felç olduğu ve en canlı rüyaların görüldüğü uyku evresi.",
@@ -1106,10 +1050,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 80,
+    "id": 76,
     "kategori": "psikoloji",
     "kelime": "uyurgezerlik",
-    "aciklama": "kişinin yataktan kalkıp şuursuzca evin içinde yürümesiyle beliren uyku bozukluğu.",
+    "aciklama": "uyku esnasında yataktan kalkıp şuursuzca gezinme durumu.",
     "yasakli_kelimeler": [
       "uykuda yürüme",
       "uykuda kalkma",
@@ -1120,7 +1064,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 81,
+    "id": 77,
     "kategori": "psikoloji",
     "kelime": "karabasan",
     "aciklama": "zihnin uyanık olmasına rağmen bedenin hiçbir kasını hareket ettirememe korkusu.",
@@ -1134,7 +1078,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 82,
+    "id": 78,
     "kategori": "psikoloji",
     "kelime": "uyku felci",
     "aciklama": "anında birkaç saniye devam etmesiyle oluşan tıbbi geçici kımıldayamama durumu.",
@@ -1148,7 +1092,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 83,
+    "id": 79,
     "kategori": "psikoloji",
     "kelime": "uykusuzluk",
     "aciklama": "türlü uykuya dalamama veya gece sürekli uyanarak kronik dinlenememe sorunu.",
@@ -1162,7 +1106,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 84,
+    "id": 80,
     "kategori": "psikoloji",
     "kelime": "rüya tabiri",
     "aciklama": "rüyalardaki metafor ve sembollerin bilinçdışı arzular veya gelecek açısından yorumlanması.",
@@ -1176,7 +1120,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 85,
+    "id": 81,
     "kategori": "psikoloji",
     "kelime": "deja vu",
     "aciklama": "yeni mekanı daha önce tıpatıp aynı şekilde yaşamış olma hissi.",
@@ -1190,7 +1134,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 86,
+    "id": 82,
     "kategori": "psikoloji",
     "kelime": "psikolojik manipülasyon",
     "aciklama": "hafızasından şüphe etmesini sağlayarak onu kontrol altına alma psikolojik oyunu.",
@@ -1204,7 +1148,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 87,
+    "id": 83,
     "kategori": "psikoloji",
     "kelime": "mobbing",
     "aciklama": "aşağılama ve istifaya zorlama psikolojik tacizi.",
@@ -1218,21 +1162,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 88,
-    "kategori": "psikoloji",
-    "kelime": "yas süreci",
-    "aciklama": "depresyon ve kabullenme aşamalarından geçen keder dönemi.",
-    "yasakli_kelimeler": [
-      "kübler ross",
-      "kayıp sonrası acı",
-      "beş aşama",
-      "inkar ve kabullenme",
-      "keder"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 89,
+    "id": 84,
     "kategori": "psikoloji",
     "kelime": "psikolojik sağlamlık",
     "aciklama": "ve yenilgilerin ardından esneyip hızla toparlanarak hayata devam edebilme gücü.",
@@ -1246,7 +1176,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 90,
+    "id": 85,
     "kategori": "psikoloji",
     "kelime": "psikoterapist",
     "aciklama": "ilaçsız olarak konuşma terapisi ve bilimsel tekniklerle tedavi eden uzman.",
@@ -1271,7 +1201,7 @@
       "yaşamak"
     ],
     "zorluk": "kolay",
-    "id": 91
+    "id": 86
   },
   {
     "kategori": "psikoloji",
@@ -1285,7 +1215,7 @@
       "muhakeme"
     ],
     "zorluk": "kolay",
-    "id": 92
+    "id": 87
   },
   {
     "kategori": "psikoloji",
@@ -1299,7 +1229,7 @@
       "canlandırmak"
     ],
     "zorluk": "kolay",
-    "id": 93
+    "id": 88
   },
   {
     "kategori": "psikoloji",
@@ -1313,7 +1243,7 @@
       "zaman"
     ],
     "zorluk": "kolay",
-    "id": 94
+    "id": 89
   },
   {
     "kategori": "psikoloji",
@@ -1327,7 +1257,7 @@
       "sorun"
     ],
     "zorluk": "kolay",
-    "id": 95
+    "id": 90
   },
   {
     "kategori": "psikoloji",
@@ -1341,7 +1271,7 @@
       "dinginlik"
     ],
     "zorluk": "kolay",
-    "id": 96
+    "id": 91
   },
   {
     "kategori": "psikoloji",
@@ -1355,7 +1285,7 @@
       "güven"
     ],
     "zorluk": "kolay",
-    "id": 97
+    "id": 92
   },
   {
     "kategori": "psikoloji",
@@ -1369,7 +1299,7 @@
       "irade"
     ],
     "zorluk": "kolay",
-    "id": 98
+    "id": 93
   },
   {
     "kategori": "psikoloji",
@@ -1383,7 +1313,7 @@
       "tepki"
     ],
     "zorluk": "kolay",
-    "id": 99
+    "id": 94
   },
   {
     "kategori": "psikoloji",
@@ -1397,7 +1327,7 @@
       "panik"
     ],
     "zorluk": "kolay",
-    "id": 100
+    "id": 95
   },
   {
     "kategori": "psikoloji",
@@ -1411,7 +1341,7 @@
       "zihin"
     ],
     "zorluk": "kolay",
-    "id": 101
+    "id": 96
   },
   {
     "kategori": "psikoloji",
@@ -1425,21 +1355,7 @@
       "azim"
     ],
     "zorluk": "kolay",
-    "id": 102
-  },
-  {
-    "kategori": "psikoloji",
-    "kelime": "bastırmak",
-    "aciklama": "acı veren duygu ve düşünceleri bilinçaltına itip yok saymak",
-    "yasakli_kelimeler": [
-      "repression",
-      "bilinçaltı",
-      "itme",
-      "acı veren",
-      "unutmaya çalışma"
-    ],
-    "zorluk": "orta",
-    "id": 103
+    "id": 97
   },
   {
     "kategori": "psikoloji",
@@ -1453,7 +1369,7 @@
       "emir"
     ],
     "zorluk": "orta",
-    "id": 104
+    "id": 98
   },
   {
     "kategori": "psikoloji",
@@ -1467,20 +1383,6 @@
       "ağlama"
     ],
     "zorluk": "orta",
-    "id": 105
-  },
-  {
-    "kategori": "psikoloji",
-    "kelime": "stresle başa çıkmak",
-    "aciklama": "problem odaklı veya duygu odaklı başa çıkma stratejileriyle yükü azaltmak",
-    "yasakli_kelimeler": [
-      "coping",
-      "başa çıkma",
-      "problem çözme",
-      "direnç",
-      "stres yönetimi"
-    ],
-    "zorluk": "orta",
-    "id": 106
+    "id": 99
   }
 ]

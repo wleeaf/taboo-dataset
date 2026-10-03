@@ -3,13 +3,13 @@
     "id": 1,
     "kategori": "sinematografi",
     "kelime": "sinematografi",
-    "aciklama": "hareketli görüntüleri ışık, kamera ve kompozisyonla kaydetme sanatı",
+    "aciklama": "hareketli görüntüleri ışık ve kompozisyonla kaydetme sanatı",
     "yasakli_kelimeler": [
-      "görüntü yönetimi",
       "kamera",
+      "görüntü",
+      "yönetmen",
       "film",
-      "ışık",
-      "çekim"
+      "ışık"
     ],
     "zorluk": "kolay"
   },
@@ -17,12 +17,12 @@
     "id": 2,
     "kategori": "sinematografi",
     "kelime": "görüntü yönetmeni",
-    "aciklama": "filmin görsel yapısını, ışığını ve kamera hareketlerini yöneten lider",
+    "aciklama": "film sahnelerinin ışık ve kamera düzenini yöneten kişi",
     "yasakli_kelimeler": [
-      "dop",
-      "kamera arkası",
-      "ışık şefi",
+      "kamera",
+      "ışık",
       "yönetmen",
+      "açı",
       "kadraj"
     ],
     "zorluk": "kolay"
@@ -31,55 +31,55 @@
     "id": 3,
     "kategori": "sinematografi",
     "kelime": "enstantane",
-    "aciklama": "sensörün ışığa maruz kaldığı süreyi belirleyen perde hızı",
+    "aciklama": "kamera sensörünün ışığa maruz kaldığı süreyi belirleyen ayar",
     "yasakli_kelimeler": [
-      "perde hızı",
+      "perde",
       "pozlama",
       "deklanşör",
-      "süre",
-      "hareket"
+      "hız",
+      "ışık"
     ],
-    "zorluk": "kolay"
+    "zorluk": "orta"
   },
   {
     "id": 4,
     "kategori": "sinematografi",
     "kelime": "diyafram",
-    "aciklama": "lense giren ışık miktarını ve alan derinliğini ayarlayan açıklık",
+    "aciklama": "lense giren ışık miktarını ayarlayan mekanik delik",
     "yasakli_kelimeler": [
-      "f stop",
-      "ışık girişi",
+      "f değeri",
+      "ışık",
       "açıklık",
-      "alan derinliği",
-      "lens"
+      "lens",
+      "odak"
     ],
-    "zorluk": "kolay"
+    "zorluk": "orta"
   },
   {
     "id": 5,
     "kategori": "sinematografi",
     "kelime": "alan derinliği",
-    "aciklama": "odaklanılan noktanın önünde ve arkasındaki net görünen alan",
+    "aciklama": "odaklanan nesnenin önünde ve arkasındaki net görünen alan",
     "yasakli_kelimeler": [
-      "net alan",
-      "fluluk",
+      "netlik",
+      "bulanıklık",
+      "diyafram",
       "odak",
-      "derinlik",
-      "bokeh"
+      "arka plan"
     ],
-    "zorluk": "kolay"
+    "zorluk": "orta"
   },
   {
     "id": 6,
     "kategori": "sinematografi",
     "kelime": "bokeh",
-    "aciklama": "odak dışı kalan arka plan ışıklarının oluşturduğu estetik bulanıklık",
+    "aciklama": "odak dışı kalan ışıkların oluşturduğu estetik bulanıklık",
     "yasakli_kelimeler": [
-      "bulanıklık",
-      "fluluk",
+      "bulanık",
       "arka plan",
-      "daireler",
-      "estetik"
+      "ışık",
+      "lens",
+      "netlik"
     ],
     "zorluk": "zor"
   },
@@ -87,27 +87,27 @@
     "id": 7,
     "kategori": "sinematografi",
     "kelime": "kare hızı",
-    "aciklama": "saniyede kaydedilen veya oynatılan kare sayısı standardı",
+    "aciklama": "videoda saniyede kaydedilen veya oynatılan kare sayısı",
     "yasakli_kelimeler": [
       "fps",
       "saniye",
-      "kare sayısı",
-      "24 fps",
+      "film",
+      "kare",
       "akıcılık"
     ],
-    "zorluk": "kolay"
+    "zorluk": "orta"
   },
   {
     "id": 8,
     "kategori": "sinematografi",
     "kelime": "zoom lens",
-    "aciklama": "odak uzaklığı mekanik olarak değiştirilebilen değişken açılı lens",
+    "aciklama": "odak uzaklığı ayarlanabilen değişken açılı kamera lensi",
     "yasakli_kelimeler": [
-      "yakınlaştırma",
-      "değişken odak",
-      "tele",
-      "optik",
-      "büyütme"
+      "yakınlaşma",
+      "objektif",
+      "uzaklaşma",
+      "odak",
+      "mercek"
     ],
     "zorluk": "kolay"
   },
@@ -115,13 +115,13 @@
     "id": 9,
     "kategori": "sinematografi",
     "kelime": "vinç",
-    "aciklama": "kamerayı havaya kaldırarak yüksekten çekim yapmayı sağlayan vinç",
+    "aciklama": "kamerayı havaya kaldırıp yüksekten çekim yapmayı sağlayan vinç",
     "yasakli_kelimeler": [
-      "jib",
-      "crane",
+      "kamera",
+      "yüksek",
       "havadan çekim",
-      "yükseklik",
-      "kamera kolu"
+      "jimmy jib",
+      "kol"
     ],
     "zorluk": "kolay"
   },
@@ -129,798 +129,434 @@
     "id": 10,
     "kategori": "sinematografi",
     "kelime": "gimbal",
-    "aciklama": "motorlu eksenlerle sarsıntıları elektronik olarak engelleyen sabitleyici cihaz",
+    "aciklama": "kamera sarsıntılarını engelleyen motorlu elektronik dengeleyici aygıt",
     "yasakli_kelimeler": [
-      "üç eksenli",
-      "motorlu sabitleyici",
-      "ronin",
-      "denge",
-      "el tipi"
+      "sarsıntı",
+      "sabitleyici",
+      "motor",
+      "hareket",
+      "elde çekim"
     ],
-    "zorluk": "kolay"
+    "zorluk": "orta"
   },
   {
     "id": 11,
     "kategori": "sinematografi",
-    "kelime": "omuz kamerası",
-    "aciklama": "üç bacaklı kamera sabitleme ve taşıma ayağı sehpası",
+    "kelime": "alt açı",
+    "aciklama": "kameranın konuya aşağıdan yukarı doğru baktığı çekim açısı",
     "yasakli_kelimeler": [
-      "el kamerası",
-      "omuzluk",
-      "belgesel tarzı",
-      "dinamik",
-      "sarsıntı"
+      "kamera",
+      "aşağıdan",
+      "açı",
+      "yüksek",
+      "görünüm"
     ],
     "zorluk": "orta"
   },
   {
     "id": 12,
     "kategori": "sinematografi",
-    "kelime": "alt açı",
-    "aciklama": "setteki ışık donanımını ve elektrik altyapısını kuran şef",
+    "kelime": "üst açı",
+    "aciklama": "kameranın konuya yukarıdan aşağı doğru baktığı çekim açısı",
     "yasakli_kelimeler": [
-      "aşağıdan",
-      "görkem",
-      "güçlü",
-      "kamera konumu",
-      "perspektif"
+      "kamera",
+      "yukarıdan",
+      "tepeden",
+      "açı",
+      "küçük gösterme"
     ],
     "zorluk": "orta"
   },
   {
     "id": 13,
     "kategori": "sinematografi",
-    "kelime": "üst açı",
-    "aciklama": "kamera taşıma sistemlerini ve raylarını kuran teknik şef",
+    "kelime": "kuş bakışı",
+    "aciklama": "kameranın sahneyi tam tepeden dik açıyla görüntülemesi",
     "yasakli_kelimeler": [
-      "tepeden",
-      "zayıflık",
-      "yukarıdan bakış",
-      "küçültücü",
-      "çaresiz"
+      "tepe",
+      "dron",
+      "gökyüzü",
+      "dik açı",
+      "genel görünüm"
     ],
-    "zorluk": "orta"
+    "zorluk": "kolay"
   },
   {
     "id": 14,
     "kategori": "sinematografi",
-    "kelime": "kuş bakışı",
-    "aciklama": "kamera kartlarını yöneten ve veri yedeklemesini yapan sorumlu",
+    "kelime": "geniş plan",
+    "aciklama": "mekanı ve ortamı bütünüyle gösteren uzak çekim ölçeği",
     "yasakli_kelimeler": [
-      "tepe açısı",
-      "doksan derece",
-      "havadan",
-      "düzlem",
-      "tanrı açısı"
+      "mekan",
+      "çevre",
+      "uzak çekim",
+      "kadraj",
+      "manzara"
     ],
-    "zorluk": "orta"
+    "zorluk": "kolay"
   },
   {
     "id": 15,
     "kategori": "sinematografi",
-    "kelime": "geniş plan",
-    "aciklama": "sahnenin duygu tonuna göre renk düzenlemesi yapan uzman",
+    "kelime": "yakın plan",
+    "aciklama": "karakterin yüzünü veya nesneyi çerçeveye dolduran çekim",
     "yasakli_kelimeler": [
-      "boy plan",
-      "çevre",
-      "mekan",
-      "uzak çekim",
-      "atmosfer"
+      "yüz",
+      "ifade",
+      "detay",
+      "kadraj",
+      "çekim"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 16,
     "kategori": "sinematografi",
-    "kelime": "yakın plan",
-    "aciklama": "sahneyi aydınlatan en güçlü ve belirleyici ana ışık",
+    "kelime": "genel çekim",
+    "aciklama": "olayın geçtiği çevreyi bütünüyle gösteren geniş çekim",
     "yasakli_kelimeler": [
-      "close up",
-      "yüz",
-      "mimik",
-      "duygu",
-      "omuz"
+      "sahne",
+      "çevre",
+      "büyük plan",
+      "kadraj",
+      "arka plan"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 17,
     "kategori": "sinematografi",
-    "kelime": "detay plan",
-    "aciklama": "ana ışığın oluşturduğu sert gölgeleri yumuşatan dolgu ışığı",
+    "kelime": "reflektör",
+    "aciklama": "ışığı konunun gölgede kalan kısmına yansıtan yüzey",
     "yasakli_kelimeler": [
-      "extreme close up",
-      "nesne",
-      "ayrıntı",
-      "mikro",
-      "vurgu"
+      "ışık",
+      "yansıtıcı",
+      "gölge",
+      "parlatma",
+      "çekim"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 18,
     "kategori": "sinematografi",
-    "kelime": "üç nokta aydınlatma",
-    "aciklama": "az gölgeli ve parlak aydınlık sahne ışıklandırma tarzı",
+    "kelime": "renk sıcaklığı",
+    "aciklama": "ışık kaynağının sıcak sarı veya soğuk mavi tonu",
     "yasakli_kelimeler": [
-      "ana ışık",
-      "dolgu",
-      "kontur",
-      "ışık kurulumu",
-      "standart"
+      "kelvin",
+      "sarı",
+      "mavi",
+      "ışık",
+      "ton"
     ],
-    "zorluk": "kolay"
+    "zorluk": "zor"
   },
   {
     "id": 19,
     "kategori": "sinematografi",
-    "kelime": "ana ışık",
-    "aciklama": "ışık kaynağından çıkan sert ışınları yumuşatan tül difüzör",
+    "kelime": "beyaz dengesi",
+    "aciklama": "kamerada beyazın doğru renkte kaydedilmesini sağlayan ayar",
     "yasakli_kelimeler": [
-      "key light",
-      "temel ışık",
-      "birincil",
-      "parlak",
-      "aydınlatma"
+      "white balance",
+      "renk",
+      "sıcaklık",
+      "kelvin",
+      "kalibrasyon"
     ],
-    "zorluk": "kolay"
+    "zorluk": "orta"
   },
   {
     "id": 20,
     "kategori": "sinematografi",
-    "kelime": "reflektör",
-    "aciklama": "ışık kaynağının renk tonunu gösteren kelvin cinsinden değer",
+    "kelime": "ağır çekim",
+    "aciklama": "olayların normalden çok daha yavaş aktığı video kaydı",
     "yasakli_kelimeler": [
-      "yansıtıcı",
-      "strafor",
-      "gümüş",
-      "beyaz levha",
-      "sekme ışık"
+      "yavaşlatılmış",
+      "slow motion",
+      "hızlı kare",
+      "video",
+      "hız"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 21,
     "kategori": "sinematografi",
-    "kelime": "kum torbası",
-    "aciklama": "karakteri belinden yukarısını gösteren standart sinematik çekim planı",
+    "kelime": "hızlı çekim",
+    "aciklama": "olayların normalden çok daha hızlı aktığı video kaydı",
     "yasakli_kelimeler": [
-      "ağırlık",
-      "güvenlik",
-      "ışık ayağı",
-      "denge",
-      "set güvenliği"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 22,
-    "kategori": "sinematografi",
-    "kelime": "clapperboard",
-    "aciklama": "karakterin yüzünü ve ifadesini tüm çerçeveyi kaplayacak çekme",
-    "yasakli_kelimeler": [
-      "klaket",
-      "senkronizasyon",
-      "sahne numarası",
-      "ses eşleme",
-      "tahta"
+      "hızlandırılmış",
+      "time lapse",
+      "hareket",
+      "video",
+      "kare"
     ],
     "zorluk": "kolay"
   },
   {
+    "id": 22,
+    "kategori": "sinematografi",
+    "kelime": "vizör",
+    "aciklama": "kameramanın çekim yaparken kadrajı gözüyle gördüğü küçük bakaç",
+    "yasakli_kelimeler": [
+      "bakaç",
+      "göz",
+      "kadraj",
+      "ekran",
+      "kamera"
+    ],
+    "zorluk": "orta"
+  },
+  {
     "id": 23,
     "kategori": "sinematografi",
-    "kelime": "renk sıcaklığı",
-    "aciklama": "mekanın coğrafyasını ve atmosferini gösteren geniş açılı genel plan",
+    "kelime": "yeşil perde",
+    "aciklama": "arkasına dijital arka plan eklemek için kullanılan perde",
     "yasakli_kelimeler": [
-      "kelvin",
-      "sıcak soğuk",
-      "3200 k",
-      "gün ışığı",
-      "tungsten"
+      "green screen",
+      "arka plan",
+      "montaj",
+      "efekt",
+      "stüdyo"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 24,
     "kategori": "sinematografi",
-    "kelime": "beyaz dengesi",
-    "aciklama": "filmin başında mekanı ve atmosferi tanıtan geniş çevre planı",
+    "kelime": "ışık şefi",
+    "aciklama": "film setindeki ışık düzenini ve ekibini yöneten uzman",
     "yasakli_kelimeler": [
-      "white balance",
-      "renk ayarı",
-      "nötr beyaz",
-      "gri kart",
-      "kelvin"
+      "gaffer",
+      "set",
+      "lamba",
+      "aydınlatma",
+      "ekip"
     ],
-    "zorluk": "kolay"
+    "zorluk": "orta"
   },
   {
     "id": 25,
     "kategori": "sinematografi",
-    "kelime": "renk derecelendirme",
-    "aciklama": "kamerayı yana eğerek tekinsizlik ve gerilim yaratan eğik açı",
+    "kelime": "set amiri",
+    "aciklama": "çekim platosundaki düzeni ve teknik işleyişi sağlayan yetkili",
     "yasakli_kelimeler": [
-      "color grading",
-      "renk düzeltme",
-      "lut",
-      "atmosfer",
-      "post prodüksiyon"
+      "plato",
+      "düzen",
+      "ekip",
+      "koordinasyon",
+      "çekim"
     ],
-    "zorluk": "zor"
+    "zorluk": "orta"
   },
   {
     "id": 26,
     "kategori": "sinematografi",
-    "kelime": "ağır çekim",
-    "aciklama": "projeksiyon merceği takılarak yüzeye desen ve gölge düşüren aparat",
+    "kelime": "makro çekim",
+    "aciklama": "küçük detayları ve nesneleri çok yakından gösteren çekim",
     "yasakli_kelimeler": [
-      "slow motion",
-      "yüksek fps",
-      "yavaşlama",
-      "dramatik etki",
-      "hareket"
+      "yakın",
+      "böcek",
+      "detay",
+      "mercek",
+      "büyütme"
     ],
-    "zorluk": "kolay"
+    "zorluk": "orta"
   },
   {
     "id": 27,
     "kategori": "sinematografi",
-    "kelime": "hızlı çekim",
-    "aciklama": "spot ışığının önüne konularak arka plana desenli gölge düşüren plaka",
+    "kelime": "bakış açısı",
+    "aciklama": "sahnenin bir karakterin gözünden görüldüğü kamera açısı",
     "yasakli_kelimeler": [
-      "timelapse",
-      "hızlandırma",
-      "zaman akışı",
-      "düşük kare",
-      "bulut hareketi"
+      "açı",
+      "karakter",
+      "göz",
+      "çekim",
+      "bakış"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 28,
     "kategori": "sinematografi",
-    "kelime": "vizör",
-    "aciklama": "havada asılı kalarak ışığı yansıtan ince ve homojen sis dumanı",
+    "kelime": "üçayak",
+    "aciklama": "kamerayı sabit tutmaya yarayan üç bacaklı sehpa",
     "yasakli_kelimeler": [
-      "bakmaç",
-      "kamera gözü",
-      "eyepiece",
-      "kadraj kontrolü",
-      "netlik"
+      "tripod",
+      "ayak",
+      "sehpa",
+      "sabitleme",
+      "kamera"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 29,
     "kategori": "sinematografi",
-    "kelime": "polarize filtre",
-    "aciklama": "pozlamayı yüzde on sekiz yansıtma değeriyle ölçmek için kullanılan kart",
+    "kelime": "geniş açı",
+    "aciklama": "kadraja daha geniş bir alanı sığdıran mercek açısı",
     "yasakli_kelimeler": [
-      "yansıma kesici",
-      "cam parlaması",
-      "gökyüzü mavisi",
-      "doygunluk",
-      "döner filtre"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 30,
-    "kategori": "sinematografi",
-    "kelime": "yeşil perde",
-    "aciklama": "yüksek dinamik aralık sağlayan düşük kontrastlı özel gama eğrisi",
-    "yasakli_kelimeler": [
-      "green screen",
-      "chroma key",
-      "görsel efekt",
-      "arka plan silme",
-      "kompozit"
+      "lens",
+      "mercek",
+      "kamera",
+      "manzara",
+      "alan"
     ],
     "zorluk": "kolay"
   },
   {
+    "id": 30,
+    "kategori": "sinematografi",
+    "kelime": "balıkgözü lens",
+    "aciklama": "aşırı geniş ve kenarları bombeli gösteren özel objektif",
+    "yasakli_kelimeler": [
+      "bombeli",
+      "geniş açı",
+      "lens",
+      "yuvarlak",
+      "mercek"
+    ],
+    "zorluk": "orta"
+  },
+  {
     "id": 31,
     "kategori": "sinematografi",
-    "kelime": "izleme monitörü",
-    "aciklama": "log formatındaki ham görüntüleri standart renk profiline çeviren dönüştürücü",
+    "kelime": "optik zoom",
+    "aciklama": "lensin mekanik hareketiyle kalite bozulmadan yapılan yakınlaştırma",
     "yasakli_kelimeler": [
-      "yönetmen monitörü",
-      "set ekranı",
-      "kablosuz görüntü",
-      "teradek",
-      "referans ekran"
+      "mercek",
+      "yakınlaştırma",
+      "kalite",
+      "kamera",
+      "netlik"
     ],
     "zorluk": "orta"
   },
   {
     "id": 32,
     "kategori": "sinematografi",
-    "kelime": "kamera asistanı",
-    "aciklama": "çekim esnasında odağın öndeki nesneden arkadaki nesneye kaydırılması",
+    "kelime": "dijital zoom",
+    "aciklama": "görüntüyü yazılımla büyüterek kaliteyi düşüren yakınlaştırma",
     "yasakli_kelimeler": [
-      "focus puller",
-      "yardımcı",
-      "kamera ekibi",
-      "lens temizliği",
-      "clapper"
+      "pikselleşme",
+      "yazılım",
+      "yakınlaştırma",
+      "kamera",
+      "büyütme"
     ],
-    "zorluk": "kolay"
+    "zorluk": "orta"
   },
   {
     "id": 33,
     "kategori": "sinematografi",
-    "kelime": "ışık şefi",
-    "aciklama": "sahnenin ve kameranın kurgusal kesme olmadan tek planda çekilmesi",
+    "kelime": "odak noktası",
+    "aciklama": "kameranın lense en net ayarladığı ana merkez",
     "yasakli_kelimeler": [
-      "gaffer",
-      "baş ışıkçı",
-      "aydınlatma amiri",
-      "elektrik",
-      "armatür"
+      "netlik",
+      "kamera",
+      "lens",
+      "merkez",
+      "mesafe"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 34,
     "kategori": "sinematografi",
-    "kelime": "set amiri",
-    "aciklama": "karakterin nereye bakıyorsa o yönde bırakılan boşluk payı",
+    "kelime": "sis makinesi",
+    "aciklama": "sette puslu ve sinematik atmosfer oluşturan duman cihazı",
     "yasakli_kelimeler": [
-      "key grip",
-      "taşıyıcı donanım",
-      "mekanik ekip",
-      "iskele",
-      "rig"
+      "duman",
+      "atmosfer",
+      "sis",
+      "set",
+      "cihaz"
     ],
-    "zorluk": "orta"
+    "zorluk": "kolay"
   },
   {
     "id": 35,
     "kategori": "sinematografi",
-    "kelime": "genel çekim",
-    "aciklama": "çerçeveyi yatay ve dikey üçe bölerek estetik denge kurma kuralı",
+    "kelime": "doğal ışık",
+    "aciklama": "film çekiminde lamba yerine kullanılan gün ışığı",
     "yasakli_kelimeler": [
-      "mekan tanıtımı",
-      "geniş çerçeve",
-      "çevreyi gösterme",
-      "geniş plan benzeri",
-      "uzak çekim"
+      "güneş",
+      "gün ışığı",
+      "aydınlatma",
+      "yapay",
+      "çekim"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 36,
     "kategori": "sinematografi",
-    "kelime": "boy plan",
-    "aciklama": "çerçevenin kenarlarının ortasından daha karanlık olması optik kararması",
+    "kelime": "kamera operatörü",
+    "aciklama": "çekim sırasında kamerayı bizzat kullanan ve yönlendiren kişi",
     "yasakli_kelimeler": [
-      "tam vücut",
-      "tepeden tırnağa",
-      "ayaktan başa",
-      "tam boy çekim",
-      "karakter boyu"
+      "kameraman",
+      "çekim",
+      "kadraj",
+      "film",
+      "operatör"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 37,
     "kategori": "sinematografi",
-    "kelime": "makro çekim",
-    "aciklama": "yüksek çözünürlüklü dijital video ve sinema çözünürlük standardı",
+    "kelime": "prova çekimi",
+    "aciklama": "asıl kayda girmeden önce sahneyi denemek için çekim",
     "yasakli_kelimeler": [
-      "aşırı yakın plan",
-      "detay büyütme",
-      "makro lens",
-      "göz bebeği çekimi",
-      "yakın ayrıntı"
+      "deneme",
+      "kayıt öncesi",
+      "set",
+      "sahne",
+      "hazırlık"
     ],
-    "zorluk": "kolay"
+    "zorluk": "orta"
   },
   {
     "id": 38,
     "kategori": "sinematografi",
-    "kelime": "göz hizası",
-    "aciklama": "orta format büyüklüğünde devasa sensöre sahip dijital sinema kamerası",
+    "kelime": "kadraja almak",
+    "aciklama": "nesneyi veya oyuncuyu kamera görüntüsünün içine dahil etmek",
     "yasakli_kelimeler": [
-      "doğal açı",
-      "göz seviyesi",
-      "tarafsız kamera",
-      "normal bakış",
-      "karakter hizası"
+      "çerçeve",
+      "çekim",
+      "yerleştirmek",
+      "kamera",
+      "görüntü"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 39,
     "kategori": "sinematografi",
-    "kelime": "bakış açısı",
-    "aciklama": "küçük nesneleri bire bir veya daha büyük boyutta çeken lens",
+    "kelime": "odaklamak",
+    "aciklama": "lens netlik halkasını çevirerek görüntüyü keskinleştirmek",
     "yasakli_kelimeler": [
-      "görüş açısı",
-      "baktığı nesne",
-      "karakter bakışı",
-      "açı yönü",
-      "bakış yönü"
+      "netlemek",
+      "netlik",
+      "lens",
+      "keskin",
+      "ayar"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 40,
     "kategori": "sinematografi",
-    "kelime": "monopod",
-    "aciklama": "kameranın altına takılan ve aksesuarları taşıyan on beş milimetrelik çubuk",
-    "yasakli_kelimeler": [
-      "tek ayak",
-      "tek bacaklı sehpa",
-      "hızlı destek",
-      "tripod alternatifi",
-      "belgesel desteği"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 41,
-    "kategori": "sinematografi",
-    "kelime": "üçayak",
-    "aciklama": "kamerayı tripod tablasına hızlıca kilitleyip ayırmaya yarayan metal plaka",
-    "yasakli_kelimeler": [
-      "tripod",
-      "üç bacaklı sehpa",
-      "kamera ayağı",
-      "sabit çekim ayağı",
-      "sehpa"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 42,
-    "kategori": "sinematografi",
-    "kelime": "geniş açı",
-    "aciklama": "kamerayı vinç ucunda uzaktan kontrol eden motorlu kafa",
-    "yasakli_kelimeler": [
-      "kısa odak",
-      "geniş kadraj",
-      "mekanı büyütme",
-      "telefoto zıddı",
-      "24mm lens"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 43,
-    "kategori": "sinematografi",
-    "kelime": "balıkgözü lens",
-    "aciklama": "steadicam yeleği ile kamerayı birbirine bağlayan yaylı mekanik kol",
-    "yasakli_kelimeler": [
-      "180 derece görüş",
-      "kenarları büken",
-      "küresel bozulma",
-      "balık gözü",
-      "ekstrem açı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 44,
-    "kategori": "sinematografi",
-    "kelime": "optik zoom",
-    "aciklama": "araba takip çekimlerinde kamera vinci taşıyan yüksek performanslı araç",
-    "yasakli_kelimeler": [
-      "mercekle yakınlaşma",
-      "kalite bozulmadan zoom",
-      "fiziksel büyütme",
-      "dijital zoom zıddı",
-      "zoom mekanizması"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 45,
-    "kategori": "sinematografi",
-    "kelime": "dijital zoom",
-    "aciklama": "kamera ve ışık ekibinin sette kullandığı çok cepli dayanıklı çanta",
-    "yasakli_kelimeler": [
-      "pikselleri büyütme",
-      "yazılımsal zoom",
-      "kalite kaybı",
-      "optik zıddı",
-      "kırpma büyütme"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 46,
-    "kategori": "sinematografi",
-    "kelime": "odak noktası",
-    "aciklama": "kamera merceklerini toz ve parmak izinden temizleyen optik mendil",
-    "yasakli_kelimeler": [
-      "netleme noktası",
-      "fokus noktası",
-      "keskinlik merkezi",
-      "ışınların birleştiği yer",
-      "net alan"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 47,
-    "kategori": "sinematografi",
-    "kelime": "sis makinesi",
-    "aciklama": "kameradaki görüntüyü yönetmen ve ekibe anlık kablosuz aktaran verici",
-    "yasakli_kelimeler": [
-      "duman makinesi",
-      "set dumanı",
-      "ışık huzmesi çıkarma",
-      "atmosferik sis",
-      "fogger"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 48,
-    "kategori": "sinematografi",
-    "kelime": "sert ışık",
-    "aciklama": "kablosuz görüntü sistemlerinin sinyal menzilini artıran yönlü anten paneli",
-    "yasakli_kelimeler": [
-      "keskin gölgeler",
-      "doğrudan ışık",
-      "yumuşatılmamış",
-      "kontrastlı ışık",
-      "öğle güneşi"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 49,
-    "kategori": "sinematografi",
-    "kelime": "yumuşak ışık",
-    "aciklama": "profesyonel kameralardan monitörlere kayıpsız görüntü taşıyan kilitli bnc kablo",
-    "yasakli_kelimeler": [
-      "difüze ışık",
-      "belirsiz gölge",
-      "soft ışık",
-      "ipeksi aydınlatma",
-      "softbox ışığı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 50,
-    "kategori": "sinematografi",
-    "kelime": "doğal ışık",
-    "aciklama": "kameraları monitör veya kayıtçıya bağlayan standart dijital görüntü kablosu",
-    "yasakli_kelimeler": [
-      "güneş ışığı",
-      "mevcut ışık",
-      "lamba yakmadan",
-      "gün ışığı",
-      "tabii ışık"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 51,
-    "kategori": "sinematografi",
-    "kelime": "yapay ışık",
-    "aciklama": "ses ve görüntü cihazlarını birbirine senkronize eden zaman kodu sinyali",
-    "yasakli_kelimeler": [
-      "set projektörü",
-      "elektrikli aydınlatma",
-      "spot lamba",
-      "üretilen ışık",
-      "doğal zıddı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 52,
-    "kategori": "sinematografi",
-    "kelime": "ortam ışığı",
-    "aciklama": "oyuncu duraklarını işaretlemek için yere yapıştırılan t bant",
-    "yasakli_kelimeler": [
-      "ambient light",
-      "mevcut oda ışığı",
-      "taban aydınlatması",
-      "oda aydınlığı",
-      "çevre ışığı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 53,
-    "kategori": "sinematografi",
-    "kelime": "softbox",
-    "aciklama": "sıcak lamba ve metalleri tutarken elleri yanmaktan koruyan deri eldiven",
-    "yasakli_kelimeler": [
-      "ışık çadırı",
-      "yumuşak ışık kutusu",
-      "difüzyon kutusu",
-      "portre aydınlatması",
-      "kumaş kutu"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 54,
-    "kategori": "sinematografi",
-    "kelime": "aşırı pozlama",
-    "aciklama": "kameranın su yüzeyinde batmadan durmasını sağlayan şamandıra kılıfı",
-    "yasakli_kelimeler": [
-      "patlamış beyazlar",
-      "fazla ışık",
-      "overexposed",
-      "beyaz patlaması",
-      "detay kaybı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 55,
-    "kategori": "sinematografi",
-    "kelime": "yetersiz pozlama",
-    "aciklama": "gökyüzünden pürüzsüz sinematik hava çekimleri yapmayı sağlayan profesyonel dron",
-    "yasakli_kelimeler": [
-      "karanlık görüntü",
-      "az ışık alma",
-      "underexposed",
-      "gölgelerin çökmesi",
-      "çamurlu siyahlar"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 56,
-    "kategori": "sinematografi",
-    "kelime": "renk doygunluğu",
-    "aciklama": "dron motorlarının dönüşüyle havada yükselmesini sağlayan karbon fiber kanatlar",
-    "yasakli_kelimeler": [
-      "saturasyon",
-      "renk canlılığı",
-      "solukluk canlılık",
-      "renk şiddeti",
-      "saf renk"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 57,
-    "kategori": "sinematografi",
-    "kelime": "kontrast oranı",
-    "aciklama": "dronun havada sabit kalmasını sağlayan hassas uydu modülü",
-    "yasakli_kelimeler": [
-      "zıtlık oranı",
-      "siyah beyaz farkı",
-      "ton aralığı",
-      "dinamik kontrast",
-      "parlaklık oranı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 58,
-    "kategori": "sinematografi",
-    "kelime": "kamera operatörü",
-    "aciklama": "dar koridorlarda veya kaldırımlarda kamera kaydırmayı sağlayan motorlu elektrikli kaykay",
-    "yasakli_kelimeler": [
-      "kameraman",
-      "kamerayı kullanan",
-      "kadrajı tutan",
-      "operatör",
-      "çekim yapan"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 59,
-    "kategori": "sinematografi",
-    "kelime": "prova çekimi",
-    "aciklama": "kamerayı milisaniyeler içinde hareket ettiren dev robotik kol",
-    "yasakli_kelimeler": [
-      "deneme kaydı",
-      "reval çekimi",
-      "kamera provası",
-      "kayıt öncesi deneme",
-      "ön prova"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "kategori": "sinematografi",
-    "kelime": "kamera açmak",
-    "aciklama": "hareketli görüntüleri ışık ve kompozisyon kurallarıyla kameraya kaydetmek",
-    "yasakli_kelimeler": [
-      "kamera",
-      "açmak",
-      "güç",
-      "çekim",
-      "başlatmak"
-    ],
-    "zorluk": "kolay",
-    "id": 60
-  },
-  {
-    "kategori": "sinematografi",
-    "kelime": "odaklamak",
-    "aciklama": "sahnenin duygusuna ve atmosferine uygun profesyonel ışıklandırma yapmak",
-    "yasakli_kelimeler": [
-      "netleştirmek",
-      "fokus",
-      "lens",
-      "bulanık",
-      "yüz"
-    ],
-    "zorluk": "kolay",
-    "id": 61
-  },
-  {
-    "kategori": "sinematografi",
-    "kelime": "ışık vermek",
-    "aciklama": "çerçevenin içindeki nesneleri altın oran kurallarına göre düzenlemek",
-    "yasakli_kelimeler": [
-      "spot",
-      "aydınlatma",
-      "lamba",
-      "parlatmak",
-      "karanlık"
-    ],
-    "zorluk": "kolay",
-    "id": 62
-  },
-  {
-    "kategori": "sinematografi",
-    "kelime": "kadraja almak",
-    "aciklama": "saniyede yirmi dört kare standardında sinematik çekim yapmak",
-    "yasakli_kelimeler": [
-      "çerçeve",
-      "vizör",
-      "kompozisyon",
-      "yerleşim",
-      "ekran"
-    ],
-    "zorluk": "kolay",
-    "id": 63
-  },
-  {
-    "kategori": "sinematografi",
-    "kelime": "takip etmek",
-    "aciklama": "lensin netlik halkasını çevirerek odak ayarını değiştirmek",
-    "yasakli_kelimeler": [
-      "yürümek",
-      "koşmak",
-      "takip",
-      "hareket",
-      "kamera"
-    ],
-    "zorluk": "kolay",
-    "id": 64
-  },
-  {
-    "kategori": "sinematografi",
-    "kelime": "lens değiştirmek",
-    "aciklama": "ışığın renk tonunu sahnenin atmosferine göre kelvinle ayarlamak",
-    "yasakli_kelimeler": [
-      "objektif",
-      "telefoto",
-      "geniş açı",
-      "bayonet",
-      "cam"
-    ],
-    "zorluk": "kolay",
-    "id": 65
-  },
-  {
-    "kategori": "sinematografi",
     "kelime": "kayda girmek",
-    "aciklama": "sensörün ışığa maruz kalma süresini ve değerini ayarlamak",
+    "aciklama": "yönetmenin talimatıyla kamerayı çalıştırıp sahneyi çekmeye başlamak",
     "yasakli_kelimeler": [
-      "rec butonu",
-      "kırmızı",
+      "motor",
+      "çekim",
       "başlamak",
-      "hafıza kartı",
-      "kare"
+      "kamera",
+      "kayıt"
     ],
-    "zorluk": "kolay",
-    "id": 66
+    "zorluk": "kolay"
   }
 ]

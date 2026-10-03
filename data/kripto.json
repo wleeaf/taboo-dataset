@@ -17,7 +17,7 @@
     "id": 2,
     "kategori": "kripto",
     "kelime": "kriptografi",
-    "aciklama": "bilgilerin güvenliğini, gizliliğini ve bütünlüğünü matematiksel algoritmalarla sağlayan şifreleme bilimi.",
+    "aciklama": "bilgilerin güvenliğini, gizliliğini ve bütünlüğünü matematiksel algoritmalarla sağlayan şifreleme bilimi",
     "yasakli_kelimeler": [
       "şifre",
       "güvenlik",
@@ -156,8 +156,8 @@
   {
     "id": 12,
     "kategori": "kripto",
-    "kelime": "nitelikli fikri tapu",
-    "aciklama": "dijital sanat, müzik veya koleksiyon parçalarının blokzincir üzerinde mülkiyetini belgeleyen",
+    "kelime": "nft",
+    "aciklama": "blokzincirde dijital mülkiyeti temsil eden benzersiz dijital varlık",
     "yasakli_kelimeler": [
       "benzersiz varlık",
       "dijital sanat",
@@ -170,8 +170,8 @@
   {
     "id": 13,
     "kategori": "kripto",
-    "kelime": "sabit kripto para",
-    "aciklama": "volatilitesini önlemek amacıyla değeri genellikle abd doları veya altın gibi",
+    "kelime": "stabilcoin",
+    "aciklama": "fiyatı dolara veya altına sabitlenmiş kripto para türü",
     "yasakli_kelimeler": [
       "stablecoin",
       "dolar",
@@ -268,22 +268,8 @@
   {
     "id": 20,
     "kategori": "kripto",
-    "kelime": "kripto stake etme",
-    "aciklama": "hisse kanıtı ağlarında ağın güvenliğine katkı sağlamak amacıyla coinleri belirli",
-    "yasakli_kelimeler": [
-      "kilitleme",
-      "faiz",
-      "ödül",
-      "pasif gelir",
-      "doğrulayıcı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 21,
-    "kategori": "kripto",
-    "kelime": "kripto para yakma",
-    "aciklama": "belirli miktarda coin veya tokenın kimsenin erişemeyeceği ölü bir adrese",
+    "kelime": "coin yakma",
+    "aciklama": "kripto paraların kalıcı olarak dolaşımdan çıkarılarak imha edilmesi",
     "yasakli_kelimeler": [
       "burn",
       "ölü adres",
@@ -294,7 +280,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 22,
+    "id": 21,
     "kategori": "kripto",
     "kelime": "dolaşımdaki arz",
     "aciklama": "şu anda piyasada serbestçe alınıp satılabilen ve kamuya açık cüzdanlarda",
@@ -308,7 +294,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 23,
+    "id": 22,
     "kategori": "kripto",
     "kelime": "maksimum arz",
     "aciklama": "bir kripto para biriminin protokol koduna göre var olabilecek en",
@@ -322,7 +308,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 24,
+    "id": 23,
     "kategori": "kripto",
     "kelime": "piyasa değeri",
     "aciklama": "bir kripto paranın güncel birim fiyatı ile dolaşımdaki toplam arzının",
@@ -336,7 +322,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 25,
+    "id": 24,
     "kategori": "kripto",
     "kelime": "bitcoin hakimiyeti",
     "aciklama": "bitcoin piyasa değerinin tüm kripto para piyasasının toplam değerine olan",
@@ -350,7 +336,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 26,
+    "id": 25,
     "kategori": "kripto",
     "kelime": "altcoin",
     "aciklama": "bitcoin dışındaki diğer tüm alternatif kripto para ve token projelerine",
@@ -364,7 +350,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 27,
+    "id": 26,
     "kategori": "kripto",
     "kelime": "kripto balinası",
     "aciklama": "elinde piyasa fiyatlarını etkileyebilecek büyüklükte devasa miktarda kripto varlık bulunduran",
@@ -378,7 +364,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 28,
+    "id": 27,
     "kategori": "kripto",
     "kelime": "açgözlülük endeksi",
     "aciklama": "kripto piyasasındaki duygu durumunu korkudan aşırı iyimserliğe kadar 0-100 arasında",
@@ -392,7 +378,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 29,
+    "id": 28,
     "kategori": "kripto",
     "kelime": "ayı piyasası",
     "aciklama": "fiyatların uzun süre düşüş trendinde olduğu, karamsarlığın ve hacimsizliğin hakim",
@@ -406,7 +392,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 30,
+    "id": 29,
     "kategori": "kripto",
     "kelime": "boğa piyasası",
     "aciklama": "fiyatların sürekli yükseldiği, yeni yatırımcıların akın ettiği ve genel coşkunun",
@@ -420,21 +406,21 @@
     "zorluk": "kolay"
   },
   {
-    "id": 31,
+    "id": 30,
     "kategori": "kripto",
-    "kelime": "fırsatı kaçırma korkusu",
-    "aciklama": "hızla yükselen bir kripto varlığı kaçırma endişesiyle aceleyle ve plansızca",
+    "kelime": "fomo",
+    "aciklama": "yükselen piyasada fırsatı kaçırma endişesiyle acele alım yapma",
     "yasakli_kelimeler": [
-      "fomo",
       "panik alış",
       "kaçırma",
       "acele",
-      "endişe"
+      "endişe",
+      "kripto"
     ],
     "zorluk": "kolay"
   },
   {
-    "id": 32,
+    "id": 31,
     "kategori": "kripto",
     "kelime": "madencilik havuzu",
     "aciklama": "bireysel madencilerin işlem güçlerini birleştirerek blok bulma şanslarını artırdıkları ve",
@@ -448,7 +434,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 33,
+    "id": 32,
     "kategori": "kripto",
     "kelime": "bulut madenciliği",
     "aciklama": "fiziksel madencilik donanımı satın almadan uzak bir veri merkezinden bilgi",
@@ -462,7 +448,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 34,
+    "id": 33,
     "kategori": "kripto",
     "kelime": "merkezi borsa",
     "aciklama": "kullanıcıların kripto varlık alıp sattığı şirket yönetimindeki platform",
@@ -476,7 +462,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 35,
+    "id": 34,
     "kategori": "kripto",
     "kelime": "kripto varlık",
     "aciklama": "dağıtık defter teknolojisi kullanılarak elektronik olarak alınıp satılabilen ve transfer",
@@ -490,7 +476,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 36,
+    "id": 35,
     "kategori": "kripto",
     "kelime": "kripto cüzdan",
     "aciklama": "özel ve genel anahtarları saklayarak kripto para transferi sağlayan araç",
@@ -504,21 +490,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 37,
-    "kategori": "kripto",
-    "kelime": "kağıt cüzdan",
-    "aciklama": "özel ve genel anahtarlar ile karekodların fiziksel bir kağıda basılarak",
-    "yasakli_kelimeler": [
-      "kağıt baskı",
-      "karekod",
-      "çevrimdışı",
-      "fiziksel",
-      "soğuk saklama"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 38,
+    "id": 36,
     "kategori": "kripto",
     "kelime": "donanım cüzdanı",
     "aciklama": "özel anahtarları internete bağlı olmayan güvenli bir usb aygıtı içinde",
@@ -532,49 +504,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 39,
-    "kategori": "kripto",
-    "kelime": "yazılım cüzdanı",
-    "aciklama": "bilgisayara veya akıllı telefona uygulama olarak yüklenip internet üzerinden kolay",
-    "yasakli_kelimeler": [
-      "mobil uygulama",
-      "bilgisayar",
-      "yükleme",
-      "sıcak cüzdan",
-      "program"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 40,
-    "kategori": "kripto",
-    "kelime": "açık anahtar",
-    "aciklama": "kripto para transferi almak için herkesle güvenle paylaşılabilen ve matematiksel",
-    "yasakli_kelimeler": [
-      "hesap adresi",
-      "herkese açık",
-      "paylaşılabilir",
-      "şifreleme",
-      "para alma"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 41,
-    "kategori": "kripto",
-    "kelime": "gizli anahtar",
-    "aciklama": "cüzdandaki varlıkları harcamak ve işlemleri imzalamak için sadece sahibinin bilmesi",
-    "yasakli_kelimeler": [
-      "harcama yetkisi",
-      "özel şifre",
-      "paylaşılmaz",
-      "imzalama",
-      "gizli kod"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 42,
+    "id": 37,
     "kategori": "kripto",
     "kelime": "cüzdan adresi",
     "aciklama": "kripto para transferlerinde fonların gönderileceği alıcıyı temsil eden harf ve",
@@ -588,7 +518,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 43,
+    "id": 38,
     "kategori": "kripto",
     "kelime": "blok ödülü",
     "aciklama": "yeni bir bloğu başarıyla doğrulayıp zincire ekleyen madenciye sistem tarafından",
@@ -602,7 +532,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 44,
+    "id": 39,
     "kategori": "kripto",
     "kelime": "madenci ücreti",
     "aciklama": "kullanıcıların işlemlerinin bloğa daha hızlı dahil edilmesi için madencilere veya",
@@ -616,7 +546,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 45,
+    "id": 40,
     "kategori": "kripto",
     "kelime": "işlem ücreti",
     "aciklama": "blokzincir ağında bir transfer veya akıllı sözleşme çağrısı yaparken ağ",
@@ -630,7 +560,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 46,
+    "id": 41,
     "kategori": "kripto",
     "kelime": "işlem hacmi",
     "aciklama": "belirli bir zaman diliminde bir kripto paranın veya borsanın gerçekleştirdiği",
@@ -644,7 +574,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 47,
+    "id": 42,
     "kategori": "kripto",
     "kelime": "emir defteri",
     "aciklama": "borsada alıcıların ve satıcıların farklı fiyat seviyelerinde bekleyen tüm alım",
@@ -658,7 +588,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 48,
+    "id": 43,
     "kategori": "kripto",
     "kelime": "piyasa emri",
     "aciklama": "fiyat belirtmeksizin o anki en iyi mevcut fiyattan anında gerçekleşen",
@@ -672,7 +602,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 49,
+    "id": 44,
     "kategori": "kripto",
     "kelime": "limit emir",
     "aciklama": "işlemin yalnızca kullanıcının belirlediği fiyattan veya daha avantajlı bir fiyattan",
@@ -686,7 +616,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 50,
+    "id": 45,
     "kategori": "kripto",
     "kelime": "stop emri",
     "aciklama": "fiyat belirlenen kritik bir seviyeye düştüğünde zararı durdurmak amacıyla otomatik",
@@ -700,7 +630,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 51,
+    "id": 46,
     "kategori": "kripto",
     "kelime": "kaldıraçlı işlem",
     "aciklama": "kullanıcının sahip olduğu teminat miktarının katları kadar borç alarak büyük",
@@ -714,7 +644,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 52,
+    "id": 47,
     "kategori": "kripto",
     "kelime": "vadeli işlem",
     "aciklama": "bir kripto varlığın gelecekteki belirli bir tarihteki fiyatı üzerine bugünden",
@@ -728,7 +658,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 53,
+    "id": 48,
     "kategori": "kripto",
     "kelime": "spot piyasa",
     "aciklama": "kripto varlığın o anki piyasa fiyatından satın alınıp anında cüzdana",
@@ -742,7 +672,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 54,
+    "id": 49,
     "kategori": "kripto",
     "kelime": "tasfiye",
     "aciklama": "kaldıraçlı pozisyon açan yatırımcının zararının teminat miktarını aşması durumunda borsanın",
@@ -756,7 +686,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 55,
+    "id": 50,
     "kategori": "kripto",
     "kelime": "marjin çağrısı",
     "aciklama": "zarardaki kaldıraçlı pozisyonun kapanmaması için borsanın yatırımcıdan ek teminat yatırmasını",
@@ -770,7 +700,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 56,
+    "id": 51,
     "kategori": "kripto",
     "kelime": "fiyat grafiği",
     "aciklama": "bir kripto paranın geçmişten bugüne kadarki değer değişimlerini ve trendlerini",
@@ -784,7 +714,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 57,
+    "id": 52,
     "kategori": "kripto",
     "kelime": "mum grafiği",
     "aciklama": "belirli bir zaman aralığındaki açılış, kapanış, en yüksek ve en",
@@ -798,7 +728,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 58,
+    "id": 53,
     "kategori": "kripto",
     "kelime": "destek seviyesi",
     "aciklama": "fiyat düşerken alıcıların yoğunlaşarak düşüşü durdurması ve fiyatı yukarı zıplatması",
@@ -812,7 +742,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 59,
+    "id": 54,
     "kategori": "kripto",
     "kelime": "direnç seviyesi",
     "aciklama": "fiyat yükselirken satıcıların baskı kurarak yükselişi engellediği ve kar realizasyonu",
@@ -826,7 +756,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 60,
+    "id": 55,
     "kategori": "kripto",
     "kelime": "dip fiyat",
     "aciklama": "bir kripto paranın piyasaya çıktığı günden itibaren tarihindeki gördüğü en",
@@ -840,7 +770,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 61,
+    "id": 56,
     "kategori": "kripto",
     "kelime": "zirve fiyat",
     "aciklama": "bir kripto paranın tüm zamanlar boyunca piyasada ulaştığı kaydedilmiş en",
@@ -854,7 +784,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 62,
+    "id": 57,
     "kategori": "kripto",
     "kelime": "fiyat oynaklığı",
     "aciklama": "kripto para piyasasında fiyatların çok kısa süreler içinde yukarı ve",
@@ -868,7 +798,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 63,
+    "id": 58,
     "kategori": "kripto",
     "kelime": "fiyat rallisi",
     "aciklama": "piyasada yoğun para girişiyle birlikte kripto para fiyatlarının günlerce ve",
@@ -882,7 +812,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 64,
+    "id": 59,
     "kategori": "kripto",
     "kelime": "varlık sepeti",
     "aciklama": "tüm parayı tek bir kriptoya yatırmak yerine farklı kategorilerdeki coinlere",
@@ -896,7 +826,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 65,
+    "id": 60,
     "kategori": "kripto",
     "kelime": "sepet yapmak",
     "aciklama": "kripto piyasasındaki tek bir projenin batma riskinden korunmak amacıyla parayı",
@@ -910,7 +840,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 66,
+    "id": 61,
     "kategori": "kripto",
     "kelime": "uzun pozisyon",
     "aciklama": "kripto paranın gelecekte değer kazanacağı beklentisiyle vadeli piyasada açılan yükseliş",
@@ -924,7 +854,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 67,
+    "id": 62,
     "kategori": "kripto",
     "kelime": "kısa pozisyon",
     "aciklama": "fiyatın düşeceğini öngörerek vadeli piyasada satış yönünde açılan ve düşüşten",
@@ -938,7 +868,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 68,
+    "id": 63,
     "kategori": "kripto",
     "kelime": "yol haritası",
     "aciklama": "kripto projesinin çeyrekler halinde gelecekte hangi aşamaları ve teknik güncellemeleri",
@@ -952,7 +882,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 69,
+    "id": 64,
     "kategori": "kripto",
     "kelime": "madencilik donanımı",
     "aciklama": "kripto para madenciliği için özel tasarlanmış yüksek işlem gücüne ve",
@@ -966,7 +896,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 70,
+    "id": 65,
     "kategori": "kripto",
     "kelime": "kart madenciliği",
     "aciklama": "grafik işlemcisi barındıran güçlü ekran kartlarının paralel hesaplama gücünden yararlanılarak",
@@ -980,7 +910,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 71,
+    "id": 66,
     "kategori": "kripto",
     "kelime": "işlem onayı",
     "aciklama": "yapılan bir para transferinin yeni çıkarılan bir bloğa dahil edilerek",
@@ -994,7 +924,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 72,
+    "id": 67,
     "kategori": "kripto",
     "kelime": "şeffaflık",
     "aciklama": "kamuya açık blokzincirlerde yapılan tüm transferlerin, adreslerin ve bakiyelerin herkes",
@@ -1008,7 +938,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 73,
+    "id": 68,
     "kategori": "kripto",
     "kelime": "anonimlik",
     "aciklama": "kripto para transferlerinde kişinin gerçek kimliğinin, adının ve soyadının sistemde",
@@ -1022,7 +952,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 74,
+    "id": 69,
     "kategori": "kripto",
     "kelime": "oltalama saldırısı",
     "aciklama": "kullanıcıları sahte borsa web sitelerine yönlendirerek cüzdan şifrelerini ve tohum",
@@ -1036,7 +966,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 75,
+    "id": 70,
     "kategori": "kripto",
     "kelime": "sahte token",
     "aciklama": "popüler bir projenin adını ve logosunu kopyalayarak yatırımcıları aldatmak amacıyla",
@@ -1051,176 +981,8 @@
   },
   {
     "kategori": "kripto",
-    "kelime": "bitcoin almak",
-    "aciklama": "borsadan nakit parayla lider kripto para birimini satın almak.",
-    "yasakli_kelimeler": [
-      "kripto para",
-      "borsa",
-      "yatırım",
-      "satın alma",
-      "btc"
-    ],
-    "zorluk": "kolay",
-    "id": 76
-  },
-  {
-    "kategori": "kripto",
-    "kelime": "cüzdan oluşturmak",
-    "aciklama": "kripto varlıkları güvenle tutmak için dijital cüzdan açmak.",
-    "yasakli_kelimeler": [
-      "kripto cüzdan",
-      "adres",
-      "şifre",
-      "saklama",
-      "hesap"
-    ],
-    "zorluk": "kolay",
-    "id": 77
-  },
-  {
-    "kategori": "kripto",
-    "kelime": "kripto satmak",
-    "aciklama": "dijital parayı satıp geleneksel para birimine dönüştürmek.",
-    "yasakli_kelimeler": [
-      "nakde çevirmek",
-      "kar realizasyonu",
-      "borsa",
-      "para çekme",
-      "satış"
-    ],
-    "zorluk": "kolay",
-    "id": 78
-  },
-  {
-    "kategori": "kripto",
-    "kelime": "para transfer etmek",
-    "aciklama": "kripto parayı bir cüzdan adresinden diğerine yollamak.",
-    "yasakli_kelimeler": [
-      "göndermek",
-      "cüzdan adresi",
-      "ağ",
-      "transfer",
-      "onay"
-    ],
-    "zorluk": "kolay",
-    "id": 79
-  },
-  {
-    "kategori": "kripto",
-    "kelime": "fiyat grafiğini izlemek",
-    "aciklama": "kripto paranın anlık değer değişimlerini grafik üzerinden takip etmek.",
-    "yasakli_kelimeler": [
-      "yeşil kırmızı mumlar",
-      "yükseliş düşüş",
-      "ekran",
-      "takip",
-      "borsa"
-    ],
-    "zorluk": "kolay",
-    "id": 80
-  },
-  {
-    "kategori": "kripto",
-    "kelime": "şifre saklamak",
-    "aciklama": "kripto hesabına giriş bilgilerini güvenli bir yerde muhafaza etmek.",
-    "yasakli_kelimeler": [
-      "parola",
-      "güvenlik",
-      "kaybetmemek",
-      "kağıda yazma",
-      "cüzdan"
-    ],
-    "zorluk": "kolay",
-    "id": 81
-  },
-  {
-    "kategori": "kripto",
-    "kelime": "borsaya üye olmak",
-    "aciklama": "kripto para alım satımı yapılan platforma kayıt yaptırmak.",
-    "yasakli_kelimeler": [
-      "binance",
-      "kayıt",
-      "hesap açma",
-      "alım satım platformu",
-      "kimlik"
-    ],
-    "zorluk": "kolay",
-    "id": 82
-  },
-  {
-    "kategori": "kripto",
-    "kelime": "altcoin araştırmak",
-    "aciklama": "bitcoin dışındaki alternatif kripto para projelerini incelemek.",
-    "yasakli_kelimeler": [
-      "proje",
-      "ethereum",
-      "yeni coin",
-      "inceleme",
-      "yatırım"
-    ],
-    "zorluk": "kolay",
-    "id": 83
-  },
-  {
-    "kategori": "kripto",
-    "kelime": "madencilik yapmak",
-    "aciklama": "bilgisayar donanımlarının işlem gücüyle kripto para üretmek.",
-    "yasakli_kelimeler": [
-      "mining",
-      "ekran kartı",
-      "üretim",
-      "elektrik",
-      "cihaz"
-    ],
-    "zorluk": "kolay",
-    "id": 84
-  },
-  {
-    "kategori": "kripto",
-    "kelime": "alarm kurmak",
-    "aciklama": "coin belirli bir fiyata ulaştığında telefonun uyarı vermesini sağlamak.",
-    "yasakli_kelimeler": [
-      "fiyat uyarısı",
-      "hedef seviye",
-      "bildirim",
-      "uygulama",
-      "yükselince"
-    ],
-    "zorluk": "kolay",
-    "id": 85
-  },
-  {
-    "kategori": "kripto",
-    "kelime": "zarar etmek",
-    "aciklama": "fiyatların sert düşmesi sonucu yatırılan paranın değer kaybetmesi.",
-    "yasakli_kelimeler": [
-      "kayıp",
-      "düşüş",
-      "panik satışı",
-      "eksi bakiye",
-      "para kaybetme"
-    ],
-    "zorluk": "kolay",
-    "id": 86
-  },
-  {
-    "kategori": "kripto",
-    "kelime": "hesabı onaylatmak",
-    "aciklama": "borsada işlem yapabilmek için kimlik ve adres belgelerini doğrulatmak.",
-    "yasakli_kelimeler": [
-      "kyc",
-      "kimlik yükleme",
-      "selfie",
-      "doğrulama",
-      "borsa izni"
-    ],
-    "zorluk": "kolay",
-    "id": 87
-  },
-  {
-    "kategori": "kripto",
     "kelime": "staking yapmak",
-    "aciklama": "coinleri belirli süre cüzdanda kilitleyerek pasif getiri kazanmak.",
+    "aciklama": "coinleri belirli süre cüzdanda kilitleyerek pasif getiri kazanmak",
     "yasakli_kelimeler": [
       "kitlemek",
       "faiz geliri",
@@ -1229,26 +991,12 @@
       "ağ güvenliği"
     ],
     "zorluk": "orta",
-    "id": 88
-  },
-  {
-    "kategori": "kripto",
-    "kelime": "soğuk cüzdana aktarmak",
-    "aciklama": "kripto varlıkları hacker riskine karşı donanımsal çevrimdışı cihaza çekmek.",
-    "yasakli_kelimeler": [
-      "ledger",
-      "trezor",
-      "donanım cüzdanı",
-      "internetsiz saklama",
-      "usb"
-    ],
-    "zorluk": "orta",
-    "id": 89
+    "id": 71
   },
   {
     "kategori": "kripto",
     "kelime": "airdrop kazanmak",
-    "aciklama": "yeni çıkan projenin tanıtım amacıyla bedava dağıttığı tokenları toplamak.",
+    "aciklama": "yeni çıkan projenin tanıtım amacıyla bedava dağıttığı tokenları toplamak",
     "yasakli_kelimeler": [
       "ücretsiz token",
       "proje dağıtımı",
@@ -1257,40 +1005,12 @@
       "testnet"
     ],
     "zorluk": "orta",
-    "id": 90
-  },
-  {
-    "kategori": "kripto",
-    "kelime": "kaldıraçlı işlem açmak",
-    "aciklama": "ana paranın katları büyüklüğünde borçlanarak yüksek riskli pozisyon almak.",
-    "yasakli_kelimeler": [
-      "vadeli işlemler",
-      "futures",
-      "10x 50x",
-      "likidasyon riski",
-      "long short"
-    ],
-    "zorluk": "orta",
-    "id": 91
-  },
-  {
-    "kategori": "kripto",
-    "kelime": "gas ücreti ödemek",
-    "aciklama": "blokzincir üzerinde transfer veya işlem yaparken ağa ödenen komisyon.",
-    "yasakli_kelimeler": [
-      "ağ transfer maliyeti",
-      "gwei",
-      "madenci payı",
-      "işlem ücreti",
-      "ethereum"
-    ],
-    "zorluk": "orta",
-    "id": 92
+    "id": 72
   },
   {
     "kategori": "kripto",
     "kelime": "stop-loss koymak",
-    "aciklama": "zararı sınırlandırmak için belirli bir fiyata otomatik satış emri girmek.",
+    "aciklama": "zararı sınırlandırmak için belirli bir fiyata otomatik satış emri girmek",
     "yasakli_kelimeler": [
       "zarar durdur",
       "otomatik emir",
@@ -1299,26 +1019,12 @@
       "borsa"
     ],
     "zorluk": "orta",
-    "id": 93
-  },
-  {
-    "kategori": "kripto",
-    "kelime": "soğuk cüzdana çekmek",
-    "aciklama": "merkeziyetsiz borsadaki alım satımlara fon sağlayıp komisyon geliri elde etmek.",
-    "yasakli_kelimeler": [
-      "yield farming",
-      "lp token",
-      "havuz geliri",
-      "çift coin",
-      "dex"
-    ],
-    "zorluk": "orta",
-    "id": 94
+    "id": 73
   },
   {
     "kategori": "kripto",
     "kelime": "hodl etmek",
-    "aciklama": "piyasa ne kadar düşerse düşsün varlıkları yıllarca satmadan elde tutmak.",
+    "aciklama": "piyasa ne kadar düşerse düşsün varlıkları yıllarca satmadan elde tutmak",
     "yasakli_kelimeler": [
       "asla satmamak",
       "uzun vadeli tutma",
@@ -1327,48 +1033,6 @@
       "kripto kültürü"
     ],
     "zorluk": "orta",
-    "id": 95
-  },
-  {
-    "kategori": "kripto",
-    "kelime": "limit emir girmek",
-    "aciklama": "i̇şlemin gerçekleşmesini istediği kesin fiyat seviyesini tahtaya yazmak.",
-    "yasakli_kelimeler": [
-      "istenen fiyat",
-      "bekleyen emir",
-      "piyasa emri karşıtı",
-      "alım satım",
-      "tahta"
-    ],
-    "zorluk": "orta",
-    "id": 96
-  },
-  {
-    "kategori": "kripto",
-    "kelime": "dolandırıcılık tuzağına düşmek",
-    "aciklama": "geliştiricilerin havuzdaki tüm parayı çekip kaçmasıyla mağdur olmak.",
-    "yasakli_kelimeler": [
-      "likiditeyi çekme",
-      "dolandırıcılık",
-      "sıfırlanma",
-      "sahte proje",
-      "geliştirici kaçışı"
-    ],
-    "zorluk": "orta",
-    "id": 97
-  },
-  {
-    "kategori": "kripto",
-    "kelime": "boğa piyasasını yaşamak",
-    "aciklama": "tüm kripto varlıkların aylar boyu rekorlar kırarak değer kazandığı dönemi",
-    "yasakli_kelimeler": [
-      "bull run",
-      "sürekli yükseliş",
-      "ath",
-      "rekor fiyatlar",
-      "coşku"
-    ],
-    "zorluk": "orta",
-    "id": 98
+    "id": 74
   }
 ]

@@ -1,9 +1,9 @@
 [
   {
     "id": 1,
-    "kategori": "paleontoloji",
     "kelime": "fosil",
-    "aciklama": "kayaçlar içinde korunmuş canlı kalıntıları veya izleri.",
+    "kategori": "paleontoloji",
+    "aciklama": "kayaçlar içinde taşlaşarak korunmuş canlı kalıntısı.",
     "yasakli_kelimeler": [
       "kalıntı",
       "kemik",
@@ -15,37 +15,37 @@
   },
   {
     "id": 2,
-    "kategori": "paleontoloji",
     "kelime": "paleontoloji",
-    "aciklama": "fosilleri inceleyerek geçmiş jeolojik dönemlerdeki yaşamı araştıran bilim.",
+    "kategori": "paleontoloji",
+    "aciklama": "fosilleri inceleyerek geçmişteki yaşamı araştıran bilim dalı.",
     "yasakli_kelimeler": [
       "bilim",
       "fosil",
       "dinozor",
       "jeoloji",
-      "evrim"
+      "kazı"
     ],
-    "zorluk": "kolay"
+    "zorluk": "orta"
   },
   {
     "id": 3,
-    "kategori": "paleontoloji",
     "kelime": "ammonit",
-    "aciklama": "helezoni kabuklu soyu tükenmiş mezozoik kafadan bacaklı yumuşakçası.",
+    "kategori": "paleontoloji",
+    "aciklama": "helezon kabuklu soyu tükenmiş deniz yumuşakçası fosili.",
     "yasakli_kelimeler": [
       "sarmal",
       "kabuk",
       "kafadan bacaklı",
-      "mezozoik",
-      "deniz"
+      "deniz",
+      "salyangoz"
     ],
-    "zorluk": "kolay"
+    "zorluk": "zor"
   },
   {
     "id": 4,
-    "kategori": "paleontoloji",
     "kelime": "amber",
-    "aciklama": "ağaç reçinesinin sertleşmesiyle oluşan ve böcekleri koruyan fosil.",
+    "kategori": "paleontoloji",
+    "aciklama": "içinde böcek kalıntıları hapseden fosilleşmiş ağaç reçinesi.",
     "yasakli_kelimeler": [
       "kehribar",
       "reçine",
@@ -53,13 +53,13 @@
       "fosil",
       "ağaç"
     ],
-    "zorluk": "kolay"
+    "zorluk": "orta"
   },
   {
     "id": 5,
-    "kategori": "paleontoloji",
     "kelime": "arkeopteriks",
-    "aciklama": "sürüngenler ile kuşlar arasındaki evrimsel geçişi gösteren kanatlı fosil.",
+    "kategori": "paleontoloji",
+    "aciklama": "dinozorlar ile kuşlar arasındaki geçişi gösteren kanatlı fosil.",
     "yasakli_kelimeler": [
       "kuş",
       "tüy",
@@ -67,139 +67,125 @@
       "geçiş formu",
       "kanat"
     ],
-    "zorluk": "kolay"
+    "zorluk": "zor"
   },
   {
     "id": 6,
+    "kelime": "dinozor",
     "kategori": "paleontoloji",
-    "kelime": "karbon-14 tarihlendirme",
-    "aciklama": "paleozoik denizlerinde yaşayan diş benzeri mikroskobik kordalı fosili.",
+    "aciklama": "milyonlarca yıl önce dünyada yaşamış dev sürüngen.",
     "yasakli_kelimeler": [
-      "organik",
-      "izotop",
-      "yaş tayini",
-      "radyokarbon",
-      "yarılanma"
+      "sürüngen",
+      "t-rex",
+      "soyu tükenmiş",
+      "jura",
+      "fosil"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 7,
-    "kategori": "paleontoloji",
-    "kelime": "dinozor",
-    "aciklama": "paleozoik denizlerinde mercan resifleri oluşturan kalkerli sünger grubu.",
-    "yasakli_kelimeler": [
-      "sürüngen",
-      "mezozoik",
-      "kretase",
-      "jura",
-      "t-rex"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 8,
-    "kategori": "paleontoloji",
     "kelime": "pterozor",
-    "aciklama": "kanat zarı bulunan soyu tükenmiş uçan sürüngenler takımı.",
+    "kategori": "paleontoloji",
+    "aciklama": "mezozoik çağda yaşamış kanatlı uçan sürüngen.",
     "yasakli_kelimeler": [
       "uçan sürüngen",
       "kanat",
       "pterodaktil",
       "gökyüzü",
-      "mezozoik"
+      "dinozor"
     ],
-    "zorluk": "kolay"
+    "zorluk": "orta"
   },
   {
-    "id": 9,
-    "kategori": "paleontoloji",
+    "id": 8,
     "kelime": "mamut",
-    "aciklama": "soğuk iklime uyum sağlamış kalın kürklü soyu tükenmiş fil.",
+    "kategori": "paleontoloji",
+    "aciklama": "buzul çağında yaşamış kalın kürklü dev fil.",
     "yasakli_kelimeler": [
       "fil",
       "buzul çağı",
       "kürk",
       "fildişi",
-      "pleistosen"
+      "hortum"
     ],
     "zorluk": "kolay"
   },
   {
-    "id": 10,
+    "id": 9,
+    "kelime": "smilodon",
     "kategori": "paleontoloji",
-    "kelime": "kılıç dişli kedi",
-    "aciklama": "tüm zamanların en büyük etobur teropod dinozoru.",
+    "aciklama": "uzun köpek dişlerine sahip soyu tükenmiş yırtıcı kedi.",
     "yasakli_kelimeler": [
-      "smilodon",
-      "köpek dişi",
-      "yırtıcı",
+      "kılıç dişli",
+      "kaplan",
       "buzul çağı",
-      "kaplan"
+      "yırtıcı",
+      "kedi"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 10,
+    "kelime": "megalodon",
+    "kategori": "paleontoloji",
+    "aciklama": "okyanuslarda yaşamış devasa büyüklükteki soyu tükenmiş köpekbalığı.",
+    "yasakli_kelimeler": [
+      "köpekbalığı",
+      "diş",
+      "okyanus",
+      "dev",
+      "yırtıcı"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 11,
-    "kategori": "paleontoloji",
-    "kelime": "megalodon",
-    "aciklama": "boynuzlu ve yakalı zırhlı otobur kretase dinozoru.",
-    "yasakli_kelimeler": [
-      "köpekbalığı",
-      "diş",
-      "okyanus",
-      "senozoik",
-      "dev"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 12,
-    "kategori": "paleontoloji",
     "kelime": "yaşayan fosil",
-    "aciklama": "milyonlarca yıldır neredeyse hiç değişmeden günümüze ulaşmış canlı.",
+    "kategori": "paleontoloji",
+    "aciklama": "milyonlarca yıldır biçim değiştirmeden günümüze ulaşmış tür.",
     "yasakli_kelimeler": [
       "değişmemiş",
       "koelakant",
       "ginkgo",
       "evrim",
-      "ilkel"
+      "canlı"
     ],
-    "zorluk": "kolay"
+    "zorluk": "orta"
   },
   {
-    "id": 13,
-    "kategori": "paleontoloji",
+    "id": 12,
     "kelime": "stegozor",
-    "aciklama": "uzun boyunlu ve kürek yüzgeçli mezozoik deniz sürüngeni.",
+    "kategori": "paleontoloji",
+    "aciklama": "sırtında kemik plakaları ve kuyruğunda dikenleri olan otobur.",
     "yasakli_kelimeler": [
       "plaka",
       "sırt",
       "diken",
       "kuyruk",
-      "jura"
+      "dinozor"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 13,
+    "kelime": "triseratops",
+    "kategori": "paleontoloji",
+    "aciklama": "başında üç boynuz ve boyun kalkanı olan otçul dinozor.",
+    "yasakli_kelimeler": [
+      "üç boynuz",
+      "kalkan",
+      "boyun",
+      "otçul",
+      "dinozor"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 14,
-    "kategori": "paleontoloji",
-    "kelime": "triseratops",
-    "aciklama": "mezozoik denizlerinin yırtıcı dev kertenkele benzeri sürüngeni.",
-    "yasakli_kelimeler": [
-      "üç boynuz",
-      "kalkan",
-      "boyun",
-      "kretase",
-      "otçul"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 15,
-    "kategori": "paleontoloji",
     "kelime": "velosiraptor",
-    "aciklama": "kuşlar ile dinozorlar arasındaki geçişi gösteren tüylü fosil.",
+    "kategori": "paleontoloji",
+    "aciklama": "ayaklarında orak şeklinde pençesi olan hızlı yırtıcı dinozor.",
     "yasakli_kelimeler": [
       "orak pençe",
       "hızlı",
@@ -210,605 +196,395 @@
     "zorluk": "kolay"
   },
   {
-    "id": 16,
-    "kategori": "paleontoloji",
+    "id": 15,
     "kelime": "tiranostor",
-    "aciklama": "kuşların doğrudan tüylü teropod dinozorlardan evrimleştiğini kanıtlayan fosil.",
+    "kategori": "paleontoloji",
+    "aciklama": "kısa kolları ve devasa çenesiyle ünlü yırtıcı dinozor.",
     "yasakli_kelimeler": [
       "t-rex",
       "yırtıcı",
       "çene",
       "ön kol",
-      "kretase"
+      "etobur"
     ],
     "zorluk": "kolay"
   },
   {
-    "id": 17,
-    "kategori": "paleontoloji",
-    "kelime": "homo neanderthalensis",
-    "aciklama": "okyanus tabanında kayaç oluşturan mavi-yeşil alg mikrobiyal yığını.",
-    "yasakli_kelimeler": [
-      "neandertal",
-      "insan",
-      "fosil",
-      "pleistosen",
-      "mağara"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 18,
-    "kategori": "paleontoloji",
+    "id": 16,
     "kelime": "dodo",
-    "aciklama": "kanada'da kambriyen canlı patlamasını belgeleyen ünlü fosil alanı.",
+    "kategori": "paleontoloji",
+    "aciklama": "insanlar tarafından avlanarak soyu tüketilmiş uçamayan ada kuşu.",
     "yasakli_kelimeler": [
       "uçamayan kuş",
       "mauritius",
       "soyu tükenmiş",
       "ada",
-      "insan"
+      "güvercin"
     ],
-    "zorluk": "kolay"
+    "zorluk": "orta"
+  },
+  {
+    "id": 17,
+    "kelime": "jura",
+    "kategori": "paleontoloji",
+    "aciklama": "dev dinozorların karada hüküm sürdüğü mezozoik dönemi.",
+    "yasakli_kelimeler": [
+      "dinozor",
+      "park",
+      "dönem",
+      "mezozoik",
+      "triyas"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 18,
+    "kelime": "kretase",
+    "kategori": "paleontoloji",
+    "aciklama": "dinozorların bir göktaşı çarpmasıyla yok olduğu jeolojik devir.",
+    "yasakli_kelimeler": [
+      "göktaşı",
+      "dönem",
+      "yok oluş",
+      "t-rex",
+      "jura"
+    ],
+    "zorluk": "orta"
   },
   {
     "id": 19,
+    "kelime": "triyas",
     "kategori": "paleontoloji",
-    "kelime": "jura",
-    "aciklama": "dev dinozorların ve ilk kuşların yaşadığı mezozoik dönemi.",
+    "aciklama": "ilk dinozorların ve memelilerin ortaya çıktığı jeolojik dönem.",
     "yasakli_kelimeler": [
+      "ilk dinozor",
+      "dönem",
       "mezozoik",
-      "dinozor",
-      "park",
-      "sauropod",
-      "dönem"
+      "başlangıç",
+      "jura"
     ],
-    "zorluk": "kolay"
+    "zorluk": "zor"
   },
   {
     "id": 20,
+    "kelime": "pangaea",
     "kategori": "paleontoloji",
-    "kelime": "kretase",
-    "aciklama": "dinozorların göktaşı çarpmasıyla yok olduğu jeolojik dönem.",
+    "aciklama": "kıtaların ayrılmadan önce oluşturduğu devasa tek kıta.",
     "yasakli_kelimeler": [
-      "tebeşir",
-      "göktaşı",
-      "çiçekli bitkiler",
-      "t-rex",
-      "dönem"
+      "tek kıta",
+      "kıtalar",
+      "ayrılma",
+      "levha",
+      "süper kıta"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 21,
+    "kelime": "fosilleşme",
     "kategori": "paleontoloji",
-    "kelime": "triyas",
-    "aciklama": "dinozorların ilk ortaya çıktığı mezozoik dönemi.",
+    "aciklama": "canlı kalıntılarının mineralleşip taş tabakaları içinde korunma süreci.",
     "yasakli_kelimeler": [
-      "ilk dinozor",
-      "başlangıç",
-      "mezozoik",
-      "pangaea",
-      "yenilenme"
+      "taşlaşma",
+      "çürüme",
+      "kemik",
+      "çökelti",
+      "süreç"
     ],
-    "zorluk": "kolay"
+    "zorluk": "orta"
   },
   {
     "id": 22,
+    "kelime": "brakiyozor",
     "kategori": "paleontoloji",
-    "kelime": "pangaea",
-    "aciklama": "yılan benzeri uzun gövdeli erken dönem dev fosil balinası.",
+    "aciklama": "uzun boynu ve devasa cüssesiyle bilinen otobur dinozor.",
     "yasakli_kelimeler": [
-      "süper kıta",
-      "panthalassa",
-      "kıta kayması",
-      "wegener",
-      "bütün"
+      "uzun boyun",
+      "otobur",
+      "dev",
+      "sauropod",
+      "dinozor"
     ],
-    "zorluk": "kolay"
+    "zorluk": "orta"
   },
   {
     "id": 23,
+    "kelime": "diplodokus",
     "kategori": "paleontoloji",
-    "kelime": "fosilleşme",
-    "aciklama": "canlı kalıntılarının kayaçlar içinde taşlaşarak günümüze ulaşması süreci.",
+    "aciklama": "uzun boynu ve kırbaç gibi kuyruğu olan dev otçul.",
     "yasakli_kelimeler": [
-      "korunma",
-      "tortul",
-      "mineralleşme",
-      "taş",
-      "kalıntı"
+      "uzun kuyruk",
+      "boyun",
+      "otobur",
+      "dinozor",
+      "sauropod"
     ],
-    "zorluk": "kolay"
+    "zorluk": "orta"
   },
   {
     "id": 24,
+    "kelime": "yünlü gergedan",
     "kategori": "paleontoloji",
-    "kelime": "brakiyozor",
-    "aciklama": "balıkların çeşitlendiği ve ilk amfibilerin çıktığı jeolojik dönem.",
+    "aciklama": "buzul çağında soğuktan korunmak için kalın kürke sahip gergedan.",
     "yasakli_kelimeler": [
-      "uzun boyunlu",
-      "otobur dinozor",
-      "dev sauropod",
-      "ön bacakları uzun",
-      "jurassic park"
+      "gergedan",
+      "buzul çağı",
+      "kürk",
+      "soğuk",
+      "boynuz"
     ],
-    "zorluk": "kolay"
+    "zorluk": "orta"
   },
   {
     "id": 25,
+    "kelime": "mağara ayısı",
     "kategori": "paleontoloji",
-    "kelime": "diplodokus",
-    "aciklama": "dev böceklerin ve kömür bataklıklarının oluştuğu jeolojik dönem.",
+    "aciklama": "pleistosen buzul çağında mağaralarda kış uykusuna yatan dev ayı.",
     "yasakli_kelimeler": [
-      "kırbaç kuyruk",
-      "uzun boyun",
-      "jura dönemi",
-      "sauropod dinozor",
-      "otobur dev"
+      "ayı",
+      "mağara",
+      "buzul çağı",
+      "fosil",
+      "iri"
     ],
-    "zorluk": "kolay"
+    "zorluk": "orta"
   },
   {
     "id": 26,
+    "kelime": "kemik fosili",
     "kategori": "paleontoloji",
-    "kelime": "yünlü gergedan",
-    "aciklama": "buzul çağında yaşamış kalın yünlü soyu tükenmiş gergedan.",
+    "aciklama": "canlının iskelet parçalarının taşlaşarak günümüze ulaşmış hali.",
     "yasakli_kelimeler": [
-      "buz çağı gergedanı",
-      "kalın kürk",
-      "mağara resmi boynuz",
-      "permafrost fosili",
-      "tundra memelisi"
+      "iskelet",
+      "kemik",
+      "taşlaşmış",
+      "kalıntı",
+      "kazı"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 27,
+    "kelime": "diş fosili",
     "kategori": "paleontoloji",
-    "kelime": "mağara ayısı",
-    "aciklama": "fosilleşmiş yumuşak dokuların mikroskobik hücresel yapısını inceleyen dal.",
+    "aciklama": "minesinin sertliği sayesinde kolayca bozulmadan korunan diş kalıntısı.",
     "yasakli_kelimeler": [
-      "ursus spelaeus",
-      "buzul çağı ayısı",
-      "mağara kemikleri",
-      "kış uykusu fosili",
-      "iri kafataslı"
+      "diş",
+      "çene",
+      "mine",
+      "yırtıcı",
+      "kalıntı"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 28,
+    "kelime": "kabuk fosili",
     "kategori": "paleontoloji",
-    "kelime": "kemik fosili",
-    "aciklama": "fosillerin elementer bileşimini belirleyen spektroskopik analiz tekniği.",
+    "aciklama": "midye veya salyangoz gibi deniz canlılarının sert kabuk kalıntısı.",
     "yasakli_kelimeler": [
-      "taşlaşmış iskelet",
-      "dinozor kemiği",
-      "mineralize kemik",
-      "omurgalı kalıntısı",
-      "fosil iskelet"
+      "deniz kabuğu",
+      "sert",
+      "kavkı",
+      "yumuşakça",
+      "ammonit"
     ],
-    "zorluk": "kolay"
+    "zorluk": "orta"
   },
   {
     "id": 29,
+    "kelime": "taşlaşmış ağaç",
     "kategori": "paleontoloji",
-    "kelime": "diş fosili",
-    "aciklama": "katmanlardaki fosil izlerini açığa çıkarmak için yapılan kazı.",
+    "aciklama": "odun dokusunun minerallerle değişerek taşa dönüşmüş hali.",
     "yasakli_kelimeler": [
-      "köpekbalığı dişi",
-      "mine tabakası",
-      "etçil otçul dişi",
-      "çene kalıntısı",
-      "sert fosil"
+      "odun",
+      "ağaç",
+      "silis",
+      "taş",
+      "orman"
     ],
-    "zorluk": "kolay"
+    "zorluk": "orta"
   },
   {
     "id": 30,
+    "kelime": "ayak izi",
     "kategori": "paleontoloji",
-    "kelime": "kabuk fosili",
-    "aciklama": "fosil kemikleri kayaçtan ayırmak için kullanılan jeolojik çekiç.",
+    "aciklama": "çamura basan dinozorun bıraktığı ve taşlaşan iz kalıntısı.",
     "yasakli_kelimeler": [
-      "deniz kabuğu",
-      "salyangoz kabuğu",
-      "ammonit kabuğu",
-      "kalsiyum karbonat",
-      "yumuşakça kalıntısı"
+      "iz",
+      "adım",
+      "çöp",
+      "taşlaşmış",
+      "taban"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 31,
+    "kelime": "yumurta fosili",
     "kategori": "paleontoloji",
-    "kelime": "taşlaşmış ağaç",
-    "aciklama": "fosil ağaç gövdelerinin mineralleşerek taşa dönüşmüş hali.",
+    "aciklama": "yuvalarda kabuğu taşlaşmış halde bulunan dinozor yumurtası.",
     "yasakli_kelimeler": [
-      "petrifiye ağaç",
-      "silisleşmiş kütük",
-      "taş orman",
-      "yıllık halkalı taş",
-      "ağaç fosili"
+      "yumurta",
+      "yuva",
+      "kuluçka",
+      "yavru",
+      "kabuk"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 32,
+    "kelime": "fosil yatağı",
     "kategori": "paleontoloji",
-    "kelime": "ayak izi",
-    "aciklama": "kazı alanında çıkarılan fosil bloğunu sarmak için kullanılan alçı.",
+    "aciklama": "çok sayıda canlının kalıntısının bir arada bulunduğu kayaç katmanı.",
     "yasakli_kelimeler": [
-      "adım izi",
-      "çamurdaki iz",
-      "dinozor adımı",
-      "içnofosil",
-      "yürüme izi"
+      "katman",
+      "tabaka",
+      "sediman",
+      "alan",
+      "buluntu"
     ],
-    "zorluk": "kolay"
+    "zorluk": "orta"
   },
   {
     "id": 33,
+    "kelime": "fosil kazısı",
     "kategori": "paleontoloji",
-    "kelime": "yumurta fosili",
-    "aciklama": "ağır sıvılar yardımıyla fosil kavkılarını tortuldan ayırma tekniği.",
+    "aciklama": "toprak altındaki kalıntıları çıkarmak için yapılan bilimsel kazı çalışması.",
     "yasakli_kelimeler": [
-      "dinozor yumurtası",
-      "fosil kabuk",
-      "embriyo kalıntısı",
-      "yuvarlak fosil",
-      "sauropod yumurtası"
+      "kazı",
+      "fırça",
+      "çekiç",
+      "arkeoloji",
+      "arama"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 34,
+    "kelime": "buz çağı",
     "kategori": "paleontoloji",
-    "kelime": "fosil yatağı",
-    "aciklama": "kayacın mikroskopta incelenecek kadar inceltilip parlatılmış dilimi.",
+    "aciklama": "büyük buzulların karaları kapladığı ve mamutların yaşadığı soğuk dönem.",
     "yasakli_kelimeler": [
-      "lagerstätte",
-      "zengin fosil alanı",
-      "kemik yatağı",
-      "kazı sahası",
-      "tabaka madeni"
+      "buzul",
+      "mamut",
+      "soğuk",
+      "iklim",
+      "kutuplar"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 35,
+    "kelime": "kitlesel yokoluş",
     "kategori": "paleontoloji",
-    "kelime": "fosil kazısı",
-    "aciklama": "katmanlardaki fosil izlerini açığa çıkarmak için yapılan kazı.",
+    "aciklama": "dünya genelinde canlı türlerinin büyük bölümünün aniden tükenmesi.",
     "yasakli_kelimeler": [
-      "paleontolojik kazı",
-      "kemik arama",
-      "fırça ve çekiç",
-      "arazi çalışması",
-      "iskelet çıkarma"
+      "türlerin tükenmesi",
+      "göktaşı",
+      "büyük felaket",
+      "dinozorlar",
+      "felaket"
     ],
-    "zorluk": "kolay"
+    "zorluk": "orta"
   },
   {
     "id": 36,
+    "kelime": "dinozor çağı",
     "kategori": "paleontoloji",
-    "kelime": "buz çağı",
-    "aciklama": "abd'de geç jura dinozor fosillerinin bulunduğu ünlü jeolojik formasyon.",
+    "aciklama": "mezozoik zaman boyunca dev sürüngenlerin dünyayı yönettiği çağ.",
     "yasakli_kelimeler": [
-      "glasiyal dönem",
-      "mamut çağı",
-      "küresel donma",
-      "kutupların genişlemesi",
-      "pleistosen"
+      "mezozoik",
+      "jura",
+      "kretase",
+      "dev sürüngen",
+      "çağ"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 37,
+    "kelime": "lucy fosili",
     "kategori": "paleontoloji",
-    "kelime": "buzul dönemi",
-    "aciklama": "kretase sonu dinozor fosillerinin çıkarıldığı zengin amerikan formasyonu.",
+    "aciklama": "insanın atalarına ait bulunan ünlü erken hominid iskeleti.",
     "yasakli_kelimeler": [
-      "glasiyasyon",
-      "buzulların ilerlemesi",
-      "deniz seviyesi düşüşü",
-      "würm riss",
-      "donma evresi"
+      "australopithecus",
+      "iskelet",
+      "etiyopya",
+      "erken insan",
+      "kemik"
     ],
-    "zorluk": "orta"
+    "zorluk": "zor"
   },
   {
     "id": 38,
+    "kelime": "kazmak",
     "kategori": "paleontoloji",
-    "kelime": "jeolojik devir",
-    "aciklama": "üvez, çam ve meşe gibi fosil odunları inceleyen alt bilim.",
+    "aciklama": "fosil kemiklerini bulmak için toprağı ve kayayı açmak.",
     "yasakli_kelimeler": [
-      "jeolojik dönem",
-      "zaman ölçeği",
-      "devir",
-      "kambriyen kretase",
-      "stratigrafik birim"
+      "kürek",
+      "kazma",
+      "toprak",
+      "çukur",
+      "kazı"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 39,
+    "kelime": "bulmak",
     "kategori": "paleontoloji",
-    "kelime": "jeolojik zaman",
-    "aciklama": "dünya tarihini milyarlarca yıllık jeolojik bölümlere ayıran cetvel.",
+    "aciklama": "kayaç katmanları arasında saklı kalmış yeni bir fosil keşfetmek.",
     "yasakli_kelimeler": [
-      "derin zaman",
-      "milyonlarca yıl",
-      "zaman cetveli",
-      "dünya tarihi",
-      "kronostratigrafi"
+      "keşfetmek",
+      "ortaya çıkarmak",
+      "rastlamak",
+      "saptamak",
+      "görmek"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 40,
+    "kelime": "taşlaşmak",
     "kategori": "paleontoloji",
-    "kelime": "kitlesel yokoluş",
-    "aciklama": "göktaşı çarpmasıyla canlı türlerinin yarısından fazlasının silinmesi.",
+    "aciklama": "organik dokuların minerallerle dolup taşa ve kayaya dönüşmesi.",
     "yasakli_kelimeler": [
-      "türlerin tükenmesi",
-      "büyük beşli",
-      "göktaşı felaketi",
-      "küresel ölüm",
-      "dinozorların sonu"
+      "mineralleşmek",
+      "sertleşmek",
+      "taş olmak",
+      "fosilleşmek",
+      "çürümemek"
     ],
-    "zorluk": "kolay"
+    "zorluk": "orta"
   },
   {
     "id": 41,
+    "kelime": "müzede sergilemek",
     "kategori": "paleontoloji",
-    "kelime": "dinozor çağı",
-    "aciklama": "triyas, jura ve kretaseyi kapsayan dev sürüngenler çağı.",
+    "aciklama": "bulunan dev dinozor iskeletini cam vitrinlerde ziyarete açmak.",
     "yasakli_kelimeler": [
-      "mezozoik zaman",
-      "sürüngen çağı",
-      "triyas jura kretase",
-      "dev sürüngenler",
-      "büyük kertenkeleler"
+      "müze",
+      "vitrin",
+      "ziyaretçi",
+      "iskelet",
+      "sergi"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 42,
-    "kategori": "paleontoloji",
-    "kelime": "memeliler çağı",
-    "aciklama": "dinozorların ardından memelilerin dünyaya egemen olduğu senozoik dönem.",
-    "yasakli_kelimeler": [
-      "senozoik zaman",
-      "üçüncü zaman",
-      "sıcakkanlı hayvanlar çağı",
-      "tersiyer kuvaterner",
-      "modern hayvanlar çağı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 43,
-    "kategori": "paleontoloji",
-    "kelime": "sürüngenler çağı",
-    "aciklama": "dinozorların ve uçan sürüngenlerin dünyayı paylaştığı mezozoik zaman.",
-    "yasakli_kelimeler": [
-      "mezozoik",
-      "dinozor dönemi",
-      "pterozor çağı",
-      "orta zaman",
-      "soğukkanlı devler çağı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 44,
-    "kategori": "paleontoloji",
-    "kelime": "homo erectus",
-    "aciklama": "ateşi kullanan ve afrika dışına çıkan ilk insan türü.",
-    "yasakli_kelimeler": [
-      "dik duran insan",
-      "ateşin kontrolü",
-      "ilk göç",
-      "acheulean baltası",
-      "pekin java insanı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 45,
-    "kategori": "paleontoloji",
-    "kelime": "homo sapiens",
-    "aciklama": "fosil türlerinin zaman içerisindeki evrimsel türeyiş ve yok oluş zinciri.",
-    "yasakli_kelimeler": [
-      "modern insan",
-      "düşünen insan",
-      "bizim türümüz",
-      "üç yüz bin yıl",
-      "cro magnon"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 46,
-    "kategori": "paleontoloji",
-    "kelime": "lucy fosili",
-    "aciklama": "etiyopya'da bulunan üç milyon yıllık meşhur australopithecus iskeleti.",
-    "yasakli_kelimeler": [
-      "australopithecus afarensis",
-      "etiyopya fosili",
-      "meşhur iskelet",
-      "donald johanson",
-      "üç milyon yıllık"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 47,
-    "kategori": "paleontoloji",
-    "kelime": "taş alet",
-    "aciklama": "fosilleşmiş dinozor veya kuş yumurtaları topluluğu.",
-    "yasakli_kelimeler": [
-      "çakmaktaşı alet",
-      "el baltası",
-      "yontmataş",
-      "litik endüstri",
-      "av aleti"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 48,
-    "kategori": "paleontoloji",
-    "kelime": "mağara resmi",
-    "aciklama": "kalker iskelete sahip soyu tükenmiş paleozoik mercan takımı.",
-    "yasakli_kelimeler": [
-      "lascaux altamira",
-      "duvar resmi",
-      "bizon çizimi",
-      "aşı boyası",
-      "antik sanat"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 49,
-    "kategori": "paleontoloji",
-    "kelime": "çene kemiği",
-    "aciklama": "silisli radyolarya kabuklarının derin okyanus tabanında oluşturduğu sert kayaç.",
-    "yasakli_kelimeler": [
-      "mandibula",
-      "alt çene fosili",
-      "diş yuvaları",
-      "etçil otçul çenesi",
-      "kemik buluntusu"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 50,
-    "kategori": "paleontoloji",
-    "kelime": "kafatası kemiği",
-    "aciklama": "demir oksit ve hidroksitlerin fosil kavkılarını kaplaması.",
-    "yasakli_kelimeler": [
-      "kranyum",
-      "baş iskeleti",
-      "beyin kutusu",
-      "göz çukuru",
-      "fosil kafa"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 51,
-    "kategori": "paleontoloji",
-    "kelime": "omur kemiği",
-    "aciklama": "fosil kavkı ve iskeletlerin pirit mineraline dönüşmesi.",
-    "yasakli_kelimeler": [
-      "vertebra",
-      "bel boyun kemiği",
-      "omurga parçası",
-      "sauropod omuru",
-      "hava cepli kemik"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 52,
-    "kategori": "paleontoloji",
-    "kelime": "kıkırdaklı balık",
-    "aciklama": "fosil boşluklarının silis ve kalsedon mineralleriyle dolması.",
-    "yasakli_kelimeler": [
-      "köpekbalığı vatoz",
-      "kıkırdak iskelet",
-      "dişleri korunan",
-      "kondriktiyes",
-      "fosil köpekbalığı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "kategori": "paleontoloji",
-    "kelime": "kazmak",
-    "aciklama": "fosil yatağını kürek ve çekiçle açıp kemik aramak",
-    "yasakli_kelimeler": [
-      "kürek",
-      "çekiç",
-      "toprak",
-      "kemik",
-      "kazı"
-    ],
-    "zorluk": "kolay",
-    "id": 53
-  },
-  {
-    "kategori": "paleontoloji",
-    "kelime": "bulmak",
-    "aciklama": "kayaç katmanları arasındaki fosil kalıntılarını saptamak",
-    "yasakli_kelimeler": [
-      "keşif",
-      "kaya",
-      "fosil",
-      "katman",
-      "kemik"
-    ],
-    "zorluk": "kolay",
-    "id": 54
-  },
-  {
-    "kategori": "paleontoloji",
-    "kelime": "taşlaşmak",
-    "aciklama": "kırılgan fosil kemiği ince fırçayla tozdan temizlemek",
-    "yasakli_kelimeler": [
-      "mineral",
-      "kaya",
-      "kemik",
-      "fosilleşme",
-      "katılaşma"
-    ],
-    "zorluk": "kolay",
-    "id": 55
-  },
-  {
-    "kategori": "paleontoloji",
-    "kelime": "müzede sergilemek",
-    "aciklama": "aşındırıcı toz püskürterek fosili ana kayadan ayırmak",
-    "yasakli_kelimeler": [
-      "müze",
-      "iskelet",
-      "vitrin",
-      "sergi",
-      "halk"
-    ],
-    "zorluk": "kolay",
-    "id": 56
-  },
-  {
-    "kategori": "paleontoloji",
     "kelime": "yok olmak",
-    "aciklama": "fosil kemiklerin kırık parçalarını sentetik reçineyle yapıştırmak",
-    "yasakli_kelimeler": [
-      "tükenmek",
-      "dinozor",
-      "nesil",
-      "göktaşı",
-      "silinmek"
-    ],
-    "zorluk": "kolay",
-    "id": 57
-  },
-  {
     "kategori": "paleontoloji",
-    "kelime": "kitlesel yok oluş",
-    "aciklama": "türlerin dünya genelinde kısa sürede topluca yok olması.",
+    "aciklama": "bir canlı türünün yeryüzündeki tüm bireylerinin ölerek tükenmesi.",
     "yasakli_kelimeler": [
-      "büyük ölüm",
-      "permiyen triyas",
-      "yüzde 96",
-      "volkanizma",
-      "küresel yok oluş"
+      "soyu tükenmek",
+      "nesli bitmek",
+      "ölmek",
+      "silinmek",
+      "kaybolmak"
     ],
-    "zorluk": "zor",
-    "id": 58
+    "zorluk": "kolay"
   }
 ]

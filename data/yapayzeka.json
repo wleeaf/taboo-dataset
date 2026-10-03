@@ -2,13 +2,13 @@
   {
     "id": 1,
     "kategori": "yapayzeka",
-    "kelime": "yapay sinir ağı",
-    "aciklama": "biyolojik sinir sisteminden esinlenerek katmanlar halinde birbirine bağlı yapay nöronlarla.",
+    "kelime": "sinir ağı",
+    "aciklama": "insan beynindeki nöronları taklit eden yapay zeka mimarisi.",
     "yasakli_kelimeler": [
       "nöron",
       "katman",
-      "ağırlık",
-      "biyolojik",
+      "beyin",
+      "öğrenme",
       "model"
     ],
     "zorluk": "kolay"
@@ -17,7 +17,7 @@
     "id": 2,
     "kategori": "yapayzeka",
     "kelime": "derin öğrenme",
-    "aciklama": "çok sayıda gizli katmana sahip yapay sinir ağlarını kullanarak karmaşık.",
+    "aciklama": "çok katmanlı sinir ağlarıyla karmaşık verileri işleme yöntemi.",
     "yasakli_kelimeler": [
       "katman",
       "sinir ağı",
@@ -30,33 +30,19 @@
   {
     "id": 3,
     "kategori": "yapayzeka",
-    "kelime": "büyük dil modeli",
-    "aciklama": "milyarlarca parametreyle devasa metin derlemleri üzerinde eğitilerek insan benzeri metin.",
+    "kelime": "halüsinasyon",
+    "aciklama": "yapay zekanın gerçek dışı ve uydurma bilgiler üretmesi.",
     "yasakli_kelimeler": [
-      "llm",
-      "parametre",
-      "metin",
-      "belirteç",
-      "üretim"
+      "uydurma",
+      "yanlış",
+      "hata",
+      "cevap",
+      "model"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 4,
-    "kategori": "yapayzeka",
-    "kelime": "yapay zeka halüsinasyonu",
-    "aciklama": "büyük dil modellerinin gerçeğe aykırı, mantıksız veya uydurma bilgileri son.",
-    "yasakli_kelimeler": [
-      "uydurma",
-      "yanılsama",
-      "yanlış",
-      "güven",
-      "üretim"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 5,
     "kategori": "yapayzeka",
     "kelime": "turing testi",
     "aciklama": "makinenin sergilediği davranışların bir insandan ayırt edilip edilemeyeceğini ölçen meşhur.",
@@ -70,10 +56,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 6,
+    "id": 5,
     "kategori": "yapayzeka",
     "kelime": "otonom sürüş",
-    "aciklama": "sensörler, kameralar ve derin öğrenme algoritmalarıyla bir taşıtın insan müdahalesi.",
+    "aciklama": "aracın insan müdahalesi olmadan kendi kendine yol alması.",
     "yasakli_kelimeler": [
       "araç",
       "şoför",
@@ -84,10 +70,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 7,
+    "id": 6,
     "kategori": "yapayzeka",
     "kelime": "nesne tespiti",
-    "aciklama": "görseldeki varlıkların hem sınıfını belirleyip hem de sınırlayıcı kutular ile.",
+    "aciklama": "fotoğraftaki varlıkların yerini ve türünü belirleme teknolojisi.",
     "yasakli_kelimeler": [
       "kutu",
       "konum",
@@ -98,7 +84,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 8,
+    "id": 7,
     "kategori": "yapayzeka",
     "kelime": "süper zeka",
     "aciklama": "bilimsel yaratıcılık, genel bilgelik ve sosyal beceriler dahil her alanda.",
@@ -112,35 +98,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 9,
-    "kategori": "yapayzeka",
-    "kelime": "gözetimli öğrenme",
-    "aciklama": "modelin girdi verileri ile bunlara karşılık gelen doğru etiketleri eşleştirerek.",
-    "yasakli_kelimeler": [
-      "etiket",
-      "hedef",
-      "girdi",
-      "doğru cevap",
-      "öğrenme"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 10,
-    "kategori": "yapayzeka",
-    "kelime": "gözetimsiz öğrenme",
-    "aciklama": "hiçbir insan etiketi veya yönlendirmesi olmadan verideki gizli desenleri ve.",
-    "yasakli_kelimeler": [
-      "etiketsiz",
-      "kümeleme",
-      "desen",
-      "yapı",
-      "veri"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 11,
+    "id": 8,
     "kategori": "yapayzeka",
     "kelime": "konuşma tanıma",
     "aciklama": "insan ses dalgalarını analiz ederek konuşulan kelimeleri otomatik biçimde yazılı.",
@@ -154,21 +112,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 12,
-    "kategori": "yapayzeka",
-    "kelime": "metinden sese dönüştürme",
-    "aciklama": "yazılı bir metni doğal, akıcı ve insan benzeri yapay ses.",
-    "yasakli_kelimeler": [
-      "sentez",
-      "seslendirme",
-      "yazı",
-      "okuma",
-      "akıcı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 13,
+    "id": 9,
     "kategori": "yapayzeka",
     "kelime": "duygu analizi",
     "aciklama": "metinlerdeki olumlu, olumsuz veya nötr öznel hisleri ve düşünceleri yapay.",
@@ -182,10 +126,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 14,
+    "id": 10,
     "kategori": "yapayzeka",
     "kelime": "makine çevirisi",
-    "aciklama": "dildeki metni veya konuşmayı yapay sinir ağları ile başka bir.",
+    "aciklama": "metinleri diller arasında yapay zekayla otomatik çevirme sistemi.",
     "yasakli_kelimeler": [
       "tercüme",
       "dil",
@@ -196,7 +140,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 15,
+    "id": 11,
     "kategori": "yapayzeka",
     "kelime": "yapay görme",
     "aciklama": "bilgisayarların dijital görüntülerden veya videolardan üst düzey anlam ve veri.",
@@ -210,91 +154,21 @@
     "zorluk": "kolay"
   },
   {
-    "id": 16,
+    "id": 12,
     "kategori": "yapayzeka",
-    "kelime": "bulanık mantık",
-    "aciklama": "kesin doğru ya da yanlış yerine sıfır ile bir arasındaki.",
+    "kelime": "deepfake",
+    "aciklama": "yapay zekayla sahte yüz veya ses üretme teknolojisi.",
     "yasakli_kelimeler": [
-      "kısmi",
-      "derece",
-      "kesin",
-      "belirsizlik",
-      "küme"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 17,
-    "kategori": "yapayzeka",
-    "kelime": "derin sahte",
-    "aciklama": "derin öğrenme algoritmalarıyla bir kişinin yüzünü veya sesini başka bir.",
-    "yasakli_kelimeler": [
-      "deepfake",
-      "yüz değiştirme",
-      "video",
       "sahte",
+      "video",
+      "yüz",
+      "ses",
       "montaj"
     ],
     "zorluk": "kolay"
   },
   {
-    "id": 18,
-    "kategori": "yapayzeka",
-    "kelime": "yapay zeka güvenliği",
-    "aciklama": "otonom yapay zeka sistemlerinin insanlığa zarar vermesini önlemek ve kontrol.",
-    "yasakli_kelimeler": [
-      "risk",
-      "kontrol",
-      "tehdit",
-      "insanlık",
-      "etik"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 19,
-    "kategori": "yapayzeka",
-    "kelime": "yapay zeka önyargısı",
-    "aciklama": "eğitim verilerindeki insan yanlılıklarının algoritmalar tarafından öğrenilerek adil olmayan kararlar.",
-    "yasakli_kelimeler": [
-      "taraflılık",
-      "ayrımcılık",
-      "adalet",
-      "eğitim verisi",
-      "yanlılık"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 20,
-    "kategori": "yapayzeka",
-    "kelime": "veri madenciliği",
-    "aciklama": "büyük veri yığınları arasından gizli desenleri, kuralları ve anlamlı ilişkileri.",
-    "yasakli_kelimeler": [
-      "data mining",
-      "büyük veri",
-      "örüntü çıkarma",
-      "ilişki bulma",
-      "veri analitiği"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 21,
-    "kategori": "yapayzeka",
-    "kelime": "veri temizleme",
-    "aciklama": "yapay zeka modelini eğitmeden önce veri setindeki hatalı, eksik veya.",
-    "yasakli_kelimeler": [
-      "data cleaning",
-      "hatalı kayıt silme",
-      "eksik veri tamamlama",
-      "veri ön hazırlığı",
-      "gürültü temizleme"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 22,
+    "id": 13,
     "kategori": "yapayzeka",
     "kelime": "veri seti",
     "aciklama": "makine öğrenimi modelinin eğitilmesi ve test edilmesi için toplanmış organize.",
@@ -308,7 +182,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 23,
+    "id": 14,
     "kategori": "yapayzeka",
     "kelime": "eğitim verisi",
     "aciklama": "yapay zeka modelinin parametrelerini ve ağırlıklarını öğrenmesi için kullanılan ana.",
@@ -322,24 +196,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 24,
-    "kategori": "yapayzeka",
-    "kelime": "test verisi",
-    "aciklama": "eğitimi biten modelin başarısını ve doğruluğunu daha önce hiç görmediği.",
-    "yasakli_kelimeler": [
-      "testing data",
-      "sınama verisi",
-      "eğitim verisi zıddı",
-      "başarı ölçümü",
-      "görülmemiş veri"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 25,
+    "id": 15,
     "kategori": "yapayzeka",
     "kelime": "sınıflandırma",
-    "aciklama": "girdileri kedi ya da köpek, spam ya da güvenli gibi.",
+    "aciklama": "girdileri kedi ya da köpek, spam ya da güvenli.",
     "yasakli_kelimeler": [
       "kategorilere ayırma",
       "classification",
@@ -350,21 +210,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 26,
-    "kategori": "yapayzeka",
-    "kelime": "yapay nöron",
-    "aciklama": "biyolojik beyin hücresini taklit eden, girdileri ağırlıklarla çarpıp toplayarak çıktı.",
-    "yasakli_kelimeler": [
-      "düğüm",
-      "yapay beyin hücresi",
-      "perseptron birimi",
-      "sinir hücresi modeli",
-      "katman hücresi"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 27,
+    "id": 16,
     "kategori": "yapayzeka",
     "kelime": "dil modeli",
     "aciklama": "dildeki kelimelerin peş peşe gelme olasılıklarını hesaplayarak tutarlı ve anlamlı.",
@@ -378,21 +224,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 28,
-    "kategori": "yapayzeka",
-    "kelime": "metin madenciliği",
-    "aciklama": "yapılandırılmamış milyonlarca kitap ve makale metninden algoritmalarla gizli bilgileri ve.",
-    "yasakli_kelimeler": [
-      "text mining",
-      "metin analizi",
-      "yazılı veri analitiği",
-      "konu çıkarma",
-      "doküman tarama"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 29,
+    "id": 17,
     "kategori": "yapayzeka",
     "kelime": "dil çevirisi",
     "aciklama": "dilde yazılmış metni anlamını bozmadan saniyeler içinde başka bir dünya.",
@@ -406,10 +238,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 30,
+    "id": 18,
     "kategori": "yapayzeka",
     "kelime": "metin özetleme",
-    "aciklama": "yüzlerce sayfalık raporu veya makaleyi okuyup ana fikirlerini içeren bir.",
+    "aciklama": "uzun rapor veya makalelerin ana fikrini otomatik çıkarma.",
     "yasakli_kelimeler": [
       "özet çıkarma",
       "kısa özet",
@@ -420,7 +252,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 31,
+    "id": 19,
     "kategori": "yapayzeka",
     "kelime": "soru cevaplama",
     "aciklama": "kendisine verilen bir metni veya kütüphaneyi tarayarak kullanıcının yönelttiği sorulara.",
@@ -434,10 +266,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 32,
+    "id": 20,
     "kategori": "yapayzeka",
     "kelime": "sohbet botu",
-    "aciklama": "insanlarla mesajlaşarak müşteri hizmetleri veren veya arkadaş gibi sohbet eden.",
+    "aciklama": "kullanıcılarla mesajlaşarak soruları yanıtlayan yapay zeka programı.",
     "yasakli_kelimeler": [
       "chatbot",
       "chatgpt",
@@ -448,21 +280,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 33,
-    "kategori": "yapayzeka",
-    "kelime": "konuşma sentezi",
-    "aciklama": "yazılı bir metni insan ses tonu, nefesi ve duygusu katarak.",
-    "yasakli_kelimeler": [
-      "metni seslendirme",
-      "yapay ses",
-      "tts",
-      "ses üretimi",
-      "robot sesi"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 34,
+    "id": 21,
     "kategori": "yapayzeka",
     "kelime": "otomatik tamamlama",
     "aciklama": "klavyede yazı yazarken veya aramada kullanıcının yazmak üzere olduğu kelime.",
@@ -476,21 +294,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 35,
-    "kategori": "yapayzeka",
-    "kelime": "anlamsal arama",
-    "aciklama": "anahtar kelime eşleşmesi yerine kullanıcının sorusunun arkasındaki gerçek niyeti ve.",
-    "yasakli_kelimeler": [
-      "semantic search",
-      "kavramsal arama",
-      "vektörel arama",
-      "anlam odaklı",
-      "kelime ötesi arama"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 36,
+    "id": 22,
     "kategori": "yapayzeka",
     "kelime": "görüntü işleme",
     "aciklama": "dijital fotoğrafların kontrastını artırma, filtreleme ve analiz etme temel matematiksel.",
@@ -504,10 +308,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 37,
+    "id": 23,
     "kategori": "yapayzeka",
     "kelime": "yüz tanıma",
-    "aciklama": "kamera görüntüsündeki insan yüzünün kime ait olduğunu göz, burun mesafesi.",
+    "aciklama": "kamera görüntüsünden insan çehresini tespit edip eşleştirme sistemi.",
     "yasakli_kelimeler": [
       "face recognition",
       "telefon kilit açma",
@@ -518,7 +322,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 38,
+    "id": 24,
     "kategori": "yapayzeka",
     "kelime": "plaka tanıma",
     "aciklama": "otoyol kameralarından geçen arabaların plakasını yakalayıp harf ve rakamları metne.",
@@ -532,7 +336,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 39,
+    "id": 25,
     "kategori": "yapayzeka",
     "kelime": "hareket takibi",
     "aciklama": "güvenlik kamerasında ardışık kareler arasındaki piksel farklarını bularak koşan insanı.",
@@ -546,7 +350,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 40,
+    "id": 26,
     "kategori": "yapayzeka",
     "kelime": "görüntü üretimi",
     "aciklama": "metinsel bir açıklamadan midjourney gibi difüzyon modelleriyle sıfırdan fotogerçekçi resimler.",
@@ -560,35 +364,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 41,
-    "kategori": "yapayzeka",
-    "kelime": "oyun zekası",
-    "aciklama": "satranç ve go gibi karmaşık strateji oyunlarında insan dünya şampiyonlarını.",
-    "yasakli_kelimeler": [
-      "alphago",
-      "deep blue",
-      "satranç motoru",
-      "oyun oynayan yapay zeka",
-      "strateji algoritması"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 42,
-    "kategori": "yapayzeka",
-    "kelime": "veri mahremiyeti",
-    "aciklama": "yapay zeka modellerini eğitirken kullanıcıların özel konuşmalarının ve fotoğraflarının izinsiz.",
-    "yasakli_kelimeler": [
-      "gizlilik koruması",
-      "kişisel veri güvenliği",
-      "eğitim verisi mahremiyeti",
-      "diferansiyel gizlilik",
-      "veri sızdırmama"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 43,
+    "id": 27,
     "kategori": "yapayzeka",
     "kelime": "dijital asistan",
     "aciklama": "sesli komutla hava durumunu söyleyen, alarm kuran ve müzik çalan.",
@@ -604,7 +380,7 @@
   {
     "kategori": "yapayzeka",
     "kelime": "model eğitmek",
-    "aciklama": "yapay zeka algoritmasına veriler sunarak öğrenmesini sağlamak.",
+    "aciklama": "algoritmaya veriler sunarak öğrenmesini ve gelişmesini sağlama işlemi.",
     "yasakli_kelimeler": [
       "veri",
       "öğrenmek",
@@ -613,26 +389,12 @@
       "sonuç"
     ],
     "zorluk": "kolay",
-    "id": 44
-  },
-  {
-    "kategori": "yapayzeka",
-    "kelime": "soru sormak",
-    "aciklama": "chatgpt veya sohbet botuna prompt girerek yanıt istemek.",
-    "yasakli_kelimeler": [
-      "prompt",
-      "chatgpt",
-      "bot",
-      "yanıt",
-      "yazmak"
-    ],
-    "zorluk": "kolay",
-    "id": 45
+    "id": 28
   },
   {
     "kategori": "yapayzeka",
     "kelime": "metin üretmek",
-    "aciklama": "büyük dil modelinin verilen talimata uygun makale veya şiir yazması.",
+    "aciklama": "büyük dil modellerinin komut üzerine sıfırdan yazı oluşturması.",
     "yasakli_kelimeler": [
       "yazmak",
       "makale",
@@ -641,12 +403,12 @@
       "içerik"
     ],
     "zorluk": "kolay",
-    "id": 46
+    "id": 29
   },
   {
     "kategori": "yapayzeka",
     "kelime": "resim çizdirmek",
-    "aciklama": "metinsel açıklama girerek difüzyon modeliyle görsel oluşturmak.",
+    "aciklama": "yazılı tarif girerek yapay zekaya görsel ürettirme işlemi.",
     "yasakli_kelimeler": [
       "midjourney",
       "görsel",
@@ -655,54 +417,12 @@
       "fotoğraf"
     ],
     "zorluk": "kolay",
-    "id": 47
-  },
-  {
-    "kategori": "yapayzeka",
-    "kelime": "yüz tanımak",
-    "aciklama": "kamera görüntüsündeki insan çehresini tespit edip kimlikle eşleştirmek.",
-    "yasakli_kelimeler": [
-      "çehre",
-      "kamera",
-      "kimlik",
-      "güvenlik",
-      "kilit açma"
-    ],
-    "zorluk": "kolay",
-    "id": 48
-  },
-  {
-    "kategori": "yapayzeka",
-    "kelime": "ses tanımak",
-    "aciklama": "mikrofondan gelen konuşma sesini yazıya dönüştürmek (speech-to-text).",
-    "yasakli_kelimeler": [
-      "mikrofon",
-      "konuşma",
-      "yazı",
-      "sesli asistan",
-      "transkript"
-    ],
-    "zorluk": "kolay",
-    "id": 49
-  },
-  {
-    "kategori": "yapayzeka",
-    "kelime": "çeviri yapmak",
-    "aciklama": "dildeki metni yapay zeka ile başka bir dile otomatik aktarmak.",
-    "yasakli_kelimeler": [
-      "dil",
-      "tercüme",
-      "ingilizce",
-      "türkçe",
-      "google çeviri"
-    ],
-    "zorluk": "kolay",
-    "id": 50
+    "id": 30
   },
   {
     "kategori": "yapayzeka",
     "kelime": "kod yazdırmak",
-    "aciklama": "yapay zekaya belirli bir işlevi yerine getiren programlama kodu ürettirmek.",
+    "aciklama": "yapay zekaya programlama dili kodları ve yazılım ürettirme.",
     "yasakli_kelimeler": [
       "python",
       "programlama",
@@ -711,40 +431,12 @@
       "copilot"
     ],
     "zorluk": "kolay",
-    "id": 51
-  },
-  {
-    "kategori": "yapayzeka",
-    "kelime": "veri toplamak",
-    "aciklama": "modelin eğitimi için internetten veya sensörlerden bilgi derlemek.",
-    "yasakli_kelimeler": [
-      "bilgi",
-      "dataset",
-      "internet",
-      "derleme",
-      "kaynak"
-    ],
-    "zorluk": "kolay",
-    "id": 52
-  },
-  {
-    "kategori": "yapayzeka",
-    "kelime": "tahmin yapmak",
-    "aciklama": "geçmiş verilere bakarak gelecekteki hava durumu veya fiyatı öngörmek.",
-    "yasakli_kelimeler": [
-      "öngörü",
-      "gelecek",
-      "fiyat",
-      "hava durumu",
-      "istatistik"
-    ],
-    "zorluk": "kolay",
-    "id": 53
+    "id": 31
   },
   {
     "kategori": "yapayzeka",
     "kelime": "prompt yazmak",
-    "aciklama": "yapay zekadan en doğru sonucu almak için detaylı yönerge ve.",
+    "aciklama": "yapay zekaya istenen cevabı üretmesi için verilen komut metni.",
     "yasakli_kelimeler": [
       "talimat",
       "yönerge",
@@ -753,6 +445,6 @@
       "bağlam"
     ],
     "zorluk": "orta",
-    "id": 54
+    "id": 32
   }
 ]

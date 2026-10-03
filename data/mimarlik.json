@@ -3,27 +3,27 @@
     "id": 1,
     "kategori": "mimarlik",
     "kelime": "tonoz",
-    "aciklama": "tuğla veya taşla örülü yarım silindir tavan örtüsü.",
+    "aciklama": "tuğla veya taşla örülmüş yarım silindir tavan örtüsü",
     "yasakli_kelimeler": [
-      "kemer",
       "tavan",
-      "örtü",
       "silindir",
-      "taş"
+      "kemer",
+      "taş",
+      "örtü"
     ],
-    "zorluk": "kolay"
+    "zorluk": "orta"
   },
   {
     "id": 2,
     "kategori": "mimarlik",
     "kelime": "kubbe",
-    "aciklama": "yapıların üzerini örten yarım küre biçimli mimari örtü.",
+    "aciklama": "yapıların üzerini örten yarım küre biçimli mimari tavan",
     "yasakli_kelimeler": [
-      "kemer",
-      "yarım küre",
-      "çatı",
       "cami",
-      "örtü"
+      "yarım küre",
+      "tavan",
+      "çatı",
+      "ayasofya"
     ],
     "zorluk": "kolay"
   },
@@ -31,13 +31,13 @@
     "id": 3,
     "kategori": "mimarlik",
     "kelime": "avlu",
-    "aciklama": "yapıların ortasında yer alan etrafı çevrili açık alan.",
+    "aciklama": "binaların ortasında yer alan etrafı çevrili açık alan",
     "yasakli_kelimeler": [
       "açık alan",
-      "ortada",
-      "mekan",
-      "hayat",
-      "bina"
+      "ortasında",
+      "bahçe",
+      "cami",
+      "etraf"
     ],
     "zorluk": "kolay"
   },
@@ -45,12 +45,12 @@
     "id": 4,
     "kategori": "mimarlik",
     "kelime": "cumba",
-    "aciklama": "binaların üst katlarında sokağa doğru yapılan kapalı çıkma.",
+    "aciklama": "geleneksel türk evlerinde sokağa doğru taşan kapalı balkon",
     "yasakli_kelimeler": [
-      "çıkma",
+      "osmanlı evi",
       "ahşap",
-      "ev",
-      "pencere",
+      "çıkma",
+      "balkon",
       "sokak"
     ],
     "zorluk": "kolay"
@@ -59,13 +59,13 @@
     "id": 5,
     "kategori": "mimarlik",
     "kelime": "kemer",
-    "aciklama": "iki sütunu bağlayan dairesel veya sivri kavisli hat.",
+    "aciklama": "iki sütun veya ayağı birbirine bağlayan kavisli mimari hat",
     "yasakli_kelimeler": [
-      "açıklık",
       "kavis",
       "sütun",
       "köprü",
-      "kilit taşı"
+      "kapı",
+      "eğri"
     ],
     "zorluk": "kolay"
   },
@@ -73,1330 +73,994 @@
     "id": 6,
     "kategori": "mimarlik",
     "kelime": "kilit taşı",
-    "aciklama": "kemerin tepe noktasını kilitleyerek dengeyi sağlayan kilit taşı.",
+    "aciklama": "kemerin tepe noktasına konup bütün sistemi kilitleyen taş",
     "yasakli_kelimeler": [
       "kemer",
       "tepe",
-      "merkez",
+      "denge",
       "taş",
-      "baskı"
+      "merkez"
     ],
-    "zorluk": "kolay"
+    "zorluk": "orta"
   },
   {
     "id": 7,
     "kategori": "mimarlik",
-    "kelime": "alınlık",
-    "aciklama": "sütun gövdesinin üstünde yer alan bezemeli mimari başlık.",
-    "yasakli_kelimeler": [
-      "üçgen",
-      "çatı",
-      "cephe",
-      "tapınak",
-      "timpanon"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 8,
-    "kategori": "mimarlik",
     "kelime": "cephe",
-    "aciklama": "yapıyı dış hava koşullarından koruyan en üst örtü.",
+    "aciklama": "bir binanın dışarıdan bakıldığında görünen ön veya yan yüzü",
     "yasakli_kelimeler": [
-      "fasad",
-      "dış yüzey",
       "ön yüz",
+      "dış",
+      "bina",
       "duvar",
       "görünüş"
     ],
     "zorluk": "kolay"
   },
   {
+    "id": 8,
+    "kategori": "mimarlik",
+    "kelime": "kesit",
+    "aciklama": "binanın iç mekanlarını gösteren düşey mimari çizim",
+    "yasakli_kelimeler": [
+      "düşey",
+      "iç mekan",
+      "çizim",
+      "kat",
+      "plan"
+    ],
+    "zorluk": "orta"
+  },
+  {
     "id": 9,
     "kategori": "mimarlik",
-    "kelime": "konsol",
-    "aciklama": "yapıların üst katında bulunan düz açık dinlenme alanı.",
+    "kelime": "vaziyet planı",
+    "aciklama": "yapının arsa ve çevreyle ilişkisini gösteren kuşbakışı plan",
     "yasakli_kelimeler": [
-      "çıkma",
-      "balkon",
-      "kiriş",
-      "desteksiz",
-      "boşluk"
+      "arsa",
+      "kuşbakışı",
+      "çevre",
+      "bina",
+      "parsel"
     ],
-    "zorluk": "kolay"
+    "zorluk": "orta"
   },
   {
     "id": 10,
     "kategori": "mimarlik",
-    "kelime": "kesit",
-    "aciklama": "katlar arasında yaya sirkülasyonunu sağlayan basamaklı düşey eleman.",
+    "kelime": "kat planı",
+    "aciklama": "binanın bir katındaki oda ve duvarları gösteren çizim",
     "yasakli_kelimeler": [
-      "düşey",
+      "oda",
+      "duvar",
       "çizim",
-      "iç mekan",
-      "plan",
-      "kesme"
+      "mimari",
+      "proje"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 11,
     "kategori": "mimarlik",
-    "kelime": "vaziyet planı",
-    "aciklama": "merdiven basamaklarının etrafında döndüğü dairesel spiral merdiven türü.",
+    "kelime": "harç",
+    "aciklama": "kum, çimento ve suyun karıştırılmasıyla yapılan yapıştırıcı malzeme",
     "yasakli_kelimeler": [
-      "kuşbakışı",
-      "arsa",
-      "çevre",
-      "yerleşim",
-      "harita"
+      "çimento",
+      "kum",
+      "su",
+      "tuğla",
+      "mala"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 12,
     "kategori": "mimarlik",
-    "kelime": "kat planı",
-    "aciklama": "katlar arasında düşey taşımayı sağlayan kabinli mekanik sistem.",
+    "kelime": "betonarme",
+    "aciklama": "demir donatıyla güçlendirilmiş dayanıklı beton yapı türü",
     "yasakli_kelimeler": [
-      "yatay",
-      "oda",
-      "çizim",
-      "duvar",
-      "mekan"
+      "demir",
+      "beton",
+      "inşaat",
+      "kolon",
+      "çelik"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 13,
     "kategori": "mimarlik",
-    "kelime": "harç",
-    "aciklama": "bina girişinde ziyaretçileri karşılayan geniş ve merkezi hol.",
+    "kelime": "kiriş",
+    "aciklama": "döşemeden gelen yükleri kolonlara aktaran yatay taşıyıcı eleman",
     "yasakli_kelimeler": [
-      "çimento",
-      "kum",
-      "bağlayıcı",
-      "yapıştırma",
-      "duvar"
+      "yatay",
+      "kolon",
+      "yük",
+      "beton",
+      "taşıyıcı"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 14,
     "kategori": "mimarlik",
-    "kelime": "betonarme",
-    "aciklama": "bina veya bahçeye girişi sağlayan açılır kapanır kapı.",
+    "kelime": "kolon",
+    "aciklama": "binanın katlarını ve tavanını taşıyan dikey beton ayak",
     "yasakli_kelimeler": [
-      "beton",
-      "çelik demir",
+      "dikey",
+      "direk",
+      "ayak",
       "taşıyıcı",
-      "yapı",
-      "mukavemet"
+      "deprem"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 15,
     "kategori": "mimarlik",
-    "kelime": "kiriş",
-    "aciklama": "yapının dışarıdan görünen ön veya yan dış yüzeyi.",
+    "kelime": "temel",
+    "aciklama": "binanın tüm yükünü sağlam zemine aktaran en alt bölüm",
     "yasakli_kelimeler": [
-      "kolon",
-      "yatay",
-      "taşıyıcı",
-      "yük",
-      "eğilme"
+      "zemin",
+      "toprak",
+      "kazı",
+      "inşaat",
+      "alt"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 16,
     "kategori": "mimarlik",
-    "kelime": "kolon",
-    "aciklama": "yapı cephelerine sonradan monte edilen camlı hafif cephe.",
+    "kelime": "asansör kuyusu",
+    "aciklama": "asansör kabininin katlar arasında hareket ettiği dikey boşluk",
     "yasakli_kelimeler": [
-      "düşey",
-      "ayak",
-      "taşıyıcı",
-      "yük",
-      "kiriş"
+      "asansör",
+      "kabin",
+      "boşluk",
+      "halat",
+      "kat"
     ],
-    "zorluk": "kolay"
+    "zorluk": "orta"
   },
   {
     "id": 17,
     "kategori": "mimarlik",
-    "kelime": "temel",
-    "aciklama": "çatının duvardan dışarıya doğru taşan koruyucu kenar bölümü.",
+    "kelime": "ışıklık",
+    "aciklama": "binanın iç kısımlarına gün ışığı sağlayan çatı penceresi",
     "yasakli_kelimeler": [
-      "zemin",
-      "pabuç",
-      "radye",
-      "ağırlık",
-      "taşıyıcı"
+      "çatı",
+      "pencere",
+      "gün ışığı",
+      "aydınlatma",
+      "tavan"
     ],
-    "zorluk": "kolay"
+    "zorluk": "orta"
   },
   {
     "id": 18,
     "kategori": "mimarlik",
-    "kelime": "asansör kuyusu",
-    "aciklama": "duvar yüzeyine gömülü yarım dairesel dekoratif mimari girinti.",
+    "kelime": "asma kat",
+    "aciklama": "yüksek tavanlı zemin kat içine yapılan ara kat",
     "yasakli_kelimeler": [
-      "şaft",
-      "kabin",
-      "düşey",
-      "kat",
-      "hareket"
+      "ara kat",
+      "zemin",
+      "mağaza",
+      "tavan",
+      "merdiven"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 19,
     "kategori": "mimarlik",
-    "kelime": "ışıklık",
-    "aciklama": "duvardan öne doğru az taşkın gömme sahte sütun.",
+    "kelime": "saçak",
+    "aciklama": "çatının yağmur suyunu duvardan uzaklaştıran taşan kenarı",
     "yasakli_kelimeler": [
-      "tavan",
-      "cam",
-      "gün ışığı",
       "çatı",
-      "aydınlatma"
+      "kenar",
+      "yağmur",
+      "akıntı",
+      "bina"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 20,
     "kategori": "mimarlik",
-    "kelime": "asma kat",
-    "aciklama": "duvar ile döşeme birleşimini örten koruyucu ahşap çıta.",
+    "kelime": "altın oran",
+    "aciklama": "mimaride ve sanatta kusursuz dengeyi sağlayan estetik ölçü",
     "yasakli_kelimeler": [
-      "ara kat",
-      "zemin",
-      "merdiven",
-      "tavan",
-      "bölüm"
+      "oran",
+      "estetik",
+      "matematik",
+      "uyum",
+      "geometri"
     ],
-    "zorluk": "kolay"
+    "zorluk": "orta"
   },
   {
     "id": 21,
     "kategori": "mimarlik",
-    "kelime": "saçak",
-    "aciklama": "pencere ve kapı çerçevelerinin etrafındaki dekoratif mimari pervaz.",
+    "kelime": "bazilika",
+    "aciklama": "dikdörtgen planlı ve sütun dizileriyle ayrılmış tarihi yapı",
     "yasakli_kelimeler": [
-      "çatı",
-      "yağmur",
-      "etek",
-      "çıkıntı",
-      "duvar"
+      "kilise",
+      "tarihi",
+      "sütun",
+      "roma",
+      "dikdörtgen"
     ],
-    "zorluk": "kolay"
+    "zorluk": "orta"
   },
   {
     "id": 22,
     "kategori": "mimarlik",
-    "kelime": "altın oran",
-    "aciklama": "duvar ve tavanları süsleyen kireç sıva üzeri fresk.",
+    "kelime": "minare",
+    "aciklama": "camilerde ezan okunan ince ve yüksek mimari kule",
     "yasakli_kelimeler": [
-      "fi sayısı",
-      "geometri",
-      "oran",
-      "estetik",
-      "uyum"
+      "cami",
+      "ezan",
+      "şerefe",
+      "alem",
+      "kule"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 23,
     "kategori": "mimarlik",
-    "kelime": "akropolis",
-    "aciklama": "renkli taş veya cam parçalarıyla oluşturulan yüzey resmi.",
+    "kelime": "mihrap",
+    "aciklama": "camilerde imamın namaz kıldırırken kıbleye döndüğü girintili alan",
     "yasakli_kelimeler": [
-      "yunan",
-      "partenon",
-      "tepe",
-      "tapınak",
-      "şehir"
+      "cami",
+      "imam",
+      "kıble",
+      "namaz",
+      "duvar"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 24,
     "kategori": "mimarlik",
-    "kelime": "agora",
-    "aciklama": "renkli camların kurşunla birleştirilmesiyle yapılan süslemeli pencere.",
+    "kelime": "minber",
+    "aciklama": "camilerde cuma günleri hutbe okunan basamaklı yüksek kürsü",
     "yasakli_kelimeler": [
-      "meydan",
-      "pazar",
-      "toplanma",
-      "antik yunan",
-      "kamusal"
+      "cami",
+      "hutbe",
+      "cuma",
+      "kürsü",
+      "basamak"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 25,
     "kategori": "mimarlik",
-    "kelime": "forum",
-    "aciklama": "i̇slam mimarisinde pişmiş sırlı topraktan yapılan süsleme karosu.",
+    "kelime": "medrese",
+    "aciklama": "osmanlı ve selçuklu döneminde yüksek eğitim verilen tarihi yapı",
     "yasakli_kelimeler": [
-      "roma",
-      "meydan",
-      "kamusal",
-      "ticaret",
-      "yönetim"
+      "osmanlı",
+      "selçuklu",
+      "eğitim",
+      "öğrenci",
+      "tarihi"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 26,
     "kategori": "mimarlik",
-    "kelime": "bazilika",
-    "aciklama": "duvar ve zeminleri kaplamada kullanılan sert kireçtaşı mermer.",
+    "kelime": "kervansaray",
+    "aciklama": "ticaret yolları üzerinde kervanların konakladığı korunaklı tarihi han",
     "yasakli_kelimeler": [
-      "roma",
-      "kilise",
-      "nef",
-      "şema",
-      "uzun"
+      "kervan",
+      "konaklama",
+      "ipek yolu",
+      "tarihi",
+      "han"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 27,
     "kategori": "mimarlik",
-    "kelime": "minare",
-    "aciklama": "kum, çakıl, çimento ve su karışımıyla üretilen beton.",
+    "kelime": "vitray",
+    "aciklama": "renkli cam parçalarının kurşunla birleştirildiği süslemeli pencere sanatı",
     "yasakli_kelimeler": [
-      "ezan",
-      "şerefe",
+      "renkli cam",
+      "pencere",
+      "kurşun",
       "cami",
-      "kule",
-      "külah"
+      "kilise"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 28,
     "kategori": "mimarlik",
-    "kelime": "şerefe",
-    "aciklama": "içine çelik donatı yerleştirilerek güçlendirilmiş dayanıklı kompozit beton.",
+    "kelime": "yeşil çatı",
+    "aciklama": "üzerinde bitki ve çim yetiştirilen çevre dostu çatı",
     "yasakli_kelimeler": [
-      "balkon",
-      "minare",
-      "müezzin",
-      "korkuluk",
-      "dolaşma"
+      "çatı",
+      "bitki",
+      "çim",
+      "doğa",
+      "yalıtım"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 29,
     "kategori": "mimarlik",
-    "kelime": "mihrap",
-    "aciklama": "inşaatta betonun içine yerleştirilen nervürlü çelik demir.",
+    "kelime": "kentsel dönüşüm",
+    "aciklama": "eski ve depreme dayanıksız binaların yenilenmesi süreci",
     "yasakli_kelimeler": [
-      "kıble",
-      "cami",
-      "imam",
-      "niş",
-      "namaz"
+      "deprem",
+      "yenileme",
+      "eski bina",
+      "yıkım",
+      "inşaat"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 30,
     "kategori": "mimarlik",
-    "kelime": "minber",
-    "aciklama": "yüksek dayanımlı demir karbon alaşımı temel yapı malzemesi.",
+    "kelime": "restorasyon",
+    "aciklama": "tarihi yapıların aslına uygun biçimde tamir edilip yenilenmesi",
     "yasakli_kelimeler": [
-      "hutbe",
-      "imam",
-      "basamak",
-      "cuma",
-      "ahşap"
+      "tarihi bina",
+      "aslına uygun",
+      "onarım",
+      "tamirat",
+      "koruma"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 31,
     "kategori": "mimarlik",
-    "kelime": "külliye",
-    "aciklama": "geleneksel yapılarda taşıyıcı ve doğrama olarak kullanılan ahşap.",
+    "kelime": "amfitiyatro",
+    "aciklama": "antik çağlarda basamaklı yarım daire biçimli açık hava tiyatrosu",
     "yasakli_kelimeler": [
-      "cami",
-      "medrese",
-      "imaret",
-      "hamam",
-      "toplu"
+      "antik",
+      "tiyatro",
+      "roma",
+      "basamak",
+      "açık hava"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 32,
     "kategori": "mimarlik",
-    "kelime": "medrese",
-    "aciklama": "iç mekan bölmelerinde ve asma tavanda kullanılan alçıpan.",
+    "kelime": "teras",
+    "aciklama": "binaların üst katlarında veya çatısında bulunan açık alan",
     "yasakli_kelimeler": [
-      "okul",
-      "avlu",
-      "eyvan",
-      "osmanlı",
-      "hücre"
+      "balkon",
+      "çatı",
+      "manzara",
+      "geniş",
+      "açık hava"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 33,
     "kategori": "mimarlik",
-    "kelime": "kervansaray",
-    "aciklama": "çatı ve cephelerde su yalıtımı sağlayan bitümlü membran.",
+    "kelime": "döşeme",
+    "aciklama": "katların zeminini oluşturan yatay betonarme veya ahşap tabaka",
     "yasakli_kelimeler": [
-      "kervan",
-      "konaklama",
-      "ticaret",
-      "yol",
-      "han"
+      "zemin",
+      "taban",
+      "beton",
+      "parke",
+      "kat"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 34,
     "kategori": "mimarlik",
-    "kelime": "eyvan",
-    "aciklama": "binalarda ısı ve ses yalıtımında kullanılan camyünü.",
+    "kelime": "çatı",
+    "aciklama": "binayı yağmur, kar ve güneşten koruyan en üst örtü",
     "yasakli_kelimeler": [
-      "avlu",
-      "açık cephe",
-      "tonoz",
-      "selçuklu",
-      "niş"
+      "kiremit",
+      "yağmur",
+      "kar",
+      "tavan",
+      "en üst"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 35,
     "kategori": "mimarlik",
-    "kelime": "vitray",
-    "aciklama": "derz ve ek yerlerinde su sızdırmazlık sağlayan mastik.",
+    "kelime": "yağmur oluğu",
+    "aciklama": "çatıdaki yağmur sularını toplayıp tahliye eden boru kanalı",
     "yasakli_kelimeler": [
-      "renkli cam",
-      "kurşun",
-      "ışık",
-      "katedral",
-      "pencere"
+      "çatı",
+      "yağmur",
+      "su",
+      "boru",
+      "tahliye"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 36,
     "kategori": "mimarlik",
-    "kelime": "yeşil çatı",
-    "aciklama": "düşük su emmeli ve aşınmaya dirençli sert porselen.",
+    "kelime": "kapı kasası",
+    "aciklama": "kapı kanadının içine oturduğu duvara sabitlenmiş ahşap çerçeve",
     "yasakli_kelimeler": [
-      "bitki",
-      "çim",
-      "çatı",
-      "yalıtım",
-      "ekolojik"
+      "çerçeve",
+      "kapı",
+      "kilit",
+      "ahşap",
+      "duvar"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 37,
     "kategori": "mimarlik",
-    "kelime": "karbon ayak izi",
-    "aciklama": "toprak kaymasını ve göçmesini önleyen masif tutucu duvar.",
+    "kelime": "pencere kasası",
+    "aciklama": "cam kanatlarının monte edildiği duvara sabit çerçeve bölümü",
     "yasakli_kelimeler": [
-      "sera gazı",
-      "emisyon",
-      "iklim",
-      "bina",
-      "çevre"
+      "çerçeve",
+      "pencere",
+      "cam",
+      "pimapen",
+      "kanat"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 38,
     "kategori": "mimarlik",
-    "kelime": "kentsel dönüşüm",
-    "aciklama": "yapıların oturma ve genleşme hareketlerini karşılayan dilatasyon derzi.",
+    "kelime": "sürme kapı",
+    "aciklama": "ray üzerinde kayarak yana doğru açılan kapı türü",
     "yasakli_kelimeler": [
-      "deprem",
-      "yenileme",
-      "yıkım",
-      "şehir",
-      "arsa"
+      "ray",
+      "kayar",
+      "balkon",
+      "yana",
+      "açılmak"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 39,
     "kategori": "mimarlik",
-    "kelime": "restorasyon",
-    "aciklama": "hasar görmüş tarihi binaların aslına uygun olarak onarılması.",
+    "kelime": "döner kapı",
+    "aciklama": "büyük binaların girişinde kendi ekseni etrafında dönen kapı",
     "yasakli_kelimeler": [
-      "onarım",
-      "tarihi eser",
-      "koruma",
-      "aslına uygun",
-      "tamir"
+      "giriş",
+      "dönmek",
+      "otel",
+      "avm",
+      "cam"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 40,
     "kategori": "mimarlik",
-    "kelime": "amfitiyatro",
-    "aciklama": "deprem veya zemin oturması sonucu duvarlarda oluşan derin çatlaklar.",
+    "kelime": "merdiven basamağı",
+    "aciklama": "katlar arasında yürüyerek çıkmayı sağlayan ayak basma yeri",
     "yasakli_kelimeler": [
-      "basamak",
-      "tiyatro",
-      "arena",
-      "antik",
-      "dairesel"
+      "ayak",
+      "basmak",
+      "çıkmak",
+      "inmek",
+      "kat"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 41,
     "kategori": "mimarlik",
-    "kelime": "teras",
-    "aciklama": "yapı sınırlarını ve kotlarını sahada belirleyen aplikasyon çalışması.",
+    "kelime": "merdiven boşluğu",
+    "aciklama": "binanın ortasında merdivenlerin döndüğü dikey açık alan",
     "yasakli_kelimeler": [
-      "açık alan",
-      "balkon",
-      "çatı",
-      "platform",
-      "dolaşım"
+      "boşluk",
+      "bina",
+      "katlar",
+      "korkuluk",
+      "apartman"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 42,
     "kategori": "mimarlik",
-    "kelime": "döşeme",
-    "aciklama": "ıslak betonu dökmek ve şekillendirmek için kurulan ahşap kalıp.",
+    "kelime": "merdiven sahanlığı",
+    "aciklama": "merdiven kollarının birleştiği kat arasındaki geniş düzlük",
     "yasakli_kelimeler": [
-      "kat betonu",
-      "taban",
-      "tavan",
-      "betonarme plak",
-      "kat ayrımı"
+      "dinlenme",
+      "kat",
+      "düzlük",
+      "aralık",
+      "merdiven"
     ],
-    "zorluk": "kolay"
+    "zorluk": "orta"
   },
   {
     "id": 43,
     "kategori": "mimarlik",
-    "kelime": "çatı",
-    "aciklama": "yüksek katlı bina inşaatlarında kullanılan yüksek döner vinç.",
+    "kelime": "korkuluk",
+    "aciklama": "balkon ve merdiven kenarlarına düşmeyi önlemek için takılan parmaklık",
     "yasakli_kelimeler": [
-      "üst örtü",
-      "kiremitli tepe",
-      "bina tepesi",
-      "yağmur koruması",
-      "çatı katı"
+      "düşmek",
+      "güvenlik",
+      "parmaklık",
+      "demir",
+      "balkon"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 44,
     "kategori": "mimarlik",
-    "kelime": "yağmur oluğu",
-    "aciklama": "kaba inşaat bittikten sonra yapılan ince işçilik ve donatılar.",
+    "kelime": "trabzan",
+    "aciklama": "merdiven korkuluğunun üzerine elle tutunmak için monte edilen çıta",
     "yasakli_kelimeler": [
-      "çatı oluğu",
-      "yağmur suyu kanalı",
-      "çinko oluk",
-      "iniş borusu",
-      "su tahliyesi"
+      "tutunmak",
+      "el",
+      "korkuluk",
+      "ahşap",
+      "merdiven"
     ],
-    "zorluk": "kolay"
+    "zorluk": "orta"
   },
   {
     "id": 45,
     "kategori": "mimarlik",
-    "kelime": "kapı kasası",
-    "aciklama": "şantiyede iş güvenliğini sağlamak için takılan koruyucu baret.",
+    "kelime": "rampa",
+    "aciklama": "tekerlekli sandalyelerin rahat geçişi için yapılan eğimli zemin",
     "yasakli_kelimeler": [
-      "kapı çerçevesi",
-      "kasa pervaz",
-      "kanat takılan yer",
-      "ahşap kasa",
-      "kapı boşluğu"
+      "eğim",
+      "engelli",
+      "tekerlekli sandalye",
+      "yokuş",
+      "giriş"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 46,
     "kategori": "mimarlik",
-    "kelime": "pencere kasası",
-    "aciklama": "inşaat alanını ve imalat sürecini yöneten şantiye şefi.",
+    "kelime": "mimari proje",
+    "aciklama": "binanın inşa edilmeden önce çizilen ayrıntılı teknik çizimleri",
     "yasakli_kelimeler": [
-      "doğrama profili",
-      "pencere çerçevesi",
-      "pvc kasa",
-      "cam yuvası",
-      "ısıcam çerçevesi"
+      "çizim",
+      "mimar",
+      "plan",
+      "inşaat",
+      "ruhsat"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 47,
     "kategori": "mimarlik",
-    "kelime": "sürme kapı",
-    "aciklama": "yapılaşma koşullarını ve kat adetlerini gösteren imar durumu.",
+    "kelime": "perspektif",
+    "aciklama": "nesneleri gözün gördüğü gibi derinlikli gösteren çizim tekniği",
     "yasakli_kelimeler": [
-      "kayar kapı",
-      "raylı kapı",
-      "yana kayan",
-      "yer tasarrufu",
-      "cam sürme"
+      "derinlik",
+      "üç boyutlu",
+      "çizim",
+      "ufuk",
+      "açı"
     ],
-    "zorluk": "kolay"
+    "zorluk": "orta"
   },
   {
     "id": 48,
     "kategori": "mimarlik",
-    "kelime": "döner kapı",
-    "aciklama": "bir parselde yapılabilecek maksimum toplam inşaat alanı katsayısı.",
+    "kelime": "mimari maket",
+    "aciklama": "projenin ölçekli olarak küçültülmüş üç boyutlu modeli",
     "yasakli_kelimeler": [
-      "avm kapısı",
-      "silindirik kapı",
-      "hava akımı engeli",
-      "dönen kanatlar",
-      "otel girişi"
+      "maket",
+      "model",
+      "minyatür",
+      "üç boyutlu",
+      "proje"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 49,
     "kategori": "mimarlik",
-    "kelime": "merdiven basamağı",
-    "aciklama": "binanın taban alanının arsa alanına olan azami oranı.",
+    "kelime": "ölçek",
+    "aciklama": "gerçek boyutların haritada veya planda ne kadar küçültüldüğü",
     "yasakli_kelimeler": [
-      "rıht",
-      "ayak basılan yer",
-      "merdiven kademesi",
-      "basamak genişliği",
-      "çıkış adımı"
+      "küçültme",
+      "oran",
+      "cetvel",
+      "plan",
+      "harita"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 50,
     "kategori": "mimarlik",
-    "kelime": "merdiven boşluğu",
-    "aciklama": "binanın parsel sınırından çekilmesi gereken zorunlu yasal mesafe.",
+    "kelime": "koridor",
+    "aciklama": "binalarda odaları birbirine bağlayan uzun ve dar geçit",
     "yasakli_kelimeler": [
-      "merdiven kovası",
-      "dikey boşluk",
-      "katlar arası şaft",
-      "merdiven evi",
-      "hava boşluğu"
+      "geçit",
+      "uzun",
+      "dar",
+      "oda",
+      "kapı"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 51,
     "kategori": "mimarlik",
-    "kelime": "merdiven sahanlığı",
-    "aciklama": "binanın izin verilen zemin seviyesinden maksimum saçak yüksekliği.",
+    "kelime": "hol",
+    "aciklama": "bina veya daire girişindeki ortak toplanma ve dağılma alanı",
     "yasakli_kelimeler": [
-      "ara dinlenme yeri",
-      "merdiven düzlüğü",
-      "kat sahanlığı",
-      "dönüş platformu",
-      "düzlük"
+      "giriş",
+      "antre",
+      "dağılım",
+      "ev",
+      "kapı"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 52,
     "kategori": "mimarlik",
-    "kelime": "korkuluk",
-    "aciklama": "binanın zemin seviyesinin belirlendiği ve referans alındığı subasman kotu.",
+    "kelime": "fuaye",
+    "aciklama": "tiyatro ve konser salonlarında oyun arası dinlenilen geniş salon",
     "yasakli_kelimeler": [
-      "balkon demiri",
-      "düşme engeli",
-      "güvenlik bariyeri",
-      "küpeşte altı",
-      "merdiven kenarı"
+      "tiyatro",
+      "konser",
+      "ara",
+      "bekleme",
+      "salon"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 53,
     "kategori": "mimarlik",
-    "kelime": "trabzan",
-    "aciklama": "kentsel alanların arazi kullanımını ve ulaşımını belirleyen imar planı.",
+    "kelime": "antre",
+    "aciklama": "evin giriş kapısından sonra ulaşılan ilk giriş holü",
     "yasakli_kelimeler": [
-      "küpeşte",
-      "tutunma yeri",
-      "korkuluk üstü",
-      "merdiven kolu",
-      "tutacak"
+      "giriş",
+      "kapı",
+      "hol",
+      "vestiyer",
+      "ev"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 54,
     "kategori": "mimarlik",
-    "kelime": "rampa",
-    "aciklama": "kentsel mekanların ve sokak dokusunun üç boyutlu kentsel tasarımı.",
+    "kelime": "lobi",
+    "aciklama": "otel ve iş merkezlerinin girişinde ziyaretçilerin ağırlandığı salon",
     "yasakli_kelimeler": [
-      "engelli yolu",
-      "eğimli geçiş",
-      "basamaksız çıkış",
-      "kot farkı",
-      "otopark rampası"
+      "otel",
+      "giriş",
+      "resepsiyon",
+      "oturma",
+      "salon"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 55,
     "kategori": "mimarlik",
-    "kelime": "mimari proje",
-    "aciklama": "parklar, bahçeler ve açık yeşil alanların düzenlenmesi peyzajı.",
+    "kelime": "su kemeri",
+    "aciklama": "antik çağlarda uzaklardan şehre su taşıyan kemerli köprü",
     "yasakli_kelimeler": [
-      "bina çizimi",
-      "ruhsat projesi",
-      "mimarın çizimi",
-      "kat planları",
-      "çizim paftası"
+      "su",
+      "tarihi",
+      "köprü",
+      "roma",
+      "kemer"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 56,
     "kategori": "mimarlik",
-    "kelime": "görünüş",
-    "aciklama": "kapalı mekanlarda sesin yayılmasını ve yankılanmasını inceleyen hacim akustiği.",
+    "kelime": "sarnıç",
+    "aciklama": "antik çağlarda yağmur sularını depolamak için yapılmış yeraltı havuzu",
     "yasakli_kelimeler": [
-      "cephe çizimi",
-      "ön görünüş",
-      "yan görünüş",
-      "dıştan bakış",
-      "iki boyutlu cephe"
+      "yeraltı",
+      "su",
+      "yerebatan",
+      "depo",
+      "sütun"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 57,
     "kategori": "mimarlik",
-    "kelime": "perspektif",
-    "aciklama": "enerji ve su tasarrufu sağlayan çevre dostu yeşil bina.",
+    "kelime": "hamam",
+    "aciklama": "mermer kurnaları ve göbek taşı bulunan geleneksel yıkanma yeri",
     "yasakli_kelimeler": [
-      "kaçış noktası",
-      "üç boyutlu çizim",
-      "derinlik algısı",
-      "ufuk çizgisi",
-      "görsel derinlik"
+      "kese",
+      "tellak",
+      "göbek taşı",
+      "sıcak",
+      "yıkanmak"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 58,
     "kategori": "mimarlik",
-    "kelime": "mimari maket",
-    "aciklama": "ısı pompası ve yalıtımla minimum enerji harcayan pasif ev.",
+    "kelime": "kurna",
+    "aciklama": "hamamlarda içine sıcak ve soğuk su doldurulan mermer tekne",
     "yasakli_kelimeler": [
-      "minyatür bina",
-      "ölçekli model",
-      "maket kartonu",
-      "proje sunumu",
-      "fiziksel model"
+      "hamam",
+      "mermer",
+      "su",
+      "tas",
+      "musluk"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 59,
     "kategori": "mimarlik",
-    "kelime": "ölçek",
-    "aciklama": "üzerinde bitki örtüsü barındıran ekolojik ve yalıtımlı yeşil çatı.",
+    "kelime": "şadırvan",
+    "aciklama": "cami avlularında abdest almak için etrafı musluklu fıskiye",
     "yasakli_kelimeler": [
-      "küçültme oranı",
-      "bire yüz",
-      "bire elli",
-      "oran",
-      "ölçekli cetvel"
+      "cami",
+      "avlu",
+      "abdest",
+      "su",
+      "musluk"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 60,
     "kategori": "mimarlik",
-    "kelime": "koridor",
-    "aciklama": "bilgisayar destekli iki ve üç boyutlu mimari çizim yazılımı.",
+    "kelime": "doğal aydınlatma",
+    "aciklama": "iç mekanın yapay lamba yerine güneş ışığıyla aydınlatılması",
     "yasakli_kelimeler": [
-      "geçit",
-      "uzun dar mekan",
-      "oda bağlantısı",
-      "sirkülasyon holü",
-      "koridor"
+      "güneş",
+      "ışık",
+      "pencere",
+      "gündüz",
+      "iç mekan"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 61,
     "kategori": "mimarlik",
-    "kelime": "hol",
-    "aciklama": "bilgisayar modelini fotogerçekçi görsel resme dönüştürme render işlemi.",
+    "kelime": "tuğla",
+    "aciklama": "pişmiş kilden üretilen ve duvar örmede kullanılan yapı malzemesi",
     "yasakli_kelimeler": [
-      "dağılım alanı",
-      "antre devamı",
-      "giriş holü",
-      "merkezi geçiş",
-      "iç mekan"
+      "kırmızı",
+      "duvar",
+      "inşaat",
+      "harç",
+      "toprak"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 62,
     "kategori": "mimarlik",
-    "kelime": "fuaye",
-    "aciklama": "tasarımın ilk aşamasında elle çizilen hızlı serbest eskiz.",
+    "kelime": "kiremit",
+    "aciklama": "çatıların üzerini kaplayarak su sızmasını önleyen pişmiş toprak levha",
     "yasakli_kelimeler": [
-      "bekleme salonu",
-      "tiyatro salonu önü",
-      "ara dinlenme",
-      "gösteri öncesi alanı",
-      "geniş salon"
+      "çatı",
+      "kırmızı",
+      "yağmur",
+      "toprak",
+      "örtü"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 63,
     "kategori": "mimarlik",
-    "kelime": "antre",
-    "aciklama": "yapının yatay düzlemde kesilerek mekan dağılımını gösteren mimari plan.",
+    "kelime": "taş duvar",
+    "aciklama": "doğal veya yontma taşların harçla örülmesiyle yapılan duvar",
     "yasakli_kelimeler": [
-      "ev girişi",
-      "vestiyer alanı",
-      "dış kapı önü",
-      "giriş holü",
-      "ilk mekan"
+      "taş",
+      "duvar",
+      "harç",
+      "bahçe",
+      "geleneksel"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 64,
     "kategori": "mimarlik",
-    "kelime": "lobi",
-    "aciklama": "yapının düşey eksende kesilerek kat ilişkilerini gösteren kesit.",
+    "kelime": "yığma yapı",
+    "aciklama": "kolon yerine taşıyıcı duvarların üzerine oturan bina türü",
     "yasakli_kelimeler": [
-      "otel girişi",
-      "resepsiyon alanı",
-      "karşılama salonu",
-      "bekleme alanı",
-      "giriş holü"
+      "taşıyıcı",
+      "duvar",
+      "kolonsuz",
+      "tuğla",
+      "bina"
     ],
-    "zorluk": "kolay"
+    "zorluk": "orta"
   },
   {
     "id": 65,
     "kategori": "mimarlik",
-    "kelime": "su kemeri",
-    "aciklama": "tasarımda parçaların bütünle ve insanla oluşturduğu uyumlu oran.",
+    "kelime": "çelik yapı",
+    "aciklama": "taşıyıcı iskeleti tamamen çelik profillerden üretilen bina",
     "yasakli_kelimeler": [
-      "akuadük",
-      "valens su kemeri",
-      "kemerli köprü",
-      "su taşıma köprüsü",
-      "roma su yolu"
+      "çelik",
+      "iskelet",
+      "metal",
+      "profil",
+      "hangar"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 66,
     "kategori": "mimarlik",
-    "kelime": "sarnıç",
-    "aciklama": "insan vücudu ölçüleri ve boyutlarını inceleyen bilim dalı.",
+    "kelime": "asma tavan",
+    "aciklama": "mevcut tavanın altına dekoratif ve yalıtım amacıyla yapılan tavan",
     "yasakli_kelimeler": [
-      "yerebatan",
-      "yeraltı su deposu",
-      "sütunlu mahzen",
-      "su deposu",
-      "tarihi sarnıç"
+      "tavan",
+      "alçıpan",
+      "spot",
+      "dekor",
+      "alt"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 67,
     "kategori": "mimarlik",
-    "kelime": "hamam",
-    "aciklama": "tasarımların insan anatomisine ve konforuna uygun hale getirilmesi ergonomisi.",
+    "kelime": "ısı yalıtımı",
+    "aciklama": "binanın kışın sıcak yazın serin kalmasını sağlayan kaplama",
     "yasakli_kelimeler": [
-      "türk hamamı",
-      "göbek taşı",
-      "sıcaklık ılıklık",
-      "yıkanma yapısı",
-      "kurnalar"
+      "yalıtım",
+      "sıcak",
+      "soğuk",
+      "mantolama",
+      "tasarruf"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 68,
     "kategori": "mimarlik",
-    "kelime": "kurna",
-    "aciklama": "yapı formunda parçaların bir eksene göre eşit yerleşmesi simetrisi.",
+    "kelime": "ses yalıtımı",
+    "aciklama": "odalar arasında gürültü geçişini engelleyen özel izolasyon malzemesi",
     "yasakli_kelimeler": [
-      "mermer tekne",
-      "hamam tası",
-      "musluk altı",
-      "yıkanma kurnası",
-      "mermer yalak"
+      "gürültü",
+      "ses",
+      "akustik",
+      "sünger",
+      "komşu"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 69,
     "kategori": "mimarlik",
-    "kelime": "şadırvan",
-    "aciklama": "yapı parçalarının eksenel olmayan dengeli yerleşimi asimetrisi.",
+    "kelime": "su yalıtımı",
+    "aciklama": "çatı ve temele su sızmasını engelleyen yalıtım tabakası",
     "yasakli_kelimeler": [
-      "abdest yeri",
-      "cami avlusu",
-      "musluklu havuz",
-      "kubbeli çeşme",
-      "fıskiyeli su"
+      "su",
+      "sızdırmaz",
+      "membran",
+      "nem",
+      "çatı"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 70,
     "kategori": "mimarlik",
-    "kelime": "modernizm",
-    "aciklama": "yapı elemanlarının belirli aralıklarla tekrarlanmasıyla oluşan mimari ritim.",
+    "kelime": "mantolama",
+    "aciklama": "binanın dış cephesini strafor plakalarla sararak ısı yalıtımı yapma",
     "yasakli_kelimeler": [
-      "biçim işlevi izler",
-      "le corbusier",
-      "süssüz mimarlık",
-      "uluslararası üslup",
-      "modern akım"
+      "strafor",
+      "dış cephe",
+      "ısı yalıtımı",
+      "bina",
+      "tasarruf"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 71,
     "kategori": "mimarlik",
-    "kelime": "minimalizm",
-    "aciklama": "tasarımda bir ögeyi öne çıkararak dikkat çeken odak noktası.",
+    "kelime": "istinat duvarı",
+    "aciklama": "kayan toprak ve yamaçları tutmak için inşa edilen duvar",
     "yasakli_kelimeler": [
-      "az çoktur",
-      "mies van der rohe",
-      "sadeliğin estetiği",
-      "fazlalıklardan arınma",
-      "yalın tasarım"
+      "toprak",
+      "yamaç",
+      "kayma",
+      "beton",
+      "tutmak"
     ],
-    "zorluk": "kolay"
+    "zorluk": "orta"
   },
   {
     "id": 72,
     "kategori": "mimarlik",
-    "kelime": "kütle",
-    "aciklama": "antik yunan ve roma tapınak formlarını yeniden kullanan neoklasisizm.",
+    "kelime": "tasarlamak",
+    "aciklama": "yeni bir yapıyı kafada canlandırıp planlarını çizmek",
     "yasakli_kelimeler": [
-      "bina gövdesi",
-      "üç boyutlu blok",
-      "masif hacim",
-      "geometrik kütle",
-      "doluluk"
+      "mimar",
+      "çizim",
+      "proje",
+      "fikir",
+      "üretmek"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 73,
     "kategori": "mimarlik",
-    "kelime": "hacim",
-    "aciklama": "doğadan esinlenen kıvrımlı ve organik süslemeli art nouveau akımı.",
+    "kelime": "inşa etmek",
+    "aciklama": "malzemeleri kullanarak binayı sıfırdan hayata geçirmek",
     "yasakli_kelimeler": [
-      "üç boyutlu boşluk",
-      "mekan büyüklüğü",
-      "en boy yükseklik",
-      "metreküp",
-      "iç mekan"
+      "bina",
+      "yapmak",
+      "şantiye",
+      "yapı",
+      "dikmek"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 74,
     "kategori": "mimarlik",
-    "kelime": "hiyerarşi",
-    "aciklama": "süslemeyi reddeden, işlevi ve sadeliği öne çıkaran modern mimarlık.",
+    "kelime": "onarmak",
+    "aciklama": "hasar gören veya eskiyen bir yapıyı tamir etmek",
     "yasakli_kelimeler": [
-      "önem sırası",
-      "baskın mekan",
-      "ana kütle",
-      "yükseklik farkı",
-      "mekansal derece"
+      "tamir",
+      "tadilat",
+      "eski",
+      "hasar",
+      "düzeltmek"
     ],
-    "zorluk": "orta"
+    "zorluk": "kolay"
   },
   {
     "id": 75,
     "kategori": "mimarlik",
-    "kelime": "doğal aydınlatma",
-    "aciklama": "yapının taşıyıcı ve tesisat elemanlarını cephede sergileyen ileri teknoloji.",
+    "kelime": "ruhsat almak",
+    "aciklama": "belediyeden inşaat yapabilmek için yasal inşaat izni temin etmek",
     "yasakli_kelimeler": [
-      "gün ışığı",
-      "güneş ışığı alma",
-      "ışıklık aydınlatması",
-      "doğal ışık",
-      "pencere aydınlığı"
+      "belediye",
+      "izin",
+      "yasal",
+      "inşaat",
+      "belge"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 76,
     "kategori": "mimarlik",
-    "kelime": "tuğla",
-    "aciklama": "tasarımı dijital algoritmalar ve matematiksel parametrelerle üreten parametrik tasarım.",
-    "yasakli_kelimeler": [
-      "pişmiş toprak",
-      "kırmızı blok",
-      "duvar örme",
-      "harçlı blok",
-      "duvar malzemesi"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 77,
-    "kategori": "mimarlik",
-    "kelime": "kiremit",
-    "aciklama": "yapının doğal çevreyle ve peyzajla bütünleşmesini savunan organik mimarlık.",
-    "yasakli_kelimeler": [
-      "çatı kaplaması",
-      "pişmiş kil levha",
-      "mahya kiremiti",
-      "kırmızı çatı",
-      "yağmur kalkanı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 78,
-    "kategori": "mimarlik",
-    "kelime": "taş duvar",
-    "aciklama": "betonarme kolon, kiriş ve döşemelerden oluşan yaygın karkas sistem.",
-    "yasakli_kelimeler": [
-      "moloz taş",
-      "kesme taş",
-      "kuru duvar",
-      "masif taş",
-      "harçlı örme"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 79,
-    "kategori": "mimarlik",
-    "kelime": "yığma yapı",
-    "aciklama": "kat yüklerini doğrudan taşıyıcı taş veya tuğla duvarların taşıdığı yapı.",
-    "yasakli_kelimeler": [
-      "taşıyıcı duvar",
-      "kolonsuz bina",
-      "kagir bina",
-      "tuğla yığma",
-      "yük taşıyan duvar"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 80,
-    "kategori": "mimarlik",
-    "kelime": "çelik konstrüksiyon",
-    "aciklama": "çelik profillerin birleşimiyle kurulan yüksek dayanımlı çelik konstrüksiyon.",
-    "yasakli_kelimeler": [
-      "çelik yapı",
-      "çelik profil",
-      "gökdelen iskeleti",
-      "kaynak cıvata",
-      "sanayi yapısı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 81,
-    "kategori": "mimarlik",
-    "kelime": "asma tavan",
-    "aciklama": "döşeme altına asılarak kabloları gizleyen alçıpan asma tavan.",
-    "yasakli_kelimeler": [
-      "alçıpan tavan",
-      "kablo gizleme",
-      "spot lambalar",
-      "döşeme altı",
-      "tavan karkası"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 82,
-    "kategori": "mimarlik",
-    "kelime": "ısı yalıtımı",
-    "aciklama": "binanın iç sıcaklığını korumak için uygulanan cephe ısı yalıtımı.",
-    "yasakli_kelimeler": [
-      "mantolama",
-      "taşyünü strafor",
-      "enerji tasarrufu",
-      "soğuk geçirmeme",
-      "termal yalıtım"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 83,
-    "kategori": "mimarlik",
-    "kelime": "ses yalıtımı",
-    "aciklama": "odalar arası ses ve gürültü geçişini kesen akustik yalıtım.",
-    "yasakli_kelimeler": [
-      "akustik yalıtım",
-      "gürültü önleme",
-      "ses süngeri",
-      "desibel engeli",
-      "sessizlik"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 84,
-    "kategori": "mimarlik",
-    "kelime": "su yalıtımı",
-    "aciklama": "temel ve çatıdan nem ve su girişini engelleyen su yalıtımı.",
-    "yasakli_kelimeler": [
-      "izolasyon",
-      "membran",
-      "nem sızıntısı",
-      "zift sürme",
-      "rutubet engeli"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 85,
-    "kategori": "mimarlik",
-    "kelime": "mantolama",
-    "aciklama": "binaların dış cephesinin ısı yalıtım levhalarıyla çepeçevre sarılması mantolaması.",
-    "yasakli_kelimeler": [
-      "dış cephe yalıtımı",
-      "strafor kaplama",
-      "ısı tasarrufu",
-      "cephe giydirme",
-      "bina mantosu"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 86,
-    "kategori": "mimarlik",
-    "kelime": "istinat duvarı",
-    "aciklama": "eğimli arazide toprağın kaymasını engelleyen masif istinat duvarı.",
-    "yasakli_kelimeler": [
-      "toprak tutucu",
-      "kayma önleyici duvar",
-      "şev duvarı",
-      "beton perde",
-      "dayanma duvarı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 87,
-    "kategori": "mimarlik",
-    "kelime": "bordür",
-    "aciklama": "kaldırımı araç yolundan ayıran beton kenar bordür taşı.",
-    "yasakli_kelimeler": [
-      "kaldırım taşı",
-      "kenar taşı",
-      "kaldırım sınırı",
-      "yol ayrımı",
-      "beton bordür"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 88,
-    "kategori": "mimarlik",
-    "kelime": "derz",
-    "aciklama": "seramik ve taş kaplamaların arasında bırakılan harçlı derz çizgisi.",
-    "yasakli_kelimeler": [
-      "seramik aralığı",
-      "fayans çizgisi",
-      "derz dolgusu",
-      "ek yeri boşluğu",
-      "iki taş arası"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "kategori": "mimarlik",
-    "kelime": "çizmek",
-    "aciklama": "kağıt veya ekranda bina planı ve projesi oluşturmak",
-    "yasakli_kelimeler": [
-      "plan",
-      "proje",
-      "cetvel",
-      "kalem",
-      "tasarım"
-    ],
-    "zorluk": "kolay",
-    "id": 89
-  },
-  {
-    "kategori": "mimarlik",
-    "kelime": "tasarlamak",
-    "aciklama": "yeni bir yapının formunu ve mekanlarını zihinde ve projede kurgulamak",
-    "yasakli_kelimeler": [
-      "kurgu",
-      "fikir",
-      "estetik",
-      "bina",
-      "mimar"
-    ],
-    "zorluk": "kolay",
-    "id": 90
-  },
-  {
-    "kategori": "mimarlik",
-    "kelime": "inşa etmek",
-    "aciklama": "tasarlanan yapıyı sahada malzeme kullanarak dikmek",
-    "yasakli_kelimeler": [
-      "yapı",
-      "şantiye",
-      "bina",
-      "kurmak",
-      "örme"
-    ],
-    "zorluk": "kolay",
-    "id": 91
-  },
-  {
-    "kategori": "mimarlik",
-    "kelime": "ölçmek",
-    "aciklama": "mekan boyutlarını ve mesafeleri metreyle belirlemek",
-    "yasakli_kelimeler": [
-      "metre",
-      "boyut",
-      "uzunluk",
-      "alan",
-      "mesafe"
-    ],
-    "zorluk": "kolay",
-    "id": 92
-  },
-  {
-    "kategori": "mimarlik",
-    "kelime": "yıkmak",
-    "aciklama": "eski veya riskli binayı yerle bir etmek",
-    "yasakli_kelimeler": [
-      "dozer",
-      "enkaz",
-      "kentsel dönüşüm",
-      "moloz",
-      "hasar"
-    ],
-    "zorluk": "kolay",
-    "id": 93
-  },
-  {
-    "kategori": "mimarlik",
-    "kelime": "onarmak",
-    "aciklama": "hasar gören veya eskiyen yapı elemanlarını tamir etmek",
-    "yasakli_kelimeler": [
-      "tamir",
-      "tadilat",
-      "yenilemek",
-      "hasar",
-      "bakım"
-    ],
-    "zorluk": "kolay",
-    "id": 94
-  },
-  {
-    "kategori": "mimarlik",
-    "kelime": "boyamak",
-    "aciklama": "duvar ve tavan yüzeylerine estetik renk katmanı sürmek",
-    "yasakli_kelimeler": [
-      "renk",
-      "fırça",
-      "duvar",
-      "rulo",
-      "tavan"
-    ],
-    "zorluk": "kolay",
-    "id": 95
-  },
-  {
-    "kategori": "mimarlik",
-    "kelime": "döşemek",
-    "aciklama": "zemin veya duvara parke, fayans veya seramik yerleştirmek",
-    "yasakli_kelimeler": [
-      "fayans",
-      "parke",
-      "zemin",
-      "kaplama",
-      "seramik"
-    ],
-    "zorluk": "kolay",
-    "id": 96
-  },
-  {
-    "kategori": "mimarlik",
-    "kelime": "düzenlemek",
-    "aciklama": "iç mekandaki mobilya ve donatıları işlevsel yerleştirmek",
-    "yasakli_kelimeler": [
-      "iç mimari",
-      "yerleşim",
-      "mobilya",
-      "dekorasyon",
-      "mekan"
-    ],
-    "zorluk": "kolay",
-    "id": 97
-  },
-  {
-    "kategori": "mimarlik",
-    "kelime": "aydınlatmak",
-    "aciklama": "iç ve dış mekanı doğal veya yapay ışıkla donatmak",
-    "yasakli_kelimeler": [
-      "ışık",
-      "lamba",
-      "avize",
-      "pencere",
-      "armatür"
-    ],
-    "zorluk": "kolay",
-    "id": 98
-  },
-  {
-    "kategori": "mimarlik",
-    "kelime": "ruhsat almak",
-    "aciklama": "belediyeden inşaat projesinin uygulanması için yasal izin çıkarmak",
-    "yasakli_kelimeler": [
-      "belediye",
-      "izin",
-      "yasal",
-      "proje",
-      "onay"
-    ],
-    "zorluk": "orta",
-    "id": 99
-  },
-  {
-    "kategori": "mimarlik",
     "kelime": "iskele kurmak",
-    "aciklama": "dış cephe imalatları için geçici metal çalışma platformu inşa etmek",
+    "aciklama": "yüksek cephelerde çalışabilmek için geçici metal platform kurmak",
     "yasakli_kelimeler": [
       "cephe",
-      "platform",
-      "şantiye",
-      "yükseklik",
-      "boru"
+      "inşaat",
+      "metal",
+      "boya",
+      "tırmanmak"
     ],
-    "zorluk": "orta",
-    "id": 100
+    "zorluk": "kolay"
   }
 ]

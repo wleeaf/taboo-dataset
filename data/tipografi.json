@@ -3,7 +3,7 @@
     "id": 1,
     "kategori": "tipografi",
     "kelime": "italik",
-    "aciklama": "el yazısı dinamizmini taşıyan ve hafifçe sağa yatık olarak özel.",
+    "aciklama": "sağa doğru hafifçe yatık tasarlanmış yazı stili.",
     "yasakli_kelimeler": [
       "eğik",
       "yatık",
@@ -16,36 +16,8 @@
   {
     "id": 2,
     "kategori": "tipografi",
-    "kelime": "kalın yazı stili",
-    "aciklama": "metinde önemli başlık veya kelimeleri dikkat çekecek şekilde normalden daha.",
-    "yasakli_kelimeler": [
-      "vurgulu harf",
-      "koyu dizgi",
-      "siyah metin",
-      "etli gövde",
-      "ağır vuruş"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 3,
-    "kategori": "tipografi",
-    "kelime": "iki yana yasla",
-    "aciklama": "metin satırlarının hem sol hem de sağ kenarlarının tam düz.",
-    "yasakli_kelimeler": [
-      "bloklama",
-      "justify",
-      "kenar",
-      "düz",
-      "paragraf"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 4,
-    "kategori": "tipografi",
     "kelime": "kaligrafi",
-    "aciklama": "özel divit, fırça veya kesik uçlu kalemlerle harflere estetik form.",
+    "aciklama": "özel kalemlerle harflere estetik biçim verme güzel yazı sanatı.",
     "yasakli_kelimeler": [
       "güzel yazı",
       "hat",
@@ -56,10 +28,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 5,
+    "id": 3,
     "kategori": "tipografi",
     "kelime": "dizgi",
-    "aciklama": "harflerin ve kelimelerin baskı veya ekran için kurallara uygun olarak.",
+    "aciklama": "harf ve satırların baskı kurallarına göre düzenlenmesi işlemi.",
     "yasakli_kelimeler": [
       "mizanpaj",
       "tipografi",
@@ -70,35 +42,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 6,
-    "kategori": "tipografi",
-    "kelime": "tipo baskı",
-    "aciklama": "mürekkep verilmiş kabartma metal veya ahşap harf bloklarının kağıda preslenmesiyle.",
-    "yasakli_kelimeler": [
-      "letrpress",
-      "metal harf",
-      "gutenberg",
-      "ahşap kalıp",
-      "baskı"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 7,
-    "kategori": "tipografi",
-    "kelime": "kurşun harf",
-    "aciklama": "tipo matbaacılıkta metin oluşturmak için kurşun ve antimon alaşımından dökülmüş.",
-    "yasakli_kelimeler": [
-      "metal harf",
-      "döküm",
-      "matbaa",
-      "kasa",
-      "alaşım"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 8,
+    "id": 4,
     "kategori": "tipografi",
     "kelime": "baskı mürekkebi",
     "aciklama": "tipografik formların kağıt yüzeyine aktarılmasını sağlayan yüksek viskoziteli pigmentli boya.",
@@ -112,10 +56,10 @@
     "zorluk": "orta"
   },
   {
-    "id": 9,
+    "id": 5,
     "kategori": "tipografi",
     "kelime": "font ailesi",
-    "aciklama": "aynı tasarım ruhunu taşıyan kalın, ince, yatık ve geniş varyantların.",
+    "aciklama": "aynı tasarımın kalın, ince ve yatık tüm varyasyonları.",
     "yasakli_kelimeler": [
       "yazı ailesi",
       "font serisi",
@@ -126,63 +70,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 10,
-    "kategori": "tipografi",
-    "kelime": "üst simge",
-    "aciklama": "matematiksel üs veya dipnot belirtmek için taban çizgisinin üzerinde minik.",
-    "yasakli_kelimeler": [
-      "superscript",
-      "dipnot",
-      "üs",
-      "küçük",
-      "yukarı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 11,
-    "kategori": "tipografi",
-    "kelime": "alt simge",
-    "aciklama": "kimyasal formüllerde kullanılan, taban çizgisinin hemen altına küçük yerleştirilen glif.",
-    "yasakli_kelimeler": [
-      "subscript",
-      "alt",
-      "kimya formülü",
-      "küçük rakam",
-      "aşağı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 12,
-    "kategori": "tipografi",
-    "kelime": "başlık fontu",
-    "aciklama": "yalnızca 14-16 punto ve üzeri büyük boyutlarda etkileyici ve dengeli.",
-    "yasakli_kelimeler": [
-      "display font",
-      "manşet",
-      "afiş",
-      "iri yazı",
-      "başlık"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 13,
-    "kategori": "tipografi",
-    "kelime": "metin fontu",
-    "aciklama": "küçük puntolarda dahi gözü yormayan, son derece net ve dengeli.",
-    "yasakli_kelimeler": [
-      "body font",
-      "okuma yazısı",
-      "kitap fontu",
-      "gövde",
-      "küçük punto"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 14,
+    "id": 6,
     "kategori": "tipografi",
     "kelime": "font",
     "aciklama": "belirli bir harf karakterinin belirli bir ağırlık, genişlik ve stildeki.",
@@ -196,7 +84,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 15,
+    "id": 7,
     "kategori": "tipografi",
     "kelime": "yazı tipi",
     "aciklama": "tüm harflerin, rakamların ve noktalama işaretlerinin ortak bir görsel tasarımla.",
@@ -210,10 +98,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 16,
+    "id": 8,
     "kategori": "tipografi",
     "kelime": "harf",
-    "aciklama": "dildeki bir sesi gösteren ve yazı yazmaya yarayan alfabenin en.",
+    "aciklama": "dildeki bir sesi gösteren alfabenin en küçük birimi.",
     "yasakli_kelimeler": [
       "alfabe işareti",
       "ses simgesi",
@@ -224,10 +112,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 17,
+    "id": 9,
     "kategori": "tipografi",
     "kelime": "büyük harf",
-    "aciklama": "cümle başlarında ve özel isimlerde kullanılan, küçük harflerden daha yüksek.",
+    "aciklama": "cümle başlarında ve özel isimlerde kullanılan büyük karakter.",
     "yasakli_kelimeler": [
       "majüskül",
       "cümle başı harfi",
@@ -238,10 +126,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 18,
+    "id": 10,
     "kategori": "tipografi",
     "kelime": "küçük harf",
-    "aciklama": "gövde yüksekliği x çizgisine göre hizalanan ve metin bloklarında en.",
+    "aciklama": "metin bloklarında en yaygın kullanılan standart yazı karakteri.",
     "yasakli_kelimeler": [
       "minüskül",
       "blok metin harfi",
@@ -252,10 +140,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 19,
+    "id": 11,
     "kategori": "tipografi",
     "kelime": "el yazısı",
-    "aciklama": "harfleri birbirine akıcı bitişik çizgilerle bağlanan ve dolmakalemle yazılmış hissi.",
+    "aciklama": "harfleri birbirine akıcı bitişik çizgilerle bağlanan yazı biçimi.",
     "yasakli_kelimeler": [
       "script font",
       "bitişik yazı",
@@ -266,10 +154,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 20,
+    "id": 12,
     "kategori": "tipografi",
     "kelime": "gotik yazı",
-    "aciklama": "ortaçağ avrupası'nda el yazması dini kitaplarda kullanılan köşeli, sivri ve.",
+    "aciklama": "ortaçağ avrupası'na özgü köşeli ve süslü tarihi yazı stili.",
     "yasakli_kelimeler": [
       "blackletter",
       "fraktür",
@@ -280,7 +168,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 21,
+    "id": 13,
     "kategori": "tipografi",
     "kelime": "daktilo fontu",
     "aciklama": "eski mekanik daktilo tuşlarının mürekkepli şeride vurarak kağıtta bıraktığı pürüzlü.",
@@ -294,7 +182,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 22,
+    "id": 14,
     "kategori": "tipografi",
     "kelime": "üç nokta",
     "aciklama": "yazıda anlatımın tamamlanmadığını veya sözün devam ettiğini gösteren ardışık üç.",
@@ -308,10 +196,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 23,
+    "id": 15,
     "kategori": "tipografi",
     "kelime": "tire",
-    "aciklama": "cümle içinde ara sözleri ayırmak veya kelimeleri birbirine bağlamak için.",
+    "aciklama": "cümle içinde ara sözleri ayırmak veya kelimeleri birbirine bağlamak.",
     "yasakli_kelimeler": [
       "çizgi işareti",
       "kısa çizgi",
@@ -322,7 +210,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 24,
+    "id": 16,
     "kategori": "tipografi",
     "kelime": "parantez",
     "aciklama": "cümle içine ek açıklama veya kaynakça eklemek için metni içine.",
@@ -336,10 +224,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 25,
+    "id": 17,
     "kategori": "tipografi",
     "kelime": "tırnak işareti",
-    "aciklama": "başkalarından aynen aktarılan sözlerin veya vurgulanmak istenen kavramların başına ve.",
+    "aciklama": "alıntı sözleri veya vurgulanan kelimeleri belirtmek için kullanılan işaret.",
     "yasakli_kelimeler": [
       "alıntı işareti",
       "çift tırnak",
@@ -350,21 +238,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 26,
-    "kategori": "tipografi",
-    "kelime": "tek tırnak",
-    "aciklama": "çift tırnak içine alınmış bir cümlenin içinde geçen başka bir.",
-    "yasakli_kelimeler": [
-      "tekli tırnak",
-      "iç alıntı işareti",
-      "kesme benzeri",
-      "vurgulama işareti",
-      "noktalama"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 27,
+    "id": 18,
     "kategori": "tipografi",
     "kelime": "kesme işareti",
     "aciklama": "özel isimlere gelen çekim eklerini ayırmak veya kısaltmaları eklerden ayırmak.",
@@ -378,10 +252,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 28,
+    "id": 19,
     "kategori": "tipografi",
     "kelime": "noktalı virgül",
-    "aciklama": "cümle içinde virgülle ayrılmış tür veya takımları birbirinden ayırmak için.",
+    "aciklama": "cümle içinde virgülle ayrılmış tür veya takımları birbirinden ayırmak.",
     "yasakli_kelimeler": [
       "üstte nokta altta virgül",
       "türleri ayıran",
@@ -392,7 +266,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 29,
+    "id": 20,
     "kategori": "tipografi",
     "kelime": "iki nokta",
     "aciklama": "kendisiyle ilgili açıklama verilecek veya doğrudan alıntı konuşma yapılacak cümlenin.",
@@ -406,10 +280,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 30,
+    "id": 21,
     "kategori": "tipografi",
     "kelime": "soru işareti",
-    "aciklama": "soru bildiren cümle veya sözcüklerin sonuna konulan, kıvrımlı gövdesi ve.",
+    "aciklama": "soru bildiren cümle veya sözcüklerin sonuna konulan, kıvrımlı gövdesi.",
     "yasakli_kelimeler": [
       "soru eki işareti",
       "kıvrımlı işaret",
@@ -420,7 +294,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 31,
+    "id": 22,
     "kategori": "tipografi",
     "kelime": "ünlem işareti",
     "aciklama": "sevinç, korku, şaşma, emir ve heyecan bildiren hitap veya cümlelerin.",
@@ -434,7 +308,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 32,
+    "id": 23,
     "kategori": "tipografi",
     "kelime": "et işareti",
     "aciklama": "e-posta adreslerinde kullanıcı adı ile alan adını ayıran kuyruklu dairesel.",
@@ -448,21 +322,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 33,
-    "kategori": "tipografi",
-    "kelime": "diyez",
-    "aciklama": "sosyal medyada etiket oluşturmakta ve müzikte yarım ses inceltmede kullanılan.",
-    "yasakli_kelimeler": [
-      "hashtag",
-      "kare işareti",
-      "etiket simgesi",
-      "müzik diyezi",
-      "ızgara sembolü"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 34,
+    "id": 24,
     "kategori": "tipografi",
     "kelime": "alt çizgi",
     "aciklama": "taban çizgisinin hemen altına çizilen ve dosya adlarında boşluk yerine.",
@@ -476,7 +336,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 35,
+    "id": 25,
     "kategori": "tipografi",
     "kelime": "inceltme işareti",
     "aciklama": "türkçede a, u ve i harflerinin üzerine konarak sesin ince.",
@@ -490,10 +350,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 36,
+    "id": 26,
     "kategori": "tipografi",
     "kelime": "harf aralığı",
-    "aciklama": "kelimedeki tüm harflerin birbirine olan genel yakınlık ve uzaklık mesafesinin.",
+    "aciklama": "kelimedeki harflerin birbirine olan yatay mesafe ayarı.",
     "yasakli_kelimeler": [
       "letter spacing",
       "tracking",
@@ -504,10 +364,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 37,
+    "id": 27,
     "kategori": "tipografi",
     "kelime": "satır aralığı",
-    "aciklama": "iki satırın taban çizgileri arasındaki dikey mesafe olup metnin ferah.",
+    "aciklama": "iki metin satırı arasındaki düşey boşluk mesafesi.",
     "yasakli_kelimeler": [
       "leading",
       "satırlar arası mesafe",
@@ -518,35 +378,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 38,
-    "kategori": "tipografi",
-    "kelime": "kelime aralığı",
-    "aciklama": "cümledeki kelimelerin birbirine karışmaması için aralarına klavyedeki boşluk tuşuyla konulan.",
-    "yasakli_kelimeler": [
-      "word spacing",
-      "kelimeler arası boşluk",
-      "boşluk tuşu",
-      "spacebar aralığı",
-      "kelime mesafesi"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 39,
-    "kategori": "tipografi",
-    "kelime": "paragraf aralığı",
-    "aciklama": "paragraf bittiğinde alttaki yeni paragrafa geçmeden önce bırakılan ekstra dikey.",
-    "yasakli_kelimeler": [
-      "paragraflar arası mesafe",
-      "dikey boşluk",
-      "enter boşluğu",
-      "paragraf nefesi",
-      "boşluk"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 40,
+    "id": 28,
     "kategori": "tipografi",
     "kelime": "sola hizala",
     "aciklama": "metin satırlarının sol kenarda düz bir çizgi halinde başlayıp sağ.",
@@ -560,7 +392,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 41,
+    "id": 29,
     "kategori": "tipografi",
     "kelime": "sağa hizala",
     "aciklama": "satırların sağ kenarda düz bir hat oluşturup sol tarafta tırtıklı.",
@@ -574,7 +406,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 42,
+    "id": 30,
     "kategori": "tipografi",
     "kelime": "ortala",
     "aciklama": "her satırın tam sayfa veya kolon merkezine göre eşit boşluklarla.",
@@ -588,7 +420,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 43,
+    "id": 31,
     "kategori": "tipografi",
     "kelime": "girinti",
     "aciklama": "yeni bir paragrafa başlarken ilk satırın diğer satırlara göre birkaç.",
@@ -602,7 +434,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 44,
+    "id": 32,
     "kategori": "tipografi",
     "kelime": "satır başı",
     "aciklama": "okuyucunun gözünün yeni bir düşünceye veya paragrafa geçtiğini haber veren.",
@@ -616,35 +448,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 45,
-    "kategori": "tipografi",
-    "kelime": "satır sonu",
-    "aciklama": "metin kutusunun sağ sınırına ulaşıldığında cümlenin aşağı satıra devrettiği en.",
-    "yasakli_kelimeler": [
-      "sağ kenar bitişi",
-      "tireleme noktası",
-      "aşağı inilen yer",
-      "satır bitimi",
-      "uç nokta"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 46,
-    "kategori": "tipografi",
-    "kelime": "sayfa sonu",
-    "aciklama": "sayfadaki metin alanının bittiğini ve kalan içeriğin zorunlu olarak bir.",
-    "yasakli_kelimeler": [
-      "page break",
-      "yeni sayfaya geçiş",
-      "sayfa kesmesi",
-      "sayfa bitimi",
-      "belge düzeni"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 47,
+    "id": 33,
     "kategori": "tipografi",
     "kelime": "sayfa düzeni",
     "aciklama": "metinlerin, başlıkların, fotoğrafların ve boşlukların sayfada estetik bir hiyerarşiyle yerleştirilmesi.",
@@ -658,10 +462,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 48,
+    "id": 34,
     "kategori": "tipografi",
     "kelime": "mizanpaj",
-    "aciklama": "gazete, dergi ve kitap sayfalarındaki yazı ve görsel öğelerin baskı.",
+    "aciklama": "sayfadaki yazı ve resimlerin estetik bir düzenle yerleştirilmesi.",
     "yasakli_kelimeler": [
       "sayfa tasarımı",
       "layout sanatı",
@@ -672,7 +476,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 49,
+    "id": 35,
     "kategori": "tipografi",
     "kelime": "sayfa numarası",
     "aciklama": "kitap sayfalarının sırasını takip edebilmek için genellikle alt veya üst.",
@@ -686,7 +490,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 50,
+    "id": 36,
     "kategori": "tipografi",
     "kelime": "dipnot",
     "aciklama": "metin içindeki bir iddiayı kanıtlamak veya terimi açıklamak için sayfanın.",
@@ -700,7 +504,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 51,
+    "id": 37,
     "kategori": "tipografi",
     "kelime": "kaynakça",
     "aciklama": "kitapta veya tezde yararlanılan tüm eserlerin, yazarların ve makalelerin alfabetik.",
@@ -714,7 +518,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 52,
+    "id": 38,
     "kategori": "tipografi",
     "kelime": "içindekiler",
     "aciklama": "kitabın başında bulunan ve bölümlerin, alt başlıkların hangi sayfada başladığını.",
@@ -728,7 +532,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 53,
+    "id": 39,
     "kategori": "tipografi",
     "kelime": "dizin",
     "aciklama": "kitapta geçen kişi, yer ve kavram isimlerinin hangi sayfalarda geçtiğini.",
@@ -742,10 +546,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 54,
+    "id": 40,
     "kategori": "tipografi",
     "kelime": "kapak tasarımı",
-    "aciklama": "kitabın veya derginin dış yüzeyini oluşturan, okuyucunun ilgisini çekecek tipografi.",
+    "aciklama": "kitap veya derginin dış yüzeyinin görsel ve tipografik düzeni.",
     "yasakli_kelimeler": [
       "kitap kapağı",
       "dış tasarım",
@@ -756,121 +560,9 @@
     "zorluk": "kolay"
   },
   {
-    "id": 55,
-    "kategori": "tipografi",
-    "kelime": "kitap sırtı",
-    "aciklama": "sayfaların tutkallandığı veya dikildiği, sayfa sayısına göre kalınlığı hesaplanan kitabın.",
-    "yasakli_kelimeler": [
-      "omurga kısmı",
-      "sırt kalınlığı",
-      "tutkallanan kenar",
-      "rafta görünen yer",
-      "spine"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 56,
-    "kategori": "tipografi",
-    "kelime": "ön kapak",
-    "aciklama": "kitabın ilk yüzü olup kitabın adını, yazarını ve yayınevi amblemini.",
-    "yasakli_kelimeler": [
-      "kitabın önü",
-      "ilk kapak",
-      "kitap adı yazan",
-      "arka kapak zıttı",
-      "kapak resmi"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 57,
-    "kategori": "tipografi",
-    "kelime": "arka kapak",
-    "aciklama": "kitabın arkasında bulunan, tanıtım bülteni, barkod, fiyat ve eleştirmen yorumlarını.",
-    "yasakli_kelimeler": [
-      "kitabın arkası",
-      "arka yazı",
-      "barkod yeri",
-      "tanıtım metni",
-      "ön kapak zıttı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 58,
-    "kategori": "tipografi",
-    "kelime": "iç kapak",
-    "aciklama": "dış kapak açıldıktan sonra genellikle beyaz kağıt üzerine sadece kitap.",
-    "yasakli_kelimeler": [
-      "başlık sayfası",
-      "title page",
-      "kapak arkası ilk sayfa",
-      "sade kapak",
-      "kitap girişi"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 59,
-    "kategori": "tipografi",
-    "kelime": "tipograf",
-    "aciklama": "yazı tiplerini tasarlayan veya basılı metinlerin harf aralıklarını ve dizgisini.",
-    "yasakli_kelimeler": [
-      "yazı tasarımcısı",
-      "font tasarımcısı",
-      "dizgi ustası",
-      "harf sanatçısı",
-      "meslek"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "kategori": "tipografi",
-    "kelime": "yazı tipi seçmek",
-    "aciklama": "tasarım için uygun bir font veya karakter ailesi belirlemek.",
-    "yasakli_kelimeler": [
-      "font",
-      "tasarım",
-      "belirlemek",
-      "karakter",
-      "uygun"
-    ],
-    "zorluk": "kolay",
-    "id": 60
-  },
-  {
-    "kategori": "tipografi",
-    "kelime": "yazıyı büyütmek",
-    "aciklama": "metnin punto veya piksel boyutunu artırmak.",
-    "yasakli_kelimeler": [
-      "punto",
-      "boyut",
-      "metin",
-      "artırmak",
-      "küçük"
-    ],
-    "zorluk": "kolay",
-    "id": 61
-  },
-  {
-    "kategori": "tipografi",
-    "kelime": "yazıyı küçültmek",
-    "aciklama": "metin karakterlerinin boyutunu daha küçük bir dereceye indirmek.",
-    "yasakli_kelimeler": [
-      "boyut",
-      "punto",
-      "küçük",
-      "indirmek",
-      "metin"
-    ],
-    "zorluk": "kolay",
-    "id": 62
-  },
-  {
     "kategori": "tipografi",
     "kelime": "kalınlaştırmak",
-    "aciklama": "yazıyı vurgulamak için bold (kalın) karakter stiline getirmek.",
+    "aciklama": "yazıyı daha dolgun ve dikkat çekici hale getirme işlemi.",
     "yasakli_kelimeler": [
       "bold",
       "vurgu",
@@ -879,54 +571,12 @@
       "yazı"
     ],
     "zorluk": "kolay",
-    "id": 63
-  },
-  {
-    "kategori": "tipografi",
-    "kelime": "i̇talik yapmak",
-    "aciklama": "harfleri sağa doğru eğik yazım formatına çevirmek.",
-    "yasakli_kelimeler": [
-      "eğik",
-      "sağa",
-      "format",
-      "vurgu",
-      "harf"
-    ],
-    "zorluk": "kolay",
-    "id": 64
-  },
-  {
-    "kategori": "tipografi",
-    "kelime": "metni hizalamak",
-    "aciklama": "paragrafı sola, sağa, ortaya veya iki yana yaslamak.",
-    "yasakli_kelimeler": [
-      "sağ",
-      "sol",
-      "orta",
-      "yaslamak",
-      "paragraf"
-    ],
-    "zorluk": "kolay",
-    "id": 65
-  },
-  {
-    "kategori": "tipografi",
-    "kelime": "büyük harfe çevirmek",
-    "aciklama": "yazıdaki tüm harfleri majiskül (büyük harf) formatına getirmek.",
-    "yasakli_kelimeler": [
-      "majiskül",
-      "küçük harf",
-      "caps",
-      "format",
-      "yazı"
-    ],
-    "zorluk": "kolay",
-    "id": 66
+    "id": 41
   },
   {
     "kategori": "tipografi",
     "kelime": "altını çizmek",
-    "aciklama": "önemli kelimelerin altına düz veya noktalı çizgi eklemek.",
+    "aciklama": "önemli bir sözcüğün altından düz çizgi geçirme işlemi.",
     "yasakli_kelimeler": [
       "çizgi",
       "vurgu",
@@ -935,62 +585,6 @@
       "kelime"
     ],
     "zorluk": "kolay",
-    "id": 67
-  },
-  {
-    "kategori": "tipografi",
-    "kelime": "font yüklemek",
-    "aciklama": "bilgisayara veya işletim sistemine yeni bir yazı tipi dosyası kurmak.",
-    "yasakli_kelimeler": [
-      "bilgisayar",
-      "dosya",
-      "kurmak",
-      "yazı tipi",
-      "ttf"
-    ],
-    "zorluk": "kolay",
-    "id": 68
-  },
-  {
-    "kategori": "tipografi",
-    "kelime": "paragraf başı yapmak",
-    "aciklama": "yeni bir metin bloğuna geçmek için satır başı girintisi vermek.",
-    "yasakli_kelimeler": [
-      "satır",
-      "girinti",
-      "blok",
-      "yeni",
-      "boşluk"
-    ],
-    "zorluk": "kolay",
-    "id": 69
-  },
-  {
-    "kategori": "tipografi",
-    "kelime": "okunurluğu artırmak",
-    "aciklama": "yazının gözü yormadan kolay ve net anlaşılmasını sağlamak.",
-    "yasakli_kelimeler": [
-      "kolay",
-      "net",
-      "anlaşılır",
-      "göz",
-      "okuma"
-    ],
-    "zorluk": "kolay",
-    "id": 70
-  },
-  {
-    "kategori": "tipografi",
-    "kelime": "metin kutusu açmak",
-    "aciklama": "tasarım yazılımında yazı yazmak için bir çerçeve oluşturmak.",
-    "yasakli_kelimeler": [
-      "çerçeve",
-      "alan",
-      "yazılım",
-      "yazı",
-      "oluşturmak"
-    ],
-    "zorluk": "kolay",
-    "id": 71
+    "id": 42
   }
 ]

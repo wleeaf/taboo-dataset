@@ -142,20 +142,6 @@
   {
     "id": 11,
     "kategori": "epidemiyoloji",
-    "kelime": "asemptomatik taşıyıcı",
-    "aciklama": "vücudunda patojen taşıyan ve bulaştıran ancak kendisinde görülmeyen kişi.",
-    "yasakli_kelimeler": [
-      "belirtisiz",
-      "taşıyıcı",
-      "semptomsuz",
-      "bulaştırıcı",
-      "sağlıklı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 12,
-    "kategori": "epidemiyoloji",
     "kelime": "soğuk zincir",
     "aciklama": "aşı ve biyolojik ürünlerin üretimden uygulanma anına korunması sistemi.",
     "yasakli_kelimeler": [
@@ -168,7 +154,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 13,
+    "id": 12,
     "kategori": "epidemiyoloji",
     "kelime": "halk sağlığı",
     "aciklama": "toplumun organize çabalarıyla hastalıkları önlemeyi, yaşamı uzatmayı hedefleyen disiplin.",
@@ -182,7 +168,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 14,
+    "id": 13,
     "kategori": "epidemiyoloji",
     "kelime": "koruyucu hekimlik",
     "aciklama": "bireylerin ve toplumun hastalanmasını önlemeye odaklanan primer, sağlık hizmetleri.",
@@ -196,77 +182,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 15,
-    "kategori": "epidemiyoloji",
-    "kelime": "sağlık okuryazarlığı",
-    "aciklama": "bireylerin sağlıkla ilgili temel bilgilere ulaşma, anlama verebilme kapasitesi.",
-    "yasakli_kelimeler": [
-      "okuryazarlık",
-      "bilgi",
-      "anlama",
-      "karar",
-      "eğitim"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 16,
-    "kategori": "epidemiyoloji",
-    "kelime": "bulaşma yolu",
-    "aciklama": "enfeksiyon ajanının kaynaktan yeni bir konakçıya geçerken izlediği fiziksel mekanizma.",
-    "yasakli_kelimeler": [
-      "damlacık",
-      "temas",
-      "hava",
-      "fekal-oral",
-      "aktarım"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 17,
-    "kategori": "epidemiyoloji",
-    "kelime": "damlacık yolu",
-    "aciklama": "öksürme veya hapşırma ile saçılan büyük partiküllerin gerçekleşen bulaşma.",
-    "yasakli_kelimeler": [
-      "öksürük",
-      "hapşırık",
-      "tükürük",
-      "mesafe",
-      "partikül"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 18,
-    "kategori": "epidemiyoloji",
-    "kelime": "hava yolu",
-    "aciklama": "küçük damlacık çekirdeklerinin havada uzun süre asılı bulaşma biçimi.",
-    "yasakli_kelimeler": [
-      "havada asılı",
-      "aerosol",
-      "çekirdek",
-      "uzun mesafe",
-      "tüberküloz"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 19,
-    "kategori": "epidemiyoloji",
-    "kelime": "enfeksiyon kaynağı",
-    "aciklama": "patojen mikroorganizmanın konakçıya doğrudan veya dolaylı geçtiği veya nesne.",
-    "yasakli_kelimeler": [
-      "kaynak",
-      "bulaşma",
-      "patojen",
-      "mikrop",
-      "odak"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 20,
+    "id": 14,
     "kategori": "epidemiyoloji",
     "kelime": "temaslı takibi",
     "aciklama": "bulaşıcı hastalık tanısı alan kişiyle yakın temasta izlenmesi süreci.",
@@ -280,7 +196,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 21,
+    "id": 15,
     "kategori": "epidemiyoloji",
     "kelime": "şüpheli vaka",
     "aciklama": "hastalığın bazı klinik belirtilerini taşıyan veya temas yapılmamış kişi.",
@@ -294,7 +210,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 22,
+    "id": 16,
     "kategori": "epidemiyoloji",
     "kelime": "süper yayıcı",
     "aciklama": "bulaşıcı hastalığı ortalamadan çok daha fazla sayıda bulaştırıcı birey.",
@@ -308,7 +224,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 23,
+    "id": 17,
     "kategori": "epidemiyoloji",
     "kelime": "temaslı",
     "aciklama": "bulaşıcı hastalık taşıyan kişiyle virüsün bulaşabileceği mesafede bulunmuş birey.",
@@ -322,63 +238,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 24,
-    "kategori": "epidemiyoloji",
-    "kelime": "yakın temas",
-    "aciklama": "maskesiz olarak kapalı mekanda iki metreden yakın riskli karşılaşma.",
-    "yasakli_kelimeler": [
-      "iki metre",
-      "kapalı alan",
-      "maskesiz",
-      "yüksek risk",
-      "süre"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 25,
-    "kategori": "epidemiyoloji",
-    "kelime": "patojen",
-    "aciklama": "girdiği canlı organizmada enfeksiyona ve hastalığa neden zararlı etmen.",
-    "yasakli_kelimeler": [
-      "bakteri",
-      "virüs",
-      "hastalık yapıcı",
-      "mikrop",
-      "enfeksiyon"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 26,
-    "kategori": "epidemiyoloji",
-    "kelime": "aşı tereddüdü",
-    "aciklama": "aşı hizmetlerine erişim olmasına rağmen aşı olmayı yaklaşma durumu.",
-    "yasakli_kelimeler": [
-      "geciktirme",
-      "şüphe",
-      "güvensizlik",
-      "tereddüt",
-      "aşı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 27,
-    "kategori": "epidemiyoloji",
-    "kelime": "aşı reddi",
-    "aciklama": "yanlış inanışlar veya komplo teorileri sebebiyle kendisine kabul etmeme.",
-    "yasakli_kelimeler": [
-      "reddetmek",
-      "karşıtlık",
-      "kabul etmeme",
-      "çocuk",
-      "direnç"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 28,
+    "id": 18,
     "kategori": "epidemiyoloji",
     "kelime": "aşı pasaportu",
     "aciklama": "pandemi döneminde seyahat edebilmek veya etkinliklere katılabilmek resmi sertifika.",
@@ -392,7 +252,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 29,
+    "id": 19,
     "kategori": "epidemiyoloji",
     "kelime": "aşı takvimi",
     "aciklama": "çocukluk ve yetişkinlik döneminde hangi aşıların hangi sağlık planı.",
@@ -406,21 +266,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 30,
-    "kategori": "epidemiyoloji",
-    "kelime": "rapel doz",
-    "aciklama": "zamanla azalan bağışıklık yanıtını ve antikor seviyesini aşı dozu.",
-    "yasakli_kelimeler": [
-      "hatırlatma",
-      "pekiştirme",
-      "ek doz",
-      "antikor",
-      "yenileme"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 31,
+    "id": 20,
     "kategori": "epidemiyoloji",
     "kelime": "yan etki",
     "aciklama": "aşı veya ilaç uygulamasından sonra oluşan ateş, tıbbi reaksiyon.",
@@ -434,7 +280,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 32,
+    "id": 21,
     "kategori": "epidemiyoloji",
     "kelime": "hızlı test",
     "aciklama": "laboratuvar cihazına gerek kalmadan hasta başında on test kiti.",
@@ -448,7 +294,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 33,
+    "id": 22,
     "kategori": "epidemiyoloji",
     "kelime": "antikor testi",
     "aciklama": "kişinin hastalığı daha önce geçirip geçirmediğini veya bağışıklık testi.",
@@ -462,35 +308,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 34,
-    "kategori": "epidemiyoloji",
-    "kelime": "filyasyon ekibi",
-    "aciklama": "salgın anında sahaya inerek hastaların evlerini ziyaret sağlık görevlileri.",
-    "yasakli_kelimeler": [
-      "saha",
-      "ev ziyareti",
-      "ekip",
-      "zincir",
-      "sağlık personeli"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 35,
-    "kategori": "epidemiyoloji",
-    "kelime": "erken uyarı",
-    "aciklama": "ani salgın tehdidini çok erkenden tespit ederek alarm mekanizması.",
-    "yasakli_kelimeler": [
-      "alarm",
-      "tehdit",
-      "acil müdahale",
-      "tespit",
-      "zamanında"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 36,
+    "id": 23,
     "kategori": "epidemiyoloji",
     "kelime": "bulaşıcı hastalık",
     "aciklama": "bakteri, virüs veya parazitlerin kişiden kişiye doğrudan enfeksiyon hastalığı.",
@@ -504,7 +322,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 37,
+    "id": 24,
     "kategori": "epidemiyoloji",
     "kelime": "kronik hastalık",
     "aciklama": "bulaşıcı olmayan, uzun yıllar veya ömür boyu ilerleyen hastalıklar.",
@@ -518,7 +336,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 38,
+    "id": 25,
     "kategori": "epidemiyoloji",
     "kelime": "risk faktörü",
     "aciklama": "kişide bulunması halinde belirli hastalığa yakalanma olasılığını veya alışkanlık.",
@@ -532,7 +350,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 39,
+    "id": 26,
     "kategori": "epidemiyoloji",
     "kelime": "hastane enfeksiyonu",
     "aciklama": "hastanın hastaneye yatışında kuluçka döneminde olmayan, yattıktan gelişen enfeksiyon.",
@@ -546,241 +364,73 @@
     "zorluk": "kolay"
   },
   {
+    "id": 27,
+    "kelime": "salgın",
     "kategori": "epidemiyoloji",
-    "kelime": "aşı olmak",
-    "aciklama": "bulaşıcı hastalıklara karşı bağışıklık kazanmak için aşı yaptırmak.",
+    "aciklama": "bir hastalığın belirli zamanda hızla ve çokça yayılması.",
     "yasakli_kelimeler": [
-      "iğne",
-      "koruma",
-      "hastalık",
-      "bağışıklık",
-      "hemşire"
-    ],
-    "zorluk": "kolay",
-    "id": 40
-  },
-  {
-    "kategori": "epidemiyoloji",
-    "kelime": "maske takmak",
-    "aciklama": "havadaki damlacıklardan korunmak için yüzü kapatmak.",
-    "yasakli_kelimeler": [
-      "ağız",
-      "burun",
       "virüs",
-      "korona",
-      "korunmak"
-    ],
-    "zorluk": "kolay",
-    "id": 41
-  },
-  {
-    "kategori": "epidemiyoloji",
-    "kelime": "elleri yıkamak",
-    "aciklama": "mikropları uzaklaştırmak için elleri sabunla arındırmak.",
-    "yasakli_kelimeler": [
-      "sabun",
-      "su",
-      "hijyen",
-      "mikrop",
-      "temizlik"
-    ],
-    "zorluk": "kolay",
-    "id": 42
-  },
-  {
-    "kategori": "epidemiyoloji",
-    "kelime": "karantinaya girmek",
-    "aciklama": "bulaşma riskine karşı belirli süre insanlardan izole yaşamak.",
-    "yasakli_kelimeler": [
-      "ev",
-      "tecrit",
-      "bulaş",
-      "kalmak",
-      "çıkmamak"
-    ],
-    "zorluk": "kolay",
-    "id": 43
-  },
-  {
-    "kategori": "epidemiyoloji",
-    "kelime": "hastalık kapmak",
-    "aciklama": "enfeksiyon etkenini vücuduna alıp rahatsızlanmak.",
-    "yasakli_kelimeler": [
-      "bulaşmak",
-      "virüs",
-      "ateş",
-      "hasta",
-      "mikrop"
-    ],
-    "zorluk": "kolay",
-    "id": 44
-  },
-  {
-    "kategori": "epidemiyoloji",
-    "kelime": "ateş ölçmek",
-    "aciklama": "vücut ısısının yüksekliğini tespit etmek.",
-    "yasakli_kelimeler": [
-      "derece",
-      "termometre",
-      "sıcaklık",
       "hastalık",
-      "alın"
+      "yayılma",
+      "vaka",
+      "pandemi"
     ],
-    "zorluk": "kolay",
-    "id": 45
+    "zorluk": "kolay"
   },
   {
+    "id": 28,
+    "kelime": "sosyal mesafe",
     "kategori": "epidemiyoloji",
-    "kelime": "test yaptırmak",
-    "aciklama": "vücutta enfeksiyon olup olmadığını laboratuvarda baktırmak.",
+    "aciklama": "salgın sırasında virüs bulaşmasını önlemek için bırakılan aralık.",
     "yasakli_kelimeler": [
-      "pcr",
-      "sürüntü",
-      "sonuç",
-      "pozitif",
-      "negatif"
+      "aralık",
+      "iki metre",
+      "virüs",
+      "temas",
+      "kural"
     ],
-    "zorluk": "kolay",
-    "id": 46
+    "zorluk": "kolay"
   },
   {
+    "id": 29,
+    "kelime": "dezenfektan",
     "kategori": "epidemiyoloji",
-    "kelime": "mesafe korumak",
-    "aciklama": "bulaşma riskini azaltmak için insanlarla araya fiziksel mesafe koymak.",
-    "yasakli_kelimeler": [
-      "sosyal",
-      "uzak durmak",
-      "kalabalık",
-      "yaklaşmamak",
-      "metre"
-    ],
-    "zorluk": "kolay",
-    "id": 47
-  },
-  {
-    "kategori": "epidemiyoloji",
-    "kelime": "ilaç kullanmak",
-    "aciklama": "hastalığı tedavi etmek için hekimin verdiği ilaçları almak.",
-    "yasakli_kelimeler": [
-      "hap",
-      "şurup",
-      "tedavi",
-      "doktor",
-      "iyileşmek"
-    ],
-    "zorluk": "kolay",
-    "id": 48
-  },
-  {
-    "kategori": "epidemiyoloji",
-    "kelime": "dezenfektan sürmek",
-    "aciklama": "mikroorganizmaları öldüren solüsyonu el veya yüzeye uygulamak.",
+    "aciklama": "yüzey ve ellerdeki mikropları yok eden alkollü madde.",
     "yasakli_kelimeler": [
       "alkol",
-      "jel",
       "el",
-      "temizlemek",
-      "mikrop"
-    ],
-    "zorluk": "kolay",
-    "id": 49
-  },
-  {
-    "kategori": "epidemiyoloji",
-    "kelime": "iyileşmek",
-    "aciklama": "hastalık durumundan kurtulup eski sağlıklı haline dönmek.",
-    "yasakli_kelimeler": [
-      "sağlık",
-      "hastalık",
-      "şifa",
-      "toparlanmak",
-      "düzelmek"
-    ],
-    "zorluk": "kolay",
-    "id": 50
-  },
-  {
-    "kategori": "epidemiyoloji",
-    "kelime": "semptom göstermek",
-    "aciklama": "hastalığa işaret eden fiziksel belirtiler ortaya koymak.",
-    "yasakli_kelimeler": [
-      "belirti",
-      "öksürük",
-      "ateş",
-      "hasta",
-      "ağrı"
-    ],
-    "zorluk": "kolay",
-    "id": 51
-  },
-  {
-    "kategori": "epidemiyoloji",
-    "kelime": "salgını kontrol etmek",
-    "aciklama": "hastalığın yayılma hızını tedbirlerle durdurmak.",
-    "yasakli_kelimeler": [
-      "pandemi",
-      "tedbir",
-      "kısıtlama",
-      "düşüş",
-      "önleme"
-    ],
-    "zorluk": "orta",
-    "id": 52
-  },
-  {
-    "kategori": "epidemiyoloji",
-    "kelime": "hijyen kurallarına uymak",
-    "aciklama": "hastalık bulaşmasını önleyen temizlik protokollerini uygulamak.",
-    "yasakli_kelimeler": [
       "temizlik",
-      "kural",
-      "sağlık",
-      "uyarı",
-      "dezenfeksiyon"
+      "mikrop",
+      "jel"
     ],
-    "zorluk": "orta",
-    "id": 53
+    "zorluk": "kolay"
   },
   {
+    "id": 30,
+    "kelime": "bağışıklık",
     "kategori": "epidemiyoloji",
-    "kelime": "seyahat kısıtlaması getirmek",
-    "aciklama": "virüsün bölgeler veya ülkeler arası taşınmasını engellemek için dolaşımı durdurmak.",
+    "aciklama": "vücudun yabancı mikrop ve virüslere karşı savunma direnci.",
     "yasakli_kelimeler": [
-      "yasak",
-      "uçuş",
-      "sınır",
-      "ülke",
-      "kapatmak"
+      "antikor",
+      "direnç",
+      "sistem",
+      "aşı",
+      "vücut"
     ],
-    "zorluk": "orta",
-    "id": 54
+    "zorluk": "kolay"
   },
   {
+    "id": 31,
+    "kelime": "vaka",
     "kategori": "epidemiyoloji",
-    "kelime": "risk grubu belirlemek",
-    "aciklama": "hastalığın ağır seyretme olasılığı yüksek olan kesimleri sınıflandırmak.",
+    "aciklama": "salgın hastalığa yakalandığı resmi olarak kesinleşmiş hasta birey.",
     "yasakli_kelimeler": [
-      "kronik",
-      "yaşlı",
-      "hassas",
-      "kategori",
-      "öncelik"
+      "hasta",
+      "pozitif",
+      "sayı",
+      "test",
+      "korona"
     ],
-    "zorluk": "orta",
-    "id": 55
-  },
-  {
-    "kategori": "epidemiyoloji",
-    "kelime": "pandemi ilan etmek",
-    "aciklama": "salgının kıtalararası küresel boyuta ulaştığını resmen duyurmak.",
-    "yasakli_kelimeler": [
-      "küresel",
-      "who",
-      "kıtalararası",
-      "dünya sağlık örgütü",
-      "salgın"
-    ],
-    "zorluk": "zor",
-    "id": 56
+    "zorluk": "kolay"
   }
 ]

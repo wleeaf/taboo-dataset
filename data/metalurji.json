@@ -1,926 +1,310 @@
 [
   {
-    "id": 1,
-    "kategori": "metalurji",
-    "kelime": "tavlama",
-    "aciklama": "metali belirli bir sıcaklığa kadar ısıtıp yavaşça soğutarak işlemi.",
-    "yasakli_kelimeler": [
-      "ısıtma",
-      "soğutma",
-      "iç gerilme",
-      "yumuşatma",
-      "fırın"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 2,
-    "kategori": "metalurji",
-    "kelime": "su verme",
-    "aciklama": "metali kritik sıcaklığın üzerine ısıttıktan sonra su, yağ işlemi.",
-    "yasakli_kelimeler": [
-      "soğutma",
-      "ani",
-      "sertleştirme",
-      "yağ",
-      "martenzit"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 3,
-    "kategori": "metalurji",
     "kelime": "paslanmaz çelik",
-    "aciklama": "bileşiminde en az yüzde on buçuk oranında krom alaşım.",
+    "aciklama": "pas ve neme karşı dayanıklı parlak çelik alaşımı.",
     "yasakli_kelimeler": [
+      "demir",
       "krom",
-      "korozyon",
-      "pas",
-      "nikel",
-      "oksit"
+      "mutfak",
+      "bıçak",
+      "metal"
     ],
-    "zorluk": "kolay"
+    "zorluk": "kolay",
+    "id": 1,
+    "kategori": "metalurji"
   },
   {
-    "id": 4,
-    "kategori": "metalurji",
-    "kelime": "galvanizleme",
-    "aciklama": "çelik ve demir yüzeylerin paslanmasını önlemek için sıvı kaplanması.",
-    "yasakli_kelimeler": [
-      "çinko",
-      "kaplama",
-      "korozyon",
-      "daldırma",
-      "pas"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 5,
-    "kategori": "metalurji",
-    "kelime": "eloksal",
-    "aciklama": "alüminyum yüzeyini korumak ve renklendirmek için elektrokimyasal yolla oluşturma.",
-    "yasakli_kelimeler": [
-      "alüminyum",
-      "anodik",
-      "oksit",
-      "kaplama",
-      "elektroliz"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 6,
-    "kategori": "metalurji",
-    "kelime": "tav fırını",
-    "aciklama": "metal parçaların kontrollü atmosfer ve sıcaklıkta ısıl işlemden fırın.",
-    "yasakli_kelimeler": [
-      "ısıtma",
-      "ısıl işlem",
-      "atmosfer",
-      "sıcaklık",
-      "rezistans"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 7,
-    "kategori": "metalurji",
-    "kelime": "pota",
-    "aciklama": "fırından çıkan sıvı metali taşımak ve kalıplara dökmek kap.",
-    "yasakli_kelimeler": [
-      "sıvı metal",
-      "refrakter",
-      "taşıma",
-      "döküm",
-      "kap"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 8,
-    "kategori": "metalurji",
-    "kelime": "pirinç",
-    "aciklama": "bakır ile çinkonun birleşmesiyle üretilen, korozyona dayanıklı ve alaşım.",
-    "yasakli_kelimeler": [
-      "bakır",
-      "çinko",
-      "sarı",
-      "alaşım",
-      "korozyon"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 9,
-    "kategori": "metalurji",
     "kelime": "bronz",
-    "aciklama": "tarihsel olarak bakırın kalay ile eritilmesiyle alınan yüksek alaşımı.",
+    "aciklama": "bakır ile kalayın birleşiminden oluşan sert maden alaşımı.",
     "yasakli_kelimeler": [
+      "madalya",
+      "heykel",
       "bakır",
-      "kalay",
-      "tunç",
-      "yatak",
-      "heykel"
+      "alaşım",
+      "üçüncü"
     ],
-    "zorluk": "kolay"
+    "zorluk": "kolay",
+    "id": 2,
+    "kategori": "metalurji"
   },
   {
-    "id": 10,
-    "kategori": "metalurji",
-    "kelime": "lehim",
-    "aciklama": "düşük erime noktasına sahip kalay ve kurşun esaslı işlemi.",
+    "kelime": "pirinç",
+    "aciklama": "bakır ile çinkodan yapılan sarı renkli metal alaşımı.",
     "yasakli_kelimeler": [
-      "kalay",
-      "kurşun",
-      "havya",
-      "birleştirme",
-      "erime"
+      "sarı",
+      "bakır",
+      "çinko",
+      "alaşım",
+      "musluk"
     ],
-    "zorluk": "kolay"
+    "zorluk": "orta",
+    "id": 3,
+    "kategori": "metalurji"
   },
   {
-    "id": 11,
-    "kategori": "metalurji",
-    "kelime": "dökümhane",
-    "aciklama": "metallerin yüksek sıcaklıklı fırınlarda ergitilip kum veya metal tesisi.",
-    "yasakli_kelimeler": [
-      "metal eritme",
-      "kalıp tesisi",
-      "sıvı metal",
-      "döküm yapılan yer",
-      "fabrika"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 12,
-    "kategori": "metalurji",
-    "kelime": "kok kömürü",
-    "aciklama": "yüksek fırında demir cevherini eritmek ve indirgemek için yakıt.",
-    "yasakli_kelimeler": [
-      "yüksek fırın yakıtı",
-      "taşkömürü",
-      "indirgeyici karbon",
-      "ergitme yakıtı",
-      "fırın kömürü"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 13,
-    "kategori": "metalurji",
-    "kelime": "ergitme",
-    "aciklama": "katı metal hurda ve cevherlerin fırında sıvı faza işlemi.",
-    "yasakli_kelimeler": [
-      "sıvılaştırma",
-      "fırında eritme",
-      "sıvı metal",
-      "yüksek ısı",
-      "ocak"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 14,
-    "kategori": "metalurji",
-    "kelime": "kütük demir",
-    "aciklama": "sürekli dökümden çıkan, kare kesitli ve haddelenerek inşaat blok.",
-    "yasakli_kelimeler": [
-      "kare kesit",
-      "yarı mamul",
-      "hadde kütüğü",
-      "inşaat demiri hammaddesi",
-      "çelik blok"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 15,
-    "kategori": "metalurji",
-    "kelime": "saç metal",
-    "aciklama": "otomobil gövdelerinde, beyaz eşyada ve çatılarda kullanılan haddelenmiş levha.",
-    "yasakli_kelimeler": [
-      "ince levha",
-      "otomobil kaportası",
-      "beyaz eşya sacı",
-      "haddelenmiş plaka",
-      "metal plaka"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 16,
-    "kategori": "metalurji",
-    "kelime": "dövme",
-    "aciklama": "kızgın metal kütlenin çekiç veya pres darbeleriyle mekanik kazandırılması.",
-    "yasakli_kelimeler": [
-      "çekiç darbesi",
-      "örs ve balyoz",
-      "kızgın demir",
-      "presle ezme",
-      "mukavemet"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 17,
-    "kategori": "metalurji",
-    "kelime": "pres",
-    "aciklama": "sacları kesmek, bükmek veya kalıpta metalleri tonlarca kuvvetle makine.",
-    "yasakli_kelimeler": [
-      "baskı makinesi",
-      "tonajlı kuvvet",
-      "kalıp basma",
-      "sac bükme",
-      "zımbalama"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 18,
-    "kategori": "metalurji",
-    "kelime": "örs",
-    "aciklama": "demirci ustasının üzerine kızgın demiri koyup çekiç darbeleriyle aleti.",
-    "yasakli_kelimeler": [
-      "demirci aleti",
-      "çekiç altlığı",
-      "çelik kütük",
-      "dövme masası",
-      "sert zemin"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 19,
-    "kategori": "metalurji",
-    "kelime": "kaynak",
-    "aciklama": "iki metal parçayı temas yerlerinden eriterek ve dolgu sanatı.",
-    "yasakli_kelimeler": [
-      "birleştirme",
-      "elektrot ark",
-      "kaynak makinesi",
-      "ergitme dikişi",
-      "metal tutturma"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 20,
-    "kategori": "metalurji",
-    "kelime": "gazaltı kaynağı",
-    "aciklama": "kaynak banyosunu havanın oksijeninden korumak için koruyucu karbondioksit kaynak.",
-    "yasakli_kelimeler": [
-      "mig mag",
-      "koruyucu gaz",
-      "tel besleme",
-      "karbondioksit",
-      "kaynak tabancası"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 21,
-    "kategori": "metalurji",
-    "kelime": "argon kaynağı",
-    "aciklama": "tükenmeyen tungsten elektrot ve saf argon gazı korumasında kaynatılması.",
-    "yasakli_kelimeler": [
-      "tig kaynağı",
-      "tungsten elektrot",
-      "argon gazı",
-      "paslanmaz birleştirme",
-      "hassas dikiş"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 22,
-    "kategori": "metalurji",
-    "kelime": "punta kaynağı",
-    "aciklama": "üst üste konmuş iki sac levhadan bakır elektrotlarla birleştirme.",
-    "yasakli_kelimeler": [
-      "nokta kaynağı",
-      "direnç kaynağı",
-      "otomobil sacı",
-      "bakır elektrot",
-      "noktasal tutturma"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 23,
-    "kategori": "metalurji",
-    "kelime": "elektrot",
-    "aciklama": "ark kaynağında elektrik arkını oluşturan ve eriyerek kaynak çubuk.",
-    "yasakli_kelimeler": [
-      "kaynak çubuğu",
-      "örtülü elektrot",
-      "dolgu metali",
-      "pense tutacağı",
-      "ark teli"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 24,
-    "kategori": "metalurji",
-    "kelime": "kaynak dikişi",
-    "aciklama": "kaynak işlemi bittikten sonra iki metal parçanın birleşme hat.",
-    "yasakli_kelimeler": [
-      "birleşme çizgisi",
-      "katılaşan dolgu",
-      "kaynak izi",
-      "nüfuziyet",
-      "dikiş kontrolü"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 25,
-    "kategori": "metalurji",
-    "kelime": "lehimleme",
-    "aciklama": "ana metalleri eritmeden, araya erime sıcaklığı çok daha birleştirme.",
-    "yasakli_kelimeler": [
-      "kalay kurşun",
-      "havya",
-      "düşük erime ısısı",
-      "elektronik devre",
-      "tutturma"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 26,
-    "kategori": "metalurji",
-    "kelime": "korozyon",
-    "aciklama": "metallerin ortamdaki oksijen, nem ve kimyasallarla elektrokimyasal tepkimeye bozulması.",
-    "yasakli_kelimeler": [
-      "paslanma",
-      "aşınma",
-      "oksitlenme",
-      "metal çürümesi",
-      "elektrokimyasal bozulma"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 27,
-    "kategori": "metalurji",
-    "kelime": "pas",
-    "aciklama": "demir ve çeliğin nemli havada oksitlenmesiyle yüzeyinde oluşan tabakası.",
-    "yasakli_kelimeler": [
-      "demir oksit",
-      "kızıl döküntü",
-      "nem ve oksijen",
-      "çürüme",
-      "paslı çivi"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 28,
-    "kategori": "metalurji",
-    "kelime": "paslanma",
-    "aciklama": "demir esaslı malzemelerin havadaki rutubet ve oksijenle temas süreci.",
-    "yasakli_kelimeler": [
-      "korozyon süreci",
-      "kızarma",
-      "oksitlenme",
-      "metal hasarı",
-      "aşınma"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 29,
-    "kategori": "metalurji",
-    "kelime": "kumlama",
-    "aciklama": "boya öncesinde metal yüzeyindeki pas, tufal ve kirleri işlemi.",
-    "yasakli_kelimeler": [
-      "kum püskürtme",
-      "yüzey temizliği",
-      "pas kazıma",
-      "boya öncesi",
-      "grit kumlama"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 30,
-    "kategori": "metalurji",
-    "kelime": "krom kaplama",
-    "aciklama": "metal yüzeyine elektrolizle parlak, sert ve aşınmaya son giydirme.",
-    "yasakli_kelimeler": [
-      "parlak kaplama",
-      "sert krom",
-      "aşınma direnci",
-      "elektroliz",
-      "dekoratif kaplama"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 31,
-    "kategori": "metalurji",
-    "kelime": "nikel kaplama",
-    "aciklama": "metale korozyon direnci ve sarımtırak gümüşi parlaklık kazandırmak çökeltme.",
-    "yasakli_kelimeler": [
-      "elektro kaplama",
-      "gümüşi parlaklık",
-      "nikelaj",
-      "korozyon koruma",
-      "banyo"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 32,
-    "kategori": "metalurji",
-    "kelime": "çinko kaplama",
-    "aciklama": "civata ve bağlantı elemanlarını korozyondan korumak için elektrik kaplama.",
-    "yasakli_kelimeler": [
-      "elektro galvaniz",
-      "civata kaplama",
-      "çinko tabakası",
-      "pas koruması",
-      "parlak çinko"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 33,
-    "kategori": "metalurji",
-    "kelime": "elektrostatik boya",
-    "aciklama": "statik elektrikle yüklenen kuru toz boyanın metale püskürtülüp eritilmesi.",
-    "yasakli_kelimeler": [
-      "toz boya",
-      "fırın boya",
-      "statik elektrik",
-      "pişirme fırını",
-      "metal boyama"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 34,
-    "kategori": "metalurji",
-    "kelime": "ısıl işlem",
-    "aciklama": "metallerin sertlik, tokluk ve mukavemet gibi mekanik özelliklerini soğutulması.",
-    "yasakli_kelimeler": [
-      "tavlama su verme",
-      "ısıtma ve soğutma",
-      "fırınlama",
-      "özellik iyileştirme",
-      "faz dönüşümü"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 35,
-    "kategori": "metalurji",
-    "kelime": "sertlik",
-    "aciklama": "malzemenin yüzeyine batan sert bir cisme veya çizilmeye direnç.",
-    "yasakli_kelimeler": [
-      "çizilme direnci",
-      "batma direnci",
-      "rockwell brinell",
-      "mekanik özellik",
-      "sert cisim"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 36,
-    "kategori": "metalurji",
-    "kelime": "kırılma",
-    "aciklama": "malzemenin aşırı gerilme veya çatlak ilerlemesi sonucu birden ayrılması.",
-    "yasakli_kelimeler": [
-      "kopma",
-      "parçalara ayrılma",
-      "çatlak sonu",
-      "mekanik hasar",
-      "kırık"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 37,
-    "kategori": "metalurji",
-    "kelime": "karbon çeliği",
-    "aciklama": "içeriğinde demir ile birlikte ana alaşım elementi olarak türü.",
-    "yasakli_kelimeler": [
-      "sade karbonlu",
-      "düşük ve yüksek karbon",
-      "demir karbon",
-      "inşaat çeliği",
-      "alaşımsız"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 38,
-    "kategori": "metalurji",
-    "kelime": "alaşımlı çelik",
-    "aciklama": "sertlik ve korozyon direncini artırmak için içine nikel, çelik.",
-    "yasakli_kelimeler": [
-      "krom nikel molibden",
-      "özel çelik",
-      "katkılı çelik",
-      "yüksek mukavemet",
-      "alaşım"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 39,
-    "kategori": "metalurji",
     "kelime": "dökme demir",
-    "aciklama": "yüzde ikiden fazla karbon içeren, erime noktası düşük metali.",
+    "aciklama": "fırında eritilip kum kalıplara dökülerek üretilen sert demir.",
     "yasakli_kelimeler": [
-      "font",
-      "yüzde iki karbon",
-      "motor bloğu",
-      "rögar kapağı",
-      "döküm metali"
+      "döküm",
+      "tava",
+      "soba",
+      "karbon",
+      "kalıp"
     ],
-    "zorluk": "kolay"
+    "zorluk": "orta",
+    "id": 4,
+    "kategori": "metalurji"
   },
   {
-    "id": 40,
-    "kategori": "metalurji",
-    "kelime": "alüminyum alaşımı",
-    "aciklama": "alüminyumun içine bakır, magnezyum veya silisyum katılarak hafifliği alaşım.",
+    "kelime": "dökümhane",
+    "aciklama": "metallerin yüksek ısıda eritilip kalıplara döküldüğü sanayi tesisi.",
     "yasakli_kelimeler": [
-      "hafif metal",
-      "uçak gövdesi",
-      "silisyum bakır katkısı",
-      "korozyon direnci",
-      "alaşım"
+      "fabrika",
+      "fırın",
+      "eriyik",
+      "kalıp",
+      "metal"
     ],
-    "zorluk": "kolay"
+    "zorluk": "orta",
+    "id": 5,
+    "kategori": "metalurji"
   },
   {
-    "id": 41,
-    "kategori": "metalurji",
-    "kelime": "titanyum alaşımı",
-    "aciklama": "aşırı yüksek mukavemet-ağırlık oranı ve vücut uyumu sayesinde metal.",
+    "kelime": "örs",
+    "aciklama": "demircinin kızgın metali üzerine koyup çekiçle dövdüğü çelik blok.",
     "yasakli_kelimeler": [
-      "tıbbi implant",
-      "hafif ve sağlam",
-      "uçak motoru",
-      "biyouyumluluk",
-      "pahalı metal"
+      "demirci",
+      "çekiç",
+      "dövmek",
+      "nalbant",
+      "çelik"
     ],
-    "zorluk": "orta"
+    "zorluk": "kolay",
+    "id": 6,
+    "kategori": "metalurji"
   },
   {
-    "id": 42,
-    "kategori": "metalurji",
-    "kelime": "ark kaynağı",
-    "aciklama": "elektrik akımının havada oluşturduğu binlerce derecelik plazma arkıyla kaynaştırma.",
+    "kelime": "kaynak",
+    "aciklama": "iki metal parçayı yüksek ısıyla eritip birleştirme yöntemi.",
     "yasakli_kelimeler": [
-      "elektrik arkı",
-      "kıvılcım ve alev",
-      "kaynak makinesi",
-      "yüksek amper",
+      "demir",
+      "kıvılcım",
+      "elektrot",
+      "maske",
       "birleştirme"
     ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 43,
-    "kategori": "metalurji",
-    "kelime": "dökümcü",
-    "aciklama": "dökümhanede kalıpları hazırlayan, fırını kontrol eden ve sıvı zanaatkar.",
-    "yasakli_kelimeler": [
-      "döküm ustası",
-      "pota tutan",
-      "sıvı metal döken",
-      "dökümhane işçisi",
-      "kalıpçı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 44,
-    "kategori": "metalurji",
-    "kelime": "metalurjist",
-    "aciklama": "metallerin cevherden çıkarılması, alaşımlandırılması, ısıl işlemi ve iç mühendisi.",
-    "yasakli_kelimeler": [
-      "metalurji mühendisi",
-      "malzeme bilimci",
-      "metal uzmanı",
-      "çelik araştırmacısı",
-      "meslek"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "kategori": "metalurji",
-    "kelime": "eritmek",
-    "aciklama": "metali yüksek sıcaklıkta sıvı hale getirmek.",
-    "yasakli_kelimeler": [
-      "sıvı",
-      "sıcaklık",
-      "döküm",
-      "ocak",
-      "fırın"
-    ],
     "zorluk": "kolay",
-    "id": 45
+    "id": 7,
+    "kategori": "metalurji"
   },
   {
-    "kategori": "metalurji",
-    "kelime": "dövmek",
-    "aciklama": "kızgın metale çekiçle vurarak şekil vermek.",
-    "yasakli_kelimeler": [
-      "çekiç",
-      "örs",
-      "demir",
-      "şekil",
-      "vurmak"
-    ],
-    "zorluk": "kolay",
-    "id": 46
-  },
-  {
-    "kategori": "metalurji",
-    "kelime": "kaynatmak",
-    "aciklama": "iki metal parçayı ısıyla birleştirmek.",
+    "kelime": "elektrot",
+    "aciklama": "kaynak yaparken eriyerek metalleri tutturan iletken çubuk.",
     "yasakli_kelimeler": [
       "kaynak",
-      "birleştirmek",
-      "elektrot",
-      "lehim",
-      "ek"
+      "ark",
+      "metal",
+      "akım",
+      "çubuk"
     ],
-    "zorluk": "kolay",
-    "id": 47
+    "zorluk": "orta",
+    "id": 8,
+    "kategori": "metalurji"
   },
   {
-    "kategori": "metalurji",
-    "kelime": "kesmek",
-    "aciklama": "metal levhayı veya çubuğu parçalara ayırmak.",
+    "kelime": "lehim",
+    "aciklama": "kalay ve kurşun alaşımlı telle parçaları tutturma işlemi.",
     "yasakli_kelimeler": [
-      "testere",
-      "spiral",
-      "bıçak",
-      "parça",
-      "ayırmak"
+      "havya",
+      "kalay",
+      "tel",
+      "elektronik",
+      "birleştirme"
     ],
     "zorluk": "kolay",
-    "id": 48
+    "id": 9,
+    "kategori": "metalurji"
   },
   {
-    "kategori": "metalurji",
-    "kelime": "bükmek",
-    "aciklama": "metal boru veya sacı eğriltmek.",
-    "yasakli_kelimeler": [
-      "eğmek",
-      "sac",
-      "boru",
-      "açı",
-      "kıvırmak"
-    ],
-    "zorluk": "kolay",
-    "id": 49
-  },
-  {
-    "kategori": "metalurji",
-    "kelime": "delmek",
-    "aciklama": "metal yüzeyde matkapla delik açmak.",
-    "yasakli_kelimeler": [
-      "matkap",
-      "delik",
-      "uç",
-      "açmak",
-      "torna"
-    ],
-    "zorluk": "kolay",
-    "id": 50
-  },
-  {
-    "kategori": "metalurji",
-    "kelime": "parlatmak",
-    "aciklama": "işlenen metal yüzeyi pürüzsüz ve parlak yapmak.",
-    "yasakli_kelimeler": [
-      "cila",
-      "polisaj",
-      "yüzey",
-      "parlak",
-      "zımpara"
-    ],
-    "zorluk": "kolay",
-    "id": 51
-  },
-  {
-    "kategori": "metalurji",
-    "kelime": "soğutmak",
-    "aciklama": "ısıl işlem gören metali oda sıcaklığına düşürmek.",
-    "yasakli_kelimeler": [
-      "su",
-      "yağ",
-      "ısı",
-      "sıcaklık",
-      "banyo"
-    ],
-    "zorluk": "kolay",
-    "id": 52
-  },
-  {
-    "kategori": "metalurji",
-    "kelime": "dökmek",
-    "aciklama": "sıvı metali kalıba boşaltmak.",
-    "yasakli_kelimeler": [
-      "kalıp",
-      "sıvı",
-      "pota",
-      "ergiyik",
-      "boşaltmak"
-    ],
-    "zorluk": "kolay",
-    "id": 53
-  },
-  {
-    "kategori": "metalurji",
-    "kelime": "zımparalamak",
-    "aciklama": "metal yüzeydeki pürüzleri aşındırıcıyla gidermek.",
-    "yasakli_kelimeler": [
-      "aşındırmak",
-      "pürüz",
-      "kağıt",
-      "yüzey",
-      "temizlemek"
-    ],
-    "zorluk": "kolay",
-    "id": 54
-  },
-  {
-    "kategori": "metalurji",
-    "kelime": "paslanmak",
-    "aciklama": "demirin oksijen ve nemle korozyona uğraması.",
+    "kelime": "pas",
+    "aciklama": "demirin rutubet ve havayla temasında oluşan kızıl tabaka.",
     "yasakli_kelimeler": [
       "demir",
       "oksit",
-      "nem",
       "korozyon",
-      "küf"
+      "nem",
+      "kahverengi"
     ],
     "zorluk": "kolay",
-    "id": 55
+    "id": 10,
+    "kategori": "metalurji"
   },
   {
-    "kategori": "metalurji",
-    "kelime": "kaplamak",
-    "aciklama": "metali korumak veya süslemek için başka katmanla örtmek.",
+    "kelime": "korozyon",
+    "aciklama": "metallerin çevresel kimyasal etkilerle zamanla aşınıp bozulması.",
     "yasakli_kelimeler": [
-      "galvaniz",
-      "krom",
-      "tabaka",
-      "yüzey",
-      "örtmek"
+      "aşınma",
+      "pas",
+      "kimyasal",
+      "metal",
+      "oksitlenme"
     ],
-    "zorluk": "kolay",
-    "id": 56
+    "zorluk": "orta",
+    "id": 11,
+    "kategori": "metalurji"
   },
   {
-    "kategori": "metalurji",
-    "kelime": "tavlamak",
-    "aciklama": "metali yumuşatmak veya iç gerilimini almak için ısıtıp bekletmek.",
+    "kelime": "tavlama",
+    "aciklama": "metali ısıtıp yavaşça soğutarak gerilimini alma ve yumuşatma.",
     "yasakli_kelimeler": [
       "ısıl işlem",
       "fırın",
-      "yumuşatmak",
-      "gerilim",
-      "ısıtmak"
-    ],
-    "zorluk": "orta",
-    "id": 57
-  },
-  {
-    "kategori": "metalurji",
-    "kelime": "su vermek",
-    "aciklama": "kızgın metali hızla soğutarak sertliğini artırmak.",
-    "yasakli_kelimeler": [
-      "sertleşmek",
-      "ani",
       "soğutma",
-      "yağ",
-      "çelik"
+      "demir",
+      "yumuşatma"
     ],
-    "zorluk": "orta",
-    "id": 58
+    "zorluk": "zor",
+    "id": 12,
+    "kategori": "metalurji"
   },
   {
-    "kategori": "metalurji",
-    "kelime": "lehimlemek",
-    "aciklama": "düşük erime noktalı alaşımla metalleri tutturmak.",
+    "kelime": "su verme",
+    "aciklama": "akkor hale gelen metali aniden suya daldırıp sertleştirme.",
     "yasakli_kelimeler": [
-      "havya",
-      "kalay",
-      "pasta",
-      "tel",
-      "elektronik"
+      "çelik",
+      "soğutma",
+      "sertleştirme",
+      "kılıç",
+      "demirci"
     ],
     "zorluk": "orta",
-    "id": 59
+    "id": 13,
+    "kategori": "metalurji"
   },
   {
-    "kategori": "metalurji",
-    "kelime": "preslemek",
-    "aciklama": "büyük kuvvet uygulayarak sacı kalıp içinde şekillendirmek.",
-    "yasakli_kelimeler": [
-      "baskı",
-      "hidrolik",
-      "kalıp",
-      "kuvvet",
-      "ezmek"
-    ],
-    "zorluk": "orta",
-    "id": 60
-  },
-  {
-    "kategori": "metalurji",
-    "kelime": "çapak almak",
-    "aciklama": "kesim veya döküm sonrası kenarlardaki fazlalıkları temizlemek.",
-    "yasakli_kelimeler": [
-      "fazlalık",
-      "kenar",
-      "taşlama",
-      "temizlemek",
-      "pürüz"
-    ],
-    "zorluk": "orta",
-    "id": 61
-  },
-  {
-    "kategori": "metalurji",
-    "kelime": "taşlamak",
-    "aciklama": "aşındırıcı taşla metal parça yüzeyini işlemek.",
-    "yasakli_kelimeler": [
-      "taş",
-      "spiral",
-      "kıvılcım",
-      "aşındırmak",
-      "çark"
-    ],
-    "zorluk": "orta",
-    "id": 62
-  },
-  {
-    "kategori": "metalurji",
-    "kelime": "galvanizlemek",
-    "aciklama": "çeliği paslanmaya karşı çinko banyosuna daldırmak.",
+    "kelime": "galvanizleme",
+    "aciklama": "çeliği pasa karşı korumak için sıvı çinkoyla kaplama.",
     "yasakli_kelimeler": [
       "çinko",
-      "daldırma",
+      "kaplama",
       "pas",
-      "korozyon",
-      "banyo"
+      "çelik",
+      "koruma"
     ],
     "zorluk": "orta",
-    "id": 63
+    "id": 14,
+    "kategori": "metalurji"
   },
   {
-    "kategori": "metalurji",
-    "kelime": "perçinlemek",
-    "aciklama": "metal pimlerin başını ezerek levhaları sökülemez bağlamak.",
+    "kelime": "krom kaplama",
+    "aciklama": "metal yüzeyine parlak ve aşınmaz koruyucu katman giydirme.",
     "yasakli_kelimeler": [
-      "perçin",
+      "parlak",
+      "kaplama",
+      "nikel",
+      "otomobil",
+      "metal"
+    ],
+    "zorluk": "orta",
+    "id": 15,
+    "kategori": "metalurji"
+  },
+  {
+    "kelime": "kumlama",
+    "aciklama": "metal yüzeydeki pası basınçlı kum taneleriyle temizleme yöntemi.",
+    "yasakli_kelimeler": [
+      "kum",
+      "basınç",
+      "temizlik",
+      "pas",
+      "yüzey"
+    ],
+    "zorluk": "zor",
+    "id": 16,
+    "kategori": "metalurji"
+  },
+  {
+    "kelime": "ısıl işlem",
+    "aciklama": "metale istenen sertliği kazandırmak için ısıtıp soğutma süreci.",
+    "yasakli_kelimeler": [
+      "sıcaklık",
+      "sertlik",
+      "çelik",
+      "fırın",
+      "tavlama"
+    ],
+    "zorluk": "orta",
+    "id": 17,
+    "kategori": "metalurji"
+  },
+  {
+    "kelime": "pres",
+    "aciklama": "metali büyük tonajlı baskı kuvvetiyle kalıpta şekillendiren makine.",
+    "yasakli_kelimeler": [
+      "baskı",
+      "sac",
+      "kalıp",
+      "bükme",
+      "kuvvet"
+    ],
+    "zorluk": "orta",
+    "id": 18,
+    "kategori": "metalurji"
+  },
+  {
+    "kelime": "saç metal",
+    "aciklama": "silindirler arasından geçirilerek inceltilmiş yassı metal levha.",
+    "yasakli_kelimeler": [
+      "levha",
+      "demir",
+      "otomobil",
+      "teneke",
+      "bükme"
+    ],
+    "zorluk": "kolay",
+    "id": 19,
+    "kategori": "metalurji"
+  },
+  {
+    "kelime": "perçin",
+    "aciklama": "iki metal plakayı ucu çekiçle ezilerek birleştiren pim.",
+    "yasakli_kelimeler": [
+      "bağlantı",
       "pim",
-      "tabanca",
-      "birleştirmek",
-      "baş"
+      "delik",
+      "metal",
+      "çekiç"
     ],
-    "zorluk": "orta",
-    "id": 64
+    "zorluk": "zor",
+    "id": 20,
+    "kategori": "metalurji"
   },
   {
-    "kategori": "metalurji",
-    "kelime": "oksitlenmek",
-    "aciklama": "metal atomlarının havadaki oksijenle kimyasal reaksiyona girmesi.",
+    "kelime": "eritmek",
+    "aciklama": "katı haldeki metali yüksek ateşle sıvı faza getirmek.",
     "yasakli_kelimeler": [
-      "oksijen",
-      "reaksiyon",
-      "hava",
-      "yüzey",
-      "pas"
+      "fırın",
+      "sıcaklık",
+      "sıvı",
+      "erimek",
+      "lav"
     ],
-    "zorluk": "orta",
-    "id": 65
+    "zorluk": "kolay",
+    "id": 21,
+    "kategori": "metalurji"
   },
   {
-    "kategori": "metalurji",
-    "kelime": "yiv açmak",
-    "aciklama": "silindirik yüzey veya delik içine vida dişi çekmek.",
+    "kelime": "dövme",
+    "aciklama": "kızgın haldeki metale çekiçle vurarak şekil verme sanatı.",
     "yasakli_kelimeler": [
-      "kılavuz",
-      "pafta",
-      "vida",
-      "diş",
-      "delik"
+      "demir",
+      "çekiç",
+      "örs",
+      "demirci",
+      "şekil"
     ],
-    "zorluk": "orta",
-    "id": 66
+    "zorluk": "kolay",
+    "id": 22,
+    "kategori": "metalurji"
   }
 ]

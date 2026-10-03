@@ -3,13 +3,13 @@
     "id": 1,
     "kategori": "seramik",
     "kelime": "kil",
-    "aciklama": "yüksek ısıda pişirilen inorganik ve metalik olmayan toprak malzeme",
+    "aciklama": "seramik ve çömlek yapımında kullanılan doğal toprak malzeme",
     "yasakli_kelimeler": [
       "çamur",
       "toprak",
       "hamur",
       "şekil",
-      "seramik"
+      "vazo"
     ],
     "zorluk": "kolay"
   },
@@ -17,7 +17,7 @@
     "id": 2,
     "kategori": "seramik",
     "kelime": "çömlekçi çarkı",
-    "aciklama": "ıslatıldığında kolayca şekil alan zengin killi doğal toprak",
+    "aciklama": "üzerinde çamura dairesel form verilen döner tezgah",
     "yasakli_kelimeler": [
       "torna",
       "ayak",
@@ -31,7 +31,7 @@
     "id": 3,
     "kategori": "seramik",
     "kelime": "fırınlama",
-    "aciklama": "suyla yoğrulup şekil verilmeye hazır yumuşak seramik hamuru",
+    "aciklama": "şekil verilen killi objeleri yüksek ısıda pişirme işlemi",
     "yasakli_kelimeler": [
       "pişirme",
       "ısı",
@@ -45,7 +45,7 @@
     "id": 4,
     "kategori": "seramik",
     "kelime": "sır",
-    "aciklama": "kırmızı renkli demir oksit içeren geleneksel killi toprak",
+    "aciklama": "seramik yüzeyine sürülen parlak ve camsı koruyucu tabaka",
     "yasakli_kelimeler": [
       "camsı",
       "parlak",
@@ -59,63 +59,21 @@
     "id": 5,
     "kategori": "seramik",
     "kelime": "porselen",
-    "aciklama": "seramik ve porselen objelerin yüksek sıcaklıkta piştiği fırın",
+    "aciklama": "beyaz renkli, ince ve pürüzsüz kaliteli seramik türü",
     "yasakli_kelimeler": [
-      "kaolen",
-      "beyaz",
       "tabak",
       "fincan",
-      "saydam"
+      "beyaz",
+      "takım",
+      "kırılgan"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 6,
     "kategori": "seramik",
-    "kelime": "taş seramik",
-    "aciklama": "üzerinde çamura dairesel form verilen döner çömlekçi tezgahı",
-    "yasakli_kelimeler": [
-      "yüksek fırınlama",
-      "su geçirmez çamur",
-      "camlaşma",
-      "dayanıklı tabak",
-      "gözeneksiz gövde"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 7,
-    "kategori": "seramik",
-    "kelime": "balçık",
-    "aciklama": "çamura şekil vermek ve pürüzleri düzeltmek için kullanılan sünger",
-    "yasakli_kelimeler": [
-      "çamur",
-      "yapışkan",
-      "ıslak",
-      "kil",
-      "toprak"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 8,
-    "kategori": "seramik",
-    "kelime": "rötuş",
-    "aciklama": "çamur parçalarını birbirine yapıştırmak için kullanılan sulu killi balçık",
-    "yasakli_kelimeler": [
-      "düzeltme",
-      "temizlik",
-      "pürüzsüz",
-      "son dokunuş",
-      "tamir"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 9,
-    "kategori": "seramik",
     "kelime": "çini",
-    "aciklama": "fırın raflarını istenen yükseklikte taşımaya yarayan refrakter ayak",
+    "aciklama": "geleneksel desenlerle süslü fırınlanmış sırlı toprak levha",
     "yasakli_kelimeler": [
       "iznik",
       "kütahya",
@@ -126,38 +84,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 10,
-    "kategori": "seramik",
-    "kelime": "kobalt mavisi",
-    "aciklama": "alçı kalıplara dökülmek üzere hazırlanan akışkan sıvı çamur",
-    "yasakli_kelimeler": [
-      "mavi",
-      "oksit",
-      "çini",
-      "renk",
-      "pigment"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 11,
-    "kategori": "seramik",
-    "kelime": "alçı kalıp",
-    "aciklama": "düşük ısıda pişen gözenekli ve kırmızı killi rustik seramik",
-    "yasakli_kelimeler": [
-      "emici",
-      "kalıp",
-      "döküm",
-      "beyaz",
-      "model"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 12,
+    "id": 7,
     "kategori": "seramik",
     "kelime": "fayans",
-    "aciklama": "seramik hamurunu düz plaka halinde açmaya yarayan kalın silindir",
+    "aciklama": "banyo ve mutfak duvarlarını kaplayan sırlı seramik karo",
     "yasakli_kelimeler": [
       "karo",
       "duvar",
@@ -168,139 +98,69 @@
     "zorluk": "kolay"
   },
   {
-    "id": 13,
+    "id": 8,
     "kategori": "seramik",
-    "kelime": "mat sır",
-    "aciklama": "fırçayla sırrı seramik bisküvi üzerine kat kat sürme",
+    "kelime": "kütahya çinisi",
+    "aciklama": "kütahya yöresine özgü meşhur desenli geleneksel seramik",
     "yasakli_kelimeler": [
-      "parlamayan",
-      "ipeksi",
-      "opak",
-      "yansıma",
-      "yüzey"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 14,
-    "kategori": "seramik",
-    "kelime": "şeffaf sır",
-    "aciklama": "kristal sırlar içeren ve pişince parlak desenler oluşturan sır",
-    "yasakli_kelimeler": [
-      "saydam",
-      "transparan",
-      "camsı",
-      "renksiz",
-      "parlak"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 15,
-    "kategori": "seramik",
-    "kelime": "kılcal çatlak",
-    "aciklama": "metalik parıltı ve yanardöner renk veren özel lüks sır",
-    "yasakli_kelimeler": [
-      "çatlak",
-      "gerilim",
-      "büzülme",
-      "hata",
-      "sır"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 16,
-    "kategori": "seramik",
-    "kelime": "sır akması",
-    "aciklama": "yüksek demir içeren ve siyah kahverengi tonlar veren sır",
-    "yasakli_kelimeler": [
-      "akıntı",
-      "erime",
-      "aşırı ısı",
-      "damlama",
-      "raf"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 17,
-    "kategori": "seramik",
-    "kelime": "kemik porseleni",
-    "aciklama": "döküm çamurunun çalkalandığında akıcı beklediğinde kıvamlı olma özelliği",
-    "yasakli_kelimeler": [
-      "bone china",
-      "kemik külü",
-      "saydam",
-      "fincan",
-      "lüks"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 18,
-    "kategori": "seramik",
-    "kelime": "fırın rafı",
-    "aciklama": "yüksek sıcaklık fırınlarının içini kaplayan hafif izolasyon tuğlası",
-    "yasakli_kelimeler": [
-      "refrakter plaka",
-      "kat",
-      "kordiyerit",
-      "silisyum karbür",
-      "tabla"
+      "çini sanatı",
+      "motif",
+      "lale",
+      "seramik",
+      "tabak"
     ],
     "zorluk": "orta"
   },
   {
-    "id": 19,
+    "id": 9,
     "kategori": "seramik",
-    "kelime": "kütahya çinisi",
-    "aciklama": "fırın kapağını sızdırmaz kılan yüksek ısıya dayanıklı seramik elyaf",
+    "kelime": "iznik çinisi",
+    "aciklama": "mavi ve kırmızı desenleriyle ünlü tarihi osmanlı çinisi",
     "yasakli_kelimeler": [
-      "kütahya",
-      "iznik",
-      "motif",
+      "mercan kırmızısı",
+      "osmanlı",
+      "rüstem paşa",
       "lale",
-      "çini sanatı"
+      "cami"
     ],
-    "zorluk": "kolay"
+    "zorluk": "orta"
   },
   {
-    "id": 20,
+    "id": 10,
     "kategori": "seramik",
     "kelime": "seramikçi",
-    "aciklama": "fırın içindeki seramiklerin durumunu ve konileri izleme penceresi deliği",
+    "aciklama": "kilden süs eşyaları ve kap kacak yapan sanatçı",
     "yasakli_kelimeler": [
       "kil ustası",
-      "çömlek yapan",
-      "seramik sanatçısı",
-      "fırınlayan sanatçı",
-      "meslek"
+      "atölye",
+      "heykel",
+      "sanat",
+      "zanaat"
     ],
     "zorluk": "kolay"
   },
   {
-    "id": 21,
+    "id": 11,
     "kategori": "seramik",
     "kelime": "çömlekçi",
-    "aciklama": "pişirim sırasında fırından çıkan gaz ve buharı tahliye eden baca",
+    "aciklama": "çark başında çamurdan testi ve çanak yapan usta",
     "yasakli_kelimeler": [
-      "çark ustası",
-      "toprak kap yapan",
+      "çark",
+      "toprak",
       "testici",
-      "avanos ustası",
-      "balçık şekillendiren"
+      "avanos",
+      "kap"
     ],
     "zorluk": "kolay"
   },
   {
-    "id": 22,
+    "id": 12,
     "kategori": "seramik",
     "kelime": "çömlek",
-    "aciklama": "fırının sıcaklık artış hızını ve soğuma programını yöneten cihaz",
+    "aciklama": "topraktan yapılıp ateşte pişirilen geleneksel yemek kabı",
     "yasakli_kelimeler": [
       "toprak kap",
-      "güveç kabı",
+      "güveç",
       "pişmiş toprak",
       "killi kap",
       "çanak"
@@ -308,373 +168,122 @@
     "zorluk": "kolay"
   },
   {
-    "id": 23,
+    "id": 13,
     "kategori": "seramik",
     "kelime": "amfora",
-    "aciklama": "fırın en yüksek ısıya çıktığında sırın pürüzsüzleşmesi için bekleme",
+    "aciklama": "antik çağda zeytinyağı ve şarap taşınan iki kulplu testi",
     "yasakli_kelimeler": [
-      "antik testi",
+      "antik",
       "çift kulplu",
-      "zeytinyağı ve şarap",
-      "sivri dipli",
-      "batık amforası"
+      "şarap",
+      "zeytinyağı",
+      "batık"
     ],
-    "zorluk": "kolay"
+    "zorluk": "zor"
   },
   {
-    "id": 24,
+    "id": 14,
     "kategori": "seramik",
     "kelime": "vazo",
-    "aciklama": "pişirim bitince seramiklerin çatlamaması için fırında yavaşça soğuma evresi",
+    "aciklama": "içine çiçek konulan dekoratif seramik veya cam kap",
     "yasakli_kelimeler": [
-      "çiçek kabı",
-      "porselen süs eşyası",
-      "dekoratif kap",
-      "toprak vazo",
-      "seramik eşya"
+      "çiçek",
+      "salon",
+      "su",
+      "cam",
+      "dekorasyon"
     ],
     "zorluk": "kolay"
   },
   {
-    "id": 25,
+    "id": 15,
     "kategori": "seramik",
     "kelime": "testi",
-    "aciklama": "killi toprağın en saf ve beyaz hali olan alüminyum silikat",
+    "aciklama": "kilden yapılan ve su koymaya yarayan dar boğazlı kap",
     "yasakli_kelimeler": [
-      "su kabı",
-      "avanos testisi",
+      "su",
+      "avanos",
       "toprak sürahi",
-      "suyu soğutan",
-      "kulplu kap"
+      "soğuk",
+      "kulplu"
     ],
     "zorluk": "kolay"
   },
   {
-    "id": 26,
+    "id": 16,
     "kategori": "seramik",
     "kelime": "güveç",
-    "aciklama": "sır ve seramik çamuruna camlaşma sağlayan temel kuvars kumu",
+    "aciklama": "topraktan yapılmış fırın yemekleri pişirilen geleneksel kap",
     "yasakli_kelimeler": [
       "toprak tencere",
-      "fırın yemeği kabı",
-      "kuru fasulye kabı",
-      "kil tencere",
-      "pişirme kabı"
+      "fırın yemeği",
+      "kuru fasulye",
+      "kil",
+      "et"
     ],
     "zorluk": "kolay"
   },
   {
-    "id": 27,
+    "id": 17,
     "kategori": "seramik",
     "kelime": "çanak",
-    "aciklama": "yüksek ısıda eriyerek seramik gövdeyi camlaştıran temel eritici mineral",
+    "aciklama": "topraktan yapılan yayvan ve çukurca geleneksel kap",
     "yasakli_kelimeler": [
-      "toprak kase",
       "çanak çömlek",
-      "yemek kabı",
-      "yayvan kap",
-      "pişmiş toprak"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 28,
-    "kategori": "seramik",
-    "kelime": "kase",
-    "aciklama": "düşük ısılı seramik ve sırlarda erime noktasını düşüren mineral",
-    "yasakli_kelimeler": [
-      "çorba kabı",
-      "çukur tabak",
-      "porselen kase",
-      "yuvarlak kap",
-      "sofra takımı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 29,
-    "kategori": "seramik",
-    "kelime": "kadeh",
-    "aciklama": "sırların çatlamasını önleyen ve sertlik katan kalsiyum karbonat tebeşir",
-    "yasakli_kelimeler": [
-      "ayaklı bardak",
-      "içki bardağı",
-      "seramik kupa",
-      "ayak ve gövde",
-      "içecek kabı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 30,
-    "kategori": "seramik",
-    "kelime": "kulp",
-    "aciklama": "sırlara parlaklık, opaklık ve matlık veren çinko minerali",
-    "yasakli_kelimeler": [
-      "tutacak",
-      "fincan sapı",
-      "elle tutulan yer",
-      "çamur yapıştırma",
-      "bardak sapı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 31,
-    "kategori": "seramik",
-    "kelime": "kapak",
-    "aciklama": "seramiğe beyazlık ve opaklık veren güçlü örtücü metal oksit",
-    "yasakli_kelimeler": [
-      "tencere örtüsü",
-      "ağız kapatıcı",
-      "kulplu kapak",
-      "üst parça",
-      "demlik kapağı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 32,
-    "kategori": "seramik",
-    "kelime": "ayak",
-    "aciklama": "seramik çamuruna ve sırlara kırmızı kahverengi renk veren oksit",
-    "yasakli_kelimeler": [
-      "halka taban",
-      "dip halkası",
-      "denge tabanı",
-      "çanağın altı",
-      "dip traşlama yeri"
+      "toprak kap",
+      "yemek",
+      "kase",
+      "killi"
     ],
     "zorluk": "orta"
   },
   {
-    "id": 33,
+    "id": 18,
     "kategori": "seramik",
-    "kelime": "dip",
-    "aciklama": "sırlara parlak ve derin mavi rengini veren güçlü metal oksit",
+    "kelime": "kase",
+    "aciklama": "çorba veya tatlı servisinde kullanılan çukur kap",
     "yasakli_kelimeler": [
-      "en alt zemin",
-      "taban",
-      "çarktan kesilen yer",
-      "kabın altı",
-      "oturma yüzeyi"
+      "çorba",
+      "çukur tabak",
+      "porselen",
+      "salata",
+      "sofra"
     ],
     "zorluk": "kolay"
   },
   {
-    "id": 34,
-    "kategori": "seramik",
-    "kelime": "ağız",
-    "aciklama": "oksijenli ortamda yeşil indirgen ortamda kan kırmızısı veren oksit",
-    "yasakli_kelimeler": [
-      "üst kenar",
-      "dudak payı",
-      "kabın girişi",
-      "dairesel çeper",
-      "üst açıklık"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 35,
-    "kategori": "seramik",
-    "kelime": "gövde",
-    "aciklama": "sırlara mor, kahverengi ve siyah tonları veren renklendirici oksit",
-    "yasakli_kelimeler": [
-      "ana kısım",
-      "şişkin bölüm",
-      "hacimli yer",
-      "kabın ortası",
-      "en geniş alan"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 36,
-    "kategori": "seramik",
-    "kelime": "boyun",
-    "aciklama": "sırlara limon sarısı ve hardal tonları kazandıran metal oksit",
-    "yasakli_kelimeler": [
-      "daralan kısım",
-      "boğaz",
-      "gövde ağız arası",
-      "sürahi boğazı",
-      "daralan silindir"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 37,
-    "kategori": "seramik",
-    "kelime": "ahşap spatula",
-    "aciklama": "bisküvi pişirimi sonrası sır altına fırçayla yapılan desen boyaması",
-    "yasakli_kelimeler": [
-      "rib",
-      "çark aleti",
-      "yüzey düzleştirici",
-      "ahşap plaka",
-      "çamur sıyırma"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 38,
-    "kategori": "seramik",
-    "kelime": "kabartma desen",
-    "aciklama": "ıslak engob üstüne asitli tütün suyu damlatıp ağaç deseni yayma",
-    "yasakli_kelimeler": [
-      "rölyef",
-      "yüzeyden çıkıntılı",
-      "üç boyutlu desen",
-      "çamur aplike",
-      "çıkıntı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 39,
-    "kategori": "seramik",
-    "kelime": "astar boya",
-    "aciklama": "çamur plakasını kalıba bastırarak rölyef ve kabartma desen oluşturma",
-    "yasakli_kelimeler": [
-      "engobe",
-      "renkli sıvı kil",
-      "sıraltı boyası",
-      "desen boyası",
-      "renklendirici"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 40,
-    "kategori": "seramik",
-    "kelime": "kırmızı kil",
-    "aciklama": "alçı kalıbın kili emmesiyle oluşan seramik cidar et kalınlığı",
-    "yasakli_kelimeler": [
-      "demir oksitli",
-      "terrakotta kili",
-      "kiremit rengi",
-      "çömlek kili",
-      "düşük derece"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 41,
-    "kategori": "seramik",
-    "kelime": "beyaz kil",
-    "aciklama": "kalıp çeperinde yeterli et payı oluştuktan sonra fazla çamuru dökme",
-    "yasakli_kelimeler": [
-      "kaolin ball clay",
-      "demir içermeyen",
-      "beyaz pişen çamur",
-      "porselen hammaddesi",
-      "saf kil"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 42,
-    "kategori": "seramik",
-    "kelime": "altın yaldız",
-    "aciklama": "osmanlı çinilerinde sıklıkla kullanılan kabartmalı mercan kırmızısı renk",
-    "yasakli_kelimeler": [
-      "fincan kenarı altın",
-      "sıvı altın",
-      "yaldızlı tabak",
-      "üçüncü pişirim",
-      "parlak altın"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 43,
-    "kategori": "seramik",
-    "kelime": "elektrikli fırın",
-    "aciklama": "seramik karoları istenen ölçüde düzgün kırmaya yarayan elmas uçlu kesici",
-    "yasakli_kelimeler": [
-      "rezistanslı",
-      "kantall teller",
-      "temiz pişirim",
-      "şehir elektriği",
-      "atölye fırını"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 44,
+    "id": 19,
     "kategori": "seramik",
     "kelime": "seramik atölyesi",
-    "aciklama": "fayans aralarındaki derz boşluklarının eşit kalmasını sağlayan artı plastik parça",
+    "aciklama": "çömlek ve kilden objelerin üretildiği sanat mekanı",
     "yasakli_kelimeler": [
       "çamur stüdyosu",
       "çömlek evi",
-      "sanat atölyesi",
-      "çark ve fırın mekanı",
-      "çalışma alanı"
+      "fırın",
+      "kurs",
+      "heykel"
     ],
-    "zorluk": "kolay"
+    "zorluk": "orta"
   },
   {
-    "id": 45,
-    "kategori": "seramik",
-    "kelime": "fırın termometresi",
-    "aciklama": "antik çağda su ve şarap karıştırmada kullanılan geniş vazo",
-    "yasakli_kelimeler": [
-      "pirometre göstergesi",
-      "yüksek sıcaklık ölçer",
-      "fırın derecesi",
-      "termokupl göstergesi",
-      "ölçüm"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 46,
-    "kategori": "seramik",
-    "kelime": "hava kabarcığı",
-    "aciklama": "çamur içinde kalan ve fırında genleşip objeyi patlatan hava kabarcığı",
-    "yasakli_kelimeler": [
-      "fırında patlama nedeni",
-      "sıkışan hava",
-      "çamur içindeki balon",
-      "yoğurma sebebi",
-      "patlama"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 47,
-    "kategori": "seramik",
-    "kelime": "iznik çinisi",
-    "aciklama": "mercan kırmızısı ve lale motifleriyle ünlü geleneksel iznik çinisi",
-    "yasakli_kelimeler": [
-      "mercan kırmızısı",
-      "osmanlı çinisi",
-      "rüstem paşa camii",
-      "lale karanfil motifi",
-      "kuvars hamuru"
-    ],
-    "zorluk": "kolay"
-  },
-  {
+    "id": 20,
     "kategori": "seramik",
     "kelime": "yoğurmak",
-    "aciklama": "kırmızı veya beyaz kili hava kabarcıklarını çıkarmak için elle yoğurmak",
+    "aciklama": "killi çamuru hava kabarcıklarını çıkarmak için elle ezmek",
     "yasakli_kelimeler": [
-      "kil",
       "çamur",
-      "hava kabarcığı",
+      "kil",
       "el",
+      "hava kabarcığı",
       "hazırlık"
     ],
-    "zorluk": "kolay",
-    "id": 48
+    "zorluk": "kolay"
   },
   {
+    "id": 21,
     "kategori": "seramik",
     "kelime": "şekil vermek",
-    "aciklama": "ıslak çamura parmaklarla bastırarak vazo veya kase formu vermek",
+    "aciklama": "ıslak çamura parmaklarla bastırarak form kazandırmak",
     "yasakli_kelimeler": [
       "form",
       "vazo",
@@ -682,147 +291,48 @@
       "parmak",
       "çamur"
     ],
-    "zorluk": "kolay",
-    "id": 49
+    "zorluk": "kolay"
   },
   {
+    "id": 22,
     "kategori": "seramik",
     "kelime": "fırınlamak",
-    "aciklama": "kuruyan seramik ürünleri fırına yerleştirip yüksek sıcaklıkta pişirmek",
+    "aciklama": "kuruyan kili sertleşmesi için yüksek sıcaklıkta pişirmek",
     "yasakli_kelimeler": [
-      "fırın",
       "pişirme",
       "derece",
       "seramik fırını",
-      "ısı"
+      "ısı",
+      "ocak"
     ],
-    "zorluk": "kolay",
-    "id": 50
+    "zorluk": "kolay"
   },
   {
+    "id": 23,
     "kategori": "seramik",
     "kelime": "sır dökmek",
-    "aciklama": "bisküvi pişen ürünün üstüne koruyucu sır tabakası dökmek",
+    "aciklama": "bisküvi pişen ürünün üstünü camsı sırla kaplamak",
     "yasakli_kelimeler": [
-      "sır",
+      "kaplama",
       "parlak",
-      "su geçirmez",
-      "bisküvi",
-      "kaplama"
+      "renk",
+      "daldırma",
+      "camsı"
     ],
-    "zorluk": "kolay",
-    "id": 51
+    "zorluk": "orta"
   },
   {
-    "kategori": "seramik",
-    "kelime": "boyamak",
-    "aciklama": "seramik boyaları ve samur fırçayla vazo üzerine desenler çizmek",
-    "yasakli_kelimeler": [
-      "fırça",
-      "desen",
-      "çini boyası",
-      "vazo",
-      "renklendirme"
-    ],
-    "zorluk": "kolay",
-    "id": 52
-  },
-  {
-    "kategori": "seramik",
-    "kelime": "kurutmak",
-    "aciklama": "ıslak kili çatlamasını önlemek için gölgede yavaşça kurutmak",
-    "yasakli_kelimeler": [
-      "gölge",
-      "yavaşça",
-      "çatlama",
-      "ıslak kil",
-      "bekletmek"
-    ],
-    "zorluk": "kolay",
-    "id": 53
-  },
-  {
-    "kategori": "seramik",
-    "kelime": "kesmek",
-    "aciklama": "misina kesme teliyle çamur kütlesinden dilimler kesip ayırmak",
-    "yasakli_kelimeler": [
-      "misina",
-      "tel",
-      "çamur bloğu",
-      "dilim",
-      "ayırmak"
-    ],
-    "zorluk": "kolay",
-    "id": 54
-  },
-  {
+    "id": 24,
     "kategori": "seramik",
     "kelime": "zımparalamak",
-    "aciklama": "pişirim sonrası objenin tabanındaki pürüzleri zımparayla düzeltmek",
+    "aciklama": "seramik objenin tabanındaki ve kenarındaki pürüzleri gidermek",
     "yasakli_kelimeler": [
       "pürüz",
-      "zımpara kağıdı",
-      "düzeltme",
+      "düzeltmek",
+      "zımpara",
       "taban",
-      "aşındırma"
+      "yüzey"
     ],
-    "zorluk": "kolay",
-    "id": 55
-  },
-  {
-    "kategori": "seramik",
-    "kelime": "döndürmek",
-    "aciklama": "çömlekçi tornasında ayak veya motorla dönen çamura form vermek",
-    "yasakli_kelimeler": [
-      "torna",
-      "tabla",
-      "dönüş",
-      "çömlek",
-      "ayak"
-    ],
-    "zorluk": "kolay",
-    "id": 56
-  },
-  {
-    "kategori": "seramik",
-    "kelime": "delmek",
-    "aciklama": "saksı dibinden suyun akması için çamurken altını delmek",
-    "yasakli_kelimeler": [
-      "delik",
-      "saksı",
-      "drenaj",
-      "açmak",
-      "su tahliyesi"
-    ],
-    "zorluk": "kolay",
-    "id": 57
-  },
-  {
-    "kategori": "seramik",
-    "kelime": "yapıştırmak",
-    "aciklama": "çamur parçalarını tutturmak için aralarına balçık sürüp yapıştırmak",
-    "yasakli_kelimeler": [
-      "balçık",
-      "kulp",
-      "tutturmak",
-      "çentik",
-      "ekleme"
-    ],
-    "zorluk": "kolay",
-    "id": 58
-  },
-  {
-    "kategori": "seramik",
-    "kelime": "parlatmak",
-    "aciklama": "deri sertliğindeki kilin yüzeyini pürüzsüz taşla ovarak parlatmak",
-    "yasakli_kelimeler": [
-      "perdah",
-      "taş",
-      "ovalama",
-      "deri sertliği",
-      "pürüzsüz"
-    ],
-    "zorluk": "kolay",
-    "id": 59
+    "zorluk": "orta"
   }
 ]

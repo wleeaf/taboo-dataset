@@ -73,7 +73,7 @@
     "id": 6,
     "kategori": "psikiyatri",
     "kelime": "panik bozukluk",
-    "aciklama": "nefes darlığı gibi bedensel belirtiler kümesi.",
+    "aciklama": "beklenmedik anlarda gelen yoğun korku ve panik nöbetleri.",
     "yasakli_kelimeler": [
       "panik atak",
       "çarpıntı",
@@ -100,14 +100,14 @@
   {
     "id": 8,
     "kategori": "psikiyatri",
-    "kelime": "obsesif kompulsif bozukluk",
-    "aciklama": "takıntılı düşünceler ve bunları yatıştırmak için yapılan tekrarlayıcı davranışlar bütünü.",
+    "kelime": "obsesif kompulsif",
+    "aciklama": "takıntılı düşünceler ve bunları yatıştırmak için tekrarlanan eylemler.",
     "yasakli_kelimeler": [
       "takıntı",
-      "ritüel",
       "temizlik",
-      "vesvese",
-      "zorlantı"
+      "kilit kontrolü",
+      "okb",
+      "tekrar"
     ],
     "zorluk": "kolay"
   },
@@ -115,7 +115,7 @@
     "id": 9,
     "kategori": "psikiyatri",
     "kelime": "deliryum",
-    "aciklama": "bilinç bulanıklığı ve dikkat dağınıklığıyla karakterize tablo.",
+    "aciklama": "aniden başlayan bilinç bulanıklığı ve dikkat kaybı tablosu.",
     "yasakli_kelimeler": [
       "akut",
       "bilinç",
@@ -128,22 +128,8 @@
   {
     "id": 10,
     "kategori": "psikiyatri",
-    "kelime": "lityum",
-    "aciklama": "bozuklukta mani nöbetlerini önlemek ve duygudurumu dengelemek için kullanılan ilaç.",
-    "yasakli_kelimeler": [
-      "bipolar",
-      "duygudurum dengeleyici",
-      "mani",
-      "tuz",
-      "kan düzeyi"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 11,
-    "kategori": "psikiyatri",
     "kelime": "paranoid bozukluk",
-    "aciklama": "tehditkar veya düşmanca algılayarak aşırı güvensizlik duyma hali.",
+    "aciklama": "başkalarına karşı duyulan aşırı ve yersiz şüphecilik durumu.",
     "yasakli_kelimeler": [
       "şüphe",
       "güvensizlik",
@@ -154,77 +140,49 @@
     "zorluk": "kolay"
   },
   {
+    "id": 11,
+    "kategori": "psikiyatri",
+    "kelime": "borderline",
+    "aciklama": "duygusal dalgalanmalar ve terk edilme korkusuyla seyreden kişilik yapısı.",
+    "yasakli_kelimeler": [
+      "duygu durumu",
+      "terk edilmek",
+      "dürtüsellik",
+      "uçlarda yaşamak",
+      "öfke"
+    ],
+    "zorluk": "kolay"
+  },
+  {
     "id": 12,
     "kategori": "psikiyatri",
-    "kelime": "borderline kişilik bozukluğu",
-    "aciklama": "dürtüsellik ve terk edilme korkusuyla seyreden bozukluk.",
+    "kelime": "antisosyal kişilik",
+    "aciklama": "başkalarının haklarını ve kuralları sürekli hiçe sayma hali.",
     "yasakli_kelimeler": [
-      "sınırda",
-      "terk edilme",
-      "dürtüsellik",
-      "kendine zarar",
-      "boşluk"
+      "sosyopat",
+      "psikopat",
+      "vicdan",
+      "suç",
+      "empati yoksunluğu"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 13,
     "kategori": "psikiyatri",
-    "kelime": "antisosyal kişilik bozukluğu",
-    "aciklama": "başkalarının haklarını ve yasaları sürekli hiçe sayma ve empati yoksunluğu.",
+    "kelime": "narsist kişilik",
+    "aciklama": "sürekli hayranlık ve ilgi bekleyen bencil kişilik yapısı.",
     "yasakli_kelimeler": [
-      "sosyopat",
-      "psikopat",
-      "suç",
+      "kendini beğenmiş",
+      "ego",
       "empati",
-      "vicdan"
+      "büyüklenme",
+      "hayranlık"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 14,
-    "kategori": "psikiyatri",
-    "kelime": "narsistik kişilik bozukluğu",
-    "aciklama": "sürekli hayranlık ve onay bekleme ile başkalarının hislerini önemsememe örüntüsü.",
-    "yasakli_kelimeler": [
-      "büyüklenme",
-      "kibir",
-      "övgü",
-      "empati",
-      "benmerkezci"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 15,
-    "kategori": "psikiyatri",
-    "kelime": "posttravmatik stres bozukluğu",
-    "aciklama": "kabuslar ve aşırı uyarılmışlık hali.",
-    "yasakli_kelimeler": [
-      "travma",
-      "flashback",
-      "kabus",
-      "tetikleyici",
-      "ptsb"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 16,
-    "kategori": "psikiyatri",
-    "kelime": "yaygın anksiyete bozukluğu",
-    "aciklama": "sürekli ve aşırı düzeyde kaygı duyulması.",
-    "yasakli_kelimeler": [
-      "endişe",
-      "evham",
-      "huzursuzluk",
-      "kuruntu",
-      "kas gerginliği"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 17,
     "kategori": "psikiyatri",
     "kelime": "sosyal fobi",
     "aciklama": "rezil olma veya yargılanma korkusu nedeniyle toplumsal ortamlardan çekinme.",
@@ -238,7 +196,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 18,
+    "id": 15,
     "kategori": "psikiyatri",
     "kelime": "anoreksiya nervoza",
     "aciklama": "kendini aç bırakma ve aşırı zayıflığa rağmen bedenini şişman algılama.",
@@ -252,7 +210,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 19,
+    "id": 16,
     "kategori": "psikiyatri",
     "kelime": "bulimiya nervoza",
     "aciklama": "ataklarını takiben kilo almamak için kusma veya müshil kullanma davranışı.",
@@ -266,7 +224,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 20,
+    "id": 17,
     "kategori": "psikiyatri",
     "kelime": "insomni",
     "aciklama": "uykuyu sürdürmede güçlük yaşama veya erken uyanıp tekrar uyuyamama sorunu.",
@@ -280,7 +238,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 21,
+    "id": 18,
     "kategori": "psikiyatri",
     "kelime": "narkolepsi",
     "aciklama": "atakları ve heyecan durumunda kas tonusunun birden kaybolmasıyla karakterize bozukluk.",
@@ -294,7 +252,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 22,
+    "id": 19,
     "kategori": "psikiyatri",
     "kelime": "uyku felci",
     "aciklama": "açık olmasına rağmen bedeni geçici olarak hiç hareket ettirememe hali.",
@@ -308,21 +266,21 @@
     "zorluk": "kolay"
   },
   {
-    "id": 23,
+    "id": 20,
     "kategori": "psikiyatri",
-    "kelime": "disosiyatif kimlik bozukluğu",
-    "aciklama": "bağımsız davranan iki veya daha fazla belirgin kişilik durumunun varlığı.",
+    "kelime": "çoklu kişilik",
+    "aciklama": "bir bireyde birden fazla farklı kişilik kimliğinin bulunması.",
     "yasakli_kelimeler": [
-      "çoklu kişilik",
-      "alter",
-      "bölünme",
+      "bölünmüş",
+      "farklı karakter",
       "travma",
-      "parçalanma"
+      "benlik",
+      "rol"
     ],
     "zorluk": "orta"
   },
   {
-    "id": 24,
+    "id": 21,
     "kategori": "psikiyatri",
     "kelime": "kleptomani",
     "aciklama": "değeri için gereksinim duyulmayan eşyaları çalmaya yönelik dürtü kontrol bozukluğu.",
@@ -336,7 +294,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 25,
+    "id": 22,
     "kategori": "psikiyatri",
     "kelime": "piromani",
     "aciklama": "çıkarma konusunda karşı konulamaz dürtü ve bundan heyecan duyma hali.",
@@ -350,7 +308,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 26,
+    "id": 23,
     "kategori": "psikiyatri",
     "kelime": "istifçilik",
     "aciklama": "olmasa bile eşyaları atamama ve yaşam alanlarını dolduracak biçimde biriktirme.",
@@ -364,7 +322,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 27,
+    "id": 24,
     "kategori": "psikiyatri",
     "kelime": "megalomani",
     "aciklama": "zekası veya özel misyonu olan biri olarak görmesi sanrısı.",
@@ -378,10 +336,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 28,
+    "id": 25,
     "kategori": "psikiyatri",
     "kelime": "tourette sendromu",
-    "aciklama": "az sesel tikin yıldan uzun süre devam ettiği nörogelişimsel tablo.",
+    "aciklama": "istemsiz fiziksel hareketler ve sesli tiklerle seyreden sendrom.",
     "yasakli_kelimeler": [
       "tik",
       "koprolali",
@@ -392,21 +350,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 29,
-    "kategori": "psikiyatri",
-    "kelime": "otizm spektrum bozukluğu",
-    "aciklama": "tekrarlayıcı davranışlar ve kısıtlı ilgi alanlarıyla giden gelişimsel tablo.",
-    "yasakli_kelimeler": [
-      "göz teması",
-      "sosyal etkileşim",
-      "stereotipi",
-      "nörogelişimsel",
-      "asperger"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 30,
+    "id": 26,
     "kategori": "psikiyatri",
     "kelime": "hiperaktivite",
     "aciklama": "aşırı hareketlilik ve dürtüsellik ile seyreden nörogelişimsel bozukluk.",
@@ -420,10 +364,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 31,
+    "id": 27,
     "kategori": "psikiyatri",
     "kelime": "psikiyatri",
-    "aciklama": "tedavi ve önlenmesiyle ilgilenen tıp uzmanlık dalı.",
+    "aciklama": "ruhsal hastalıkların teşhis ve tedavisiyle ilgilenen tıp dalı.",
     "yasakli_kelimeler": [
       "ruh hekimliği",
       "akıl hastalıkları",
@@ -434,7 +378,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 32,
+    "id": 28,
     "kategori": "psikiyatri",
     "kelime": "psikiyatrist",
     "aciklama": "sağlığı ve hastalıkları alanında uzmanlaşarak ilaç yazma yetkisine sahip hekim.",
@@ -448,7 +392,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 33,
+    "id": 29,
     "kategori": "psikiyatri",
     "kelime": "psikoz",
     "aciklama": "sanrılar ve halüsinasyonlarla seyreden ağır akıl hastalığı tablosu.",
@@ -462,7 +406,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 34,
+    "id": 30,
     "kategori": "psikiyatri",
     "kelime": "nevroz",
     "aciklama": "takıntı veya panik belirtileriyle seyreden hafif ruhsal sıkıntı durumu.",
@@ -476,10 +420,10 @@
     "zorluk": "orta"
   },
   {
-    "id": 35,
+    "id": 31,
     "kategori": "psikiyatri",
     "kelime": "anksiyete",
-    "aciklama": "kuruntu ve iç huzursuzluğu.",
+    "aciklama": "sürekli hissedilen yoğun endişe, kaygı ve iç huzursuzluğu.",
     "yasakli_kelimeler": [
       "kaygı",
       "endişe",
@@ -490,7 +434,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 36,
+    "id": 32,
     "kategori": "psikiyatri",
     "kelime": "panik atak",
     "aciklama": "titreme ve ölüyorum hissiyle on-on beş dakika süren dehşet krizi.",
@@ -504,7 +448,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 37,
+    "id": 33,
     "kategori": "psikiyatri",
     "kelime": "fobi",
     "aciklama": "aşırı ve kişinin kaçınmasına yol açan yoğun korku.",
@@ -518,7 +462,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 38,
+    "id": 34,
     "kategori": "psikiyatri",
     "kelime": "klostrofobi",
     "aciklama": "gibi dar ve basık kapalı alanlarda kalmaktan duyulan dehşet korkusu.",
@@ -532,7 +476,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 39,
+    "id": 35,
     "kategori": "psikiyatri",
     "kelime": "akrofobi",
     "aciklama": "uçurumlardan veya köprülerden aşağı bakarken hissedilen baş dönmeli yükseklik korkusu.",
@@ -546,7 +490,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 40,
+    "id": 36,
     "kategori": "psikiyatri",
     "kelime": "demans",
     "aciklama": "oryantasyon ve günlük yaşam aktivitelerini bozan ilerleyici bunama tablosu.",
@@ -560,7 +504,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 41,
+    "id": 37,
     "kategori": "psikiyatri",
     "kelime": "alzheimer",
     "aciklama": "zamanla yakınlarını dahi tanıyamayan demans türü.",
@@ -574,7 +518,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 42,
+    "id": 38,
     "kategori": "psikiyatri",
     "kelime": "amnezi",
     "aciklama": "psikolojik nedenlerle bilgilerin ve geçmiş anıların hatırlanamaması hafıza kaybı durumu.",
@@ -588,7 +532,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 43,
+    "id": 39,
     "kategori": "psikiyatri",
     "kelime": "otizm",
     "aciklama": "tekrarlayıcı hareketler ve sosyal iletişim kuramama gelişimsel bozukluğu.",
@@ -602,7 +546,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 44,
+    "id": 40,
     "kategori": "psikiyatri",
     "kelime": "dikkat eksikliği",
     "aciklama": "eşyalarını unutması ve çabuk dikkatinin dağılması.",
@@ -616,7 +560,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 45,
+    "id": 41,
     "kategori": "psikiyatri",
     "kelime": "kekemelik",
     "aciklama": "uzatılması veya duraklamalarla kendini gösteren konuşma ritim bozukluğu.",
@@ -630,7 +574,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 46,
+    "id": 42,
     "kategori": "psikiyatri",
     "kelime": "bağımlılık",
     "aciklama": "rağmen maddenin kullanımını veya davranışı durduramama ve kontrol edememe hastalığı.",
@@ -644,7 +588,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 47,
+    "id": 43,
     "kategori": "psikiyatri",
     "kelime": "alkol bağımlılığı",
     "aciklama": "sabah ilk iş alkol araması ve sosyal hayatının çökmesi tablosu.",
@@ -658,7 +602,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 48,
+    "id": 44,
     "kategori": "psikiyatri",
     "kelime": "madde bağımlılığı",
     "aciklama": "uyarıcı maddelerin beynin ödül merkezini ele geçirmesiyle oluşan kronik bağımlılık.",
@@ -672,7 +616,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 49,
+    "id": 45,
     "kategori": "psikiyatri",
     "kelime": "yoksunluk",
     "aciklama": "kusma ve krizle oluşan fiziksel tablo.",
@@ -686,7 +630,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 50,
+    "id": 46,
     "kategori": "psikiyatri",
     "kelime": "kumar bağımlılığı",
     "aciklama": "kazanma hırsıyla durmaksızın bahis veya şans oyunları oynayarak iflasa sürüklenme.",
@@ -700,7 +644,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 51,
+    "id": 47,
     "kategori": "psikiyatri",
     "kelime": "internet bağımlılığı",
     "aciklama": "iş ve sosyal hayatını ihmal etme.",
@@ -714,10 +658,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 52,
+    "id": 48,
     "kategori": "psikiyatri",
     "kelime": "antidepresan",
-    "aciklama": "ve noradrenalin düzeylerini dengeleyerek çökkünlük ve anksiyeteyi gideren ilaç sınıfı.",
+    "aciklama": "depresyon ve kaygıyı tedavi etmek için kullanılan ilaç türü.",
     "yasakli_kelimeler": [
       "depresyon hapı",
       "serotonin artırıcı",
@@ -728,7 +672,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 53,
+    "id": 49,
     "kategori": "psikiyatri",
     "kelime": "psikoterapi",
     "aciklama": "arasında konuşmaya ve bilimsel psikolojik yöntemlere dayalı ruhsal iyileşme süreci.",
@@ -742,7 +686,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 54,
+    "id": 50,
     "kategori": "psikiyatri",
     "kelime": "psikanaliz",
     "aciklama": "hastanın divana uzanarak çocukluk anılarını ve bilinçdışı çatışmalarını aydınlattığı ekol.",
@@ -756,7 +700,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 55,
+    "id": 51,
     "kategori": "psikiyatri",
     "kelime": "bilişsel terapi",
     "aciklama": "açan otomatik olumsuz düşünce kalıplarını ve inançlarını değiştirmeyi hedefleyen terapi.",
@@ -770,7 +714,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 56,
+    "id": 52,
     "kategori": "psikiyatri",
     "kelime": "grup terapisi",
     "aciklama": "yaşayan birden fazla danışanın terapist yönetiminde deneyimlerini paylaşıp dayanıştığı seans.",
@@ -784,10 +728,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 57,
+    "id": 53,
     "kategori": "psikiyatri",
     "kelime": "aile terapisi",
-    "aciklama": "ve iletişim biçiminin yansıması kabul edip aile bireyleriyle yürütülen terapi.",
+    "aciklama": "aile üyeleri arasındaki çatışmaları çözmek için yürütülen terapi.",
     "yasakli_kelimeler": [
       "aile bireyleri",
       "iletişim sorunları",
@@ -798,10 +742,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 58,
+    "id": 54,
     "kategori": "psikiyatri",
     "kelime": "serbest çağrışım",
-    "aciklama": "utanç duymadan ve filtrelemeden ağzından dökmesi kuralı.",
+    "aciklama": "hastanın aklına gelen her şeyi sansürsüzce anlatması yöntemi.",
     "yasakli_kelimeler": [
       "aklına geleni söyleme",
       "sansürsüz konuşma",
@@ -812,10 +756,10 @@
     "zorluk": "orta"
   },
   {
-    "id": 59,
+    "id": 55,
     "kategori": "psikiyatri",
     "kelime": "rüya analizi",
-    "aciklama": "kral yolu kabul ederek rüyadaki sembollerin gizli anlamlarını çözümleme yöntemi.",
+    "aciklama": "rüyaların bilinçdışı anlamlarını ve sembollerini çözme yöntemi.",
     "yasakli_kelimeler": [
       "bilinçdışı kral yolu",
       "rüya yorumu",
@@ -826,10 +770,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 60,
+    "id": 56,
     "kategori": "psikiyatri",
     "kelime": "savunma mekanizması",
-    "aciklama": "suçluluk duygusundan korunmak için bilinçdışı olarak devreye soktuğu koruyucu kalkanlar.",
+    "aciklama": "kişinin ruhsal çatışmalardan korunmak için geliştirdiği bilinçdışı tepkiler.",
     "yasakli_kelimeler": [
       "ego kalkanı",
       "kaygıdan korunma",
@@ -840,7 +784,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 61,
+    "id": 57,
     "kategori": "psikiyatri",
     "kelime": "bastırma",
     "aciklama": "kabul edilemez dürtü ve anıların zorla bilinçten bilinçdışına itilip unutulması.",
@@ -854,10 +798,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 62,
+    "id": 58,
     "kategori": "psikiyatri",
     "kelime": "yansıtma",
-    "aciklama": "ve kabul edilemez istekleri başkalarına mal ederek onları suçlaması mekanizması.",
+    "aciklama": "kişinin kendi olumsuz duygularını başkalarına yüklemesi savunma mekanizması.",
     "yasakli_kelimeler": [
       "projecksiyon",
       "başkasına atma",
@@ -868,10 +812,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 63,
+    "id": 59,
     "kategori": "psikiyatri",
     "kelime": "inkar",
-    "aciklama": "ölüm haberini veya hastalığı sanki hiç yokmuş gibi reddetmesi tepkisi.",
+    "aciklama": "acı veren gerçeği kabul etmeyip yok sayma tepkisi.",
     "yasakli_kelimeler": [
       "reddetme",
       "yok sayma",
@@ -882,7 +826,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 64,
+    "id": 60,
     "kategori": "psikiyatri",
     "kelime": "ruh sağlığı",
     "aciklama": "stresle baş edebildiği ve topluma üretken katkı sağladığı iyilik hali.",
@@ -907,7 +851,7 @@
       "ruhsal"
     ],
     "zorluk": "kolay",
-    "id": 65
+    "id": 61
   },
   {
     "kategori": "psikiyatri",
@@ -921,7 +865,7 @@
       "yazmak"
     ],
     "zorluk": "kolay",
-    "id": 66
+    "id": 62
   },
   {
     "kategori": "psikiyatri",
@@ -935,7 +879,7 @@
       "hasta"
     ],
     "zorluk": "kolay",
-    "id": 67
+    "id": 63
   },
   {
     "kategori": "psikiyatri",
@@ -949,7 +893,7 @@
       "koymak"
     ],
     "zorluk": "kolay",
-    "id": 68
+    "id": 64
   },
   {
     "kategori": "psikiyatri",
@@ -963,7 +907,7 @@
       "huzur"
     ],
     "zorluk": "kolay",
-    "id": 69
+    "id": 65
   },
   {
     "kategori": "psikiyatri",
@@ -977,7 +921,7 @@
       "gözetim"
     ],
     "zorluk": "kolay",
-    "id": 70
+    "id": 66
   },
   {
     "kategori": "psikiyatri",
@@ -991,7 +935,7 @@
       "göndermek"
     ],
     "zorluk": "kolay",
-    "id": 71
+    "id": 67
   },
   {
     "kategori": "psikiyatri",
@@ -1005,7 +949,7 @@
       "klinik"
     ],
     "zorluk": "kolay",
-    "id": 72
+    "id": 68
   },
   {
     "kategori": "psikiyatri",
@@ -1019,7 +963,7 @@
       "ürkeklik"
     ],
     "zorluk": "kolay",
-    "id": 73
+    "id": 69
   },
   {
     "kategori": "psikiyatri",
@@ -1033,7 +977,7 @@
       "moral"
     ],
     "zorluk": "kolay",
-    "id": 74
+    "id": 70
   },
   {
     "kategori": "psikiyatri",
@@ -1047,7 +991,7 @@
       "tedavi"
     ],
     "zorluk": "kolay",
-    "id": 75
+    "id": 71
   },
   {
     "kategori": "psikiyatri",
@@ -1061,20 +1005,6 @@
       "isteksizlik"
     ],
     "zorluk": "orta",
-    "id": 76
-  },
-  {
-    "kategori": "psikiyatri",
-    "kelime": "panik atak geçirmek",
-    "aciklama": "zihne istemsizce takılan mikrop kapma veya kapı kilitleme takıntısı",
-    "yasakli_kelimeler": [
-      "takıntı",
-      "okb",
-      "mikrop",
-      "kilit",
-      "vesvese"
-    ],
-    "zorluk": "orta",
-    "id": 77
+    "id": 72
   }
 ]

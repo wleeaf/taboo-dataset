@@ -2045,59 +2045,31 @@
   },
   {
     "kategori": "futbol",
-    "kelime": "penaltı kullanmak",
-    "aciklama": "penaltı noktasından kaleciyle karşı karşıya kalarak atış yapmak.",
+    "kelime": "kırmızı kart",
+    "aciklama": "ağır kural ihlalinde hakemin oyuncuyu oyundan attığı kart.",
     "yasakli_kelimeler": [
-      "beyaz nokta",
-      "on bir metre",
-      "kaleci",
-      "ceza sahası",
-      "vuruş"
+      "ihraç",
+      "hakem",
+      "ceza",
+      "on kişi",
+      "sarı kart"
     ],
     "zorluk": "kolay",
     "id": 147
   },
   {
     "kategori": "futbol",
-    "kelime": "korner atmak",
-    "aciklama": "korner noktasından topu ceza sahasına doğru havadan ortalamak.",
+    "kelime": "sarı kart",
+    "aciklama": "hakemin kural ihlali yapan futbolcuya gösterdiği resmi ihtar kartı.",
     "yasakli_kelimeler": [
-      "köşe vuruşu",
-      "bayrak",
-      "orta",
-      "dışarı çıkmak",
-      "kafa"
+      "ihtar",
+      "hakem",
+      "uyarı",
+      "ceza",
+      "ikinci sarı"
     ],
     "zorluk": "kolay",
     "id": 148
-  },
-  {
-    "kategori": "futbol",
-    "kelime": "kırmızı kart görmek",
-    "aciklama": "ağır faul sonucu hakem tarafından oyundan ihraç edilmek.",
-    "yasakli_kelimeler": [
-      "hakem",
-      "oyundan atılmak",
-      "ceza",
-      "faul",
-      "on kişi"
-    ],
-    "zorluk": "kolay",
-    "id": 149
-  },
-  {
-    "kategori": "futbol",
-    "kelime": "sarı kart görmek",
-    "aciklama": "kural dışı hareket sebebiyle hakemden ilk resmi ihtar kartı almak.",
-    "yasakli_kelimeler": [
-      "uyarı",
-      "hakem",
-      "faul",
-      "ceza",
-      "ikinci"
-    ],
-    "zorluk": "kolay",
-    "id": 150
   },
   {
     "kategori": "futbol",
@@ -2111,7 +2083,7 @@
       "oyun"
     ],
     "zorluk": "kolay",
-    "id": 151
+    "id": 149
   },
   {
     "kategori": "futbol",
@@ -2125,7 +2097,7 @@
       "gol"
     ],
     "zorluk": "kolay",
-    "id": 152
+    "id": 150
   },
   {
     "kategori": "futbol",
@@ -2139,7 +2111,7 @@
       "file"
     ],
     "zorluk": "kolay",
-    "id": 153
+    "id": 151
   },
   {
     "kategori": "futbol",
@@ -2153,63 +2125,7 @@
       "rakip"
     ],
     "zorluk": "kolay",
-    "id": 154
-  },
-  {
-    "kategori": "futbol",
-    "kelime": "ofsayta düşmek",
-    "aciklama": "pas anında savunma hattının önünde kalarak ofsayt düdüğüne takılmak.",
-    "yasakli_kelimeler": [
-      "yan hakem",
-      "bayrak",
-      "savunma arkası",
-      "son adam",
-      "düdük"
-    ],
-    "zorluk": "orta",
-    "id": 155
-  },
-  {
-    "kategori": "futbol",
-    "kelime": "çalım atmak",
-    "aciklama": "vücut çalımıyla veya bacak arasıyla rakip savunmacıyı eksiltip geçmek.",
-    "yasakli_kelimeler": [
-      "dribling",
-      "rakibi geçmek",
-      "bacak arası",
-      "kandırmak",
-      "bilek"
-    ],
-    "zorluk": "orta",
-    "id": 156
-  },
-  {
-    "kategori": "futbol",
-    "kelime": "röveşata vurmak",
-    "aciklama": "havaya sıçrayıp baş aşağı dönerek estetik bir röveşata vuruşu yapmak.",
-    "yasakli_kelimeler": [
-      "havada ters",
-      "akrobatik",
-      "sırtüstü",
-      "vuruş",
-      "gol"
-    ],
-    "zorluk": "orta",
-    "id": 157
-  },
-  {
-    "kategori": "futbol",
-    "kelime": "baraj kurmak",
-    "aciklama": "frikik atışında kaleyi korumak için belirli mesafede yan yana dizilmek.",
-    "yasakli_kelimeler": [
-      "frikik",
-      "serbest vuruş",
-      "yan yana durmak",
-      "savunma",
-      "mesafe"
-    ],
-    "zorluk": "orta",
-    "id": 158
+    "id": 152
   },
   {
     "kategori": "futbol",
@@ -2223,7 +2139,7 @@
       "tackle"
     ],
     "zorluk": "orta",
-    "id": 159
+    "id": 153
   },
   {
     "kategori": "futbol",
@@ -2237,21 +2153,7 @@
       "gol aramak"
     ],
     "zorluk": "orta",
-    "id": 160
-  },
-  {
-    "kategori": "futbol",
-    "kelime": "frikik kullanmak",
-    "aciklama": "ceza sahası dışından kazanılan serbest vuruşu doğrudan kaleye vurmak.",
-    "yasakli_kelimeler": [
-      "serbest vuruş",
-      "duran top",
-      "baraj",
-      "falso",
-      "doktor"
-    ],
-    "zorluk": "orta",
-    "id": 161
+    "id": 154
   },
   {
     "kategori": "futbol",
@@ -2265,90 +2167,6 @@
       "top kapma"
     ],
     "zorluk": "orta",
-    "id": 162
-  },
-  {
-    "kategori": "futbol",
-    "kelime": "bacak arası atmak",
-    "aciklama": "topu rakibin iki bacağı arasından yuvarlayıp arkasından geçerek çalımlamak.",
-    "yasakli_kelimeler": [
-      "beşik",
-      "nutmeg",
-      "çalım",
-      "küçük düşürme",
-      "geçmek"
-    ],
-    "zorluk": "orta",
-    "id": 163
-  },
-  {
-    "kategori": "futbol",
-    "kelime": "verkaç yapmak",
-    "aciklama": "arkadaşına pas verip boş alana kaçarak topu geri almak.",
-    "yasakli_kelimeler": [
-      "duvar pası",
-      "bir iki",
-      "boşa kaçmak",
-      "tek top",
-      "hücum"
-    ],
-    "zorluk": "orta",
-    "id": 164
-  },
-  {
-    "kategori": "futbol",
-    "kelime": "topuk pası vermek",
-    "aciklama": "arkasındaki oyuncuya bakmadan topuğuyla şık ve sürpriz bir pas vermek.",
-    "yasakli_kelimeler": [
-      "şık",
-      "arkaya",
-      "ayak arkası",
-      "beklenmedik",
-      "asist"
-    ],
-    "zorluk": "orta",
-    "id": 165
-  },
-  {
-    "kategori": "futbol",
-    "kelime": "şampiyonluk kutlamak",
-    "aciklama": "ligin sonunda kupayı kaldırarak taraftarlarla birlikte şampiyonluğu kutlamak.",
-    "yasakli_kelimeler": [
-      "kupa",
-      "türbin",
-      "tur atmak",
-      "konfeti",
-      "şampiyon"
-    ],
-    "zorluk": "orta",
-    "id": 166
-  },
-  {
-    "kategori": "futbol",
-    "kelime": "asist yapmak",
-    "aciklama": "takım arkadaşının gol atmasını sağlayan son pası başarıyla vermek.",
-    "yasakli_kelimeler": [
-      "gol pası",
-      "servis",
-      "ortalamak",
-      "skor",
-      "katkı"
-    ],
-    "zorluk": "orta",
-    "id": 167
-  },
-  {
-    "kategori": "futbol",
-    "kelime": "ters köşeye yatırmak",
-    "aciklama": "şutta kaleciyi bir köşeye yatırıp topu diğer köşeye yuvarlamak.",
-    "yasakli_kelimeler": [
-      "final third",
-      "rakip ceza sahası çevresi",
-      "yerleşim",
-      "set hücumu",
-      "kuşatma"
-    ],
-    "zorluk": "zor",
-    "id": 168
+    "id": 155
   }
 ]

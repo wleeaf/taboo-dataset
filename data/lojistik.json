@@ -1,1374 +1,422 @@
 [
   {
+    "kelime": "lojistik",
+    "aciklama": "malların depolanması, taşınması ve dağıtılması süreçlerinin bütünü.",
+    "yasakli_kelimeler": [
+      "nakliye",
+      "kargo",
+      "taşımacılık",
+      "depo",
+      "sevkiyat"
+    ],
+    "zorluk": "orta",
     "id": 1,
-    "kategori": "lojistik",
-    "kelime": "tedarik zinciri",
-    "aciklama": "ürünün üreticiden nihai tüketiciye kadar olan tüm aşamalarını ağ.",
-    "yasakli_kelimeler": [
-      "üretim",
-      "dağıtım",
-      "akış",
-      "malzeme",
-      "müşteri"
-    ],
-    "zorluk": "kolay"
+    "kategori": "lojistik"
   },
   {
+    "kelime": "nakliye",
+    "aciklama": "eşya veya yüklerin bir noktadan diğerine araçlarla taşınması.",
+    "yasakli_kelimeler": [
+      "kamyon",
+      "taşıma",
+      "evden eve",
+      "eşya",
+      "kamyonet"
+    ],
+    "zorluk": "kolay",
     "id": 2,
-    "kategori": "lojistik",
-    "kelime": "filo yönetimi",
-    "aciklama": "işletmenin sahip olduğu araçların bakım, rota ve operasyonlarının idaresi.",
-    "yasakli_kelimeler": [
-      "araç",
-      "kamyon",
-      "rota",
-      "takip",
-      "şoför"
-    ],
-    "zorluk": "kolay"
+    "kategori": "lojistik"
   },
   {
-    "id": 3,
-    "kategori": "lojistik",
-    "kelime": "palet",
-    "aciklama": "ürünlerin forklift gibi araçlarla kolayca taşınabilmesi için altına platform.",
+    "kelime": "sevkiyat",
+    "aciklama": "hazırlanan malların depodan araçlara yüklenerek yola çıkarılması.",
     "yasakli_kelimeler": [
-      "ahşap",
-      "euro",
-      "forklift",
+      "depo",
       "yükleme",
-      "taban"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 4,
-    "kategori": "lojistik",
-    "kelime": "forklift",
-    "aciklama": "ağır yükleri kaldırmak, taşımak ve raflara yerleştirmek için makinesi.",
-    "yasakli_kelimeler": [
-      "çatal",
-      "kaldırma",
-      "istif",
-      "depo",
-      "operatör"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 5,
-    "kategori": "lojistik",
-    "kelime": "istifleme",
-    "aciklama": "ürün ve malzemelerin belirli bir düzen içinde üst işlemi.",
-    "yasakli_kelimeler": [
-      "depo",
-      "yığma",
-      "düzen",
-      "raf",
-      "koli"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 6,
-    "kategori": "lojistik",
-    "kelime": "soğuk zincir",
-    "aciklama": "ısıya duyarlı gıda ve ilaçların bozulmadan taşınması için rejimi.",
-    "yasakli_kelimeler": [
-      "sıcaklık",
-      "soğutma",
-      "bozulabilir",
-      "aşı",
-      "gıda"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 7,
-    "kategori": "lojistik",
-    "kelime": "konteyner",
-    "aciklama": "uluslararası standart boyutlarda üretilmiş, içine yük konulan dayanıklı çelik kutu.",
-    "yasakli_kelimeler": [
-      "standart birim",
-      "çelik kasa",
-      "gemi taşımacılığı",
-      "intermodal",
-      "yük sandığı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 8,
-    "kategori": "lojistik",
-    "kelime": "dara",
-    "aciklama": "yük taşınan kabın, ambalajın veya boş aracın net ağırlığı.",
-    "yasakli_kelimeler": [
-      "brüt",
-      "net",
-      "ağırlık",
-      "tartı",
-      "boş"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 9,
-    "kategori": "lojistik",
-    "kelime": "serbest bölge",
-    "aciklama": "ülke sınırları içinde olan fakat dış ticaret ve alan.",
-    "yasakli_kelimeler": [
-      "gümrüksüz",
-      "vergi",
-      "teşvik",
-      "ticaret",
-      "liman"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 10,
-    "kategori": "lojistik",
-    "kelime": "aktarma merkezi",
-    "aciklama": "farklı noktalardan gelen kargoların tasnif edilip yeni rotalara üs.",
-    "yasakli_kelimeler": [
-      "hub",
-      "tasnif",
-      "dağıtım",
-      "merkez",
-      "kargo"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 11,
-    "kategori": "lojistik",
-    "kelime": "envanter",
-    "aciklama": "işletmenin ticari veya üretim amaçlı elinde bulundurduğu hammadde tümü.",
-    "yasakli_kelimeler": [
-      "stok",
-      "sayım",
-      "hammadde",
-      "varlık",
-      "depo"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 12,
-    "kategori": "lojistik",
-    "kelime": "barkod",
-    "aciklama": "ürünlerin optik okuyucular tarafından otomatik tanınmasını sağlayan siyah-beyaz çizgili kod.",
-    "yasakli_kelimeler": [
-      "okuyucu",
-      "çizgi",
-      "kod",
-      "etiket",
-      "taramak"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 13,
-    "kategori": "lojistik",
-    "kelime": "kör nokta",
-    "aciklama": "taşımacılıkta veya depolama sürecinde araçların ve sürücülerin göremediği bölge.",
-    "yasakli_kelimeler": [
-      "ayna",
-      "görüş",
-      "tehlike",
-      "kamyon",
-      "açı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 14,
-    "kategori": "lojistik",
-    "kelime": "karbon ayak izi",
-    "aciklama": "lojistik operasyonlar sırasında atmosfere salınan sera gazlarının toplam eşdeğer miktarı.",
-    "yasakli_kelimeler": [
-      "emisyon",
-      "gaz",
-      "sera",
-      "çevre",
-      "salınım"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 15,
-    "kategori": "lojistik",
-    "kelime": "son kilometre teslimatı",
-    "aciklama": "ürünün dağıtım merkezinden nihai tüketicinin kapısına kadar olan etabı.",
-    "yasakli_kelimeler": [
-      "last mile",
-      "kapı",
-      "kurye",
-      "tüketici",
+      "gönderme",
+      "kargo",
       "teslimat"
     ],
-    "zorluk": "orta"
+    "zorluk": "orta",
+    "id": 3,
+    "kategori": "lojistik"
   },
   {
-    "id": 16,
-    "kategori": "lojistik",
-    "kelime": "soğuk hava deposu",
-    "aciklama": "bozulabilir ürünlerin taze kalması için sıcaklığı sabit tutulan iklimlendirmeli bina.",
+    "kelime": "teslimat",
+    "aciklama": "sipariş edilen ürünün alıcısına ulaştırılıp verilmesi anı.",
     "yasakli_kelimeler": [
-      "donmuş",
-      "soğutma",
-      "et",
-      "meyve",
-      "yalıtım"
+      "kurye",
+      "kapı",
+      "paket",
+      "imza",
+      "adres"
     ],
-    "zorluk": "kolay"
+    "zorluk": "kolay",
+    "id": 4,
+    "kategori": "lojistik"
   },
   {
-    "id": 17,
-    "kategori": "lojistik",
-    "kelime": "yükleme rampası",
-    "aciklama": "kamyon kasası ile depo zemini arasında düz ayak platform.",
+    "kelime": "dağıtım merkezi",
+    "aciklama": "farklı ürünlerin toplanıp bölgelere ayrıştırılarak sevk edildiği tesis.",
     "yasakli_kelimeler": [
-      "köprü",
-      "kamyon",
-      "yükseklik",
-      "yükleme",
-      "forklift"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 18,
-    "kategori": "lojistik",
-    "kelime": "barkod yazıcı",
-    "aciklama": "lojistik etiketleme ve koli takibi için termal yöntemle cihazı.",
-    "yasakli_kelimeler": [
-      "etiket",
-      "termal",
-      "baskı",
-      "koli",
-      "yazıcı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 19,
-    "kategori": "lojistik",
-    "kelime": "konveyör",
-    "aciklama": "depo ve fabrikalarda paketleri sürekli hareket eden bant hat.",
-    "yasakli_kelimeler": [
-      "bant",
-      "rulo",
-      "taşıma",
-      "otomasyon",
-      "hat"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 20,
-    "kategori": "lojistik",
-    "kelime": "kırılgan yük",
-    "aciklama": "taşınırken sarsıntı ve çarpmalardan kolayca hasar görebilen cam, eşya.",
-    "yasakli_kelimeler": [
-      "hassas",
-      "cam",
-      "kırılma",
-      "darbe",
-      "uyarı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 21,
-    "kategori": "lojistik",
-    "kelime": "tehlikeli madde",
-    "aciklama": "yanıcı, patlayıcı veya zehirli niteliği yüzünden özel taşıma yük.",
-    "yasakli_kelimeler": [
-      "karayolu yönetmeliği",
-      "yanıcı madde",
-      "turuncu plaka",
-      "patlayıcı yük",
-      "zehirli kimyasal"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 22,
-    "kategori": "lojistik",
-    "kelime": "dökme sıvı",
-    "aciklama": "varil veya ambalaj kullanılmadan tanker ve sarnıçlarda doğrudan kimyasallar.",
-    "yasakli_kelimeler": [
-      "tanker",
-      "akaryakıt",
-      "sıvı",
-      "boru",
-      "petrol"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 23,
-    "kategori": "lojistik",
-    "kelime": "kuru yük",
-    "aciklama": "sıvı olmayan tahıl, kömür, maden cevheri veya çimento maddeler.",
-    "yasakli_kelimeler": [
-      "tahıl",
-      "kömür",
-      "katı",
-      "gemi",
-      "maden"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 24,
-    "kategori": "lojistik",
-    "kelime": "desi",
-    "aciklama": "kargo sektöründe paketin en, boy ve yüksekliğinin çarpılıp birim.",
-    "yasakli_kelimeler": [
-      "ölçü",
-      "hacim",
+      "depo",
       "kargo",
-      "ücret",
-      "santimetre"
+      "ayrıştırma",
+      "lojistik",
+      "aktarma"
     ],
-    "zorluk": "kolay"
+    "zorluk": "orta",
+    "id": 5,
+    "kategori": "lojistik"
   },
   {
-    "id": 25,
-    "kategori": "lojistik",
-    "kelime": "soğutmalı dorse",
-    "aciklama": "arkasındaki bağımsız soğutucu ünite sayesinde yiyecek ve aşıları römork.",
-    "yasakli_kelimeler": [
-      "frigo",
-      "soğutucu",
-      "termo",
-      "tır",
-      "derece"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 26,
-    "kategori": "lojistik",
     "kelime": "akıllı depo",
-    "aciklama": "nesnelerin interneti, yapay zeka ve robotik sistemlerle insan depo.",
+    "aciklama": "robotik sistemlerle yüklerin otomatik yerleştirildiği modern depo.",
     "yasakli_kelimeler": [
       "otomasyon",
       "robot",
-      "karanlık depo",
-      "yapay zeka",
-      "dijital"
+      "teknoloji",
+      "raf",
+      "yapay zeka"
     ],
-    "zorluk": "kolay"
+    "zorluk": "orta",
+    "id": 6,
+    "kategori": "lojistik"
   },
   {
-    "id": 27,
-    "kategori": "lojistik",
-    "kelime": "depolama",
-    "aciklama": "üretilen veya sevk edilecek malların güvenli, düzenli ve süreci.",
+    "kelime": "antrepo",
+    "aciklama": "gümrük vergisi ödenene kadar ticari malların korunduğu resmi depo.",
     "yasakli_kelimeler": [
-      "ambar",
-      "antrepo saklama",
-      "mal muhafazası",
-      "stok alanı",
+      "gümrük",
+      "mal",
+      "vergi",
+      "ticaret",
       "depo"
     ],
-    "zorluk": "kolay"
+    "zorluk": "zor",
+    "id": 7,
+    "kategori": "lojistik"
   },
   {
-    "id": 28,
-    "kategori": "lojistik",
-    "kelime": "nakliye",
-    "aciklama": "malların, eşyaların veya hammaddelerin bir noktadan başka bir taşınması.",
-    "yasakli_kelimeler": [
-      "taşıma",
-      "taşımacılık",
-      "kamyonla sevk",
-      "yük taşıma",
-      "ulaşım"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 29,
-    "kategori": "lojistik",
-    "kelime": "sevkiyat",
-    "aciklama": "sipariş edilen malların depodan araçlara yüklenerek alıcısına gönderilmek işlemi.",
-    "yasakli_kelimeler": [
-      "yola çıkarma",
-      "gönderim",
-      "yükleme",
-      "dağıtım başlangıcı",
-      "sevk"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 30,
-    "kategori": "lojistik",
-    "kelime": "teslimat",
-    "aciklama": "taşınan yükün veya kargonun varış noktasında alıcısına imza edilmesi.",
-    "yasakli_kelimeler": [
-      "adrese teslim",
-      "alıcıya verme",
-      "teslim fişi",
-      "kargo varışı",
-      "ulaştırma"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 31,
-    "kategori": "lojistik",
-    "kelime": "dağıtım merkezi",
-    "aciklama": "farklı fabrikalardan gelen ürünlerin toplanıp perakende mağazalarına hızla tesis.",
-    "yasakli_kelimeler": [
-      "dağıtım deposu",
-      "lojistik üs",
-      "mağaza sevkiyatı",
-      "bölge deposu",
-      "ayrıştırma merkezi"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 32,
-    "kategori": "lojistik",
-    "kelime": "ana depo",
-    "aciklama": "şirketin tüm ürün gamını büyük hacimlerde barındıran ve depo.",
-    "yasakli_kelimeler": [
-      "merkezi depo",
-      "ana ambar",
-      "bölge besleme",
-      "büyük depo",
-      "stok merkezi"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 33,
-    "kategori": "lojistik",
-    "kelime": "raflı depo",
-    "aciklama": "paletli malların çok katlı yüksek çelik raf sistemlerine tipi.",
-    "yasakli_kelimeler": [
-      "çelik raf",
-      "katlı depolama",
-      "palet rafları",
-      "forklift alanı",
-      "modern ambar"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 34,
-    "kategori": "lojistik",
-    "kelime": "açık depo",
-    "aciklama": "hava koşullarından etkilenmeyen mermer, boru veya konteynerlerin açık alanı.",
-    "yasakli_kelimeler": [
-      "açık hava",
-      "saha depolama",
-      "konteyner sahası",
-      "çatısız alan",
-      "arazi"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 35,
-    "kategori": "lojistik",
-    "kelime": "sınır kapısı",
-    "aciklama": "iki komşu ülke arasında tırların ve kargoların gümrük noktası.",
-    "yasakli_kelimeler": [
-      "hudut kapısı",
-      "kapıkule habur",
-      "gümrük kapısı",
-      "pasaport kontrol",
-      "sınır"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 36,
-    "kategori": "lojistik",
-    "kelime": "kantar",
-    "aciklama": "karayolu denetim istasyonlarında veya fabrika girişinde tır ve terazi.",
-    "yasakli_kelimeler": [
-      "araç tartısı",
-      "tonaj ölçümü",
-      "aks tartımı",
-      "ağırlık kontrolü",
-      "yol tartısı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 37,
-    "kategori": "lojistik",
-    "kelime": "azami ağırlık",
-    "aciklama": "nakliye aracının kendi darası ile taşıdığı yükün toplamının ağırlık.",
-    "yasakli_kelimeler": [
-      "yüklü ağırlık",
-      "kırk ton sınırı",
-      "maksimum tonaj",
-      "yasal sınır",
-      "araç kapasitesi"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 38,
-    "kategori": "lojistik",
-    "kelime": "net ağırlık",
-    "aciklama": "ambalaj, palet ve koli ağırlığı hesaba katılmaksızın sadece ağırlığı.",
-    "yasakli_kelimeler": [
-      "saf ağırlık",
-      "darasız miktar",
-      "ambalajsız",
-      "ürün ağırlığı",
-      "brüt zıttı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 39,
-    "kategori": "lojistik",
-    "kelime": "brüt ağırlık",
-    "aciklama": "taşınan ürünün ambalajı, kutusu, paleti ve sabitleme aparatları ağırlığı.",
-    "yasakli_kelimeler": [
-      "ambalajlı ağırlık",
-      "toplam tartı",
-      "palet dahil",
-      "dara artı net",
-      "kantar ağırlığı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 40,
-    "kategori": "lojistik",
-    "kelime": "paletleme",
-    "aciklama": "kolilerin ve çuvalların forkliftle taşınabilmesi için ahşap veya süreci.",
-    "yasakli_kelimeler": [
-      "palete dizme",
-      "istifleme",
-      "ahşap palet",
-      "yük hazırlama",
-      "birim yük"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 41,
-    "kategori": "lojistik",
-    "kelime": "streçleme",
-    "aciklama": "palet üzerine dizilen kolilerin taşınırken dağılmasını önlemek için sarılması.",
-    "yasakli_kelimeler": [
-      "streç film",
-      "plastik sarma",
-      "palet sarma",
-      "dağılmayı önleme",
-      "ambalaj"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 42,
-    "kategori": "lojistik",
-    "kelime": "koli",
-    "aciklama": "ürünlerin kırılmadan taşınması için oluklu mukavvadan üretilen katlanabilir kutusu.",
-    "yasakli_kelimeler": [
-      "mukavva kutu",
-      "karton kutu",
-      "paket",
-      "koli bandı",
-      "yük kutusu"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 43,
-    "kategori": "lojistik",
-    "kelime": "sandık",
-    "aciklama": "ağır makineleri veya ihracat yüklerini darbelere karşı korumak kasa.",
-    "yasakli_kelimeler": [
-      "ahşap kasa",
-      "ihracat sandığı",
-      "kereste muhafaza",
-      "ağır makine kutusu",
-      "tahta kutu"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 44,
-    "kategori": "lojistik",
-    "kelime": "varil",
-    "aciklama": "sıvı kimyasalları, madeni yağları ve yakıtları taşımak için fıçı.",
-    "yasakli_kelimeler": [
-      "çelik fıçı",
-      "iki yüz litre",
-      "petrol varili",
-      "sıvı bidonu",
-      "metal kap"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 45,
-    "kategori": "lojistik",
-    "kelime": "silo",
-    "aciklama": "tahıl, çimento veya plastik hammadde granüllerini dökme olarak kule.",
-    "yasakli_kelimeler": [
-      "tahıl deposu",
-      "silindirik kule",
-      "buğday ambarı",
-      "dökme saklama",
-      "depolama kulesi"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 46,
-    "kategori": "lojistik",
-    "kelime": "tanker",
-    "aciklama": "akaryakıt, sıvılaştırılmış gaz veya süt gibi sıvı yükleri kamyon.",
-    "yasakli_kelimeler": [
-      "akaryakıt kamyonu",
-      "sıvı taşıma",
-      "silindirik depo",
-      "benzinci tankeri",
-      "özel araç"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 47,
-    "kategori": "lojistik",
-    "kelime": "frigo dorse",
-    "aciklama": "yalıtımlı kalın panelleri ve soğutma motoruyla donmuş gıdaları kasası.",
-    "yasakli_kelimeler": [
-      "termo kasa",
-      "donmuş gıda",
-      "yalıtımlı dorse",
-      "soğutuculu tır",
-      "soğuk zincir"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 48,
-    "kategori": "lojistik",
-    "kelime": "damperli dorse",
-    "aciklama": "hidrolik pistonla kasasını havaya kaldırarak kum, çakıl veya kasası.",
-    "yasakli_kelimeler": [
-      "hidrolik kasa",
-      "hafriyat kamyonu",
-      "kum çakıl dökme",
-      "pistonlu dorse",
-      "arkadan devirme"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 49,
-    "kategori": "lojistik",
-    "kelime": "çekici",
-    "aciklama": "kendi kasası olmayıp arkasındaki yarı römork dorseyi beşinci araç.",
-    "yasakli_kelimeler": [
-      "tır kafası",
-      "beşinci teker",
-      "dorse çeken",
-      "kamyon başı",
-      "motorlu çekici"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 50,
-    "kategori": "lojistik",
     "kelime": "tır",
-    "aciklama": "uluslararası karayolu taşımacılığında kullanılan bir çekici ile bir taşıt.",
+    "aciklama": "uzun yollarda büyük dorse çeken ağır yük taşıtı.",
     "yasakli_kelimeler": [
-      "çekici ve dorse",
-      "uzun araç",
-      "karayolu nakliyesi",
-      "kırkayak",
-      "uluslararası taşıt"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 51,
-    "kategori": "lojistik",
-    "kelime": "kamyon",
-    "aciklama": "şasisi ile kasası yekpare olan ve şehirler arasında aracı.",
-    "yasakli_kelimeler": [
-      "ağır ticari araç",
-      "kasa ve kupa",
-      "yük taşıtı",
-      "tonajlı araç",
-      "karayolu nakliye"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 52,
-    "kategori": "lojistik",
-    "kelime": "kamyonet",
-    "aciklama": "azami yüklü ağırlığı üç buçuk tonu geçmeyen ve taşıt.",
-    "yasakli_kelimeler": [
-      "üç buçuk ton altı",
-      "küçük kamyon",
-      "hafif ticari",
-      "şehir içi dağıtım",
-      "nakliye aracı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 53,
-    "kategori": "lojistik",
-    "kelime": "panelvan",
-    "aciklama": "arkası tamamen kapalı saç kasa olan ve kargo araç.",
-    "yasakli_kelimeler": [
-      "kapalı kasa araç",
-      "kargo aracı",
-      "minibüs tipi",
-      "kurye arabası",
-      "dağıtım aracı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 54,
-    "kategori": "lojistik",
-    "kelime": "kargo uçağı",
-    "aciklama": "içinde yolcu koltuğu bulunmayıp burnu veya kuyruğu açılarak uçak.",
-    "yasakli_kelimeler": [
-      "hava nakliyesi",
-      "yolcusuz uçak",
-      "hava kargosu",
-      "kargo kapısı",
-      "uçak kargo"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 55,
-    "kategori": "lojistik",
-    "kelime": "hava kargosu",
-    "aciklama": "bozulabilir taze gıdalar, aşılar veya pahalı elektroniklerin en hizmeti.",
-    "yasakli_kelimeler": [
-      "uçakla taşıma",
-      "hızlı nakliye",
-      "pahalı navlun",
-      "acil kargo",
-      "havalimanı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 56,
-    "kategori": "lojistik",
-    "kelime": "demiryolu taşımacılığı",
-    "aciklama": "maden, kömür ve konteynerlerin raylar üzerinde lokomotifler tarafından taşınması.",
-    "yasakli_kelimeler": [
-      "trenle taşıma",
-      "raylı nakliye",
-      "vagon ve lokomotif",
-      "çevreci taşımacılık",
-      "tcdd"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 57,
-    "kategori": "lojistik",
-    "kelime": "vagon",
-    "aciklama": "lokomotife bağlanarak raylar üstünde kömür, konteyner veya dökme taşıtı.",
-    "yasakli_kelimeler": [
-      "tren arabası",
-      "raylı araç",
-      "yük vagonu",
-      "lokomotif arkası",
-      "demiryolu"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 58,
-    "kategori": "lojistik",
-    "kelime": "tren katarı",
-    "aciklama": "veya iki lokomotifin arkasına dizilmiş onlarca yük vagonunun konvoyu.",
-    "yasakli_kelimeler": [
-      "vagon dizisi",
-      "yük treni",
-      "lokomotifli konvoy",
-      "uzun tren",
-      "demiryolu"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 59,
-    "kategori": "lojistik",
-    "kelime": "boru hattı",
-    "aciklama": "ham petrol ve doğalgazın yerin altından veya deniz taşınması.",
-    "yasakli_kelimeler": [
-      "petrol borusu",
-      "doğalgaz hattı",
-      "botaş",
-      "kesintisiz nakil",
-      "boru taşımacılığı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 60,
-    "kategori": "lojistik",
-    "kelime": "liman vinci",
-    "aciklama": "konteyner gemilerinden dev konteynerleri alıp rıhtımdaki tırlara yükleyen vinci.",
-    "yasakli_kelimeler": [
-      "kıyı vinci",
-      "gemi boşaltma",
-      "konteyner vinci",
-      "rıhtım vinci",
-      "sts vinç"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 61,
-    "kategori": "lojistik",
-    "kelime": "transpalet",
-    "aciklama": "çatalları paletin altına sokularak kol gücü ve hidrolik araba.",
-    "yasakli_kelimeler": [
-      "manuel transpalet",
-      "palet taşıyıcı",
-      "hidrolik pompa",
-      "çatallı araba",
-      "depo arabası"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 62,
-    "kategori": "lojistik",
-    "kelime": "konteyner mührü",
-    "aciklama": "konteyner kapı kollarına kilitlenen ve ancak varış gümrüğünde mühür.",
-    "yasakli_kelimeler": [
-      "gümrük mührü",
-      "çelik kilit",
-      "mühür numarası",
-      "yetkisiz açılma",
-      "güvenlik cıvatası"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 63,
-    "kategori": "lojistik",
-    "kelime": "kargo takip",
-    "aciklama": "müşterilerin takip numarasıyla internet üzerinden paketlerinin hangi aktarma görmesi.",
-    "yasakli_kelimeler": [
-      "takip numarası",
-      "kargo nerede",
-      "online sorgulama",
-      "gönderi takibi",
-      "barkod izleme"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 64,
-    "kategori": "lojistik",
-    "kelime": "sevkiyat irsaliyesi",
-    "aciklama": "malın araçta taşınması esnasında araçta bulunması zorunlu olan evrak.",
-    "yasakli_kelimeler": [
-      "taşıma irsaliyesi",
-      "maliye denetimi",
-      "yol belgesi",
-      "ürün miktarı",
-      "resmi kağıt"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 65,
-    "kategori": "lojistik",
-    "kelime": "sevk irsaliyesi",
-    "aciklama": "ticari malların bir yerden başka bir yere nakli belge.",
-    "yasakli_kelimeler": [
-      "irsaliye",
-      "fatura öncesi",
-      "taşınan mal listesi",
-      "maliye kontrolü",
-      "teslim kağıdı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 66,
-    "kategori": "lojistik",
-    "kelime": "fatura",
-    "aciklama": "satılan mal veya verilen lojistik hizmet karşılığında müşteriye belgesi.",
-    "yasakli_kelimeler": [
-      "mali belge",
-      "kdv",
-      "ödeme belgesi",
-      "satış kağıdı",
-      "e-fatura"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 67,
-    "kategori": "lojistik",
-    "kelime": "nakliye sigortası",
-    "aciklama": "taşınan yükün kaza, batma, devrilme veya yangın gibi poliçesi.",
-    "yasakli_kelimeler": [
-      "yük sigortası",
-      "kaza teminatı",
-      "zarar karşılama",
-      "poliçe",
-      "hasar tazmini"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 68,
-    "kategori": "lojistik",
-    "kelime": "kargo sigortası",
-    "aciklama": "gönderilen parsiyel koli veya paketlerin kaybolma ve kırılma alınması.",
-    "yasakli_kelimeler": [
-      "paket sigortası",
-      "kayıp tazminatı",
-      "güvence bedeli",
-      "kargo bedeli",
-      "sigorta"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 69,
-    "kategori": "lojistik",
-    "kelime": "hasar tutanağı",
-    "aciklama": "teslimat anında paketin ezik, ıslak veya kırık olduğunun belge.",
-    "yasakli_kelimeler": [
-      "kırık tutanağı",
-      "kurye imzası",
-      "hasar tespiti",
-      "ezik koli",
-      "tazminat belgesi"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 70,
-    "kategori": "lojistik",
-    "kelime": "hasarlı yük",
-    "aciklama": "taşıma sırasında sarsıntı, kaza veya kötü elleçleme yüzünden mallar.",
-    "yasakli_kelimeler": [
-      "kırık mal",
-      "ezilmiş koli",
-      "zarar görmüş",
-      "kusurlu teslimat",
-      "hasar"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 71,
-    "kategori": "lojistik",
-    "kelime": "kayıp yük",
-    "aciklama": "yükleme listesinde yer almasına rağmen varış noktasında araçtan kargo.",
-    "yasakli_kelimeler": [
-      "eksik koli",
-      "çalınan yük",
-      "zayi",
-      "bulunamayan paket",
-      "eksik teslimat"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 72,
-    "kategori": "lojistik",
-    "kelime": "koli bandı",
-    "aciklama": "mukavva kutuların kapaklarını sıkıca kapatıp mühürlemek için kullanılan bant.",
-    "yasakli_kelimeler": [
-      "yapışkan bant",
-      "paketleme bandı",
-      "koli kapatma",
-      "kahverengi bant",
-      "ambalaj malzemesi"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 73,
-    "kategori": "lojistik",
-    "kelime": "etiketleme",
-    "aciklama": "koli ve paletlerin üzerine barkod, teslimat adresi ve işlemi.",
-    "yasakli_kelimeler": [
-      "barkod yapıştırma",
-      "adres etiketi",
-      "kırılgan uyarısı",
-      "yön oku",
-      "tanımlama"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 74,
-    "kategori": "lojistik",
-    "kelime": "ambalajlama",
-    "aciklama": "ürünleri dış etkenlerden, nemden ve sarsıntılardan koruyacak kutu süreci.",
-    "yasakli_kelimeler": [
-      "paketleme",
-      "kutuya koyma",
-      "koruyucu ambalaj",
-      "sarım",
-      "hazırlık"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 75,
-    "kategori": "lojistik",
-    "kelime": "koruyucu ambalaj",
-    "aciklama": "hassas cam ve elektronik eşyaların kırılmasını önlemek için yastıkları.",
-    "yasakli_kelimeler": [
-      "darbe önleyici",
-      "strafor köpük",
-      "balonlu naylon",
-      "kırılmayı önleme",
-      "iç dolgu"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 76,
-    "kategori": "lojistik",
-    "kelime": "köpük dolgu",
-    "aciklama": "koli içindeki boşlukları doldurarak ürünün kutu içinde sallanmasını malzeme.",
-    "yasakli_kelimeler": [
-      "strafor taneleri",
-      "boşluk doldurma",
-      "sünger koruma",
-      "ezilme önleyici",
-      "ambalaj dolgusu"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 77,
-    "kategori": "lojistik",
-    "kelime": "baloncuklu naylon",
-    "aciklama": "üzerindeki hava dolu minik kabarcıkları patlatılabilen ve hassas rulosu.",
-    "yasakli_kelimeler": [
-      "patpat",
-      "balonlu naylon",
-      "havalı poşet",
-      "kırılgan eşya",
-      "sarım malzemesi"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 78,
-    "kategori": "lojistik",
-    "kelime": "spanzet",
-    "aciklama": "cırcırlı mekanizması sayesinde kolu çekilerek kayışın gerdirildiği ve kemer.",
-    "yasakli_kelimeler": [
-      "cırcırlı kemer",
-      "gerdirme aleti",
-      "yük bağlama",
-      "lashing aparatı",
-      "kayış gergi"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 79,
-    "kategori": "lojistik",
-    "kelime": "gümrük kapısı",
-    "aciklama": "limanlarda ve sınırlarda tırların fiziki evrak kontrolünden geçip noktası.",
-    "yasakli_kelimeler": [
-      "bariyer",
-      "hudut noktası",
-      "giriş çıkış kapısı",
-      "resmi kontrol",
-      "muayene alanı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 80,
-    "kategori": "lojistik",
-    "kelime": "kurye ağı",
-    "aciklama": "şehir içindeki doküman ve e-ticaret siparişlerini motosikletli veya teşkilatı.",
-    "yasakli_kelimeler": [
-      "motorlu kurye",
-      "aynı gün teslim",
-      "şehir içi dağıtım",
-      "kargo ağı",
-      "hızlı teslimat"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 81,
-    "kategori": "lojistik",
-    "kelime": "ekspres kargo",
-    "aciklama": "öncelikli uçak ve hızlı karayolu seferleriyle yirmi dört taşımacılığı.",
-    "yasakli_kelimeler": [
-      "hızlı teslimat",
-      "yirmi dört saatte",
-      "acil gönderi",
-      "uçak kurye",
-      "özel kargo"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "kategori": "lojistik",
-    "kelime": "koli taşımak",
-    "aciklama": "paketlenmiş karton kutuları bir yerden diğerine taşımak.",
-    "yasakli_kelimeler": [
-      "kutu",
-      "ağır",
-      "nakliye",
-      "kaldırmak",
-      "depo"
+      "çekici",
+      "dorse",
+      "otoyol",
+      "şoför",
+      "nakliye"
     ],
     "zorluk": "kolay",
-    "id": 82
+    "id": 8,
+    "kategori": "lojistik"
   },
   {
-    "kategori": "lojistik",
-    "kelime": "kamyon yüklemek",
-    "aciklama": "taşınacak malları nakliye kamyonunun kasasına doldurmak.",
+    "kelime": "kamyon",
+    "aciklama": "kasasında tonlarca yük taşıyabilen büyük motorlu kara taşıtı.",
     "yasakli_kelimeler": [
-      "tır",
       "kasa",
-      "mal doldurmak",
+      "şoför",
       "nakliye",
+      "yük",
+      "karayolu"
+    ],
+    "zorluk": "kolay",
+    "id": 9,
+    "kategori": "lojistik"
+  },
+  {
+    "kelime": "kamyonet",
+    "aciklama": "kamyona göre daha küçük boyutlu hafif ticari taşıt.",
+    "yasakli_kelimeler": [
+      "panelvan",
+      "küçük",
+      "nakliye",
+      "hafif",
       "şoför"
     ],
     "zorluk": "kolay",
-    "id": 83
+    "id": 10,
+    "kategori": "lojistik"
   },
   {
-    "kategori": "lojistik",
-    "kelime": "kargo teslim etmek",
-    "aciklama": "müşterinin siparişini adresine götürüp imza karşılığı vermek.",
+    "kelime": "panelvan",
+    "aciklama": "arkası tamamen kapalı olan şehir içi kargo taşıtı.",
     "yasakli_kelimeler": [
+      "kapalı",
+      "kargo",
       "kurye",
-      "paket",
-      "adres",
-      "imza",
-      "kapı"
+      "minibüs",
+      "araç"
     ],
     "zorluk": "kolay",
-    "id": 84
+    "id": 11,
+    "kategori": "lojistik"
   },
   {
-    "kategori": "lojistik",
-    "kelime": "depo düzenlemek",
-    "aciklama": "depodaki malları raflara tertipli ve düzenli yerleştirmek.",
+    "kelime": "kargo uçağı",
+    "aciklama": "koltuksuz gövdesinde sadece paket ve yük taşıyan uçak.",
     "yasakli_kelimeler": [
-      "raf",
-      "istif",
-      "kutu",
-      "sayım",
-      "alan"
+      "hava yolu",
+      "taşımacılık",
+      "hava kargo",
+      "uçuş",
+      "hızlı"
     ],
-    "zorluk": "kolay",
-    "id": 85
+    "zorluk": "orta",
+    "id": 12,
+    "kategori": "lojistik"
   },
   {
-    "kategori": "lojistik",
-    "kelime": "paketleme yapmak",
-    "aciklama": "ürünlerin zarar görmemesi için ambalaj malzemesiyle sarmak.",
+    "kelime": "kargo gemisi",
+    "aciklama": "okyanus aşırı ülkeler arasında çelik konteyner taşıyan dev gemi.",
     "yasakli_kelimeler": [
-      "koli bandı",
-      "ambalaj",
-      "kutuya koymak",
-      "balonlu naylon",
-      "hazırlık"
+      "liman",
+      "konteyner",
+      "deniz yolu",
+      "okyanus",
+      "rıhtım"
     ],
-    "zorluk": "kolay",
-    "id": 86
+    "zorluk": "orta",
+    "id": 13,
+    "kategori": "lojistik"
   },
   {
-    "kategori": "lojistik",
-    "kelime": "barkod okutmak",
-    "aciklama": "kolinin üzerindeki çizgili kodu optik okuyucuya taratmak.",
+    "kelime": "transpalet",
+    "aciklama": "paletleri depo içinde hidrolik çatallarıyla çekerek taşıyan tekerlekli araba.",
     "yasakli_kelimeler": [
-      "el terminali",
-      "lazer",
-      "bip sesi",
-      "etiket",
-      "sistem"
-    ],
-    "zorluk": "kolay",
-    "id": 87
-  },
-  {
-    "kategori": "lojistik",
-    "kelime": "stok saymak",
-    "aciklama": "depoda mevcut olan ürünlerin adetlerini tek tek saymak.",
-    "yasakli_kelimeler": [
-      "envanter",
-      "kaç tane var",
-      "liste",
-      "eksik",
+      "palet",
+      "çatallı",
+      "hidrolik",
+      "çekmek",
       "depo"
     ],
-    "zorluk": "kolay",
-    "id": 88
+    "zorluk": "orta",
+    "id": 14,
+    "kategori": "lojistik"
   },
   {
-    "kategori": "lojistik",
-    "kelime": "kargo takip etmek",
-    "aciklama": "gönderilen paketin hangi şubede olduğunu kod ile sorgulamak.",
+    "kelime": "forklift",
+    "aciklama": "çatallarıyla ağır paletleri kaldırıp yüksek raflara dizen makine.",
     "yasakli_kelimeler": [
-      "takip numarası",
-      "nerede",
-      "kurye",
-      "ulaşım",
+      "çatal",
+      "istif",
+      "kaldırma",
+      "operatör",
+      "depo"
+    ],
+    "zorluk": "orta",
+    "id": 15,
+    "kategori": "lojistik"
+  },
+  {
+    "kelime": "palet",
+    "aciklama": "kolilerin üstüne dizilip forkliftle taşındığı ahşap ızgara altlık.",
+    "yasakli_kelimeler": [
+      "ahşap",
+      "koli",
+      "forklift",
+      "zemin",
+      "ızgara"
+    ],
+    "zorluk": "kolay",
+    "id": 16,
+    "kategori": "lojistik"
+  },
+  {
+    "kelime": "konteyner",
+    "aciklama": "gemilere ve tırlara yüklenen standart büyük çelik yük kutusu.",
+    "yasakli_kelimeler": [
+      "gemi",
+      "liman",
+      "çelik",
+      "yük",
+      "kilit"
+    ],
+    "zorluk": "kolay",
+    "id": 17,
+    "kategori": "lojistik"
+  },
+  {
+    "kelime": "koli",
+    "aciklama": "eşyaların taşınmasında kullanılan sert mukavvadan katlanır kutu.",
+    "yasakli_kelimeler": [
+      "mukavva",
+      "karton",
+      "kutu",
+      "paket",
+      "kargo"
+    ],
+    "zorluk": "kolay",
+    "id": 18,
+    "kategori": "lojistik"
+  },
+  {
+    "kelime": "koli bandı",
+    "aciklama": "karton kutuların kapaklarını sıkıca kapatmaya yarayan yapışkan bant.",
+    "yasakli_kelimeler": [
+      "yapışkan",
+      "kahverengi",
+      "ambalaj",
+      "bant",
+      "kapatmak"
+    ],
+    "zorluk": "kolay",
+    "id": 19,
+    "kategori": "lojistik"
+  },
+  {
+    "kelime": "baloncuklu naylon",
+    "aciklama": "kırılacak cam eşyaları sarıp koruyan minik hava kabarcıklı ambalaj.",
+    "yasakli_kelimeler": [
+      "patlatmak",
+      "koruma",
+      "ambalaj",
+      "cam",
+      "köpük"
+    ],
+    "zorluk": "kolay",
+    "id": 20,
+    "kategori": "lojistik"
+  },
+  {
+    "kelime": "kargo takip",
+    "aciklama": "paketin hangi aktarma merkezinde olduğunu internetten sorgulama sistemi.",
+    "yasakli_kelimeler": [
+      "barkod",
+      "numara",
+      "sorgulama",
+      "şube",
       "internet"
     ],
     "zorluk": "kolay",
-    "id": 89
+    "id": 21,
+    "kategori": "lojistik"
   },
   {
-    "kategori": "lojistik",
-    "kelime": "palet dizmek",
-    "aciklama": "kolileri ahşap paletin üzerine düzgünce üst üste yerleştirmek.",
+    "kelime": "irsaliye",
+    "aciklama": "taşınan malın cinsi ve miktarını gösteren resmi sevk belgesi.",
     "yasakli_kelimeler": [
-      "ahşap ızgara",
-      "koli",
-      "üst üste",
-      "streç film",
-      "forklift"
-    ],
-    "zorluk": "kolay",
-    "id": 90
-  },
-  {
-    "kategori": "lojistik",
-    "kelime": "sipariş almak",
-    "aciklama": "müşterinin istediği malların listesini sisteme kaydetmek.",
-    "yasakli_kelimeler": [
-      "müşteri",
-      "talep",
-      "ürün listesi",
-      "kayıt",
-      "satış"
-    ],
-    "zorluk": "kolay",
-    "id": 91
-  },
-  {
-    "kategori": "lojistik",
-    "kelime": "etiket yapıştırmak",
-    "aciklama": "kolinin üzerine alıcı adresi ve yönlendirme etiketini tutturmak.",
-    "yasakli_kelimeler": [
-      "adres",
-      "koli üstü",
-      "alıcı bilgisi",
-      "barkod",
-      "yapışkan"
-    ],
-    "zorluk": "kolay",
-    "id": 92
-  },
-  {
-    "kategori": "lojistik",
-    "kelime": "forklift kullanmak",
-    "aciklama": "ağır paletleri çatallarıyla kaldırıp yüksek raflara dizen aracı sürmek.",
-    "yasakli_kelimeler": [
-      "çatallı istif aracı",
-      "palet kaldırma",
-      "operatör",
-      "depo içi",
-      "hidrolik"
+      "fatura",
+      "sevk",
+      "resmi",
+      "belge",
+      "taşıma"
     ],
     "zorluk": "orta",
-    "id": 93
+    "id": 22,
+    "kategori": "lojistik"
   },
   {
-    "kategori": "lojistik",
-    "kelime": "gümrükten çekmek",
-    "aciklama": "yurt dışından gelen malların yasal vergilerini ödeyip antrepodan çıkarmak.",
+    "kelime": "gümrük kapısı",
+    "aciklama": "ülke sınırlarında araçların ve malların kontrol edildiği denetim noktası.",
     "yasakli_kelimeler": [
-      "ithalat",
-      "vergi ödeme",
-      "beyanname",
-      "antrepo",
-      "ithalat izni"
+      "sınır",
+      "pasaport",
+      "muayene",
+      "vergi",
+      "tır"
     ],
     "zorluk": "orta",
-    "id": 94
+    "id": 23,
+    "kategori": "lojistik"
   },
   {
-    "kategori": "lojistik",
-    "kelime": "soğuk zinciri korumak",
-    "aciklama": "isıya duyarlı gıda ve aşıların sıcaklığını taşıma boyunca sabit tutmak.",
+    "kelime": "kurye",
+    "aciklama": "küçük paketleri ve evrakları motosikletle adrese hızla teslim eden çalışan.",
     "yasakli_kelimeler": [
-      "frigorifik tır",
-      "bozulabilir gıda",
-      "aşı ve ilaç",
-      "derece takibi",
-      "ısı kontrolü"
+      "motor",
+      "teslimat",
+      "hızlı",
+      "paket",
+      "evrak"
     ],
-    "zorluk": "orta",
-    "id": 95
+    "zorluk": "kolay",
+    "id": 24,
+    "kategori": "lojistik"
   },
   {
-    "kategori": "lojistik",
-    "kelime": "irsaliye düzenlemek",
-    "aciklama": "malların araçla taşınması sırasında araçta bulunması zorunlu resmi yazmak.",
+    "kelime": "ekspres kargo",
+    "aciklama": "uçak veya öncelikli araçlarla en hızlı şekilde yapılan teslimat.",
     "yasakli_kelimeler": [
-      "sevk belgesi",
-      "taşıma evrakı",
-      "mal teslimi",
-      "imza kaşe",
+      "hızlı",
+      "acil",
+      "teslimat",
+      "öncelikli",
+      "uçak"
+    ],
+    "zorluk": "kolay",
+    "id": 25,
+    "kategori": "lojistik"
+  },
+  {
+    "kelime": "kantar",
+    "aciklama": "ağır yük taşıyan kamyonların toplam tonajını tartan dev baskül.",
+    "yasakli_kelimeler": [
+      "tartı",
+      "ağırlık",
+      "tonaj",
+      "terazi",
       "denetim"
     ],
     "zorluk": "orta",
-    "id": 96
+    "id": 26,
+    "kategori": "lojistik"
   },
   {
-    "kategori": "lojistik",
-    "kelime": "hasar tutanağı tutmak",
-    "aciklama": "yolda hasar gören veya kırılan malları teslim anında almak.",
+    "kelime": "silo",
+    "aciklama": "tahıl, çimento veya yem saklanan devasa silindir depo kulesi.",
     "yasakli_kelimeler": [
-      "kırık koli",
-      "ezilme",
-      "sigorta tazminatı",
-      "teslimat anı",
-      "tutanak"
+      "tahıl",
+      "buğday",
+      "çimento",
+      "silindir",
+      "kule"
     ],
     "zorluk": "orta",
-    "id": 97
+    "id": 27,
+    "kategori": "lojistik"
   },
   {
-    "kategori": "lojistik",
-    "kelime": "tehlikeli yük taşımak",
-    "aciklama": "yanıcı, patlayıcı veya zehirli kimyasalları uluslararası adr regülasyonlarına göre taşımak.",
+    "kelime": "tanker",
+    "aciklama": "benzin veya sıvı kimyasal taşıyan silindirik hazneli taşıt.",
     "yasakli_kelimeler": [
-      "adr sertifikası",
-      "turuncu levha",
-      "kimyasal yanıcı",
-      "özel tanker",
-      "güvenlik protokolü"
+      "akaryakıt",
+      "benzin",
+      "süt",
+      "sıvı",
+      "tehlikeli"
     ],
-    "zorluk": "zor",
-    "id": 98
+    "zorluk": "kolay",
+    "id": 28,
+    "kategori": "lojistik"
+  },
+  {
+    "kelime": "kırılgan yük",
+    "aciklama": "sarsıntıda kolayca çatlayıp kırılabilen hassas porselen ve cam eşyalar.",
+    "yasakli_kelimeler": [
+      "cam",
+      "hasar",
+      "dikkat",
+      "koli",
+      "porselen"
+    ],
+    "zorluk": "kolay",
+    "id": 29,
+    "kategori": "lojistik"
+  },
+  {
+    "kelime": "barkod",
+    "aciklama": "paket üzerindeki çizgilerle ürün ve kargo takibi sağlayan kod.",
+    "yasakli_kelimeler": [
+      "çizgi",
+      "okuyucu",
+      "tarama",
+      "fiyat",
+      "etiket"
+    ],
+    "zorluk": "kolay",
+    "id": 30,
+    "kategori": "lojistik"
   }
 ]

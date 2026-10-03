@@ -1,1710 +1,1136 @@
 [
   {
-    "kelime": "müzikoloji",
-    "aciklama": "müziği bilimsel, tarihsel, teorik ve kültürel bağlamda inceleyen akademik disiplin.",
-    "yasakli_kelimeler": [
-      "müzik bilimi",
-      "akademik inceleme",
-      "müzik tarihi",
-      "etnomüzikoloji",
-      "müzikolog"
-    ],
     "id": 1,
     "kategori": "muzikoloji",
-    "zorluk": "kolay"
-  },
-  {
-    "kelime": "solfej",
-    "aciklama": "notaları adlarıyla ve doğru ses yükseklikleriyle okuma çalışması.",
+    "kelime": "müzikoloji",
+    "aciklama": "müziği bilimsel ve tarihsel bağlamda inceleyen akademik disiplin",
     "yasakli_kelimeler": [
-      "nota okuma",
-      "bona",
-      "kulak eğitimi",
-      "seslendirme",
-      "ses perdeleri"
+      "bilim",
+      "araştırma",
+      "tarih",
+      "teori",
+      "konservatuvar"
     ],
-    "id": 2,
-    "kategori": "muzikoloji",
-    "zorluk": "kolay"
-  },
-  {
-    "kelime": "armoni",
-    "aciklama": "aynı anda tınlayan seslerin oluşturduğu dikey uyum bilimi.",
-    "yasakli_kelimeler": [
-      "akor dizilimi",
-      "dikey uyum",
-      "tonalite",
-      "konsomans",
-      "polifoni"
-    ],
-    "id": 3,
-    "kategori": "muzikoloji",
-    "zorluk": "kolay"
-  },
-  {
-    "kelime": "polifoni",
-    "aciklama": "birden çok bağımsız ezgisel çizginin oluşturduğu çok seslilik.",
-    "yasakli_kelimeler": [
-      "çok seslilik",
-      "kontrpuan",
-      "homofoni",
-      "monofoni",
-      "bağımsız ezgi"
-    ],
-    "id": 4,
-    "kategori": "muzikoloji",
-    "zorluk": "kolay"
-  },
-  {
-    "kelime": "makam",
-    "aciklama": "türk ve doğu müziklerinde perde dizilimi ve seyir modeli.",
-    "yasakli_kelimeler": [
-      "seyir",
-      "rast",
-      "nihavend",
-      "dizi ve perde",
-      "karar sesi"
-    ],
-    "id": 5,
-    "kategori": "muzikoloji",
-    "zorluk": "kolay"
-  },
-  {
-    "kelime": "seyir",
-    "aciklama": "türk müziğinde bir tam sesin dokuzda birine denk gelen koma.",
-    "yasakli_kelimeler": [
-      "inici çıkıcı",
-      "makam hareketi",
-      "ezgi yolu",
-      "başlangıç karar",
-      "melodik yön"
-    ],
-    "id": 6,
-    "kategori": "muzikoloji",
     "zorluk": "orta"
   },
   {
-    "kelime": "akustik",
-    "aciklama": "müzik eserinin vuruş hızını ve icra temposunu belirleyen tempo.",
+    "id": 2,
+    "kategori": "muzikoloji",
+    "kelime": "solfej",
+    "aciklama": "notaları adları ve ses yükseklikleriyle doğru okuma çalışması",
     "yasakli_kelimeler": [
-      "ses fiziği",
-      "tınlama",
-      "yankılanma",
-      "mekan sesi",
-      "dalga yayılımı"
+      "nota",
+      "okuma",
+      "şan",
+      "ses",
+      "ders"
     ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 3,
+    "kategori": "muzikoloji",
+    "kelime": "armoni",
+    "aciklama": "aynı anda duyulan seslerin oluşturduğu dikey uyum bilimi",
+    "yasakli_kelimeler": [
+      "uyum",
+      "akor",
+      "ses",
+      "dizi",
+      "müzik"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 4,
+    "kategori": "muzikoloji",
+    "kelime": "polifoni",
+    "aciklama": "birden fazla bağımsız ezginin oluşturduğu çok seslilik",
+    "yasakli_kelimeler": [
+      "çok sesli",
+      "ezgi",
+      "melodi",
+      "koro",
+      "bağımsız"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 5,
+    "kategori": "muzikoloji",
+    "kelime": "makam",
+    "aciklama": "klasik türk müziğinde ses dizisi ve perde kuralı",
+    "yasakli_kelimeler": [
+      "türk müziği",
+      "hicaz",
+      "nihavend",
+      "dizi",
+      "perde"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 6,
+    "kategori": "muzikoloji",
+    "kelime": "akustik",
+    "aciklama": "sesin salonda yayılma ve yankılanma özelliklerini inceleyen alan",
+    "yasakli_kelimeler": [
+      "ses",
+      "yansıma",
+      "salon",
+      "yankı",
+      "yalıtım"
+    ],
+    "zorluk": "kolay"
+  },
+  {
     "id": 7,
     "kategori": "muzikoloji",
-    "zorluk": "kolay"
+    "kelime": "kanon",
+    "aciklama": "aynı melodinin farklı zamanlarda yinelenerek çalındığı beste türü",
+    "yasakli_kelimeler": [
+      "tekrar",
+      "melodi",
+      "taklit",
+      "koro",
+      "beste"
+    ],
+    "zorluk": "orta"
   },
   {
-    "kelime": "rezonans",
-    "aciklama": "müziğin hızını sarkaç veya dijital sinyalle belirleyen mekanik metronom.",
-    "yasakli_kelimeler": [
-      "titreşim uyumu",
-      "tınlaşım",
-      "gövde tınlaması",
-      "frekans çakışması",
-      "genlik artışı"
-    ],
     "id": 8,
     "kategori": "muzikoloji",
-    "zorluk": "kolay"
+    "kelime": "sonat",
+    "aciklama": "bir veya iki enstrüman için bestelenmiş enstrümantal eser",
+    "yasakli_kelimeler": [
+      "klasik",
+      "piyano",
+      "bölüm",
+      "enstrüman",
+      "beste"
+    ],
+    "zorluk": "orta"
   },
   {
-    "kelime": "taksim",
-    "aciklama": "bir müzik parçasının merkez aldığı temel anahtar nota ve tonalite.",
-    "yasakli_kelimeler": [
-      "doğaçlama solo",
-      "makam tanıtımı",
-      "usulsüz icra",
-      "giriş müziği",
-      "serbest form"
-    ],
     "id": 9,
     "kategori": "muzikoloji",
+    "kelime": "senfoni",
+    "aciklama": "büyük orkestra için yazılmış çok bölümlü uzun eser",
+    "yasakli_kelimeler": [
+      "orkestra",
+      "beethoven",
+      "beste",
+      "klasik",
+      "şef"
+    ],
     "zorluk": "kolay"
   },
   {
-    "kelime": "usul",
-    "aciklama": "aynı anda tınlayan en az üç farklı sesin birleşimi akor.",
-    "yasakli_kelimeler": [
-      "ritim kalıbı",
-      "düyek",
-      "aksak",
-      "düm tek",
-      "vuruş döngüsü"
-    ],
     "id": 10,
     "kategori": "muzikoloji",
-    "zorluk": "kolay"
+    "kelime": "konçerto",
+    "aciklama": "solo bir çalgının orkestraya eşlik ettiği klasik beste",
+    "yasakli_kelimeler": [
+      "solo",
+      "orkestra",
+      "çalgı",
+      "piyano",
+      "keman"
+    ],
+    "zorluk": "orta"
   },
   {
-    "kelime": "kanon",
-    "aciklama": "kulağa gergin ve çözülme ihtiyacı hissettiren uyumsuz tını disonans.",
-    "yasakli_kelimeler": [
-      "birebir taklit",
-      "polifonik kural",
-      "ardışık melodi",
-      "fuga öncülü",
-      "ses yankısı"
-    ],
     "id": 11,
     "kategori": "muzikoloji",
-    "zorluk": "kolay"
+    "kelime": "uvertür",
+    "aciklama": "opera ve bale gösterilerinin başındaki enstrümantal giriş müziği",
+    "yasakli_kelimeler": [
+      "giriş",
+      "opera",
+      "başlangıç",
+      "orkestra",
+      "perde"
+    ],
+    "zorluk": "orta"
   },
   {
-    "kelime": "sonat",
-    "aciklama": "müzik cümlesinin sonundaki durak ve dinlenme hissi kadans.",
-    "yasakli_kelimeler": [
-      "sonat allegrosu",
-      "oda müziği",
-      "üç bölümlü",
-      "klasik form",
-      "çalgısal eser"
-    ],
     "id": 12,
     "kategori": "muzikoloji",
-    "zorluk": "kolay"
+    "kelime": "prelüd",
+    "aciklama": "büyük bir müzik eserinin başında çalınan giriş parçası",
+    "yasakli_kelimeler": [
+      "giriş",
+      "parça",
+      "piyano",
+      "chopin",
+      "beste"
+    ],
+    "zorluk": "orta"
   },
   {
-    "kelime": "senfoni",
-    "aciklama": "aynı yükseklikteki sesleri farklı enstrümanlardan ayıran tını kalitesi.",
-    "yasakli_kelimeler": [
-      "orkestra eseri",
-      "dört bölüm",
-      "büyük form",
-      "beethoven",
-      "filarmoni"
-    ],
     "id": 13,
     "kategori": "muzikoloji",
-    "zorluk": "kolay"
+    "kelime": "etüt",
+    "aciklama": "müzisyenin tekniğini geliştirmek için yazılmış alıştırma bestesi",
+    "yasakli_kelimeler": [
+      "alıştırma",
+      "teknik",
+      "çalışma",
+      "enstrüman",
+      "parça"
+    ],
+    "zorluk": "orta"
   },
   {
-    "kelime": "koncerto",
-    "aciklama": "bir enstrümanın veya sesin çıkarabildiği en pes ve tiz aralık.",
-    "yasakli_kelimeler": [
-      "solo orkestra",
-      "solist eseri",
-      "üç bölüm",
-      "virtüözite",
-      "orkestra eşliği"
-    ],
     "id": 14,
     "kategori": "muzikoloji",
+    "kelime": "tempo",
+    "aciklama": "bir müzik eserinin çalınışındaki vuruş ve hız derecesi",
+    "yasakli_kelimeler": [
+      "hız",
+      "vuruş",
+      "ritim",
+      "metronom",
+      "çabuk"
+    ],
     "zorluk": "kolay"
   },
   {
-    "kelime": "uvertur",
-    "aciklama": "enstrümanın ses rengini ve tizliğini belirleyen doğal harmonikler.",
-    "yasakli_kelimeler": [
-      "giriş müziği",
-      "açılış parçası",
-      "opera başlangıcı",
-      "prelude",
-      "orkestra girişi"
-    ],
     "id": 15,
     "kategori": "muzikoloji",
+    "kelime": "metronom",
+    "aciklama": "tempoyu düzenli tıkırtılarla belirleyen ritim ölçer alet",
+    "yasakli_kelimeler": [
+      "ritim",
+      "tıkırtı",
+      "sarkaç",
+      "tempo",
+      "alet"
+    ],
     "zorluk": "kolay"
   },
   {
-    "kelime": "prelud",
-    "aciklama": "belirli bir frekansta ses dalgalarının rezonansla güçlenmesi durumu.",
-    "yasakli_kelimeler": [
-      "giriş eseri",
-      "ön deyiş",
-      "serbest parça",
-      "fuga öncesi",
-      "piyano minyatürü"
-    ],
     "id": 16,
     "kategori": "muzikoloji",
-    "zorluk": "kolay"
+    "kelime": "allegro",
+    "aciklama": "müziğin neşeli ve hızlı tempoda çalınmasını gösteren terim",
+    "yasakli_kelimeler": [
+      "hızlı",
+      "neşeli",
+      "canlı",
+      "tempo",
+      "italyanca"
+    ],
+    "zorluk": "orta"
   },
   {
-    "kelime": "etut",
-    "aciklama": "müzikte sesin şiddetini ve gürlük derecelerini belirten dinamikler.",
-    "yasakli_kelimeler": [
-      "teknik alıştırma",
-      "çalışma parçası",
-      "virtüöz parça",
-      "czerny",
-      "parmak egzersizi"
-    ],
     "id": 17,
     "kategori": "muzikoloji",
-    "zorluk": "kolay"
+    "kelime": "andante",
+    "aciklama": "eserin sakin bir yürüyüş temposunda icra edilmesini belirten terim",
+    "yasakli_kelimeler": [
+      "yürüyüş",
+      "sakin",
+      "ağır",
+      "tempo",
+      "orta"
+    ],
+    "zorluk": "orta"
   },
   {
-    "kelime": "tempo",
-    "aciklama": "müzikte ses şiddetinin giderek azalması ve hafiflemesi dekreşendo.",
-    "yasakli_kelimeler": [
-      "hız derecesi",
-      "metronom",
-      "allegro",
-      "andante",
-      "zaman birimi"
-    ],
     "id": 18,
     "kategori": "muzikoloji",
-    "zorluk": "kolay"
+    "kelime": "adagio",
+    "aciklama": "müziğin çok ağır ve duygusal tempoda çalınacağını belirten terim",
+    "yasakli_kelimeler": [
+      "yavaş",
+      "ağır",
+      "duygusal",
+      "tempo",
+      "hüzünlü"
+    ],
+    "zorluk": "orta"
   },
   {
-    "kelime": "metronom",
-    "aciklama": "notaların birbirine bağlı ve pürüzsüz icra edilmesi legato.",
-    "yasakli_kelimeler": [
-      "zaman ölçer",
-      "tıklama aleti",
-      "bpm",
-      "hız belirteci",
-      "vuruş sayacı"
-    ],
     "id": 19,
     "kategori": "muzikoloji",
-    "zorluk": "kolay"
-  },
-  {
-    "kelime": "allegro",
-    "aciklama": "notaların birbirinden kesik kesik ve ayrı çalınması stakkato.",
-    "yasakli_kelimeler": [
-      "hızlı tempo",
-      "coşkulu",
-      "andante zıttı",
-      "presto altı",
-      "canlı icra"
-    ],
-    "id": 20,
-    "kategori": "muzikoloji",
-    "zorluk": "kolay"
-  },
-  {
-    "kelime": "andante",
-    "aciklama": "belirli bir notanın diğerlerine göre daha güçlü vurulması aksan.",
-    "yasakli_kelimeler": [
-      "yürüyüş temposu",
-      "orta hız",
-      "sakin tempo",
-      "ağırbaşlı",
-      "allegro yavaşı"
-    ],
-    "id": 21,
-    "kategori": "muzikoloji",
-    "zorluk": "kolay"
-  },
-  {
-    "kelime": "adagio",
-    "aciklama": "bir notanın hızla titreştirilerek tekrarlanması tekniği tremolo.",
-    "yasakli_kelimeler": [
-      "çok yavaş",
-      "ağır tempo",
-      "largo yakını",
-      "dingin icra",
-      "duygusal yavaşlık"
-    ],
-    "id": 22,
-    "kategori": "muzikoloji",
-    "zorluk": "kolay"
-  },
-  {
     "kelime": "presto",
-    "aciklama": "ses yüksekliğinin periyodik olarak hafifçe dalgalandırılması vibrato.",
+    "aciklama": "eserin son derece acele ve hızlı çalınacağını bildiren terim",
     "yasakli_kelimeler": [
       "çok hızlı",
-      "süratli",
-      "allegro üstü",
-      "fırtına gibi",
-      "hızlı vuruş"
+      "acele",
+      "tempo",
+      "çabuk",
+      "italyanca"
     ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 20,
+    "kategori": "muzikoloji",
+    "kelime": "crescendo",
+    "aciklama": "ses şiddetinin giderek yükselip kuvvetlenmesi",
+    "yasakli_kelimeler": [
+      "ses",
+      "yükselme",
+      "kuvvetli",
+      "gürlük",
+      "artış"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 21,
+    "kategori": "muzikoloji",
+    "kelime": "decrescendo",
+    "aciklama": "ses şiddetinin giderek kısılarak hafiflemesi",
+    "yasakli_kelimeler": [
+      "kısılma",
+      "azalma",
+      "hafif",
+      "yumuşak",
+      "alçalma"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 22,
+    "kategori": "muzikoloji",
+    "kelime": "staccato",
+    "aciklama": "notaların birbirine bağlanmadan kesik ve sıçramalı çalınması",
+    "yasakli_kelimeler": [
+      "kesik",
+      "nokta",
+      "kısa",
+      "sıçrama",
+      "tuşe"
+    ],
+    "zorluk": "orta"
+  },
+  {
     "id": 23,
     "kategori": "muzikoloji",
-    "zorluk": "kolay"
+    "kelime": "legato",
+    "aciklama": "notaların kesilmeden birbirine pürüzsüzce bağlanarak çalınması",
+    "yasakli_kelimeler": [
+      "bağlı",
+      "akıcı",
+      "yumuşak",
+      "kesintisiz",
+      "bağ"
+    ],
+    "zorluk": "orta"
   },
   {
-    "kelime": "crescendo",
-    "aciklama": "bir notadan diğerine kayarak ve sürükleyerek geçme tekniği glissando.",
-    "yasakli_kelimeler": [
-      "ses yükselmesi",
-      "gürleşme",
-      "volüm artışı",
-      "decrescendo zıttı",
-      "kademeli gürlük"
-    ],
     "id": 24,
     "kategori": "muzikoloji",
-    "zorluk": "kolay"
+    "kelime": "vibrato",
+    "aciklama": "seste veya enstrümanda hafif dalgalanmayla yapılan süsleme",
+    "yasakli_kelimeler": [
+      "titreşim",
+      "dalgalanma",
+      "ses",
+      "süsleme",
+      "keman"
+    ],
+    "zorluk": "orta"
   },
   {
-    "kelime": "decrescendo",
-    "aciklama": "melodiye estetik katmak için eklenen küçük süsleme notaları.",
-    "yasakli_kelimeler": [
-      "ses alçalması",
-      "hafifleme",
-      "diminuendo",
-      "volüm düşüşü",
-      "crescendo zıttı"
-    ],
     "id": 25,
     "kategori": "muzikoloji",
-    "zorluk": "kolay"
+    "kelime": "arpej",
+    "aciklama": "akordaki notaların aynı anda değil sırayla çalınması",
+    "yasakli_kelimeler": [
+      "akor",
+      "sırayla",
+      "gitar",
+      "parmak",
+      "dizi"
+    ],
+    "zorluk": "orta"
   },
   {
-    "kelime": "staccato",
-    "aciklama": "ana nota ile komşu nota arasında hızlı gidip gelme trili.",
-    "yasakli_kelimeler": [
-      "kesik çalma",
-      "ayrık sesler",
-      "noktalı nota",
-      "legato zıttı",
-      "kopuk vuruş"
-    ],
     "id": 26,
     "kategori": "muzikoloji",
+    "kelime": "akort",
+    "aciklama": "çalgı tellerini doğru ses frekansına ayarlama işlemi",
+    "yasakli_kelimeler": [
+      "tel",
+      "ayar",
+      "düzen",
+      "ses",
+      "çalgı"
+    ],
     "zorluk": "kolay"
   },
   {
-    "kelime": "legato",
-    "aciklama": "notaların üzerine yazıldığı beş paralel çizgi ve dört aralık.",
-    "yasakli_kelimeler": [
-      "bağlı çalma",
-      "akıcı icra",
-      "kesintisiz ses",
-      "staccato zıttı",
-      "bağ işareti"
-    ],
     "id": 27,
     "kategori": "muzikoloji",
+    "kelime": "oktav",
+    "aciklama": "aynı adı taşıyan iki ses arasındaki sekiz notalık aralık",
+    "yasakli_kelimeler": [
+      "sekiz",
+      "aralık",
+      "ince",
+      "kalın",
+      "perde"
+    ],
     "zorluk": "kolay"
   },
   {
-    "kelime": "vibrato",
-    "aciklama": "tiz sesleri ve melodileri göstermek için kullanılan sol anahtarı.",
-    "yasakli_kelimeler": [
-      "ses titreşimi",
-      "perde dalgalanması",
-      "keman parmak titremesi",
-      "ses salınımı",
-      "sıcak tını"
-    ],
     "id": 28,
     "kategori": "muzikoloji",
-    "zorluk": "kolay"
-  },
-  {
-    "kelime": "arpej",
-    "aciklama": "orta sesleri göstermek için kullanılan do anahtarı türü.",
-    "yasakli_kelimeler": [
-      "kırık akor",
-      "akor ayrıştırma",
-      "sıralı sesler",
-      "gitar çalımı",
-      "arp tekniği"
-    ],
-    "id": 29,
-    "kategori": "muzikoloji",
-    "zorluk": "kolay"
-  },
-  {
-    "kelime": "akort",
-    "aciklama": "notanın sesini yarım ses incelten değiştirici diyez işareti.",
-    "yasakli_kelimeler": [
-      "ses ayarı",
-      "düzen tutma",
-      "diyapazon",
-      "tel germe",
-      "enstrüman ayarı"
-    ],
-    "id": 30,
-    "kategori": "muzikoloji",
-    "zorluk": "kolay"
-  },
-  {
-    "kelime": "oktav",
-    "aciklama": "bir müzik kompozisyonunda tekrarlanan en küçük melodik çekirdek motif.",
-    "yasakli_kelimeler": [
-      "sekizli aralık",
-      "iki kat frekans",
-      "aynı nota",
-      "gam çevrimi",
-      "ince kalın oktav"
-    ],
-    "id": 31,
-    "kategori": "muzikoloji",
-    "zorluk": "kolay"
-  },
-  {
     "kelime": "gam",
-    "aciklama": "müzik eserinin ana fikrini taşıyan belirgin melodik tema.",
+    "aciklama": "notaların kalından inceye doğru sırayla dizildiği dizi",
     "yasakli_kelimeler": [
       "dizi",
-      "skala",
-      "ses merdiveni",
+      "merdiven",
       "do re mi",
-      "oktav dizilimi"
+      "sıralama",
+      "ses"
     ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 29,
+    "kategori": "muzikoloji",
+    "kelime": "akor",
+    "aciklama": "aynı anda tınlayan en az üç farklı sesin uyumu",
+    "yasakli_kelimeler": [
+      "ses",
+      "gitar",
+      "piyano",
+      "basmak",
+      "üçlü"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 30,
+    "kategori": "muzikoloji",
+    "kelime": "koro",
+    "aciklama": "birlikte şarkı söyleyen çok sesli vokal topluluğu",
+    "yasakli_kelimeler": [
+      "topluluk",
+      "şarkı",
+      "vokal",
+      "şef",
+      "birlikte"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 31,
+    "kategori": "muzikoloji",
+    "kelime": "soprano",
+    "aciklama": "en ince ve tiz kadın ve çocuk ses türü",
+    "yasakli_kelimeler": [
+      "kadın",
+      "ince",
+      "tiz",
+      "ses",
+      "opera"
+    ],
+    "zorluk": "kolay"
+  },
+  {
     "id": 32,
     "kategori": "muzikoloji",
-    "zorluk": "kolay"
+    "kelime": "alto",
+    "aciklama": "kadın seslerinin en pes ve kalın olan ses grubu",
+    "yasakli_kelimeler": [
+      "kadın",
+      "kalın",
+      "pes",
+      "ses",
+      "orta"
+    ],
+    "zorluk": "orta"
   },
   {
-    "kelime": "akor",
-    "aciklama": "solo enstrüman ile orkestra için bestelenen çok bölümlü eser.",
-    "yasakli_kelimeler": [
-      "üç ses",
-      "armonik tını",
-      "majör akor",
-      "armoni temeli",
-      "basma kalıbı"
-    ],
     "id": 33,
     "kategori": "muzikoloji",
+    "kelime": "tenor",
+    "aciklama": "erkek seslerinin en ince ve tiz olan grubu",
+    "yasakli_kelimeler": [
+      "erkek",
+      "ince",
+      "tiz",
+      "şarkıcı",
+      "pavarotti"
+    ],
     "zorluk": "kolay"
   },
   {
-    "kelime": "koro",
-    "aciklama": "tiyatro, dekor ve klasik müziğin birleştiği sahne sanatı opera.",
-    "yasakli_kelimeler": [
-      "vokal topluluk",
-      "soprano alto",
-      "ses korosu",
-      "birlikte şarkı",
-      "şef yönetimi"
-    ],
     "id": 34,
     "kategori": "muzikoloji",
-    "zorluk": "kolay"
+    "kelime": "bariton",
+    "aciklama": "erkeklerde tenor ile bas arasındaki orta ses kalınlığı",
+    "yasakli_kelimeler": [
+      "erkek",
+      "orta",
+      "ses",
+      "pes",
+      "şarkıcı"
+    ],
+    "zorluk": "orta"
   },
   {
-    "kelime": "soprano",
-    "aciklama": "operada solistin duygularını orkestra eşliğinde söylediği lirik arya.",
-    "yasakli_kelimeler": [
-      "en tiz ses",
-      "kadın sesi",
-      "koloratur",
-      "koro partisi",
-      "tiz vokal"
-    ],
     "id": 35,
     "kategori": "muzikoloji",
+    "kelime": "bas",
+    "aciklama": "erkek seslerinin en kalın ve pes olanı",
+    "yasakli_kelimeler": [
+      "kalın",
+      "pes",
+      "erkek",
+      "en kalın",
+      "ses"
+    ],
     "zorluk": "kolay"
   },
   {
-    "kelime": "alto",
-    "aciklama": "operada konuşma temposunda ve serbest ritimle söylenen resitatif.",
-    "yasakli_kelimeler": [
-      "pes kadın sesi",
-      "kontralto",
-      "orta ses",
-      "koroda ses",
-      "kalın kadın tonu"
-    ],
     "id": 36,
     "kategori": "muzikoloji",
-    "zorluk": "kolay"
+    "kelime": "requiem",
+    "aciklama": "ölenlerin anısına bestelenen dini yas müziği eseri",
+    "yasakli_kelimeler": [
+      "ölüm",
+      "yas",
+      "mozart",
+      "dua",
+      "koro"
+    ],
+    "zorluk": "orta"
   },
   {
-    "kelime": "tenor",
-    "aciklama": "orkestra, solistler ve koro için yazılmış dini oratoryo eseri.",
-    "yasakli_kelimeler": [
-      "tiz erkek sesi",
-      "opera solisti",
-      "pavarotti",
-      "pes olmayan erkek",
-      "vokal perde"
-    ],
     "id": 37,
     "kategori": "muzikoloji",
-    "zorluk": "kolay"
+    "kelime": "libretto",
+    "aciklama": "opera veya müzikallerin kaleme alınmış metin ve sözleri",
+    "yasakli_kelimeler": [
+      "opera",
+      "metin",
+      "söz",
+      "tiyatro",
+      "yazar"
+    ],
+    "zorluk": "orta"
   },
   {
-    "kelime": "bariton",
-    "aciklama": "klasik bale gösterileri için özel olarak bestelenen bale müziği.",
-    "yasakli_kelimeler": [
-      "orta erkek sesi",
-      "tenor bas arası",
-      "erkek vokal",
-      "orta tını",
-      "opera karakteri"
-    ],
     "id": 38,
     "kategori": "muzikoloji",
+    "kelime": "arya",
+    "aciklama": "operada solistin orkestra eşliğinde söylediği lirik şarkı",
+    "yasakli_kelimeler": [
+      "opera",
+      "solist",
+      "şarkı",
+      "şan",
+      "orkestra"
+    ],
     "zorluk": "kolay"
   },
   {
-    "kelime": "bas",
-    "aciklama": "enstrümanların tek tek veya birlikte çaldığı oda müziği.",
-    "yasakli_kelimeler": [
-      "en pes ses",
-      "kalın erkek sesi",
-      "derin ton",
-      "bariton altı",
-      "pes perde"
-    ],
     "id": 39,
     "kategori": "muzikoloji",
+    "kelime": "sol anahtarı",
+    "aciklama": "portenin ikinci çizgisinden başlayan tiz ses anahtarı",
+    "yasakli_kelimeler": [
+      "porte",
+      "başlangıç",
+      "nota",
+      "çizgi",
+      "tiz"
+    ],
     "zorluk": "kolay"
   },
   {
-    "kelime": "requiem",
-    "aciklama": "orkestranın tüm partisyonlarını bir arada gösteren büyük şef notası.",
-    "yasakli_kelimeler": [
-      "cenaze marşı",
-      "ölüm ayini",
-      "mozart",
-      "ağıt yapıtı",
-      "katolik müziği"
-    ],
     "id": 40,
     "kategori": "muzikoloji",
-    "zorluk": "kolay"
+    "kelime": "fa anahtarı",
+    "aciklama": "pes ve kalın sesleri göstermek için kullanılan anahtar",
+    "yasakli_kelimeler": [
+      "pes",
+      "kalın",
+      "çello",
+      "bas",
+      "anahtar"
+    ],
+    "zorluk": "orta"
   },
   {
-    "kelime": "libretto",
-    "aciklama": "a 440 hz frekansını veren ses çatalı akort aleti diyapazon.",
-    "yasakli_kelimeler": [
-      "opera metni",
-      "söz yazarı",
-      "senaryo",
-      "eser metni",
-      "librettist"
-    ],
     "id": 41,
     "kategori": "muzikoloji",
+    "kelime": "nota",
+    "aciklama": "müzik seslerinin perdesini ve süresini gösteren grafik işaret",
+    "yasakli_kelimeler": [
+      "porte",
+      "do re mi",
+      "yazı",
+      "müzik",
+      "işaret"
+    ],
     "zorluk": "kolay"
   },
   {
-    "kelime": "senkop",
-    "aciklama": "müzikte zayıf bir vuruşun vurgulanarak kuvvetli vuruşun aksatılmasıyla.",
-    "yasakli_kelimeler": [
-      "aksatma",
-      "ritim kayması",
-      "zayıf vuruş",
-      "vurgu şaşırtması",
-      "caz ritmi"
-    ],
     "id": 42,
     "kategori": "muzikoloji",
+    "kelime": "sus işareti",
+    "aciklama": "müzikte belirli bir süre boyunca sessiz kalınacağını belirten işaret",
+    "yasakli_kelimeler": [
+      "sessizlik",
+      "durak",
+      "vuruş",
+      "es",
+      "nota"
+    ],
     "zorluk": "kolay"
   },
   {
-    "kelime": "arya",
-    "aciklama": "operada ana karakterlerin derin duygularını ifade etmek için.",
-    "yasakli_kelimeler": [
-      "opera şarkısı",
-      "büyük solo",
-      "resitatif ardı",
-      "solist parçası",
-      "dramatik ezgi"
-    ],
     "id": 43,
     "kategori": "muzikoloji",
-    "zorluk": "kolay"
+    "kelime": "ölçü çizgisi",
+    "aciklama": "notaları eşit zamanlı bölümlere ayıran dikey çizgi",
+    "yasakli_kelimeler": [
+      "porte",
+      "çizgi",
+      "bölüm",
+      "vuruş",
+      "zaman"
+    ],
+    "zorluk": "orta"
   },
   {
-    "kelime": "leitmotif",
-    "aciklama": "bir operada veya müzikal dramda belirli bir karakteri,.",
-    "yasakli_kelimeler": [
-      "karakter teması",
-      "wagner",
-      "hatırlatıcı ezgi",
-      "film müziği motifi",
-      "sabit fikir"
-    ],
     "id": 44,
     "kategori": "muzikoloji",
+    "kelime": "diyez",
+    "aciklama": "önüne geldiği notayı yarım ses tizleştiren değiştirici işaret",
+    "yasakli_kelimeler": [
+      "tiz",
+      "yarım ses",
+      "inceltme",
+      "işaret",
+      "nota"
+    ],
     "zorluk": "kolay"
   },
   {
     "id": 45,
     "kategori": "muzikoloji",
-    "kelime": "sol anahtarı",
-    "aciklama": "portenin ikinci çizgisinden başlayarak çizilen ve ince tiz.",
+    "kelime": "bemol",
+    "aciklama": "önüne geldiği notayı yarım ses kalınlaştıran değiştirici işaret",
     "yasakli_kelimeler": [
-      "ikinci çizgi",
-      "tiz sesler",
-      "keman ve flüt",
-      "porte başı",
-      "müzik simgesi"
+      "pes",
+      "yarım ses",
+      "kalınlaştırma",
+      "b harfi",
+      "nota"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 46,
     "kategori": "muzikoloji",
-    "kelime": "fa anahtarı",
-    "aciklama": "portenin dördüncü çizgisine konarak çello, kontrbas ve bas.",
+    "kelime": "natürel",
+    "aciklama": "diyez veya bemol almış notayı asıl perdesine döndüren işaret",
     "yasakli_kelimeler": [
-      "dördüncü çizgi",
-      "bas sesler",
-      "çello kontrbas",
-      "kalın sesler",
-      "porte anahtarı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 47,
-    "kategori": "muzikoloji",
-    "kelime": "do anahtarı",
-    "aciklama": "viyola gibi orta ses aralığındaki enstrümanlar için portenin.",
-    "yasakli_kelimeler": [
-      "üçüncü çizgi",
-      "viyola",
-      "orta sesler",
-      "anahtar türü",
-      "porte"
+      "doğal",
+      "iptal",
+      "işaret",
+      "perde",
+      "nota"
     ],
     "zorluk": "orta"
   },
   {
-    "id": 48,
+    "id": 47,
     "kategori": "muzikoloji",
-    "kelime": "nota",
-    "aciklama": "bir müzik sesinin perdesini ve süresini porte üzerinde.",
+    "kelime": "tını",
+    "aciklama": "farklı enstrümanların aynı notayı çalarken çıkardığı ses rengi",
     "yasakli_kelimeler": [
-      "müzik yazısı",
-      "do re mi",
-      "ses işareti",
-      "porte üzeri",
-      "çalgı çalma"
+      "ses",
+      "renk",
+      "enstrüman",
+      "fark",
+      "özellik"
     ],
     "zorluk": "kolay"
   },
   {
+    "id": 48,
+    "kategori": "muzikoloji",
+    "kelime": "dinamik",
+    "aciklama": "sesin yumuşaklıktan gürlüğe kadar değişen şiddet derecesi",
+    "yasakli_kelimeler": [
+      "şiddet",
+      "gürlük",
+      "forte",
+      "piyano",
+      "seviye"
+    ],
+    "zorluk": "orta"
+  },
+  {
     "id": 49,
     "kategori": "muzikoloji",
-    "kelime": "sus işareti",
-    "aciklama": "müzik akışı içinde belirli bir süre boyunca hiçbir.",
+    "kelime": "vals",
+    "aciklama": "üç dörtlük ölçüde dönerek yapılan klasik salon dansı",
     "yasakli_kelimeler": [
-      "es",
-      "sessizlik sembolü",
-      "çalmayı durdurma",
-      "duraklama",
-      "nota süresi"
+      "dans",
+      "üç dörtlük",
+      "viyana",
+      "dönmek",
+      "strauss"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 50,
     "kategori": "muzikoloji",
-    "kelime": "ölçü çizgisi",
-    "aciklama": "porteyi dikey olarak keserek eşit zaman ve vuruş.",
+    "kelime": "bale müziği",
+    "aciklama": "balerinlerin koreografisine eşlik etmek üzere bestelenmiş klasik müzik",
     "yasakli_kelimeler": [
-      "dikey çizgi",
-      "ölçü ayırıcı",
-      "porte bölmesi",
-      "vuruş sayısı",
-      "çift çizgi"
+      "bale",
+      "dans",
+      "kuğu gölü",
+      "balerin",
+      "müzik"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 51,
     "kategori": "muzikoloji",
-    "kelime": "arıza işareti",
-    "aciklama": "önüne geldiği notayı yarım ses tizleştiren veya pesleştiren.",
+    "kelime": "opera",
+    "aciklama": "baştan sona müzik ve aryalarla sahnelenen dramatik sahne sanatı",
     "yasakli_kelimeler": [
-      "diyez bemol",
-      "ses değiştirici",
-      "yarım ton",
-      "natürel",
-      "nota önü"
+      "sahne",
+      "arya",
+      "solist",
+      "tiyatro",
+      "orkestra"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 52,
     "kategori": "muzikoloji",
-    "kelime": "diyez",
-    "aciklama": "önüne konulduğu müzik notasını yarım ses tizleştirerek incelten.",
+    "kelime": "müzikal",
+    "aciklama": "popüler şarkı ve danslarla tiyatronun harmanlandığı gösteri",
     "yasakli_kelimeler": [
-      "yarım ses ince",
-      "tizleştirme",
-      "kare simgesi",
-      "bemol zıttı",
-      "arıza"
+      "broadway",
+      "tiyatro",
+      "şarkı",
+      "dans",
+      "sahne"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 53,
     "kategori": "muzikoloji",
-    "kelime": "bemol",
-    "aciklama": "önüne konulduğu notanın perdesini yarım ses pesleştirerek kalınlaştıran.",
+    "kelime": "orkestra",
+    "aciklama": "farklı çalgıların bir şef yönetiminde çaldığı büyük topluluk",
     "yasakli_kelimeler": [
-      "yarım ses kalın",
-      "pesleştirme",
-      "küçük b harfi",
-      "diyez zıttı",
-      "arıza"
+      "çalgı",
+      "şef",
+      "senfoni",
+      "keman",
+      "topluluk"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 54,
     "kategori": "muzikoloji",
-    "kelime": "natürel",
-    "aciklama": "daha önce diyez veya bemol almış bir notayı.",
+    "kelime": "filarmoni",
+    "aciklama": "klasik müzik konserleri organize eden köklü müzik derneği",
     "yasakli_kelimeler": [
-      "bekar",
-      "doğal ses",
-      "diyez iptali",
-      "orijinal nota",
-      "arızayı kaldıran"
+      "orkestra",
+      "konser",
+      "dernek",
+      "klasik",
+      "cemiyet"
     ],
-    "zorluk": "kolay"
+    "zorluk": "orta"
   },
   {
     "id": 55,
     "kategori": "muzikoloji",
-    "kelime": "majör dizi",
-    "aciklama": "iki tam, bir yarım, üç tam, bir yarım.",
+    "kelime": "oda orkestrası",
+    "aciklama": "az sayıda müzisyenden oluşan küçük çaplı klasik orkestra",
     "yasakli_kelimeler": [
-      "neşeli ton",
-      "iki tam bir yarım",
-      "do majör",
-      "parlak gam",
-      "diatonik dizi"
+      "küçük",
+      "topluluk",
+      "yaylı",
+      "enstrüman",
+      "konser"
     ],
-    "zorluk": "kolay"
+    "zorluk": "orta"
   },
   {
     "id": 56,
     "kategori": "muzikoloji",
-    "kelime": "minör dizi",
-    "aciklama": "üçüncü derecesi yarım ses pesleştirilmiş, genellikle hüzünlü, melankolik.",
+    "kelime": "yaylı çalgılar",
+    "aciklama": "keman ve viyolonsel gibi yayla çalınan enstrümanlar",
     "yasakli_kelimeler": [
-      "hüzünlü ton",
-      "la minör",
-      "melankolik gam",
-      "koyu tını",
-      "gam"
+      "keman",
+      "çello",
+      "viyola",
+      "arşe",
+      "tel"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 57,
     "kategori": "muzikoloji",
-    "kelime": "tam ses",
-    "aciklama": "aralarında iki yarım ton bulunan do ile re.",
+    "kelime": "nefesli çalgılar",
+    "aciklama": "üflenerek ses çıkarılan flüt ve klarnet grubu",
     "yasakli_kelimeler": [
-      "büyük ikili",
-      "iki yarım aralık",
-      "do re aralığı",
-      "aralık ölçüsü",
-      "ton"
+      "üflemek",
+      "flüt",
+      "klarnet",
+      "trompet",
+      "hava"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 58,
     "kategori": "muzikoloji",
-    "kelime": "yarım ses",
-    "aciklama": "batı müziğinde iki nota arasındaki en küçük temel.",
+    "kelime": "vurmalı çalgılar",
+    "aciklama": "vurularak ritim tutulan davul ve timpaniler grubu",
     "yasakli_kelimeler": [
-      "küçük ikili",
-      "en küçük aralık",
-      "mi fa si do",
-      "yarım ton",
-      "semiton"
+      "davul",
+      "zil",
+      "timpani",
+      "ritim",
+      "vurmak"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 59,
     "kategori": "muzikoloji",
-    "kelime": "tını",
-    "aciklama": "aynı perdede ve aynı şiddette çalınan bir keman.",
+    "kelime": "tuşlu çalgılar",
+    "aciklama": "piyano ve org gibi tuşlara basılarak çalınan aletler",
     "yasakli_kelimeler": [
-      "ses rengi",
-      "çalgı farkı",
-      "üst tonlar bileşimi",
-      "keman flüt ayrımı",
-      "timbre"
+      "piyano",
+      "org",
+      "klavye",
+      "tuş",
+      "basmak"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 60,
     "kategori": "muzikoloji",
-    "kelime": "dinamik",
-    "aciklama": "müzikte sesin çalınış şiddetini, fısıltıdan gök gürültüsüne kadar.",
+    "kelime": "telli çalgılar",
+    "aciklama": "gitar ve bağlama gibi telleri titreştirilerek çalınan çalgılar",
     "yasakli_kelimeler": [
-      "ses şiddeti",
-      "piyano ve forte",
-      "kuvvetlilik",
-      "gürlük derecesi",
-      "nüans"
+      "tel",
+      "gitar",
+      "bağlama",
+      "mızrap",
+      "titreşim"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 61,
     "kategori": "muzikoloji",
-    "kelime": "piyano",
-    "aciklama": "müzikte p harfiyle simgelenen, notaların hafif ve yumuşak.",
+    "kelime": "düet",
+    "aciklama": "iki şarkıcı veya enstrümanın birlikte söylediği müzik eseri",
     "yasakli_kelimeler": [
-      "hafif çalış",
-      "p harfi",
-      "yumuşak tını",
-      "forte zıttı",
-      "gürlük işareti"
+      "iki kişi",
+      "birlikte",
+      "şarkı",
+      "ikili",
+      "söylemek"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 62,
     "kategori": "muzikoloji",
-    "kelime": "forte",
-    "aciklama": "partisyonda f harfiyle gösterilen ve müziğin güçlü, gür.",
+    "kelime": "trio",
+    "aciklama": "üç çalgı veya üç vokal için bestelenmiş müzik parçası",
     "yasakli_kelimeler": [
-      "güçlü çalış",
-      "gür ses",
-      "f harfi",
-      "kuvvetli",
-      "piyano zıttı"
+      "üç kişi",
+      "üçlü",
+      "enstrüman",
+      "topluluk",
+      "grup"
     ],
-    "zorluk": "kolay"
+    "zorluk": "orta"
   },
   {
     "id": 63,
     "kategori": "muzikoloji",
-    "kelime": "hızlanma",
-    "aciklama": "müzik akışında metronom temposunun adım adım hızlandırılarak eserin.",
+    "kelime": "şef",
+    "aciklama": "orkestrayı elindeki bagetle yöneten orkestra yöneticisi",
     "yasakli_kelimeler": [
-      "accelerando",
-      "tempo artışı",
-      "süratlenme",
-      "hızlı çalma",
-      "tempo"
+      "orkestra",
+      "baget",
+      "yönetici",
+      "müzisyen",
+      "partisyon"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 64,
     "kategori": "muzikoloji",
-    "kelime": "moderato",
-    "aciklama": "dakikada yaklaşık yüz ile yüz yirmi vuruş arasında.",
+    "kelime": "baget",
+    "aciklama": "orkestra şefinin tempoyu yönlendirdiği ince beyaz çubuk",
     "yasakli_kelimeler": [
-      "orta hızda",
-      "ılımlı tempo",
-      "ne hızlı ne yavaş",
-      "metronom derecesi",
-      "hız terimi"
+      "çubuk",
+      "şef",
+      "orkestra",
+      "ince",
+      "yönetmek"
     ],
-    "zorluk": "orta"
+    "zorluk": "kolay"
   },
   {
     "id": 65,
     "kategori": "muzikoloji",
-    "kelime": "vivace",
-    "aciklama": "allegrodan daha hareketli, canlı, kıvrak ve hayat dolu.",
+    "kelime": "nota sehpası",
+    "aciklama": "müzisyenin çalarken partisyonunu koyduğu portatif sehpa",
     "yasakli_kelimeler": [
-      "canlı ve hızlı",
-      "kıvrak tempo",
-      "hayat dolu",
-      "hareketli",
-      "tempo terimi"
+      "sehpa",
+      "partisyon",
+      "ayaklı",
+      "koymak",
+      "okumak"
     ],
-    "zorluk": "orta"
+    "zorluk": "kolay"
   },
   {
     "id": 66,
     "kategori": "muzikoloji",
-    "kelime": "vals",
-    "aciklama": "üç dörtlü ölçüde bestelenen, viyana salonlarında çiftlerin dönerek.",
+    "kelime": "rast makamı",
+    "aciklama": "neşeli ve dinlendirici duygular veren klasik türk makamı",
     "yasakli_kelimeler": [
-      "üç dörtlü dans",
-      "viyana dansı",
-      "strauss",
-      "dönen çiftler",
-      "salon dansı"
+      "türk müziği",
+      "makam",
+      "sevinç",
+      "klasik",
+      "huzur"
     ],
-    "zorluk": "kolay"
+    "zorluk": "orta"
   },
   {
     "id": 67,
     "kategori": "muzikoloji",
-    "kelime": "rapsodi",
-    "aciklama": "halk ezgilerini veya milli temaları serbest, coşkulu ve.",
+    "kelime": "nihavend",
+    "aciklama": "batı müziğindeki minör diziye benzeyen sevilen türk makamı",
     "yasakli_kelimeler": [
-      "bohemian rhapsody",
-      "macar rapsodisi",
-      "coşkulu eser",
-      "serbest form",
-      "liszt"
+      "türk müziği",
+      "makam",
+      "minör",
+      "şarkı",
+      "klasik"
     ],
-    "zorluk": "kolay"
+    "zorluk": "orta"
   },
   {
     "id": 68,
     "kategori": "muzikoloji",
-    "kelime": "bale müziği",
-    "aciklama": "sahnedeki dansçıların adımları ve koreografisiyle birebir uyumlu olarak.",
+    "kelime": "hicaz",
+    "aciklama": "hüznü ve oryantal ezgileriyle bilinen ünlü türk musikisi makamı",
     "yasakli_kelimeler": [
-      "kuğu gölü",
-      "çaykovski",
-      "dans orkestrası",
-      "fındıkkıran",
-      "sahne dansı"
+      "makam",
+      "türk müziği",
+      "hüzün",
+      "şarkı",
+      "oryantal"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 69,
     "kategori": "muzikoloji",
-    "kelime": "opera",
-    "aciklama": "tüm metni müzikli şarkılarla, koroyla ve orkestrayla icra.",
+    "kelime": "hüseyni",
+    "aciklama": "anadolu türkülerinde sıkça kullanılan içli halk makamı",
     "yasakli_kelimeler": [
-      "müzikli tiyatro",
-      "arya ve koro",
-      "şan sanatçısı",
-      "orkestra çukuru",
-      "sahne eseri"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 70,
-    "kategori": "muzikoloji",
-    "kelime": "operet",
-    "aciklama": "operaya göre konusu daha hafif, komik ve eğlenceli.",
-    "yasakli_kelimeler": [
-      "hafif opera",
-      "komik müzikli oyun",
-      "diyaloglu sahne",
-      "eğlenceli",
-      "yarasa opereti"
+      "türkü",
+      "makam",
+      "anadolu",
+      "bağlama",
+      "halk"
     ],
     "zorluk": "orta"
   },
   {
-    "id": 71,
+    "id": 70,
     "kategori": "muzikoloji",
-    "kelime": "müzikal",
-    "aciklama": "broadway sahnelerinde popüler şarkılar, modern danslar ve tiyatro.",
+    "kelime": "fasıl",
+    "aciklama": "geleneksel şarkıların aynı makamda peş peşe icra edilmesi",
     "yasakli_kelimeler": [
-      "broadway",
-      "danslı tiyatro",
-      "popüler müzik oyunu",
-      "batı yakası hikayesi",
-      "sahne"
+      "meyhane",
+      "makam",
+      "şarkı",
+      "ud",
+      "eğlence"
     ],
     "zorluk": "kolay"
   },
   {
+    "id": 71,
+    "kategori": "muzikoloji",
+    "kelime": "gazel",
+    "aciklama": "usta hanendelerin makam üzerinde sazlar eşliğinde yaptığı doğaçlama",
+    "yasakli_kelimeler": [
+      "hanende",
+      "makam",
+      "ses",
+      "doğaçlama",
+      "şiir"
+    ],
+    "zorluk": "orta"
+  },
+  {
     "id": 72,
     "kategori": "muzikoloji",
-    "kelime": "orkestra",
-    "aciklama": "yaylı, nefesli ve vurmalı çalgı gruplarının bir şef.",
+    "kelime": "türkü",
+    "aciklama": "anadolu halkının sevinç ve kederlerini anlatan anonim ezgi",
     "yasakli_kelimeler": [
-      "çalgıcılar topluluğu",
-      "şef yönetimi",
-      "senfoni",
-      "çalgı grupları",
-      "büyük müzik grubu"
+      "anadolu",
+      "bağlama",
+      "halk",
+      "saz",
+      "anonim"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 73,
     "kategori": "muzikoloji",
-    "kelime": "filarmoni",
-    "aciklama": "müzikseverlerin kurduğu dernekler aracılığıyla desteklenen ve klasik müzik.",
+    "kelime": "bozlak",
+    "aciklama": "orta ve güney anadolu'da avşarların söylediği yanık ezgi",
     "yasakli_kelimeler": [
-      "müziksever topluluk",
-      "filarmoni derneği",
-      "büyük konser orkestrası",
-      "viyana filarmoni",
-      "senfoni"
+      "neşet ertaş",
+      "kırşehir",
+      "yanık",
+      "bağlama",
+      "feryat"
     ],
     "zorluk": "orta"
   },
   {
     "id": 74,
     "kategori": "muzikoloji",
-    "kelime": "senfoni orkestrası",
-    "aciklama": "yaklaşık yüz müzisyenden oluşan ve tüm klasik enstrüman.",
+    "kelime": "ağıt",
+    "aciklama": "ölen kişinin ardından yakılan hüzünlü ve acıklı halk türküsü",
     "yasakli_kelimeler": [
-      "yüz kişilik kadro",
-      "büyük orkestra",
-      "şef ve müzisyenler",
-      "yaylı nefesli vurmalı",
-      "konser topluluğu"
+      "ölüm",
+      "yas",
+      "hüzün",
+      "cenaze",
+      "ağlamak"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 75,
     "kategori": "muzikoloji",
-    "kelime": "oda orkestrası",
-    "aciklama": "genellikle sadece yaylılardan veya yirmi otuz kişilik küçük.",
+    "kelime": "bestelemek",
+    "aciklama": "yeni bir melodi veya müzik eseri meydana getirmek",
     "yasakli_kelimeler": [
-      "küçük orkestra",
-      "yaylılar topluluğu",
-      "az sayıda çalgıcı",
-      "oda müziği",
-      "küçük salon"
+      "beste",
+      "yaratmak",
+      "şarkı",
+      "ezgi",
+      "müzisyen"
     ],
-    "zorluk": "orta"
+    "zorluk": "kolay"
   },
   {
     "id": 76,
     "kategori": "muzikoloji",
-    "kelime": "yaylı çalgılar",
-    "aciklama": "sesi gerilmiş tellerin üzerine reçineli yayın sürtülmesiyle elde.",
+    "kelime": "enstrüman çalmak",
+    "aciklama": "bir müzik aletini kullanarak doğru sesler çıkarmak",
     "yasakli_kelimeler": [
-      "arşe ile çalınan",
-      "keman viyola çello",
-      "tel sürtmesi",
-      "orkestra çekirdeği",
-      "kontrbas"
+      "müzik aleti",
+      "çalmak",
+      "icra",
+      "nota",
+      "performans"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 77,
     "kategori": "muzikoloji",
-    "kelime": "nefesli çalgılar",
-    "aciklama": "içine nefes üflenerek boru içindeki hava sütununun titreşmesiyle.",
+    "kelime": "şarkı söylemek",
+    "aciklama": "melodiyi ses telleri ve sözlerle icra etmek",
     "yasakli_kelimeler": [
-      "üflemeli çalgılar",
-      "hava sütunu",
-      "flüt trompet klarnet",
-      "üfleyerek çalınan",
-      "enstrüman"
+      "vokal",
+      "ses",
+      "mikrofon",
+      "söz",
+      "melodi"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 78,
     "kategori": "muzikoloji",
-    "kelime": "tahta üflemeliler",
-    "aciklama": "gövdesi ahşaptan yapılan veya kamış yardımıyla ses üreten.",
+    "kelime": "akort etmek",
+    "aciklama": "çalgı tellerini doğru ses perdesine ayarlamak",
     "yasakli_kelimeler": [
-      "ahşap nefesliler",
-      "obua klarnet fagot",
-      "kamışlı çalgılar",
-      "flüt grubu",
-      "orkestra grubu"
+      "ayar",
+      "tel",
+      "çalgı",
+      "ses",
+      "düzen"
     ],
-    "zorluk": "orta"
+    "zorluk": "kolay"
   },
   {
     "id": 79,
     "kategori": "muzikoloji",
-    "kelime": "bakır üflemeliler",
-    "aciklama": "metal ağızlıktan üflenerek güçlü ve parlak sesler çıkaran.",
+    "kelime": "ritim tutmak",
+    "aciklama": "müziğin vuruşlarına el veya ayakla tempolu eşlik etmek",
     "yasakli_kelimeler": [
-      "pirinç madeni",
-      "trompet korno trombon",
-      "metal nefesliler",
-      "tuba",
-      "parlak sesler"
+      "tempo",
+      "el çırpmak",
+      "vuruş",
+      "davul",
+      "eşlik"
     ],
-    "zorluk": "orta"
+    "zorluk": "kolay"
   },
   {
     "id": 80,
     "kategori": "muzikoloji",
-    "kelime": "vurmalı çalgılar",
-    "aciklama": "baget, tokmak veya el darbeleriyle yüzeyine vurularak ritim.",
+    "kelime": "doğaçlama",
+    "aciklama": "önceden yazılmış notaya bağlı kalmadan o an çalmak",
     "yasakli_kelimeler": [
-      "perküsyon",
-      "timpani davul zil",
-      "tokmakla çalınan",
-      "ritim aletleri",
-      "darbe ile ses"
+      "nota",
+      "spontane",
+      "o an",
+      "serbest",
+      "çalmak"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 81,
     "kategori": "muzikoloji",
-    "kelime": "tuşlu çalgılar",
-    "aciklama": "üzerindeki siyah ve beyaz tuşlara parmaklarla basılarak çalınan.",
-    "yasakli_kelimeler": [
-      "klavyeli",
-      "siyah beyaz tuşlar",
-      "piyano org klavsen",
-      "tuş mekanizması",
-      "enstrüman ailesi"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 82,
-    "kategori": "muzikoloji",
-    "kelime": "telli çalgılar",
-    "aciklama": "sesi gerilmiş tellerden titreşerek çıkan gitar, bağlama, kanun.",
-    "yasakli_kelimeler": [
-      "telleri olan",
-      "gitar bağlama kanun",
-      "tel titreşimi",
-      "mızrap veya yay",
-      "çalgı ailesi"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 83,
-    "kategori": "muzikoloji",
-    "kelime": "mızraplı çalgılar",
-    "aciklama": "tellerine mızrap, pena veya parmak uçlarıyla vurulup çekilerek.",
-    "yasakli_kelimeler": [
-      "pena ile çalınan",
-      "ud tambur gitar",
-      "mızrap vuruşu",
-      "telli enstrüman",
-      "parmakla çekme"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 84,
-    "kategori": "muzikoloji",
-    "kelime": "düet",
-    "aciklama": "iki şarkıcının veya iki çalgının birbirine uyumlu olarak.",
-    "yasakli_kelimeler": [
-      "ikili icra",
-      "iki kişilik şarkı",
-      "iki enstrüman",
-      "ikili müzik",
-      "birlikte söyleme"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 85,
-    "kategori": "muzikoloji",
-    "kelime": "trio",
-    "aciklama": "üç ses veya üç enstrüman için bestelenmiş olan.",
-    "yasakli_kelimeler": [
-      "üçlü topluluk",
-      "üç kişilik müzik",
-      "üç çalgı",
-      "üçleme grubu",
-      "oda müziği"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 86,
-    "kategori": "muzikoloji",
-    "kelime": "şef",
-    "aciklama": "orkestrayı veya koroyu elindeki bagetle ve mimikleriyle tempo.",
-    "yasakli_kelimeler": [
-      "kondüktör",
-      "orkestra yöneticisi",
-      "baget sallayan",
-      "kürsüdeki yönetici",
-      "müzik direktörü"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 87,
-    "kategori": "muzikoloji",
-    "kelime": "baget",
-    "aciklama": "orkestra şefinin tempoyu göstermek için kullandığı ince beyaz.",
-    "yasakli_kelimeler": [
-      "şef çubuğu",
-      "davul sopası",
-      "baterist çubuğu",
-      "tempoyu gösteren",
-      "ince tahta"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 88,
-    "kategori": "muzikoloji",
-    "kelime": "nota sehpası",
-    "aciklama": "müzisyenin çalarken partisyonunu göz hizasında rahatça okuyabilmesi için.",
-    "yasakli_kelimeler": [
-      "müzik standı",
-      "partitür tutucu",
-      "katlanır ayaklık",
-      "göz hizası sehpa",
-      "nota koyacağı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 89,
-    "kategori": "muzikoloji",
-    "kelime": "rast makamı",
-    "aciklama": "türk sanat müziğinde doğruluk, sevinç ve huzur duygusu.",
-    "yasakli_kelimeler": [
-      "türk müziği makamı",
-      "huzur veren",
-      "sol kararlı",
-      "temel makam",
-      "alaturka"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 90,
-    "kategori": "muzikoloji",
-    "kelime": "nihavend",
-    "aciklama": "batı müziğindeki minör diziye çok benzeyen, neşeli ve.",
-    "yasakli_kelimeler": [
-      "minör benzeri",
-      "romantik şarkılar",
-      "türk müziği makamı",
-      "hüzünlü neşeli",
-      "popüler makam"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 91,
-    "kategori": "muzikoloji",
-    "kelime": "hicaz",
-    "aciklama": "kulağa derinden dokunan oryantal ve mistik tınısıyla bilinen,.",
-    "yasakli_kelimeler": [
-      "yanık tını",
-      "türk müziği makamı",
-      "hümayun uzzal",
-      "oryantal ezgi",
-      "şarkı makamı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 92,
-    "kategori": "muzikoloji",
-    "kelime": "hüseyni",
-    "aciklama": "anadolu halk türkülerinin büyük bölümünün bestelendiği, hüznü ve.",
-    "yasakli_kelimeler": [
-      "türkü makamı",
-      "anadolu ezgileri",
-      "yanık makam",
-      "hüseyni perdesi",
-      "klasik makam"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 93,
-    "kategori": "muzikoloji",
-    "kelime": "uşşak",
-    "aciklama": "aşıklar anlamına gelen ve içli, lirik, samimi duyguları.",
-    "yasakli_kelimeler": [
-      "aşıklar makamı",
-      "içli şarkılar",
-      "dügah kararlı",
-      "klasik makam",
-      "türk sanat müziği"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 94,
-    "kategori": "muzikoloji",
-    "kelime": "segah",
-    "aciklama": "özellikle ezan, mevlid ve tasavvuf musikisi ilahilerinde huşu.",
-    "yasakli_kelimeler": [
-      "tasavvuf makamı",
-      "ezan ve mevlid",
-      "segah perdesi",
-      "manevi tını",
-      "ilahi makamı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 95,
-    "kategori": "muzikoloji",
-    "kelime": "buselik",
-    "aciklama": "koma sesi içermeyen ve batı müziğindeki doğal minör.",
-    "yasakli_kelimeler": [
-      "doğal minör benzeri",
-      "komasız makam",
-      "dügah perdesi",
-      "klasik makam",
-      "türk müziği"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 96,
-    "kategori": "muzikoloji",
-    "kelime": "saba",
-    "aciklama": "sabah vaktini, hüzünlü ve etkileyici bir acıyı hissettiren.",
-    "yasakli_kelimeler": [
-      "sabah ezanı",
-      "hüzünlü makam",
-      "çargah perdesi",
-      "içli makam",
-      "musiki"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 97,
-    "kategori": "muzikoloji",
-    "kelime": "mahur",
-    "aciklama": "rast makamının bir oktav tizden çalınmasıyla oluşan, son.",
-    "yasakli_kelimeler": [
-      "neşeli makam",
-      "coşkulu eserler",
-      "tiz rast",
-      "klasik fasıl",
-      "mahur beste"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 98,
-    "kategori": "muzikoloji",
-    "kelime": "fasıl",
-    "aciklama": "aynı makamdaki peşrev, şarkılar, saz semaisi ve oyun.",
-    "yasakli_kelimeler": [
-      "fasıl heyeti",
-      "peşrev şarkı semai",
-      "aynı makam dizisi",
-      "alaturka konser",
-      "meyhane faslı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 99,
-    "kategori": "muzikoloji",
-    "kelime": "peşrev",
-    "aciklama": "klasik türk musikisi fasıllarının başında tüm sazların birlikte.",
-    "yasakli_kelimeler": [
-      "fasıl girişi",
-      "saz eseri",
-      "hane ve mülazime",
-      "giriş parçası",
-      "düyek usulü"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 100,
-    "kategori": "muzikoloji",
-    "kelime": "gazel",
-    "aciklama": "tek bir hanendenin bir makam üzerinde çalgılar eşliğinde.",
-    "yasakli_kelimeler": [
-      "sesle taksim",
-      "hanende",
-      "irticalen şiir",
-      "gazelhan",
-      "serbest okuyuş"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 101,
-    "kategori": "muzikoloji",
-    "kelime": "kaside",
-    "aciklama": "dini törenlerde ve mevlidlerde allah'ı ve peygamberi övmek.",
-    "yasakli_kelimeler": [
-      "dini şiir",
-      "mevlid içi",
-      "övgü kasidesi",
-      "makamlı okuma",
-      "kasidehan"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 102,
-    "kategori": "muzikoloji",
-    "kelime": "türkü",
-    "aciklama": "anadolu halkının sevinçlerini, kederlerini ve hikayelerini bağlama eşliğinde.",
-    "yasakli_kelimeler": [
-      "halk müziği",
-      "bağlama ile söylenen",
-      "anonim ezgi",
-      "anadolu hikayesi",
-      "ozan deyişi"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 103,
-    "kategori": "muzikoloji",
-    "kelime": "bozlak",
-    "aciklama": "iç ve güneydoğu anadolu'da aşiret hikayelerini feryat edercesine.",
-    "yasakli_kelimeler": [
-      "neşet ertaş",
-      "uzun hava",
-      "kırşehir afşar",
-      "feryatlı türkü",
-      "serbest ritim"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 104,
-    "kategori": "muzikoloji",
-    "kelime": "hoyrat",
-    "aciklama": "urfa ve kerkük yörelerinde cinaslı maniler eşliğinde çok.",
-    "yasakli_kelimeler": [
-      "kerkük urfa",
-      "cinaslı mani",
-      "tiz sesli hava",
-      "halk ezgisi",
-      "uzun hava"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 105,
-    "kategori": "muzikoloji",
-    "kelime": "deyiş",
-    "aciklama": "alevi bektaşi geleneğinde cem törenlerinde bağlama eşliğinde inanç.",
-    "yasakli_kelimeler": [
-      "cem ibadeti",
-      "alevi bektaşi",
-      "nefes",
-      "aşık sazı",
-      "ozan şiiri"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 106,
-    "kategori": "muzikoloji",
-    "kelime": "semah",
-    "aciklama": "cem ayinlerinde bağlamanın ritmi ve zakirlerin deyişleri eşliğinde.",
-    "yasakli_kelimeler": [
-      "cem ayini",
-      "hacı bektaş",
-      "turnalar semahı",
-      "ritüel dönüşü",
-      "zakir"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 107,
-    "kategori": "muzikoloji",
-    "kelime": "ağıt",
-    "aciklama": "ölen bir kimsenin ardından duyulan derin acıyı ve.",
-    "yasakli_kelimeler": [
-      "ölünün ardından",
-      "yas müziği",
-      "cenaze türküsü",
-      "kederli feryat",
-      "ağıt yakma"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "kategori": "muzikoloji",
-    "kelime": "bestelemek",
-    "aciklama": "yeni bir müzik eseri ve ezgi yaratmak",
-    "yasakli_kelimeler": [
-      "nota",
-      "ezgi",
-      "şarkı",
-      "besteci",
-      "yaratmak"
-    ],
-    "zorluk": "kolay",
-    "id": 108
-  },
-  {
-    "kategori": "muzikoloji",
-    "kelime": "müzik dinlemek",
-    "aciklama": "müzikal sesleri ve ritimleri kulak vererek takip etmek",
-    "yasakli_kelimeler": [
-      "kulak",
-      "ses",
-      "şarkı",
-      "ezgi",
-      "işitmek"
-    ],
-    "zorluk": "kolay",
-    "id": 109
-  },
-  {
-    "kategori": "muzikoloji",
-    "kelime": "enstrüman çalmak",
-    "aciklama": "bir müzik aletini kullanarak ses üretmek",
-    "yasakli_kelimeler": [
-      "enstrüman",
-      "alet",
-      "piyano",
-      "gitar",
-      "ses"
-    ],
-    "zorluk": "kolay",
-    "id": 110
-  },
-  {
-    "kategori": "muzikoloji",
-    "kelime": "şarkı söylemek",
-    "aciklama": "şarkı sözlerini vokal ve melodiyle seslendirmek",
-    "yasakli_kelimeler": [
-      "şarkı",
-      "vokal",
-      "ses",
-      "söz",
-      "koro"
-    ],
-    "zorluk": "kolay",
-    "id": 111
-  },
-  {
-    "kategori": "muzikoloji",
-    "kelime": "kaydetmek",
-    "aciklama": "icra edilen müziği stüdyoda ses bandına veya dijitale aktarmak",
-    "yasakli_kelimeler": [
-      "stüdyo",
-      "ses",
-      "mikrofon",
-      "kayıt",
-      "albüm"
-    ],
-    "zorluk": "kolay",
-    "id": 112
-  },
-  {
-    "kategori": "muzikoloji",
-    "kelime": "notaya almak",
-    "aciklama": "duyulan ezgiyi porte üzerine nota işaretleriyle dökmek",
-    "yasakli_kelimeler": [
-      "porte",
-      "nota",
-      "sol anahtarı",
-      "yazmak",
-      "kağıt"
-    ],
-    "zorluk": "kolay",
-    "id": 113
-  },
-  {
-    "kategori": "muzikoloji",
-    "kelime": "akort etmek",
-    "aciklama": "çalgı tellerini doğru ses frekansına ayarlamak",
-    "yasakli_kelimeler": [
-      "tel",
-      "düzen",
-      "ses",
-      "kulak",
-      "ton"
-    ],
-    "zorluk": "kolay",
-    "id": 114
-  },
-  {
-    "kategori": "muzikoloji",
-    "kelime": "ritim tutmak",
-    "aciklama": "müziğin vuruşlarına el veya ayakla eşlik etmek",
-    "yasakli_kelimeler": [
-      "vuruş",
-      "tempo",
-      "el çırpmak",
-      "metronom",
-      "eşlik"
-    ],
-    "zorluk": "kolay",
-    "id": 115
-  },
-  {
-    "kategori": "muzikoloji",
-    "kelime": "türkü derlemek",
-    "aciklama": "yörelerdeki anonim halk türkülerini köylerden toplayıp kaydetmek",
-    "yasakli_kelimeler": [
-      "türkü",
-      "halk",
-      "anonim",
-      "yöre",
-      "toplamak"
-    ],
-    "zorluk": "kolay",
-    "id": 116
-  },
-  {
-    "kategori": "muzikoloji",
-    "kelime": "müzik öğretmek",
-    "aciklama": "konservatuvarda nota ve enstrüman dersi vermek",
-    "yasakli_kelimeler": [
-      "konservatuvar",
-      "hoca",
-      "ders",
-      "eğitim",
-      "öğrenci"
-    ],
-    "zorluk": "kolay",
-    "id": 117
-  },
-  {
-    "kategori": "muzikoloji",
-    "kelime": "solfej yapmak",
-    "aciklama": "notaları isimleri, ses yükseklikleri ve süreleriyle okumak",
-    "yasakli_kelimeler": [
-      "bona",
-      "süre",
-      "ses yüksekliği",
-      "okuma",
-      "kulak eğitimi"
-    ],
-    "zorluk": "orta",
-    "id": 118
-  },
-  {
-    "kategori": "muzikoloji",
-    "kelime": "analiz etmek",
-    "aciklama": "senfoninin form yapısını ve tema gelişimini çözümlemek",
-    "yasakli_kelimeler": [
-      "form",
-      "sonat",
-      "tema",
-      "yapı",
-      "çözümleme"
-    ],
-    "zorluk": "orta",
-    "id": 119
-  },
-  {
-    "kategori": "muzikoloji",
-    "kelime": "koroya eşlik etmek",
-    "aciklama": "piyano veya orkestrayla çok sesli koroyu desteklemek",
-    "yasakli_kelimeler": [
-      "koro",
-      "eşlik",
-      "soprano",
-      "korrepetitör",
-      "ses"
-    ],
-    "zorluk": "orta",
-    "id": 120
-  },
-  {
-    "kategori": "muzikoloji",
-    "kelime": "doğaçlama yapmak",
-    "aciklama": "önceden yazılmış nota olmadan o an içinden geldiğince çalmak",
-    "yasakli_kelimeler": [
-      "emprovizasyon",
-      "taksim",
-      "caz",
-      "o anda",
-      "içten"
-    ],
-    "zorluk": "orta",
-    "id": 121
-  },
-  {
-    "kategori": "muzikoloji",
-    "kelime": "güfte yazmak",
-    "aciklama": "beste yapılmak üzere şiir formunda şarkı sözü kaleme almak",
+    "kelime": "güfte",
+    "aciklama": "beste yapılmak amacıyla kaleme alınmış şarkı sözü şiiri",
     "yasakli_kelimeler": [
       "söz",
       "şarkı",
       "şiir",
-      "bestekar",
-      "vezin"
+      "şair",
+      "beste"
     ],
-    "zorluk": "orta",
-    "id": 122
+    "zorluk": "orta"
   }
 ]

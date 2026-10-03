@@ -3,7 +3,7 @@
     "id": 1,
     "kategori": "pazarlama",
     "kelime": "hedef pazar",
-    "aciklama": "arasından seçtiği ve pazarlama faaliyetlerini odaklamaya karar verdiği tüketici kitlesi.",
+    "aciklama": "pazarlama faaliyetlerinin odaklandığı belirli tüketici kitlesi.",
     "yasakli_kelimeler": [
       "hedef kitle",
       "odak",
@@ -17,7 +17,7 @@
     "id": 2,
     "kategori": "pazarlama",
     "kelime": "marka değeri",
-    "aciklama": "ve algısının tüketiciler nezdinde yarattığı finansal ve stratejik ilave değer.",
+    "aciklama": "bir markanın tüketici nezdindeki prestiji ve parasal gücü.",
     "yasakli_kelimeler": [
       "brand equity",
       "algı",
@@ -45,7 +45,7 @@
     "id": 4,
     "kategori": "pazarlama",
     "kelime": "marka farkındalığı",
-    "aciklama": "belirli ürün kategorisinde o markayı hatırlama veya gördüğünde tanıma derecesi.",
+    "aciklama": "tüketicilerin markayı benzerleri arasından tanıma ve hatırlama derecesi.",
     "yasakli_kelimeler": [
       "bilinirlik",
       "hatırlama",
@@ -86,14 +86,14 @@
   {
     "id": 7,
     "kategori": "pazarlama",
-    "kelime": "kulaktan kulağa pazarlama",
-    "aciklama": "tüketicilerin ürün veya hizmet hakkındaki olumlu deneyimlerini çevrelerine tavsiye etmesi.",
+    "kelime": "kulaktan kulağa",
+    "aciklama": "tüketicilerin memnuniyetlerini çevrelerine anlatarak ürünü tavsiye etmesi.",
     "yasakli_kelimeler": [
-      "wom",
       "tavsiye",
-      "fısıltı",
       "arkadaş",
-      "deneyim"
+      "fısıltı",
+      "yayılma",
+      "öneri"
     ],
     "zorluk": "kolay"
   },
@@ -143,7 +143,7 @@
     "id": 11,
     "kategori": "pazarlama",
     "kelime": "kullanıcı arayüzü",
-    "aciklama": "ekran ve grafiksel bileşenler bütünü.",
+    "aciklama": "kullanıcının program veya uygulamayla etkileşime girdiği görsel ekran.",
     "yasakli_kelimeler": [
       "ui",
       "tasarım",
@@ -171,7 +171,7 @@
     "id": 13,
     "kategori": "pazarlama",
     "kelime": "açılış sayfası",
-    "aciklama": "ve belirli dönüşüm sağlamak için özel optimize edilmiş web sayfası.",
+    "aciklama": "reklama tıklayan müşterinin yönlendirildiği özel tanıtım sayfası.",
     "yasakli_kelimeler": [
       "landing page",
       "dönüşüm",
@@ -184,14 +184,14 @@
   {
     "id": 14,
     "kategori": "pazarlama",
-    "kelime": "sosyal medya pazarlaması",
-    "aciklama": "platformlarda marka bilinirliği yaratmak ve satışları artırmak için yürütülen faaliyetler.",
+    "kelime": "sosyal medya",
+    "aciklama": "insanların içerik paylaşıp iletişim kurduğu dijital ağlar.",
     "yasakli_kelimeler": [
-      "smm",
       "instagram",
+      "twitter",
+      "facebook",
       "paylaşım",
-      "takipçi",
-      "içerik"
+      "takipçi"
     ],
     "zorluk": "kolay"
   },
@@ -296,20 +296,6 @@
   {
     "id": 22,
     "kategori": "pazarlama",
-    "kelime": "kaçırma korkusu",
-    "aciklama": "medyada veya kampanyalarda başkalarının yararlandığı avantajlı fırsatın dışında kalma endişesi.",
-    "yasakli_kelimeler": [
-      "korku",
-      "fırsat",
-      "endişe",
-      "sosyal medya",
-      "kampanya"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 23,
-    "kategori": "pazarlama",
     "kelime": "gizemli müşteri",
     "aciklama": "davranarak mağaza personelinin hizmet kalitesini ve standartlarını gizlice denetleyen kişi.",
     "yasakli_kelimeler": [
@@ -322,7 +308,7 @@
     "zorluk": "zor"
   },
   {
-    "id": 24,
+    "id": 23,
     "kategori": "pazarlama",
     "kelime": "fiyat savaşı",
     "aciklama": "veya birbirini ezmek amacıyla karşılıklı olarak sürekli fiyat indirimine gitmesi.",
@@ -336,10 +322,10 @@
     "zorluk": "orta"
   },
   {
-    "id": 25,
+    "id": 24,
     "kategori": "pazarlama",
     "kelime": "marka kimliği",
-    "aciklama": "tonu gibi unsurlarla dış dünyaya sunduğu görsel ve sözel kişilik.",
+    "aciklama": "markanın logosu ve tarzıyla yansıttığı kurumsal kişilik.",
     "yasakli_kelimeler": [
       "kurumsal kimlik",
       "logo",
@@ -350,7 +336,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 26,
+    "id": 25,
     "kategori": "pazarlama",
     "kelime": "reklam",
     "aciklama": "ikna etmek için kitle iletişim araçlarında para karşılığı yapılan duyuru.",
@@ -364,10 +350,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 27,
+    "id": 26,
     "kategori": "pazarlama",
     "kelime": "reklam kampanyası",
-    "aciklama": "ve strateji etrafında farklı mecralarda yürütülen planlı tanıtım etkinlikleri dizisi.",
+    "aciklama": "satışları artırmak için planlanan geniş kapsamlı tanıtım dizisi.",
     "yasakli_kelimeler": [
       "planlı tanıtım",
       "ortak tema",
@@ -378,7 +364,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 28,
+    "id": 27,
     "kategori": "pazarlama",
     "kelime": "slogan",
     "aciklama": "çarpıcı ve akılda kalıcı söz öbeği.",
@@ -392,7 +378,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 29,
+    "id": 28,
     "kategori": "pazarlama",
     "kelime": "jingle",
     "aciklama": "veya sloganı hatırlatmak için bestelenen kısa ve neşeli reklam müziği.",
@@ -406,7 +392,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 30,
+    "id": 29,
     "kategori": "pazarlama",
     "kelime": "logo",
     "aciklama": "eden özel yazı karakteri ve grafik sembolden oluşan görsel amblem.",
@@ -420,7 +406,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 31,
+    "id": 30,
     "kategori": "pazarlama",
     "kelime": "kurumsal kimlik",
     "aciklama": "tipi ve kartvizitinden ambalajına kadar kurumun dışa yansıyan görsel bütünlüğü.",
@@ -434,7 +420,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 32,
+    "id": 31,
     "kategori": "pazarlama",
     "kelime": "marka elçisi",
     "aciklama": "influencer veya sadık müşteri.",
@@ -448,7 +434,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 33,
+    "id": 32,
     "kategori": "pazarlama",
     "kelime": "marka imajı",
     "aciklama": "çağrışımlar ve duygusal algıların toplamı.",
@@ -462,7 +448,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 34,
+    "id": 33,
     "kategori": "pazarlama",
     "kelime": "marka bilinirliği",
     "aciklama": "söylendiğinde o markayı hatırlama ve rakipler arasından hemen tanıma oranı.",
@@ -476,7 +462,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 35,
+    "id": 34,
     "kategori": "pazarlama",
     "kelime": "jenerik marka",
     "aciklama": "selpak veya bant yerine seloteyp gibi ürünün adı haline gelmesi.",
@@ -490,10 +476,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 36,
+    "id": 35,
     "kategori": "pazarlama",
     "kelime": "e-posta pazarlaması",
-    "aciklama": "bülten ve kişiselleştirilmiş teklifler göndererek satış yapma doğrudan dijital kanalı.",
+    "aciklama": "müşterilere e-posta göndererek yapılan doğrudan dijital tanıtım.",
     "yasakli_kelimeler": [
       "mailing",
       "eposta bülteni",
@@ -504,7 +490,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 37,
+    "id": 36,
     "kategori": "pazarlama",
     "kelime": "bülten",
     "aciklama": "abonelerine düzenli e-posta ile gönderdiği sektör haberleri ve içerik derlemesi.",
@@ -518,10 +504,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 38,
+    "id": 37,
     "kategori": "pazarlama",
     "kelime": "anahtar kelime",
-    "aciklama": "reklam ve seo çalışmalarının temel kelimesi.",
+    "aciklama": "arama motorlarında aranan ve reklamlarda hedeflenen temel kelime.",
     "yasakli_kelimeler": [
       "keyword",
       "arama terimi",
@@ -532,7 +518,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 39,
+    "id": 38,
     "kategori": "pazarlama",
     "kelime": "afiş",
     "aciklama": "kalabalık kitlelere görsel ve yazıyla duyuru yapan büyük basılı ilan.",
@@ -546,7 +532,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 40,
+    "id": 39,
     "kategori": "pazarlama",
     "kelime": "billboard",
     "aciklama": "caddelerde araç sürücülerine yönelik devasa boyutlardaki açık hava reklam panosu.",
@@ -560,21 +546,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 41,
-    "kategori": "pazarlama",
-    "kelime": "raket pano",
-    "aciklama": "yayaların göz hizasında bulunan ışıklı ve camlı dikey reklam tabelası.",
-    "yasakli_kelimeler": [
-      "mupi",
-      "otobüs durağı reklamı",
-      "ışıklı pano",
-      "yaya yolu ilanı",
-      "dikey tabela"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 42,
+    "id": 40,
     "kategori": "pazarlama",
     "kelime": "broşür",
     "aciklama": "ayrıntılı anlatmak için basılan çok sayfalı veya katlamalı tanıtım kitapçığı.",
@@ -588,7 +560,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 43,
+    "id": 41,
     "kategori": "pazarlama",
     "kelime": "el ilanı",
     "aciklama": "kutularına atılan tek sayfalık pratik ve ucuz basılı reklam kağıdı.",
@@ -602,10 +574,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 44,
+    "id": 42,
     "kategori": "pazarlama",
     "kelime": "katalog",
-    "aciklama": "kodları ve açıklamalarıyla arada gösteren kalın kitap.",
+    "aciklama": "ürünleri fotoğrafları ve fiyatlarıyla tanıtan kalın basılı kitapçık.",
     "yasakli_kelimeler": [
       "ürün albümü",
       "fiyat listeli kitap",
@@ -616,7 +588,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 45,
+    "id": 43,
     "kategori": "pazarlama",
     "kelime": "promosyon",
     "aciklama": "ürünün yanında verilen hediye veya geçici süreyle yapılan özel kampanya.",
@@ -630,7 +602,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 46,
+    "id": 44,
     "kategori": "pazarlama",
     "kelime": "kupon kodu",
     "aciklama": "yazıldığında anında yüzde veya para indirimi sağlayan harf rakam dizisi.",
@@ -644,10 +616,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 47,
+    "id": 45,
     "kategori": "pazarlama",
     "kelime": "indirim çeki",
-    "aciklama": "üzerindeki alışverişlerde sonraki siparişte geçerli olmak üzere verilen hediye kuponu.",
+    "aciklama": "sonraki alışverişlerde geçerli olmak üzere verilen indirim kuponu.",
     "yasakli_kelimeler": [
       "alışveriş çeki",
       "indirim kuponu",
@@ -658,10 +630,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 48,
+    "id": 46,
     "kategori": "pazarlama",
     "kelime": "indirim",
-    "aciklama": "belirli yüzde veya lira kadar yapılan ucuzlatma ve fiyat indirimi.",
+    "aciklama": "ürün fiyatının cazip kılınması için yapılan ucuzlatma.",
     "yasakli_kelimeler": [
       "tenzilat",
       "fiyat düşüşü",
@@ -672,10 +644,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 49,
+    "id": 47,
     "kategori": "pazarlama",
     "kelime": "hediye çeki",
-    "aciklama": "ve hediye edilen kişinin mağazada dilediği ürünü almasını sağlayan kart.",
+    "aciklama": "belirli tutarda ücretsiz alışveriş yapma imkanı sağlayan kart.",
     "yasakli_kelimeler": [
       "gift card",
       "hediye kartı",
@@ -686,7 +658,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 50,
+    "id": 48,
     "kategori": "pazarlama",
     "kelime": "nakit iade",
     "aciklama": "alışveriş sitesinden yapılan harcamanın belirli yüzdesinin müşterinin hesabına geri yatması.",
@@ -700,10 +672,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 51,
+    "id": 49,
     "kategori": "pazarlama",
     "kelime": "bedava numune",
-    "aciklama": "ve beğenip satın alması için ücretsiz dağıtılan mini tester paket.",
+    "aciklama": "müşterinin denemesi için ücretsiz dağıtılan küçük ürün örneği.",
     "yasakli_kelimeler": [
       "eşantiyon",
       "tester",
@@ -714,7 +686,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 52,
+    "id": 50,
     "kategori": "pazarlama",
     "kelime": "çekiliş",
     "aciklama": "huzurunda kura çekilerek araba veya tatil gibi büyük ödüller dağıtılması.",
@@ -728,7 +700,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 53,
+    "id": 51,
     "kategori": "pazarlama",
     "kelime": "yarışma",
     "aciklama": "slogan göndererek hünerlerini sergilediği ve jüri seçimiyle ödül kazandığı tanıtım.",
@@ -742,7 +714,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 54,
+    "id": 52,
     "kategori": "pazarlama",
     "kelime": "sadakat kartı",
     "aciklama": "puan topladığı ve özel indirimlerden yararlandığı plastik veya dijital kart.",
@@ -756,7 +728,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 55,
+    "id": 53,
     "kategori": "pazarlama",
     "kelime": "puan sistemi",
     "aciklama": "müşteriye puan verilip biriken puanlarla ücretsiz ürün veya indirim sağlanması.",
@@ -770,7 +742,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 56,
+    "id": 54,
     "kategori": "pazarlama",
     "kelime": "vip müşteri",
     "aciklama": "özel temsilci ve ayrıcalıklı lüks hizmet tahsis edilen özel müşteri.",
@@ -784,7 +756,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 57,
+    "id": 55,
     "kategori": "pazarlama",
     "kelime": "müşteri memnuniyeti",
     "aciklama": "veya hizmetin tüketicinin beklentilerini ne derecede karşıladığını belirten mutluluk düzeyi.",
@@ -798,7 +770,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 58,
+    "id": 56,
     "kategori": "pazarlama",
     "kelime": "müşteri şikayeti",
     "aciklama": "veya kötü hizmet karşısında tüketicinin firmaya bildirdiği olumsuz geri bildirim.",
@@ -812,7 +784,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 59,
+    "id": 57,
     "kategori": "pazarlama",
     "kelime": "çağrı merkezi",
     "aciklama": "bilgi aldığı ve sorunlarını çözdürdüğü sesli iletişim merkezi.",
@@ -826,7 +798,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 60,
+    "id": 58,
     "kategori": "pazarlama",
     "kelime": "canlı destek",
     "aciklama": "alışveriş yapan müşterilerin sorularını anlık yazışmayla yanıtlayan müşteri temsilcisi penceresi.",
@@ -840,7 +812,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 61,
+    "id": 59,
     "kategori": "pazarlama",
     "kelime": "sohbet botu",
     "aciklama": "sorularını yapay zeka ve otomatik senaryolarla insan olmadan yanıtlayan yazılım.",
@@ -854,10 +826,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 62,
+    "id": 60,
     "kategori": "pazarlama",
     "kelime": "hedef kitle",
-    "aciklama": "cinsiyet ve gelir grubundaki insan topluluğu.",
+    "aciklama": "tanıtım ve satışta ulaşılmak istenen potansiyel alıcılar.",
     "yasakli_kelimeler": [
       "hedef grup",
       "alıcı kitlesi",
@@ -868,7 +840,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 63,
+    "id": 61,
     "kategori": "pazarlama",
     "kelime": "potansiyel müşteri",
     "aciklama": "yapmamış ancak ürünle ilgilendiğini belirten ve ileride müşteriye dönüşebilecek kişi.",
@@ -882,7 +854,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 64,
+    "id": 62,
     "kategori": "pazarlama",
     "kelime": "prim sistemi",
     "aciklama": "yaptığı her satıştan veya kotayı aştığında verilen ek para ödülü.",
@@ -896,7 +868,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 65,
+    "id": 63,
     "kategori": "pazarlama",
     "kelime": "bayi ağı",
     "aciklama": "çapında son tüketiciye ulaştıran yetkili satış noktaları ve bayiler topluluğu.",
@@ -910,7 +882,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 66,
+    "id": 64,
     "kategori": "pazarlama",
     "kelime": "franchise",
     "aciklama": "işletme sistemini ve logosunu belirli bedelle bağımsız girişimciye kiralaması.",
@@ -924,7 +896,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 67,
+    "id": 65,
     "kategori": "pazarlama",
     "kelime": "distribütör",
     "aciklama": "büyük ölçekte satın alıp belirli bölgedeki perakendecilere dağıtan ana toptancı.",
@@ -938,7 +910,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 68,
+    "id": 66,
     "kategori": "pazarlama",
     "kelime": "toptancı",
     "aciklama": "büyük partiler halinde alıp bakkal ve marketlere satan aracı tüccar.",
@@ -952,10 +924,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 69,
+    "id": 67,
     "kategori": "pazarlama",
     "kelime": "perakendeci",
-    "aciklama": "mağaza veya butik işletmesi.",
+    "aciklama": "ürünleri doğrudan son tüketiciye satan mağaza ve dükkan.",
     "yasakli_kelimeler": [
       "son satıcı",
       "bakkal market",
@@ -966,7 +938,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 70,
+    "id": 68,
     "kategori": "pazarlama",
     "kelime": "vitrin düzeni",
     "aciklama": "çekip mağazaya girmelerini sağlamak için caddeye bakan camda yapılan sergi.",
@@ -980,7 +952,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 71,
+    "id": 69,
     "kategori": "pazarlama",
     "kelime": "raf düzeni",
     "aciklama": "müşterinin göz ve el hizasına göre stratejik olarak dizilmesi planı.",
@@ -994,7 +966,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 72,
+    "id": 70,
     "kategori": "pazarlama",
     "kelime": "reyon",
     "aciklama": "mağazalarda veya süpermarketlerde belirli türdeki ürünlerin sergilendiği raflı koridor bölümü.",
@@ -1008,7 +980,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 73,
+    "id": 71,
     "kategori": "pazarlama",
     "kelime": "kasa önü",
     "aciklama": "şekilde sepete atsın diye sakız ve çikolataların dizildiği küçük stant.",
@@ -1022,7 +994,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 74,
+    "id": 72,
     "kategori": "pazarlama",
     "kelime": "sepet tutarı",
     "aciklama": "tek alışveriş işleminde kasada veya sitede harcadığı ortalama para miktarı.",
@@ -1036,7 +1008,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 75,
+    "id": 73,
     "kategori": "pazarlama",
     "kelime": "niş pazar",
     "aciklama": "özel ihtiyaçları olan dar ve spesifik müşteri topluluğu.",
@@ -1050,7 +1022,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 76,
+    "id": 74,
     "kategori": "pazarlama",
     "kelime": "büyük veri",
     "aciklama": "müşterinin internetteki ayak izlerinden toplanan devasa veri yığınlarının işlenip anlamlandırılması.",
@@ -1064,7 +1036,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 77,
+    "id": 75,
     "kategori": "pazarlama",
     "kelime": "çerez",
     "aciklama": "ilgi alanlarını takip ederek hedefli reklam gösteren küçük veri dosyası.",
@@ -1078,10 +1050,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 78,
+    "id": 76,
     "kategori": "pazarlama",
     "kelime": "tıklama tuzağı",
-    "aciklama": "aldatıcı veya şoke edici sansasyonel başlıklar.",
+    "aciklama": "tıklama almak için atılan aldatıcı sansasyonel başlıklar.",
     "yasakli_kelimeler": [
       "clickbait",
       "merak uyandıran başlık",
@@ -1092,7 +1064,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 79,
+    "id": 77,
     "kategori": "pazarlama",
     "kelime": "pop-up reklam",
     "aciklama": "açıldığında ekranda aniden fırlayarak içeriğin önünü kapatan açılır pencere reklamı.",
@@ -1106,7 +1078,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 80,
+    "id": 78,
     "kategori": "pazarlama",
     "kelime": "banner reklam",
     "aciklama": "veya yan sütununda bulunan grafiksel yatay veya dikey reklam şeridi.",
@@ -1120,10 +1092,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 81,
+    "id": 79,
     "kategori": "pazarlama",
     "kelime": "video reklam",
-    "aciklama": "sosyal medya videolarının başında veya ortasında yayınlanan hareketli tanıtım filmi.",
+    "aciklama": "internet videoları arasında yayınlanan kısa hareketli reklam filmi.",
     "yasakli_kelimeler": [
       "youtube reklamı",
       "beş saniye bekle",
@@ -1134,7 +1106,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 82,
+    "id": 80,
     "kategori": "pazarlama",
     "kelime": "canlı satış",
     "aciklama": "e-ticaret uygulamasında canlı yayında kıyafetleri deneyip anında sattığı yeni trend.",
@@ -1148,7 +1120,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 83,
+    "id": 81,
     "kategori": "pazarlama",
     "kelime": "e-ticaret",
     "aciklama": "fiziksel dükkan olmaksızın internet üzerinden sipariş edilip ödenerek satılması faaliyeti.",
@@ -1162,7 +1134,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 84,
+    "id": 82,
     "kategori": "pazarlama",
     "kelime": "anket",
     "aciklama": "beğenilerini ve demografik özelliklerini ölçmek için hazırlanan standart soru formu.",
@@ -1176,7 +1148,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 85,
+    "id": 83,
     "kategori": "pazarlama",
     "kelime": "mülakat",
     "aciklama": "oturup derinlemesine sorular sorarak satın alma motivasyonlarını açığa çıkarma görüşmesi.",
@@ -1190,24 +1162,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 86,
-    "kategori": "pazarlama",
-    "kelime": "swot analizi",
-    "aciklama": "fırsatları ve tehditlerini ortaya koyan stratejik analiz.",
-    "yasakli_kelimeler": [
-      "güçlü ve zayıf",
-      "fırsat ve tehdit",
-      "dört kutulu matris",
-      "stratejik planlama",
-      "durum tespiti"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 87,
+    "id": 84,
     "kategori": "pazarlama",
     "kelime": "lansman",
-    "aciklama": "otomobilin basın toplantısı ve şovlarla piyasaya ilk kez görkemli tanıtımı.",
+    "aciklama": "yeni bir ürünün basın ve kamuoyuna ilk tanıtımı.",
     "yasakli_kelimeler": [
       "piyasaya çıkış",
       "ilk tanıtım",
@@ -1218,10 +1176,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 88,
+    "id": 85,
     "kategori": "pazarlama",
     "kelime": "pazarlamacı",
-    "aciklama": "fiyat ve satış stratejilerini planlayan meslek profesyoneli.",
+    "aciklama": "satış stratejileri ve reklam süreçlerini yöneten uzman kişi.",
     "yasakli_kelimeler": [
       "pazarlama uzmanı",
       "reklam planlayıcı",
@@ -1232,10 +1190,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 89,
+    "id": 86,
     "kategori": "pazarlama",
     "kelime": "dijital pazarlama",
-    "aciklama": "sosyal medya ve mobil cihazlar üzerinden tanıtılıp satılması alanı.",
+    "aciklama": "internet ve sosyal medya araçlarıyla yürütülen modern pazarlama.",
     "yasakli_kelimeler": [
       "internet pazarlaması",
       "sosyal medya ve seo",
@@ -1257,7 +1215,7 @@
       "para"
     ],
     "zorluk": "kolay",
-    "id": 90
+    "id": 87
   },
   {
     "kategori": "pazarlama",
@@ -1271,7 +1229,7 @@
       "kampanya"
     ],
     "zorluk": "kolay",
-    "id": 91
+    "id": 88
   },
   {
     "kategori": "pazarlama",
@@ -1285,7 +1243,7 @@
       "müşteri"
     ],
     "zorluk": "kolay",
-    "id": 92
+    "id": 89
   },
   {
     "kategori": "pazarlama",
@@ -1299,7 +1257,7 @@
       "fırsat"
     ],
     "zorluk": "kolay",
-    "id": 93
+    "id": 90
   },
   {
     "kategori": "pazarlama",
@@ -1313,12 +1271,12 @@
       "iletişim"
     ],
     "zorluk": "kolay",
-    "id": 94
+    "id": 91
   },
   {
     "kategori": "pazarlama",
     "kelime": "afiş asmak",
-    "aciklama": "reklam panolarına veya mağaza camlarına görsel duyurular yapıştırmak",
+    "aciklama": "tanıtım posterlerini panolara ve duvarlara yapıştırma eylemi.",
     "yasakli_kelimeler": [
       "poster",
       "pano",
@@ -1327,7 +1285,7 @@
       "görsel"
     ],
     "zorluk": "kolay",
-    "id": 95
+    "id": 92
   },
   {
     "kategori": "pazarlama",
@@ -1341,7 +1299,7 @@
       "bilgi"
     ],
     "zorluk": "kolay",
-    "id": 96
+    "id": 93
   },
   {
     "kategori": "pazarlama",
@@ -1355,7 +1313,7 @@
       "etiket"
     ],
     "zorluk": "kolay",
-    "id": 97
+    "id": 94
   },
   {
     "kategori": "pazarlama",
@@ -1369,7 +1327,7 @@
       "itibar"
     ],
     "zorluk": "kolay",
-    "id": 98
+    "id": 95
   },
   {
     "kategori": "pazarlama",
@@ -1383,7 +1341,7 @@
       "ulaşmak"
     ],
     "zorluk": "kolay",
-    "id": 99
+    "id": 96
   },
   {
     "kategori": "pazarlama",
@@ -1397,7 +1355,7 @@
       "logo"
     ],
     "zorluk": "orta",
-    "id": 100
+    "id": 97
   },
   {
     "kategori": "pazarlama",
@@ -1411,7 +1369,7 @@
       "stok eritme"
     ],
     "zorluk": "orta",
-    "id": 101
+    "id": 98
   },
   {
     "kategori": "pazarlama",
@@ -1425,6 +1383,6 @@
       "sosyal medya"
     ],
     "zorluk": "orta",
-    "id": 102
+    "id": 99
   }
 ]

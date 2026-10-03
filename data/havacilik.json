@@ -100,14 +100,14 @@
   {
     "id": 8,
     "kategori": "havacilik",
-    "kelime": "hava trafik kontrolörü",
-    "aciklama": "hava sahasındaki ve yerdeki uçak trafiğini güvenle yöneten lisanslı uzman.",
+    "kelime": "hava kontrolörü",
+    "aciklama": "uçakların kalkış, iniş ve rota güvenliğini kuleden yöneten uzman.",
     "yasakli_kelimeler": [
-      "kule görevlisi",
-      "atc",
-      "radar kontrol",
-      "telsiz talimatı",
-      "ayrıma"
+      "kule",
+      "radar",
+      "telsiz",
+      "uçak trafiği",
+      "talimat"
     ],
     "zorluk": "kolay"
   },
@@ -883,20 +883,6 @@
   },
   {
     "kategori": "havacilik",
-    "kelime": "uçak uçurmak",
-    "aciklama": "kokpitte kumandaları yöneterek hava aracını gökyüzünde emniyetle uçurmak.",
-    "yasakli_kelimeler": [
-      "pilot",
-      "gökyüzü",
-      "hava",
-      "kanat",
-      "kullanmak"
-    ],
-    "zorluk": "kolay",
-    "id": 64
-  },
-  {
-    "kategori": "havacilik",
     "kelime": "piste inmek",
     "aciklama": "alçalışı tamamlayıp uçağın tekerleklerini pistin üzerine yumuşakça kondurmak.",
     "yasakli_kelimeler": [
@@ -907,7 +893,7 @@
       "alçalmak"
     ],
     "zorluk": "kolay",
-    "id": 65
+    "id": 64
   },
   {
     "kategori": "havacilik",
@@ -921,7 +907,7 @@
       "pist"
     ],
     "zorluk": "kolay",
-    "id": 66
+    "id": 65
   },
   {
     "kategori": "havacilik",
@@ -935,21 +921,21 @@
       "oturtmak"
     ],
     "zorluk": "kolay",
-    "id": 67
+    "id": 66
   },
   {
     "kategori": "havacilik",
-    "kelime": "bavul teslim etmek",
-    "aciklama": "valizleri uçağın kargo ambarına verilmek üzere teslim etmek.",
+    "kelime": "bagaj teslimi",
+    "aciklama": "yolcuların valizlerini uçağın ambarına verilmek üzere kontuara teslimi.",
     "yasakli_kelimeler": [
-      "bagaj",
-      "check-in",
+      "bavul",
+      "valiz",
       "kontuar",
-      "tartı",
-      "etiket"
+      "etiket",
+      "tartı"
     ],
     "zorluk": "kolay",
-    "id": 68
+    "id": 67
   },
   {
     "kategori": "havacilik",
@@ -963,48 +949,20 @@
       "havayolu"
     ],
     "zorluk": "kolay",
-    "id": 69
+    "id": 68
   },
   {
     "kategori": "havacilik",
-    "kelime": "pencereden bakmak",
-    "aciklama": "uçuş sırasında kabin penceresinden aşağıdaki bulutları ve manzarayı izlemek.",
-    "yasakli_kelimeler": [
-      "bulut",
-      "manzara",
-      "aşağısı",
-      "gökyüzü",
-      "küçük cam"
-    ],
-    "zorluk": "kolay",
-    "id": 70
-  },
-  {
-    "kategori": "havacilik",
-    "kelime": "parasütle atlamak",
-    "aciklama": "yüksek irtifadaki uçaktan serbest düşüş yapıp paraşütünü açarak yere inmek.",
-    "yasakli_kelimeler": [
-      "paraşüt",
-      "boşluk",
-      "süzülmek",
-      "yükseklik",
-      "uçaktan"
-    ],
-    "zorluk": "kolay",
-    "id": 71
-  },
-  {
-    "kategori": "havacilik",
-    "kelime": "pasaport kontrolünden geçmek",
-    "aciklama": "yurt dışı uçuşu öncesinde terminalde polis gişesinde pasaport kontrolünden geçmek.",
+    "kelime": "pasaport kontrolü",
+    "aciklama": "yurt dışı uçuşlarında terminalde polis gişesinde yapılan kimlik denetimi.",
     "yasakli_kelimeler": [
       "polis",
       "damga",
+      "vize",
       "yurt dışı",
-      "havalimanı",
-      "sıra"
+      "gişe"
     ],
     "zorluk": "kolay",
-    "id": 72
+    "id": 69
   }
 ]

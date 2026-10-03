@@ -17,7 +17,7 @@
     "id": 2,
     "kategori": "tenis",
     "kelime": "çim kort",
-    "aciklama": "özellikle wimbledonda kullanılan, topun alçaktan ve çok hızlı sekmesine yol.",
+    "aciklama": "wimbledon'da kullanılan ve topun hızlı sektiği zemin.",
     "yasakli_kelimeler": [
       "yeşil zemin",
       "wimbledon",
@@ -31,7 +31,7 @@
     "id": 3,
     "kategori": "tenis",
     "kelime": "toprak kort",
-    "aciklama": "kiremit tozuyla kaplı, roland garrosta kullanılan ve oyuncuların kayarak vuruş.",
+    "aciklama": "roland garros ile bilinen kırmızı kiremit tozu zemin.",
     "yasakli_kelimeler": [
       "kiremit tozu",
       "roland garros",
@@ -45,7 +45,7 @@
     "id": 4,
     "kategori": "tenis",
     "kelime": "sert kort",
-    "aciklama": "asfalt veya beton üzerine akrilik boya kaplanarak yapılan en yaygın.",
+    "aciklama": "akrilik kaplamayla yapılan hızlı ve yaygın tenis zemini.",
     "yasakli_kelimeler": [
       "amerika açık",
       "beton zemin",
@@ -73,7 +73,7 @@
     "id": 6,
     "kategori": "tenis",
     "kelime": "hakem kulesi",
-    "aciklama": "filenin hemen yanında bulunan ve başhakemin maçı yüksekten net görebilmek.",
+    "aciklama": "kortun yanında bulunan ve başhakemin oturduğu yüksek sandalye.",
     "yasakli_kelimeler": [
       "yüksek merdiven",
       "başhakem sandalyesi",
@@ -101,7 +101,7 @@
     "id": 8,
     "kategori": "tenis",
     "kelime": "merkez kort",
-    "aciklama": "turnuvaların en önemli finallerinin oynandığı ve binlerce seyirci kapasitesine sahip.",
+    "aciklama": "turnuva finallerinin oynandığı en büyük ana saha.",
     "yasakli_kelimeler": [
       "ana stadyum",
       "centre court",
@@ -115,7 +115,7 @@
     "id": 9,
     "kategori": "tenis",
     "kelime": "gece maçı",
-    "aciklama": "projektörlerin altında akşam saatlerinde binlerce coşkulu seyirci önünde oynanan tenis.",
+    "aciklama": "akşam saatlerinde ışıklandırma altında oynanan karşılaşma.",
     "yasakli_kelimeler": [
       "projektör aydınlatması",
       "akşam seansı",
@@ -127,62 +127,6 @@
   },
   {
     "id": 10,
-    "kategori": "tenis",
-    "kelime": "kapalı kort",
-    "aciklama": "yağmur veya soğuktan etkilenmemek için çatısı örtülü olan salondaki tenis.",
-    "yasakli_kelimeler": [
-      "kapalı salon",
-      "çatılı saha",
-      "yağmursuz ortam",
-      "kapalı tenis",
-      "salon turnuvası"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 11,
-    "kategori": "tenis",
-    "kelime": "açık kort",
-    "aciklama": "güneşin altında ve rüzgarlı açık havada bulunan geleneksel tenis sahası.",
-    "yasakli_kelimeler": [
-      "açık hava",
-      "güneş altında",
-      "rüzgar etkisi",
-      "dış saha",
-      "çatısız kort"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 12,
-    "kategori": "tenis",
-    "kelime": "kırmızı toprak",
-    "aciklama": "roland garros ile özdeşleşen ve oyuncuların kıyafetlerini turuncu kiremit tozuna.",
-    "yasakli_kelimeler": [
-      "kiremit tozu",
-      "fransa açık",
-      "toprak zemin",
-      "turuncu renk",
-      "kayma hareketi"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 13,
-    "kategori": "tenis",
-    "kelime": "beton kort",
-    "aciklama": "üzerinde hiçbir yumuşatıcı kaplama bulunmayan, topun hızlı ve sert sektiği.",
-    "yasakli_kelimeler": [
-      "sert zemin",
-      "beton zemin",
-      "diz yoran",
-      "hızlı sekme",
-      "açık saha"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 14,
     "kategori": "tenis",
     "kelime": "tenis raketi",
     "aciklama": "topa vurmak için kullanılan, telleri gergin ve uzun saplı temel.",
@@ -196,10 +140,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 15,
+    "id": 11,
     "kategori": "tenis",
     "kelime": "tenis topu",
-    "aciklama": "dışı sarı renkli keçeyle kaplı, içi basınçlı gazla dolu olan.",
+    "aciklama": "dışı sarı renkli keçeyle kaplı, içi basınçlı gazla dolu.",
     "yasakli_kelimeler": [
       "sarı keçe",
       "tüylü yuvarlak",
@@ -210,21 +154,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 16,
-    "kategori": "tenis",
-    "kelime": "raket kılıfı",
-    "aciklama": "raketi dış darbelerden, nemden ve tel kopmalarından korumak için fermuarlı.",
-    "yasakli_kelimeler": [
-      "fermuarlı çanta",
-      "koruyucu kılıf",
-      "omuz askısı",
-      "raket koruma",
-      "ekipman kılıfı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 17,
+    "id": 12,
     "kategori": "tenis",
     "kelime": "raket teli",
     "aciklama": "raketin kafasına belirli bir tansiyonla gerilen ve topun çarpıp fırlamasını.",
@@ -238,24 +168,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 18,
-    "kategori": "tenis",
-    "kelime": "raket kordajı",
-    "aciklama": "raketin vuruş yüzeyini oluşturan dikey ve yatay gergin tellerin örgü.",
-    "yasakli_kelimeler": [
-      "tel örgüsü",
-      "tansiyon kilosu",
-      "vuruş yüzeyi",
-      "tel çekme makinesi",
-      "tel takımı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 19,
+    "id": 13,
     "kategori": "tenis",
     "kelime": "bilek bandı",
-    "aciklama": "alındaki teri silmek ve raket tutan elin terlemesini engellemek için.",
+    "aciklama": "alındaki teri silmek ve raket tutan elin terlemesini engellemek.",
     "yasakli_kelimeler": [
       "havlu kumaş",
       "ter silme",
@@ -266,7 +182,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 20,
+    "id": 14,
     "kategori": "tenis",
     "kelime": "tenis şapkası",
     "aciklama": "servis atarken veya güneşli havada oynarken gözleri güneş ışığından koruyan.",
@@ -280,7 +196,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 21,
+    "id": 15,
     "kategori": "tenis",
     "kelime": "tenis eteği",
     "aciklama": "kadın tenisçilerin sahada rahat hareket edebilmesi için pileli ve altında.",
@@ -294,7 +210,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 22,
+    "id": 16,
     "kategori": "tenis",
     "kelime": "tenis ayakkabısı",
     "aciklama": "kort zeminine zarar vermeyen, tabanı kaymayı ve ani duruşları destekleyen.",
@@ -308,21 +224,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 23,
-    "kategori": "tenis",
-    "kelime": "tenis çantası",
-    "aciklama": "içine altı ila on iki adet raket, yedek kıyafetler ve.",
-    "yasakli_kelimeler": [
-      "büyük spor çantası",
-      "raket bölmeli",
-      "termal göz",
-      "yedek raketler",
-      "omuzda taşıma"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 24,
+    "id": 17,
     "kategori": "tenis",
     "kelime": "top makinesi",
     "aciklama": "antrenmanlarda oyuncuya sürekli belirli açılarda ve hızlarda otomatik tenis topu.",
@@ -336,49 +238,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 25,
-    "kategori": "tenis",
-    "kelime": "sarı top",
-    "aciklama": "televizyon yayınlarında ve sahada en net şekilde görülebilmesi için optik.",
-    "yasakli_kelimeler": [
-      "optik sarı",
-      "keçeli yuvarlak",
-      "standart renk",
-      "ekranda görünme",
-      "tenis simgesi"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 26,
-    "kategori": "tenis",
-    "kelime": "yedek raket",
-    "aciklama": "maç sırasında tel koptuğunda veya raket hasar gördüğünde hemen çantadan.",
-    "yasakli_kelimeler": [
-      "tel kopması",
-      "çantadan çıkarma",
-      "hazır bekleyen",
-      "ikinci raket",
-      "kordaj değişimi"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 27,
-    "kategori": "tenis",
-    "kelime": "top sepeti",
-    "aciklama": "antrenörlerin onlarca topu içine doldurup antrenmanda sahaya döktüğü tekerlekli metal.",
-    "yasakli_kelimeler": [
-      "tel sepet",
-      "onlarca top",
-      "antrenör sepeti",
-      "yerden toplama",
-      "tekerlekli hazne"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 28,
+    "id": 18,
     "kategori": "tenis",
     "kelime": "forehand",
     "aciklama": "raketi tutan elin avuç içi karşıya bakacak şekilde vücudun dominant.",
@@ -392,7 +252,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 29,
+    "id": 19,
     "kategori": "tenis",
     "kelime": "backhand",
     "aciklama": "raketi tutan elin ters tarafıyla ve elin dış yüzü rakibe.",
@@ -406,10 +266,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 30,
+    "id": 20,
     "kategori": "tenis",
     "kelime": "tenis volesi",
-    "aciklama": "file önüne koşarak gelen topun yere sekmesine izin vermeden havada.",
+    "aciklama": "top yere sekmeden havada yapılan vuruş.",
     "yasakli_kelimeler": [
       "yere değmeden",
       "havada vurma",
@@ -420,35 +280,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 31,
-    "kategori": "tenis",
-    "kelime": "smaç vuruş",
-    "aciklama": "rakibin aşırtma topuna havaya zıplayarak tepe noktada servis atar gibi.",
-    "yasakli_kelimeler": [
-      "havada zıplama",
-      "tepeden vurma",
-      "bitirici vuruş",
-      "yüksek top",
-      "sert darbe"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 32,
-    "kategori": "tenis",
-    "kelime": "servis atışı",
-    "aciklama": "puanı başlatmak için topu havaya fırlatıp çaprazdaki servis kutusuna doğru.",
-    "yasakli_kelimeler": [
-      "oyun başlatma",
-      "topu havaya atma",
-      "çapraz kutu",
-      "ilk vuruş",
-      "ace hedefi"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 33,
+    "id": 21,
     "kategori": "tenis",
     "kelime": "alttan servis",
     "aciklama": "topu tepeye atmak yerine bel hizasından gizlice kesme vuruşla atıp.",
@@ -462,7 +294,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 34,
+    "id": 22,
     "kategori": "tenis",
     "kelime": "kesme vuruş",
     "aciklama": "raketi topun altına doğru eğik dilimleyerek vurup topun az sekmesini.",
@@ -476,7 +308,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 35,
+    "id": 23,
     "kategori": "tenis",
     "kelime": "aşırtma top",
     "aciklama": "fileye yaklaşmış olan rakibin üzerinden topu yüksek kavisle arkadaki boş.",
@@ -490,7 +322,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 36,
+    "id": 24,
     "kategori": "tenis",
     "kelime": "kısa top",
     "aciklama": "dip çizgide bekleyen rakibi gafil avlamak için topun hızını kesip.",
@@ -504,7 +336,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 37,
+    "id": 25,
     "kategori": "tenis",
     "kelime": "topspin",
     "aciklama": "raketin aşağıdan yukarıya fırçalanmasıyla topa ileri doğru dönme hareketi kazandırıp.",
@@ -518,35 +350,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 38,
-    "kategori": "tenis",
-    "kelime": "falso vuruş",
-    "aciklama": "topa dönme açısı kazandırarak havada rotasını değiştiren ve yere sektiğinde.",
-    "yasakli_kelimeler": [
-      "spin verme",
-      "dönen top",
-      "yön değiştirme",
-      "aldatıcı sekme",
-      "kavis"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 39,
-    "kategori": "tenis",
-    "kelime": "spin vuruş",
-    "aciklama": "topun kendi ekseni etrafında yüksek devirle dönmesini sağlayarak havada ve.",
-    "yasakli_kelimeler": [
-      "top dönmesi",
-      "yüksek devir",
-      "falsolu hareket",
-      "zor karşılama",
-      "topspin dilim"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 40,
+    "id": 26,
     "kategori": "tenis",
     "kelime": "ralli",
     "aciklama": "servis atıldıktan sonra topun file üzerinden iki oyuncu arasında hata.",
@@ -560,21 +364,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 41,
-    "kategori": "tenis",
-    "kelime": "lob vuruş",
-    "aciklama": "fileye hücum eden oyuncuyu geçmek için topu havaya dikip arka.",
-    "yasakli_kelimeler": [
-      "aşırtma tekniği",
-      "yüksek top",
-      "rakibi aşma",
-      "dip çizgiye düşürme",
-      "savunma aşırtması"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 42,
+    "id": 27,
     "kategori": "tenis",
     "kelime": "şampiyonluk sayısı",
     "aciklama": "tenis turnuvasının final maçında kupayı kazanmak için gereken son kritik.",
@@ -588,7 +378,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 43,
+    "id": 28,
     "kategori": "tenis",
     "kelime": "set puanı",
     "aciklama": "oyuncunun o puanı alması halinde oynanmakta olan seti hanesine yazdıracağı.",
@@ -602,7 +392,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 44,
+    "id": 29,
     "kategori": "tenis",
     "kelime": "tie-break",
     "aciklama": "sette durum altı altı berabere olduğunda uzatmayı çözmek için yedi.",
@@ -616,21 +406,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 45,
-    "kategori": "tenis",
-    "kelime": "ace vuruş",
-    "aciklama": "atılan harika servise rakibin raketiyle bile dokunamadan doğrudan kazanılan tertemiz.",
-    "yasakli_kelimeler": [
-      "dokunulamayan servis",
-      "doğrudan sayı",
-      "hızlı servis",
-      "kurtarılamayan top",
-      "servis sayısı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 46,
+    "id": 30,
     "kategori": "tenis",
     "kelime": "çift hata",
     "aciklama": "oyuncunun hem birinci hem de ikinci servis denemesinde topu kutunun.",
@@ -644,7 +420,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 47,
+    "id": 31,
     "kategori": "tenis",
     "kelime": "ayak hatası",
     "aciklama": "servis atışı sırasında topa vurmadan önce ayağın arka çizgiye basması.",
@@ -658,7 +434,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 48,
+    "id": 32,
     "kategori": "tenis",
     "kelime": "çizgi dışı",
     "aciklama": "vurulan topun kortun sınır çizgilerinin tamamen dışındaki boşluğa düşmesi hali.",
@@ -672,10 +448,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 49,
+    "id": 33,
     "kategori": "tenis",
     "kelime": "avantaj puanı",
-    "aciklama": "kırk kırk beraberlikten sonra alınan ilk sayı ve oyunu kazanmak.",
+    "aciklama": "beraberlikten sonra oyunu kazanmak için gereken kritik sayı.",
     "yasakli_kelimeler": [
       "kırk kırk sonrası",
       "ad in veya ad out",
@@ -686,10 +462,10 @@
     "zorluk": "orta"
   },
   {
-    "id": 50,
+    "id": 34,
     "kategori": "tenis",
     "kelime": "birinci servis",
-    "aciklama": "oyuncunun hata payını göze alarak en yüksek hız ve riskle.",
+    "aciklama": "oyuncunun risk alarak hızla attığı ilk servis.",
     "yasakli_kelimeler": [
       "ilk servis",
       "yüksek hız",
@@ -700,10 +476,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 51,
+    "id": 35,
     "kategori": "tenis",
     "kelime": "ikinci servis",
-    "aciklama": "ilk servis kaçtıktan sonra çift hata yapmamak için daha garantili.",
+    "aciklama": "çift hatayı önlemek için daha garantili atılan servis.",
     "yasakli_kelimeler": [
       "ikinci hak",
       "garantili atış",
@@ -714,10 +490,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 52,
+    "id": 36,
     "kategori": "tenis",
     "kelime": "tıbbi mola",
-    "aciklama": "sakatlanan tenisçinin fizyoterapist çağırıp kort üzerinde tedavi alması için verilen.",
+    "aciklama": "sakatlanan oyuncunun tedavi alması için verilen resmi ara.",
     "yasakli_kelimeler": [
       "medical timeout",
       "fizyoterapist",
@@ -728,10 +504,10 @@
     "zorluk": "orta"
   },
   {
-    "id": 53,
+    "id": 37,
     "kategori": "tenis",
     "kelime": "final seti",
-    "aciklama": "maçın berabere giden setlerinin ardından kazananı tayin eden son ve.",
+    "aciklama": "maçın kazananını belirleyen son ve karar seti.",
     "yasakli_kelimeler": [
       "son bölüm",
       "kazananı belirleme",
@@ -742,10 +518,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 54,
+    "id": 38,
     "kategori": "tenis",
     "kelime": "hakem uyarısı",
-    "aciklama": "raket kıran, küfreden veya zamanı aşan tenisçiye kule hakeminin mikrofondan.",
+    "aciklama": "kural ihlali yapan oyuncuya hakemin verdiği ikaz.",
     "yasakli_kelimeler": [
       "resmi uyarı",
       "code violation",
@@ -756,35 +532,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 55,
-    "kategori": "tenis",
-    "kelime": "let kararı",
-    "aciklama": "filenin üst bandına değip doğru servis kutusuna giren topun hakem.",
-    "yasakli_kelimeler": [
-      "fileye değme",
-      "servis tekrarı",
-      "hakem let anonsu",
-      "net sesi",
-      "geçerli düşüş"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 56,
-    "kategori": "tenis",
-    "kelime": "deuce durumu",
-    "aciklama": "oyunda kırk kırk skoruna ulaşıldığında tabelada iki puanlık üstünlük aranacağını.",
-    "yasakli_kelimeler": [
-      "kırk kırk",
-      "beraberlik",
-      "iki sayı fark",
-      "avantaj öncesi",
-      "hakem terimi"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 57,
+    "id": 39,
     "kategori": "tenis",
     "kelime": "grand slam",
     "aciklama": "tenis takvimindeki en büyük ve en prestijli dört büyük turnuvaya.",
@@ -798,7 +546,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 58,
+    "id": 40,
     "kategori": "tenis",
     "kelime": "wimbledon",
     "aciklama": "londrada düzenlenen, oyuncuların tamamen beyaz giyme zorunluluğu olan en eski.",
@@ -812,7 +560,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 59,
+    "id": 41,
     "kategori": "tenis",
     "kelime": "roland garros",
     "aciklama": "pariste kırmızı toprak kortlarda düzenlenen ve rafael nadalin rekorlar kırdığı.",
@@ -826,7 +574,7 @@
     "zorluk": "zor"
   },
   {
-    "id": 60,
+    "id": 42,
     "kategori": "tenis",
     "kelime": "avustralya açık",
     "aciklama": "her yıl ocak ayında melbourne şehrinde mavi sert kortlarda düzenlenen.",
@@ -840,7 +588,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 61,
+    "id": 43,
     "kategori": "tenis",
     "kelime": "amerika açık",
     "aciklama": "new yorkta eylül ayında dev arthur ashe stadyumunda gece maçlarıyla.",
@@ -854,7 +602,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 62,
+    "id": 44,
     "kategori": "tenis",
     "kelime": "davis kupası",
     "aciklama": "tenisçilerin bireysel değil milli takımları adına ülkelerini temsil ederek yarıştığı.",
@@ -868,7 +616,7 @@
     "zorluk": "zor"
   },
   {
-    "id": 63,
+    "id": 45,
     "kategori": "tenis",
     "kelime": "şampiyonluk kupası",
     "aciklama": "turnuva finalini kazanan sporcunun havaya kaldırıp öptüğü gümüş veya altın.",
@@ -882,21 +630,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 64,
-    "kategori": "tenis",
-    "kelime": "ana tablo",
-    "aciklama": "turnuvada yüz yirmi sekiz sporcunun eşleştiği ve şampiyonluğa kadar giden.",
-    "yasakli_kelimeler": [
-      "turnuva ağacı",
-      "yüz yirmi sekiz oyuncu",
-      "ilk tur",
-      "eşleşme tablosu",
-      "turnuva listesi"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 65,
+    "id": 46,
     "kategori": "tenis",
     "kelime": "seri başı",
     "aciklama": "dünya sıralamasındaki yerine göre ilk turlarda birbirleriyle karşılaşmaması için korunan.",
@@ -910,35 +644,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 66,
-    "kategori": "tenis",
-    "kelime": "kura çekimi",
-    "aciklama": "turnuva başlamadan önce hangi tenisçinin kiminle ilk turda oynayacağını belirleyen.",
-    "yasakli_kelimeler": [
-      "eşleşme kuraları",
-      "turnuva öncesi",
-      "rakip belirleme",
-      "torbadan çekme",
-      "tablo yerleşimi"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 67,
-    "kategori": "tenis",
-    "kelime": "turnuva şampiyonu",
-    "aciklama": "iki hafta süren zorlu mücadelede tüm rakiplerini yenerek kupayı kazanan.",
-    "yasakli_kelimeler": [
-      "finali kazanan",
-      "kupayı alan",
-      "birinci olan",
-      "büyük kazanan",
-      "zafer sahibi"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 68,
+    "id": 47,
     "kategori": "tenis",
     "kelime": "tek erkekler",
     "aciklama": "turnuvalarda erkek tenisçilerin bire bir olarak birbirleriyle yarıştığı en popüler.",
@@ -952,7 +658,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 69,
+    "id": 48,
     "kategori": "tenis",
     "kelime": "tek kadınlar",
     "aciklama": "kadın tenisçilerin şampiyonluk kupası için tekler ana tablosunda kıyasıya mücadele.",
@@ -966,7 +672,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 70,
+    "id": 49,
     "kategori": "tenis",
     "kelime": "çift erkekler",
     "aciklama": "ikişer erkek oyuncudan oluşan iki takımın genişletilmiş kortta file önü.",
@@ -980,7 +686,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 71,
+    "id": 50,
     "kategori": "tenis",
     "kelime": "çift kadınlar",
     "aciklama": "kadın tenisçilerin ikişerli partnerler halinde sahada takım olarak mücadele ettiği.",
@@ -994,7 +700,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 72,
+    "id": 51,
     "kategori": "tenis",
     "kelime": "karışık çiftler",
     "aciklama": "kadın ve bir erkek oyuncunun aynı takımda bir araya gelerek.",
@@ -1008,7 +714,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 73,
+    "id": 52,
     "kategori": "tenis",
     "kelime": "final maçı",
     "aciklama": "turnuvada tüm rakiplerini eleyerek son ikiye kalan iki efsane tenisçinin.",
@@ -1022,35 +728,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 74,
-    "kategori": "tenis",
-    "kelime": "şampiyonluk tabağı",
-    "aciklama": "wimbledon tek kadınlar şampiyonuna verilen geleneksel ve tarihi gümüş gül.",
-    "yasakli_kelimeler": [
-      "wimbledon kadınlar",
-      "gümüş tabak",
-      "rosewater dish",
-      "kupa yerine tabak",
-      "ingiliz ödülü"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 75,
-    "kategori": "tenis",
-    "kelime": "wild card",
-    "aciklama": "sıralaması yetmeyen ancak ev sahibi ülke veya popüler sporculara turnuva.",
-    "yasakli_kelimeler": [
-      "özel davet",
-      "sıralamasız giriş",
-      "turnuva kontenjanı",
-      "torpil kartı",
-      "komite seçimi"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 76,
+    "id": 53,
     "kategori": "tenis",
     "kelime": "tenis kulübü",
     "aciklama": "üyelerin kort kiraladığı, tenis dersleri aldığı ve sosyalleştiği kortlarla dolu.",
@@ -1064,10 +742,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 77,
+    "id": 54,
     "kategori": "tenis",
     "kelime": "roger federer",
-    "aciklama": "zarif tek el backhandi, yirmi grand slam şampiyonluğu ve ekselansları.",
+    "aciklama": "yirmi grand slam zaferi kazanan efsanevi isviçreli raket.",
     "yasakli_kelimeler": [
       "isviçre",
       "ekselansları",
@@ -1078,10 +756,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 78,
+    "id": 55,
     "kategori": "tenis",
     "kelime": "rafael nadal",
-    "aciklama": "toprak kortun kralı , on dört roland garros şampiyonluğu kazanan.",
+    "aciklama": "toprak kortun kralı olarak anılan ispanyol şampiyon.",
     "yasakli_kelimeler": [
       "toprak kortun kralı",
       "ispanyol boğası",
@@ -1092,10 +770,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 79,
+    "id": 56,
     "kategori": "tenis",
     "kelime": "novak djokovic",
-    "aciklama": "en çok grand slam kazanan, inanılmaz esnekliği ve geri dönüşleriyle.",
+    "aciklama": "en çok grand slam kazanan sırp tenis efsanesi.",
     "yasakli_kelimeler": [
       "sırp tenisçi",
       "nole",
@@ -1106,10 +784,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 80,
+    "id": 57,
     "kategori": "tenis",
     "kelime": "serena williams",
-    "aciklama": "yirmi üç grand slam tekler şampiyonluğuyla kadın tenis tarihinin en.",
+    "aciklama": "yirmi üç grand slam zaferine sahip amerikalı şampiyon.",
     "yasakli_kelimeler": [
       "yirmi üç şampiyonluk",
       "güçlü servis",
@@ -1120,7 +798,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 81,
+    "id": 58,
     "kategori": "tenis",
     "kelime": "venus williams",
     "aciklama": "uzun boyu, güçlü vuruşları ve serena ile birlikte kadın tenisini.",
@@ -1134,10 +812,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 82,
+    "id": 59,
     "kategori": "tenis",
     "kelime": "pete sampras",
-    "aciklama": "doksanlı yıllara servis vole oyunu ve sert smaçlarıyla damga vuran.",
+    "aciklama": "doksanlı yıllara servis vole oyunuyla damga vuran efsane.",
     "yasakli_kelimeler": [
       "doksanlar",
       "tabanca pete",
@@ -1148,10 +826,10 @@
     "zorluk": "orta"
   },
   {
-    "id": 83,
+    "id": 60,
     "kategori": "tenis",
     "kelime": "andre agassi",
-    "aciklama": "renkli saç bantları, kot şortu ve kusursuz servis karşılamalarıyla tanınan.",
+    "aciklama": "farklı tarzı ve güçlü vuruşlarıyla tanınan amerikalı şampiyon.",
     "yasakli_kelimeler": [
       "asi tenisçi",
       "pete sampras rakibi",
@@ -1162,7 +840,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 84,
+    "id": 61,
     "kategori": "tenis",
     "kelime": "björn borg",
     "aciklama": "buz adam lakaplı, saç bandı ve tahta raketiyle üst üste.",
@@ -1176,7 +854,7 @@
     "zorluk": "zor"
   },
   {
-    "id": 85,
+    "id": 62,
     "kategori": "tenis",
     "kelime": "john mcenroe",
     "aciklama": "hakemlere ciddi olamazsınız diye bağırması ve korttaki öfke patlamalarıyla ünlü.",
@@ -1190,7 +868,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 86,
+    "id": 63,
     "kategori": "tenis",
     "kelime": "steffi graf",
     "aciklama": "aynı yıl dört grand slam ve olimpiyat altını kazanarak altın.",
@@ -1204,49 +882,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 87,
-    "kategori": "tenis",
-    "kelime": "carlos alcaraz",
-    "aciklama": "genç yaşta dünya bir numarası olan ve inanılmaz hızıyla nadalin.",
-    "yasakli_kelimeler": [
-      "genç ispanyol",
-      "wimbledon şampiyonu",
-      "hızlı bacaklar",
-      "yeni nesil kral",
-      "jannik sinner rakibi"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 88,
-    "kategori": "tenis",
-    "kelime": "jannik sinner",
-    "aciklama": "kızıl saçları, soğukkanlı tavırları ve dip çizgiden attığı füze gibi.",
-    "yasakli_kelimeler": [
-      "italyan yıldız",
-      "kızıl saçlı",
-      "avustralya açık şampiyonu",
-      "dip çizgi gücü",
-      "alcaraz rekabeti"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 89,
-    "kategori": "tenis",
-    "kelime": "iga swiatek",
-    "aciklama": "toprak korttaki inanılmaz hakimiyeti ve şapkasıyla tanınan kadınlar dünya bir.",
-    "yasakli_kelimeler": [
-      "polonyalı şampiyon",
-      "roland garros kraliçesi",
-      "bir numara",
-      "beyaz şapka",
-      "toprak kort üstünlüğü"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 90,
+    "id": 64,
     "kategori": "tenis",
     "kelime": "boris becker",
     "aciklama": "on yedi yaşında wimbledon kazanan en genç erkek tenisçi olarak.",
@@ -1260,7 +896,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 91,
+    "id": 65,
     "kategori": "tenis",
     "kelime": "andy murray",
     "aciklama": "büyük dörtlü arasında bulunan, yetmiş yedi yıl sonra wimbledonı kazanan.",
@@ -1274,7 +910,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 92,
+    "id": 66,
     "kategori": "tenis",
     "kelime": "maria sharapova",
     "aciklama": "on yedi yaşında wimbledon kazanan, vuruş anındaki çığlıklarıyla ve zarafetiyle.",
@@ -1288,52 +924,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 93,
-    "kategori": "tenis",
-    "kelime": "daniil medvedev",
-    "aciklama": "ahtapot gibi her yere uzanan sıra dışı tekniği ve seyirciyle.",
-    "yasakli_kelimeler": [
-      "ahtapot stili",
-      "rus raket",
-      "amerika açık şampiyonu",
-      "tuhaf teknik",
-      "seyirci diyaloğu"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 94,
-    "kategori": "tenis",
-    "kelime": "alexander zverev",
-    "aciklama": "iki metrelik boyu, devasa servisleri ve güçlü backhand vuruşlarıyla tanınan.",
-    "yasakli_kelimeler": [
-      "iki metre boy",
-      "alman tenisçi",
-      "sascha",
-      "olimpiyat şampiyonu",
-      "büyük servis"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 95,
-    "kategori": "tenis",
-    "kelime": "martina navratilova",
-    "aciklama": "toplamda elli dokuz grand slam zaferiyle tenis tarihinin en çok.",
-    "yasakli_kelimeler": [
-      "elli dokuz kupa",
-      "çek asıllı amerikan",
-      "çiftler kraliçesi",
-      "tarihi rekor",
-      "solak efsane"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 96,
+    "id": 67,
     "kategori": "tenis",
     "kelime": "kule hakemi",
-    "aciklama": "maçı yüksek koltuğundan yöneten, skoru anons eden ve tartışmalı kararlarda.",
+    "aciklama": "maçı yüksek koltuktan yöneten ve kararları veren başhakem.",
     "yasakli_kelimeler": [
       "yüksek koltuk",
       "chair umpire",
@@ -1344,7 +938,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 97,
+    "id": 68,
     "kategori": "tenis",
     "kelime": "çizgi hakemi",
     "aciklama": "kortun kenar ve dip çizgilerinin hizasında durarak topun dışarı çıkıp.",
@@ -1358,10 +952,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 98,
+    "id": 69,
     "kategori": "tenis",
     "kelime": "şahin gözü",
-    "aciklama": "kameralarla topun milimetrik izini takip edip dev ekranda içeride veya.",
+    "aciklama": "topun kort çizgisine basıp basmadığını gösteren kamera sistemi.",
     "yasakli_kelimeler": [
       "hawk-eye",
       "bilgisayar simülasyonu",
@@ -1372,7 +966,7 @@
     "zorluk": "zor"
   },
   {
-    "id": 99,
+    "id": 70,
     "kategori": "tenis",
     "kelime": "itiraz hakkı",
     "aciklama": "hakemin verdiği out veya in kararına şüpheyle yaklaşan oyuncunun şahin.",
@@ -1386,7 +980,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 100,
+    "id": 71,
     "kategori": "tenis",
     "kelime": "tenis antrenörü",
     "aciklama": "oyuncunun tekniğini, kondisyonunu ve maç taktiğini tribündeki oyuncu locasından yönlendiren.",
@@ -1396,34 +990,6 @@
       "taktik veren",
       "hazırlayıcı",
       "antrenman hocası"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 101,
-    "kategori": "tenis",
-    "kelime": "seyirci sessizliği",
-    "aciklama": "servis atılmadan hemen önce oyuncunun konsantre olabilmesi için tüm stadyumun.",
-    "yasakli_kelimeler": [
-      "servis öncesi çıt çıkmaması",
-      "mutlak sessizlik",
-      "konsantrasyon",
-      "tribün saygısı",
-      "sessizlik kuralı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 102,
-    "kategori": "tenis",
-    "kelime": "raket kırma",
-    "aciklama": "oyuncunun öfkesine yenik düşüp elindeki pahalı raketi zemine vurarak paramparça.",
-    "yasakli_kelimeler": [
-      "öfke patlaması",
-      "yere çarpma",
-      "parçalama",
-      "ceza uyarısı",
-      "sinir krizi"
     ],
     "zorluk": "kolay"
   },
@@ -1439,7 +1005,7 @@
       "hata"
     ],
     "zorluk": "kolay",
-    "id": 103
+    "id": 72
   },
   {
     "kategori": "tenis",
@@ -1453,21 +1019,7 @@
       "puan"
     ],
     "zorluk": "kolay",
-    "id": 104
-  },
-  {
-    "kategori": "tenis",
-    "kelime": "top toplamak",
-    "aciklama": "kort dışına çıkan veya fileye takılan topları saha görevlilerinin toplaması.",
-    "yasakli_kelimeler": [
-      "çocuk",
-      "kort",
-      "görevli",
-      "file",
-      "top"
-    ],
-    "zorluk": "kolay",
-    "id": 105
+    "id": 73
   },
   {
     "kategori": "tenis",
@@ -1481,7 +1033,7 @@
       "sinirlenmek"
     ],
     "zorluk": "kolay",
-    "id": 106
+    "id": 74
   },
   {
     "kategori": "tenis",
@@ -1495,21 +1047,7 @@
       "hızlı"
     ],
     "zorluk": "orta",
-    "id": 107
-  },
-  {
-    "kategori": "tenis",
-    "kelime": "çift hata yapmak",
-    "aciklama": "üst üste iki servis denemesinde de topu servis kutusuna atamayarak.",
-    "yasakli_kelimeler": [
-      "servis",
-      "iki",
-      "out",
-      "kutu",
-      "kaybetmek"
-    ],
-    "zorluk": "orta",
-    "id": 108
+    "id": 75
   },
   {
     "kategori": "tenis",
@@ -1523,6 +1061,6 @@
       "break"
     ],
     "zorluk": "orta",
-    "id": 109
+    "id": 76
   }
 ]

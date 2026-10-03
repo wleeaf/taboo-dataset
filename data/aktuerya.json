@@ -3,7 +3,7 @@
     "id": 1,
     "kategori": "aktuerya",
     "kelime": "aktüer",
-    "aciklama": "finansal riskleri ve sigorta primlerini hesaplayan matematik uzmanı.",
+    "aciklama": "finansal riskleri ve sigorta primlerini hesaplayan uzman.",
     "yasakli_kelimeler": [
       "sigorta",
       "matematik",
@@ -17,7 +17,7 @@
     "id": 2,
     "kategori": "aktuerya",
     "kelime": "yaşam beklentisi",
-    "aciklama": "bir bireyin mevcut ölüm oranlarına göre tahmini yaşam süresi.",
+    "aciklama": "bireyin ölüm oranlarına göre tahmini yaşam süresi.",
     "yasakli_kelimeler": [
       "ömür",
       "ortalama",
@@ -31,7 +31,7 @@
     "id": 3,
     "kategori": "aktuerya",
     "kelime": "prim",
-    "aciklama": "sigortalının teminat karşılığında sigorta şirketine ödediği periyodik ücret.",
+    "aciklama": "sigortalının teminat karşılığında şirkete ödediği düzenli ücret.",
     "yasakli_kelimeler": [
       "ücret",
       "ödeme",
@@ -73,7 +73,7 @@
     "id": 6,
     "kategori": "aktuerya",
     "kelime": "hasar tespiti",
-    "aciklama": "hasar sonrası maddi kaybın yerinde incelenerek raporlanması işlemi.",
+    "aciklama": "hasar sonrası maddi kaybın incelenip tutanağa bağlanması.",
     "yasakli_kelimeler": [
       "eksper",
       "rapor",
@@ -87,7 +87,7 @@
     "id": 7,
     "kategori": "aktuerya",
     "kelime": "dask",
-    "aciklama": "türkiye'de zorunlu deprem sigortasını yürüten resmi kurum.",
+    "aciklama": "türkiye'de zorunlu deprem sigortasını düzenleyen resmi kurum.",
     "yasakli_kelimeler": [
       "deprem",
       "zorunlu",
@@ -115,7 +115,7 @@
     "id": 9,
     "kategori": "aktuerya",
     "kelime": "bireysel emeklilik",
-    "aciklama": "kamu güvencesine ek olarak tasarruf sağlayan emeklilik sistemi.",
+    "aciklama": "düzenli tasarrufla ek gelir sağlayan emeklilik sistemi.",
     "yasakli_kelimeler": [
       "bes",
       "tasarruf",
@@ -128,22 +128,8 @@
   {
     "id": 10,
     "kategori": "aktuerya",
-    "kelime": "risk primi",
-    "aciklama": "paranın zaman değerini hesaplarken kullanılan faiz oranı.",
-    "yasakli_kelimeler": [
-      "fiyat",
-      "eklenti",
-      "belirsizlik",
-      "marj",
-      "prim"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 11,
-    "kategori": "aktuerya",
     "kelime": "lehtar",
-    "aciklama": "aşırı kriz durumlarının şirket bilançosuna etkisini ölçen analiz.",
+    "aciklama": "sigorta tazminatını tahsil etmeye yetkili hak sahibi.",
     "yasakli_kelimeler": [
       "menfaattar",
       "tazminat",
@@ -154,10 +140,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 12,
+    "id": 11,
     "kategori": "aktuerya",
     "kelime": "sigortalı",
-    "aciklama": "şirketin üstlenmeye hazır olduğu azami risk düzeyi.",
+    "aciklama": "menfaati sigorta poliçesi ile korunan kişi.",
     "yasakli_kelimeler": [
       "menfaat",
       "şahıs",
@@ -168,10 +154,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 13,
+    "id": 12,
     "kategori": "aktuerya",
     "kelime": "devlet katkısı",
-    "aciklama": "rastgele sayılar üreterek finansal sonuçları simüle etme yöntemi.",
+    "aciklama": "bireysel emeklilikte devletin prime eklediği destek payı.",
     "yasakli_kelimeler": [
       "bes",
       "teşvik",
@@ -182,10 +168,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 14,
+    "id": 13,
     "kategori": "aktuerya",
     "kelime": "cayma hakkı",
-    "aciklama": "risk değerini aşan kayıpların beklenen ortalama büyüklüğü.",
+    "aciklama": "sözleşme imzalayan kişinin cezasız vazgeçme yasal hakkı.",
     "yasakli_kelimeler": [
       "vazgeçme",
       "süre",
@@ -196,10 +182,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 15,
+    "id": 14,
     "kategori": "aktuerya",
     "kelime": "hasarsızlık indirimi",
-    "aciklama": "faiz riskine karşı varlık ve yükümlülük sürelerini eşitleme tekniği.",
+    "aciklama": "kaza yapmayan sürücülere yenilemede yapılan fiyat indirimi.",
     "yasakli_kelimeler": [
       "indirim",
       "prim",
@@ -210,24 +196,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 16,
-    "kategori": "aktuerya",
-    "kelime": "beklenen ömür",
-    "aciklama": "belli bir fiyattan varlık alma veya satma hakkı veren sözleşme.",
-    "yasakli_kelimeler": [
-      "ortalama",
-      "yıl",
-      "yaşam süresi",
-      "ölüm",
-      "istatistik"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 17,
+    "id": 15,
     "kategori": "aktuerya",
     "kelime": "bekleme süresi",
-    "aciklama": "birikimli hayat sigortalarında poliçe süresi dolunca yapılan ödeme.",
+    "aciklama": "sağlık sigortasında teminatın başlaması için gereken süre.",
     "yasakli_kelimeler": [
       "muafiyet",
       "süre",
@@ -238,10 +210,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 18,
+    "id": 16,
     "kategori": "aktuerya",
     "kelime": "poliçe",
-    "aciklama": "hayat sigortalarında sigortalının vefatı durumunda ödenen teminat tutarı.",
+    "aciklama": "sigorta sözleşmesinin şartlarını gösteren resmi yazılı belge.",
     "yasakli_kelimeler": [
       "sigorta",
       "sözleşme",
@@ -252,24 +224,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 19,
-    "kategori": "aktuerya",
-    "kelime": "riziko",
-    "aciklama": "prim ödemeyi durdurup mevcut birikimle poliçeyi sürdürme durumu.",
-    "yasakli_kelimeler": [
-      "risk",
-      "tehlike",
-      "hasar",
-      "kaza",
-      "olasılık"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 20,
+    "id": 17,
     "kategori": "aktuerya",
     "kelime": "hasar",
-    "aciklama": "poliçenin birikim tutarı teminat gösterilerek şirketten alınan kredi.",
+    "aciklama": "kaza veya afet sonucu meydana gelen maddi zarar.",
     "yasakli_kelimeler": [
       "zarar",
       "ziya",
@@ -280,10 +238,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 21,
+    "id": 18,
     "kategori": "aktuerya",
     "kelime": "ihbar süresi",
-    "aciklama": "yaşlılık veya sakatlıkta uzun süreli bakım masraflarını karşılayan poliçe.",
+    "aciklama": "hasarın sigorta şirketine bildirilmesi gereken yasal süre.",
     "yasakli_kelimeler": [
       "bildirim",
       "süre",
@@ -294,24 +252,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 22,
-    "kategori": "aktuerya",
-    "kelime": "sigorta bedeli",
-    "aciklama": "sağlık sigortalarında poliçe kapsamına alınmayan istisna hastalık ve durumlar.",
-    "yasakli_kelimeler": [
-      "tutar",
-      "limit",
-      "poliçe",
-      "para",
-      "azami"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 23,
+    "id": 19,
     "kategori": "aktuerya",
     "kelime": "rayiç değer",
-    "aciklama": "poliçe başladıktan sonra teminatın devreye girmesi için gereken süre.",
+    "aciklama": "bir malın serbest piyasadaki güncel alım satım değeri.",
     "yasakli_kelimeler": [
       "piyasa",
       "fiyat",
@@ -322,24 +266,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 24,
-    "kategori": "aktuerya",
-    "kelime": "prim iadesi",
-    "aciklama": "sigorta tazminatını almak için sunulan resmi hasar talebi.",
-    "yasakli_kelimeler": [
-      "iptal",
-      "geri ödeme",
-      "para",
-      "iade",
-      "gün"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 25,
+    "id": 20,
     "kategori": "aktuerya",
     "kelime": "risk analizi",
-    "aciklama": "hukuki uyuşmazlıkları mahkemeye gitmeden tarafsız hakemle çözme yolu.",
+    "aciklama": "olası tehlikelerin ve zararların önceden bilimsel incelenmesi.",
     "yasakli_kelimeler": [
       "inceleme",
       "ölçüm",
@@ -350,10 +280,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 26,
+    "id": 21,
     "kategori": "aktuerya",
     "kelime": "risk yönetimi",
-    "aciklama": "sigorta şirketinin iflası halinde sigortalıları koruyan resmi fon.",
+    "aciklama": "maddi kayıpları en aza indirmek için planlama süreci.",
     "yasakli_kelimeler": [
       "kontrol",
       "planlama",
@@ -364,24 +294,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 27,
-    "kategori": "aktuerya",
-    "kelime": "standart sapma",
-    "aciklama": "uluslararası aktüerya derneklerini çatısı altında toplayan küresel birlik.",
-    "yasakli_kelimeler": [
-      "sapma",
-      "yayılım",
-      "varyans",
-      "istatistik",
-      "dağılım"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 28,
+    "id": 22,
     "kategori": "aktuerya",
     "kelime": "hayat sigortası",
-    "aciklama": "aktüerin bağımsız, tarafsız ve dürüst davranmasını zorunlu kılan ahlaki ilkeler.",
+    "aciklama": "vefat veya sakatlık durumunda aileye güvence veren sigorta.",
     "yasakli_kelimeler": [
       "vefat",
       "ölüm",
@@ -392,10 +308,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 29,
+    "id": 23,
     "kategori": "aktuerya",
     "kelime": "maluliyet",
-    "aciklama": "şirketin yasal aktüerinin bilançoya ilişkin hazırladığı resmi uzmanlık raporu.",
+    "aciklama": "kaza neticesinde çalışma gücünün kalıcı olarak kaybedilmesi.",
     "yasakli_kelimeler": [
       "sakatlık",
       "iş göremezlik",
@@ -406,10 +322,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 30,
+    "id": 24,
     "kategori": "aktuerya",
     "kelime": "amortisman",
-    "aciklama": "tüm sigorta branşlarındaki aktüeryal hesaplamaları onaylayan yetkili aktüer.",
+    "aciklama": "duran varlıkların eskime ve aşınma payı değer kaybı.",
     "yasakli_kelimeler": [
       "yıpranma",
       "aşınma",
@@ -420,10 +336,10 @@
     "zorluk": "orta"
   },
   {
-    "id": 31,
+    "id": 25,
     "kategori": "aktuerya",
     "kelime": "ikramiye",
-    "aciklama": "kar paylı poliçelerde yatırımların getirisine bağlı olarak eklenen kazanç.",
+    "aciklama": "çalışanlara veya hak sahiplerine verilen dönemsel ek ödeme.",
     "yasakli_kelimeler": [
       "kar payı",
       "getiri",
@@ -434,10 +350,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 32,
+    "id": 26,
     "kategori": "aktuerya",
     "kelime": "kaza oranı",
-    "aciklama": "belirli bir dönemde düşen kaza yapma yüzdesi ve oranı.",
+    "aciklama": "belirli bir dönemdeki kaza yapma yüzdesi ve sıklığı.",
     "yasakli_kelimeler": [
       "sıklık",
       "yüzde",
@@ -448,10 +364,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 33,
+    "id": 27,
     "kategori": "aktuerya",
     "kelime": "ölüm oranı",
-    "aciklama": "belirli bir süredeki ölüm sayısının toplam nüfusa oranı.",
+    "aciklama": "belirli süredeki vefat sayısının toplam nüfusa oranı.",
     "yasakli_kelimeler": [
       "vefat",
       "nüfus",
@@ -462,7 +378,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 34,
+    "id": 28,
     "kategori": "aktuerya",
     "kelime": "doğum oranı",
     "aciklama": "bir yıldaki canlı doğum sayısının toplam nüfusa oranı.",
@@ -476,10 +392,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 35,
+    "id": 29,
     "kategori": "aktuerya",
     "kelime": "nüfus piramidi",
-    "aciklama": "nüfusun yaş ve cinsiyete göre dağılımını gösteren grafik cetveli.",
+    "aciklama": "nüfusun yaş ve cinsiyet dağılımını gösteren grafik.",
     "yasakli_kelimeler": [
       "grafik",
       "yaş",
@@ -490,10 +406,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 36,
+    "id": 30,
     "kategori": "aktuerya",
     "kelime": "portföy",
-    "aciklama": "şirketin elinde bulundurduğu tüm yatırım ve poliçelerin toplamı.",
+    "aciklama": "bir kişi veya kurumun sahip olduğu finansal varlıklar.",
     "yasakli_kelimeler": [
       "varlık",
       "yatırım",
@@ -504,10 +420,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 37,
+    "id": 31,
     "kategori": "aktuerya",
     "kelime": "nakit akışı",
-    "aciklama": "şirkete giren ve şirketten çıkan nakit akış hareketleri.",
+    "aciklama": "kuruma giren ve çıkan paranın düzenli hareketi.",
     "yasakli_kelimeler": [
       "para",
       "giriş",
@@ -518,10 +434,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 38,
+    "id": 32,
     "kategori": "aktuerya",
     "kelime": "bileşik faiz",
-    "aciklama": "kazanılan faizin anaparaya eklenerek yeniden faiz kazanması sistemi.",
+    "aciklama": "faizin de anaparaya eklenerek yeniden getiri üretmesi.",
     "yasakli_kelimeler": [
       "anapara",
       "katlanma",
@@ -532,10 +448,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 39,
+    "id": 33,
     "kategori": "aktuerya",
     "kelime": "basit faiz",
-    "aciklama": "yalnızca anapara üzerinden hesaplanan dönemsel faiz türü.",
+    "aciklama": "yalnızca yatırılan anapara üzerinden hesaplanan faiz tutarı.",
     "yasakli_kelimeler": [
       "anapara",
       "sabit",
@@ -546,10 +462,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 40,
+    "id": 34,
     "kategori": "aktuerya",
     "kelime": "reel faiz",
-    "aciklama": "nominal faizden enflasyon düşüldükten sonraki reel getiri oranı.",
+    "aciklama": "enflasyondan arındırılmış net gerçek faiz getirisi oranı.",
     "yasakli_kelimeler": [
       "enflasyon",
       "net",
@@ -560,24 +476,10 @@
     "zorluk": "orta"
   },
   {
-    "id": 41,
-    "kategori": "aktuerya",
-    "kelime": "enflasyon riski",
-    "aciklama": "enflasyon sebebiyle paranın satın alma gücünü kaybetmesi tehlikesi.",
-    "yasakli_kelimeler": [
-      "satın alma gücü",
-      "fiyat artışı",
-      "para erimesi",
-      "değer kaybı",
-      "tehlike"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 42,
+    "id": 35,
     "kategori": "aktuerya",
     "kelime": "ekspertiz",
-    "aciklama": "hasar boyutunu ve kusur oranını belirleme ve raporlama faaliyeti.",
+    "aciklama": "bir malın değerini ve hasarını uzman incelemesi.",
     "yasakli_kelimeler": [
       "inceleme",
       "rapor",
@@ -588,10 +490,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 43,
+    "id": 36,
     "kategori": "aktuerya",
     "kelime": "hasar dosyası",
-    "aciklama": "tazminat ödemesi için gerekli tüm belgelerin toplandığı dosya.",
+    "aciklama": "tazminat ödemesi için açılan resmi evrak dosyası.",
     "yasakli_kelimeler": [
       "evrak",
       "belge",
@@ -602,10 +504,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 44,
+    "id": 37,
     "kategori": "aktuerya",
     "kelime": "kasko",
-    "aciklama": "motorlu araçların kaza ve hırsızlığa karşı gördüğü zararları karşılayan poliçe.",
+    "aciklama": "aracı kaza ve hırsızlığa karşı koruyan isteğe bağlı sigorta.",
     "yasakli_kelimeler": [
       "araba",
       "araç",
@@ -616,10 +518,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 45,
+    "id": 38,
     "kategori": "aktuerya",
     "kelime": "trafik sigortası",
-    "aciklama": "araç sahiplerinin üçüncü şahıslara vereceği zararları karşılayan zorunlu poliçe.",
+    "aciklama": "karşı tarafa verilen zararları karşılayan zorunlu araç sigortası.",
     "yasakli_kelimeler": [
       "zorunlu",
       "araç",
@@ -630,10 +532,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 46,
+    "id": 39,
     "kategori": "aktuerya",
     "kelime": "ferdi kaza",
-    "aciklama": "kaza sonucu vefat veya sakatlık durumunu teminat altına alan sigorta.",
+    "aciklama": "kaza sonucu vefat veya sakatlığı teminat altına alan sigorta.",
     "yasakli_kelimeler": [
       "kaza",
       "sakatlık",
@@ -644,10 +546,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 47,
+    "id": 40,
     "kategori": "aktuerya",
     "kelime": "yangın sigortası",
-    "aciklama": "malların yangın, duman ve infilak hasarlarını karşılayan poliçe.",
+    "aciklama": "ev veya iş yerini yangına karşı güvenceye alan poliçe.",
     "yasakli_kelimeler": [
       "alev",
       "yanma",
@@ -658,10 +560,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 48,
+    "id": 41,
     "kategori": "aktuerya",
     "kelime": "sağlık sigortası",
-    "aciklama": "muayene, tedavi ve ameliyat giderlerini güvenceye alan poliçe.",
+    "aciklama": "muayene ve tedavi masraflarını karşılayan güvence poliçesi.",
     "yasakli_kelimeler": [
       "hastane",
       "doktor",
@@ -672,10 +574,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 49,
+    "id": 42,
     "kategori": "aktuerya",
     "kelime": "tamamlayıcı sağlık",
-    "aciklama": "sgk anlaşmalı hastanelerde fark ücretlerini ödeyen sağlık poliçesi.",
+    "aciklama": "sgk anlaşmalı özel hastane fark ücretlerini ödeyen poliçe.",
     "yasakli_kelimeler": [
       "fark ücreti",
       "özel hastane",
@@ -686,10 +588,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 50,
+    "id": 43,
     "kategori": "aktuerya",
     "kelime": "tarım sigortası",
-    "aciklama": "tarımsal ürünleri doğal afet ve don zararlarına karşı koruyan poliçe.",
+    "aciklama": "çiftçinin ürününü doğal afet ve don riskine karşı koruyan poliçe.",
     "yasakli_kelimeler": [
       "çiftçi",
       "ekin",
@@ -700,10 +602,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 51,
+    "id": 44,
     "kategori": "aktuerya",
     "kelime": "sosyal güvenlik",
-    "aciklama": "hastalık, işsizlik ve yaşlılıkta vatandaşlara devlet güvencesi sunan sistem.",
+    "aciklama": "vatandaşlara hastalık, işsizlik ve emeklilik güvencesi sunan sistem.",
     "yasakli_kelimeler": [
       "emeklilik",
       "devlet",
@@ -714,10 +616,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 52,
+    "id": 45,
     "kategori": "aktuerya",
     "kelime": "zamanaşımı",
-    "aciklama": "yasal sürenin geçmesiyle tazminat talep hakkının sona ermesi durumu.",
+    "aciklama": "yasal sürenin dolmasıyla dava açma hakkının düşmesi.",
     "yasakli_kelimeler": [
       "süre",
       "hak düşmesi",

@@ -115,7 +115,7 @@
     "id": 9,
     "kategori": "pediyatri",
     "kelime": "suçiçeği",
-    "aciklama": "ve içi berrak sıvı dolu veziküllerle ilerleyen yaygın çocukluk hastalığı.",
+    "aciklama": "vücutta içi sıvı dolu kaşıntılı kabarcıklar çıkaran döküntülü hastalık.",
     "yasakli_kelimeler": [
       "varisella",
       "kaşıntı",
@@ -129,7 +129,7 @@
     "id": 10,
     "kategori": "pediyatri",
     "kelime": "kızamık",
-    "aciklama": "ve baştan başlayıp vücuda yayılan döküntülerle seyreden bulaşıcı viral tablo.",
+    "aciklama": "yüksek ateş ve kırmızı döküntülerle seyreden bulaşıcı çocukluk hastalığı.",
     "yasakli_kelimeler": [
       "koplik",
       "kırmızı döküntü",
@@ -157,7 +157,7 @@
     "id": 12,
     "kategori": "pediyatri",
     "kelime": "boğmaca",
-    "aciklama": "çekiş ve boğulur gibi öksürük krizleriyle karakterize solunum yolu hastalığı.",
+    "aciklama": "şiddetli ve boğulur gibi öksürük nöbetleriyle seyreden solunum hastalığı.",
     "yasakli_kelimeler": [
       "öksürük",
       "nöbet",
@@ -185,7 +185,7 @@
     "id": 14,
     "kategori": "pediyatri",
     "kelime": "kızıl",
-    "aciklama": "zımpara kağıdı hissi veren döküntü ve çilek dili tablosu.",
+    "aciklama": "yüksek ateş, boğaz ağrısı ve döküntüyle seyreden enfeksiyon.",
     "yasakli_kelimeler": [
       "streptokok",
       "çilek dili",
@@ -197,20 +197,6 @@
   },
   {
     "id": 15,
-    "kategori": "pediyatri",
-    "kelime": "serebral palsi",
-    "aciklama": "postür ve kas tonusu bozukluğu.",
-    "yasakli_kelimeler": [
-      "beyin felci",
-      "spastik",
-      "kas",
-      "motor",
-      "hareket"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 16,
     "kategori": "pediyatri",
     "kelime": "çölyak hastalığı",
     "aciklama": "gluten proteinine karşı ince bağırsak villuslarında tahribat oluşturan otoimmün tepki.",
@@ -224,63 +210,35 @@
     "zorluk": "orta"
   },
   {
+    "id": 16,
+    "kategori": "pediyatri",
+    "kelime": "demir eksikliği",
+    "aciklama": "halsizlik ve iştahsızlığa yol açan yaygın kansızlık türü.",
+    "yasakli_kelimeler": [
+      "kansızlık",
+      "damla",
+      "kan tahlili",
+      "halsizlik",
+      "pekmez"
+    ],
+    "zorluk": "kolay"
+  },
+  {
     "id": 17,
     "kategori": "pediyatri",
-    "kelime": "demir eksikliği anemisi",
-    "aciklama": "halsizlik ve iştahsızlığa yol açan kansızlık türü.",
+    "kelime": "yarık damak",
+    "aciklama": "üst damak dokusunun birleşmemesi sonucu oluşan doğumsal açıklık.",
     "yasakli_kelimeler": [
-      "ferritin",
-      "kansızlık",
-      "hemoglobin",
-      "solukluk",
-      "damla"
+      "dudak",
+      "doğumsal",
+      "cerrahi",
+      "ameliyat",
+      "bebek"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 18,
-    "kategori": "pediyatri",
-    "kelime": "beşik ölümü",
-    "aciklama": "bebeğin uyku sırasında belirgin hiçbir neden olmaksızın aniden hayatını kaybetmesi.",
-    "yasakli_kelimeler": [
-      "uyku",
-      "bebek",
-      "ani",
-      "nefessiz",
-      "yatağı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 19,
-    "kategori": "pediyatri",
-    "kelime": "spinal müsküler atrofi",
-    "aciklama": "güçsüzlüğü ve solunum yetmezliğine yol açan kalıtsal motor nöron hastalığı.",
-    "yasakli_kelimeler": [
-      "sma",
-      "motor nöron",
-      "kas zayıflığı",
-      "omurilik",
-      "gen tedavisi"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 20,
-    "kategori": "pediyatri",
-    "kelime": "yarık damak-dudak",
-    "aciklama": "dokularının birleşme kusuru sonucu üst dudak ve damakta açıklık kalması.",
-    "yasakli_kelimeler": [
-      "tavşan dudak",
-      "damak",
-      "beslenme",
-      "cerrahi",
-      "ağız"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 21,
     "kategori": "pediyatri",
     "kelime": "pamukçuk",
     "aciklama": "bebeklerin ağız içi mukozasında oluşturduğu süt kesiği benzeri beyaz plaklar.",
@@ -294,7 +252,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 22,
+    "id": 19,
     "kategori": "pediyatri",
     "kelime": "konak",
     "aciklama": "çocuklarının saçlı derisinde oluşan sarımtırak yağlı ve pullu kabuklanma tabakası.",
@@ -308,7 +266,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 23,
+    "id": 20,
     "kategori": "pediyatri",
     "kelime": "bağırsak kurdu",
     "aciklama": "yoğun kaşıntıya yol açan kıl kurdu gibi yaygın parazit enfeksiyonları.",
@@ -322,7 +280,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 24,
+    "id": 21,
     "kategori": "pediyatri",
     "kelime": "down sendromu",
     "aciklama": "zihinsel gerilik ve kalp kusurları oluşturan trizomi.",
@@ -336,7 +294,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 25,
+    "id": 22,
     "kategori": "pediyatri",
     "kelime": "astım",
     "aciklama": "duyarlılığı sonucu daralmasıyla krizler halinde nefes darlığı ve hırıltı nöbetleri.",
@@ -350,7 +308,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 26,
+    "id": 23,
     "kategori": "pediyatri",
     "kelime": "prematüre",
     "aciklama": "37 gebelik haftasını tamamlamadan önce dünyaya gelen erken doğmuş bebek.",
@@ -364,7 +322,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 27,
+    "id": 24,
     "kategori": "pediyatri",
     "kelime": "anne sütü",
     "aciklama": "besin ve antikor ihtiyacını eksiksiz karşılayan en ideal doğal besin.",
@@ -378,7 +336,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 28,
+    "id": 25,
     "kategori": "pediyatri",
     "kelime": "emzirme",
     "aciklama": "sütle bebeğini besleyerek aynı zamanda güçlü duygusal bağ kurması eylemi.",
@@ -392,7 +350,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 29,
+    "id": 26,
     "kategori": "pediyatri",
     "kelime": "ek gıda",
     "aciklama": "yoğurt ve sebzelerle katı gıdaya geçiş beslenmesi.",
@@ -406,7 +364,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 30,
+    "id": 27,
     "kategori": "pediyatri",
     "kelime": "bebek maması",
     "aciklama": "veya verilemediği durumlarda bebeklere özel hazırlanan zenginleştirilmiş toz formül süt.",
@@ -420,10 +378,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 31,
+    "id": 28,
     "kategori": "pediyatri",
     "kelime": "göbek bağı",
-    "aciklama": "ve ilk iki hafta içinde kuruyup kendiliğinden düşen kordon kalıntısı.",
+    "aciklama": "bebeği anneye bağlayan, doğumdan sonra kuruyup düşen kordon.",
     "yasakli_kelimeler": [
       "kordon düşmesi",
       "klemp",
@@ -434,21 +392,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 32,
-    "kategori": "pediyatri",
-    "kelime": "göbek kordonu",
-    "aciklama": "arasında iki atardamar ve toplardamarla besin ve oksijen taşıyan bağ.",
-    "yasakli_kelimeler": [
-      "plasenta",
-      "oksijen taşıma",
-      "fetüs",
-      "üç damar",
-      "anne karnı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 33,
+    "id": 29,
     "kategori": "pediyatri",
     "kelime": "aşı takvimi",
     "aciklama": "ölümcül enfeksiyonlardan korumak için belirlenen yaşa göre aşı uygulama çizelgesi.",
@@ -462,7 +406,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 34,
+    "id": 30,
     "kategori": "pediyatri",
     "kelime": "karma aşı",
     "aciklama": "felci ve menenjite karşı tek enjeksiyonla bağışıklık sağlayan beşli aşı.",
@@ -476,7 +420,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 35,
+    "id": 31,
     "kategori": "pediyatri",
     "kelime": "hepatit aşısı",
     "aciklama": "doğumun hemen ilk gününde hastanede yapılan karaciğer sarılığı enfeksiyonu aşısı.",
@@ -490,10 +434,10 @@
     "zorluk": "orta"
   },
   {
-    "id": 36,
+    "id": 32,
     "kategori": "pediyatri",
     "kelime": "verem aşısı",
-    "aciklama": "ve sol kolda ömür boyu iz bırakan bcg tüberküloz aşısı.",
+    "aciklama": "bebeklere sol omuzdan yapılan ve iz bırakan aşı.",
     "yasakli_kelimeler": [
       "bcg",
       "omuz izi",
@@ -504,7 +448,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 37,
+    "id": 33,
     "kategori": "pediyatri",
     "kelime": "çocuk felci",
     "aciklama": "tahrip ederek çocuklarda kalıcı bacak felcine yol açtığı bulaşıcı hastalık.",
@@ -518,7 +462,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 38,
+    "id": 34,
     "kategori": "pediyatri",
     "kelime": "difteri",
     "aciklama": "hava yolunu tıkayan ve boğulmaya yol açan tehlikeli bakteriyel enfeksiyon.",
@@ -532,7 +476,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 39,
+    "id": 35,
     "kategori": "pediyatri",
     "kelime": "tetanoz",
     "aciklama": "bakterinin salgıladığı toksinle kaslarda kilitlenme ve şiddetli kasılma yapan hastalık.",
@@ -546,7 +490,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 40,
+    "id": 36,
     "kategori": "pediyatri",
     "kelime": "diş çıkarma",
     "aciklama": "salya akışı ve huzursuzlukla ilk süt dişlerinin patlaması süreci.",
@@ -560,7 +504,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 41,
+    "id": 37,
     "kategori": "pediyatri",
     "kelime": "süt dişi",
     "aciklama": "dökülerek yerini kalıcı ana dişlere bırakan yirmi adet geçici diş.",
@@ -574,7 +518,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 42,
+    "id": 38,
     "kategori": "pediyatri",
     "kelime": "boy uzaması",
     "aciklama": "epifiz hatlarında büyüme plağının çalışmasıyla santimetre bazında boyunun periyodik artışı.",
@@ -588,7 +532,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 43,
+    "id": 39,
     "kategori": "pediyatri",
     "kelime": "kilo alımı",
     "aciklama": "beslenerek aylık kontrollerde tartıda gram bazında sağlıklı kilo artışı göstermesi.",
@@ -602,7 +546,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 44,
+    "id": 40,
     "kategori": "pediyatri",
     "kelime": "büyüme hormonu",
     "aciklama": "salgılanarak çocuklukta kemiklerin ve kasların uzamasını sağlayan temel anabolik hormon.",
@@ -616,7 +560,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 45,
+    "id": 41,
     "kategori": "pediyatri",
     "kelime": "ergenlik dönemi",
     "aciklama": "hormonal patlamayla ikincil cinsiyet özelliklerinin ve boy uzamasının hızlandığı çağ.",
@@ -630,7 +574,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 46,
+    "id": 42,
     "kategori": "pediyatri",
     "kelime": "çocuk hekimi",
     "aciklama": "beslenme ve hastalıklarını takip eden uzman doktor.",
@@ -644,7 +588,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 47,
+    "id": 43,
     "kategori": "pediyatri",
     "kelime": "yenidoğan",
     "aciklama": "ilk yirmi sekiz gününü tamamlamamış olan en hassas bebek dönemi.",
@@ -658,7 +602,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 48,
+    "id": 44,
     "kategori": "pediyatri",
     "kelime": "emzik",
     "aciklama": "etmek ve sakinleştirmek için ağızlarına verilen kauçuk veya silikon aparat.",
@@ -672,7 +616,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 49,
+    "id": 45,
     "kategori": "pediyatri",
     "kelime": "biberon",
     "aciklama": "delikli meme ucu bulunan sıvı gıda ve mama içirme şişesi.",
@@ -686,7 +630,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 50,
+    "id": 46,
     "kategori": "pediyatri",
     "kelime": "bebek bezi",
     "aciklama": "cırt cırtlı bağlanan emici polimer tabakalı tek kullanımlık alt bezi.",
@@ -700,10 +644,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 51,
+    "id": 47,
     "kategori": "pediyatri",
     "kelime": "gaz sancısı",
-    "aciklama": "olgunlaşmaması sebebiyle bağırsaklarda biriken havanın sebep olduğu şiddetli ağlama nöbeti.",
+    "aciklama": "bebeğin bağırsağında biriken hava yüzünden yaşadığı ağlama nöbeti.",
     "yasakli_kelimeler": [
       "kolik",
       "bağırsak gazı",
@@ -714,7 +658,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 52,
+    "id": 48,
     "kategori": "pediyatri",
     "kelime": "burun tıkanıklığı",
     "aciklama": "dar olması sebebiyle kuruyan salgıların nefes almayı ve emmeyi zorlaştırması.",
@@ -728,10 +672,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 53,
+    "id": 49,
     "kategori": "pediyatri",
     "kelime": "serum fizyolojik",
-    "aciklama": "ve yıkamak için kullanılan binde dokuzluk steril tuzlu su çözeltisi.",
+    "aciklama": "bebeğin burnunu açmak için damlatılan steril tuzlu su.",
     "yasakli_kelimeler": [
       "tuzlu su",
       "burun damlası",
@@ -742,7 +686,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 54,
+    "id": 50,
     "kategori": "pediyatri",
     "kelime": "burun aspiratörü",
     "aciklama": "fizyolojikle yumuşatılan sümük ve mukus parçalarını hortumuyla vakumlayarak çeken aparat.",
@@ -756,7 +700,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 55,
+    "id": 51,
     "kategori": "pediyatri",
     "kelime": "ateş ölçer",
     "aciklama": "alından veya koltuk altından dijital olarak ölçen termometre.",
@@ -770,7 +714,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 56,
+    "id": 52,
     "kategori": "pediyatri",
     "kelime": "havale",
     "aciklama": "göz kayması ve kasılmalarla seyreden febril nöbet tablosu.",
@@ -784,7 +728,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 57,
+    "id": 53,
     "kategori": "pediyatri",
     "kelime": "soğuk buhar",
     "aciklama": "solunum yolu tıkanıklıklarında odayı nemlendirerek nefes borusunu rahatlatan buhar makinesi.",
@@ -798,21 +742,21 @@
     "zorluk": "kolay"
   },
   {
-    "id": 58,
+    "id": 54,
     "kategori": "pediyatri",
-    "kelime": "orta kulak",
-    "aciklama": "sebebiyle bebeklerde üst solunum yolu enfeksiyonu sonrası iltihaplanan kulak boşluğu.",
+    "kelime": "kulak iltihabı",
+    "aciklama": "kulak zarının arkasında iltihap birikmesiyle oluşan ağrılı enfeksiyon.",
     "yasakli_kelimeler": [
-      "otitis media",
-      "kulak ağrısı",
-      "östaki borusu",
-      "iltihap",
-      "zar kızarması"
+      "ağrı",
+      "enfeksiyon",
+      "ateş",
+      "damla",
+      "kulak zarı"
     ],
     "zorluk": "kolay"
   },
   {
-    "id": 59,
+    "id": 55,
     "kategori": "pediyatri",
     "kelime": "bademcik iltihabı",
     "aciklama": "dokuların streptokok veya virüslerle şişip üzerinde beyaz iltihap plakları oluşması.",
@@ -826,7 +770,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 60,
+    "id": 56,
     "kategori": "pediyatri",
     "kelime": "geniz eti",
     "aciklama": "ağzı açık uyuma ve burundan konuşmaya yol açması.",
@@ -840,7 +784,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 61,
+    "id": 57,
     "kategori": "pediyatri",
     "kelime": "düz tabanlık",
     "aciklama": "düzleşmesi sonucu içe basma ve yorulmaya yol açan ortopedik durum.",
@@ -854,21 +798,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 62,
-    "kategori": "pediyatri",
-    "kelime": "atopik dermatit",
-    "aciklama": "kuruluk ve kızarıklıkla seyreden alerjik deri hastalığı.",
-    "yasakli_kelimeler": [
-      "egzama",
-      "kuru cilt",
-      "kaşıntı",
-      "yanak kızarıklığı",
-      "nemlendirici krem"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 63,
+    "id": 58,
     "kategori": "pediyatri",
     "kelime": "besin alerjisi",
     "aciklama": "gibi gıdalara karşı bağışıklık sisteminin kurdeşen veya anafilaksiyle tepki vermesi.",
@@ -882,49 +812,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 64,
-    "kategori": "pediyatri",
-    "kelime": "süt alerjisi",
-    "aciklama": "kusma ve şiddetli egzama ile seyreden yaygın besin alerjisi.",
-    "yasakli_kelimeler": [
-      "inek sütü proteini",
-      "kanlı kaka",
-      "özel mama",
-      "alerji",
-      "emziren anne diyeti"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 65,
-    "kategori": "pediyatri",
-    "kelime": "yumurta alerjisi",
-    "aciklama": "dudak çevresinde kızarıklık ve döküntü yapan bebek alerjisi.",
-    "yasakli_kelimeler": [
-      "yumurta beyazı",
-      "ovalbumin",
-      "dudak şişmesi",
-      "ek gıda alerjisi",
-      "döküntü"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 66,
-    "kategori": "pediyatri",
-    "kelime": "anafilaksi",
-    "aciklama": "tansiyonun düşmesi ve acil adrenalin gerektiren şok.",
-    "yasakli_kelimeler": [
-      "alerjik şok",
-      "adrenalin iğnesi",
-      "nefes tıkanması",
-      "acil durum",
-      "ölümcül reaksiyon"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 67,
+    "id": 59,
     "kategori": "pediyatri",
     "kelime": "ilk yardım",
     "aciklama": "büyük çocuğa ise heimlich manevrası uygulama acil müdahalesi.",
@@ -938,7 +826,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 68,
+    "id": 60,
     "kategori": "pediyatri",
     "kelime": "çocuk cerrahisi",
     "aciklama": "çağı fıtık ve apandisitlerine kadar cerrahi operasyonları yapan anabilim dalı.",
@@ -952,7 +840,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 69,
+    "id": 61,
     "kategori": "pediyatri",
     "kelime": "sünnet",
     "aciklama": "penis başını örten prepusyum derisinin cerrahi operasyonla kesilip alınması işlemi.",
@@ -966,7 +854,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 70,
+    "id": 62,
     "kategori": "pediyatri",
     "kelime": "kasık fıtığı",
     "aciklama": "kapanmaması sonucu bağırsak halkasının kasık kanalından torbaya doğru fıtıklaşması durumu.",
@@ -980,7 +868,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 71,
+    "id": 63,
     "kategori": "pediyatri",
     "kelime": "göbek fıtığı",
     "aciklama": "sebebiyle bebek ağladığında göbek deliğinin dışarı doğru fındık gibi fırlaması.",
@@ -994,7 +882,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 72,
+    "id": 64,
     "kategori": "pediyatri",
     "kelime": "kordon dolanması",
     "aciklama": "bebeğin boynuna veya birkaç kez sarılarak kalp atışlarını yavaşlatması riski.",
@@ -1008,7 +896,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 73,
+    "id": 65,
     "kategori": "pediyatri",
     "kelime": "doğum lekesi",
     "aciklama": "beliren pigment veya damar kökenli kalıcı ya da geçici leke.",
@@ -1022,7 +910,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 74,
+    "id": 66,
     "kategori": "pediyatri",
     "kelime": "d vitamini",
     "aciklama": "önlenmesi için doğumdan itibaren her gün damla olarak verilen vitamin.",
@@ -1036,7 +924,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 75,
+    "id": 67,
     "kategori": "pediyatri",
     "kelime": "demir damlası",
     "aciklama": "itibaren anne sütündeki demirin azalmasıyla başlayan kansızlığı önleyici koruyucu damla.",
@@ -1050,10 +938,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 76,
+    "id": 68,
     "kategori": "pediyatri",
     "kelime": "ishal",
-    "aciklama": "ve kokulu dışkı yaparak hızla mineral ve su kaybetmesi durumu.",
+    "aciklama": "sık ve sulu dışkılama sonucu bebeğin susuz kalması durumu.",
     "yasakli_kelimeler": [
       "sulu dışkı",
       "gastroenterit",
@@ -1064,7 +952,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 77,
+    "id": 69,
     "kategori": "pediyatri",
     "kelime": "kusma",
     "aciklama": "tazyikle veya fışkırır tarzda dışarı atılmasıyla seyreden sindirim sistemi şikayeti.",
@@ -1078,7 +966,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 78,
+    "id": 70,
     "kategori": "pediyatri",
     "kelime": "iştahsızlık",
     "aciklama": "kilo alamaması ve beslenme saatlerinin aile için kabusa dönüşmesi hali.",
@@ -1092,7 +980,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 79,
+    "id": 71,
     "kategori": "pediyatri",
     "kelime": "kilo kaybı",
     "aciklama": "olarak yüzde on kilo verme veya hastalıklara bağlı tartıda gerileme.",
@@ -1106,7 +994,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 80,
+    "id": 72,
     "kategori": "pediyatri",
     "kelime": "konuşma gecikmesi",
     "aciklama": "rağmen çocuğun anlamlı tek kelimeler çıkaramaması veya cümle kuramaması sorunu.",
@@ -1120,10 +1008,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 81,
+    "id": 73,
     "kategori": "pediyatri",
     "kelime": "emekleme",
-    "aciklama": "ve dizleri üzerinde yerde dört ayak üzerinde hızla yer değiştirmesi.",
+    "aciklama": "bebeğin yürümeden önce el ve dizleri üzerinde ilerlemesi.",
     "yasakli_kelimeler": [
       "el ve dizler",
       "dört ayak",
@@ -1134,7 +1022,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 82,
+    "id": 74,
     "kategori": "pediyatri",
     "kelime": "yürüme",
     "aciklama": "kimseden destek almadan iki ayağı üzerinde bağımsız dengede adım atabilmesi.",
@@ -1148,7 +1036,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 83,
+    "id": 75,
     "kategori": "pediyatri",
     "kelime": "ilk adımlar",
     "aciklama": "tek başına cesaretle attığı sarsak ve sevinçli ilk yürüme hamleleri.",
@@ -1162,7 +1050,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 84,
+    "id": 76,
     "kategori": "pediyatri",
     "kelime": "ayrılık kaygısı",
     "aciklama": "annesi odadan çıktığında veya kreşe bırakıldığında terk edilme korkusuyla ağlaması.",
@@ -1176,7 +1064,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 85,
+    "id": 77,
     "kategori": "pediyatri",
     "kelime": "gece terörü",
     "aciklama": "atarak gözleri açık halde yatakta oturup etrafındakileri tanımadığı uyku bozukluğu.",
@@ -1190,7 +1078,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 86,
+    "id": 78,
     "kategori": "pediyatri",
     "kelime": "kabus",
     "aciklama": "görülen korkutucu rüyalar sebebiyle çocuğun uyanarak ağlaması ve teselli araması.",
@@ -1204,10 +1092,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 87,
+    "id": 79,
     "kategori": "pediyatri",
     "kelime": "parmak emme",
-    "aciklama": "için başparmağını ağzına alıp emmesi ve damak yapısını bozabilen alışkanlık.",
+    "aciklama": "bebeğin sakinleşmek için parmağını sürekli ağzına alması alışkanlığı.",
     "yasakli_kelimeler": [
       "başparmak",
       "damak bozulması",
@@ -1218,7 +1106,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 88,
+    "id": 80,
     "kategori": "pediyatri",
     "kelime": "tırnak yeme",
     "aciklama": "veya öfke belirtisi olarak parmak tırnaklarını dişleriyle kemirip koparma davranışı.",
@@ -1232,7 +1120,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 89,
+    "id": 81,
     "kategori": "pediyatri",
     "kelime": "çocuk sağlığı",
     "aciklama": "aşı ve beslenme takiplerini kapsayan koruyucu sağlık hekimliği.",
@@ -1257,7 +1145,7 @@
       "hasta"
     ],
     "zorluk": "kolay",
-    "id": 90
+    "id": 82
   },
   {
     "kategori": "pediyatri",
@@ -1271,7 +1159,7 @@
       "kol"
     ],
     "zorluk": "kolay",
-    "id": 91
+    "id": 83
   },
   {
     "kategori": "pediyatri",
@@ -1285,7 +1173,7 @@
       "kulak"
     ],
     "zorluk": "kolay",
-    "id": 92
+    "id": 84
   },
   {
     "kategori": "pediyatri",
@@ -1299,7 +1187,7 @@
       "tartı"
     ],
     "zorluk": "kolay",
-    "id": 93
+    "id": 85
   },
   {
     "kategori": "pediyatri",
@@ -1313,7 +1201,7 @@
       "dil"
     ],
     "zorluk": "kolay",
-    "id": 94
+    "id": 86
   },
   {
     "kategori": "pediyatri",
@@ -1327,21 +1215,7 @@
       "öksürük"
     ],
     "zorluk": "kolay",
-    "id": 95
-  },
-  {
-    "kategori": "pediyatri",
-    "kelime": "emzirmek",
-    "aciklama": "annenin bebeğine göğsünden ilk anne sütünü vermesi",
-    "yasakli_kelimeler": [
-      "anne sütü",
-      "göğüs",
-      "bebek",
-      "beslenme",
-      "mama"
-    ],
-    "zorluk": "kolay",
-    "id": 96
+    "id": 87
   },
   {
     "kategori": "pediyatri",
@@ -1355,7 +1229,7 @@
       "rahatlama"
     ],
     "zorluk": "kolay",
-    "id": 97
+    "id": 88
   },
   {
     "kategori": "pediyatri",
@@ -1369,21 +1243,7 @@
       "huzursuzluk"
     ],
     "zorluk": "kolay",
-    "id": 98
-  },
-  {
-    "kategori": "pediyatri",
-    "kelime": "diş çıkarmak",
-    "aciklama": "bebeğin damağını yararak ilk süt dişinin beyaz şekilde belirmesi",
-    "yasakli_kelimeler": [
-      "süt dişi",
-      "damak",
-      "kaşıntı",
-      "salya",
-      "ateş"
-    ],
-    "zorluk": "kolay",
-    "id": 99
+    "id": 89
   },
   {
     "kategori": "pediyatri",
@@ -1397,20 +1257,20 @@
       "sıvı kaybı"
     ],
     "zorluk": "orta",
-    "id": 100
+    "id": 90
   },
   {
     "kategori": "pediyatri",
-    "kelime": "pişik kremi sürmek",
-    "aciklama": "ıslak bezin tahriş ettiği kalça derisine çinko oksitli merhem yaymak",
+    "kelime": "pişik kremi",
+    "aciklama": "ıslak bezin tahriş ettiği kalça derisine sürülen merhem.",
     "yasakli_kelimeler": [
-      "çinko oksit",
-      "tahriş",
+      "bebek bezi",
+      "çinko",
       "kızarıklık",
-      "bez bölgesi",
-      "merhem"
+      "merhem",
+      "pudra"
     ],
     "zorluk": "orta",
-    "id": 101
+    "id": 91
   }
 ]

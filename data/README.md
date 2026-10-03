@@ -1,10 +1,10 @@
-# Tabu Veri Seti (16.108 Kart / 150 Kategori)
+# Tabu Veri Seti (13.600 Kart / 150 Kategori)
 
-Bu veri seti; kolay, orta ve zor seviyelerde hazırlanmış 150 ayrı spesifik kategoride toplam 16.108 adet Tabu kartından oluşur.
+Bu veri seti; kolay, orta ve zor seviyelerde hazırlanmış 150 ayrı spesifik kategoride toplam 13.600 adet Tabu kartından oluşur.
 
 ## Veri Formatı ve Standartlar
 - **Dosya Formatı:** JSON (Her kategori ayrı bir `.json` dosyasında)
-- **Kart Sayısı:** Kategori başına değişken sayıda benzersiz kart (Toplam: 16.108 kart)
+- **Kart Sayısı:** Kategori başına değişken sayıda benzersiz kart (Toplam: 13.600 kart)
 - **Karakter Desteği:** Türkçe karakterler (`ç`, `ğ`, `ı`, `ö`, `ş`, `ü`) eksiksiz korunmuştur.
 - **Her Kartın Yapısı:**
   - `id`: Kategori içi 1’den başlayan sıralı tam sayı

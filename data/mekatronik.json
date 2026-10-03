@@ -1,828 +1,254 @@
 [
   {
-    "id": 1,
-    "kategori": "mekatronik",
     "kelime": "mekatronik",
-    "aciklama": "makine, elektronik, yazılım ve kontrol mühendisliği disiplinlerini bütünleşik dalı.",
+    "aciklama": "makine, elektronik ve yazılımı birleştiren mühendislik alanı.",
     "yasakli_kelimeler": [
+      "robot",
       "makine",
       "elektronik",
-      "yazılım",
-      "kontrol",
-      "mühendislik"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 2,
-    "kategori": "mekatronik",
-    "kelime": "adım motoru",
-    "aciklama": "tam bir dönüşü eşit açılı adımlara bölerek hassas motoru.",
-    "yasakli_kelimeler": [
-      "step motor",
-      "adım",
-      "açı",
-      "konum",
-      "darbe"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 3,
-    "kategori": "mekatronik",
-    "kelime": "servo motor",
-    "aciklama": "içerisinde açı algılayıcı geri besleme mekanizması barındıran, kapalı motoru.",
-    "yasakli_kelimeler": [
-      "geri besleme",
-      "açı",
-      "konum",
-      "enkoder",
-      "kapalı çevrim"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 4,
-    "kategori": "mekatronik",
-    "kelime": "endüstriyel robot",
-    "aciklama": "üretim hatlarında kaynak, montaj, taşıma ve boyama gibi manipülatör.",
-    "yasakli_kelimeler": [
-      "fabrika",
-      "kol",
-      "kaynak",
-      "otomasyon",
-      "üretim hattı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 5,
-    "kategori": "mekatronik",
-    "kelime": "pnömatik sistem",
-    "aciklama": "basınçlı hava enerjisini silindir ve valfler ile doğrusal sistemi.",
-    "yasakli_kelimeler": [
-      "basınçlı hava",
-      "kompresör",
-      "silindir",
-      "valf",
-      "gaz"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 6,
-    "kategori": "mekatronik",
-    "kelime": "hidrolik sistem",
-    "aciklama": "sıkıştırılamayan basınçlı yağ sıvısını kullanarak devasa mekanik kuvvetler mekanizması.",
-    "yasakli_kelimeler": [
-      "yağ",
-      "sıvı",
-      "yüksek kuvvet",
-      "basınç",
-      "pompa"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 7,
-    "kategori": "mekatronik",
-    "kelime": "mikrodenetleyici",
-    "aciklama": "tek bir entegre devre üzerinde işlemci çekirdeği, bellek çipi.",
-    "yasakli_kelimeler": [
-      "mikroçip",
-      "gömülü",
-      "işlemci",
-      "hafıza",
-      "pin"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 8,
-    "kategori": "mekatronik",
-    "kelime": "ivmeölçer",
-    "aciklama": "üzerine etki eden statik yerçekimi ivmesi dahil dinamik algılayıcı.",
-    "yasakli_kelimeler": [
-      "hızlanma",
-      "g-kuvveti",
-      "yerçekimi",
-      "titreşim",
-      "sensör"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 9,
-    "kategori": "mekatronik",
-    "kelime": "jiroskop",
-    "aciklama": "açısal momentumun korunumu ilkesiyle bir sistemin dönme hızını cihazı.",
-    "yasakli_kelimeler": [
-      "açısal hız",
-      "dönme",
-      "denge",
-      "sapma",
-      "oryantasyon"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 10,
-    "kategori": "mekatronik",
-    "kelime": "yük hücresi",
-    "aciklama": "üzerine binen ağırlık veya kuvveti gerinim ölçerler ile sensörü.",
-    "yasakli_kelimeler": [
-      "load cell",
-      "ağırlık",
-      "tartı",
-      "kuvvet",
-      "baskül"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 11,
-    "kategori": "mekatronik",
-    "kelime": "üç boyutlu yazıcı",
-    "aciklama": "dijital bilgisayar modelini katman katman malzeme eritip üst cihazı.",
-    "yasakli_kelimeler": [
-      "filament",
-      "katman",
-      "eklemeli imalat",
-      "nozul",
-      "baskı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 12,
-    "kategori": "mekatronik",
-    "kelime": "lidar sensörü",
-    "aciklama": "çevreye saniyede milyonlarca lazer darbesi gönderip geri dönüş cihaz.",
-    "yasakli_kelimeler": [
-      "lazer",
-      "mesafe",
-      "nokta bulutu",
-      "uçuş süresi",
-      "tarama"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 13,
-    "kategori": "mekatronik",
-    "kelime": "ultrasonik mesafe sensörü",
-    "aciklama": "insan kulağının duyamayacağı yüksek frekanslı ses dalgaları yayarak sensör.",
-    "yasakli_kelimeler": [
-      "ses dalgası",
-      "yankı",
-      "mesafe",
-      "engel",
-      "sonar"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 14,
-    "kategori": "mekatronik",
-    "kelime": "röle",
-    "aciklama": "düşük bir elektrik akımı ile çalışan elektromıknatıs ile eleman.",
-    "yasakli_kelimeler": [
-      "anahtar",
-      "bobin",
-      "elektromıknatıs",
-      "kontak",
-      "yüksek akım"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 15,
-    "kategori": "mekatronik",
-    "kelime": "dış iskelet robotu",
-    "aciklama": "insan vücuduna giyilerek kas gücünü artıran, felçli hastaların robot.",
-    "yasakli_kelimeler": [
-      "giyilebilir",
-      "ekzoiskelet",
-      "kas gücü",
-      "rehabilitasyon",
-      "yürüme"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 16,
-    "kategori": "mekatronik",
-    "kelime": "biyonik protez",
-    "aciklama": "kaybedilen uzvun yerine takılan ve kullanıcının kaslarından gelen uzuv.",
-    "yasakli_kelimeler": [
-      "yapay el",
-      "uzuv",
-      "emg",
-      "kas sinyali",
-      "ampütasyon"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 17,
-    "kategori": "mekatronik",
-    "kelime": "insansız hava aracı",
-    "aciklama": "içerisinde insan pilot bulunmayan, otonom uçuş kontrol kartı taşıtı.",
-    "yasakli_kelimeler": [
-      "dron",
-      "iha",
-      "uçuş kontrolcü",
-      "pervane",
-      "otonom"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 18,
-    "kategori": "mekatronik",
-    "kelime": "kuadrokopter",
-    "aciklama": "birbirine zıt yönlerde dönen dört adet pervanenin hız robotu.",
-    "yasakli_kelimeler": [
-      "dört motor",
-      "pervane",
-      "dron",
-      "itki",
-      "yalpalama"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 19,
-    "kategori": "mekatronik",
-    "kelime": "diferansiyel mekanizması",
-    "aciklama": "araç viraj alırken içte ve dışta kalan tekerleklerin sistemi.",
-    "yasakli_kelimeler": [
-      "viraj",
-      "farklı hız",
-      "tekerlek",
-      "aks",
-      "dişli kutusu"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 20,
-    "kategori": "mekatronik",
-    "kelime": "kilitlenme önleyici fren",
-    "aciklama": "araçlarda sert frenleme anında tekerleklerin kilitlenip kaymasını önleyerek sistem.",
-    "yasakli_kelimeler": [
-      "fren güvenliği",
-      "tekerlek kilitlenmesi",
-      "kaymayı önleme",
-      "kızaklama engeli",
-      "direksiyon hakimiyeti"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 21,
-    "kategori": "mekatronik",
-    "kelime": "elektronik denge programı",
-    "aciklama": "virajlarda veya ani manevralarda aracın savrulmasını önlemek için düzenek.",
-    "yasakli_kelimeler": [
-      "savrulma önleyici",
-      "viraj dengesi",
-      "tekerlek freni",
-      "kayma kontrolü",
-      "yol tutuş"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 22,
-    "kategori": "mekatronik",
-    "kelime": "enjeksiyon",
-    "aciklama": "yakıtı silindirlere veya emme manifolduna yüksek basınçla püskürten düzeneği.",
-    "yasakli_kelimeler": [
-      "yakıt",
-      "enjektör",
-      "benzin",
-      "püskürtme",
-      "motor"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 23,
-    "kategori": "mekatronik",
-    "kelime": "kızılötesi sensör",
-    "aciklama": "yaydığı kızılötesi ışığın engelden yansımasını algılayarak önündeki cisimleri modül.",
-    "yasakli_kelimeler": [
-      "engel",
-      "yansıma",
-      "yakınlık",
-      "fotodiyot",
-      "ışık"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 24,
-    "kategori": "mekatronik",
-    "kelime": "sensör",
-    "aciklama": "sıcaklık, basınç, ışık veya mesafe gibi fiziksel büyüklükleri algılayıcı.",
-    "yasakli_kelimeler": [
-      "algılayıcı",
-      "fiziksel büyüklük",
-      "elektrik sinyali",
-      "ölçüm",
-      "duyarga"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 25,
-    "kategori": "mekatronik",
-    "kelime": "geri besleme",
-    "aciklama": "sistemin çıkışındaki gerçek değerin sensörle ölçülüp girişe iletilerek süreci.",
-    "yasakli_kelimeler": [
-      "feedback",
-      "çıkış bilgisi",
-      "karşılaştırma",
-      "kapalı çevrim",
-      "hata tespiti"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 26,
-    "kategori": "mekatronik",
-    "kelime": "analog sinyal",
-    "aciklama": "zamana bağlı olarak süreklilik arz eden ve belirli sinyal.",
-    "yasakli_kelimeler": [
-      "sürekli sinyal",
-      "sonsuz değer",
-      "voltaj dalgası",
-      "kesintisiz",
-      "dijital karşıtı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 27,
-    "kategori": "mekatronik",
-    "kelime": "dijital sinyal",
-    "aciklama": "yalnızca sıfır ve bir mantık seviyelerine karşılık gelen sinyal.",
-    "yasakli_kelimeler": [
-      "sıfır ve bir",
-      "sayısal",
-      "kesikli voltaj",
-      "kare dalga",
-      "mantık seviyesi"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 28,
-    "kategori": "mekatronik",
-    "kelime": "lineer motor",
-    "aciklama": "dönme hareketi yerine doğrudan doğruya doğrusal yönde itme motoru.",
-    "yasakli_kelimeler": [
-      "doğrusal hareket",
-      "dönmeyen motor",
-      "itme kuvveti",
-      "maglev treni",
-      "raylı eksen"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 29,
-    "kategori": "mekatronik",
-    "kelime": "invertör",
-    "aciklama": "akü veya güneş panelinden gelen doğru akım elektriğini cihaz.",
-    "yasakli_kelimeler": [
-      "dc den ac ye",
-      "dönüştürücü",
-      "alternatif akım",
-      "güneş enerjisi",
-      "akü elektriği"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 30,
-    "kategori": "mekatronik",
-    "kelime": "transistör",
-    "aciklama": "küçük bir giriş akımı veya gerilimiyle büyük akımları elemanı.",
-    "yasakli_kelimeler": [
-      "anahtarlama",
-      "yükselteç",
-      "üç bacaklı",
-      "elektronik yapıtaşı",
-      "bjt"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 31,
-    "kategori": "mekatronik",
-    "kelime": "mantık kapısı",
-    "aciklama": "ve, veya, değil gibi boole cebri işlemlerini fiziksel bloğu.",
-    "yasakli_kelimeler": [
-      "ve veya değil",
-      "boole mantığı",
-      "dijital blok",
-      "entegre",
-      "lojik kapı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 32,
-    "kategori": "mekatronik",
-    "kelime": "mikroişlemci",
-    "aciklama": "aritmetik ve mantık birimi, yazmaçlar ve kontrol ünitesini birimi.",
-    "yasakli_kelimeler": [
-      "cpu",
-      "işlem birimi",
-      "merkezi çip",
-      "aritmetik mantık",
-      "bilgisayar beyni"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 33,
-    "kategori": "mekatronik",
-    "kelime": "potansiyometre",
-    "aciklama": "üzerindeki döner mil çevrildikçe direnç değerini ve dolayısıyla direnç.",
-    "yasakli_kelimeler": [
-      "ayarlı direnç",
-      "döner mil",
-      "gerilim bölücü",
-      "analog açı",
-      "ses ayar düğmesi"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 34,
-    "kategori": "mekatronik",
-    "kelime": "takometre",
-    "aciklama": "dönen bir şaftın, motor milinin veya tekerleğin dakikadaki alet.",
-    "yasakli_kelimeler": [
-      "devir saati",
-      "rpm",
-      "mil hızı",
-      "dakikadaki dönüş",
-      "hız ölçer"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 35,
-    "kategori": "mekatronik",
-    "kelime": "basınç sensörü",
-    "aciklama": "hidrolik borulardaki veya pnömatik hatlardaki gaz ve sıvı duyarga.",
-    "yasakli_kelimeler": [
-      "bar basıncı",
-      "hidrolik pnömatik",
-      "akışkan gücü",
-      "piezo sensör",
-      "basınç ölçümü"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 36,
-    "kategori": "mekatronik",
-    "kelime": "sıcaklık sensörü",
-    "aciklama": "motorların, elektronik çiplerin veya fırınların sıcaklığını termokupl ya algılayıcı.",
-    "yasakli_kelimeler": [
-      "termokupl",
-      "pt100",
-      "termometre",
-      "ısı ölçümü",
-      "termistör"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 37,
-    "kategori": "mekatronik",
-    "kelime": "nem sensörü",
-    "aciklama": "ortam havasındaki su buharı yoğunluğunu kapasite veya direnç sensörü.",
-    "yasakli_kelimeler": [
-      "bağıl nem",
-      "su buharı",
-      "rutubet",
-      "higrometre",
-      "ortam ölçümü"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 38,
-    "kategori": "mekatronik",
-    "kelime": "acil durdurma",
-    "aciklama": "iş güvenliği tehlikesi anında basıldığında tüm sistemin enerjisini buton.",
-    "yasakli_kelimeler": [
-      "mantar buton",
-      "kırmızı buton",
-      "iş güvenliği",
-      "enerji kesme",
-      "e-stop"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 39,
-    "kategori": "mekatronik",
-    "kelime": "hidrolik silindir",
-    "aciklama": "yüksek basınçlı hidrolik yağın kuvvetiyle tonlarca ağırlığı kaldırabilen ünitesi.",
-    "yasakli_kelimeler": [
-      "basınçlı yağ",
-      "tonlarca ağırlık",
-      "ağır iş makinesi",
-      "hidrolik piston",
-      "büyük kuvvet"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 40,
-    "kategori": "mekatronik",
-    "kelime": "hava kompresörü",
-    "aciklama": "atmosfer havasını emip bir depoda yüksek basınç altında makine.",
-    "yasakli_kelimeler": [
-      "hava sıkıştırma",
-      "basınçlı hava deposu",
-      "pnömatik kaynak",
-      "kompresör",
-      "bar"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 41,
-    "kategori": "mekatronik",
-    "kelime": "robot kolu",
-    "aciklama": "insan koluna benzer şekilde omuz, dirsek ve bilek manipülatör.",
-    "yasakli_kelimeler": [
-      "manipülatör",
-      "eklemli kol",
-      "omuz dirsek bilek",
-      "sanayi robotu",
-      "eksenler"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 42,
-    "kategori": "mekatronik",
-    "kelime": "robotik el",
-    "aciklama": "insan elinin parmak eklemlerini ve hassas kavrama yeteneğini manipülatör.",
-    "yasakli_kelimeler": [
-      "insan eli taklidi",
-      "beş parmak",
-      "hassas kavrama",
-      "biyonik el",
-      "dokunma"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 43,
-    "kategori": "mekatronik",
-    "kelime": "mobil robot",
-    "aciklama": "sabit bir tabana bağlı kalmaksızın tekerlek, palet veya robot.",
-    "yasakli_kelimeler": [
-      "hareketli robot",
-      "serbest dolaşım",
-      "tekerlekli gövde",
-      "otonom araç",
-      "sabit olmayan"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 44,
-    "kategori": "mekatronik",
-    "kelime": "insansı robot",
-    "aciklama": "baş, gövde, iki kol ve iki bacakla insan robot.",
-    "yasakli_kelimeler": [
-      "humanoid",
-      "iki ayaklı yürüyüş",
-      "insan görünümü",
-      "baş ve kollar",
-      "morfoloji"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 45,
-    "kategori": "mekatronik",
-    "kelime": "tekerlekli robot",
-    "aciklama": "düz zeminlerde diferansiyel veya çok yönlü tekerleklerle enerji platformu.",
-    "yasakli_kelimeler": [
-      "tekerlek tahriki",
-      "diferansiyel sürüş",
-      "omni tekerlek",
-      "düz zemin",
-      "hızlı hareket"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 46,
-    "kategori": "mekatronik",
-    "kelime": "bacaklı robot",
-    "aciklama": "merdiven, engebeli arazi ve engelli yüzeyleri dört veya robot.",
-    "yasakli_kelimeler": [
-      "dört ayaklı",
-      "spot",
-      "engebeli arazi",
-      "merdiven çıkma",
-      "denge kontrolü"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 47,
-    "kategori": "mekatronik",
-    "kelime": "paletli robot",
-    "aciklama": "tank paletleri kullanarak çamur, kar ve dik yamaç robotu.",
-    "yasakli_kelimeler": [
-      "tank paleti",
-      "çamurlu arazi",
-      "batmadan ilerleme",
-      "arazi aracı",
-      "palet"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 48,
-    "kategori": "mekatronik",
-    "kelime": "engel algılama",
-    "aciklama": "otonom aracın hareket yönündeki duvar, insan veya nesneleri değiştirmesi.",
-    "yasakli_kelimeler": [
-      "çarpışma önleme",
-      "sensör tespiti",
-      "otonom duruş",
-      "etraftaki nesneler",
-      "fark etme"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "kategori": "mekatronik",
-    "kelime": "robot yapmak",
-    "aciklama": "mekanik ve elektronik parçaları birleştirip otonom cihaz üretmek.",
-    "yasakli_kelimeler": [
-      "mühendis",
-      "parçalar",
-      "metal",
-      "çalıştırmak",
-      "akıllı makine"
-    ],
-    "zorluk": "kolay",
-    "id": 49
-  },
-  {
-    "kategori": "mekatronik",
-    "kelime": "motor çalıştırmak",
-    "aciklama": "elektrik enerjisiyle dönme hareketi üreten aygıtı devreye almak.",
-    "yasakli_kelimeler": [
-      "elektrik",
-      "dönmek",
-      "güç",
-      "çark",
-      "düğme"
-    ],
-    "zorluk": "kolay",
-    "id": 50
-  },
-  {
-    "kategori": "mekatronik",
-    "kelime": "kod yazmak",
-    "aciklama": "mekatronik cihazın hareketlerini yönetecek komut satırlarını girmek.",
-    "yasakli_kelimeler": [
-      "programlama",
-      "bilgisayar",
-      "yazılım",
-      "mikrodenetleyici",
-      "komut"
-    ],
-    "zorluk": "kolay",
-    "id": 51
-  },
-  {
-    "kategori": "mekatronik",
-    "kelime": "düğmeye basmak",
-    "aciklama": "mekanizmayı çalıştırmak için kontrol butonuna dokunmak.",
-    "yasakli_kelimeler": [
-      "açma kapama",
-      "buton",
-      "başlatmak",
-      "güç",
-      "parmak"
-    ],
-    "zorluk": "kolay",
-    "id": 52
-  },
-  {
-    "kategori": "mekatronik",
-    "kelime": "lehim yapmak",
-    "aciklama": "sıcak havya ile metal teli eritip devre elemanını karta sabitlemek.",
-    "yasakli_kelimeler": [
-      "havya",
-      "lehim teli",
-      "kalay",
-      "devre kartı",
-      "eritmek"
-    ],
-    "zorluk": "kolay",
-    "id": 53
-  },
-  {
-    "kategori": "mekatronik",
-    "kelime": "sensör takmak",
-    "aciklama": "çevresel faktörleri algılayan elektronik elemanı gövdeye bağlamak.",
-    "yasakli_kelimeler": [
-      "algılayıcı",
-      "mesafe",
-      "ışık",
-      "sıcaklık",
-      "cihaz"
-    ],
-    "zorluk": "kolay",
-    "id": 54
-  },
-  {
-    "kategori": "mekatronik",
-    "kelime": "pil takmak",
-    "aciklama": "taşınabilir robota elektrik sağlamak için pil yuvasına batarya koymak.",
-    "yasakli_kelimeler": [
-      "batarya",
-      "enerji",
-      "voltaj",
-      "güç kaynağı",
-      "hazne"
-    ],
-    "zorluk": "kolay",
-    "id": 55
-  },
-  {
-    "kategori": "mekatronik",
-    "kelime": "üç boyutlu basmak",
-    "aciklama": "tasarlanan robotik parçayı plastik eriterek katman katman üretmek.",
-    "yasakli_kelimeler": [
-      "filament",
-      "katman",
-      "plastik parça",
-      "üç boyutlu",
-      "prototip"
-    ],
-    "zorluk": "kolay",
-    "id": 56
-  },
-  {
-    "kategori": "mekatronik",
-    "kelime": "kumandayla yönetmek",
-    "aciklama": "robotun yönünü ve hızını el kumandası ile kontrol etmek.",
-    "yasakli_kelimeler": [
-      "uzaktan kontrol",
-      "joystick",
-      "sinyal",
-      "anten",
-      "hareket ettirmek"
-    ],
-    "zorluk": "kolay",
-    "id": 57
-  },
-  {
-    "kategori": "mekatronik",
-    "kelime": "vidayı sıkmak",
-    "aciklama": "mekanik parçaların gevşememesi için vidalarını sıkıştırmak.",
-    "yasakli_kelimeler": [
-      "alyan",
-      "tornavida",
-      "mekanik montaj",
-      "sağlamlaştırma",
-      "somun"
-    ],
-    "zorluk": "kolay",
-    "id": 58
-  },
-  {
-    "kategori": "mekatronik",
-    "kelime": "çizgi izleyen yapmak",
-    "aciklama": "yerdeki siyah çizgiyi optik sensörlerle izleyerek giden otonom araç yapmak.",
-    "yasakli_kelimeler": [
-      "kızılötesi kontrast",
-      "siyah beyaz zemin",
-      "otonom takip",
-      "sensör dizisi",
-      "yarışma"
+      "mühendislik",
+      "yazılım"
     ],
     "zorluk": "orta",
-    "id": 59
+    "id": 1,
+    "kategori": "mekatronik"
+  },
+  {
+    "kelime": "endüstriyel robot",
+    "aciklama": "fabrikalarda üretim ve montaj yapan otomatik makine.",
+    "yasakli_kelimeler": [
+      "fabrika",
+      "otomasyon",
+      "üretim",
+      "kol",
+      "sanayi"
+    ],
+    "zorluk": "orta",
+    "id": 2,
+    "kategori": "mekatronik"
+  },
+  {
+    "kelime": "robot kolu",
+    "aciklama": "insan kolu gibi hareket edebilen eklemli mekanik uzuv.",
+    "yasakli_kelimeler": [
+      "eklem",
+      "motor",
+      "sanayi",
+      "tutucu",
+      "hareket"
+    ],
+    "zorluk": "kolay",
+    "id": 3,
+    "kategori": "mekatronik"
+  },
+  {
+    "kelime": "insansı robot",
+    "aciklama": "insan vücudu formunda tasarlanmış iki ayaklı robot.",
+    "yasakli_kelimeler": [
+      "android",
+      "insan",
+      "yapay zeka",
+      "yürüme",
+      "robotik"
+    ],
+    "zorluk": "kolay",
+    "id": 4,
+    "kategori": "mekatronik"
+  },
+  {
+    "kelime": "servo motor",
+    "aciklama": "hassas açı ve hız kontrolü sağlayan elektrik motoru.",
+    "yasakli_kelimeler": [
+      "dönme",
+      "açı",
+      "kontrol",
+      "hassas",
+      "elektrik"
+    ],
+    "zorluk": "zor",
+    "id": 5,
+    "kategori": "mekatronik"
+  },
+  {
+    "kelime": "sensör",
+    "aciklama": "çevredeki fiziksel değişimleri algılayıp elektronik sinyale çeviren parça.",
+    "yasakli_kelimeler": [
+      "algılayıcı",
+      "ışık",
+      "sıcaklık",
+      "sinyal",
+      "dedektör"
+    ],
+    "zorluk": "kolay",
+    "id": 6,
+    "kategori": "mekatronik"
+  },
+  {
+    "kelime": "kızılötesi sensör",
+    "aciklama": "görünmeyen ışınlarla cisimleri ve engelleri algılayan düzenek.",
+    "yasakli_kelimeler": [
+      "kumanda",
+      "ışık",
+      "mesafe",
+      "dedektör",
+      "algılayıcı"
+    ],
+    "zorluk": "orta",
+    "id": 7,
+    "kategori": "mekatronik"
+  },
+  {
+    "kelime": "mikroişlemci",
+    "aciklama": "cihazların mantıksal ve aritmetik komutlarını yürüten çip.",
+    "yasakli_kelimeler": [
+      "çip",
+      "bilgisayar",
+      "işlemci",
+      "entegre",
+      "devre"
+    ],
+    "zorluk": "orta",
+    "id": 8,
+    "kategori": "mekatronik"
+  },
+  {
+    "kelime": "transistör",
+    "aciklama": "elektrik sinyallerini yükselten veya anahtarlayan devre elemanı.",
+    "yasakli_kelimeler": [
+      "devre",
+      "akım",
+      "çip",
+      "elektronik",
+      "anahtar"
+    ],
+    "zorluk": "zor",
+    "id": 9,
+    "kategori": "mekatronik"
+  },
+  {
+    "kelime": "jiroskop",
+    "aciklama": "açısal yönü ve dönme hızını ölçen denge aygıtı.",
+    "yasakli_kelimeler": [
+      "denge",
+      "açı",
+      "yön",
+      "dönme",
+      "sensör"
+    ],
+    "zorluk": "zor",
+    "id": 10,
+    "kategori": "mekatronik"
+  },
+  {
+    "kelime": "ivmeölçer",
+    "aciklama": "hızlanmayı ve titreşim hareketini algılayan elektronik sensör.",
+    "yasakli_kelimeler": [
+      "hız",
+      "hareket",
+      "sarsıntı",
+      "telefon",
+      "sensör"
+    ],
+    "zorluk": "zor",
+    "id": 11,
+    "kategori": "mekatronik"
+  },
+  {
+    "kelime": "hidrolik sistem",
+    "aciklama": "basınçlı sıvı yardımıyla yüksek mekanik güç üreten mekanizma.",
+    "yasakli_kelimeler": [
+      "yağ",
+      "basınç",
+      "piston",
+      "güç",
+      "kuvvet"
+    ],
+    "zorluk": "orta",
+    "id": 12,
+    "kategori": "mekatronik"
+  },
+  {
+    "kelime": "hava kompresörü",
+    "aciklama": "havayı sıkıştırarak yüksek basınçlı hava üreten makine.",
+    "yasakli_kelimeler": [
+      "basınç",
+      "hava",
+      "tank",
+      "pnömatik",
+      "motor"
+    ],
+    "zorluk": "orta",
+    "id": 13,
+    "kategori": "mekatronik"
+  },
+  {
+    "kelime": "biyonik protez",
+    "aciklama": "kas sinyalleriyle hareket eden yapay uzuv cihazı.",
+    "yasakli_kelimeler": [
+      "kol",
+      "bacak",
+      "yapay",
+      "uzuv",
+      "hasta"
+    ],
+    "zorluk": "orta",
+    "id": 14,
+    "kategori": "mekatronik"
+  },
+  {
+    "kelime": "geri besleme",
+    "aciklama": "çıkış bilgisini girişe ileterek sistemi denetleme süreci.",
+    "yasakli_kelimeler": [
+      "kontrol",
+      "sinyal",
+      "döngü",
+      "yanıt",
+      "ayar"
+    ],
+    "zorluk": "zor",
+    "id": 15,
+    "kategori": "mekatronik"
+  },
+  {
+    "kelime": "analog sinyal",
+    "aciklama": "sürekli değişen dalga biçimindeki geleneksel elektrik sinyali.",
+    "yasakli_kelimeler": [
+      "dalga",
+      "ses",
+      "voltaj",
+      "frekans",
+      "dijital"
+    ],
+    "zorluk": "zor",
+    "id": 16,
+    "kategori": "mekatronik"
+  },
+  {
+    "kelime": "dijital sinyal",
+    "aciklama": "sıfır ve birlerden oluşan kesikli sayısal sinyal.",
+    "yasakli_kelimeler": [
+      "ikili",
+      "kod",
+      "bit",
+      "bilgisayar",
+      "analog"
+    ],
+    "zorluk": "zor",
+    "id": 17,
+    "kategori": "mekatronik"
+  },
+  {
+    "kelime": "drone",
+    "aciklama": "döner pervaneleriyle uçan uzaktan kumandalı hava aracı.",
+    "yasakli_kelimeler": [
+      "uçmak",
+      "pervane",
+      "kumanda",
+      "kamera",
+      "hava"
+    ],
+    "zorluk": "kolay",
+    "id": 18,
+    "kategori": "mekatronik"
   }
 ]

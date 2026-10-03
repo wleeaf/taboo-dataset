@@ -3,13 +3,13 @@
     "id": 1,
     "kategori": "tekstil",
     "kelime": "tekstil",
-    "aciklama": "liflerin eğrilerek iplik ve kumaşa dönüştürüldüğü üretim alanı",
+    "aciklama": "doğal ve yapay liflerin kumaşa dönüştürüldüğü üretim alanı",
     "yasakli_kelimeler": [
-      "kumaş sektörü",
-      "iplik üretimi",
-      "dokuma sanayi",
-      "elyaf işleme",
-      "giyim sektörü"
+      "kumaş",
+      "iplik",
+      "dokuma",
+      "konfeksiyon",
+      "giyim"
     ],
     "zorluk": "kolay"
   },
@@ -20,1635 +20,1019 @@
     "aciklama": "bükülerek iplik yapılan en küçük lifsel hammadde birimi",
     "yasakli_kelimeler": [
       "lif",
-      "iplik hammaddesi",
-      "doğal lif",
-      "sentetik elyaf",
-      "iplik özü"
+      "pamuk",
+      "hammadde",
+      "kılcal",
+      "iplik"
     ],
-    "zorluk": "kolay"
+    "zorluk": "orta"
   },
   {
     "id": 3,
     "kategori": "tekstil",
     "kelime": "mekik",
-    "aciklama": "atkı ipliğini çözgüler arasından geçiren oval ahşap araç",
+    "aciklama": "atkı ipliğini çözgülerin arasından geçiren dokuma aracı",
     "yasakli_kelimeler": [
-      "atkı taşıyıcı",
-      "tezgah aleti",
-      "dokuma mekiği",
-      "iplik atıcı",
-      "masura kabı"
+      "dokuma",
+      "tezgah",
+      "iplik",
+      "atkı",
+      "çözgü"
     ],
-    "zorluk": "zor"
+    "zorluk": "kolay"
   },
   {
     "id": 4,
     "kategori": "tekstil",
-    "kelime": "tarak",
-    "aciklama": "dokunan iplikleri sıkıştırarak kumaşın sıklığını sağlayan taraklı parça",
+    "kelime": "pamuk",
+    "aciklama": "tohumlarından elde edilen yumuşak ve emici doğal lif",
     "yasakli_kelimeler": [
-      "dokuma tarağı",
-      "sıkıştırma dişi",
-      "atkı vuran",
-      "tezgah tarağı",
-      "iplik sıklığı"
+      "beyaz",
+      "lif",
+      "kumaş",
+      "t-shirt",
+      "bitki"
     ],
-    "zorluk": "zor"
+    "zorluk": "kolay"
   },
   {
     "id": 5,
     "kategori": "tekstil",
-    "kelime": "jakar",
-    "aciklama": "karmaşık desenler dokuyabilen özel mekanizmalı dokuma tezgahı",
+    "kelime": "keten",
+    "aciklama": "keten bitkisinden elde edilen serin tutan doğal kumaş",
     "yasakli_kelimeler": [
-      "desenli dokuma",
-      "delikli kart",
-      "jakarlı kumaş",
-      "armür alternatifi",
-      "otomatik tezgah"
+      "yazlık",
+      "gömlek",
+      "kumaş",
+      "lif",
+      "serinlik"
     ],
-    "zorluk": "zor"
+    "zorluk": "kolay"
   },
   {
     "id": 6,
     "kategori": "tekstil",
-    "kelime": "pamuk",
-    "aciklama": "tohumlarından elde edilen yumuşak ve emici doğal lif",
+    "kelime": "yün",
+    "aciklama": "koyun kırkılarak elde edilen sıcak tutan doğal lif",
     "yasakli_kelimeler": [
-      "koza lifi",
-      "selüloz elyaf",
-      "çırçır",
-      "t-shirt kumaşı",
-      "doğal bitkisel lif"
+      "koyun",
+      "kazak",
+      "sıcak",
+      "kırkma",
+      "örgü"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 7,
     "kategori": "tekstil",
-    "kelime": "keten",
-    "aciklama": "bitki gövdesinden elde edilen serin tutan doğal lif",
+    "kelime": "ipek",
+    "aciklama": "ipek böceği kozasından elde edilen parlak ve değerli lif",
     "yasakli_kelimeler": [
-      "gövde lifi",
-      "serin kumaş",
-      "yazlık kumaş",
-      "doğal keten",
-      "linum"
+      "koza",
+      "ipekböceği",
+      "kumaş",
+      "parlak",
+      "eşarp"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 8,
     "kategori": "tekstil",
-    "kelime": "yun",
-    "aciklama": "koyun kırkılarak elde edilen sıcak tutan doğal lif",
+    "kelime": "polyester",
+    "aciklama": "petrol türevi sentetik polimerden üretilen dayanıklı kumaş lifi",
     "yasakli_kelimeler": [
-      "koyun yapağısı",
-      "protein elyafı",
-      "sıcak tutan",
-      "kırkım",
-      "kazak ipliği"
+      "sentetik",
+      "naylon",
+      "kumaş",
+      "yapay",
+      "lif"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 9,
     "kategori": "tekstil",
-    "kelime": "ipek",
-    "aciklama": "ipek böceği kozasından sağılan parlak ve değerli lif",
+    "kelime": "naylon",
+    "aciklama": "yüksek mukavemete sahip esnek sentetik polimer lifi",
     "yasakli_kelimeler": [
-      "ipek böceği",
-      "koza lifi",
-      "dut yaprağı",
-      "parlak kumaş",
-      "doğal lüks elyaf"
+      "sentetik",
+      "çorap",
+      "plastik",
+      "lif",
+      "kumaş"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 10,
     "kategori": "tekstil",
-    "kelime": "viskon",
-    "aciklama": "odun selülozundan kimyasal yollarla üretilen dökümlü yapay lif",
+    "kelime": "akrilik",
+    "aciklama": "yüne benzeyen ve sıcak tutan sentetik kumaş lifi",
     "yasakli_kelimeler": [
-      "rejenere selüloz",
-      "odun hamuru",
-      "rayon",
-      "yapay pamuk",
-      "dökümlü lif"
+      "sentetik",
+      "yün benzeri",
+      "kazak",
+      "lif",
+      "örgü"
     ],
-    "zorluk": "kolay"
+    "zorluk": "orta"
   },
   {
     "id": 11,
     "kategori": "tekstil",
-    "kelime": "polyester",
-    "aciklama": "petrol türevi sentetik polimerden üretilen dayanıklı kumaş lifi",
+    "kelime": "tela",
+    "aciklama": "kumaşın dik durması için araya ütüyle yapıştırılan astar",
     "yasakli_kelimeler": [
-      "sentetik kumaş",
-      "petrol türevi",
-      "kırışmaz kumaş",
-      "pes elyaf",
-      "yapay lif"
+      "yapışkan",
+      "yaka",
+      "ütü",
+      "sertlik",
+      "astar"
     ],
-    "zorluk": "kolay"
+    "zorluk": "orta"
   },
   {
     "id": 12,
     "kategori": "tekstil",
-    "kelime": "naylon",
-    "aciklama": "yüksek mukavemete sahip sentetik poliamid tekstil lifi",
+    "kelime": "astar",
+    "aciklama": "giysilerin iç yüzeyine dikilen ince ve kaygan kumaş",
     "yasakli_kelimeler": [
-      "poliamid",
-      "sentetik lif",
-      "kadın çorabı",
-      "esnek lif",
-      "du pont"
+      "iç kumaş",
+      "ceket içi",
+      "kaygan",
+      "dikiş",
+      "kaplama"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 13,
     "kategori": "tekstil",
-    "kelime": "akrilik",
-    "aciklama": "yüksek esneklik ve toparlanma sağlayan elastik sentetik lif",
+    "kelime": "triko",
+    "aciklama": "örme makinelerinde üretilen esnek ve yünlü giysi türü",
     "yasakli_kelimeler": [
-      "yapay yün",
-      "sentetik triko",
-      "kazak elyafı",
-      "akrilonitril",
-      "yün taklidi"
+      "kazak",
+      "örgü",
+      "süveter",
+      "iplik",
+      "kışlık"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 14,
     "kategori": "tekstil",
-    "kelime": "elastan",
-    "aciklama": "yüne benzeyen sıcak tutan sentetik polimer tekstil lifi",
+    "kelime": "pike",
+    "aciklama": "yaz gecelerinde kullanılan kabartmalı hafif pamuklu örtü",
     "yasakli_kelimeler": [
-      "spandeks",
-      "likra",
-      "esnek kumaş",
-      "uzama katsayısı",
-      "elastik elyaf"
+      "yatak örtüsü",
+      "yazlık",
+      "pamuklu",
+      "dokuma",
+      "çarşaf"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 15,
     "kategori": "tekstil",
-    "kelime": "tela",
-    "aciklama": "angora tavşanının tüylerinden elde edilen hafif ve yumuşak lif",
+    "kelime": "saten",
+    "aciklama": "yüzeyi parlak, pürüzsüz ve dökümlü lüks kumaş dokuması",
     "yasakli_kelimeler": [
-      "yaka sertleştirici",
-      "yapışkan kumaş",
-      "ara astar",
-      "ütüyle yapışan",
-      "giysi formu"
+      "parlak",
+      "pürüzsüz",
+      "ipeksi",
+      "çarşaf",
+      "elbise"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 16,
     "kategori": "tekstil",
-    "kelime": "astar",
-    "aciklama": "deve tüyünden eğrilen doğal ve sıcak tutan lif",
+    "kelime": "kadife",
+    "aciklama": "yüzeyi kısa ve yumuşak tüylerle kaplı kalın kumaş",
     "yasakli_kelimeler": [
-      "iç kumaş",
-      "ceket içi",
-      "kaygan katman",
-      "dikiş örtücü",
-      "pantolon astarı"
+      "tüylü",
+      "yumuşak",
+      "koltuk kumaşı",
+      "parlak",
+      "fitilli"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 17,
     "kategori": "tekstil",
-    "kelime": "triko",
-    "aciklama": "yaka ve manşetlerde kullanılan lastikli esnek örme kumaş",
+    "kelime": "denim",
+    "aciklama": "kot pantolon ve ceket yapımında kullanılan dayanıklı kumaş",
     "yasakli_kelimeler": [
-      "örgü kumaş",
-      "ilmek dokusu",
-      "kazak örgüsü",
-      "esnek giysi",
-      "dokuma karşıtı"
+      "kot",
+      "jean",
+      "mavi",
+      "pantolon",
+      "kumaş"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 18,
     "kategori": "tekstil",
-    "kelime": "pike",
-    "aciklama": "yüzeyinde ilmekler bulunan su emici havlu kumaş dokuması",
+    "kelime": "kaşmir",
+    "aciklama": "keçi yününden elde edilen son derece yumuşak lüks lif",
     "yasakli_kelimeler": [
-      "petek doku",
-      "polo yaka tişört",
-      "kabartmalı örgü",
-      "yazlık örtü",
-      "gofre doku"
+      "keçi yünü",
+      "lüks",
+      "atkı",
+      "kazak",
+      "yumuşak"
     ],
-    "zorluk": "zor"
+    "zorluk": "orta"
   },
   {
     "id": 19,
     "kategori": "tekstil",
-    "kelime": "saten",
-    "aciklama": "örgü deseni kazayağına benzeyen iki renkli klasik dokuma",
+    "kelime": "keçe",
+    "aciklama": "yün liflerinin ısı ve basınçla preslenerek kaynaştırıldığı kumaş",
     "yasakli_kelimeler": [
-      "parlak kumaş",
-      "kaygan doku",
-      "atlas",
-      "gecelik kumaşı",
-      "parlak yüzey"
+      "pres",
+      "yün",
+      "şapka",
+      "dokumasız",
+      "kalın"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 20,
     "kategori": "tekstil",
-    "kelime": "kadife",
-    "aciklama": "iskoç eteklerinde kullanılan kareli ve çok renkli yünlü kumaş",
+    "kelime": "çile",
+    "aciklama": "örgüye hazır hale getirilmiş gevşek sarılmış iplik bağı",
     "yasakli_kelimeler": [
-      "tüylü kumaş",
-      "havlı kumaş",
-      "fitilli kadife",
-      "yumuşak yüzey",
-      "pelüş akrabası"
+      "iplik",
+      "örgü",
+      "yumak",
+      "sargı",
+      "bağ"
     ],
-    "zorluk": "kolay"
+    "zorluk": "orta"
   },
   {
     "id": 21,
     "kategori": "tekstil",
-    "kelime": "denim",
-    "aciklama": "üzerinde jakar tezgahıyla kabartma desenler oluşturulmuş lüks kumaş",
+    "kelime": "yumak",
+    "aciklama": "yuvarlak top şeklinde sarılmış örgü ipliği kütlesi",
     "yasakli_kelimeler": [
-      "kot kumaşı",
-      "indigo boya",
-      "blue jeans",
-      "taşlama",
-      "dayanıklı pamuk"
+      "iplik",
+      "kedi",
+      "örgü",
+      "şiş",
+      "yuvarlak"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 22,
     "kategori": "tekstil",
-    "kelime": "müslin",
-    "aciklama": "hafif, dökümlü ve yarı şeffaf ipeksi kumaş türü",
+    "kelime": "penye",
+    "aciklama": "taranmış pamuk ipliğinden dokunan yumuşak ve esnek kumaş",
     "yasakli_kelimeler": [
-      "bebek bezi kumaşı",
-      "seyrek pamuklu",
-      "hafif tülbent",
-      "yumuşak örtü",
-      "nefes alan kumaş"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 23,
-    "kategori": "tekstil",
-    "kelime": "sifon",
-    "aciklama": "ipekten dokunan sert ve tok duruşlu lüks kumaş",
-    "yasakli_kelimeler": [
-      "şeffaf kumaş",
-      "uçuşan kumaş",
-      "tül benzeri",
-      "dökümlü elbise",
-      "yüksek bükümlü"
+      "tişört",
+      "pamuklu",
+      "esnek",
+      "yumuşak",
+      "günlük"
     ],
     "zorluk": "kolay"
   },
   {
+    "id": 23,
+    "kategori": "tekstil",
+    "kelime": "overlok",
+    "aciklama": "kumaş kenarlarının sökülmemesi için yapılan özel sık dikiş",
+    "yasakli_kelimeler": [
+      "kenar dikişi",
+      "kesim",
+      "iplik",
+      "makine",
+      "sökülme"
+    ],
+    "zorluk": "orta"
+  },
+  {
     "id": 24,
     "kategori": "tekstil",
-    "kelime": "tafta",
-    "aciklama": "sıkı dokunmuş hafif ve parıltılı ipek kumaş türü",
+    "kelime": "kapitone",
+    "aciklama": "iki kumaş arasına elyaf konularak kare desenli dikilmiş örtü",
     "yasakli_kelimeler": [
-      "hışırdayan kumaş",
-      "abiye elbise",
-      "yanar döner",
-      "sert ipek",
-      "parlak ipekli"
+      "elyaf",
+      "mont",
+      "yorgan",
+      "baklava desen",
+      "dikiş"
     ],
-    "zorluk": "zor"
+    "zorluk": "kolay"
   },
   {
     "id": 25,
     "kategori": "tekstil",
-    "kelime": "flanel",
-    "aciklama": "ince ipliklerle seyrek dokunmuş yumuşak pamuklu tülbent kumaşı",
+    "kelime": "vatka",
+    "aciklama": "ceket omuzlarının dik durması için yerleştirilen süngerimsi dolgu",
     "yasakli_kelimeler": [
-      "ekose gömlek",
-      "şardonlu pamuk",
-      "yumuşak gömlek",
-      "oduncu gömleği",
-      "kışlık pamuklu"
+      "omuz",
+      "ceket",
+      "dolgu",
+      "sünger",
+      "dik durma"
     ],
-    "zorluk": "orta"
+    "zorluk": "kolay"
   },
   {
     "id": 26,
     "kategori": "tekstil",
-    "kelime": "kasmer",
-    "aciklama": "kalın ve sağlam pamuklu kumaştan yapılan çadır bezi",
+    "kelime": "iplik",
+    "aciklama": "liflerin bükülmesiyle elde edilen ince uzun dikiş malzemesi",
     "yasakli_kelimeler": [
-      "keşmir keçisi",
-      "lüks yün",
-      "yumuşak kazak",
-      "pahalı elyaf",
-      "alt tüy lifi"
+      "dikiş",
+      "makara",
+      "iğne",
+      "kumaş",
+      "pamuk"
     ],
-    "zorluk": "orta"
+    "zorluk": "kolay"
   },
   {
     "id": 27,
     "kategori": "tekstil",
-    "kelime": "angora",
-    "aciklama": "yün liflerinin ısı ve basınçla birbirine kenetlenmesi işlemi",
+    "kelime": "dikiş makinesi",
+    "aciklama": "kumaşları iplikle birbirine seri diken elektrikli veya mekanik araç",
     "yasakli_kelimeler": [
-      "ankara tavşanı",
-      "tavşan tüyü",
-      "kabarık yün",
-      "yumuşak kazak",
-      "beyaz lif"
+      "iğne",
+      "pedal",
+      "motor",
+      "terzi",
+      "dikiş"
     ],
-    "zorluk": "orta"
+    "zorluk": "kolay"
   },
   {
     "id": 28,
     "kategori": "tekstil",
-    "kelime": "alpaka",
-    "aciklama": "kumaşın dikilerek giysi veya ev tekstiline dönüştürülmesi aşaması",
+    "kelime": "dikiş iğnesi",
+    "aciklama": "ucunda delik bulunan ve kumaşa dikiş diken ince metal",
     "yasakli_kelimeler": [
-      "lama yünü",
-      "and dağları",
-      "deve tüyü akrabası",
-      "termal lif",
-      "güney amerika elyafı"
+      "delik",
+      "iplik",
+      "metal",
+      "batmak",
+      "dikmek"
     ],
-    "zorluk": "orta"
+    "zorluk": "kolay"
   },
   {
     "id": 29,
     "kategori": "tekstil",
-    "kelime": "baskı",
-    "aciklama": "iki kumaş parçasını birbirine iplikle tutturma birleştirme işlemi",
+    "kelime": "yüksük",
+    "aciklama": "dikiş dikerken iğnenin parmağa batmasını engelleyen metal başlık",
     "yasakli_kelimeler": [
-      "desen basma",
-      "rotasyon baskı",
-      "serigrafi",
-      "dijital baskı",
-      "kumaş renklendirme"
+      "parmak",
+      "metal koruyucu",
+      "iğne",
+      "terzi",
+      "batma"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 30,
     "kategori": "tekstil",
-    "kelime": "serigrafi",
-    "aciklama": "kumaşın kesik kenarlarının iğneyle içe kıvrılarak gizlenmesi",
+    "kelime": "mezura",
+    "aciklama": "terzilerin kumaş ve vücut ölçüsü aldığı esnek mezura şerit",
     "yasakli_kelimeler": [
-      "elek baskı",
-      "rakle",
-      "şablon baskı",
-      "ipek baskı",
-      "parça baskı"
+      "santimetre",
+      "ölçü",
+      "terzi",
+      "şerit",
+      "esnek"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 31,
     "kategori": "tekstil",
-    "kelime": "batik",
-    "aciklama": "düğmenin içinden geçerek kapanmasını sağlayan kumaş yarığı deliği",
+    "kelime": "biçki makası",
+    "aciklama": "kumaşları düzgünce kesmeye yarayan büyük terzi makası",
     "yasakli_kelimeler": [
-      "balmumu boyama",
-      "endonezya sanatı",
-      "boya rezervi",
-      "çatlak desen",
-      "kumaş boyama tekniği"
+      "kesmek",
+      "terzi",
+      "kumaş",
+      "büyük makas",
+      "bıçak"
     ],
-    "zorluk": "orta"
+    "zorluk": "kolay"
   },
   {
     "id": 32,
     "kategori": "tekstil",
-    "kelime": "kece",
-    "aciklama": "kumaşı katlayarak veya büzerek oluşturulan dekoratif giysi pili",
+    "kelime": "terzi sabunu",
+    "aciklama": "kumaş üzerinde kesim ve dikiş yerlerini işaretleyen sabun",
     "yasakli_kelimeler": [
-      "kenetlenmiş yün",
-      "yün sıkıştırma",
-      "dilsiz kumaş",
-      "geleneksel kepenek",
-      "dövme yün"
+      "işaret",
+      "tebeşir",
+      "çizgi",
+      "kumaş",
+      "kesim"
     ],
     "zorluk": "orta"
   },
   {
     "id": 33,
     "kategori": "tekstil",
-    "kelime": "cile",
-    "aciklama": "kumaş veya ipliklerin kimyasal maddelerle renklendirilmesi süreci",
+    "kelime": "teyel",
+    "aciklama": "esas dikiş öncesinde kumaş parçalarını gevşekçe tutturma dikişi",
     "yasakli_kelimeler": [
-      "iplik kangalı",
-      "kangal iplik",
-      "boyama çilesi",
-      "halka sarım",
-      "yumak öncesi"
+      "geçici dikiş",
+      "prova",
+      "iğne",
+      "iplik",
+      "sökme"
     ],
     "zorluk": "orta"
   },
   {
     "id": 34,
     "kategori": "tekstil",
-    "kelime": "yumak",
-    "aciklama": "kumaş yüzeyine şablon veya silindirle desen aktarma işlemi",
+    "kelime": "dikiş payı",
+    "aciklama": "kumaş kesilirken dikiş hattının dışına bırakılan pay payı",
     "yasakli_kelimeler": [
-      "iplik topu",
-      "örgü yumağı",
-      "yuvarlak iplik",
-      "kedi yumağı",
-      "sarılmış ip"
+      "pay",
+      "kenar",
+      "kesim",
+      "fazlalık",
+      "terzi"
     ],
-    "zorluk": "kolay"
+    "zorluk": "orta"
   },
   {
     "id": 35,
     "kategori": "tekstil",
-    "kelime": "penye",
-    "aciklama": "bilgisayar kontrolünde kumaşa doğrudan mürekkep püskürten modern baskı",
+    "kelime": "büzgü",
+    "aciklama": "kumaşı iplikle çekerek minik kıvrımlar ve darlık oluşturma",
     "yasakli_kelimeler": [
-      "taranmış pamuk",
-      "kaliteli tişört",
-      "karde karşıtı",
-      "pürüzsüz pamuk",
-      "uzun elyaf"
+      "kıvrım",
+      "etek",
+      "dikiş",
+      "büzmek",
+      "fırfır"
     ],
-    "zorluk": "zor"
+    "zorluk": "kolay"
   },
   {
     "id": 36,
     "kategori": "tekstil",
-    "kelime": "tüylenme",
-    "aciklama": "kumaşa su damlalarını itme ve geçirmeme özelliği kazandırma",
+    "kelime": "pile",
+    "aciklama": "etek veya perdede kumaşın üst üste katlanmasıyla oluşan kat",
     "yasakli_kelimeler": [
-      "boncuklanma",
-      "pilling",
-      "topaklanma",
-      "kumaş eskimesi",
-      "lif sürtünmesi"
+      "etek",
+      "katlama",
+      "katmer",
+      "perde",
+      "kıvrım"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 37,
     "kategori": "tekstil",
-    "kelime": "overlok",
-    "aciklama": "kumaşın yıkandıktan sonra kolay ütülenmesini sağlayan kırışmazlık bitimi",
+    "kelime": "paça",
+    "aciklama": "pantolonun ayak bileğini saran alt bitiş kısmı",
     "yasakli_kelimeler": [
-      "kenar dikişi",
-      "iplik saçaklanması",
-      "dikiş makinesi",
-      "sürfile",
-      "kenar temizleme"
+      "pantolon",
+      "kıvırma",
+      "ayak bileği",
+      "terzi",
+      "dar paça"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 38,
     "kategori": "tekstil",
-    "kelime": "aplike",
-    "aciklama": "ipliğin kopmadan dayanabileceği en yüksek çekme kuvveti direnci",
+    "kelime": "manşet",
+    "aciklama": "gömlek kollarının bilek kısmına dikilen düğmeli sert parça",
     "yasakli_kelimeler": [
-      "parça yapıştırma",
-      "kumaş yama",
-      "nakış aplikesi",
-      "üst süsleme",
-      "kumaş üstüne kumaş"
+      "gömlek kolu",
+      "bilek",
+      "düğme",
+      "kol düğmesi",
+      "kol"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 39,
     "kategori": "tekstil",
-    "kelime": "kapitone",
-    "aciklama": "yıkanan kumaşın en veya boydan daralarak küçülmesi oranı",
+    "kelime": "yaka",
+    "aciklama": "giysilerin boyun kısmını çevreleyen kumaş parçası",
     "yasakli_kelimeler": [
-      "baklava dikiş",
-      "elyaf dolgulu",
-      "mont kumaşı",
-      "yorgan dikişi",
-      "dolgu katmanı"
+      "gömlek",
+      "boyun",
+      "kravat",
+      "dik yaka",
+      "ütü"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 40,
     "kategori": "tekstil",
-    "kelime": "vatka",
-    "aciklama": "kumaşın havayı ve nem buharını dışarıya iletebilme kapasitesi",
+    "kelime": "fermuar",
+    "aciklama": "iki kumaş kenarını metal dişlerle birleştiren çekmeli kapan",
     "yasakli_kelimeler": [
-      "omuz pedi",
-      "ceket omzu",
-      "elyaf dolgu",
-      "omuz yükseltici",
-      "dik duruş"
+      "dişli",
+      "mont",
+      "kürsör",
+      "çekmek",
+      "pantolon"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 41,
     "kategori": "tekstil",
-    "kelime": "iplik",
-    "aciklama": "iplik üretiminde lifleri tarayıp açan ve şerit yapan makine",
+    "kelime": "düğme",
+    "aciklama": "ilikten geçirilerek giysinin iki tarafını kapatan yuvarlak nesne",
     "yasakli_kelimeler": [
-      "dokuma malzemesi",
-      "eğrilmiş elyaf",
-      "dikiş teli",
-      "bobin ve çile",
-      "kumaş ipi"
+      "ilik",
+      "gömlek",
+      "kopmak",
+      "dikmek",
+      "yuvarlak"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 42,
     "kategori": "tekstil",
-    "kelime": "dikiş ipliği",
-    "aciklama": "kısa lifleri ayıklayıp sadece uzun lifleri bırakan tarama makinesi",
+    "kelime": "ilik",
+    "aciklama": "düğmenin içinden geçmesi için kumaşa açılan dar yarık",
     "yasakli_kelimeler": [
-      "dikiş ipi",
-      "makara ipi",
-      "kumaş birleştirici",
-      "sağlam büküm",
-      "iğne deliğinden geçen"
+      "düğme",
+      "açmak",
+      "yarık",
+      "gömlek",
+      "kenar"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 43,
     "kategori": "tekstil",
-    "kelime": "dikiş makinesi",
-    "aciklama": "lif şeritlerini çekip uzatarak incelten ve büküme hazırlayan makine",
+    "kelime": "çıtçıt",
+    "aciklama": "birbirine bastırılınca kenetlenen iki parçalı metal kopça",
     "yasakli_kelimeler": [
-      "singer",
-      "pedallı makine",
-      "kumaş dikme aleti",
-      "mekik ve iğne",
-      "terzi aleti"
+      "metal",
+      "bastırmak",
+      "bebek tulumu",
+      "mont",
+      "düğme"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 44,
     "kategori": "tekstil",
-    "kelime": "iğne",
-    "aciklama": "şeritleri hafif bükümle fitil haline getiren iplik makinesi",
+    "kelime": "kopça",
+    "aciklama": "etek ve sütyen arkasında kullanılan küçük kancalı metal tutturucu",
     "yasakli_kelimeler": [
-      "dikiş ucu",
-      "iplik deliği",
-      "sivri çelik",
-      "batıcı terzi aleti",
-      "çengelli olmayan"
+      "kanca",
+      "halka",
+      "tutturucu",
+      "etek",
+      "iç giyim"
     ],
-    "zorluk": "kolay"
+    "zorluk": "orta"
   },
   {
     "id": 45,
     "kategori": "tekstil",
-    "kelime": "dikiş iğnesi",
-    "aciklama": "fitili son inceliğe kadar çekip bükerek iplik yapan makine",
+    "kelime": "cırt cırt",
+    "aciklama": "bastırılınca birbirine yapışıp çekince ayrılan pıtıraklı kumaş şerit",
     "yasakli_kelimeler": [
-      "makine iğnesi",
-      "el dikişi aleti",
-      "çelik iğne",
-      "delikli uç",
-      "kumaş delici"
+      "velcro",
+      "ayakkabı",
+      "yapışkan",
+      "şerit",
+      "pıtırak"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 46,
     "kategori": "tekstil",
-    "kelime": "yüksük",
-    "aciklama": "ipliği yüksek hızda bobinlere saran açık uçlu iplik makinesi",
+    "kelime": "kordon",
+    "aciklama": "eşofman beli veya kapüşonda kullanılan kalın yuvarlak ip",
     "yasakli_kelimeler": [
-      "parmak koruyucu",
-      "metal başlık",
-      "iğne itici",
-      "terzi aleti",
-      "parmağa takılan"
+      "bağcık",
+      "bel ipi",
+      "eşofman",
+      "kapüşon",
+      "ip"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 47,
     "kategori": "tekstil",
-    "kelime": "mezura",
-    "aciklama": "iplikleri çözgü leventlerine paralel ve gergin şekilde sarma",
+    "kelime": "lastik",
+    "aciklama": "kumaşın esneyip beli kavramasını sağlayan elastik şerit",
     "yasakli_kelimeler": [
-      "esnek metre",
-      "beden ölçüsü",
-      "terzi şeridi",
-      "santimetre cetveli",
-      "kumaş ölçme"
+      "elastik",
+      "esnek",
+      "bel",
+      "etek",
+      "paça"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 48,
     "kategori": "tekstil",
-    "kelime": "biçki makası",
-    "aciklama": "dokuma öncesi çözgü ipliklerine mukavemet için nişastalı haşıl sürme",
+    "kelime": "dantel",
+    "aciklama": "iplikle ilmek ilmek işlenmiş zarif ajurlu örgü süsü",
     "yasakli_kelimeler": [
-      "terzi makası",
-      "ağır çelik makas",
-      "kumaş kesme aleti",
-      "kumaş biçme",
-      "keskin alet"
+      "çeyiz",
+      "zarif",
+      "motif",
+      "tığ",
+      "örtü"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 49,
     "kategori": "tekstil",
-    "kelime": "terzi sabunu",
-    "aciklama": "dokuma tezgahına binlerce çözgü ipliğini sırayla tele dizme",
+    "kelime": "güpür",
+    "aciklama": "dantelden daha kalın ve kabartmalı delikli süs kumaşı",
     "yasakli_kelimeler": [
-      "çizgi sabunu",
-      "terzi tebeşiri",
-      "kumaş kalemi",
-      "işaretleme sabunu",
-      "yassı tebeşir"
+      "dantel",
+      "gelinlik",
+      "kabartma",
+      "çiçekli",
+      "abiyeler"
     ],
-    "zorluk": "kolay"
+    "zorluk": "orta"
   },
   {
     "id": 50,
     "kategori": "tekstil",
-    "kelime": "teyel",
-    "aciklama": "yeni çözgü ipliklerini biten çözgü uçlarıyla tek tek düğümleme",
+    "kelime": "tül",
+    "aciklama": "ince delikli ve şeffaf hafif perde veya giysi kumaşı",
     "yasakli_kelimeler": [
-      "geçici dikiş",
-      "sökülen ip",
-      "seyrek el dikişi",
-      "prova öncesi tutturma",
-      "dikiş hazırlığı"
+      "perde",
+      "duvak",
+      "şeffaf",
+      "gelinlik",
+      "pencere"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 51,
     "kategori": "tekstil",
-    "kelime": "teyel dikişi",
-    "aciklama": "mekiksiz dokuma tezgahlarında atkıyı hava basıncıyla fırlatan sistem",
+    "kelime": "organze",
+    "aciklama": "ince, yarı şeffaf ve hafif sert duruşlu tül kumaş",
     "yasakli_kelimeler": [
-      "prova dikişi",
-      "geçici tutturma",
-      "teyel ipi",
-      "sökülebilir dikiş",
-      "uzun adım"
+      "şeffaf",
+      "sert tül",
+      "gelinlik",
+      "abiyelik",
+      "parlak"
     ],
     "zorluk": "orta"
   },
   {
     "id": 52,
     "kategori": "tekstil",
-    "kelime": "dikiş payı",
-    "aciklama": "atkı ipliğini yüksek basınçlı su jetiyle fırlatan hızlı dokuma",
+    "kelime": "kaşe",
+    "aciklama": "kışlık kaban ve mantolarda kullanılan tok kalın yünlü kumaş",
     "yasakli_kelimeler": [
-      "kenar fazlalığı",
-      "genişletme payı",
-      "kumaş payı",
-      "kesim payı",
-      "santimetre payı"
+      "kaban",
+      "manto",
+      "kışlık",
+      "kalın",
+      "yünlü"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 53,
     "kategori": "tekstil",
-    "kelime": "pens",
-    "aciklama": "atkı ipliğini iki taraftan uzanan kancalı kollarla taşıyan tezgah",
+    "kelime": "polar",
+    "aciklama": "yumuşak ve çok sıcak tutan sentetik tüylü kışlık kumaş",
     "yasakli_kelimeler": [
-      "bel kıvrımı",
-      "vücuda oturtma",
-      "üçgen dikiş",
-      "göğüs pensi",
-      "prova daraltması"
+      "sıcak",
+      "hırka",
+      "tüylü",
+      "kışlık",
+      "yumuşak"
     ],
-    "zorluk": "orta"
+    "zorluk": "kolay"
   },
   {
     "id": 54,
     "kategori": "tekstil",
-    "kelime": "büzgü",
-    "aciklama": "atkı ipliğini küçük çelik mermilerle fırlatan geniş dokuma tezgahı",
+    "kelime": "pelüş",
+    "aciklama": "uzun yumuşak tüyleri olan battaniye ve oyuncak kumaşı",
     "yasakli_kelimeler": [
-      "iplik çekme",
-      "etek büzgüsü",
-      "dalgalı kumaş",
-      "kumaş daraltma",
-      "fırfır"
+      "oyuncak ayı",
+      "yumuşak",
+      "tüylü",
+      "battaniye",
+      "kürk"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 55,
     "kategori": "tekstil",
-    "kelime": "pile",
-    "aciklama": "yuvarlak kovan üzerinde dönerek tüp şeklinde kumaş ören makine",
+    "kelime": "süet",
+    "aciklama": "derinin zımparalanmasıyla elde edilen mat ve kadifemsi deri",
     "yasakli_kelimeler": [
-      "kumaş katı",
-      "pileli etek",
-      "ütülü kat",
-      "kırma katlama",
-      "katmer"
+      "deri",
+      "ayakkabı",
+      "kadifemsi",
+      "çanta",
+      "mat"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 56,
     "kategori": "tekstil",
-    "kelime": "paça",
-    "aciklama": "iplikleri çözgü yönünde besleyerek tül ve dantel ören makine",
+    "kelime": "suni deri",
+    "aciklama": "gerçek hayvan derisi taklidi yapılarak üretilen sentetik malzeme",
     "yasakli_kelimeler": [
-      "pantolon boyu",
-      "pantolon altı",
-      "paça boyu",
-      "duble paça",
-      "ayak bileği kısmı"
+      "imitasyon",
+      "yapay deri",
+      "çanta",
+      "mont",
+      "plastik"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 57,
     "kategori": "tekstil",
-    "kelime": "manşet",
-    "aciklama": "örme kumaşlarda ipliğin kırılarak sıra boyunca ilmek kaçması",
+    "kelime": "branda",
+    "aciklama": "su ve rüzgar geçirmeyen kalın dayanıklı çadır kumaşı",
     "yasakli_kelimeler": [
-      "gömlek bileği",
-      "kol ucu",
-      "kol düğmesi yeri",
-      "sert bileklik",
-      "kol kenarı"
+      "çadır",
+      "su geçirmez",
+      "kamyon örtüsü",
+      "gölgelik",
+      "kalın bez"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 58,
     "kategori": "tekstil",
-    "kelime": "yaka",
-    "aciklama": "kumaş kenarlarındaki delikli veya yazılı sağlam örgü şeridi",
+    "kelime": "çuval bezi",
+    "aciklama": "jüt liflerinden dokunan kalın, kaba ve delikli ambalaj kumaşı",
     "yasakli_kelimeler": [
-      "boyun kısmı",
-      "gömlek yakası",
-      "kravat takılan yer",
-      "hakim yaka",
-      "boyun çevresi"
+      "jüt",
+      "patates çuvalı",
+      "kaba dokuma",
+      "kahve torbası",
+      "kendir"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 59,
     "kategori": "tekstil",
-    "kelime": "fermuar",
-    "aciklama": "kumaşın üzerinde gözle görülen veya elle hissedilen yüzeysel yapı",
+    "kelime": "basma",
+    "aciklama": "üzerine çiçek veya geometrik desenler basılmış pamuklu kumaş",
     "yasakli_kelimeler": [
-      "dişli şerit",
-      "fermuar kürsörü",
-      "pantolon mont kapatıcı",
-      "çekilip kapanan",
-      "açılır kapanır"
+      "çiçekli",
+      "pazen",
+      "elbise",
+      "pamuklu",
+      "şalvar"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 60,
     "kategori": "tekstil",
-    "kelime": "düğme",
-    "aciklama": "kumaşın asıldığında veya giyildiğinde dökülme ve dalgalanma duruşu",
+    "kelime": "pazen",
+    "aciklama": "içi yumuşak tüylendirilmiş sıcak tutan geleneksel pamuklu kumaş",
     "yasakli_kelimeler": [
-      "ilikleme pulu",
-      "sedef pul",
-      "dikilen yuvarlak",
-      "ilik karşılığı",
-      "gömlek aksesuarı"
+      "pamuklu",
+      "çiçekli",
+      "gecelik",
+      "yumuşak",
+      "kışlık"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 61,
     "kategori": "tekstil",
-    "kelime": "ilik",
-    "aciklama": "kumaşa dokunulduğunda elde bıraktığı yumuşaklık ve dolgunluk hissi",
+    "kelime": "balıksırtı",
+    "aciklama": "balık kılçığına benzeyen v şeklindeki klasik kumaş dokusu",
     "yasakli_kelimeler": [
-      "düğme deliği",
-      "ilik açma",
-      "ilik makinesi",
-      "kumaş yarığı",
-      "düğme yuvası"
+      "dokuma",
+      "ceket",
+      "desen",
+      "kumaş",
+      "geometrik"
     ],
-    "zorluk": "kolay"
+    "zorluk": "orta"
   },
   {
     "id": 62,
     "kategori": "tekstil",
-    "kelime": "çıtçıt",
-    "aciklama": "kumaşın nem ve buharı içine çekebilme higroskopik kapasitesi",
+    "kelime": "kazayağı",
+    "aciklama": "kaz ayağı izine benzeyen iki renkli klasik kumaş deseni",
     "yasakli_kelimeler": [
-      "baskılı düğme",
-      "erkek ve dişi parça",
-      "mont çıtçıtı",
-      "metal klik",
-      "bebek tulumu kilidi"
+      "desen",
+      "ceket",
+      "iki renk",
+      "ekose",
+      "kaban"
     ],
-    "zorluk": "kolay"
+    "zorluk": "orta"
   },
   {
     "id": 63,
     "kategori": "tekstil",
-    "kelime": "kopça",
-    "aciklama": "kumaş üzerinde elektrik yükü birikmesini önleyen iletken yapı",
+    "kelime": "ekose",
+    "aciklama": "farklı renkte çizgilerin kesişmesiyle oluşan kareli kumaş deseni",
     "yasakli_kelimeler": [
-      "kanca ve halka",
-      "tel tutturucu",
-      "etek fermuar üstü",
-      "metal kanca",
-      "bağlantı"
+      "kareli",
+      "iskoç",
+      "etek",
+      "gömlek",
+      "çizgili"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 64,
     "kategori": "tekstil",
-    "kelime": "cırt cırt",
-    "aciklama": "zararlı kimyasallar içermeyen tekstil ürünlerine verilen güvenilirlik sertifikası",
+    "kelime": "puantiye",
+    "aciklama": "kumaş üzerinde düzenli aralıklarla yer alan yuvarlak benekler",
     "yasakli_kelimeler": [
-      "velkro",
-      "yapışkan bant",
-      "ayakkabı cırtı",
-      "tüylü ve kancalı",
-      "ayrılırken ses çıkaran"
+      "benekli",
+      "noktalı",
+      "yuvarlak",
+      "elbise",
+      "desen"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 65,
     "kategori": "tekstil",
-    "kelime": "kordon",
-    "aciklama": "kullanılmış kıyafetlerin ve kumaş kırpıntılarının yeniden elyafa dönüştürülmesi",
+    "kelime": "dokuma tezgahı",
+    "aciklama": "çözgü ve atkı iplikleriyle kumaş üretilen tarihi veya mekanik tezgah",
     "yasakli_kelimeler": [
-      "kapüşon ipi",
-      "eşofman bağı",
-      "kalın ip",
-      "büzme kordonu",
-      "örgü ip"
+      "tezgah",
+      "mekik",
+      "kumaş",
+      "iplik",
+      "dokumak"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 66,
     "kategori": "tekstil",
-    "kelime": "lastik",
-    "aciklama": "doğada kendi kendine çözünerek çevreye zarar vermeyen biyolojik lif",
+    "kelime": "ilmek",
+    "aciklama": "örgü veya dokumada ipliğin halka yapılarak tutturulması",
     "yasakli_kelimeler": [
-      "bel lastiği",
-      "esneyen şerit",
-      "iç çamaşırı lastiği",
-      "esneklik",
-      "kumaş lastiği"
+      "halka",
+      "örgü",
+      "şiş",
+      "atmak",
+      "iplik"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 67,
     "kategori": "tekstil",
-    "kelime": "dantel",
-    "aciklama": "bitki kökleri ve yapraklarından elde edilen geleneksel doğal boyalar",
+    "kelime": "kumaş boyası",
+    "aciklama": "iplik ve kumaşlara kalıcı renk vermek için kullanılan boya",
     "yasakli_kelimeler": [
-      "çeyiz örgüsü",
-      "tığ işi",
-      "delikli motif",
-      "masa örtüsü danteli",
-      "zarif süs"
+      "renk",
+      "boyamak",
+      "tekstil",
+      "kazan",
+      "ton"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 68,
     "kategori": "tekstil",
-    "kelime": "güpür",
-    "aciklama": "pamuk ve viskon boyamada kullanılan kimyasal olarak bağlanan boyarmaddeler",
+    "kelime": "kök boya",
+    "aciklama": "bitki köklerinden elde edilen geleneksel doğal tekstil boyası",
     "yasakli_kelimeler": [
-      "ağır dantel",
-      "gelinlik danteli",
-      "tülsüz motif",
-      "kabartma kumaş",
-      "abiyelik kumaş"
+      "doğal",
+      "halı",
+      "bitki kökü",
+      "renk",
+      "geleneksel"
     ],
     "zorluk": "orta"
   },
   {
     "id": 69,
     "kategori": "tekstil",
-    "kelime": "tül",
-    "aciklama": "polyester liflerini yüksek sıcaklıkta boyamak için kullanılan suda çözünmeyen boyalar",
+    "kelime": "dokumak",
+    "aciklama": "tezgahta iplikleri birbirine geçirerek kumaş veya halı üretmek",
     "yasakli_kelimeler": [
-      "gelin duvağı",
-      "tül perde",
-      "şeffaf gözenekli",
-      "petek doku",
-      "ince kumaş"
+      "tezgah",
+      "mekik",
+      "halı",
+      "kumaş",
+      "atkı çözgü"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 70,
     "kategori": "tekstil",
-    "kelime": "organze",
-    "aciklama": "yün ve ipek gibi protein liflerini boyamakta kullanılan asidik boyarmaddeler",
+    "kelime": "dikmek",
+    "aciklama": "iğne ve iplik yardımıyla kumaşları birbirine birleştirmek",
     "yasakli_kelimeler": [
-      "şeffaf tok kumaş",
-      "gelinlik kumaşı",
-      "cam organze",
-      "diri duran tül",
-      "abiye kumaş"
+      "iğne",
+      "iplik",
+      "terzi",
+      "elbise",
+      "makine"
     ],
-    "zorluk": "orta"
+    "zorluk": "kolay"
   },
   {
     "id": 71,
     "kategori": "tekstil",
-    "kelime": "krep kumaş",
-    "aciklama": "denim pantolonları taş ve enzimlerle yıkayıp eskitme işlemi",
+    "kelime": "örmek",
+    "aciklama": "şiş veya tığ ile iplikten kazak ve atkı üretmek",
     "yasakli_kelimeler": [
-      "dökümlü kumaş",
-      "pürüzlü yüzey",
-      "yüksek bükümlü iplik",
-      "krep jorjet",
-      "bayan elbisesi"
+      "şiş",
+      "tığ",
+      "iplik",
+      "kazak",
+      "atkı"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 72,
     "kategori": "tekstil",
-    "kelime": "krep saten",
-    "aciklama": "kot pantolonların üzerine lazerle bıyık ve eskitme deseni yakma",
+    "kelime": "ütülemek",
+    "aciklama": "kırışmış giysileri sıcak ütüyle bastırıp düzleştirmek",
     "yasakli_kelimeler": [
-      "çift taraflı kumaş",
-      "parlak ve mat",
-      "dökümlü saten",
-      "ipeksi kumaş",
-      "gece elbisesi"
+      "ütü",
+      "kırışık",
+      "buhar",
+      "masası",
+      "düzleştirmek"
     ],
-    "zorluk": "orta"
+    "zorluk": "kolay"
   },
   {
     "id": 73,
     "kategori": "tekstil",
-    "kelime": "tüvit",
-    "aciklama": "yüksek mukavemetli kurşungeçirmez yelek ve zırh yapımında kullanılan elyaf",
+    "kelime": "ilik açmak",
+    "aciklama": "kumaşa düğme girecek büyüklükte yarık açıp kenarını dikmek",
     "yasakli_kelimeler": [
-      "iskoç kumaşı",
-      "chanel ceketi",
-      "kırçıllı kalın yün",
-      "balıksırtı ceket",
-      "kışlık kumaş"
+      "düğme",
+      "kesmek",
+      "kenar dikişi",
+      "gömlek",
+      "terzi"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 74,
     "kategori": "tekstil",
-    "kelime": "kaşe",
-    "aciklama": "itfaiyeci kıyafetlerinde kullanılan alev almaz ve erimez aramid lif",
-    "yasakli_kelimeler": [
-      "palto kumaşı",
-      "kabanlık yün",
-      "keçeleşmiş yüzey",
-      "kışlık kalın kumaş",
-      "tok kumaş"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 75,
-    "kategori": "tekstil",
-    "kelime": "polar",
-    "aciklama": "uçak ve arabalarda kullanılan sağlam karbon elyaf",
-    "yasakli_kelimeler": [
-      "fleece",
-      "tüylü yumuşak kumaş",
-      "kışlık hırka kumaşı",
-      "polyester kumaş",
-      "sıcak tutan"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 76,
-    "kategori": "tekstil",
-    "kelime": "pelüş",
-    "aciklama": "ısı yalıtımı ve kompozit malzemelerde kullanılan esnek cam lifleri",
-    "yasakli_kelimeler": [
-      "oyuncak ayı kumaşı",
-      "uzun tüylü",
-      "kürk benzeri",
-      "yumuşacık kumaş",
-      "pelüş mont"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 77,
-    "kategori": "tekstil",
-    "kelime": "süet",
-    "aciklama": "yol ve baraj inşaatlarında zemin güçlendirmede kullanılan teknik dokusuz kumaş",
-    "yasakli_kelimeler": [
-      "zımparalanmış deri",
-      "kadifemsi deri",
-      "süet ceket ayakkabı",
-      "mat yumuşak",
-      "deri türü"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 78,
-    "kategori": "tekstil",
-    "kelime": "güderi",
-    "aciklama": "tarım seralarında don ve böceklere karşı koruyucu hafif örtüler",
-    "yasakli_kelimeler": [
-      "cam kurulama bezi",
-      "keçi derisi",
-      "yağlı tabaklama",
-      "su emici deri",
-      "yumuşak bez"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 79,
-    "kategori": "tekstil",
-    "kelime": "suni deri",
-    "aciklama": "araba koltukları, emniyet kemerleri ve hava yastıklarında kullanılan tekstiller",
-    "yasakli_kelimeler": [
-      "imitasyon deri",
-      "pvc kaplama",
-      "vinleks",
-      "sahte deri",
-      "sentetik deri"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 80,
-    "kategori": "tekstil",
-    "kelime": "muşamba",
-    "aciklama": "çadır, branda ve inşaat gölgeliklerinde kullanılan dayanıklı kumaşlar",
-    "yasakli_kelimeler": [
-      "su geçirmez örtü",
-      "yağlı bez",
-      "masa muşambası",
-      "plastik kaplı kumaş",
-      "silinebilir örtü"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 81,
-    "kategori": "tekstil",
-    "kelime": "branda",
-    "aciklama": "sporcuların terini hızla dışarı atan ve serin tutan giysiler",
-    "yasakli_kelimeler": [
-      "çadır bezi",
-      "kamyon örtüsü",
-      "su geçirmez kalın bez",
-      "gölgelik kumaş",
-      "tente"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 82,
-    "kategori": "tekstil",
-    "kelime": "çuval bezi",
-    "aciklama": "elektronik sensörler ve ısıtıcı teller içeren geleceğin akıllı kumaşları",
-    "yasakli_kelimeler": [
-      "jüt çuval",
-      "kahve torbası",
-      "kendir dokuma",
-      "kaba lifli bez",
-      "kanaviçe bezi"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 83,
-    "kategori": "tekstil",
-    "kelime": "basma",
-    "aciklama": "mağazalarda kıyafetlerin üzerine asılan karton fiyat ve barkod kartı",
-    "yasakli_kelimeler": [
-      "çiçekli pamuklu",
-      "basma etek elbise",
-      "baskılı kumaş",
-      "köy basması",
-      "desenli kumaş"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 84,
-    "kategori": "tekstil",
-    "kelime": "pazen",
-    "aciklama": "kıyafetin s, m, l gibi beden ölçüsünü belirten minik etiket",
-    "yasakli_kelimeler": [
-      "divitin",
-      "şardonlu pamuklu",
-      "kışlık yumuşak bez",
-      "çiçekli pazen",
-      "gecelik kumaşı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 85,
-    "kategori": "tekstil",
-    "kelime": "örme kumaş",
-    "aciklama": "kıyafetin çamaşır suyu ve ağartıcıya uygun olmadığını belirten üçgen simge",
-    "yasakli_kelimeler": [
-      "triko süprem",
-      "ilmekli kumaş",
-      "esnek kumaş",
-      "dokuma zıttı",
-      "tişört kumaşı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 86,
-    "kategori": "tekstil",
-    "kelime": "dokuma kumaş",
-    "aciklama": "giysinin tamburlu kurutma makinesine atılmaması gerektiğini belirten kare simge",
-    "yasakli_kelimeler": [
-      "çözgü ve atkı",
-      "dik açılı kesişim",
-      "tezgahta dokunan",
-      "gömleklik pantolonluk",
-      "esnemeyen kumaş"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 87,
-    "kategori": "tekstil",
-    "kelime": "balıksırtı",
-    "aciklama": "çözgü ve atkının dokunmadan önce iplik halindeyken boyanması tekniği",
-    "yasakli_kelimeler": [
-      "kılçık deseni",
-      "zikzak dokuma",
-      "tüvit deseni",
-      "herringbone",
-      "kumaş örgüsü"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 88,
-    "kategori": "tekstil",
-    "kelime": "kazayağı",
-    "aciklama": "kumaşın dokunduktan sonra top halinde düz renge boyanması süreci",
-    "yasakli_kelimeler": [
-      "houndstooth",
-      "kırık kareler",
-      "siyah beyaz desen",
-      "ceket deseni",
-      "geometrik kumaş"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 89,
-    "kategori": "tekstil",
-    "kelime": "ekose",
-    "aciklama": "giysinin tamamen dikildikten sonra tek seferde topluca boyanması",
-    "yasakli_kelimeler": [
-      "kareli kumaş",
-      "iskoç deseni",
-      "tartan",
-      "kareli gömlek",
-      "çizgili kesişim"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 90,
-    "kategori": "tekstil",
-    "kelime": "çizgili kumaş",
-    "aciklama": "kumaş parçalarının birbirine dikilerek büyük yatak örtüsü yapılması",
-    "yasakli_kelimeler": [
-      "paralel çizgiler",
-      "diplomat çizgili",
-      "boyuna çizgi",
-      "desenli kumaş",
-      "çizgili gömlek"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 91,
-    "kategori": "tekstil",
-    "kelime": "puantiye",
-    "aciklama": "iki kumaş arasına elyaf doldurularak baklava desenli dikilmesi",
-    "yasakli_kelimeler": [
-      "benekli desen",
-      "noktalı kumaş",
-      "polka dot",
-      "daireler",
-      "benekli elbise"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 92,
-    "kategori": "tekstil",
-    "kelime": "dokuma tezgahı",
-    "aciklama": "yün veya ipek ipliklerin elle ilmek ilmek düğümlenmesiyle dokunan halı",
-    "yasakli_kelimeler": [
-      "kumaş makinesi",
-      "mekikli tezgah",
-      "jakarlı tezgah",
-      "tekstil makinesi",
-      "dokuma fabrikası"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 93,
-    "kategori": "tekstil",
-    "kelime": "el tezgahı",
-    "aciklama": "düğümsüz mekikle atkı ve çözgünün düz dokunduğu geleneksel yaygı",
-    "yasakli_kelimeler": [
-      "ahşap tezgah",
-      "ayak pedallı",
-      "şile bezi dokuma",
-      "geleneksel dokuma",
-      "mekikli el makinesi"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 94,
-    "kategori": "tekstil",
-    "kelime": "ilmek",
-    "aciklama": "ipliklerin birbirine düğümlenerek yapılan püsküllü dekoratif örgü sanatı",
-    "yasakli_kelimeler": [
-      "halka",
-      "düğüm benzeri",
-      "örgü ilmeği",
-      "şişle atılan ilmek",
-      "örme bağı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 95,
-    "kategori": "tekstil",
-    "kelime": "ağartma",
-    "aciklama": "kıyafetlerin bel ve manşetlerine esneklik katan kauçuk lastik şerit",
-    "yasakli_kelimeler": [
-      "beyazlatma",
-      "hidrojen peroksit",
-      "ham renk giderme",
-      "kasar süreci",
-      "optik beyazlatıcı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 96,
-    "kategori": "tekstil",
-    "kelime": "su iticilik",
-    "aciklama": "fermuarın dişlerini birleştirerek kapatıp açan çekme aparatı",
-    "yasakli_kelimeler": [
-      "su geçirmezlik",
-      "damla kaydırma",
-      "hidrofob apre",
-      "yağmurluk kumaşı",
-      "lotus etkisi"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 97,
-    "kategori": "tekstil",
-    "kelime": "leke tutmazlık",
-    "aciklama": "fermuar çekildiğinde açılmasını sağlayan plastik veya metal diş sırası",
-    "yasakli_kelimeler": [
-      "kolay temizlenen",
-      "teflon kaplama",
-      "leke tutmayan masa örtüsü",
-      "kir itici",
-      "özel apre"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 98,
-    "kategori": "tekstil",
-    "kelime": "buruşmazlık",
-    "aciklama": "dikilen dikişlerin kumaşın dışından görünen süsleme dikiş hattı",
-    "yasakli_kelimeler": [
-      "non iron",
-      "ütü istemeyen",
-      "kırışmama özelliği",
-      "reçine apresi",
-      "düz kalma"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 99,
-    "kategori": "tekstil",
-    "kelime": "çekmezlik",
-    "aciklama": "kumaşı geçici olarak tutturmak için atılan gevşek teyel dikişi",
-    "yasakli_kelimeler": [
-      "sanforlama",
-      "yıkamada küçülmeme",
-      "boyut sabitleme",
-      "kumaşın çekmemesi",
-      "apre"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 100,
-    "kategori": "tekstil",
-    "kelime": "boyama",
-    "aciklama": "pantolon paçalarının sökülmemesi için alttan gizli yapılan baskı dikişi",
-    "yasakli_kelimeler": [
-      "renklendirme",
-      "kumaş boyahanesi",
-      "boya kazanı",
-      "tekstil boyama",
-      "apre boya"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 101,
-    "kategori": "tekstil",
-    "kelime": "kumaş boyası",
-    "aciklama": "ceket ve pantolon ceplerinin kenarına dikilen şık kapak veya biyeler",
-    "yasakli_kelimeler": [
-      "boyarmadde",
-      "tekstil kimyasalı",
-      "kumaş renklendirici",
-      "reaktif dispers",
-      "kutu boya"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 102,
-    "kategori": "tekstil",
-    "kelime": "kök boya",
-    "aciklama": "gömlek yakalarının ve manşetlerinin içine konan sertleştirici tela astar",
-    "yasakli_kelimeler": [
-      "doğal boya",
-      "bitkisel boyarmadde",
-      "halı kilim boyası",
-      "kökboya otu",
-      "kimyasalsız"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 103,
-    "kategori": "tekstil",
-    "kelime": "dijital baskı",
-    "aciklama": "ceketlerin arkasında hareket rahatlığı sağlayan yırtmaç açıklığı kesimi",
-    "yasakli_kelimeler": [
-      "mürekkep püskürtmeli",
-      "yazıcıdan kumaşa",
-      "şablonsuz baskı",
-      "inkjet",
-      "bilgisayarlı baskı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 104,
-    "kategori": "tekstil",
-    "kelime": "transfer baskı",
-    "aciklama": "pantolonların kemer takmak için beline dikilen dar kumaş köprüler",
-    "yasakli_kelimeler": [
-      "ısı transferi",
-      "kağıttan kumaşa",
-      "süblimasyon presi",
-      "sıcak pres",
-      "forma baskısı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "kategori": "tekstil",
-    "kelime": "dokumak",
-    "aciklama": "doğal elyafları çıkrıkta veya makinede eğirerek iplik üretmek",
-    "yasakli_kelimeler": [
-      "tezgah",
-      "iplik",
-      "kumaş",
-      "atkı",
-      "çözgü"
-    ],
-    "zorluk": "kolay",
-    "id": 105
-  },
-  {
-    "kategori": "tekstil",
-    "kelime": "dikmek",
-    "aciklama": "çözgü ve atkı ipliklerini tezgahta birbirine geçirerek kumaş dokumak",
+    "kelime": "düğme dikmek",
+    "aciklama": "kopan düğmeyi iğne ve iplikle kumaşa yeniden tutturmak",
     "yasakli_kelimeler": [
       "iğne",
       "iplik",
-      "dikiş makinesi",
-      "kumaş",
-      "elbise"
+      "kopmak",
+      "gömlek",
+      "tutturmak"
     ],
-    "zorluk": "kolay",
-    "id": 106
-  },
-  {
-    "kategori": "tekstil",
-    "kelime": "kesmek",
-    "aciklama": "iplikleri iğnelerle birbirine ilmekleyerek esnek kumaş örmek",
-    "yasakli_kelimeler": [
-      "makas",
-      "kumaş",
-      "kalıp",
-      "parça",
-      "biçmek"
-    ],
-    "zorluk": "kolay",
-    "id": 107
-  },
-  {
-    "kategori": "tekstil",
-    "kelime": "boyamak",
-    "aciklama": "kumaş veya iplikleri boyarmaddelerle istenen renklere boyamak",
-    "yasakli_kelimeler": [
-      "renk",
-      "boyahane",
-      "kazan",
-      "kumaş",
-      "iplik"
-    ],
-    "zorluk": "kolay",
-    "id": 108
-  },
-  {
-    "kategori": "tekstil",
-    "kelime": "örmek",
-    "aciklama": "kumaş yüzeyine şablon veya dijital yazıcıyla renkli desen basmak",
-    "yasakli_kelimeler": [
-      "triko",
-      "şiş",
-      "kazak",
-      "ilmek",
-      "iplik"
-    ],
-    "zorluk": "kolay",
-    "id": 109
-  },
-  {
-    "kategori": "tekstil",
-    "kelime": "ütülemek",
-    "aciklama": "kumaşı kalıplara göre makasla veya otomatik bıçakla kesmek",
-    "yasakli_kelimeler": [
-      "sanayi ütüsü",
-      "buhar",
-      "kırışık",
-      "düzeltme",
-      "paskaraya"
-    ],
-    "zorluk": "kolay",
-    "id": 110
-  },
-  {
-    "kategori": "tekstil",
-    "kelime": "katlamak",
-    "aciklama": "kesilen kumaş parçalarını dikiş makinesinde birbirine dikmek",
-    "yasakli_kelimeler": [
-      "düzgün",
-      "poşetleme",
-      "tişört",
-      "bükme",
-      "kolileme"
-    ],
-    "zorluk": "kolay",
-    "id": 111
-  },
-  {
-    "kategori": "tekstil",
-    "kelime": "paketlemek",
-    "aciklama": "dikilen giysileri sıcak buharla düzeltip paketlemeye hazırlamak",
-    "yasakli_kelimeler": [
-      "koli",
-      "ihracat",
-      "jelatin",
-      "poşet",
-      "sevkiyat"
-    ],
-    "zorluk": "kolay",
-    "id": 112
-  },
-  {
-    "kategori": "tekstil",
-    "kelime": "sarmak",
-    "aciklama": "kumaşın kesik kenarlarının iplik atmasını önlemek için sürfile çekmek",
-    "yasakli_kelimeler": [
-      "bobin",
-      "makara",
-      "dolama",
-      "iplik",
-      "pamuk"
-    ],
-    "zorluk": "kolay",
-    "id": 113
-  },
-  {
-    "kategori": "tekstil",
-    "kelime": "ölçmek",
-    "aciklama": "kumaş kenarlarını sökülmemesi için içe doğru kıvırıp dikmek",
-    "yasakli_kelimeler": [
-      "metre",
-      "gramaj",
-      "en boy",
-      "kumaş",
-      "kontrol"
-    ],
-    "zorluk": "kolay",
-    "id": 114
-  },
-  {
-    "kategori": "tekstil",
-    "kelime": "yırtmak",
-    "aciklama": "gömlek veya cekete düğmeleri dikip iliklerini düzgünce açmak",
-    "yasakli_kelimeler": [
-      "ayırmak",
-      "koparmak",
-      "kumaş topu",
-      "elle",
-      "çentik"
-    ],
-    "zorluk": "kolay",
-    "id": 115
-  },
-  {
-    "kategori": "tekstil",
-    "kelime": "temizlemek",
-    "aciklama": "pantolon veya montun fermuarını dikişle yerine sağlamca dikmek",
-    "yasakli_kelimeler": [
-      "iplik temizleme",
-      "artık",
-      "kırpma",
-      "küçük makas",
-      "son kontrol"
-    ],
-    "zorluk": "kolay",
-    "id": 116
-  },
-  {
-    "kategori": "tekstil",
-    "kelime": "ilik açmak",
-    "aciklama": "pamuklu kumaşı parlaklaştırmak ve güçlendirmek için merserize etmek",
-    "yasakli_kelimeler": [
-      "düğme iliği",
-      "gözlü ilik",
-      "otomatik makine",
-      "gömlek önü",
-      "kesme"
-    ],
-    "zorluk": "orta",
-    "id": 117
-  },
-  {
-    "kategori": "tekstil",
-    "kelime": "düğme dikmek",
-    "aciklama": "ham kumaşın üzerindeki lekeleri ve haşılı yıkayarak temizlemek",
-    "yasakli_kelimeler": [
-      "düğme otomatı",
-      "iplik düğüm",
-      "kıyafet",
-      "hızlı dikim",
-      "çakma"
-    ],
-    "zorluk": "orta",
-    "id": 118
+    "zorluk": "kolay"
   }
 ]

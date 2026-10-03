@@ -44,7 +44,7 @@
   {
     "id": 4,
     "kategori": "borsa",
-    "kelime": "bedelli sermaye artırımı",
+    "kelime": "bedelli sermaye",
     "aciklama": "şirketin ortaklardan sermaye toplayarak sermaye artırması işlemi",
     "yasakli_kelimeler": [
       "rüçhan hakkı",
@@ -58,7 +58,7 @@
   {
     "id": 5,
     "kategori": "borsa",
-    "kelime": "bedelsiz sermaye artırımı",
+    "kelime": "bedelsiz sermaye",
     "aciklama": "iç kaynaklar kullanılarak ortaklara bedelsiz hisse dağıtılması",
     "yasakli_kelimeler": [
       "iç kaynak",
@@ -86,20 +86,6 @@
   {
     "id": 7,
     "kategori": "borsa",
-    "kelime": "hisse başına kâr",
-    "aciklama": "şirket dönem kârının hisse adedine bölünmesiyle hesaplanır",
-    "yasakli_kelimeler": [
-      "eps",
-      "net kâr",
-      "hisse adedi",
-      "temel analiz",
-      "kazaç"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 8,
-    "kategori": "borsa",
     "kelime": "temel analiz",
     "aciklama": "şirket bilançosunu ve sektörünü inceleyerek değerleme yöntemi",
     "yasakli_kelimeler": [
@@ -112,7 +98,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 9,
+    "id": 8,
     "kategori": "borsa",
     "kelime": "teknik analiz",
     "aciklama": "grafik ve göstergelerle geçmiş fiyat hareketlerini inceleme",
@@ -126,7 +112,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 10,
+    "id": 9,
     "kategori": "borsa",
     "kelime": "destek seviyesi",
     "aciklama": "fiyat düşüşünü durduran alımların yoğunlaştığı fiyat seviyesi",
@@ -140,7 +126,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 11,
+    "id": 10,
     "kategori": "borsa",
     "kelime": "direnç seviyesi",
     "aciklama": "fiyat yükselişini zorlaştıran satışların yoğunlaştığı fiyat seviyesi",
@@ -154,7 +140,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 12,
+    "id": 11,
     "kategori": "borsa",
     "kelime": "stop-loss",
     "aciklama": "zararı belirli sınırda tutmak için verilen satış emri",
@@ -168,7 +154,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 13,
+    "id": 12,
     "kategori": "borsa",
     "kelime": "kaldıraç",
     "aciklama": "az sermayeyle yüksek tutarlı işlem yapma imkanı",
@@ -182,23 +168,9 @@
     "zorluk": "kolay"
   },
   {
-    "id": 14,
+    "id": 13,
     "kategori": "borsa",
-    "kelime": "viop",
-    "aciklama": "vadeli işlem ve opsiyonların işlem gördüğü piyasa",
-    "yasakli_kelimeler": [
-      "vadeli",
-      "opsiyon",
-      "türev",
-      "bist",
-      "kontrat"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 15,
-    "kategori": "borsa",
-    "kelime": "vadeli işlem sözleşmesi",
+    "kelime": "vadeli işlem",
     "aciklama": "ileriki tarihte belirlenen fiyattan alma satma sözleşmesi",
     "yasakli_kelimeler": [
       "futures",
@@ -210,49 +182,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 16,
-    "kategori": "borsa",
-    "kelime": "opsiyon sözleşmesi",
-    "aciklama": "belirlenen tarihe kadar alma veya satma hakkı",
-    "yasakli_kelimeler": [
-      "call",
-      "put",
-      "prim",
-      "kullanım fiyatı",
-      "hak"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 17,
-    "kategori": "borsa",
-    "kelime": "alım opsiyonu",
-    "aciklama": "dayanak varlığı belirli fiyattan satın alma hakkı",
-    "yasakli_kelimeler": [
-      "call option",
-      "prim",
-      "satın alma",
-      "kullanım fiyatı",
-      "yükseliş"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 18,
-    "kategori": "borsa",
-    "kelime": "satım opsiyonu",
-    "aciklama": "dayanak varlığı belirli fiyattan satma hakkı veren sözleşme",
-    "yasakli_kelimeler": [
-      "put option",
-      "düşüş",
-      "korunma",
-      "kullanım fiyatı",
-      "satış"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 19,
+    "id": 14,
     "kategori": "borsa",
     "kelime": "volatilite",
     "aciklama": "finansal varlık fiyatlarındaki dalgalanmanın şiddeti ve hızı",
@@ -266,7 +196,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 20,
+    "id": 15,
     "kategori": "borsa",
     "kelime": "boğa piyasası",
     "aciklama": "hisse fiyatlarının sürekli yükseldiği iyimser piyasa dönemi",
@@ -280,7 +210,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 21,
+    "id": 16,
     "kategori": "borsa",
     "kelime": "ayı piyasası",
     "aciklama": "fiyatların sürekli düştüğü kötümser ve durgun piyasa",
@@ -294,7 +224,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 22,
+    "id": 17,
     "kategori": "borsa",
     "kelime": "açığa satış",
     "aciklama": "olmayan hisseyi ödünç satarak düşüşten kazanma işlemi",
@@ -308,7 +238,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 23,
+    "id": 18,
     "kategori": "borsa",
     "kelime": "kredili işlem",
     "aciklama": "kurumdan borç alarak sermayeden fazla hisse alma",
@@ -322,7 +252,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 24,
+    "id": 19,
     "kategori": "borsa",
     "kelime": "işlem hacmi",
     "aciklama": "belirli sürede piyasada el değiştiren toplam parasal tutar",
@@ -336,7 +266,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 25,
+    "id": 20,
     "kategori": "borsa",
     "kelime": "lot",
     "aciklama": "borsada işlem görmeye esas bir adetlik hisse birimi",
@@ -350,10 +280,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 26,
+    "id": 21,
     "kategori": "borsa",
     "kelime": "bist 100",
-    "aciklama": "borsa istanbul'un en büyük yüz şirketinin endeksi",
+    "aciklama": "borsa istanbulun en büyük yüz şirketinin endeksi",
     "yasakli_kelimeler": [
       "endeks",
       "gösterge",
@@ -364,10 +294,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 27,
+    "id": 22,
     "kategori": "borsa",
     "kelime": "bist 30",
-    "aciklama": "borsa istanbul'da en likit otuz şirketin endeksi",
+    "aciklama": "borsa istanbulda en likit otuz şirketin endeksi",
     "yasakli_kelimeler": [
       "xu030",
       "lokomotif",
@@ -378,7 +308,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 28,
+    "id": 23,
     "kategori": "borsa",
     "kelime": "devre kesici",
     "aciklama": "aşırı dalgalanmada borsa işlemlerini geçici durduran sistem",
@@ -392,7 +322,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 29,
+    "id": 24,
     "kategori": "borsa",
     "kelime": "taban fiyat",
     "aciklama": "hissenin bir seansta inebileceği en alt fiyat",
@@ -406,7 +336,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 30,
+    "id": 25,
     "kategori": "borsa",
     "kelime": "tavan fiyat",
     "aciklama": "hissenin bir seansta çıkabileceği en üst fiyat",
@@ -420,7 +350,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 31,
+    "id": 26,
     "kategori": "borsa",
     "kelime": "limit emir",
     "aciklama": "belirlenen fiyattan veya daha iyisinden gerçekleşen emir",
@@ -434,7 +364,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 32,
+    "id": 27,
     "kategori": "borsa",
     "kelime": "piyasa emri",
     "aciklama": "o andaki en iyi piyasa fiyatından gerçekleşen emir",
@@ -448,7 +378,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 33,
+    "id": 28,
     "kategori": "borsa",
     "kelime": "portföy",
     "aciklama": "farklı finansal araçlardan oluşturulan yatırım sepeti",
@@ -462,7 +392,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 34,
+    "id": 29,
     "kategori": "borsa",
     "kelime": "çeşitlendirme",
     "aciklama": "riski azaltmak için farklı yatırım araçlarına dağıtma",
@@ -476,7 +406,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 35,
+    "id": 30,
     "kategori": "borsa",
     "kelime": "yatırım fonu",
     "aciklama": "toplanan birikimlerin profesyonellerce yönetildiği yatırım aracı",
@@ -490,38 +420,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 36,
-    "kategori": "borsa",
-    "kelime": "borsa yatırım fonu",
-    "aciklama": "borsada hisse gibi alınıp satılan yatırım fonu",
-    "yasakli_kelimeler": [
-      "etf",
-      "byf",
-      "endeks takip",
-      "gün içi",
-      "likit"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 37,
-    "kategori": "borsa",
-    "kelime": "tefas",
-    "aciklama": "belirli bir varlık grubuna yatırım yapan fon türü",
-    "yasakli_kelimeler": [
-      "fon platformu",
-      "takasbank",
-      "fon karşılaştırma",
-      "menkul",
-      "işlem"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 38,
+    "id": 31,
     "kategori": "borsa",
     "kelime": "aracı kurum",
-    "aciklama": "farklı stratejilerle yüksek getiri hedefleyen özel fon",
+    "aciklama": "sermaye piyasasında alım satıma aracılık eden yetkili kuruluş",
     "yasakli_kelimeler": [
       "komisyon",
       "broker",
@@ -532,10 +434,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 39,
+    "id": 32,
     "kategori": "borsa",
     "kelime": "broker",
-    "aciklama": "şirketlerin borçlanmak amacıyla ihraç ettiği faizli senet",
+    "aciklama": "yatırımcılar adına alım satım işlemlerini yürüten lisanslı uzman",
     "yasakli_kelimeler": [
       "komisyoncu",
       "temsilci",
@@ -546,10 +448,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 40,
+    "id": 33,
     "kategori": "borsa",
     "kelime": "manipülasyon",
-    "aciklama": "faizsiz finans ilkelerine uygun borçlanma ve kira sertifikası",
+    "aciklama": "piyasa fiyatlarını yapay şekilde etkileyerek haksız kazanç sağlama",
     "yasakli_kelimeler": [
       "spekülasyon",
       "ceza",
@@ -560,10 +462,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 41,
+    "id": 34,
     "kategori": "borsa",
     "kelime": "spekülasyon",
-    "aciklama": "faiz getirili borçlanma senetlerinin alınıp satıldığı piyasa",
+    "aciklama": "yüksek getiri amacıyla risk alarak fiyat dalgalanmalarından kazanma",
     "yasakli_kelimeler": [
       "fiyat tahmini",
       "risk alma",
@@ -574,24 +476,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 42,
-    "kategori": "borsa",
-    "kelime": "içeriden öğrenenlerin ticareti",
-    "aciklama": "paranın ve kısa vadeli araçların işlem gördüğü piyasa",
-    "yasakli_kelimeler": [
-      "insider trading",
-      "gizli bilgi",
-      "spk",
-      "sızdırma",
-      "suç"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 43,
+    "id": 35,
     "kategori": "borsa",
     "kelime": "spk",
-    "aciklama": "orta ve uzun vadeli fonların işlem gördüğü piyasa",
+    "aciklama": "sermaye piyasalarını denetleyen ve düzenleyen resmi kurum",
     "yasakli_kelimeler": [
       "sermaye piyasası kurulu",
       "denetim",
@@ -602,80 +490,24 @@
     "zorluk": "kolay"
   },
   {
-    "id": 44,
+    "id": 36,
     "kategori": "borsa",
-    "kelime": "kamuyu aydınlatma platformu",
-    "aciklama": "yeni ihraç edilen menkul kıymetlerin satıldığı piyasa",
+    "kelime": "kap",
+    "aciklama": "şirketlerin resmi açıklamalarını yatırımcılara duyurduğu dijital platform",
     "yasakli_kelimeler": [
-      "kap",
       "özel durum",
       "şirket haberi",
       "bildirim",
-      "şeffaflık"
+      "şeffaflık",
+      "borsa duyurusu"
     ],
     "zorluk": "kolay"
   },
   {
-    "id": 45,
-    "kategori": "borsa",
-    "kelime": "mkk",
-    "aciklama": "daha önce ihraç edilmiş menkul kıymetlerin alınıp satılması",
-    "yasakli_kelimeler": [
-      "merkezi kayıt",
-      "sicil",
-      "kaydileştirme",
-      "hisse saklama",
-      "yatırımcı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 46,
-    "kategori": "borsa",
-    "kelime": "kapanış seansı",
-    "aciklama": "işletmenin üçüncü kişilere ödemekle yükümlü olduğu borçlar",
-    "yasakli_kelimeler": [
-      "kapanış fiyatı",
-      "tek fiyat",
-      "seans sonu",
-      "eşleşme",
-      "gün bitimi"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 47,
-    "kategori": "borsa",
-    "kelime": "hareketli ortalama",
-    "aciklama": "şirketin nakit giriş ve çıkışlarını özetleyen mali tablo",
-    "yasakli_kelimeler": [
-      "ortalama",
-      "sma",
-      "ema",
-      "trend çizgisi",
-      "50 günlük"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 48,
-    "kategori": "borsa",
-    "kelime": "mum grafiği",
-    "aciklama": "faiz, amortisman ve vergi öncesi elde edilen operasyonel kâr",
-    "yasakli_kelimeler": [
-      "japon",
-      "açılış kapanış",
-      "gövde",
-      "fitil",
-      "grafik"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 49,
+    "id": 37,
     "kategori": "borsa",
     "kelime": "trend",
-    "aciklama": "şirketin toplam borcunun özkaynaklarına bölünmesiyle bulunan oran",
+    "aciklama": "piyasa fiyatlarının genel olarak izlediği yukarı veya aşağı yön",
     "yasakli_kelimeler": [
       "yön",
       "yükselen",
@@ -686,136 +518,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 50,
-    "kategori": "borsa",
-    "kelime": "arbitraj",
-    "aciklama": "nakit benzeri varlıkların kısa vadeli borçlara oranı",
-    "yasakli_kelimeler": [
-      "fiyat farkı",
-      "risksiz kâr",
-      "aynı varlık",
-      "piyasalar arası",
-      "eşzamanlı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 51,
-    "kategori": "borsa",
-    "kelime": "likidasyon",
-    "aciklama": "net kârın toplam özkaynaklara bölünmesiyle bulunan kârlılık oranı",
-    "yasakli_kelimeler": [
-      "margin call",
-      "patlama",
-      "pozisyon kapanması",
-      "teminat",
-      "zorunlu satış"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 52,
-    "kategori": "borsa",
-    "kelime": "emir defteri",
-    "aciklama": "şirket değerinin faiz ve vergi öncesi kâra oranı",
-    "yasakli_kelimeler": [
-      "tahta",
-      "fiyat önceliği",
-      "zaman önceliği",
-      "derinlik",
-      "kuyruk"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 53,
-    "kategori": "borsa",
-    "kelime": "bloke",
-    "aciklama": "piyasa fiyat dalgalanmalarından kaynaklanan zarar etme riski",
-    "yasakli_kelimeler": [
-      "dondurma",
-      "kısıtlama",
-      "teminat",
-      "takas",
-      "hareketsiz"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 54,
-    "kategori": "borsa",
-    "kelime": "virman",
-    "aciklama": "ülkedeki siyasi ve ekonomik gelişmelerin yatırım riskleri",
-    "yasakli_kelimeler": [
-      "transfer",
-      "hesaplar arası",
-      "aktarım",
-      "mkk",
-      "pay taşıma"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 55,
-    "kategori": "borsa",
-    "kelime": "kurumsal yatırımcı",
-    "aciklama": "döviz kurlarındaki değişimlerin yatırımlara getirdiği risk",
-    "yasakli_kelimeler": [
-      "fonlar",
-      "bireysel olmayan",
-      "profesyonel",
-      "büyük sermaye",
-      "tüzel kişi"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 56,
-    "kategori": "borsa",
-    "kelime": "bireysel yatırımcı",
-    "aciklama": "faiz oranlarındaki değişimlerin menkul kıymetlere yansıyan riski",
-    "yasakli_kelimeler": [
-      "küçük yatırımcı",
-      "halk",
-      "gerçek kişi",
-      "birey",
-      "şahıs"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 57,
-    "kategori": "borsa",
-    "kelime": "değer yatırımı",
-    "aciklama": "piyasa işlem fiyatlarının ortalamasını gösteren teknik indikatör",
-    "yasakli_kelimeler": [
-      "warren buffett",
-      "içsel değer",
-      "ucuz hisse",
-      "uzun vade",
-      "temel analiz"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 58,
-    "kategori": "borsa",
-    "kelime": "faaliyet kârı",
-    "aciklama": "fiyatın kapanışının fiyat aralığına konumunu ölçen indikatör",
-    "yasakli_kelimeler": [
-      "esas faaliyet",
-      "operasyonel",
-      "ebit",
-      "gelir tablosu",
-      "satış kârı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 59,
+    "id": 38,
     "kategori": "borsa",
     "kelime": "tahvil",
-    "aciklama": "grafikte fiyat seviyeleri arasındaki boşluklu fiyat hareketi",
+    "aciklama": "devlet veya şirketlerin borçlanmak için çıkardığı uzun vadeli senet",
     "yasakli_kelimeler": [
       "borç",
       "vade",
@@ -826,10 +532,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 60,
+    "id": 39,
     "kategori": "borsa",
     "kelime": "bono",
-    "aciklama": "yükseliş trendinde görülen üçgen biçimli teknik devam formasyonu",
+    "aciklama": "bir yıldan kısa vadeli borçlanmayı temsil eden faizli menkul kıymet",
     "yasakli_kelimeler": [
       "kısa vade",
       "hazine",
@@ -840,94 +546,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 61,
-    "kategori": "borsa",
-    "kelime": "genel kurul",
-    "aciklama": "sert fiyat hareketi sonrası oluşan küçük bayrak formasyonu",
-    "yasakli_kelimeler": [
-      "toplantı",
-      "hissedar",
-      "oy",
-      "ibra",
-      "karar"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 62,
-    "kategori": "borsa",
-    "kelime": "yönetim kurulu",
-    "aciklama": "düşüş trendinin tersine döneceğini gösteren dip dönüş formasyonu",
-    "yasakli_kelimeler": [
-      "başkan",
-      "yönetim",
-      "üye",
-      "şirket",
-      "heyet"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 63,
-    "kategori": "borsa",
-    "kelime": "spot piyasa",
-    "aciklama": "sermaye piyasalarını düzenleyen ve denetleyen resmi kamu kurumu",
-    "yasakli_kelimeler": [
-      "peşin",
-      "anlık",
-      "teslimat",
-      "nakit",
-      "fiziki"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 64,
-    "kategori": "borsa",
-    "kelime": "açılış seansı",
-    "aciklama": "menkul kıymetlerin saklandığı ve hak sahiplerinin izlendiği kurum",
-    "yasakli_kelimeler": [
-      "sabah",
-      "başlangıç",
-      "emir toplama",
-      "ilk fiyat",
-      "seans"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 65,
-    "kategori": "borsa",
-    "kelime": "gün içi",
-    "aciklama": "şirketin yönetiminden ve icraatından sorumlu seçilmiş kurul",
-    "yasakli_kelimeler": [
-      "intraday",
-      "seans",
-      "aynı gün",
-      "açılış kapanış",
-      "zaman"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 66,
-    "kategori": "borsa",
-    "kelime": "günlük emir",
-    "aciklama": "şirketi hissedarlar adına bağımsız inceleyen denetim mekanizması",
-    "yasakli_kelimeler": [
-      "seans sonu",
-      "silinme",
-      "bir günlük",
-      "geçerlilik",
-      "talimat"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 67,
+    "id": 40,
     "kategori": "borsa",
     "kelime": "repo",
-    "aciklama": "piyasa değeri nispeten düşük olan küçük şirket hisseleri",
+    "aciklama": "menkul kıymetin geri alma taahhüdüyle geçici olarak satılması",
     "yasakli_kelimeler": [
       "kısa vadeli",
       "faiz",
@@ -938,24 +560,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 68,
-    "kategori": "borsa",
-    "kelime": "ters repo",
-    "aciklama": "piyasa değerine göre hisseleri çok ucuz kalmış hisseler",
-    "yasakli_kelimeler": [
-      "nakit bulma",
-      "menkul kıymet",
-      "geri alma",
-      "faiz",
-      "para"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 69,
+    "id": 41,
     "kategori": "borsa",
     "kelime": "mevduat",
-    "aciklama": "yüksek kâr ve gelir büyümesi vadeden şirket hisseleri",
+    "aciklama": "bankaya faiz getirisi elde etmek amacıyla yatırılan para",
     "yasakli_kelimeler": [
       "banka",
       "faiz",
@@ -966,10 +574,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 70,
+    "id": 42,
     "kategori": "borsa",
     "kelime": "hazine bonosu",
-    "aciklama": "düzenli ve yüksek temettü ödeyen kârlı şirket hisseleri",
+    "aciklama": "hazine tarafından çıkarılan bir yıldan kısa vadeli devlet borçlanma senedi",
     "yasakli_kelimeler": [
       "devlet",
       "hazine",
@@ -980,10 +588,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 71,
+    "id": 43,
     "kategori": "borsa",
     "kelime": "devlet tahvili",
-    "aciklama": "ekonomik dalgalanmalardan az etkilenen istikrarlı tüketim hisseleri",
+    "aciklama": "hazine tarafından çıkarılan bir yıldan uzun vadeli borçlanma senedi",
     "yasakli_kelimeler": [
       "hazine",
       "kamu",
@@ -994,10 +602,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 72,
+    "id": 44,
     "kategori": "borsa",
     "kelime": "eurobond",
-    "aciklama": "ekonomik döngülerle paralel hareket eden şirketlerin hisseleri",
+    "aciklama": "devletin uluslararası piyasalarda yabancı para cinsinden ihraç ettiği tahvil",
     "yasakli_kelimeler": [
       "dolar",
       "yabancı para",
@@ -1008,38 +616,10 @@
     "zorluk": "orta"
   },
   {
-    "id": 73,
-    "kategori": "borsa",
-    "kelime": "kupon ödemesi",
-    "aciklama": "hisse başına net aktif değerini gösteren defter tutarı",
-    "yasakli_kelimeler": [
-      "faiz",
-      "periyodik",
-      "tahvil",
-      "ödeme",
-      "getiri"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 74,
-    "kategori": "borsa",
-    "kelime": "vade sonu",
-    "aciklama": "şirketlerin birleşmesi veya bir şirketin diğerini satın alması",
-    "yasakli_kelimeler": [
-      "itfa",
-      "son gün",
-      "süre bitimi",
-      "anapara",
-      "tarih"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 75,
+    "id": 45,
     "kategori": "borsa",
     "kelime": "nominal değer",
-    "aciklama": "halka açık şirketin diğer şirket paylarını almak için teklifi",
+    "aciklama": "hisse senedi veya tahvilin üzerinde yazılı olan yasal değer",
     "yasakli_kelimeler": [
       "yazılı değer",
       "itibari",
@@ -1050,10 +630,10 @@
     "zorluk": "orta"
   },
   {
-    "id": 76,
+    "id": 46,
     "kategori": "borsa",
     "kelime": "geri alım",
-    "aciklama": "algoritmik sistemlerle saliseler içinde yapılan yüksek frekanslı alım satım",
+    "aciklama": "şirketin borsadaki kendi paylarını piyasadan geri satın alması",
     "yasakli_kelimeler": [
       "kendi hissesi",
       "buyback",
@@ -1064,10 +644,10 @@
     "zorluk": "orta"
   },
   {
-    "id": 77,
+    "id": 47,
     "kategori": "borsa",
     "kelime": "blok satış",
-    "aciklama": "önceden yazılmış kurallara göre otomatik emir gönderen yazılım",
+    "aciklama": "büyük miktardaki hissenin tek bir işlemle toptan satışı",
     "yasakli_kelimeler": [
       "toplu satış",
       "büyük lot",
@@ -1078,10 +658,10 @@
     "zorluk": "orta"
   },
   {
-    "id": 78,
+    "id": 48,
     "kategori": "borsa",
     "kelime": "net kar",
-    "aciklama": "aynı gün içinde hisse alıp satarak pozisyon kapatma",
+    "aciklama": "bütün masraflar ve vergiler düşüldükten sonra kalan kâr",
     "yasakli_kelimeler": [
       "vergi sonrası",
       "temiz kazanç",
@@ -1092,10 +672,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 79,
+    "id": 49,
     "kategori": "borsa",
     "kelime": "brüt kar",
-    "aciklama": "fiyat salınımlarından birkaç günlük vadede kâr hedefleyen strateji",
+    "aciklama": "toplam gelirden satılan malın maliyeti çıkarılınca kalan tutar",
     "yasakli_kelimeler": [
       "maliyet",
       "satış geliri",
@@ -1106,10 +686,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 80,
+    "id": 50,
     "kategori": "borsa",
     "kelime": "ciro",
-    "aciklama": "şirket hisselerini yıllarca elde tutarak büyümeyi hedefleme",
+    "aciklama": "bir işletmenin belirli dönemde yaptığı toplam satış hasılatı",
     "yasakli_kelimeler": [
       "hasılat",
       "satış toplamı",
@@ -1120,24 +700,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 81,
-    "kategori": "borsa",
-    "kelime": "net satışlar",
-    "aciklama": "belirli periyotlarla düzenli tutarda hisse biriktirme yöntemi",
-    "yasakli_kelimeler": [
-      "hasılat",
-      "iade düşümü",
-      "indirim",
-      "fatura",
-      "gelir"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 82,
+    "id": 51,
     "kategori": "borsa",
     "kelime": "bilanço",
-    "aciklama": "temettü gelirlerini tekrar aynı hisseye yatırarak büyütme",
+    "aciklama": "şirketin belirli tarihteki varlıklarını ve borçlarını gösteren mali tablo",
     "yasakli_kelimeler": [
       "aktif pasif",
       "mali tablo",
@@ -1148,10 +714,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 83,
+    "id": 52,
     "kategori": "borsa",
     "kelime": "gelir tablosu",
-    "aciklama": "hissenin bölünmesiyle hisse sayısının artması ve fiyatın düşmesi",
+    "aciklama": "şirketin dönem içindeki faaliyet gelirlerini ve giderlerini özetleyen tablo",
     "yasakli_kelimeler": [
       "kar zarar",
       "hasılat",
@@ -1162,24 +728,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 84,
-    "kategori": "borsa",
-    "kelime": "bağımsız denetim",
-    "aciklama": "şirketin borsadaki kendi hisselerini piyasadan geri satın alması",
-    "yasakli_kelimeler": [
-      "denetçi",
-      "rapor",
-      "kontrol",
-      "muhasebe",
-      "tarafsız"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 85,
+    "id": 53,
     "kategori": "borsa",
     "kelime": "mali tablo",
-    "aciklama": "büyük ortakların sahip oldukları hisseleri borsada satışa sürmesi",
+    "aciklama": "şirketin finansal performansını ve durumunu gösteren resmi muhasebe raporu",
     "yasakli_kelimeler": [
       "rapor",
       "finansal",
@@ -1190,38 +742,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 86,
-    "kategori": "borsa",
-    "kelime": "kısa vadeli",
-    "aciklama": "halka arzda yatırımcılardan hisse alım taleplerinin toplanması",
-    "yasakli_kelimeler": [
-      "bir yıl altı",
-      "günlük",
-      "aylık",
-      "hızlı",
-      "süre"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 87,
-    "kategori": "borsa",
-    "kelime": "uzun vadeli",
-    "aciklama": "talep toplama öncesinde hissenin satılacağı taban ve tavan aralığı",
-    "yasakli_kelimeler": [
-      "bir yıl üstü",
-      "yıllık",
-      "stratejik",
-      "bekleme",
-      "süre"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 88,
+    "id": 54,
     "kategori": "borsa",
     "kelime": "özsermaye",
-    "aciklama": "şirketlerin borç yükümlülüklerini ödeme gücünü belirleyen bağımsız not",
+    "aciklama": "şirket varlıklarından toplam borçlar düşüldüğünde ortaklara kalan net değer",
     "yasakli_kelimeler": [
       "özkaynak",
       "ortak payı",
@@ -1232,24 +756,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 89,
-    "kategori": "borsa",
-    "kelime": "birikmiş kar",
-    "aciklama": "finansal sağlamlığı ve güvenilirliği yüksek kaliteli şirket tahvili",
-    "yasakli_kelimeler": [
-      "geçmiş yıl",
-      "dağıtılmayan",
-      "rezerv",
-      "özkaynak",
-      "bakiye"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 90,
+    "id": 55,
     "kategori": "borsa",
     "kelime": "hisse bölünmesi",
-    "aciklama": "borç senedinin anapara üzerinden ödediği dönemsel faiz tutarı",
+    "aciklama": "şirketin hisse adedini artırarak hisse birim fiyatını düşürmesi",
     "yasakli_kelimeler": [
       "split",
       "parçalara ayırma",
@@ -1260,66 +770,10 @@
     "zorluk": "orta"
   },
   {
-    "id": 91,
-    "kategori": "borsa",
-    "kelime": "nakit temettü",
-    "aciklama": "tahvil fiyatının faiz değişimlerine olan duyarlılık süresi",
-    "yasakli_kelimeler": [
-      "kar payı",
-      "para",
-      "ödeme",
-      "hesap",
-      "dağıtım"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 92,
-    "kategori": "borsa",
-    "kelime": "sertifika",
-    "aciklama": "şirketin yıllık faaliyetlerini ve bilançosunu özetleyen kapsamlı rapor",
-    "yasakli_kelimeler": [
-      "yapılandırılmış",
-      "ürün",
-      "dayanak",
-      "getiri",
-      "senet"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 93,
-    "kategori": "borsa",
-    "kelime": "altın sertifikası",
-    "aciklama": "şirketin finansal tablolarının bağımsız kuruluşça denetlenip onaylanması",
-    "yasakli_kelimeler": [
-      "darphane",
-      "gram altın",
-      "borsa işlemi",
-      "kıymetli maden",
-      "pay"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 94,
-    "kategori": "borsa",
-    "kelime": "gayrimenkul sertifikası",
-    "aciklama": "şirket mali tablolarının standartlara tam uygun olduğunu belirten rapor",
-    "yasakli_kelimeler": [
-      "konut",
-      "metrekare",
-      "inşaat projesi",
-      "pay",
-      "daire"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 95,
+    "id": 56,
     "kategori": "borsa",
     "kelime": "emtia",
-    "aciklama": "şirket raporunda bazı tereddütler veya sınırlamalar içeren denetim",
+    "aciklama": "ticarete ve borsaya konu olan standart ticari mal ve hammadde",
     "yasakli_kelimeler": [
       "hammadde",
       "petrol",
@@ -1330,10 +784,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 96,
+    "id": 57,
     "kategori": "borsa",
     "kelime": "kıymetli maden",
-    "aciklama": "denetçinin mali tabloların gerçeği yansıtmadığını bildirdiği olumsuz görüş",
+    "aciklama": "altın ve gümüş gibi piyasada değeri yüksek madenler",
     "yasakli_kelimeler": [
       "altın",
       "gümüş",
@@ -1344,10 +798,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 97,
+    "id": 58,
     "kategori": "borsa",
     "kelime": "külçe altın",
-    "aciklama": "denetçinin yeterli kanıt bulamadığı için görüş bildirememesi durumu",
+    "aciklama": "eritilip dökülerek standart külçe haline getirilmiş saf altın",
     "yasakli_kelimeler": [
       "saf altın",
       "blok",
@@ -1358,10 +812,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 98,
+    "id": 59,
     "kategori": "borsa",
     "kelime": "döviz kuru",
-    "aciklama": "kurumların hissedarlara uyguladığı şeffaf ve hesap verebilir yönetim",
+    "aciklama": "bir para biriminin başka bir para birimi cinsinden fiyatı",
     "yasakli_kelimeler": [
       "dolar",
       "euro",
@@ -1372,10 +826,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 99,
+    "id": 60,
     "kategori": "borsa",
     "kelime": "kur riski",
-    "aciklama": "çevre, sosyal ve yönetişim kriterlerine göre yatırım yaklaşımı",
+    "aciklama": "döviz kurlarındaki dalgalanmalar nedeniyle karşılaşılan olası zarar tehlikesi",
     "yasakli_kelimeler": [
       "döviz artışı",
       "dalgalanma",
@@ -1386,10 +840,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 100,
+    "id": 61,
     "kategori": "borsa",
     "kelime": "devalüasyon",
-    "aciklama": "yatırımlarda sosyal ve ahlaki ilkeleri gözeten fon türü",
+    "aciklama": "milli paranın yabancı paralar karşısında resmi olarak değerinin düşürülmesi",
     "yasakli_kelimeler": [
       "değer kaybı",
       "hükümet kararı",
@@ -1400,10 +854,10 @@
     "zorluk": "orta"
   },
   {
-    "id": 101,
+    "id": 62,
     "kategori": "borsa",
     "kelime": "enflasyon",
-    "aciklama": "faizsiz yatırım ilkelerine uyan hisselerden oluşan gösterge endeks",
+    "aciklama": "mal ve hizmet fiyatlarının genel seviyesinde sürekli ve hissedilir artış",
     "yasakli_kelimeler": [
       "fiyat artışı",
       "paha",
@@ -1414,52 +868,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 102,
-    "kategori": "borsa",
-    "kelime": "deflasyon",
-    "aciklama": "aracı kurumlarda yatırımcı adına işlem yapan lisanslı uzman",
-    "yasakli_kelimeler": [
-      "fiyat düşüşü",
-      "durgunluk",
-      "tüketim azlığı",
-      "ekonomi",
-      "enflasyon tersi"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 103,
-    "kategori": "borsa",
-    "kelime": "stagflasyon",
-    "aciklama": "piyasada sürekli alış satış kotasyonu vererek likidite sağlayan",
-    "yasakli_kelimeler": [
-      "durgunluk",
-      "enflasyon",
-      "işsizlik",
-      "kriz",
-      "büyümeme"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 104,
-    "kategori": "borsa",
-    "kelime": "resesyon",
-    "aciklama": "kurumların kendi sermayesiyle piyasada kâr amaçlı işlem yapması",
-    "yasakli_kelimeler": [
-      "küçülme",
-      "durgunluk",
-      "iki çeyrek",
-      "ekonomik kriz",
-      "daralma"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 105,
+    "id": 63,
     "kategori": "borsa",
     "kelime": "faiz indirimi",
-    "aciklama": "hissedarların haklarını ve çıkarlarını gözeten bağımsız yönetim üyesi",
+    "aciklama": "merkez bankasının gösterge faiz oranını aşağı yönlü çekme kararı",
     "yasakli_kelimeler": [
       "merkez bankası",
       "gevşeme",
@@ -1470,10 +882,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 106,
+    "id": 64,
     "kategori": "borsa",
     "kelime": "faiz artırımı",
-    "aciklama": "şirket kârından ayrılan ve bünyede tutulan yasal rezerv",
+    "aciklama": "enflasyonu düşürmek amacıyla merkez bankasının politika faizini yükseltmesi",
     "yasakli_kelimeler": [
       "sıkılaşma",
       "enflasyon önleme",
@@ -1484,10 +896,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 107,
+    "id": 65,
     "kategori": "borsa",
     "kelime": "merkez bankası",
-    "aciklama": "kanun gereği şirket kârından zorunlu ayrılan yedek akçe",
+    "aciklama": "ülkenin para politikasını yöneten ve banknot basan ana kurum",
     "yasakli_kelimeler": [
       "para basma",
       "faiz kararı",
@@ -1498,10 +910,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 108,
+    "id": 66,
     "kategori": "borsa",
     "kelime": "para politikası",
-    "aciklama": "şirket ana sözleşmesine göre ayrılan serbest yedek akçe",
+    "aciklama": "merkez bankasının para arzı ve faizleri yönettiği ekonomik strateji",
     "yasakli_kelimeler": [
       "merkez bankası",
       "faiz",
@@ -1512,38 +924,10 @@
     "zorluk": "orta"
   },
   {
-    "id": 109,
-    "kategori": "borsa",
-    "kelime": "maliye politikası",
-    "aciklama": "şirket hisselerinin nominal değerinin üzerinde ihraçtan doğan prim",
-    "yasakli_kelimeler": [
-      "vergi",
-      "hükümet",
-      "kamu harcaması",
-      "bütçe",
-      "hazine"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 110,
-    "kategori": "borsa",
-    "kelime": "faiz kararı",
-    "aciklama": "hissenin bilançodaki özkaynak karşılığı olan gerçek birim değeri",
-    "yasakli_kelimeler": [
-      "ppk",
-      "oran",
-      "açıklama",
-      "merkez bankası",
-      "toplantı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 111,
+    "id": 67,
     "kategori": "borsa",
     "kelime": "politika faizi",
-    "aciklama": "bir hissenin piyasa şartlarına göre hesaplanan adil değeri",
+    "aciklama": "merkez bankasının bankalarla yaptığı işlemlerde uyguladığı gösterge faiz",
     "yasakli_kelimeler": [
       "bir haftalık repo",
       "merkez faizi",
@@ -1554,24 +938,10 @@
     "zorluk": "orta"
   },
   {
-    "id": 112,
-    "kategori": "borsa",
-    "kelime": "gecelik faiz",
-    "aciklama": "borsada arz ve talebe göre anlık oluşan işlem fiyatı",
-    "yasakli_kelimeler": [
-      "tek gece",
-      "bankalararası",
-      "gecelik borç",
-      "likidite",
-      "oran"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 113,
+    "id": 68,
     "kategori": "borsa",
     "kelime": "kredi notu",
-    "aciklama": "gün sonu işlemlerinin tamamlandığı ve kapanış fiyatının belirlendiği",
+    "aciklama": "bir borçlunun borçlarını geri ödeme güvenilirliğini belirten bağımsız not",
     "yasakli_kelimeler": [
       "derecelendirme",
       "moodys",
@@ -1580,187 +950,5 @@
       "harf"
     ],
     "zorluk": "orta"
-  },
-  {
-    "id": 114,
-    "kategori": "borsa",
-    "kelime": "hisse devri",
-    "aciklama": "işlem saatleri boyunca emirlerin kesintisiz anlık eşleştiği seans",
-    "yasakli_kelimeler": [
-      "aktarım",
-      "ortaklık satışı",
-      "pay aktarma",
-      "sözleşme",
-      "noter"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "kategori": "borsa",
-    "kelime": "hisse almak",
-    "aciklama": "hissede emirlerin toplandığı ve fiyatların listelendiği sanal tahta",
-    "yasakli_kelimeler": [
-      "pay",
-      "satın alma",
-      "şirket",
-      "yatırım",
-      "lot"
-    ],
-    "zorluk": "kolay",
-    "id": 115
-  },
-  {
-    "kategori": "borsa",
-    "kelime": "hisse satmak",
-    "aciklama": "piyasada emirleri toplayıp fiyatı yönlendiren büyük sermayeli aktör",
-    "yasakli_kelimeler": [
-      "el çıkarmak",
-      "nakit",
-      "emir",
-      "satış",
-      "kar alma"
-    ],
-    "zorluk": "kolay",
-    "id": 116
-  },
-  {
-    "kategori": "borsa",
-    "kelime": "emir vermek",
-    "aciklama": "borsadaki hisse senetlerinin işlem gördüğü ana pazar segmenti",
-    "yasakli_kelimeler": [
-      "talimat",
-      "aracı kurum",
-      "fiyat",
-      "alış satış",
-      "ekran"
-    ],
-    "zorluk": "kolay",
-    "id": 117
-  },
-  {
-    "kategori": "borsa",
-    "kelime": "kar etmek",
-    "aciklama": "piyasa değeri daha küçük hisselerin yer aldığı alt pazar",
-    "yasakli_kelimeler": [
-      "kazanç",
-      "gelir",
-      "artış",
-      "para",
-      "pozitif"
-    ],
-    "zorluk": "kolay",
-    "id": 118
-  },
-  {
-    "kategori": "borsa",
-    "kelime": "zarar etmek",
-    "aciklama": "gelişme potansiyeli olan şirket hisselerinin işlem gördüğü pazar",
-    "yasakli_kelimeler": [
-      "kayıp",
-      "düşüş",
-      "zarar",
-      "eksi",
-      "anapara"
-    ],
-    "zorluk": "kolay",
-    "id": 119
-  },
-  {
-    "kategori": "borsa",
-    "kelime": "temettü almak",
-    "aciklama": "kredili alım ve açığa satışa getirilen geçici kısıtlamalar",
-    "yasakli_kelimeler": [
-      "kar payı",
-      "nakit dağıtım",
-      "şirket",
-      "yıllık",
-      "hesap"
-    ],
-    "zorluk": "kolay",
-    "id": 120
-  },
-  {
-    "kategori": "borsa",
-    "kelime": "tavan olmak",
-    "aciklama": "hissede işlem yapabilmek için gereken nakit veya teminat",
-    "yasakli_kelimeler": [
-      "yüzde 10",
-      "maksimum",
-      "artış",
-      "kilit",
-      "günlük limit"
-    ],
-    "zorluk": "kolay",
-    "id": 121
-  },
-  {
-    "kategori": "borsa",
-    "kelime": "taban olmak",
-    "aciklama": "işlemlerin gerçekleştiği tarih ile takas tarihi arasındaki fark",
-    "yasakli_kelimeler": [
-      "yüzde 10",
-      "düşüş",
-      "minimum",
-      "kilit",
-      "taban fiyat"
-    ],
-    "zorluk": "kolay",
-    "id": 122
-  },
-  {
-    "kategori": "borsa",
-    "kelime": "portföy oluşturmak",
-    "aciklama": "hisse işlemlerinin takasının iki iş günü sonra yapılması",
-    "yasakli_kelimeler": [
-      "sepet",
-      "çeşitlendirme",
-      "farklı sektör",
-      "yatırım",
-      "hisse"
-    ],
-    "zorluk": "kolay",
-    "id": 123
-  },
-  {
-    "kategori": "borsa",
-    "kelime": "halka arza katılmak",
-    "aciklama": "işlemin yapıldığı gün gerçekleşen aynı günlü nakit takası",
-    "yasakli_kelimeler": [
-      "ipo",
-      "talep toplama",
-      "yeni şirket",
-      "lot dağıtımı",
-      "başvuru"
-    ],
-    "zorluk": "kolay",
-    "id": 124
-  },
-  {
-    "kategori": "borsa",
-    "kelime": "açığa satmak",
-    "aciklama": "şirketin hisselerinin borsada işlem görmesini sonlandırma kararı",
-    "yasakli_kelimeler": [
-      "düşüşe oynama",
-      "ödünç hisse",
-      "short",
-      "fiyat düşüşü",
-      "kiralama"
-    ],
-    "zorluk": "orta",
-    "id": 125
-  },
-  {
-    "kategori": "borsa",
-    "kelime": "maliyet düşürmek",
-    "aciklama": "şirketin sermaye azaltımı ve eş zamanlı sermaye artırımı",
-    "yasakli_kelimeler": [
-      "ortalama maliyet",
-      "ek alım",
-      "aşağı çekme",
-      "düşüş",
-      "kademeli alım"
-    ],
-    "zorluk": "orta",
-    "id": 126
   }
 ]

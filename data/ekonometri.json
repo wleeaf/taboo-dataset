@@ -44,20 +44,6 @@
   {
     "id": 4,
     "kategori": "ekonometri",
-    "kelime": "beklenen değer",
-    "aciklama": "rassal değişkenin olası değerlerinin gerçekleşme olasılıklarıyla çarpılıp teorik ortalama.",
-    "yasakli_kelimeler": [
-      "ortalama",
-      "olasılık",
-      "ağırlıklı",
-      "teorik",
-      "popülasyon"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 5,
-    "kategori": "ekonometri",
     "kelime": "korelasyon katsayısı",
     "aciklama": "iki değişken arasındaki doğrusal ilişkinin gücünü ve eden ölçü.",
     "yasakli_kelimeler": [
@@ -70,7 +56,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 6,
+    "id": 5,
     "kategori": "ekonometri",
     "kelime": "bağımlı değişken",
     "aciklama": "regresyon modelinde diğer değişkenlerin etkilediği ve değeri sonuç değişkeni.",
@@ -84,7 +70,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 7,
+    "id": 6,
     "kategori": "ekonometri",
     "kelime": "bağımsız değişken",
     "aciklama": "modelde bağımlı değişkenin değişimini açıklamak ve tahmin sebep değişkeni.",
@@ -98,21 +84,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 8,
-    "kategori": "ekonometri",
-    "kelime": "hedef değişken",
-    "aciklama": "tahmin veya politika analizinde gelecekteki değerine ulaşılmaya iktisadi büyüklük.",
-    "yasakli_kelimeler": [
-      "politika",
-      "tahmin",
-      "amaç",
-      "iktisat",
-      "ulaşmak"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 9,
+    "id": 7,
     "kategori": "ekonometri",
     "kelime": "hipotez testi",
     "aciklama": "örneklem verilerine dayanarak ana kütle parametreleri hakkında sınama süreci.",
@@ -126,7 +98,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 10,
+    "id": 8,
     "kategori": "ekonometri",
     "kelime": "normal dağılım",
     "aciklama": "ortalaması etrafında simetrik olan ve çan eğrisi olasılık dağılımı.",
@@ -140,7 +112,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 11,
+    "id": 9,
     "kategori": "ekonometri",
     "kelime": "standart sapma",
     "aciklama": "verilerin aritmetik ortalamadan ne kadar dağıldığını ve varyansın karekökü.",
@@ -154,7 +126,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 12,
+    "id": 10,
     "kategori": "ekonometri",
     "kelime": "aritmetik ortalama",
     "aciklama": "veri değerlerinin toplanıp gözlem sayısına bölünmesiyle üretilen eğilim ölçüsü.",
@@ -168,7 +140,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 13,
+    "id": 11,
     "kategori": "ekonometri",
     "kelime": "medyan",
     "aciklama": "küçükten büyüğe sıralanmış veri dizisini ortadan iki orta değer.",
@@ -182,7 +154,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 14,
+    "id": 12,
     "kategori": "ekonometri",
     "kelime": "mod",
     "aciklama": "veri kümesinde frekansı en yüksek olan ve tepe değeri.",
@@ -196,7 +168,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 15,
+    "id": 13,
     "kategori": "ekonometri",
     "kelime": "histogram",
     "aciklama": "sürekli verilerin belirli aralıklara bölünerek her aralıktaki frekans grafiği.",
@@ -210,7 +182,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 16,
+    "id": 14,
     "kategori": "ekonometri",
     "kelime": "mevsimsellik",
     "aciklama": "ekonomik zaman serilerinde yılın belirli aylarında veya dönemsel dalgalanma.",
@@ -224,7 +196,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 17,
+    "id": 15,
     "kategori": "ekonometri",
     "kelime": "tahmin hatası",
     "aciklama": "modelin öngördüğü değer ile gelecekte fiilen gerçekleşen matematiksel fark.",
@@ -238,241 +210,73 @@
     "zorluk": "kolay"
   },
   {
+    "id": 16,
+    "kelime": "istatistik",
     "kategori": "ekonometri",
-    "kelime": "veri toplamak",
-    "aciklama": "araştırma veya analiz için sayısal bilgileri bir araya getirmek.",
+    "aciklama": "verileri toplama, analiz etme ve yorumlama bilimi.",
     "yasakli_kelimeler": [
-      "anket",
-      "bilgi",
+      "veri",
       "sayı",
       "analiz",
-      "kaynak"
-    ],
-    "zorluk": "kolay",
-    "id": 18
-  },
-  {
-    "kategori": "ekonometri",
-    "kelime": "grafik çizmek",
-    "aciklama": "verilerin değişimini koordinat düzleminde görselleştirmek.",
-    "yasakli_kelimeler": [
-      "eksen",
-      "tablo",
-      "görsel",
-      "çizgi",
-      "eğri"
-    ],
-    "zorluk": "kolay",
-    "id": 19
-  },
-  {
-    "kategori": "ekonometri",
-    "kelime": "ortalama hesaplamak",
-    "aciklama": "değerlerin toplamını gözlem sayısına bölerek merkezi eğilimi bulmak.",
-    "yasakli_kelimeler": [
-      "toplam",
-      "bölmek",
-      "değer",
-      "aritmetik",
-      "sayı"
-    ],
-    "zorluk": "kolay",
-    "id": 20
-  },
-  {
-    "kategori": "ekonometri",
-    "kelime": "tahmin yapmak",
-    "aciklama": "mevcut verilerden yola çıkarak gelecekteki bir değeri kestirmek.",
-    "yasakli_kelimeler": [
-      "gelecek",
-      "öngörü",
-      "model",
-      "fiyat",
-      "beklenti"
-    ],
-    "zorluk": "kolay",
-    "id": 21
-  },
-  {
-    "kategori": "ekonometri",
-    "kelime": "tablo hazırlamak",
-    "aciklama": "sayısal verileri satır ve sütunlar halinde düzenlemek.",
-    "yasakli_kelimeler": [
-      "satır",
-      "sütun",
-      "veri",
-      "excel",
-      "düzenlemek"
-    ],
-    "zorluk": "kolay",
-    "id": 22
-  },
-  {
-    "kategori": "ekonometri",
-    "kelime": "yüzde hesaplamak",
-    "aciklama": "miktarın yüze oranla payını tespit etmek.",
-    "yasakli_kelimeler": [
-      "oran",
-      "yüz",
-      "bölmek",
-      "çarpmak",
-      "pay"
-    ],
-    "zorluk": "kolay",
-    "id": 23
-  },
-  {
-    "kategori": "ekonometri",
-    "kelime": "fiyat karşılaştırmak",
-    "aciklama": "farklı dönem veya piyasalardaki fiyatları kıyaslamak.",
-    "yasakli_kelimeler": [
-      "ürün",
-      "pazar",
-      "ucuz",
-      "pahalı",
-      "oran"
-    ],
-    "zorluk": "kolay",
-    "id": 24
-  },
-  {
-    "kategori": "ekonometri",
-    "kelime": "anket yapmak",
-    "aciklama": "kişilere sorular yönelterek veri toplamak.",
-    "yasakli_kelimeler": [
-      "soru",
-      "katılımcı",
-      "cevap",
-      "örneklem",
-      "form"
-    ],
-    "zorluk": "kolay",
-    "id": 25
-  },
-  {
-    "kategori": "ekonometri",
-    "kelime": "rapor yazmak",
-    "aciklama": "ekonometrik analiz bulgularını yazılı metne dökmek.",
-    "yasakli_kelimeler": [
-      "sonuç",
-      "analiz",
-      "metin",
-      "sunum",
-      "özet"
-    ],
-    "zorluk": "kolay",
-    "id": 26
-  },
-  {
-    "kategori": "ekonometri",
-    "kelime": "trend takip etmek",
-    "aciklama": "verilerin zaman içerisindeki yönelimini izlemek.",
-    "yasakli_kelimeler": [
-      "eğilim",
-      "zaman",
       "grafik",
-      "yükseliş",
-      "düşüş"
+      "matematik"
     ],
-    "zorluk": "kolay",
-    "id": 27
+    "zorluk": "kolay"
   },
   {
+    "id": 17,
+    "kelime": "örneklem",
     "kategori": "ekonometri",
-    "kelime": "risk ölçmek",
-    "aciklama": "finansal veya ekonomik belirsizlik olasılığını saptamak.",
-    "yasakli_kelimeler": [
-      "kayıp",
-      "ihtimal",
-      "oran",
-      "yatırım",
-      "hesaplamak"
-    ],
-    "zorluk": "kolay",
-    "id": 28
-  },
-  {
-    "kategori": "ekonometri",
-    "kelime": "büyüme oranını bulmak",
-    "aciklama": "dönemsel ekonomik artış yüzdesini hesaplamak.",
-    "yasakli_kelimeler": [
-      "ekonomi",
-      "gdp",
-      "artış",
-      "yıl",
-      "yüzde"
-    ],
-    "zorluk": "kolay",
-    "id": 29
-  },
-  {
-    "kategori": "ekonometri",
-    "kelime": "hipotez test etmek",
-    "aciklama": "varsayımın istatistiksel geçerliliğini sınamak.",
-    "yasakli_kelimeler": [
-      "sıfır",
-      "anlamlılık",
-      "p değeri",
-      "kabul",
-      "ret"
-    ],
-    "zorluk": "orta",
-    "id": 30
-  },
-  {
-    "kategori": "ekonometri",
-    "kelime": "örneklem seçmek",
-    "aciklama": "ana kütleyi temsil edecek alt grubu belirlemek.",
+    "aciklama": "ana kütleyi temsil etmek üzere seçilen veri grubu.",
     "yasakli_kelimeler": [
       "evren",
+      "popülasyon",
       "temsil",
-      "rassal",
-      "büyüklük",
+      "seçim",
       "grup"
     ],
-    "zorluk": "orta",
-    "id": 31
+    "zorluk": "orta"
   },
   {
+    "id": 18,
+    "kelime": "olasılık",
     "kategori": "ekonometri",
-    "kelime": "logaritma almak",
-    "aciklama": "üstel ilişkileri doğrusal hale getirmek için logaritmik dönüşüm yapmak.",
+    "aciklama": "bir olayın gerçekleşme ihtimalini gösteren matematiksel oran.",
     "yasakli_kelimeler": [
-      "dönüşüm",
-      "esneklik",
-      "doğrusallaştırma",
-      "fonksiyon",
-      "veri"
+      "ihtimal",
+      "şans",
+      "yüzde",
+      "zar",
+      "hesap"
     ],
-    "zorluk": "orta",
-    "id": 32
+    "zorluk": "kolay"
   },
   {
+    "id": 19,
+    "kelime": "çan eğrisi",
     "kategori": "ekonometri",
-    "kelime": "fark almak",
-    "aciklama": "seriyi durağanlaştırmak için ardışık dönem değerlerini birbirinden çıkarmak.",
+    "aciklama": "normal dağılımı gösteren simetrik tepe biçimli grafik eğrisi.",
     "yasakli_kelimeler": [
-      "durağanlık",
-      "birinci",
-      "seri",
-      "trend",
-      "çıkarma"
+      "normal dağılım",
+      "simetri",
+      "not",
+      "ortalama",
+      "grafik"
     ],
-    "zorluk": "orta",
-    "id": 33
+    "zorluk": "orta"
   },
   {
+    "id": 20,
+    "kelime": "anket",
     "kategori": "ekonometri",
-    "kelime": "varyans analizi yapmak",
-    "aciklama": "birden çok grup ortalaması arasındaki farkı varyanslar üzerinden incelemek.",
+    "aciklama": "veri toplamak amacıyla kişilere yöneltilen soru formu.",
     "yasakli_kelimeler": [
-      "anova",
-      "grup",
-      "kareler toplamı",
-      "f testi",
-      "fark"
+      "soru",
+      "cevap",
+      "form",
+      "araştırma",
+      "katılımcı"
     ],
-    "zorluk": "orta",
-    "id": 34
+    "zorluk": "kolay"
   }
 ]

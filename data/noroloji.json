@@ -3,1288 +3,602 @@
     "id": 1,
     "kategori": "noroloji",
     "kelime": "sinaps",
-    "aciklama": "nöronlar arasındaki kimyasal veya elektriksel iletişim ve iletim noktası.",
+    "aciklama": "nöronlar arasındaki kimyasal veya elektriksel iletişim noktası",
     "yasakli_kelimeler": [
+      "nöron",
+      "iletim",
       "bağlantı",
-      "nörotransmitter",
-      "yarık",
-      "ileti",
-      "akson ucu"
+      "sinir",
+      "boşluk"
     ],
-    "zorluk": "kolay"
+    "zorluk": "orta"
   },
   {
     "id": 2,
     "kategori": "noroloji",
-    "kelime": "miyelin kılıf",
-    "aciklama": "aksonları sararak sinir iletimini hızlandıran yalıtkan miyelin tabakası.",
+    "kelime": "dopamin",
+    "aciklama": "motor kontrol ve mutluluk duygusunda görevli kimyasal",
     "yasakli_kelimeler": [
-      "schwann",
-      "oligodendrosit",
-      "yalıtım",
-      "akson",
-      "ranvier"
+      "mutluluk",
+      "ödül",
+      "hormon",
+      "haz",
+      "beyin"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 3,
     "kategori": "noroloji",
-    "kelime": "dopamin",
-    "aciklama": "ödül mekanizması ve motor kontrolde görevli önemli bir nörotransmitter.",
+    "kelime": "multipl skleroz",
+    "aciklama": "bağışıklık sisteminin sinir kılıflarına saldırdığı kronik hastalık",
     "yasakli_kelimeler": [
-      "parkinson",
-      "substansiya nigra",
-      "ödül",
-      "haz",
-      "nörotransmitter"
+      "bağışıklık",
+      "sinir",
+      "atak",
+      "plak",
+      "hastalık"
     ],
-    "zorluk": "kolay"
+    "zorluk": "orta"
   },
   {
     "id": 4,
     "kategori": "noroloji",
-    "kelime": "multipl skleroz",
-    "aciklama": "kandaki zararlı maddelerin beyin dokusuna geçişini engelleyen koruyucu bariyer.",
+    "kelime": "parkinson",
+    "aciklama": "el titremesi ve hareket kısıtlılığıyla seyreden hastalık",
     "yasakli_kelimeler": [
-      "demiyelinizasyon",
-      "plak",
-      "atak",
-      "otoimmün",
-      "beyin-omurilik"
+      "titreme",
+      "el",
+      "yaşlılık",
+      "hareket",
+      "hastalık"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 5,
     "kategori": "noroloji",
-    "kelime": "parkinson hastalığı",
-    "aciklama": "beyin ve omuriliği travmalardan koruyan ve besleyen berrak sıvı.",
+    "kelime": "alzheimer",
+    "aciklama": "hafıza kaybı ve unutkanlıkla ilerleyen beyin hastalığı",
     "yasakli_kelimeler": [
-      "titreme",
-      "bradikinezi",
-      "rijidite",
-      "dopamin",
-      "substansiya nigra"
+      "hafıza",
+      "unutkanlık",
+      "yaşlılık",
+      "demans",
+      "beyin"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 6,
     "kategori": "noroloji",
-    "kelime": "alzheimer hastalığı",
-    "aciklama": "beyin ve omuriliği çevreleyen üç katmanlı koruyucu zar dokusu.",
+    "kelime": "epilepsi",
+    "aciklama": "beyindeki elektriksel aktivite bozukluğuyla oluşan sara hastalığı",
     "yasakli_kelimeler": [
-      "demans",
-      "unutkanlık",
-      "amiloid",
-      "hafıza",
-      "tau"
+      "sara",
+      "nöbet",
+      "kriz",
+      "beyin",
+      "bayılma"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 7,
     "kategori": "noroloji",
-    "kelime": "amyotrofik lateral skleroz",
-    "aciklama": "beyin zarlarının en dışındaki sert ve lifli koruyucu zar.",
+    "kelime": "migren",
+    "aciklama": "tek taraflı şiddetli zonklama yapan baş ağrısı",
     "yasakli_kelimeler": [
-      "motor nöron",
-      "felç",
-      "kas erimesi",
-      "atrofi",
-      "solunum yetmezliği"
+      "baş ağrısı",
+      "zonklama",
+      "ışık",
+      "bulantı",
+      "ağrı"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 8,
     "kategori": "noroloji",
-    "kelime": "epilepsi",
-    "aciklama": "beyin omurilik sıvısının dolaştığı ağsı ve süngerimsi orta zar.",
+    "kelime": "koma",
+    "aciklama": "dış uyarılara yanıt verilmeyen derin bilinçsizlik hali",
     "yasakli_kelimeler": [
-      "nöbet",
-      "deşarj",
-      "kasılma",
-      "sara",
-      "elektrik"
+      "bilinç",
+      "uyku",
+      "uyanma",
+      "hastane",
+      "yoğun bakım"
     ],
-    "zorluk": "kolay"
+    "zorluk": "orta"
   },
   {
     "id": 9,
     "kategori": "noroloji",
-    "kelime": "elektroensefalografi",
-    "aciklama": "beyin yüzeyine yapışık olan en içteki ince damarlı zar.",
+    "kelime": "beyin ölümü",
+    "aciklama": "tüm beyin fonksiyonlarının geri dönüşsüz olarak durması",
     "yasakli_kelimeler": [
-      "eeg",
-      "beyin dalgası",
-      "elektrot",
-      "kayıt",
-      "dalga boyu"
+      "ölüm",
+      "organ",
+      "bağış",
+      "makine",
+      "fonksiyon"
     ],
-    "zorluk": "kolay"
+    "zorluk": "orta"
   },
   {
     "id": 10,
     "kategori": "noroloji",
-    "kelime": "beyin omurilik sıvısı",
-    "aciklama": "işitme, dil anlama ve hafıza süreçlerini yöneten şakak lobu.",
+    "kelime": "nöron",
+    "aciklama": "sinir sisteminde elektriksel ve kimyasal sinyal ileten hücre",
     "yasakli_kelimeler": [
-      "bos",
-      "koroid pleksus",
-      "likör",
-      "ventrikül",
-      "berrak"
+      "hücre",
+      "sinir",
+      "akson",
+      "beyin",
+      "iletim"
     ],
-    "zorluk": "kolay"
+    "zorluk": "orta"
   },
   {
     "id": 11,
     "kategori": "noroloji",
-    "kelime": "hidrosefali",
-    "aciklama": "görsel bilgilerin işlendiği beynin arka kısmında yer alan lob.",
+    "kelime": "akson",
+    "aciklama": "nörondan çıkan ve elektriksel uyarıları ileten uzantı",
     "yasakli_kelimeler": [
-      "ventrikül",
-      "şant",
-      "sıvı birikimi",
-      "genişleme",
-      "kafa içi basınç"
+      "nöron",
+      "uzantı",
+      "iletim",
+      "sinir",
+      "kılıf"
     ],
-    "zorluk": "kolay"
+    "zorluk": "zor"
   },
   {
     "id": 12,
     "kategori": "noroloji",
-    "kelime": "narkolepsi",
-    "aciklama": "kalp, akciğer ve sindirim organlarını uyaran onuncu kafa siniri.",
+    "kelime": "beyin kabuğu",
+    "aciklama": "bilinçli düşünme ve hareketleri yöneten dış katman",
     "yasakli_kelimeler": [
-      "katapleksi",
-      "hipokretin",
-      "uyku atağı",
-      "rem",
-      "gündüz uykusu"
+      "korteks",
+      "katman",
+      "düşünme",
+      "bilinç",
+      "yüzey"
     ],
-    "zorluk": "kolay"
+    "zorluk": "orta"
   },
   {
     "id": 13,
     "kategori": "noroloji",
-    "kelime": "huzursuz bacaklar sendromu",
-    "aciklama": "dili hareket ettiren ve yutmayı sağlayan on ikinci kafa siniri.",
+    "kelime": "beyincik",
+    "aciklama": "vücudun dengesini ve hareket koordinasyonunu sağlayan organ",
     "yasakli_kelimeler": [
-      "hareket ettirme dürtüsü",
-      "gece",
-      "istirahat",
-      "bacak hissi",
-      "uyku bozukluğu"
+      "denge",
+      "koordinasyon",
+      "hareket",
+      "kafa",
+      "organ"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 14,
     "kategori": "noroloji",
-    "kelime": "küme baş ağrısı",
-    "aciklama": "tek taraflı göz çevresinde dayanılmaz oyucu ağrı, lakrimasyon.",
+    "kelime": "beyin sapı",
+    "aciklama": "solunum ve dolaşım gibi hayati işlevleri yönetir",
     "yasakli_kelimeler": [
-      "trigeminal otonomik",
-      "göz sulanması",
-      "oyucu ağrı",
-      "tek taraflı",
-      "oksijen"
+      "solunum",
+      "kalp",
+      "omurilik",
+      "hayati",
+      "merkez"
     ],
     "zorluk": "orta"
   },
   {
     "id": 15,
     "kategori": "noroloji",
-    "kelime": "migren",
-    "aciklama": "çoğunlukla tek taraflı, zonklayıcı özellikte, fotofobi ve fonofobi.",
+    "kelime": "omurilik",
+    "aciklama": "omurga kanalı içinde uzanan merkezi sinir yolu",
     "yasakli_kelimeler": [
-      "zonklayıcı",
-      "fotofobi",
-      "aura",
-      "bulantı",
-      "triptan"
+      "omurga",
+      "sinir",
+      "felç",
+      "refleks",
+      "kanal"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 16,
     "kategori": "noroloji",
-    "kelime": "gerilim baş ağrısı",
-    "aciklama": "başın etrafında sıkı bir bant veya mengene varmış.",
+    "kelime": "hipokampus",
+    "aciklama": "hafıza ve yeni bilgilerin kaydedilmesinden sorumlu bölge",
     "yasakli_kelimeler": [
-      "sıkıştırıcı",
-      "bant",
-      "mengene",
-      "stres",
-      "hafif-orta"
+      "hafıza",
+      "anı",
+      "öğrenme",
+      "kayıt",
+      "beyin"
     ],
-    "zorluk": "kolay"
+    "zorluk": "zor"
   },
   {
     "id": 17,
     "kategori": "noroloji",
-    "kelime": "kafa içi basınç",
-    "aciklama": "kafatası içindeki beyin, kan ve bos hacmindeki artışa.",
+    "kelime": "siyatik sinir",
+    "aciklama": "belden başlayıp ayağa kadar uzanan ana sinir",
     "yasakli_kelimeler": [
-      "kibas",
-      "papilödem",
-      "monro-kellie",
-      "ödem",
-      "herniasyon"
+      "bel",
+      "bacak",
+      "ağrı",
+      "fıtık",
+      "sinir"
     ],
-    "zorluk": "orta"
+    "zorluk": "kolay"
   },
   {
     "id": 18,
     "kategori": "noroloji",
-    "kelime": "karpal tünel sendromu",
-    "aciklama": "median sinirin el bileği seviyesinde transvers karpal ligaman.",
+    "kelime": "serotonin",
+    "aciklama": "mutluluk ve uyku düzeninde etkili sinir ileticisi",
     "yasakli_kelimeler": [
-      "median sinir",
-      "el bileği",
-      "tinel",
-      "phalen",
-      "tuzak"
+      "mutluluk",
+      "depresyon",
+      "duygu",
+      "uyku",
+      "hormon"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 19,
     "kategori": "noroloji",
-    "kelime": "düşük ayak",
-    "aciklama": "genellikle fibula başı seviyesinde ortak peroneal sinir lezyonuna.",
+    "kelime": "endorfin",
+    "aciklama": "vücudun ağrı dindirmek için salgıladığı doğal hormon",
     "yasakli_kelimeler": [
-      "peroneal sinir",
-      "dorsifleksiyon",
-      "steppage",
-      "adım",
-      "fibula başı"
+      "ağrı",
+      "mutluluk",
+      "spor",
+      "hormon",
+      "rahatlama"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 20,
     "kategori": "noroloji",
-    "kelime": "koma",
-    "aciklama": "retiküler aktive edici sistemin baskılanması sonucu hastanın hiçbir.",
+    "kelime": "refleks çekici",
+    "aciklama": "hekimlerin sinir tepkilerini ölçmek için kullandığı çekiç",
     "yasakli_kelimeler": [
-      "bilinç kaybı",
-      "uyandırılamama",
-      "glasgow",
-      "uyanıklık",
-      "derin uyku"
+      "doktor",
+      "diz",
+      "vuruş",
+      "muayene",
+      "tepki"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 21,
     "kategori": "noroloji",
-    "kelime": "beyin ölümü",
-    "aciklama": "korteks ve beyin sapı dahil tüm intrakraniyal nöronal.",
+    "kelime": "tremor",
+    "aciklama": "ellerde veya vücutta istemsizce meydana gelen titreme",
     "yasakli_kelimeler": [
-      "koma",
-      "apne testi",
-      "geri dönüşsüz",
-      "beyin sapı refleksleri",
-      "kadavra"
+      "titreme",
+      "el",
+      "istemsiz",
+      "sallanma",
+      "hareket"
     ],
-    "zorluk": "kolay"
+    "zorluk": "orta"
   },
   {
     "id": 22,
     "kategori": "noroloji",
-    "kelime": "fantom ağrı",
-    "aciklama": "ampute edilmiş veya kesilmiş bir kol veya bacağın.",
+    "kelime": "vertigo",
+    "aciklama": "etrafın veya kişinin kendisinin döndüğü hissi",
     "yasakli_kelimeler": [
-      "ampütasyon",
-      "kesik uzuv",
-      "hayali organ",
-      "olmayan bacak",
-      "ağrı"
+      "baş dönmesi",
+      "kulak",
+      "denge",
+      "dönme",
+      "sersemlik"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 23,
     "kategori": "noroloji",
-    "kelime": "nöron",
-    "aciklama": "elektriksel ve kimyasal sinyaller ileterek beynin ve sinir.",
+    "kelime": "baş dönmesi",
+    "aciklama": "denge kaybı ve göz kararmasıyla oluşan sersemlik",
     "yasakli_kelimeler": [
-      "sinir hücresi",
-      "akson dendrit",
-      "beyin hücresi",
-      "sinaps",
-      "iletim"
+      "denge",
+      "sersemlik",
+      "göz kararması",
+      "dönme",
+      "bayılma"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 24,
     "kategori": "noroloji",
-    "kelime": "akson",
-    "aciklama": "nöronun gövdesinden çıkan ve elektriksel uyarıları diğer sinir.",
+    "kelime": "uyuşma",
+    "aciklama": "baskı altındaki sinir nedeniyle deride oluşan hissizlik",
     "yasakli_kelimeler": [
-      "sinir lifi",
-      "uzun uzantı",
-      "miyelin kılıf",
-      "dendrit zıddı",
-      "iletim kablosu"
+      "karıncalanma",
+      "hissizlik",
+      "kol",
+      "bacak",
+      "baskı"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 25,
     "kategori": "noroloji",
-    "kelime": "dendrit",
-    "aciklama": "nöron gövdesinden ağaç dalları gibi etrafa yayılarak diğer.",
+    "kelime": "karıncalanma",
+    "aciklama": "uyuşan uzuvda iğne batması hissiyle oluşan uyarılma",
     "yasakli_kelimeler": [
-      "ağaçsı uzantı",
-      "sinyal alıcı",
-      "akson zıddı",
-      "kısa uzantı",
-      "hücre gövdesi"
+      "iğne batması",
+      "uyuşma",
+      "ayak",
+      "kol",
+      "his"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 26,
     "kategori": "noroloji",
-    "kelime": "beyin kabuğu",
-    "aciklama": "bilinç, hafıza, düşünme ve istemli hareketleri yöneten, beynin.",
+    "kelime": "his kaybı",
+    "aciklama": "sinir hasarı sonucu dokunma ve acıyı algılayamama",
     "yasakli_kelimeler": [
-      "korteks",
-      "gri cevher",
-      "beyin yüzeyi",
-      "kıvrımlar",
-      "düşünce merkezi"
+      "hissizlik",
+      "duyu",
+      "dokunma",
+      "sinir",
+      "felç"
     ],
-    "zorluk": "kolay"
+    "zorluk": "orta"
   },
   {
     "id": 27,
     "kategori": "noroloji",
-    "kelime": "beyincik",
-    "aciklama": "kafanın arkasında yer alıp istemli kas hareketlerinin koordinasyonunu,.",
+    "kelime": "felç",
+    "aciklama": "beyin hasarıyla kasların hareket yeteneğini tamamen kaybetmesi",
     "yasakli_kelimeler": [
-      "serebellum",
-      "denge merkezi",
-      "kas koordinasyonu",
-      "kafa arkası",
-      "sarhoş yürüyüşü"
+      "inme",
+      "hareket",
+      "kas",
+      "yatalak",
+      "taraf"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 28,
     "kategori": "noroloji",
-    "kelime": "beyin sapı",
-    "aciklama": "solunum, kalp atışı ve kan basıncı gibi hayati.",
+    "kelime": "inme",
+    "aciklama": "beyin damarının tıkanmasıyla aniden gelişen felç durumu",
     "yasakli_kelimeler": [
-      "hayat düğümü",
-      "pons ve omurilik soğanı",
-      "solunum merkezi",
-      "otonom kontrol",
-      "orta beyin"
+      "felç",
+      "damar",
+      "pıhtı",
+      "beyin",
+      "tıkanma"
     ],
-    "zorluk": "orta"
+    "zorluk": "kolay"
   },
   {
     "id": 29,
     "kategori": "noroloji",
-    "kelime": "omurilik",
-    "aciklama": "omurga kanalı içinde uzanan, beyinle vücut arasındaki sinirsel.",
+    "kelime": "amnezi",
+    "aciklama": "darbe veya şok sonrasında geçmişi hatırlayamama durumu",
     "yasakli_kelimeler": [
-      "medulla spinalis",
-      "omurga içi",
-      "refleks merkezi",
-      "sinir kordonu",
-      "felç bölgesi"
+      "hafıza kaybı",
+      "unutkanlık",
+      "anı",
+      "geçmiş",
+      "travma"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 30,
     "kategori": "noroloji",
-    "kelime": "talamus",
-    "aciklama": "koku duyusu hariç tüm duyu sinyallerini beyin kabuğuna.",
+    "kelime": "menenjit",
+    "aciklama": "beyin zarlarının iltihaplanmasıyla oluşan tehlikeli hastalık",
     "yasakli_kelimeler": [
-      "duyu santrali",
-      "koku hariç",
-      "ara beyin",
-      "kortekse aktarma",
-      "filtreleme"
+      "iltihap",
+      "zar",
+      "ense sertliği",
+      "ateş",
+      "bakteri"
     ],
     "zorluk": "orta"
   },
   {
     "id": 31,
     "kategori": "noroloji",
-    "kelime": "hipotalamus",
-    "aciklama": "vücut sıcaklığı, açlık, susuzluk, uyku ritmi ve hipofiz.",
+    "kelime": "beyin tümörü",
+    "aciklama": "kafatası içinde büyüyerek baskı yapan tehlikeli kitle",
     "yasakli_kelimeler": [
-      "iç denge",
-      "vücut ısısı",
-      "açlık tokluk",
-      "hipofiz kontrolü",
-      "homeostaz"
+      "kitle",
+      "ur",
+      "kanser",
+      "ameliyat",
+      "baskı"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 32,
     "kategori": "noroloji",
-    "kelime": "hipokampus",
-    "aciklama": "kısa süreli anıların uzun süreli kalıcı hafızaya dönüştürülmesini.",
+    "kelime": "anevrizma",
+    "aciklama": "beyin damar duvarında oluşan balonlaşma ve yırtılma riski",
     "yasakli_kelimeler": [
-      "hafıza merkezi",
-      "denizatı",
-      "anı kaydetme",
-      "alzheimer hasarı",
-      "mekansal hafıza"
+      "damar",
+      "balon",
+      "kanama",
+      "patlama",
+      "yırtılma"
     ],
-    "zorluk": "kolay"
+    "zorluk": "orta"
   },
   {
     "id": 33,
     "kategori": "noroloji",
-    "kelime": "amigdala",
-    "aciklama": "özellikle korku, öfke, tehlikeyi sezme ve hayatta kalma.",
+    "kelime": "beyin kanaması",
+    "aciklama": "kafa darbesi veya yüksek tansiyonla kafatasına kan sızması",
     "yasakli_kelimeler": [
-      "korku merkezi",
-      "badem çekirdek",
-      "öfke tepkisi",
-      "savaş veya kaç",
-      "limbik sistem"
+      "kan",
+      "tansiyon",
+      "kafa",
+      "darbe",
+      "inme"
     ],
-    "zorluk": "orta"
+    "zorluk": "kolay"
   },
   {
     "id": 34,
     "kategori": "noroloji",
-    "kelime": "korpus kallozum",
-    "aciklama": "sağ ve sol beyin yarımküreleri arasında milyonlarca akson.",
+    "kelime": "beyin sarsıntısı",
+    "aciklama": "kafaya alınan sert darbe sonucu geçici hafıza kaybı",
     "yasakli_kelimeler": [
-      "iki yarımküre köprüsü",
-      "akson demeti",
-      "sağ ve sol beyin",
-      "yarımküre bağı",
-      "beyin köprüsü"
+      "kafa",
+      "darbe",
+      "bayılma",
+      "sersemlik",
+      "travma"
     ],
-    "zorluk": "orta"
+    "zorluk": "kolay"
   },
   {
     "id": 35,
     "kategori": "noroloji",
-    "kelime": "kranial sinir",
-    "aciklama": "doğrudan beyin sapından çıkarak göz, yüz, dil ve.",
+    "kelime": "demans",
+    "aciklama": "yaşlılıkta zihinsel işlevlerin ve hafızanın kademeli kaybı",
     "yasakli_kelimeler": [
-      "on iki çift",
-      "kafa siniri",
-      "beyin sapı çıkışlı",
-      "vagus optik",
-      "yüz felci siniri"
+      "bunama",
+      "yaşlılık",
+      "alzheimer",
+      "hafıza",
+      "unutkanlık"
     ],
     "zorluk": "orta"
   },
   {
     "id": 36,
     "kategori": "noroloji",
-    "kelime": "optik sinir",
-    "aciklama": "retinadaki fotoreseptörlerin algıladığı görme uyarılarını elektrik sinyali olarak.",
+    "kelime": "beyin tomografisi",
+    "aciklama": "beyindeki kanama ve kemik kırıklarını gösteren film",
     "yasakli_kelimeler": [
-      "görme siniri",
-      "ikinci kranial sinir",
-      "retina kablosu",
-      "göz siniri",
-      "kör nokta"
+      "film",
+      "röntgen",
+      "ışın",
+      "tarama",
+      "tahlil"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 37,
     "kategori": "noroloji",
-    "kelime": "vagus siniri",
-    "aciklama": "beyin sapından çıkıp kalp, akciğer ve bağırsaklara kadar.",
+    "kelime": "beyin emarı",
+    "aciklama": "güçlü manyetik dalgalarla beynin ayrıntılı görüntüsünü çeken cihaz",
     "yasakli_kelimeler": [
-      "onuncu kafa siniri",
-      "serseri sinir",
-      "kalbi yavaşlatan",
-      "parasempatik ana sinir",
-      "iç organ siniri"
+      "manyetik",
+      "cihaz",
+      "görüntü",
+      "radyoloji",
+      "tünel"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 38,
     "kategori": "noroloji",
-    "kelime": "siyatik sinir",
-    "aciklama": "belden çıkıp kalça ve bacağın arkasından topuğa kadar.",
+    "kelime": "fizik tedavi",
+    "aciklama": "felçli veya zayıflamış kasları egzersizle güçlendirme tedavisi",
     "yasakli_kelimeler": [
-      "bel fıtığı ağrısı",
-      "en kalın sinir",
-      "bacak arkası",
-      "kalça ağrısı",
-      "topuğa vuran ağrı"
+      "egzersiz",
+      "kas",
+      "rehabilitasyon",
+      "hareket",
+      "felç"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 39,
     "kategori": "noroloji",
-    "kelime": "serotonin",
-    "aciklama": "duygu durumu, mutluluk, uyku ve iştahı düzenleyen, eksikliği.",
+    "kelime": "nöbet geçirmek",
+    "aciklama": "beyindeki elektriksel fırtına sonucu sara krizi yaşamak",
     "yasakli_kelimeler": [
-      "mutluluk hormonu",
-      "antidepresan hedefi",
-      "depresyon eksikliği",
-      "uyku iştah",
-      "sinir ileticisi"
+      "sara",
+      "kriz",
+      "titreme",
+      "epilepsi",
+      "bayılmak"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 40,
     "kategori": "noroloji",
-    "kelime": "noradrenalin",
-    "aciklama": "sempatik sinir sisteminde uyanıklık, dikkat, odaklanma ve tehlike.",
+    "kelime": "felç geçirmek",
+    "aciklama": "beyin hasarıyla vücudun bir kısmının hareket edemez olması",
     "yasakli_kelimeler": [
-      "norepinefrin",
-      "dikkat odaklanma",
-      "stres kimyasalı",
-      "sempatik iletici",
-      "uyanıklık"
+      "inme",
+      "tutulmak",
+      "hareketsiz",
+      "damar",
+      "sağ sol"
     ],
-    "zorluk": "orta"
+    "zorluk": "kolay"
   },
   {
     "id": 41,
     "kategori": "noroloji",
-    "kelime": "endorfin",
-    "aciklama": "vücudun ağrı hissettiğinde veya yoğun egzersizde salgıladığı morfin.",
+    "kelime": "hafıza kaybı",
+    "aciklama": "geçmiş olayları veya kişileri hatırlamakta güçlük çekme",
     "yasakli_kelimeler": [
-      "doğal morfin",
-      "ağrı dindirici hormon",
-      "koşucu coşkusu",
-      "zevk kimyasalı",
-      "vücut uyuşturucusu"
+      "unutmak",
+      "hatırlamak",
+      "anı",
+      "geçmiş",
+      "amnezi"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 42,
     "kategori": "noroloji",
-    "kelime": "kornea refleksi",
-    "aciklama": "gözün şeffaf kornea tabakasına pamuk ucuyla hafifçe dokunulduğunda.",
+    "kelime": "halüsinasyon",
+    "aciklama": "gerçekte var olmayan ses veya görüntüleri algılama hali",
     "yasakli_kelimeler": [
-      "pamukla dokunma",
-      "göz kırpma",
-      "beyin sapı testi",
-      "trigeminal fasiyal",
-      "koma muayenesi"
+      "hayal",
+      "ses",
+      "görüntü",
+      "gerçek dışı",
+      "sanrı"
     ],
     "zorluk": "orta"
   },
   {
     "id": 43,
     "kategori": "noroloji",
-    "kelime": "ışık refleksi",
-    "aciklama": "göze el feneri tutulduğunda göz bebeğinin daralması ve.",
+    "kelime": "sinir sıkışması",
+    "aciklama": "sinirlerin dar kanallarda baskı görmesiyle oluşan ağrı",
     "yasakli_kelimeler": [
-      "pupil daralması",
-      "el feneri testi",
-      "göz bebeği tepkisi",
-      "optik okülomotor",
-      "beyin ölümü kontrolü"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 44,
-    "kategori": "noroloji",
-    "kelime": "refleks çekici",
-    "aciklama": "nörologların tendonlara vurarak refleks canlılığını ölçmek için kullandığı.",
-    "yasakli_kelimeler": [
-      "kauçuk çekiç",
-      "nöroloji çekici",
-      "diz vuruşu",
-      "babinski ucu",
-      "muayene aleti"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 45,
-    "kategori": "noroloji",
-    "kelime": "duyu muayenesi",
-    "aciklama": "hastanın cildine pamuk, iğne ve diyapazon dokundurarak dokunma,.",
-    "yasakli_kelimeler": [
-      "iğne pamuk testi",
-      "ağrı ve sıcaklık",
-      "vibrasyon diyapazon",
-      "hissizlik tespiti",
-      "dermatom kontrolü"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 46,
-    "kategori": "noroloji",
-    "kelime": "kas gücü",
-    "aciklama": "hastanın kollarını ve bacaklarını hekime karşı dirençle itmesiyle.",
-    "yasakli_kelimeler": [
-      "motor muayene",
-      "beş üzerinden güç",
-      "direnç uygulama",
-      "felç derecesi",
-      "kas kuvveti"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 47,
-    "kategori": "noroloji",
-    "kelime": "tremor",
-    "aciklama": "özellikle ellerde, dilde veya kafada istemsiz olarak ortaya.",
-    "yasakli_kelimeler": [
-      "el titremesi",
-      "ritmik sallantı",
-      "parkinson titremesi",
-      "esansiyel titreme",
-      "istemsiz hareket"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 48,
-    "kategori": "noroloji",
-    "kelime": "vertigo",
-    "aciklama": "iç kulak veya beyincik hasarında kişinin kendisinin veya.",
-    "yasakli_kelimeler": [
-      "şiddetli baş dönmesi",
-      "dünyanın dönmesi",
-      "denge kristali",
-      "iç kulak",
-      "dönme hissi"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 49,
-    "kategori": "noroloji",
-    "kelime": "baş dönmesi",
-    "aciklama": "denge kaybı, sersemlik, göz kararması ve sallanma hissiyle.",
-    "yasakli_kelimeler": [
-      "sersemlik hissi",
-      "denge kaybı",
-      "göz kararması",
-      "dizzines",
-      "düşecek gibi olma"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 50,
-    "kategori": "noroloji",
-    "kelime": "uyuşma",
-    "aciklama": "sinir sıkışması veya dolaşım bozukluğunda uzuvların dokunma duyusunu.",
-    "yasakli_kelimeler": [
-      "hissizlik",
-      "duyu kaybı",
-      "bacak uyuşması",
-      "el hissizliği",
-      "dokunamama"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 51,
-    "kategori": "noroloji",
-    "kelime": "karıncalanma",
-    "aciklama": "uyuyan bir bacağın üzerine basıldığında deride karıncalar yürüyormuş.",
-    "yasakli_kelimeler": [
-      "bacak uyuması",
-      "iğne batması",
-      "parestezi",
-      "karınca yürümesi",
-      "geçici his"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 52,
-    "kategori": "noroloji",
-    "kelime": "his kaybı",
-    "aciklama": "sinir kesisi veya inme sonrasında vücudun belirli bir.",
-    "yasakli_kelimeler": [
-      "anestezi hissi",
-      "tam hissizlik",
-      "sıcağı duymama",
-      "ağrı hissetmeme",
-      "duyu felci"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 53,
-    "kategori": "noroloji",
-    "kelime": "felç",
-    "aciklama": "beyin veya omurilik hasarı sebebiyle kasların istemli hareket.",
-    "yasakli_kelimeler": [
-      "paralizi",
-      "inme sonucu",
-      "kımıldayamama",
-      "yatalak kalma",
-      "hareketsizlik"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 54,
-    "kategori": "noroloji",
-    "kelime": "inme",
-    "aciklama": "beyin damarının aniden pıhtıyla tıkanması veya patlayıp kanaması.",
-    "yasakli_kelimeler": [
-      "felç atağı",
-      "beyin krizi",
-      "damar tıkanması",
-      "pıhtı atması",
-      "strok"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 55,
-    "kategori": "noroloji",
-    "kelime": "amnezi",
-    "aciklama": "kafa travması, şok veya beyin hasarı sonrasında geçmişe.",
-    "yasakli_kelimeler": [
-      "hafıza kaybı",
-      "unutkanlık",
-      "anıları unutma",
-      "hatırlayamama",
-      "bellek yitimi"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 56,
-    "kategori": "noroloji",
-    "kelime": "menenjit",
-    "aciklama": "beyin zarlarının bakteri veya virüslerle iltihaplanmasıyla oluşan, ense.",
-    "yasakli_kelimeler": [
-      "beyin zarı iltihabı",
-      "ense sertliği",
-      "yüksek ateş",
-      "lumbal ponksiyon",
-      "şiddetli baş ağrısı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 57,
-    "kategori": "noroloji",
-    "kelime": "beyin apsesi",
-    "aciklama": "beyin dokusu içinde mikropların üremesiyle oluşan ve cerrahi.",
-    "yasakli_kelimeler": [
-      "iltihap kesesi",
-      "cerahat yuvası",
-      "kafa içi kitle",
-      "bakteri odağı",
-      "cerrahi drenaj"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 58,
-    "kategori": "noroloji",
-    "kelime": "beyin tümörü",
-    "aciklama": "kafatası kemiği içinde beyni sıkıştıran ve baskı yaparak.",
-    "yasakli_kelimeler": [
-      "kafa içi ur",
-      "kitle etkisi",
-      "kanser",
-      "gliom",
-      "mr teşhisi"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 59,
-    "kategori": "noroloji",
-    "kelime": "anevrizma",
-    "aciklama": "beyin atardamar duvarının zayıflayarak balonlaşması ve patladığında ölümcül.",
-    "yasakli_kelimeler": [
-      "balonlaşma",
-      "damar balonu",
-      "patlama riski",
-      "subaraknoid kanama",
-      "klipsleme"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 60,
-    "kategori": "noroloji",
-    "kelime": "beyin kanaması",
-    "aciklama": "tansiyon fırlaması veya kafa travmasıyla kafatası içine kan.",
-    "yasakli_kelimeler": [
-      "hemoraji",
-      "tansiyon patlaması",
-      "kafa içi kanama",
-      "inme",
-      "acil cerrahi"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 61,
-    "kategori": "noroloji",
-    "kelime": "beyin sarsıntısı",
-    "aciklama": "kafaya alınan şiddetli darbe sonucu geçici hafıza kaybı,.",
-    "yasakli_kelimeler": [
-      "travma",
-      "darbe sonrası",
-      "sersemlik",
-      "komosyo",
-      "geçici bilinç kaybı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 62,
-    "kategori": "noroloji",
-    "kelime": "deliryum",
-    "aciklama": "yaşlılarda enfeksiyon veya yoğun bakım ortamında aniden gelişen,.",
-    "yasakli_kelimeler": [
-      "akut kafa karışıklığı",
-      "halüsinasyon görme",
-      "şuur bulanıklığı",
-      "yoğun bakım sendromu",
-      "geçici delilik"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 63,
-    "kategori": "noroloji",
-    "kelime": "demans",
-    "aciklama": "hafıza, konuşma ve günlük yaşam becerilerinin geri dönüşsüz.",
-    "yasakli_kelimeler": [
-      "bunama",
-      "alzheimer grubu",
-      "hafıza erimesi",
-      "yaşlılık unutkanlığı",
-      "kognitif yıkım"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 64,
-    "kategori": "noroloji",
-    "kelime": "aura",
-    "aciklama": "migren atağı veya epilepsi nöbeti başlamadan hemen önce.",
-    "yasakli_kelimeler": [
-      "ön belirti",
-      "ışık çakması",
-      "nöbet habercisi",
-      "migren öncesi",
-      "görsel dalgalanma"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 65,
-    "kategori": "noroloji",
-    "kelime": "beyin tomografisi",
-    "aciklama": "akut inme ve kafa travmalarında beyin kanamasını dakikalar.",
-    "yasakli_kelimeler": [
-      "bt taraması",
-      "acil kanama tespiti",
-      "x ışını kesiti",
-      "beyin filmi",
-      "radyoloji"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 66,
-    "kategori": "noroloji",
-    "kelime": "beyin mr",
-    "aciklama": "güçlü manyetik alan ve radyo dalgalarıyla beynin dokusunu,.",
-    "yasakli_kelimeler": [
-      "manyetik rezonans",
-      "mr cihazı",
-      "radyasyonsuz çekim",
-      "ms plağı tespiti",
-      "tümör filmi"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 67,
-    "kategori": "noroloji",
-    "kelime": "anjiyografi",
-    "aciklama": "kasık damarından kateterle girilip kontrast madde verilerek beyin.",
-    "yasakli_kelimeler": [
-      "damar filmi",
-      "kasık kateteri",
-      "beyin damarı inceleme",
-      "kontrast madde",
-      "dsa"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 68,
-    "kategori": "noroloji",
-    "kelime": "pet taraması",
-    "aciklama": "radyoaktif işaretli şeker verilerek beynin hangi bölgesinin glukoz.",
-    "yasakli_kelimeler": [
-      "glukoz tüketimi",
-      "nükleer tıp filmi",
-      "kanser metastazı",
-      "radyoaktif madde",
-      "metabolik görüntüleme"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 69,
-    "kategori": "noroloji",
-    "kelime": "sinir iletimi",
-    "aciklama": "emg cihazında kola elektrik akımı verilerek sinir liflerinin.",
-    "yasakli_kelimeler": [
-      "iletim hızı",
-      "emg testi",
-      "elektrik şoku testi",
-      "sinir testi",
-      "karpal tünel ölçümü"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 70,
-    "kategori": "noroloji",
-    "kelime": "beyin pili",
-    "aciklama": "parkinson ve distoni hastalarının beyin derinliklerine elektrot yerleştirilerek.",
-    "yasakli_kelimeler": [
-      "derin beyin uyarımı",
-      "dbs ameliyatı",
-      "göğse takılan pil",
-      "parkinson ameliyatı",
-      "elektrot yerleştirme"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 71,
-    "kategori": "noroloji",
-    "kelime": "fizik tedavi",
-    "aciklama": "kas güçsüzlüğü ve eklem sertliği çeken felçli hastalara.",
-    "yasakli_kelimeler": [
-      "fizyoterapi",
-      "hareket egzersizi",
-      "kas çalıştırma",
-      "fizyoterapist",
-      "inme egzersizi"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "kategori": "noroloji",
-    "kelime": "hissetmek",
-    "aciklama": "sinir uçları aracılığıyla dokunma, sıcaklık veya acıyı algılamak",
-    "yasakli_kelimeler": [
-      "dokunma",
-      "acı",
-      "sinir",
-      "sıcaklık",
-      "duyu"
-    ],
-    "zorluk": "kolay",
-    "id": 72
-  },
-  {
-    "kategori": "noroloji",
-    "kelime": "hatırlamak",
-    "aciklama": "beyindeki hafıza merkezinden eski bilgileri geri çağırmak",
-    "yasakli_kelimeler": [
-      "hafıza",
-      "bellek",
-      "eski",
-      "akıl",
-      "unutmak"
-    ],
-    "zorluk": "kolay",
-    "id": 73
-  },
-  {
-    "kategori": "noroloji",
-    "kelime": "unutmak",
-    "aciklama": "beyindeki anıların veya bilgilerin zihinden silinmesi",
-    "yasakli_kelimeler": [
-      "hafıza",
-      "hatırlamamak",
-      "silinmek",
-      "akıl",
-      "bellek"
-    ],
-    "zorluk": "kolay",
-    "id": 74
-  },
-  {
-    "kategori": "noroloji",
-    "kelime": "titremek",
-    "aciklama": "ellerin veya vücudun istemsizce ritmik sallanması",
-    "yasakli_kelimeler": [
-      "el",
-      "sallanmak",
-      "parkinson",
-      "istemsiz",
-      "titreme"
-    ],
-    "zorluk": "kolay",
-    "id": 75
-  },
-  {
-    "kategori": "noroloji",
-    "kelime": "uyumak",
-    "aciklama": "beynin dinlenmeye çekildiği bilinç kapalılığı hali",
-    "yasakli_kelimeler": [
-      "dinlenmek",
-      "yatak",
-      "rüya",
-      "gece",
-      "uyanmak"
-    ],
-    "zorluk": "kolay",
-    "id": 76
-  },
-  {
-    "kategori": "noroloji",
-    "kelime": "uyanmak",
-    "aciklama": "uyku halinden çıkıp bilincin yeniden yerine gelmesi",
-    "yasakli_kelimeler": [
-      "uyku",
-      "sabah",
-      "bilinç",
-      "göz açmak",
-      "kalkmak"
-    ],
-    "zorluk": "kolay",
-    "id": 77
-  },
-  {
-    "kategori": "noroloji",
-    "kelime": "bayılmak",
-    "aciklama": "beyne giden kanın anlık azalmasıyla geçici şuur kaybı yaşamak",
-    "yasakli_kelimeler": [
-      "şuur",
-      "kendinden geçmek",
-      "tansiyon",
-      "düşmek",
-      "geçici"
-    ],
-    "zorluk": "kolay",
-    "id": 78
-  },
-  {
-    "kategori": "noroloji",
-    "kelime": "düşünmek",
-    "aciklama": "beyin korteksinde fikirler ve kavramlar arasında bağ kurmak",
-    "yasakli_kelimeler": [
-      "akıl",
-      "fikir",
-      "zihin",
-      "korteks",
-      "mantık"
-    ],
-    "zorluk": "kolay",
-    "id": 79
-  },
-  {
-    "kategori": "noroloji",
-    "kelime": "öğrenmek",
-    "aciklama": "yeni nöronal bağlantılar kurarak yeni bilgi ve beceri edinmek",
-    "yasakli_kelimeler": [
-      "bilgi",
-      "beceri",
-      "hafıza",
-      "ders",
-      "kavramak"
-    ],
-    "zorluk": "kolay",
-    "id": 80
-  },
-  {
-    "kategori": "noroloji",
-    "kelime": "hareket etmek",
-    "aciklama": "beyinden gelen motor sinyallerle kasları çalıştırmak",
-    "yasakli_kelimeler": [
-      "kas",
-      "motor",
-      "yürümek",
-      "sinyal",
-      "kol"
-    ],
-    "zorluk": "kolay",
-    "id": 81
-  },
-  {
-    "kategori": "noroloji",
-    "kelime": "baş ağrımak",
-    "aciklama": "kafa bölgesindeki damar veya sinir hassasiyetiyle zonklama hissetmek",
-    "yasakli_kelimeler": [
-      "migren",
-      "zonklama",
-      "kafa",
-      "ağrı",
-      "şakak"
-    ],
-    "zorluk": "kolay",
-    "id": 82
-  },
-  {
-    "kategori": "noroloji",
-    "kelime": "göz kırpmak",
-    "aciklama": "kornea refleksiyle göz kapaklarını istemsizce veya bilinçli kapatıp açmak",
-    "yasakli_kelimeler": [
-      "refleks",
-      "göz kapağı",
-      "kapatmak",
-      "kapak",
-      "anlık"
-    ],
-    "zorluk": "kolay",
-    "id": 83
-  },
-  {
-    "kategori": "noroloji",
-    "kelime": "nöbet geçirmek",
-    "aciklama": "beyindeki kontrolsüz elektriksel fırtına sonucu sara krizi yaşamak",
-    "yasakli_kelimeler": [
-      "epilepsi",
-      "sara",
-      "kasılma",
-      "kriz",
-      "şuur"
-    ],
-    "zorluk": "orta",
-    "id": 84
-  },
-  {
-    "kategori": "noroloji",
-    "kelime": "felç geçirmek",
-    "aciklama": "beyin damarı tıkanması veya kanamasıyla vücut yarısının tutmaması",
-    "yasakli_kelimeler": [
-      "inme",
-      "tıkanma",
-      "kanama",
-      "hareketsizlik",
-      "damar"
-    ],
-    "zorluk": "orta",
-    "id": 85
-  },
-  {
-    "kategori": "noroloji",
-    "kelime": "uyuşmak",
-    "aciklama": "baskı gören veya hasarlanan duyusal sinir bölgesinde karıncalanma hissi",
-    "yasakli_kelimeler": [
-      "karıncalanma",
-      "hissizlik",
       "baskı",
-      "iğnelenme",
-      "bacak"
+      "bilek",
+      "boyun",
+      "ağrı",
+      "uyuşma"
     ],
-    "zorluk": "orta",
-    "id": 86
-  },
-  {
-    "kategori": "noroloji",
-    "kelime": "denge kaybetmek",
-    "aciklama": "beyincik veya iç kulak vestibüler sisteminin bozulmasıyla sendelemek",
-    "yasakli_kelimeler": [
-      "beyincik",
-      "vertigo",
-      "sendelemek",
-      "düşme",
-      "vestibüler"
-    ],
-    "zorluk": "orta",
-    "id": 87
-  },
-  {
-    "kategori": "noroloji",
-    "kelime": "komaya girmek",
-    "aciklama": "dış uyaranlara hiçbir yanıt vermeyen derin ve uzun bilinçsizlik evresi",
-    "yasakli_kelimeler": [
-      "derin bilinçsizlik",
-      "uyanmama",
-      "yoğun bakım",
-      "glasgow",
-      "uyaran"
-    ],
-    "zorluk": "orta",
-    "id": 88
-  },
-  {
-    "kategori": "noroloji",
-    "kelime": "konuşma yetisini yitirmek",
-    "aciklama": "beyindeki broca veya wernicke alanı hasarıyla afazi tablosuna girmek",
-    "yasakli_kelimeler": [
-      "afazi",
-      "broca",
-      "wernicke",
-      "lisan",
-      "anlayamama"
-    ],
-    "zorluk": "orta",
-    "id": 89
-  },
-  {
-    "kategori": "noroloji",
-    "kelime": "hafıza kaybı yaşamak",
-    "aciklama": "hipokampus hasarı sonucu geçmişi veya yakın zamanı hatırlayamamak",
-    "yasakli_kelimeler": [
-      "amnezi",
-      "hipokampus",
-      "yakın hafıza",
-      "anı",
-      "kayıp"
-    ],
-    "zorluk": "orta",
-    "id": 90
-  },
-  {
-    "kategori": "noroloji",
-    "kelime": "migren atağı yaşamak",
-    "aciklama": "ışık ve ses hassasiyetiyle tek taraflı şiddetli zonklayıcı.",
-    "yasakli_kelimeler": [
-      "fotofobi",
-      "aura",
-      "tek taraflı",
-      "zonklama",
-      "bulantı"
-    ],
-    "zorluk": "orta",
-    "id": 91
-  },
-  {
-    "kategori": "noroloji",
-    "kelime": "halüsinasyon görmek",
-    "aciklama": "dış ortamda olmayan ses veya görüntüleri beyinde gerçek gibi algılamak",
-    "yasakli_kelimeler": [
-      "sanrı",
-      "olmayan ses",
-      "görüntü",
-      "algı",
-      "hayal"
-    ],
-    "zorluk": "orta",
-    "id": 92
+    "zorluk": "kolay"
   }
 ]

@@ -3,7 +3,7 @@
     "id": 1,
     "kategori": "mikrobiyoloji",
     "kelime": "petri kabı",
-    "aciklama": "mikroorganizmaların katı besiyerlerinde kültürlenmesinde kullanılan düz, kapaklı sığ kap.",
+    "aciklama": "mikrop ve bakteri üretmekte kullanılan sığ cam kap",
     "yasakli_kelimeler": [
       "besiyeri",
       "agar",
@@ -17,7 +17,7 @@
     "id": 2,
     "kategori": "mikrobiyoloji",
     "kelime": "pastörizasyon",
-    "aciklama": "besinlerdeki zararlı mikroorganizmaları öldürmek için uygulanan ısıl işlem.",
+    "aciklama": "süt ve içecekleri mikroptan arındıran ısıl işlem",
     "yasakli_kelimeler": [
       "ısı",
       "süt",
@@ -31,7 +31,7 @@
     "id": 3,
     "kategori": "mikrobiyoloji",
     "kelime": "fermantasyon",
-    "aciklama": "mikroorganizmaların oksijensiz ortamda organik bileşikleri yıkarak enerji üretmesi süreci.",
+    "aciklama": "mayaların şekeri dönüştürdüğü doğal mayalanma süreci",
     "yasakli_kelimeler": [
       "mayalanma",
       "glikoliz",
@@ -39,13 +39,13 @@
       "laktik asit",
       "maya"
     ],
-    "zorluk": "kolay"
+    "zorluk": "orta"
   },
   {
     "id": 4,
     "kategori": "mikrobiyoloji",
     "kelime": "probiyotik",
-    "aciklama": "yeterli miktarda alındığında konakçının sağlığına yarar sağlayan canlı mikroorganizmalar.",
+    "aciklama": "bağırsak sağlığına iyi gelen yararlı canlı bakteri",
     "yasakli_kelimeler": [
       "yararlı",
       "yoğurt",
@@ -58,36 +58,8 @@
   {
     "id": 5,
     "kategori": "mikrobiyoloji",
-    "kelime": "prebiyotik",
-    "aciklama": "bağırsaktaki yararlı mikroorganizmaların çoğalmasını ve aktivitesini destekleyen sindirilemeyen lifler.",
-    "yasakli_kelimeler": [
-      "lif",
-      "besin",
-      "bağırsak",
-      "yararlı",
-      "bakteri"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 6,
-    "kategori": "mikrobiyoloji",
-    "kelime": "hepa filtre",
-    "aciklama": "protozoonlarda su dengesini koruyan ve fazla suyu atan organel.",
-    "yasakli_kelimeler": [
-      "filtre",
-      "hava",
-      "partikül",
-      "steril",
-      "verim"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 7,
-    "kategori": "mikrobiyoloji",
     "kelime": "elektron mikroskobu",
-    "aciklama": "kedi dışkısıyla bulaşabilen tek hücreli tehlikeli hücre içi paraziti.",
+    "aciklama": "virüsleri bile gösteren çok güçlü büyütme cihazı",
     "yasakli_kelimeler": [
       "elektron",
       "çözünürlük",
@@ -95,594 +67,384 @@
       "büyütme",
       "nano"
     ],
+    "zorluk": "zor"
+  },
+  {
+    "id": 6,
+    "kategori": "mikrobiyoloji",
+    "kelime": "bakteri",
+    "aciklama": "tek hücreli mikroskobik canlı mikroorganizma türü",
+    "yasakli_kelimeler": [
+      "prokaryot",
+      "mikrop",
+      "tek hücreli",
+      "enfeksiyon",
+      "antibiyotik"
+    ],
+    "zorluk": "kolay"
+  },
+  {
+    "id": 7,
+    "kategori": "mikrobiyoloji",
+    "kelime": "virüs",
+    "aciklama": "hücre içine yerleşip hastalık yapan mikroskobik parçacık",
+    "yasakli_kelimeler": [
+      "hücre",
+      "kapsit",
+      "grip",
+      "mikrop",
+      "konak"
+    ],
     "zorluk": "kolay"
   },
   {
     "id": 8,
     "kategori": "mikrobiyoloji",
-    "kelime": "bakteri",
-    "aciklama": "bir bakterinin dış ortamdan serbest dna parçasını alarak değişmesi.",
+    "kelime": "mantar",
+    "aciklama": "küf ve maya gibi türleri bulunan mikroorganizma",
     "yasakli_kelimeler": [
-      "prokaryot",
-      "mikrop",
-      "tek hücreli",
-      "enfeksiyon ajanı",
-      "antibiyotik hedefi"
+      "küf",
+      "maya",
+      "spor",
+      "nem",
+      "canlı"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 9,
     "kategori": "mikrobiyoloji",
-    "kelime": "virüs",
-    "aciklama": "bakteriyofajlar aracılığıyla bir bakteriden diğerine gen aktarımı süreci.",
+    "kelime": "amip",
+    "aciklama": "yalancı ayaklarıyla hareket eden tek hücreli canlı",
     "yasakli_kelimeler": [
-      "zorunlu hücre içi",
-      "kapsit dna rna",
-      "grip korona",
-      "mikrop",
-      "konak hücre"
+      "yalancı ayak",
+      "hücre",
+      "tatlı su",
+      "mikroskop",
+      "bölünme"
     ],
-    "zorluk": "kolay"
+    "zorluk": "orta"
   },
   {
     "id": 10,
     "kategori": "mikrobiyoloji",
-    "kelime": "mantar",
-    "aciklama": "iki bakteri arasında sitoplazmik köprüyle doğrudan genetik materyal aktarımı.",
+    "kelime": "maya",
+    "aciklama": "hamur ve içecekleri kabartıp fermente eden mikroorganizma",
     "yasakli_kelimeler": [
-      "fungus",
-      "küf maya",
-      "kitin duvar",
-      "spor",
-      "ökaryot mikroorganizma"
+      "ekmek",
+      "hamur",
+      "kabarma",
+      "mantar",
+      "fermantasyon"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 11,
     "kategori": "mikrobiyoloji",
-    "kelime": "amipler",
-    "aciklama": "yalancı ayaklarıyla hareket eden tek hücreli paraziter protozoon.",
+    "kelime": "küf",
+    "aciklama": "bayat ekmek ve peynir üzerinde üreyen mantar",
     "yasakli_kelimeler": [
-      "yalancı ayak",
-      "psödopod",
-      "şekilsiz hücre",
-      "dizanteri",
-      "fagositoz yapan"
+      "ekmek",
+      "peynir",
+      "yeşil",
+      "mantar",
+      "bozulma"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 12,
     "kategori": "mikrobiyoloji",
-    "kelime": "paramesyum",
-    "aciklama": "tümör oluşumuna ve kontrolsüz kanser hücresi çoğalmasına yol açan virüs.",
+    "kelime": "salmonella",
+    "aciklama": "çiğ tavuk ve yumurtadan bulaşan zehirli bakteri",
     "yasakli_kelimeler": [
-      "terliksi hayvan",
-      "siller",
-      "titrek tüy",
-      "tatlı su canlısı",
-      "kontraktil koful"
+      "tavuk",
+      "yumurta",
+      "zehirlenme",
+      "bakteri",
+      "bağırsak"
     ],
-    "zorluk": "kolay"
+    "zorluk": "orta"
   },
   {
     "id": 13,
     "kategori": "mikrobiyoloji",
-    "kelime": "öglena",
-    "aciklama": "kanda bakteri bulunması ve bakterilerin dolaşım sistemine yayılması durumu.",
+    "kelime": "hücre duvarı",
+    "aciklama": "bakteri ve bitki hücresini koruyan sert dış katman",
     "yasakli_kelimeler": [
-      "kamçılı hayvan",
-      "kloroplast",
-      "fotosentez yapan mikrop",
-      "göz lekesi",
-      "hem üretici hem tüketici"
+      "hücre",
+      "bitki",
+      "zar",
+      "koruma",
+      "katman"
     ],
-    "zorluk": "kolay"
+    "zorluk": "orta"
   },
   {
     "id": 14,
     "kategori": "mikrobiyoloji",
-    "kelime": "maya",
-    "aciklama": "fermantasyon ve kabartmada kullanılan tek hücreli mikroskobik mantar.",
+    "kelime": "hücre zarı",
+    "aciklama": "hücreyi çevreleyen seçici geçirgen canlı tabaka",
     "yasakli_kelimeler": [
-      "saccharomyces",
-      "tomurcuklanma",
-      "ekmek mayası",
-      "fermantasyon mantarı",
-      "tek hücreli mantar"
+      "hücre",
+      "seçici",
+      "geçirgen",
+      "sitoplazma",
+      "zar"
     ],
-    "zorluk": "kolay"
+    "zorluk": "orta"
   },
   {
     "id": 15,
     "kategori": "mikrobiyoloji",
-    "kelime": "küf",
-    "aciklama": "bakteri kolonilerinin besiyeri üzerinde oluşturduğu karakteristik kütlesel yapı.",
+    "kelime": "ribozom",
+    "aciklama": "hücrede protein sentezi yapan mikroskobik organel",
     "yasakli_kelimeler": [
-      "hif ağı",
-      "pamuksu tabaka",
-      "penicillium",
-      "ekmek küfü",
-      "sporlu mantar"
+      "protein",
+      "sentez",
+      "organel",
+      "hücre",
+      "amino asit"
     ],
-    "zorluk": "kolay"
+    "zorluk": "zor"
   },
   {
     "id": 16,
     "kategori": "mikrobiyoloji",
-    "kelime": "salmonella",
-    "aciklama": "besin bitmesiyle bakterilerin hızla öldüğü ve sayılarının azaldığı evre.",
+    "kelime": "mutasyon",
+    "aciklama": "genetik yapıda meydana gelen ani ve kalıcı değişiklik",
     "yasakli_kelimeler": [
-      "gıda zehirlenmesi",
-      "tavuk yumurta",
-      "tifo mikrobu",
-      "bağırsak enfeksiyonu",
-      "salmonelloz"
+      "gen",
+      "dna",
+      "değişim",
+      "radyasyon",
+      "hasar"
     ],
-    "zorluk": "kolay"
+    "zorluk": "orta"
   },
   {
     "id": 17,
     "kategori": "mikrobiyoloji",
-    "kelime": "hücre duvarı",
-    "aciklama": "örnekteki sadece canlı ve çoğalabilen bakteri sayısını tespit etme yöntemi.",
+    "kelime": "koloni",
+    "aciklama": "besiyerinde bir arada üreyen mikrop kümesi",
     "yasakli_kelimeler": [
-      "peptidoglikan katman",
-      "ozmotik patlama",
-      "rijit kılıf",
-      "hücre zarı dışı",
-      "şekil verici"
+      "bakteri",
+      "küme",
+      "petri",
+      "üreme",
+      "leke"
     ],
-    "zorluk": "kolay"
+    "zorluk": "orta"
   },
   {
     "id": 18,
     "kategori": "mikrobiyoloji",
-    "kelime": "hücre zarı",
-    "aciklama": "katı besiyerinde tek bir bakteriden üreyip çoğalan hücre kümesi.",
+    "kelime": "mikroskop",
+    "aciklama": "küçük canlıları mercekle büyütüp görmeyi sağlayan alet",
     "yasakli_kelimeler": [
-      "plazma zarı",
-      "fosfolipid tabaka",
-      "seçici geçirgen",
-      "zar taşıması",
-      "sitoplazma sınırı"
+      "büyüteç",
+      "mercek",
+      "laboratuvar",
+      "bakteri",
+      "incelemek"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 19,
     "kategori": "mikrobiyoloji",
-    "kelime": "ribozom",
-    "aciklama": "katı besiyeri yüzeyinde tek düşmüş koloniler elde etme tekniği.",
+    "kelime": "lam",
+    "aciklama": "mikroskopta incelenecek örneğin konulduğu dikdörtgen cam",
     "yasakli_kelimeler": [
-      "protein sentezi",
-      "70s büyüklük",
-      "mrna okuma",
-      "antibiyotik hedefi",
-      "protein fabrikası"
+      "cam",
+      "dikdörtgen",
+      "lamel",
+      "örnek",
+      "mikroskop"
     ],
-    "zorluk": "kolay"
+    "zorluk": "orta"
   },
   {
     "id": 20,
     "kategori": "mikrobiyoloji",
-    "kelime": "mutasyon",
-    "aciklama": "bakteri duvarındaki peptidoglikan bağlarını yıkarak parçalayan doğal enzim.",
+    "kelime": "lamel",
+    "aciklama": "lam üzerindeki örneği kapatmaya yarayan ince kare cam",
     "yasakli_kelimeler": [
-      "genetik değişim",
-      "dna hasarı",
-      "nükleotid değişimi",
-      "kalıcı değişim",
-      "direnç kazanma"
+      "cam",
+      "ince",
+      "kare",
+      "lam",
+      "mikroskop"
     ],
-    "zorluk": "kolay"
+    "zorluk": "orta"
   },
   {
     "id": 21,
     "kategori": "mikrobiyoloji",
-    "kelime": "koloni",
-    "aciklama": "bakterinin antibiyotiği kimyasal olarak parçalayarak etkisiz kıldığı biyolojik mekanizma.",
+    "kelime": "ikiye bölünme",
+    "aciklama": "bakterilerin hızla çoğalmasını sağlayan eşeysiz üreme",
     "yasakli_kelimeler": [
-      "bakteri kümesi",
-      "gözle görülen leke",
-      "petrideki nokta",
-      "klonal tepecik",
-      "kültür noktası"
+      "bakteri",
+      "üreme",
+      "çoğalma",
+      "hücre",
+      "bölünmek"
     ],
-    "zorluk": "kolay"
+    "zorluk": "orta"
   },
   {
     "id": 22,
     "kategori": "mikrobiyoloji",
-    "kelime": "mikroskop",
-    "aciklama": "bakteri üremesini engelleyen en düşük antibiyotik derişimi seviyesi.",
+    "kelime": "sterilizasyon",
+    "aciklama": "ortamdaki tüm canlı mikropları tamamen yok etme işlemi",
     "yasakli_kelimeler": [
-      "büyüteç aleti",
-      "mercek",
-      "oküler objektif",
-      "küçük canlıları görme",
-      "laboratuvar cihazı"
+      "mikrop",
+      "temizlik",
+      "otoklav",
+      "arındırma",
+      "yok etme"
     ],
-    "zorluk": "kolay"
+    "zorluk": "orta"
   },
   {
     "id": 23,
     "kategori": "mikrobiyoloji",
-    "kelime": "lam",
-    "aciklama": "üzerine incelenecek mikrop numunesinin damlatılıp boyandığı ince dikdörtgen mikroskop camı.",
+    "kelime": "dezenfeksiyon",
+    "aciklama": "cansız yüzeylerdeki hastalık yapıcı mikropları kimyasalla temizleme",
     "yasakli_kelimeler": [
-      "dikdörtgen cam",
-      "lamel altı",
-      "numune camı",
-      "mikroskop tablası",
-      "preparat camı"
+      "yüzey",
+      "temizlik",
+      "mikrop",
+      "kimyasal",
+      "arındırma"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 24,
     "kategori": "mikrobiyoloji",
-    "kelime": "lamel",
-    "aciklama": "bakteri hücresinde fotosentez veya solunum enzimlerini içeren iç kıvrım.",
+    "kelime": "dezenfektan",
+    "aciklama": "yüzeylerdeki mikropları öldüren kimyasal temizlik sıvısı",
     "yasakli_kelimeler": [
-      "örtü camı",
-      "ince kare cam",
-      "lam üstü",
-      "kapatma camı",
-      "hava kabarcığı önleme"
+      "temizlik",
+      "yüzey",
+      "çamaşır suyu",
+      "alkol",
+      "mikrop"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 25,
     "kategori": "mikrobiyoloji",
-    "kelime": "ikiye bölünme",
-    "aciklama": "erken durdurma kodonu oluşturarak proteini yarıda kesen mutasyon türü.",
+    "kelime": "antiseptik",
+    "aciklama": "canlı doku ve yaralardaki mikropları temizleyen solüsyon",
     "yasakli_kelimeler": [
-      "ikili fizyon",
-      "boğumlanma",
-      "eşeysiz üreme",
-      "mitoz benzeri",
-      "iki yavru hücre"
+      "yara",
+      "tentürdiyot",
+      "cilt",
+      "pansuman",
+      "mikrop"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 26,
     "kategori": "mikrobiyoloji",
-    "kelime": "sterilizasyon",
-    "aciklama": "kimyasal veya ısıyla öldürülmüş mikroorganizmalardan hazırlanan koruyucu aşı.",
+    "kelime": "enfeksiyon",
+    "aciklama": "mikropların vücuda girip iltihap ve hastalık oluşturması",
     "yasakli_kelimeler": [
-      "tüm mikropları öldürme",
-      "sporları yok etme",
-      "otoklav işlemi",
-      "mikropsuzlaştırma",
-      "mutlak temizlik"
+      "iltihap",
+      "mikrop",
+      "hastalık",
+      "bulaşma",
+      "ateş"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 27,
     "kategori": "mikrobiyoloji",
-    "kelime": "dezenfeksiyon",
-    "aciklama": "bakteri toksinlerinin zararsız hale getirilmesiyle üretilen bağışıklık aşısı.",
+    "kelime": "kuluçka süresi",
+    "aciklama": "mikrobun bulaşmasından hastalık belirtilerine kadar geçen süre",
     "yasakli_kelimeler": [
-      "cansız yüzey",
-      "çamaşır suyu",
-      "patojen öldürme",
-      "sterilizasyon farkı",
-      "kimyasal temizlik"
+      "süre",
+      "belirti",
+      "hastalık",
+      "mikrop",
+      "başlangıç"
     ],
-    "zorluk": "kolay"
+    "zorluk": "orta"
   },
   {
     "id": 28,
     "kategori": "mikrobiyoloji",
-    "kelime": "dezenfektan",
-    "aciklama": "mikroorganizmanın sadece belirli antijenik parçalarını içeren saflaştırılmış aşı.",
+    "kelime": "bulaşma yolu",
+    "aciklama": "hastalık mikrobunun birinden diğerine geçiş şekli",
     "yasakli_kelimeler": [
-      "yüzey temizleyici",
-      "çamaşır suyu alkol",
-      "cansız zemin kimyasalı",
-      "mikrop kırıcı",
-      "solüsyon"
+      "hastalık",
+      "temas",
+      "hava",
+      "damlacık",
+      "geçiş"
     ],
-    "zorluk": "kolay"
+    "zorluk": "orta"
   },
   {
     "id": 29,
     "kategori": "mikrobiyoloji",
-    "kelime": "antiseptik",
-    "aciklama": "bağışıklık yanıtını artırmak için aşıya eklenen yardımcı kimyasal madde.",
+    "kelime": "taşıyıcı",
+    "aciklama": "hastalığı kendisi yaşamadan başkalarına bulaştıran kimse",
     "yasakli_kelimeler": [
-      "canlı dokuya sürülen",
-      "tentürdiyot baticon",
-      "yara temizliği",
-      "el antiseptiği",
-      "cilt mikrop kırıcısı"
+      "bulaştırma",
+      "belirti",
+      "hasta",
+      "mikrop",
+      "portör"
     ],
-    "zorluk": "kolay"
+    "zorluk": "orta"
   },
   {
     "id": 30,
     "kategori": "mikrobiyoloji",
-    "kelime": "kaynatma",
-    "aciklama": "hücresel parçacıkların veya bakterilerin antikorlarla kümeleşip çökmesi olayı.",
+    "kelime": "kan kültürü",
+    "aciklama": "kanda mikrop olup olmadığını araştıran laboratuvar testi",
     "yasakli_kelimeler": [
-      "yüz derece",
-      "kaynar su",
-      "vejetatif mikrop",
-      "sporları öldürmeyen",
-      "ilkel dezenfeksiyon"
+      "kan",
+      "tahlil",
+      "laboratuvar",
+      "mikrop",
+      "üreme"
     ],
-    "zorluk": "kolay"
+    "zorluk": "zor"
   },
   {
     "id": 31,
     "kategori": "mikrobiyoloji",
-    "kelime": "enfeksiyon",
-    "aciklama": "hastalık etkenini vücudunda taşıyan fakat kendisi klinik belirti göstermeyen.",
+    "kelime": "boğaz kültürü",
+    "aciklama": "bademcik ve boğazdaki enfeksiyon mikrobunu belirleme testi",
     "yasakli_kelimeler": [
-      "bulaşma",
-      "iltihap kapma",
-      "patojen istilası",
-      "mikrop kapma",
-      "hastalık"
+      "boğaz",
+      "bademcik",
+      "pamuklu çubuk",
+      "beta",
+      "tahlil"
     ],
-    "zorluk": "kolay"
+    "zorluk": "orta"
   },
   {
     "id": 32,
     "kategori": "mikrobiyoloji",
-    "kelime": "kuluçka süresi",
-    "aciklama": "mikrobun girişinden ilk hastalık belirtilerine kadar geçen süre.",
-    "yasakli_kelimeler": [
-      "inkübasyon süresi",
-      "belirti öncesi",
-      "mikrobun yerleşmesi",
-      "sessiz dönem",
-      "hastalık başlangıcı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 33,
-    "kategori": "mikrobiyoloji",
-    "kelime": "bulaşma yolu",
-    "aciklama": "hastalıkların doğrudan temas veya hava yoluyla insandan insana bulaşması.",
-    "yasakli_kelimeler": [
-      "bulaş şekli",
-      "damlacık temas",
-      "enfeksiyon yolu",
-      "mikrop yayılımı",
-      "vektör"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 34,
-    "kategori": "mikrobiyoloji",
-    "kelime": "temas yolu",
-    "aciklama": "bulaşıcı hastalıkların öksürük ve hapşırık damlacıkları yoluyla havadan yayılması.",
-    "yasakli_kelimeler": [
-      "el teması",
-      "dokunarak bulaşma",
-      "yüzey teması",
-      "kapı kolları",
-      "direkt temas"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 35,
-    "kategori": "mikrobiyoloji",
-    "kelime": "taşıyıcı",
-    "aciklama": "bulaşıcı mikropları taşıyıp sağlıklı bireylere aktaran cansız nesne veya araç.",
-    "yasakli_kelimeler": [
-      "portör",
-      "belirtisiz hasta",
-      "asimptomatik",
-      "mikrop yayan",
-      "taşıyıcı kişi"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 36,
-    "kategori": "mikrobiyoloji",
-    "kelime": "flora",
-    "aciklama": "hastalık yapıcı mikroorganizmaları bir konaktan diğerine taşıyan canlı taşıyıcı.",
-    "yasakli_kelimeler": [
-      "normal mikrobiyota",
-      "bağırsak florası",
-      "doğal mikroplar",
-      "faydalı bakteri",
-      "vücut mikropları"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 37,
-    "kategori": "mikrobiyoloji",
-    "kelime": "kan kültürü",
-    "aciklama": "bağışıklık sistemi zayıflamış kişilerde gelişen fırsatçı mikrobiyal enfeksiyon türü.",
-    "yasakli_kelimeler": [
-      "hemokültür",
-      "kanda mikrop",
-      "sepsis testi",
-      "şişeye ekim",
-      "bakteriyemi testi"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 38,
-    "kategori": "mikrobiyoloji",
-    "kelime": "idrar kültürü",
-    "aciklama": "idrar yolu enfeksiyonu etkenini belirlemek için yapılan kültür.",
-    "yasakli_kelimeler": [
-      "idrar ekimi",
-      "sistit testi",
-      "koloni sayımı",
-      "idrar yolu mikrobu",
-      "antibiogram ortağı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 39,
-    "kategori": "mikrobiyoloji",
-    "kelime": "boğaz kültürü",
-    "aciklama": "mikroorganizmaların besin maddelerini enzimleriyle parçalayarak bozması ve çürütmesi.",
-    "yasakli_kelimeler": [
-      "boğaz sürüntüsü",
-      "bademcik ekimi",
-      "beta mikrobu",
-      "streptokok testi",
-      "pamuklu çubuk"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "kategori": "mikrobiyoloji",
-    "kelime": "üremek",
-    "aciklama": "bakterilerin besiyerinde bölünerek sayıca çoğalması",
-    "yasakli_kelimeler": [
-      "çoğalmak",
-      "bakteri",
-      "bölünmek",
-      "hücre",
-      "sayı"
-    ],
-    "zorluk": "kolay",
-    "id": 40
-  },
-  {
-    "kategori": "mikrobiyoloji",
     "kelime": "bulaşmak",
-    "aciklama": "mikrobun bir kişiden veya eşyadan diğerine geçmesi",
+    "aciklama": "mikrobun bir kişiden veya ortamdan diğerine geçmesi",
     "yasakli_kelimeler": [
-      "enfeksiyon",
+      "geçmek",
       "hasta",
       "temas",
-      "geçmek",
-      "mikrop"
-    ],
-    "zorluk": "kolay",
-    "id": 41
-  },
-  {
-    "kategori": "mikrobiyoloji",
-    "kelime": "incelemek",
-    "aciklama": "mikroskop altında mikroorganizmaları gözlemlemek",
-    "yasakli_kelimeler": [
-      "mikroskop",
-      "mercek",
-      "gözlem",
-      "bakteri",
-      "büyütmek"
-    ],
-    "zorluk": "kolay",
-    "id": 42
-  },
-  {
-    "kategori": "mikrobiyoloji",
-    "kelime": "mayalamak",
-    "aciklama": "maya mantarlarıyla hamur veya sütü fermente etmek",
-    "yasakli_kelimeler": [
-      "maya",
-      "yoğurt",
-      "hamur",
-      "fermantasyon",
-      "mantar"
-    ],
-    "zorluk": "kolay",
-    "id": 43
-  },
-  {
-    "kategori": "mikrobiyoloji",
-    "kelime": "steril etmek",
-    "aciklama": "ortamdaki tüm canlı mikropları ve sporları yok etmek",
-    "yasakli_kelimeler": [
-      "otoklav",
-      "arıtmak",
       "mikrop",
-      "temiz",
-      "yok etmek"
+      "salgın"
     ],
-    "zorluk": "kolay",
-    "id": 44
-  },
-  {
-    "kategori": "mikrobiyoloji",
-    "kelime": "dezenfekte etmek",
-    "aciklama": "cansız yüzeylerdeki hastalık yapıcı mikropları kimyasalla temizlemek",
-    "yasakli_kelimeler": [
-      "alkol",
-      "yüzey",
-      "çamaşır suyu",
-      "temizlik",
-      "mikrop"
-    ],
-    "zorluk": "kolay",
-    "id": 45
-  },
-  {
-    "kategori": "mikrobiyoloji",
-    "kelime": "küflenmek",
-    "aciklama": "nemli gıdalar üzerinde küf mantarı sporlarının kolonileşmesi",
-    "yasakli_kelimeler": [
-      "ekmek",
-      "mantar",
-      "spor",
-      "yeşil",
-      "bozulmak"
-    ],
-    "zorluk": "kolay",
-    "id": 46
-  },
-  {
-    "kategori": "mikrobiyoloji",
-    "kelime": "bölünmek",
-    "aciklama": "tek bir bakteri hücresinin ikiye ayrılarak çoğalması",
-    "yasakli_kelimeler": [
-      "ikiye",
-      "çoğalma",
-      "bakteri",
-      "hücre",
-      "fisyon"
-    ],
-    "zorluk": "kolay",
-    "id": 47
-  },
-  {
-    "kategori": "mikrobiyoloji",
-    "kelime": "pastörize etmek",
-    "aciklama": "sütü belirli sıcaklığa kadar ısıtıp hızla soğutarak patojenleri öldürmek",
-    "yasakli_kelimeler": [
-      "süt",
-      "ısıtma",
-      "patojen",
-      "soğutma",
-      "besin"
-    ],
-    "zorluk": "orta",
-    "id": 48
-  },
-  {
-    "kategori": "mikrobiyoloji",
-    "kelime": "direnç kazanmak",
-    "aciklama": "bakterilerin mutasyon veya plazmitle antibiyotiklerden etkilenmez olması",
-    "yasakli_kelimeler": [
-      "rezistans",
-      "antibiyotik",
-      "gen",
-      "mutasyon",
-      "etkisiz"
-    ],
-    "zorluk": "orta",
-    "id": 49
+    "zorluk": "kolay"
   }
 ]

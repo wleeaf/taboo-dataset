@@ -44,14 +44,14 @@
   {
     "id": 4,
     "kategori": "heykeltiraslik",
-    "kelime": "bust",
-    "aciklama": "insanın yalnızca baş, boyun ve omuzlarını betimleyen heykel türü.",
+    "kelime": "büst",
+    "aciklama": "insanın sadece baş, omuz ve göğüs kısmını betimleyen heykel.",
     "yasakli_kelimeler": [
-      "baş",
-      "göğüs",
       "portre",
+      "baş",
       "omuz",
-      "boyun"
+      "kaide",
+      "göğüs"
     ],
     "zorluk": "kolay"
   },
@@ -72,20 +72,6 @@
   {
     "id": 6,
     "kategori": "heykeltiraslik",
-    "kelime": "monolit",
-    "aciklama": "tek bir devasa kaya bloğunun oyulmasıyla yapılan anıt sütun.",
-    "yasakli_kelimeler": [
-      "tek parça",
-      "kaya",
-      "dikilitaş",
-      "blok",
-      "anıt"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 7,
-    "kategori": "heykeltiraslik",
     "kelime": "keski",
     "aciklama": "mermer ve ahşaba şekil veren yassı çelik alet.",
     "yasakli_kelimeler": [
@@ -98,7 +84,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 8,
+    "id": 7,
     "kategori": "heykeltiraslik",
     "kelime": "tokmak",
     "aciklama": "keski ve murçlara vurmak için kullanılan ahşap veya bronz tokmak.",
@@ -112,7 +98,7 @@
     "zorluk": "zor"
   },
   {
-    "id": 9,
+    "id": 8,
     "kategori": "heykeltiraslik",
     "kelime": "zımpara",
     "aciklama": "yontulan yüzeydeki çizikleri yok edip pürüzsüzleştiren aşındırıcı kağıt.",
@@ -126,7 +112,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 10,
+    "id": 9,
     "kategori": "heykeltiraslik",
     "kelime": "döküm kalıbı",
     "aciklama": "erimiş metal veya alçının içine döküldüğü negatif boşluklu kalıp.",
@@ -140,7 +126,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 11,
+    "id": 10,
     "kategori": "heykeltiraslik",
     "kelime": "silikon kalıp",
     "aciklama": "en ince detayları dahi esnekliğiyle hatasız kopyalayan kauçuk kalıp malzemesi.",
@@ -154,7 +140,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 12,
+    "id": 11,
     "kategori": "heykeltiraslik",
     "kelime": "sfinks",
     "aciklama": "aslan gövdeli insan başlı antik mısır koruyucu anıt heykeli.",
@@ -168,21 +154,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 13,
-    "kategori": "heykeltiraslik",
-    "kelime": "obelisk",
-    "aciklama": "yukarı doğru daralan piramit tepeli tek parça dikilitaş anıtı.",
-    "yasakli_kelimeler": [
-      "dikilitaş",
-      "mısır",
-      "piramit",
-      "güneş",
-      "granit"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 14,
+    "id": 12,
     "kategori": "heykeltiraslik",
     "kelime": "lahit",
     "aciklama": "ölülerin konulduğu mermer veya taştan oyulmuş süslü sanduka mezar.",
@@ -196,21 +168,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 15,
-    "kategori": "heykeltiraslik",
-    "kelime": "pieta",
-    "aciklama": "meryem ana'nın kucağındaki ölü i̇sa'yı tasvir eden hüzünlü heykel kompozisyonu.",
-    "yasakli_kelimeler": [
-      "meryem ana",
-      "isa",
-      "kucak",
-      "michelangelo",
-      "yas"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 16,
+    "id": 13,
     "kategori": "heykeltiraslik",
     "kelime": "davut heykeli",
     "aciklama": "michelangelo'nun floransa'da mermerden yonttuğu kusursuz anatomiye sahip başyapıt heykeli.",
@@ -224,7 +182,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 17,
+    "id": 14,
     "kategori": "heykeltiraslik",
     "kelime": "düşünen adam",
     "aciklama": "rodin'in düşüncelere dalmış çıplak adamı tasvir eden ünlü bronz heykeli.",
@@ -238,7 +196,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 18,
+    "id": 15,
     "kategori": "heykeltiraslik",
     "kelime": "milolu venüs",
     "aciklama": "louvre'da sergilenen kolları kırık ünlü helenistik afrodit mermer heykeli.",
@@ -252,7 +210,7 @@
     "zorluk": "zor"
   },
   {
-    "id": 19,
+    "id": 16,
     "kategori": "heykeltiraslik",
     "kelime": "zafer takı",
     "aciklama": "askeri zaferleri kutlamak için inşa edilen anıtsal kemerli kapı yapısı.",
@@ -266,7 +224,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 20,
+    "id": 17,
     "kategori": "heykeltiraslik",
     "kelime": "alçı döküm",
     "aciklama": "suyla karıştırılan alçının kalıba dökülerek dondurulmasıyla üretilen heykel.",
@@ -280,7 +238,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 21,
+    "id": 18,
     "kategori": "heykeltiraslik",
     "kelime": "kaide",
     "aciklama": "heykelin altına konularak onu yükselten taş veya mermer ayaklık kaide.",
@@ -294,7 +252,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 22,
+    "id": 19,
     "kategori": "heykeltiraslik",
     "kelime": "soyut heykel",
     "aciklama": "doğadaki nesneleri doğrudan taklit etmeyen biçim ve duygu heykeli.",
@@ -308,7 +266,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 23,
+    "id": 20,
     "kategori": "heykeltiraslik",
     "kelime": "taş oyma",
     "aciklama": "mermer, granit veya kireçtaşının murç ve keskiyle oyulması sanatı.",
@@ -322,7 +280,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 24,
+    "id": 21,
     "kategori": "heykeltiraslik",
     "kelime": "ahşap oyma",
     "aciklama": "ahşap kütüğün iskarpela ve tokmakla yontularak şekillendirilmesi zanaatı.",
@@ -336,7 +294,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 25,
+    "id": 22,
     "kategori": "heykeltiraslik",
     "kelime": "balmumu heykel",
     "aciklama": "gerçekçi insan figürlerinin balmumundan dökülüp boyandığı sergi heykeli.",
@@ -350,35 +308,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 26,
-    "kategori": "heykeltiraslik",
-    "kelime": "terracotta ordusu",
-    "aciklama": "çin imparatorunun mezarını koruyan binlerce pişmiş toprak asker heykeli.",
-    "yasakli_kelimeler": [
-      "çin",
-      "asker",
-      "pişmiş toprak",
-      "mezar",
-      "imparator"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 27,
-    "kategori": "heykeltiraslik",
-    "kelime": "rodin müzesi",
-    "aciklama": "ünlü heykeltıraş auguste rodin'in eserlerinin sergilendiği paris'teki müze.",
-    "yasakli_kelimeler": [
-      "paris",
-      "rodin",
-      "müze",
-      "fransa",
-      "düşünen adam"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 28,
+    "id": 23,
     "kategori": "heykeltiraslik",
     "kelime": "kil",
     "aciklama": "suyla yoğrulup kolayca şekillendirilen ve fırınlanan yumuşak toprak hammaddesi.",
@@ -392,7 +322,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 29,
+    "id": 24,
     "kategori": "heykeltiraslik",
     "kelime": "kireçtaşı",
     "aciklama": "kolay işlenebilen tortul kökenli gözenekli beyaz heykel taşı.",
@@ -406,7 +336,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 30,
+    "id": 25,
     "kategori": "heykeltiraslik",
     "kelime": "granit",
     "aciklama": "aşırı sert ve aşınmaya dayanıklı volkanik kökenli taneli kayaç.",
@@ -420,21 +350,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 31,
-    "kategori": "heykeltiraslik",
-    "kelime": "bazalt",
-    "aciklama": "siyah renkli sert ve yoğun volkanik heykel taşı türü.",
-    "yasakli_kelimeler": [
-      "siyah taş",
-      "volkanik",
-      "hitit kabartması",
-      "koyu renk",
-      "sert taş"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 32,
+    "id": 26,
     "kategori": "heykeltiraslik",
     "kelime": "traverten",
     "aciklama": "kalsiyum karbonat çökelmesiyle oluşan delikli sıcak su taşı kireçtaşı.",
@@ -448,7 +364,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 33,
+    "id": 27,
     "kategori": "heykeltiraslik",
     "kelime": "balmumu",
     "aciklama": "döküm modelleri ve hassas detaylar yapmakta kullanılan doğal mum.",
@@ -462,7 +378,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 34,
+    "id": 28,
     "kategori": "heykeltiraslik",
     "kelime": "buz heykeli",
     "aciklama": "şeffaf buz kütlelerinin testere ve keskilerle yontulduğu geçici heykel.",
@@ -476,7 +392,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 35,
+    "id": 29,
     "kategori": "heykeltiraslik",
     "kelime": "pergel",
     "aciklama": "modelin ölçülerini taşa veya kile orantılı aktaran ölçüm aleti.",
@@ -490,35 +406,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 36,
-    "kategori": "heykeltiraslik",
-    "kelime": "kabartma tekniği",
-    "aciklama": "düz zemin üzerindeki figürleri oyarak veya kabartarak öne çıkarma sanatı.",
-    "yasakli_kelimeler": [
-      "rölyef",
-      "duvar panosu",
-      "zeminden yükselen",
-      "yontu kabartması",
-      "düzlem üstü"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 37,
-    "kategori": "heykeltiraslik",
-    "kelime": "büst heykeli",
-    "aciklama": "insan başını ve göğsünü tasvir eden üç boyutlu heykel.",
-    "yasakli_kelimeler": [
-      "omuzdan yukarısı",
-      "portre heykeli",
-      "kafa ve boyun",
-      "kaideli baş",
-      "göğüs kısmı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 38,
+    "id": 30,
     "kategori": "heykeltiraslik",
     "kelime": "heykelcik",
     "aciklama": "küçük boyutlu masa ve vitrin üstü dekoratif heykel figürü.",
@@ -532,63 +420,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 39,
-    "kategori": "heykeltiraslik",
-    "kelime": "bahçe heykeli",
-    "aciklama": "bahçe ve yeşil alanlarda sergilenmek üzere tasarlanmış dış mekan heykeli.",
-    "yasakli_kelimeler": [
-      "park heykeli",
-      "peyzaj sanatı",
-      "açık hava heykeli",
-      "bahçe süsü",
-      "mermer figür"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 40,
-    "kategori": "heykeltiraslik",
-    "kelime": "mezar heykeli",
-    "aciklama": "anıt mezarların üzerine dikilen hüzünlü ve sembolik mermer mezar heykeli.",
-    "yasakli_kelimeler": [
-      "melek heykeli",
-      "kabir anıtı",
-      "yas tutan figür",
-      "mezarlık sanatı",
-      "ölüm simgesi"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 41,
-    "kategori": "heykeltiraslik",
-    "kelime": "mitolojik heykel",
-    "aciklama": "antik tanrıları, kahramanları ve efsaneleri konu alan heykel sanatı.",
-    "yasakli_kelimeler": [
-      "yunan mitolojisi",
-      "tanrı heykeli",
-      "zeus apollon",
-      "efsanevi kahraman",
-      "antik heykel"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 42,
-    "kategori": "heykeltiraslik",
-    "kelime": "hayvan heykeli",
-    "aciklama": "at veya aslan gibi canlıları tasvir eden heykel türü.",
-    "yasakli_kelimeler": [
-      "aslan heykeli",
-      "at heykeli",
-      "hayvan anatomisi",
-      "boğa",
-      "vahşi hayvan figürü"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 43,
+    "id": 31,
     "kategori": "heykeltiraslik",
     "kelime": "mask",
     "aciklama": "insan yüzünü kapatan veya duvara asılan üç boyutlu yüz kopyası.",
@@ -602,7 +434,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 44,
+    "id": 32,
     "kategori": "heykeltiraslik",
     "kelime": "ölüm maskı",
     "aciklama": "vefat eden kişinin yüzünden hemen sonra alınan alçı yüz kalıbı.",
@@ -616,7 +448,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 45,
+    "id": 33,
     "kategori": "heykeltiraslik",
     "kelime": "heykeltıraş",
     "aciklama": "taşa, kile ve metale şekil veren plastik sanatçısı.",
@@ -630,7 +462,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 46,
+    "id": 34,
     "kategori": "heykeltiraslik",
     "kelime": "heykel atölyesi",
     "aciklama": "heykeltıraşın aletleriyle çamur, taş ve kalıplar arasında çalıştığı mekan.",
@@ -655,7 +487,7 @@
       "figür"
     ],
     "zorluk": "kolay",
-    "id": 47
+    "id": 35
   },
   {
     "kategori": "heykeltiraslik",
@@ -669,7 +501,7 @@
       "şekil vermek"
     ],
     "zorluk": "kolay",
-    "id": 48
+    "id": 36
   },
   {
     "kategori": "heykeltiraslik",
@@ -683,7 +515,7 @@
       "düzeltmek"
     ],
     "zorluk": "kolay",
-    "id": 49
+    "id": 37
   },
   {
     "kategori": "heykeltiraslik",
@@ -697,34 +529,6 @@
       "toz"
     ],
     "zorluk": "kolay",
-    "id": 50
-  },
-  {
-    "kategori": "heykeltiraslik",
-    "kelime": "boyamak",
-    "aciklama": "pişmiş toprak veya ahşap heykelleri özel pigment boyalarla renklendirmek.",
-    "yasakli_kelimeler": [
-      "fırça",
-      "renk",
-      "akrilik",
-      "vernik",
-      "yüzey"
-    ],
-    "zorluk": "kolay",
-    "id": 51
-  },
-  {
-    "kategori": "heykeltiraslik",
-    "kelime": "atölyede çalışmak",
-    "aciklama": "toz, çamur ve aletler arasında heykel atölyesinde saatlerce çalışmak.",
-    "yasakli_kelimeler": [
-      "stüdyo",
-      "toz",
-      "önlük",
-      "üretim",
-      "aletler"
-    ],
-    "zorluk": "kolay",
-    "id": 52
+    "id": 38
   }
 ]

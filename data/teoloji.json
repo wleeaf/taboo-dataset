@@ -31,7 +31,7 @@
     "id": 3,
     "kategori": "teoloji",
     "kelime": "panteizm",
-    "aciklama": "evren ile tanrıyı bir ve özdeş kabul eden, her şeyin.",
+    "aciklama": "evren ile tanrıyı bir ve özdeş kabul eden öğreti.",
     "yasakli_kelimeler": [
       "tüm tanrıcılık",
       "doğa",
@@ -45,7 +45,7 @@
     "id": 4,
     "kategori": "teoloji",
     "kelime": "deizm",
-    "aciklama": "evreni bir tanrının yarattığını fakat vahiy veya mucizelerle ona müdahale.",
+    "aciklama": "tanrının evreni yarattığını ancak ona müdahale etmediğini savunan inanç.",
     "yasakli_kelimeler": [
       "yaratan",
       "müdahale",
@@ -59,7 +59,7 @@
     "id": 5,
     "kategori": "teoloji",
     "kelime": "agnostisizm",
-    "aciklama": "tanrının varlığının veya yokluğunun bilinemez ve kanıtlanamaz olduğunu öne süren.",
+    "aciklama": "tanrının varlığının veya yokluğunun bilinemez olduğunu savunan görüş.",
     "yasakli_kelimeler": [
       "bilinemezcilik",
       "şüphe",
@@ -73,7 +73,7 @@
     "id": 6,
     "kategori": "teoloji",
     "kelime": "ateizm",
-    "aciklama": "herhangi bir ilahi varlığın, yaratıcının veya tanrının varlığını reddeden düşünce.",
+    "aciklama": "herhangi bir yaratıcının veya tanrının varlığını reddeden düşünce.",
     "yasakli_kelimeler": [
       "tanrıtanımazlık",
       "inançsızlık",
@@ -87,7 +87,7 @@
     "id": 7,
     "kategori": "teoloji",
     "kelime": "teslis",
-    "aciklama": "hristiyan inancında tanrının baba, oğul ve kutsal ruh'tan oluşan üçlü.",
+    "aciklama": "hristiyan inancında baba oğul ve kutsal ruh üçlemesi.",
     "yasakli_kelimeler": [
       "üçleme",
       "baba",
@@ -101,7 +101,7 @@
     "id": 8,
     "kategori": "teoloji",
     "kelime": "vahiy",
-    "aciklama": "ilahi bir mesajın veya buyruğun tanrı tarafından peygamberlere bildirilmesi olgusu.",
+    "aciklama": "ilahi mesajların peygamberlere ulaştırılması olgusu.",
     "yasakli_kelimeler": [
       "peygamber",
       "mesaj",
@@ -114,64 +114,8 @@
   {
     "id": 9,
     "kategori": "teoloji",
-    "kelime": "nübüvvet",
-    "aciklama": "islam teolojisinde peygamberlik kurumunu ve elçilerin taşıdığı nitelikleri ifade eden.",
-    "yasakli_kelimeler": [
-      "peygamber",
-      "elçi",
-      "risalet",
-      "tebliğ",
-      "vahiy"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 10,
-    "kategori": "teoloji",
-    "kelime": "risalet",
-    "aciklama": "peygamberlerin ilahi emir ve yasakları insanlara tebliğ etme elçilik görevi.",
-    "yasakli_kelimeler": [
-      "elçilik",
-      "peygamber",
-      "tebliğ",
-      "kitap",
-      "görev"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 11,
-    "kategori": "teoloji",
-    "kelime": "kelam",
-    "aciklama": "islam dininin inanç esaslarını akli ve nakli delillerle savunan ilahiyat.",
-    "yasakli_kelimeler": [
-      "islam",
-      "inanç",
-      "akaid",
-      "delil",
-      "tartışma"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 12,
-    "kategori": "teoloji",
-    "kelime": "akaid",
-    "aciklama": "islam dininde şüphe duyulmaksızın inanılması gereken temel inanç esasları bütünü.",
-    "yasakli_kelimeler": [
-      "inanç",
-      "iman",
-      "esas",
-      "doktrin",
-      "islam"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 13,
-    "kategori": "teoloji",
     "kelime": "tevhid",
-    "aciklama": "islam inancında tanrının birliğini, benzersizliğini ve ortaksızlığını kabul etme esası.",
+    "aciklama": "islam inancında tanrının birliğini ve benzersizliğini kabul etme.",
     "yasakli_kelimeler": [
       "birlik",
       "allah",
@@ -182,10 +126,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 14,
+    "id": 10,
     "kategori": "teoloji",
     "kelime": "şirk",
-    "aciklama": "islam inancında allah'a ortak koşma veya ilahi sıfatları başka varlıklara.",
+    "aciklama": "allah'a ortak koşma veya ilahi sıfatları başkasına atfetme.",
     "yasakli_kelimeler": [
       "ortak koşmak",
       "tevhid",
@@ -196,10 +140,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 15,
+    "id": 11,
     "kategori": "teoloji",
     "kelime": "kader",
-    "aciklama": "tanrının evrende olacak her şeyi önceden bilmesi, takdir etmesi ve.",
+    "aciklama": "evrendeki tüm olayların önceden takdir edilmesi inancı.",
     "yasakli_kelimeler": [
       "alın yazısı",
       "takdir",
@@ -210,10 +154,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 16,
+    "id": 12,
     "kategori": "teoloji",
     "kelime": "kaza",
-    "aciklama": "tanrının ezeli bilgisiyle takdir ettiği olayların zamanı gelince gerçekleşmesi.",
+    "aciklama": "takdir edilen olayların zamanı gelince gerçekleşmesi durumu.",
     "yasakli_kelimeler": [
       "kader",
       "gerçekleşme",
@@ -224,38 +168,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 17,
-    "kategori": "teoloji",
-    "kelime": "maturidilik",
-    "aciklama": "iman-amel ayrımına ve aklın rolüne vurgu yapan hanefi kökenli kelam.",
-    "yasakli_kelimeler": [
-      "maturidi",
-      "akıl",
-      "kelam",
-      "sünni",
-      "hanefi"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 18,
-    "kategori": "teoloji",
-    "kelime": "selefilik",
-    "aciklama": "dini konularda tevil ve yoruma karşı çıkıp ilk dönem müslümanlarının.",
-    "yasakli_kelimeler": [
-      "selef",
-      "lafız",
-      "yorumsuz",
-      "tevil",
-      "gelenek"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 19,
+    "id": 13,
     "kategori": "teoloji",
     "kelime": "tasavvuf",
-    "aciklama": "islam'da nefsi arındırma, ahlakı güzelleştirme ve hakikate kalp ile ulaşma.",
+    "aciklama": "nefsi arındırarak ilahi aşka ve hakikate ulaşma yolu.",
     "yasakli_kelimeler": [
       "sufizm",
       "nefis",
@@ -266,24 +182,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 20,
-    "kategori": "teoloji",
-    "kelime": "vahdet-i vücud",
-    "aciklama": "varlığın tek olduğunu, yaratılmış her şeyin tanrının tecellisinden ibaret olduğunu.",
-    "yasakli_kelimeler": [
-      "varlık birliği",
-      "ibn arabi",
-      "tecelli",
-      "tasavvuf",
-      "birlik"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 21,
+    "id": 14,
     "kategori": "teoloji",
     "kelime": "gayb",
-    "aciklama": "insan aklı ve duyularıyla algılanamayan, yalnızca tanrının bildiği gizli alem.",
+    "aciklama": "insan duyularıyla bilinemeyen, yalnızca tanrının bildiği gizli alem.",
     "yasakli_kelimeler": [
       "bilinmeyen",
       "gizli alem",
@@ -294,24 +196,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 22,
-    "kategori": "teoloji",
-    "kelime": "berzah",
-    "aciklama": "ölüm ile kıyamet arasında ruhların beklediği geçiş ve kabir alemi.",
-    "yasakli_kelimeler": [
-      "kabir",
-      "ara alem",
-      "ölüm",
-      "kıyamet",
-      "bekleyiş"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 23,
+    "id": 15,
     "kategori": "teoloji",
     "kelime": "sirat",
-    "aciklama": "kıyamet gününde cehennemin üzerine kurulacağına inanılan kıldan ince kılıçtan keskin.",
+    "aciklama": "ahirette cehennem üzerine kurulacağına inanılan ince köprü.",
     "yasakli_kelimeler": [
       "köprü",
       "kıyamet",
@@ -322,10 +210,10 @@
     "zorluk": "orta"
   },
   {
-    "id": 24,
+    "id": 16,
     "kategori": "teoloji",
     "kelime": "mizan",
-    "aciklama": "ahirette insanların sevap ve günahlarının tartılacağına inanılan ilahi terazi.",
+    "aciklama": "ahirette günah ve sevapların tartıldığı ilahi terazi.",
     "yasakli_kelimeler": [
       "terazi",
       "tartı",
@@ -336,10 +224,10 @@
     "zorluk": "orta"
   },
   {
-    "id": 25,
+    "id": 17,
     "kategori": "teoloji",
     "kelime": "şefaat",
-    "aciklama": "ahirette peygamberlerin ve salih kişilerin günahkar müminlerin bağışlanması için tanrıya.",
+    "aciklama": "günahkarların bağışlanması için peygamberlerin aracılık etmesi inancı.",
     "yasakli_kelimeler": [
       "aracılık",
       "bağışlanma",
@@ -350,10 +238,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 26,
+    "id": 18,
     "kategori": "teoloji",
     "kelime": "mucize",
-    "aciklama": "peygamberlerin doğruluğunu kanıtlamak amacıyla tanrının izniyle sergilenen doğaüstü olay.",
+    "aciklama": "peygamberlerin peygamberliğini kanıtlamak için sergilenen olağanüstü olay.",
     "yasakli_kelimeler": [
       "peygamber",
       "olağanüstü",
@@ -364,10 +252,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 27,
+    "id": 19,
     "kategori": "teoloji",
     "kelime": "keramet",
-    "aciklama": "peygamber olmayan veli ve evliya kişilerden sadır olduğuna inanılan olağanüstü.",
+    "aciklama": "veli ve evliya kişilerden sadır olan olağanüstü hal.",
     "yasakli_kelimeler": [
       "veli",
       "olağanüstü",
@@ -378,10 +266,10 @@
     "zorluk": "orta"
   },
   {
-    "id": 28,
+    "id": 20,
     "kategori": "teoloji",
     "kelime": "taassup",
-    "aciklama": "inanca, fikre veya mezhebe delilsiz ve körü körüne aşırı bağlılık.",
+    "aciklama": "bir inanca veya düşünceye körü körüne aşırı bağlılık.",
     "yasakli_kelimeler": [
       "bağnazlık",
       "kör inanç",
@@ -392,10 +280,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 29,
+    "id": 21,
     "kategori": "teoloji",
     "kelime": "dogma",
-    "aciklama": "doğruluğu tartışmasız ve eleştiriye kapalı kabul edilen kesin dini inanç.",
+    "aciklama": "doğruluğu tartışmasız ve eleştiriye kapalı kabul edilen inanç.",
     "yasakli_kelimeler": [
       "nas",
       "tartışılmaz",
@@ -406,80 +294,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 30,
-    "kategori": "teoloji",
-    "kelime": "nas",
-    "aciklama": "kuran veya sünnet gibi dini ana metinlerde bulunan yoruma kapalı.",
-    "yasakli_kelimeler": [
-      "açık hüküm",
-      "ayet",
-      "hadis",
-      "metin",
-      "delil"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 31,
-    "kategori": "teoloji",
-    "kelime": "icma",
-    "aciklama": "islam alimlerinin belirli bir çağda dini bir meselenin hükmü üzerinde.",
-    "yasakli_kelimeler": [
-      "görüş birliği",
-      "alimler",
-      "fıkıh",
-      "kaynak",
-      "delil"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 32,
-    "kategori": "teoloji",
-    "kelime": "kıyas",
-    "aciklama": "hakkında hüküm bulunmayan bir meseleyi benzerliği nedeniyle hükmü bilinen meseleyle.",
-    "yasakli_kelimeler": [
-      "benzetme",
-      "akıl yürütme",
-      "fıkıh",
-      "hüküm",
-      "kaynak"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 33,
-    "kategori": "teoloji",
-    "kelime": "içtihat",
-    "aciklama": "islam hukukçusunun dini delillerden yeni hukuki ve ameli hükümler çıkarma.",
-    "yasakli_kelimeler": [
-      "fakih",
-      "hüküm",
-      "çaba",
-      "müçtehit",
-      "yorum"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 34,
-    "kategori": "teoloji",
-    "kelime": "müçtehit",
-    "aciklama": "dini kaynaklardan hüküm çıkarma bilgi ve yetkinliğine olan islam alimi.",
-    "yasakli_kelimeler": [
-      "alim",
-      "hüküm",
-      "içtihat",
-      "fetva",
-      "fıkıh"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 35,
+    "id": 22,
     "kategori": "teoloji",
     "kelime": "fetva",
-    "aciklama": "islam hukukunda dini bir soruya yetkili kişi veya kurum tarafından.",
+    "aciklama": "dini bir mesele hakkında yetkili makamın verdiği hüküm.",
     "yasakli_kelimeler": [
       "hüküm",
       "müftü",
@@ -490,10 +308,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 36,
+    "id": 23,
     "kategori": "teoloji",
     "kelime": "fıkıh",
-    "aciklama": "islam'ın ibadet, muamele ve cezalarla ilgili ameli hükümlerini inceleyen hukuk.",
+    "aciklama": "islam dininin ameli ve hukuki kurallarını inceleyen ilim.",
     "yasakli_kelimeler": [
       "hukuk",
       "ameli hüküm",
@@ -504,10 +322,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 37,
+    "id": 24,
     "kategori": "teoloji",
     "kelime": "şeriat",
-    "aciklama": "islam dininin kutsal kaynaklarına dayanan ilahi emir, yasak ve kurallar.",
+    "aciklama": "islam dininin kutsal kaynaklarına dayanan ilahi kurallar bütünü.",
     "yasakli_kelimeler": [
       "kural",
       "islam hukuku",
@@ -518,7 +336,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 38,
+    "id": 25,
     "kategori": "teoloji",
     "kelime": "tevrat",
     "aciklama": "yahudi kutsal metinler külliyatının temelini oluşturan, musa'ya vahyedildiğine inanılan kitap.",
@@ -532,7 +350,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 39,
+    "id": 26,
     "kategori": "teoloji",
     "kelime": "zebur",
     "aciklama": "davud peygambere indirildiğine inanılan ilahi dualar ve ezgiler içeren kutsal.",
@@ -546,7 +364,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 40,
+    "id": 27,
     "kategori": "teoloji",
     "kelime": "incil",
     "aciklama": "hristiyan kutsal metnini oluşturan ve isa mesih'in öğretilerini içeren müjdeli.",
@@ -560,24 +378,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 41,
-    "kategori": "teoloji",
-    "kelime": "konsil",
-    "aciklama": "tüm kiliseyi temsil eden piskoposların toplandığı evrensel teolojik karar meclisi.",
-    "yasakli_kelimeler": [
-      "sinod",
-      "iznik",
-      "toplantı",
-      "kilise",
-      "doktrin"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 42,
+    "id": 28,
     "kategori": "teoloji",
     "kelime": "vaftiz",
-    "aciklama": "hristiyanlıkta suya daldırılarak ilk günahın temizlenmesi ve dine kabul töreni.",
+    "aciklama": "hristiyanlıkta suya daldırılarak günahlardan arınma ve dine kabul.",
     "yasakli_kelimeler": [
       "su",
       "ilk günah",
@@ -588,10 +392,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 43,
+    "id": 29,
     "kategori": "teoloji",
     "kelime": "aforoz",
-    "aciklama": "dini otorite tarafından bir kimsenin kilise veya cemaat topluluğundan çıkarılıp.",
+    "aciklama": "bir kişinin kiliseden veya dini cemaatten çıkarılması cezası.",
     "yasakli_kelimeler": [
       "dinden çıkarma",
       "kilise",
@@ -602,10 +406,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 44,
+    "id": 30,
     "kategori": "teoloji",
     "kelime": "engizisyon",
-    "aciklama": "ortaçağ katolik kilisesinde sapkın sayılan inançları yargılamak için kurulan mahkeme.",
+    "aciklama": "ortaçağda sapkın sayılanları yargılayan katolik kilisesi mahkemesi.",
     "yasakli_kelimeler": [
       "mahkeme",
       "katolik",
@@ -616,10 +420,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 45,
+    "id": 31,
     "kategori": "teoloji",
     "kelime": "endüljans",
-    "aciklama": "katolik kilisesinde günahların cezasının para veya bağış karşılığında affedildiğini gösteren.",
+    "aciklama": "katolik kilisesinin para karşılığı günahları bağışlama belgesi.",
     "yasakli_kelimeler": [
       "af belgesi",
       "katolik",
@@ -630,7 +434,7 @@
     "zorluk": "zor"
   },
   {
-    "id": 46,
+    "id": 32,
     "kategori": "teoloji",
     "kelime": "reform",
     "aciklama": "16. yüzyılda martin luther öncülüğünde katolik kilisesine karşı başlatılan dini.",
@@ -644,24 +448,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 47,
-    "kategori": "teoloji",
-    "kelime": "kabala",
-    "aciklama": "yahudi mistisizmini ve kutsal metinlerin gizli anlamlarını inceleyen ezoterik gelenek.",
-    "yasakli_kelimeler": [
-      "yahudilik",
-      "mistisizm",
-      "ezoterik",
-      "yaşam ağacı",
-      "sefirot"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 48,
+    "id": 33,
     "kategori": "teoloji",
     "kelime": "cehennem",
-    "aciklama": "ilahi dinlerde günahkarların ve inkarcıların öldükten sonra ceza çekeceğine inanılan.",
+    "aciklama": "günahkarların öldükten sonra ceza çekeceği inanılan yer.",
     "yasakli_kelimeler": [
       "azap",
       "ateş",
@@ -672,10 +462,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 49,
+    "id": 34,
     "kategori": "teoloji",
     "kelime": "cennet",
-    "aciklama": "inanan ve iyilik yapanların öldükten sonra sonsuz mutluluk ve huzur.",
+    "aciklama": "iyilik yapanların öldükten sonra ödüllendirileceği sonsuz huzur yurdu.",
     "yasakli_kelimeler": [
       "ödül",
       "ebedi huzur",
@@ -686,52 +476,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 50,
-    "kategori": "teoloji",
-    "kelime": "arş",
-    "aciklama": "islam inancında tanrının kudret ve egemenliğini simgeleyen evrenin en yüce.",
-    "yasakli_kelimeler": [
-      "kürsi",
-      "taht",
-      "gök",
-      "allah",
-      "yücelik"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 51,
-    "kategori": "teoloji",
-    "kelime": "levh-i mahfuz",
-    "aciklama": "islam inancında evrende olmuş ve olacak her şeyin yazılı bulunduğu.",
-    "yasakli_kelimeler": [
-      "kader",
-      "korunan levha",
-      "yazgı",
-      "kitap",
-      "ezeli"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 52,
-    "kategori": "teoloji",
-    "kelime": "feyiz",
-    "aciklama": "tanrıdan kalbe akan manevi nur, ilham, aydınlanma ve manevi bereket.",
-    "yasakli_kelimeler": [
-      "ilham",
-      "nur",
-      "kalp",
-      "tasavvuf",
-      "maneviyat"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 53,
+    "id": 35,
     "kategori": "teoloji",
     "kelime": "ihlas",
-    "aciklama": "ibadetleri ve iyilikleri yalnızca allah rızası için, riyadan uzak samimiyetle.",
+    "aciklama": "ibadetleri yalnızca allah rızası için samimiyetle yapma.",
     "yasakli_kelimeler": [
       "samimiyet",
       "riya",
@@ -742,10 +490,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 54,
+    "id": 36,
     "kategori": "teoloji",
     "kelime": "riya",
-    "aciklama": "ibadet ve hayır işlerini başkalarına gösteriş yapmak ve övgü almak.",
+    "aciklama": "ibadet veya iyilikleri başkalarına gösteriş amacıyla yapma tutumu.",
     "yasakli_kelimeler": [
       "gösteriş",
       "iki yüzlülük",
@@ -756,10 +504,10 @@
     "zorluk": "orta"
   },
   {
-    "id": 55,
+    "id": 37,
     "kategori": "teoloji",
     "kelime": "takva",
-    "aciklama": "tanrıya karşı derin sevgi ve sorumluluk duyarak günahlardan titizlikle sakınma.",
+    "aciklama": "tanrı korkusu ve sevgisiyle günahlardan titizlikle sakınma hali.",
     "yasakli_kelimeler": [
       "sakınma",
       "sorumluluk",
@@ -770,10 +518,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 56,
+    "id": 38,
     "kategori": "teoloji",
     "kelime": "tevekkül",
-    "aciklama": "gerekli tüm çabayı gösterdikten sonra sonucu tanrıya bırakıp ona güvenme.",
+    "aciklama": "elinden geleni yaptıktan sonra sonucu tanrı'ya bırakma.",
     "yasakli_kelimeler": [
       "güven",
       "teslimiyet",
@@ -784,10 +532,10 @@
     "zorluk": "orta"
   },
   {
-    "id": 57,
+    "id": 39,
     "kategori": "teoloji",
     "kelime": "cihad",
-    "aciklama": "islam'da nefse karşı mücadele etmeyi veya dini değerleri korumak için.",
+    "aciklama": "islam uğrunda nefisle veya kötülükle mücadele etme gayreti.",
     "yasakli_kelimeler": [
       "mücadele",
       "gayret",
@@ -798,10 +546,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 58,
+    "id": 40,
     "kategori": "teoloji",
     "kelime": "fitne",
-    "aciklama": "toplumda ayrılık, kargaşa, dinden saptırma veya sınav anlamına gelen teolojik.",
+    "aciklama": "toplumda kargaşa ve ayrılık çıkarma durumu.",
     "yasakli_kelimeler": [
       "kargaşa",
       "ayrılık",
@@ -812,10 +560,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 59,
+    "id": 41,
     "kategori": "teoloji",
     "kelime": "nifak",
-    "aciklama": "içten inanmadığı halde dışarıdan müslüman gibi görünerek iki yüzlü davranma.",
+    "aciklama": "içten inanmadığı halde dıştan inanmış gibi görünme iki yüzlülüğü.",
     "yasakli_kelimeler": [
       "iki yüzlülük",
       "münafık",
@@ -826,35 +574,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 60,
-    "kategori": "teoloji",
-    "kelime": "küfür",
-    "aciklama": "dini inanç esaslarını reddetme, tanrının nimetlerini ve ayetlerini örtüp inkar.",
-    "yasakli_kelimeler": [
-      "inkar",
-      "kafir",
-      "iman",
-      "red",
-      "nankörlük"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 61,
-    "kategori": "teoloji",
-    "kelime": "dalalet",
-    "aciklama": "doğru yoldan ve hidayetten saparak inançta yanılgıya ve batıla düşme.",
-    "yasakli_kelimeler": [
-      "sapıklık",
-      "hidayet",
-      "yanılgı",
-      "batıl",
-      "sapma"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 62,
+    "id": 42,
     "kategori": "teoloji",
     "kelime": "tanrı",
     "aciklama": "evreni ve içindeki tüm varlıkları yaratan, her şeye gücü yeten.",
@@ -868,7 +588,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 63,
+    "id": 43,
     "kategori": "teoloji",
     "kelime": "yaratıcı",
     "aciklama": "yoktan var etme kudretine olan, bütün alemleri ve canlıları meydana.",
@@ -882,7 +602,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 64,
+    "id": 44,
     "kategori": "teoloji",
     "kelime": "yaratılış",
     "aciklama": "maddenin, zamanın ve canlıların bir yaratıcının iradesiyle yokluktan varlık alemine.",
@@ -896,21 +616,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 65,
-    "kategori": "teoloji",
-    "kelime": "ilahi sıfatlar",
-    "aciklama": "yaratıcının zatında bulunan ve zati ile subuti olarak ayrılan ilahi.",
-    "yasakli_kelimeler": [
-      "sıfatullah",
-      "zati sıfatlar",
-      "subuti sıfatlar",
-      "allah'ın vasıfları",
-      "kudret ilim irade"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 66,
+    "id": 45,
     "kategori": "teoloji",
     "kelime": "kudret",
     "aciklama": "yaratıcının her şeye gücünün yetmesi, dilediği her şeyi dilediği an.",
@@ -924,7 +630,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 67,
+    "id": 46,
     "kategori": "teoloji",
     "kelime": "melek",
     "aciklama": "nurdan yaratılmış, günah işlemeyen, yemeyen içmeyen ve ilahi emirleri yerine.",
@@ -938,10 +644,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 68,
+    "id": 47,
     "kategori": "teoloji",
     "kelime": "cebrail",
-    "aciklama": "peygamberlere vahiy getirmekle görevli, dört büyük melekten vahiy meleği olan.",
+    "aciklama": "peygamberlere vahiy getirmekle görevli, dört büyük melekten vahiy meleği.",
     "yasakli_kelimeler": [
       "vahiy meleği",
       "dört büyük melek",
@@ -952,7 +658,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 69,
+    "id": 48,
     "kategori": "teoloji",
     "kelime": "mikail",
     "aciklama": "doğa olaylarını, rüzgarı, yağmuru ve canlıların rızıklarını idare etmekle görevli.",
@@ -966,7 +672,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 70,
+    "id": 49,
     "kategori": "teoloji",
     "kelime": "israfil",
     "aciklama": "kıyamet koptuğunda ve mahşerde yeniden diriliş başladığında sur borusuna üfleyecek.",
@@ -980,7 +686,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 71,
+    "id": 50,
     "kategori": "teoloji",
     "kelime": "azrail",
     "aciklama": "ömrü biten insanların ruhunu bedenlerinden teslim almakla görevli ölüm meleği.",
@@ -994,7 +700,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 72,
+    "id": 51,
     "kategori": "teoloji",
     "kelime": "münker nekir",
     "aciklama": "kabre konulan ölüye rabbin kim, dinin ne, peygamberin kim sorularını.",
@@ -1008,7 +714,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 73,
+    "id": 52,
     "kategori": "teoloji",
     "kelime": "kiramen katibin",
     "aciklama": "insanın sağında ve solunda durarak işlediği tüm sevapları ve günahları.",
@@ -1022,10 +728,10 @@
     "zorluk": "orta"
   },
   {
-    "id": 74,
+    "id": 53,
     "kategori": "teoloji",
     "kelime": "ahiret",
-    "aciklama": "dünya hayatı sona erdikten sonra başlayacak olan ve insanların amellerine.",
+    "aciklama": "ölümden sonra başlayacak olan ebedi ahir hayat.",
     "yasakli_kelimeler": [
       "öte dünya",
       "ebedi hayat",
@@ -1036,10 +742,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 75,
+    "id": 54,
     "kategori": "teoloji",
     "kelime": "kıyamet",
-    "aciklama": "evrenin düzeninin bozulup tüm canlıların öleceği ve ardından mahşerde dirilişin.",
+    "aciklama": "evrendeki düzenin bozulup tüm canlıların öleceği büyük gün.",
     "yasakli_kelimeler": [
       "dünyanın sonu",
       "sur üflenmesi",
@@ -1050,7 +756,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 76,
+    "id": 55,
     "kategori": "teoloji",
     "kelime": "yeniden dirilme",
     "aciklama": "israfil'in ikinci kez sura üflemesiyle çürümüş bedenlerin kabirlerinden canlanıp ayağa.",
@@ -1064,10 +770,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 77,
+    "id": 56,
     "kategori": "teoloji",
     "kelime": "haşir",
-    "aciklama": "kıyametten sonra diriltilen tüm insanların hesap vermek üzere mahşer meydanında.",
+    "aciklama": "kıyametten sonra insanların hesap vermek üzere toplanması.",
     "yasakli_kelimeler": [
       "toplanma",
       "mahşere sevk",
@@ -1078,10 +784,10 @@
     "zorluk": "orta"
   },
   {
-    "id": 78,
+    "id": 57,
     "kategori": "teoloji",
     "kelime": "mahşer",
-    "aciklama": "yeniden dirilen milyarlarca insanın ilahi divanda sorgulanmak üzere bir araya.",
+    "aciklama": "ahirette insanların hesap için toplanacağı büyük meydan.",
     "yasakli_kelimeler": [
       "mahşer meydanı",
       "toplanma yeri",
@@ -1092,10 +798,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 79,
+    "id": 58,
     "kategori": "teoloji",
     "kelime": "hesap günü",
-    "aciklama": "herkesin dünyada yaptığı iyilik ve kötülüklerin hesabını yaratıcıya bizzat vereceği.",
+    "aciklama": "insanların amellerinin karşılığını göreceği büyük adalet günü.",
     "yasakli_kelimeler": [
       "yevmüddin",
       "kıyamet hesabı",
@@ -1106,10 +812,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 80,
+    "id": 59,
     "kategori": "teoloji",
     "kelime": "amel defteri",
-    "aciklama": "insanın ömrü boyunca yaptığı en ufak sevap ve günahın meleklerce.",
+    "aciklama": "insanın ömrü boyunca yaptığı iyi ve kötü kayıtları.",
     "yasakli_kelimeler": [
       "sevap günah kaydı",
       "sağdan soldan verilen",
@@ -1120,7 +826,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 81,
+    "id": 60,
     "kategori": "teoloji",
     "kelime": "kevser",
     "aciklama": "cennette müminlerin suyundan içerek ebediyen susuzluklarını giderecekleri peygambere bahşedilen kutsal.",
@@ -1134,7 +840,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 82,
+    "id": 61,
     "kategori": "teoloji",
     "kelime": "araf",
     "aciklama": "sevapları ile günahları birbirine eşit olanların cennet ile cehennem arasında.",
@@ -1148,10 +854,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 83,
+    "id": 62,
     "kategori": "teoloji",
     "kelime": "kutsal kitap",
-    "aciklama": "yaratıcı tarafından insanlara rehber ve hidayet olması için peygamberler ile.",
+    "aciklama": "yaratıcı tarafından insanlara rehber ve hidayet olması için peygamberler.",
     "yasakli_kelimeler": [
       "ilahi kitap",
       "semavi kitap",
@@ -1162,21 +868,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 84,
-    "kategori": "teoloji",
-    "kelime": "suhuf",
-    "aciklama": "adem, şit, idris ve ibrahim gibi bazı peygamberlere gönderilen küçük.",
-    "yasakli_kelimeler": [
-      "sayfalar",
-      "kutsal sahifeler",
-      "peygamber sayfaları",
-      "ibrahim'in sayfaları",
-      "küçük kitapçık"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 85,
+    "id": 63,
     "kategori": "teoloji",
     "kelime": "kuran-ı kerim",
     "aciklama": "son peygambere arapça olarak vahyedilen ve hiçbir harfi bozulmadan günümüze.",
@@ -1190,10 +882,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 86,
+    "id": 64,
     "kategori": "teoloji",
     "kelime": "peygamber",
-    "aciklama": "yaratıcının mesajlarını, emir ve yasaklarını insanlara tebliğ etmek üzere seçtiği.",
+    "aciklama": "tanrı'nın emirlerini insanlara bildirmekle görevlendirdiği elçi.",
     "yasakli_kelimeler": [
       "nebi",
       "resul",
@@ -1204,10 +896,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 87,
+    "id": 65,
     "kategori": "teoloji",
     "kelime": "ibadet",
-    "aciklama": "kulların yaratıcıya duydukları saygı, şükür ve itaati göstermek için belirlediği.",
+    "aciklama": "kulların yaratıcıya saygı ve itaatini gösteren dini görevler.",
     "yasakli_kelimeler": [
       "kulluk görevi",
       "namaz oruç zekat",
@@ -1218,7 +910,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 88,
+    "id": 66,
     "kategori": "teoloji",
     "kelime": "namaz",
     "aciklama": "günde beş vakit kıbleye dönerek rüku ve secdeyle ifa edilen.",
@@ -1232,7 +924,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 89,
+    "id": 67,
     "kategori": "teoloji",
     "kelime": "oruç",
     "aciklama": "ramazan ayında imsak vaktinden akşam iftar vaktine kadar yemek, içmek.",
@@ -1246,10 +938,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 90,
+    "id": 68,
     "kategori": "teoloji",
     "kelime": "zekat",
-    "aciklama": "dinen zengin sayılan müminlerin mallarının kırkta birini her yıl yoksullara.",
+    "aciklama": "dinen zengin sayılanların yılda bir yoksullara verdiği pay.",
     "yasakli_kelimeler": [
       "kırkta bir",
       "mali yardım",
@@ -1260,10 +952,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 91,
+    "id": 69,
     "kategori": "teoloji",
     "kelime": "hac",
-    "aciklama": "gücü yeten müminlerin zilhicce ayında ihrama girip kabe'yi tavaf ve.",
+    "aciklama": "gücü yeten müminlerin zilhicce ayında ihrama girip kabe'yi tavaf.",
     "yasakli_kelimeler": [
       "kabe tavafı",
       "mekke ziyareti",
@@ -1274,7 +966,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 92,
+    "id": 70,
     "kategori": "teoloji",
     "kelime": "kurban",
     "aciklama": "yaratıcıya yakınlaşmak ve rızasını kazanmak amacıyla bayram günlerinde belirli şartlardaki.",
@@ -1288,10 +980,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 93,
+    "id": 71,
     "kategori": "teoloji",
     "kelime": "sadaka",
-    "aciklama": "maddi bir sınırlama olmaksızın sırf allah rızası için yoksullara yapılan.",
+    "aciklama": "allah rızası için yoksullara gönülden verilen maddi yardım.",
     "yasakli_kelimeler": [
       "gönüllü bağış",
       "yardım etme",
@@ -1302,7 +994,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 94,
+    "id": 72,
     "kategori": "teoloji",
     "kelime": "dua",
     "aciklama": "kulun acizliğini kabul ederek yaratıcıya halini arz etmesi, istekte bulunması.",
@@ -1316,7 +1008,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 95,
+    "id": 73,
     "kategori": "teoloji",
     "kelime": "zikir",
     "aciklama": "yaratıcının isimlerini ve yüceliğini dille veya kalple sürekli anıp zihinde.",
@@ -1330,7 +1022,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 96,
+    "id": 74,
     "kategori": "teoloji",
     "kelime": "tövbe",
     "aciklama": "işlenen bir günah veya hatadan dolayı pişmanlık duyup yaratıcıdan af.",
@@ -1344,24 +1036,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 97,
-    "kategori": "teoloji",
-    "kelime": "istiğfar",
-    "aciklama": "estagfirullah diyerek yaratıcının sonsuz mağfiretine sığınma ve günahların örtülmesini isteme.",
-    "yasakli_kelimeler": [
-      "estağfirullah",
-      "bağışlanma isteme",
-      "tövbe sözü",
-      "mağfiret dileği",
-      "günah affı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 98,
+    "id": 75,
     "kategori": "teoloji",
     "kelime": "helal",
-    "aciklama": "dinen yapılmasına, yenmesine veya içilmesine izin verilmiş olan meşru ve.",
+    "aciklama": "dinen yapılmasına, yenmesine veya içilmesine izin verilmiş olan meşru.",
     "yasakli_kelimeler": [
       "haram zıddı",
       "dinen serbest",
@@ -1372,7 +1050,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 99,
+    "id": 76,
     "kategori": "teoloji",
     "kelime": "haram",
     "aciklama": "dinde kesin delillerle yapılması ve tüketilmesi kesinlikle yasaklanmış olan kötü.",
@@ -1386,7 +1064,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 100,
+    "id": 77,
     "kategori": "teoloji",
     "kelime": "mekruh",
     "aciklama": "kesin olarak yasaklanmamakla birlikte yapılması hoş karşılanmayan ve terk edilmesi.",
@@ -1400,21 +1078,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 101,
-    "kategori": "teoloji",
-    "kelime": "mübah",
-    "aciklama": "yapılmasında veya terk edilmesinde dini açıdan hiçbir sevap veya günah.",
-    "yasakli_kelimeler": [
-      "serbest fiil",
-      "nötr eylem",
-      "caiz",
-      "sevapsız günahsız",
-      "helal daire"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 102,
+    "id": 78,
     "kategori": "teoloji",
     "kelime": "farz",
     "aciklama": "dinin açık ve kesin delillerle yapılmasını zorunlu kıldığı, terk edilmesi.",
@@ -1428,7 +1092,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 103,
+    "id": 79,
     "kategori": "teoloji",
     "kelime": "vacip",
     "aciklama": "farz kadar kesin delille sabit olmamakla birlikte yapılması emredilen vitir.",
@@ -1442,7 +1106,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 104,
+    "id": 80,
     "kategori": "teoloji",
     "kelime": "sünnet",
     "aciklama": "peygamberin sözleri, davranışları ve sahabelerin güzel hareketlerini onaylamasından oluşan yaşam.",
@@ -1456,21 +1120,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 105,
-    "kategori": "teoloji",
-    "kelime": "ehl-i sünnet",
-    "aciklama": "kuran ve peygamberin sünnetine bağlı sahabelerin yolunu izleyen en büyük.",
-    "yasakli_kelimeler": [
-      "sünnilik",
-      "ana akım islam",
-      "sünni cemaat",
-      "maturidi eşari",
-      "şia karşıtı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 106,
+    "id": 81,
     "kategori": "teoloji",
     "kelime": "şia",
     "aciklama": "peygamberden sonra hilafet ve imametin hazreti ali ve onun soyuna.",
@@ -1484,38 +1134,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 107,
-    "kategori": "teoloji",
-    "kelime": "caferilik",
-    "aciklama": "on iki imam inancını benimseyen ve fıkıhta cafer-i sadık'ın ictihatlarını.",
-    "yasakli_kelimeler": [
-      "on iki imam",
-      "şii fıkhı",
-      "cafer-i sadık",
-      "iran mezhebi",
-      "imamiye"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 108,
-    "kategori": "teoloji",
-    "kelime": "vahhabilik",
-    "aciklama": "muhammed bin abdulvehhab'ın önderliğinde türbeleri ve tevili reddeden selefi kökenli.",
-    "yasakli_kelimeler": [
-      "suudi arabistan akımı",
-      "abdulvehhab",
-      "türbe karşıtlığı",
-      "katı selefizm",
-      "bidat avcısı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 109,
+    "id": 82,
     "kategori": "teoloji",
     "kelime": "hanefilik",
-    "aciklama": "ebu hanife'nin akılcı ve kıyasa dayalı metodolojisiyle şekillenen türkiye ve.",
+    "aciklama": "ebu hanife'nin akılcı ve kıyasa dayalı metodolojisiyle şekillenen türkiye.",
     "yasakli_kelimeler": [
       "ebu hanife",
       "imam azam",
@@ -1526,7 +1148,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 110,
+    "id": 83,
     "kategori": "teoloji",
     "kelime": "şafilik",
     "aciklama": "imam şafii'nin kurallarıyla kurulan ve hadislere sıkı bağlılığıyla bilinen dört.",
@@ -1540,35 +1162,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 111,
-    "kategori": "teoloji",
-    "kelime": "malikilik",
-    "aciklama": "imam malik'in medine halkının amellerini ve yaşayışını esas alarak geliştirdiği.",
-    "yasakli_kelimeler": [
-      "imam malik",
-      "medine halkı ameli",
-      "muvatta",
-      "kuzey afrika mezhebi",
-      "dört mezhep"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 112,
-    "kategori": "teoloji",
-    "kelime": "hanbelilik",
-    "aciklama": "ahmed bin hanbel'in felsefe ve kelama karşı sadece ayet ve.",
-    "yasakli_kelimeler": [
-      "ahmed bin hanbel",
-      "hadis temelli mezhep",
-      "selefe bağlılık",
-      "körfez ülkeleri mezhebi",
-      "dört sünni mezhep"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 113,
+    "id": 84,
     "kategori": "teoloji",
     "kelime": "hristiyanlık",
     "aciklama": "hazreti isa'nın öğretilerine ve teslis inancına dayanan, incil'i kutsal kitap.",
@@ -1582,10 +1176,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 114,
+    "id": 85,
     "kategori": "teoloji",
     "kelime": "yahudilik",
-    "aciklama": "hazreti musa'ya verilen on emir ve tevrat'a dayanan, israiloğullarının en.",
+    "aciklama": "hazreti musa'ya verilen on emir ve tevrat'a dayanan, israiloğullarının.",
     "yasakli_kelimeler": [
       "musevilik",
       "tevrat",
@@ -1596,7 +1190,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 115,
+    "id": 86,
     "kategori": "teoloji",
     "kelime": "islamiyet",
     "aciklama": "hazreti muhammed ile tebliğ edilen, kuran'a dayalı tek tanrılı son.",
@@ -1610,7 +1204,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 116,
+    "id": 87,
     "kategori": "teoloji",
     "kelime": "budizm",
     "aciklama": "siddhartha gautama'nın aydınlanmasıyla başlayan, arzulardan arınarak nirvanaya ulaşmayı hedefleyen öğreti.",
@@ -1624,7 +1218,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 117,
+    "id": 88,
     "kategori": "teoloji",
     "kelime": "hinduizm",
     "aciklama": "hindistan kökenli, kast sistemi ve karma yasasına dayanan çok tanrılı.",
@@ -1638,21 +1232,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 118,
-    "kategori": "teoloji",
-    "kelime": "zerdüştlük",
-    "aciklama": "eski iran'da iyilik tanrısı ahura mazda ile kötülük gücü ehrimen.",
-    "yasakli_kelimeler": [
-      "mecusilik",
-      "ahura mazda",
-      "ateşgede",
-      "avesta",
-      "iyi ile kötünün savaşı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 119,
+    "id": 89,
     "kategori": "teoloji",
     "kelime": "şamanizm",
     "aciklama": "eski türkler ve sibirya halklarında şaman veya kam denilen büyücü.",
@@ -1666,63 +1246,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 120,
-    "kategori": "teoloji",
-    "kelime": "animizm",
-    "aciklama": "doğadaki tüm dağların, nehirlerin, ağaçların ve taşların canlı bir ruha.",
-    "yasakli_kelimeler": [
-      "canlıcılık",
-      "doğa ruhları",
-      "ağaç taş ruhu",
-      "ilkel din",
-      "ruh inancı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 121,
-    "kategori": "teoloji",
-    "kelime": "tek tanrıcılık",
-    "aciklama": "evrenin yönetimini ve yaratılışını sadece tek bir yaratıcıya atfeden monoteist.",
-    "yasakli_kelimeler": [
-      "monoteizm türkçesi",
-      "tevhid inancı",
-      "tek yaratıcı",
-      "çok tanrıcılık zıddı",
-      "ilahın birliği"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 122,
-    "kategori": "teoloji",
-    "kelime": "din felsefesi",
-    "aciklama": "dini inançları, tanrı kavramını, vahyi ve mucizeleri akılcı ve eleştirel.",
-    "yasakli_kelimeler": [
-      "tanrı felsefesi",
-      "dinin akılla sorgulanması",
-      "inanç felsefesi",
-      "rasyonel teoloji",
-      "felsefi teoloji"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 123,
-    "kategori": "teoloji",
-    "kelime": "kötülük problemi",
-    "aciklama": "tanrı mutlak kudret ve merhamet sahibi ise dünyadaki acı, savaş.",
-    "yasakli_kelimeler": [
-      "teodise sorunu",
-      "dünyadaki acılar",
-      "masumların ıstırabı",
-      "tanrı neden izin veriyor",
-      "felsefi açmaz"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 124,
+    "id": 90,
     "kategori": "teoloji",
     "kelime": "ilahi adalet",
     "aciklama": "dünyada yapılan hiçbir kötülüğün cezasız ve hiçbir iyiliğin karşılıksız kalmayacağı.",
@@ -1736,7 +1260,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 125,
+    "id": 91,
     "kategori": "teoloji",
     "kelime": "özgür irade",
     "aciklama": "insanın günah veya sevap işlerken kendi seçimlerini hiçbir zorlama olmadan.",
@@ -1750,7 +1274,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 126,
+    "id": 92,
     "kategori": "teoloji",
     "kelime": "determinizm",
     "aciklama": "her olayın ve insan eyleminin önceden belirlenmiş nedenler ve yasalarca.",
@@ -1764,24 +1288,10 @@
     "zorluk": "orta"
   },
   {
-    "id": 127,
-    "kategori": "teoloji",
-    "kelime": "kader inancı",
-    "aciklama": "evrende meydana gelecek her şeyin ilahi ilim ve takdir ile.",
-    "yasakli_kelimeler": [
-      "imanın şartı",
-      "alın yazısı",
-      "kader ve kaza",
-      "ezeli takdir",
-      "ilahi plan"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 128,
+    "id": 93,
     "kategori": "teoloji",
     "kelime": "kutsal",
-    "aciklama": "dini açıdan saygı uyandıran, dokunulmaz, yüce ve ilahi alana ait.",
+    "aciklama": "dini yönden saygı duyulan ve dokunulmaz kabul edilen.",
     "yasakli_kelimeler": [
       "mukaddes",
       "profan zıddı",
@@ -1792,7 +1302,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 129,
+    "id": 94,
     "kategori": "teoloji",
     "kelime": "dindarlık",
     "aciklama": "bireyin benimsediği dinin inanç, ahlak ve ibadet kurallarına samimiyetle bağlanıp.",
@@ -1806,10 +1316,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 130,
+    "id": 95,
     "kategori": "teoloji",
     "kelime": "sekülerizm",
-    "aciklama": "toplumun, hukukun ve kamusal hayatın dini otorite ve kurallardan bağımsızlaşması.",
+    "aciklama": "toplumsal ve hukuki hayatın din kurallarından bağımsızlaşması.",
     "yasakli_kelimeler": [
       "dünyevileşme",
       "laikleşme süreci",
@@ -1820,10 +1330,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 131,
+    "id": 96,
     "kategori": "teoloji",
     "kelime": "laiklik",
-    "aciklama": "din ve devlet işlerinin birbirinden ayrılması, devletin tüm inançlara eşit.",
+    "aciklama": "din ve devlet işlerinin birbirinden ayrılması ilkesi.",
     "yasakli_kelimeler": [
       "din devlet ayrılığı",
       "inanç özgürlüğü",
@@ -1834,21 +1344,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 132,
-    "kategori": "teoloji",
-    "kelime": "fundamentalizm",
-    "aciklama": "kutsal metinlerin ilk ve en katı lafzi anlamına dönülmesini savunan.",
-    "yasakli_kelimeler": [
-      "köktendincilik",
-      "katı muhafazakarlık",
-      "lafzi yorum",
-      "modernizm karşıtı",
-      "radikal dindarlık"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 133,
+    "id": 97,
     "kategori": "teoloji",
     "kelime": "mezhep çatışması",
     "aciklama": "aynı dine inanan farklı fıkhi veya itikadi grupların tarih boyunca.",
@@ -1862,48 +1358,6 @@
     "zorluk": "kolay"
   },
   {
-    "id": 134,
-    "kategori": "teoloji",
-    "kelime": "dinler diyaloğu",
-    "aciklama": "farklı dünya dinlerinin temsilcilerinin barış ve ortak insani değerler etrafında.",
-    "yasakli_kelimeler": [
-      "dinler arası barış",
-      "karşılıklı hoşgörü",
-      "ortak payda",
-      "din temsilcileri toplantısı",
-      "diyalog çabası"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "kategori": "teoloji",
-    "kelime": "dua etmek",
-    "aciklama": "yaratıcıya veya kutsal kabul edilen varlığa yalvarmak ve dilekte bulunmak.",
-    "yasakli_kelimeler": [
-      "tanrı",
-      "yalvarmak",
-      "dilek",
-      "ibadet",
-      "eller"
-    ],
-    "zorluk": "kolay",
-    "id": 135
-  },
-  {
-    "kategori": "teoloji",
-    "kelime": "i̇badet etmek",
-    "aciklama": "dini buyruk ve ritüelleri yerine getirerek kulluk görevini ifa etmek.",
-    "yasakli_kelimeler": [
-      "din",
-      "kulluk",
-      "görev",
-      "namaz",
-      "ayin"
-    ],
-    "zorluk": "kolay",
-    "id": 136
-  },
-  {
     "kategori": "teoloji",
     "kelime": "inanmak",
     "aciklama": "bir dinin, tanrının veya dogmanın varlığını şüphesiz kabul etmek.",
@@ -1915,7 +1369,7 @@
       "güven"
     ],
     "zorluk": "kolay",
-    "id": 137
+    "id": 98
   },
   {
     "kategori": "teoloji",
@@ -1929,35 +1383,7 @@
       "dua"
     ],
     "zorluk": "kolay",
-    "id": 138
-  },
-  {
-    "kategori": "teoloji",
-    "kelime": "tövbe etmek",
-    "aciklama": "i̇şlenen bir günahtan pişman olup tanrıdan af dilemek.",
-    "yasakli_kelimeler": [
-      "günah",
-      "pişmanlık",
-      "af",
-      "bağışlanma",
-      "dilemek"
-    ],
-    "zorluk": "kolay",
-    "id": 139
-  },
-  {
-    "kategori": "teoloji",
-    "kelime": "oruç tutmak",
-    "aciklama": "dini bir buyruk gereği belirli saatlerde yeme ve içmeden uzak.",
-    "yasakli_kelimeler": [
-      "yemek",
-      "içmek",
-      "ramazan",
-      "aç",
-      "ibadet"
-    ],
-    "zorluk": "kolay",
-    "id": 140
+    "id": 99
   },
   {
     "kategori": "teoloji",
@@ -1971,21 +1397,7 @@
       "iyilik"
     ],
     "zorluk": "kolay",
-    "id": 141
-  },
-  {
-    "kategori": "teoloji",
-    "kelime": "kurban kesmek",
-    "aciklama": "dini bir adak veya bayram ritüeli olarak hayvan boğazlamak.",
-    "yasakli_kelimeler": [
-      "bayram",
-      "hayvan",
-      "adak",
-      "kesim",
-      "ibadet"
-    ],
-    "zorluk": "kolay",
-    "id": 142
+    "id": 100
   },
   {
     "kategori": "teoloji",
@@ -1999,21 +1411,7 @@
       "din"
     ],
     "zorluk": "kolay",
-    "id": 143
-  },
-  {
-    "kategori": "teoloji",
-    "kelime": "hacca gitmek",
-    "aciklama": "dini bir görevi yerine getirmek amacıyla kutsal mekânları ziyaret etmek.",
-    "yasakli_kelimeler": [
-      "mekke",
-      "kutsal",
-      "ziyaret",
-      "ibadet",
-      "kabe"
-    ],
-    "zorluk": "kolay",
-    "id": 144
+    "id": 101
   },
   {
     "kategori": "teoloji",
@@ -2027,63 +1425,7 @@
       "nasihat"
     ],
     "zorluk": "kolay",
-    "id": 145
-  },
-  {
-    "kategori": "teoloji",
-    "kelime": "vahiy almak",
-    "aciklama": "tanrı tarafından peygamberlere ilahi buyruk ve mesajların bildirilmesi.",
-    "yasakli_kelimeler": [
-      "peygamber",
-      "ilahi",
-      "mesaj",
-      "cebrail",
-      "tanrı"
-    ],
-    "zorluk": "orta",
-    "id": 146
-  },
-  {
-    "kategori": "teoloji",
-    "kelime": "aforoz etmek",
-    "aciklama": "bir kişiyi dini cemaatten veya kiliseden resmi olarak ihraç etmek.",
-    "yasakli_kelimeler": [
-      "kilise",
-      "cemaat",
-      "ihraç",
-      "çıkarma",
-      "papa"
-    ],
-    "zorluk": "orta",
-    "id": 147
-  },
-  {
-    "kategori": "teoloji",
-    "kelime": "vaftiz etmek",
-    "aciklama": "hristiyanlıkta suya batırma veya su serpme ile ilk günahı temizleyip.",
-    "yasakli_kelimeler": [
-      "su",
-      "hristiyanlık",
-      "kilise",
-      "bebek",
-      "rahip"
-    ],
-    "zorluk": "orta",
-    "id": 148
-  },
-  {
-    "kategori": "teoloji",
-    "kelime": "fetva vermek",
-    "aciklama": "dini bir mesele veya hüküm hakkında yetkili din bilgininin görüş.",
-    "yasakli_kelimeler": [
-      "müftü",
-      "hüküm",
-      "görüş",
-      "diyanet",
-      "caiz"
-    ],
-    "zorluk": "orta",
-    "id": 149
+    "id": 102
   },
   {
     "kategori": "teoloji",
@@ -2097,21 +1439,7 @@
       "kural"
     ],
     "zorluk": "orta",
-    "id": 150
-  },
-  {
-    "kategori": "teoloji",
-    "kelime": "günah i̇tiraf etmek",
-    "aciklama": "katoliklikte rahibin huzurunda işlediği günahları dile getirip af talep etmek.",
-    "yasakli_kelimeler": [
-      "rahip",
-      "katolik",
-      "hücre",
-      "itiraf",
-      "bağışlanma"
-    ],
-    "zorluk": "orta",
-    "id": 151
+    "id": 103
   },
   {
     "kategori": "teoloji",
@@ -2125,7 +1453,7 @@
       "yerine getirmek"
     ],
     "zorluk": "orta",
-    "id": 152
+    "id": 104
   },
   {
     "kategori": "teoloji",
@@ -2139,6 +1467,6 @@
       "ibadet"
     ],
     "zorluk": "orta",
-    "id": 153
+    "id": 105
   }
 ]

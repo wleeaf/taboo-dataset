@@ -3,7 +3,7 @@
     "id": 1,
     "kategori": "algoritmalar",
     "kelime": "ikili arama",
-    "aciklama": "sıralı dizide hedef elemanı yarıya bölerek bulan algoritma.",
+    "aciklama": "sıralı diziyi ortadan bölerek hedefi hızla bulan algoritma.",
     "yasakli_kelimeler": [
       "sıralı",
       "dizi",
@@ -44,22 +44,8 @@
   {
     "id": 4,
     "kategori": "algoritmalar",
-    "kelime": "böl ve yönet",
-    "aciklama": "algoritmanın en kötü durumdaki azami karmaşıklık üst sınırı.",
-    "yasakli_kelimeler": [
-      "parçalama",
-      "birleştirme",
-      "alt problem",
-      "özyineleme",
-      "çözüm"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 5,
-    "kategori": "algoritmalar",
-    "kelime": "gezgin satıcı problemi",
-    "aciklama": "elemanların öncelik sırasına göre işlem gördüğü kuyruk yapısı.",
+    "kelime": "gezgin satıcı",
+    "aciklama": "tüm şehirleri dolaşıp en kısa rotadan dönmeyi hedefleyen problem.",
     "yasakli_kelimeler": [
       "tsp",
       "tur",
@@ -70,10 +56,10 @@
     "zorluk": "zor"
   },
   {
-    "id": 6,
+    "id": 5,
     "kategori": "algoritmalar",
     "kelime": "ikili ağaç",
-    "aciklama": "düğümleri kırmızı ve siyah renklerle dengelenen ikili arama ağacı.",
+    "aciklama": "her düğümün en fazla iki alt dala ayrıldığı veri yapısı.",
     "yasakli_kelimeler": [
       "kök",
       "yaprak",
@@ -84,10 +70,10 @@
     "zorluk": "orta"
   },
   {
-    "id": 7,
+    "id": 6,
     "kategori": "algoritmalar",
     "kelime": "öklid algoritması",
-    "aciklama": "tüm şehirleri gezip en kısa yoldan dönmeyi amaçlayan problem.",
+    "aciklama": "iki sayının en büyük ortak bölenini bulan klasik yöntem.",
     "yasakli_kelimeler": [
       "ebob",
       "bölme",
@@ -98,10 +84,10 @@
     "zorluk": "orta"
   },
   {
-    "id": 8,
+    "id": 7,
     "kategori": "algoritmalar",
-    "kelime": "monte carlo algoritması",
-    "aciklama": "çizgede kaynaktan hedefe iletilebilecek en yüksek akış miktarı.",
+    "kelime": "monte carlo",
+    "aciklama": "rastgele sayılar üreterek karmaşık problemleri yaklaşık çözen algoritma.",
     "yasakli_kelimeler": [
       "rastgele",
       "olasılık",
@@ -112,10 +98,10 @@
     "zorluk": "orta"
   },
   {
-    "id": 9,
+    "id": 8,
     "kategori": "algoritmalar",
     "kelime": "genetik algoritma",
-    "aciklama": "çizgedeki azami akış miktarının asgari kesit kapasitesine eşit olması.",
+    "aciklama": "doğal seçilim ve evrim mekanizmasını taklit eden arama yöntemi.",
     "yasakli_kelimeler": [
       "evrim",
       "kromozom",
@@ -126,10 +112,10 @@
     "zorluk": "orta"
   },
   {
-    "id": 10,
+    "id": 9,
     "kategori": "algoritmalar",
     "kelime": "karar ağacı",
-    "aciklama": "rastgele katmanlarla logaritmik arama sağlayan bağlı liste yapısı.",
+    "aciklama": "kararları ve olası sonuçları ağaç dalları şeklinde modelleyen yapı.",
     "yasakli_kelimeler": [
       "ağaç",
       "kök",
@@ -140,10 +126,10 @@
     "zorluk": "zor"
   },
   {
-    "id": 11,
+    "id": 10,
     "kategori": "algoritmalar",
     "kelime": "pagerank",
-    "aciklama": "her zaman kesin doğru sonuç veren rastgele çalışma süreli algoritma.",
+    "aciklama": "web sayfalarının önemini bağlantı sayısına göre sıralayan algoritma.",
     "yasakli_kelimeler": [
       "google",
       "web",
@@ -154,10 +140,10 @@
     "zorluk": "zor"
   },
   {
-    "id": 12,
+    "id": 11,
     "kategori": "algoritmalar",
-    "kelime": "palindrom kontrolü",
-    "aciklama": "karıncaların feromon izi bırakma davranışını taklit eden rota algoritması.",
+    "kelime": "palindrom",
+    "aciklama": "baştan ve sondan okunuşu aynı olan kelime veya dizi.",
     "yasakli_kelimeler": [
       "ters",
       "düz",
@@ -168,10 +154,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 13,
+    "id": 12,
     "kategori": "algoritmalar",
     "kelime": "asal çarpanlar",
-    "aciklama": "yoğunluk temelli ve gürültüye dayanıklı uzamsal kümeleme algoritması.",
+    "aciklama": "bir tam sayıyı kalansız bölen asal sayıların tamamı.",
     "yasakli_kelimeler": [
       "bölme",
       "sayı",
@@ -182,10 +168,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 14,
+    "id": 13,
     "kategori": "algoritmalar",
     "kelime": "matris çarpımı",
-    "aciklama": "bir veri kümesindeki düzensizlik ve rastgelelik miktarının matematiksel ölçüsü.",
+    "aciklama": "satır ve sütun elemanlarının karşılıklı çarpımıyla yapılan matematiksel işlem.",
     "yasakli_kelimeler": [
       "satır",
       "sütun",
@@ -196,10 +182,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 15,
+    "id": 14,
     "kategori": "algoritmalar",
     "kelime": "dijital imza",
-    "aciklama": "asimetrik şifreleme ve dijital imza sağlayan klasik algoritma.",
+    "aciklama": "verinin kimden geldiğini ve bozulmadığını doğrulayan elektronik şifreleme.",
     "yasakli_kelimeler": [
       "doğrulama",
       "mühür",
@@ -208,131 +194,5 @@
       "imza"
     ],
     "zorluk": "kolay"
-  },
-  {
-    "kategori": "algoritmalar",
-    "kelime": "sıralamak",
-    "aciklama": "bir problemin girdi boyutunu yarıya bölerek çözümlerini birleştirme stratejisi.",
-    "yasakli_kelimeler": [
-      "dizi",
-      "küçükten büyüğe",
-      "quick",
-      "merge",
-      "bubble"
-    ],
-    "zorluk": "kolay",
-    "id": 16
-  },
-  {
-    "kategori": "algoritmalar",
-    "kelime": "arama yapmak",
-    "aciklama": "çözüm uzayını tüm seçenekleri deneyerek tüketen kaba kuvvet yaklaşımı.",
-    "yasakli_kelimeler": [
-      "binary",
-      "linear",
-      "bulmak",
-      "anahtar",
-      "liste"
-    ],
-    "zorluk": "kolay",
-    "id": 17
-  },
-  {
-    "kategori": "algoritmalar",
-    "kelime": "kod yazmak",
-    "aciklama": "arama uzayını belirli genişlik sınırı içinde tutan sezgisel yöntem.",
-    "yasakli_kelimeler": [
-      "program",
-      "yazılım",
-      "dil",
-      "satır",
-      "metin"
-    ],
-    "zorluk": "kolay",
-    "id": 18
-  },
-  {
-    "kategori": "algoritmalar",
-    "kelime": "hata ayıklamak",
-    "aciklama": "ardışık tekrar eden karakterleri sayı ve karakterle sıkıştıran yöntem.",
-    "yasakli_kelimeler": [
-      "debug",
-      "bug",
-      "hata",
-      "çözmek",
-      "kod"
-    ],
-    "zorluk": "kolay",
-    "id": 19
-  },
-  {
-    "kategori": "algoritmalar",
-    "kelime": "döngüye sokmak",
-    "aciklama": "metindeki tekrar eden sözcükleri bir sözlük tablosu kurarak sıkıştıran algoritma.",
-    "yasakli_kelimeler": [
-      "for",
-      "while",
-      "tekrar",
-      "sonsuz",
-      "sayaç"
-    ],
-    "zorluk": "kolay",
-    "id": 20
-  },
-  {
-    "kategori": "algoritmalar",
-    "kelime": "veri saklamak",
-    "aciklama": "burrows-wheeler çıktısını sıkıştırmak için sembolleri en öne taşıyan algoritma.",
-    "yasakli_kelimeler": [
-      "depolama",
-      "bellek",
-      "kayıt",
-      "hafıza",
-      "dosya"
-    ],
-    "zorluk": "kolay",
-    "id": 21
-  },
-  {
-    "kategori": "algoritmalar",
-    "kelime": "çıktı üretmek",
-    "aciklama": "sembolleri olasılıklarına göre sıfır-bir aralığında tek kesirle kodlama.",
-    "yasakli_kelimeler": [
-      "print",
-      "ekran",
-      "sonuç",
-      "yazdırmak",
-      "return"
-    ],
-    "zorluk": "kolay",
-    "id": 22
-  },
-  {
-    "kategori": "algoritmalar",
-    "kelime": "girdi almak",
-    "aciklama": "cd ve qr kodlarda veri kayıplarını düzelten hata kodu.",
-    "yasakli_kelimeler": [
-      "input",
-      "klavye",
-      "okumak",
-      "veri",
-      "kullanıcı"
-    ],
-    "zorluk": "kolay",
-    "id": 23
-  },
-  {
-    "kategori": "algoritmalar",
-    "kelime": "bellek ayırmak",
-    "aciklama": "veri paketinin bozulup bozulmadığını polinom bölmesiyle denetleyen hata kontrol kodu.",
-    "yasakli_kelimeler": [
-      "ram",
-      "hafıza",
-      "malloc",
-      "tahsis",
-      "alan"
-    ],
-    "zorluk": "orta",
-    "id": 24
   }
 ]

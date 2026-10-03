@@ -16,20 +16,6 @@
   {
     "id": 2,
     "kategori": "iktisat",
-    "kelime": "esneklik",
-    "aciklama": "bir değişkenin diğerindeki değişime gösterdiği duyarlılık derecesi",
-    "yasakli_kelimeler": [
-      "elastisite",
-      "talep esnekliği",
-      "fiyat duyarlılığı",
-      "tepki",
-      "katsayı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 3,
-    "kategori": "iktisat",
     "kelime": "monopol",
     "aciklama": "yakın ikamesi bulunmayan bir mal veya hizmetin üretim ve satışının",
     "yasakli_kelimeler": [
@@ -42,7 +28,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 4,
+    "id": 3,
     "kategori": "iktisat",
     "kelime": "oligopol",
     "aciklama": "piyasanın birbirlerinin fiyat ve üretim kararlarından güçlü biçimde etkilenen az",
@@ -56,35 +42,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 5,
-    "kategori": "iktisat",
-    "kelime": "gayrisafi yurtiçi hasıla",
-    "aciklama": "bir ülkede belirli dönemde üretilen nihai malların değeri",
-    "yasakli_kelimeler": [
-      "gsyh",
-      "milli gelir",
-      "nihai mal",
-      "katma değer",
-      "makroekonomi"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 6,
-    "kategori": "iktisat",
-    "kelime": "gayrisafi milli hasıla",
-    "aciklama": "ülke vatandaşlarının ürettiği toplam nihai mal ve hizmet değeri",
-    "yasakli_kelimeler": [
-      "gsmh",
-      "yurtdışı faktör geliri",
-      "gsyh farkı",
-      "milli gelir",
-      "vatandaş"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 7,
+    "id": 4,
     "kategori": "iktisat",
     "kelime": "enflasyon",
     "aciklama": "fiyatlar genel düzeyinin sürekli ve hissedilir biçimde yükselmesi",
@@ -98,7 +56,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 8,
+    "id": 5,
     "kategori": "iktisat",
     "kelime": "deflasyon",
     "aciklama": "fiyatlar genel düzeyinin sürekli ve belirgin biçimde düşmesi",
@@ -112,7 +70,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 9,
+    "id": 6,
     "kategori": "iktisat",
     "kelime": "stagflasyon",
     "aciklama": "ekonomik durgunluk ile yüksek enflasyonun bir arada yaşanması",
@@ -126,7 +84,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 10,
+    "id": 7,
     "kategori": "iktisat",
     "kelime": "para arzı",
     "aciklama": "belirli bir anda ekonomide dolaşımda bulunan nakit para ile bankalardaki",
@@ -140,7 +98,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 11,
+    "id": 8,
     "kategori": "iktisat",
     "kelime": "politika faizi",
     "aciklama": "merkez bankasının bir haftalık repo işlemlerinde uyguladığı faiz",
@@ -154,7 +112,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 12,
+    "id": 9,
     "kategori": "iktisat",
     "kelime": "maliye politikası",
     "aciklama": "hükümetin kamu harcamaları ve vergi politikalarını yönetmesi",
@@ -168,7 +126,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 13,
+    "id": 10,
     "kategori": "iktisat",
     "kelime": "para politikası",
     "aciklama": "merkez bankasının para arzı ve faizleri yönetmesi",
@@ -182,21 +140,21 @@
     "zorluk": "kolay"
   },
   {
-    "id": 14,
+    "id": 11,
     "kategori": "iktisat",
-    "kelime": "satın alma gücü",
-    "aciklama": "aynı mal ve hizmet sepetini farklı ülkelerde satın alabilme yeteneğini",
+    "kelime": "alım gücü",
+    "aciklama": "paranın mal ve hizmet satın alabilme kapasitesi",
     "yasakli_kelimeler": [
-      "parite",
-      "sepet",
+      "para",
       "enflasyon",
-      "reel kur",
-      "big mac"
+      "maaş",
+      "fiyat",
+      "satın almak"
     ],
     "zorluk": "zor"
   },
   {
-    "id": 15,
+    "id": 12,
     "kategori": "iktisat",
     "kelime": "arbitraj",
     "aciklama": "aynı varlığın farklı piyasalardaki fiyat farkından risksiz kazanç sağlama",
@@ -210,7 +168,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 16,
+    "id": 13,
     "kategori": "iktisat",
     "kelime": "spekülasyon",
     "aciklama": "fiyat değişimlerinden yüksek kar elde etmek amacıyla risk alma",
@@ -224,7 +182,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 17,
+    "id": 14,
     "kategori": "iktisat",
     "kelime": "görünmez el",
     "aciklama": "bireylerin kendi kişisel çıkarlarını maksimize etme çabalarının piyasa mekanizmasıyla toplumsal",
@@ -238,63 +196,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 18,
-    "kategori": "iktisat",
-    "kelime": "klasik iktisat",
-    "aciklama": "say kanunu, tam istihdam varsayımı, görünmez el ve devletin piyasaya",
-    "yasakli_kelimeler": [
-      "adam smith",
-      "ricardo",
-      "bırakınız yapsınlar",
-      "say yasası",
-      "tam istihdam"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 19,
-    "kategori": "iktisat",
-    "kelime": "ölçek ekonomileri",
-    "aciklama": "üretim ölçeği büyüdükçe uzun dönemli ortalama maliyetlerin düşmesi ve firmanın",
-    "yasakli_kelimeler": [
-      "içsel ölçek",
-      "dışsal ölçek",
-      "ortalama maliyet düşüşü",
-      "büyük üretim",
-      "verimlilik"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 20,
-    "kategori": "iktisat",
-    "kelime": "oyun teorisi",
-    "aciklama": "stratejik karar vericilerin karşılıklı hamlelerini inceleyen matematiksel yöntem",
-    "yasakli_kelimeler": [
-      "nash dengesi",
-      "mahkumlar ikilemi",
-      "strateji",
-      "kazanç matrisi",
-      "oyuncular"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 21,
-    "kategori": "iktisat",
-    "kelime": "nash dengesi",
-    "aciklama": "hiçbir oyuncunun tek taraflı strateji değiştirerek kazanç sağlayamadığı denge",
-    "yasakli_kelimeler": [
-      "oyun teorisi",
-      "en iyi tepki",
-      "strateji dengesi",
-      "john nash",
-      "mahkumlar ikilemi"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 22,
+    "id": 15,
     "kategori": "iktisat",
     "kelime": "mahkumlar çıkmazı",
     "aciklama": "bireysel çıkarların toplumsal olarak en kötü sonuca yol açması",
@@ -308,35 +210,7 @@
     "zorluk": "zor"
   },
   {
-    "id": 23,
-    "kategori": "iktisat",
-    "kelime": "talep kanunu",
-    "aciklama": "diğer şartlar sabitken bir malın fiyatı arttıkça talep edilen miktarının",
-    "yasakli_kelimeler": [
-      "ceteris paribus",
-      "fiyat miktar tersliği",
-      "talep eğrisi",
-      "fiyat yükselmesi",
-      "negatif eğim"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 24,
-    "kategori": "iktisat",
-    "kelime": "batık maliyet",
-    "aciklama": "geçmişte yapılmış ve geri kazanılması imkansız harcamalar toplamı",
-    "yasakli_kelimeler": [
-      "sunk cost",
-      "telafisiz harcama",
-      "geçmiş harcama",
-      "karar alma",
-      "yanılgı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 25,
+    "id": 16,
     "kategori": "iktisat",
     "kelime": "beşeri sermaye",
     "aciklama": "işgücünün eğitim, bilgi, beceri ve sağlık kapasitesi toplamı",
@@ -350,7 +224,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 26,
+    "id": 17,
     "kategori": "iktisat",
     "kelime": "hazine bonosu",
     "aciklama": "devletin kısa vadeli borçlanma ihtiyaçlarını karşılamak üzere hazine tarafından vadesi",
@@ -364,7 +238,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 27,
+    "id": 18,
     "kategori": "iktisat",
     "kelime": "devlet tahvili",
     "aciklama": "devletin uzun vadeli finansman sağlamak amacıyla hazine aracılığıyla vadesi bir",
@@ -378,7 +252,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 28,
+    "id": 19,
     "kategori": "iktisat",
     "kelime": "resesyon",
     "aciklama": "bir ülke ekonomisinde gayrisafi yurtiçi hasılanın en az iki çeyrek",
@@ -392,7 +266,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 29,
+    "id": 20,
     "kategori": "iktisat",
     "kelime": "arz",
     "aciklama": "üreticilerin belirli bir piyasada, belirli bir fiyattan satmaya hazır oldukları",
@@ -406,7 +280,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 30,
+    "id": 21,
     "kategori": "iktisat",
     "kelime": "talep",
     "aciklama": "tüketicilerin belirli bir dönemde satın alma gücüyle desteklenmiş olarak satın",
@@ -420,7 +294,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 31,
+    "id": 22,
     "kategori": "iktisat",
     "kelime": "piyasa dengesi",
     "aciklama": "arz edilen mal miktarı ile talep edilen mal miktarının birbirine",
@@ -434,7 +308,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 32,
+    "id": 23,
     "kategori": "iktisat",
     "kelime": "denge fiyatı",
     "aciklama": "piyasada ne mal fazlası ne de mal kıtlığı bırakan, alıcı",
@@ -448,7 +322,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 33,
+    "id": 24,
     "kategori": "iktisat",
     "kelime": "taban fiyat",
     "aciklama": "devletin üreticiyi korumak amacıyla bir mal için piyasada belirlenebilecek en",
@@ -462,7 +336,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 34,
+    "id": 25,
     "kategori": "iktisat",
     "kelime": "tavan fiyat",
     "aciklama": "devletin tüketicileri aşırı pahalılıktan korumak amacıyla bir mala uygulanabilecek en",
@@ -476,7 +350,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 35,
+    "id": 26,
     "kategori": "iktisat",
     "kelime": "karaborsa",
     "aciklama": "fiyat kontrolleri veya kotalar sonucu doğan yasadışı piyasa",
@@ -490,35 +364,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 36,
-    "kategori": "iktisat",
-    "kelime": "karne sistemi",
-    "aciklama": "savaş veya ağır kıtlık dönemlerinde temel gıdaların kişi başına adil",
-    "yasakli_kelimeler": [
-      "ekmek karnesi",
-      "kupon dağıtımı",
-      "kıtlık dönemi",
-      "savaş ekonomisi",
-      "paylaştırma"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 37,
-    "kategori": "iktisat",
-    "kelime": "kota",
-    "aciklama": "bir ülkenin belirli bir dönemde yurt dışından ithal edilecek mal",
-    "yasakli_kelimeler": [
-      "ithalat sınırı",
-      "miktar kısıtlaması",
-      "tarife dışı engel",
-      "üst limit",
-      "ithalat"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 38,
+    "id": 27,
     "kategori": "iktisat",
     "kelime": "gümrük vergisi",
     "aciklama": "yurt dışından ithal edilen mallardan sınır kapılarında alınan ve yerli",
@@ -532,7 +378,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 39,
+    "id": 28,
     "kategori": "iktisat",
     "kelime": "sübvansiyon",
     "aciklama": "devletin maliyetleri düşürmek veya üretimi teşvik etmek için üretici veya",
@@ -546,21 +392,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 40,
-    "kategori": "iktisat",
-    "kelime": "damping",
-    "aciklama": "malların dış pazarlarda iç piyasadan daha ucuza satılması",
-    "yasakli_kelimeler": [
-      "maliyet altı satış",
-      "haksız rekabet",
-      "ucuz ihracat",
-      "pazar ele geçirme",
-      "ihracat hilesi"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 41,
+    "id": 29,
     "kategori": "iktisat",
     "kelime": "devalüasyon",
     "aciklama": "ulusal paranın yabancı paralar karşısındaki değerinin resmi düşürülmesi",
@@ -574,7 +406,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 42,
+    "id": 30,
     "kategori": "iktisat",
     "kelime": "sabit kur",
     "aciklama": "merkez bankasının döviz kurunu belirli bir seviyede tutmayı taahhüt ettiği",
@@ -588,7 +420,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 43,
+    "id": 31,
     "kategori": "iktisat",
     "kelime": "dalgalı kur",
     "aciklama": "döviz fiyatlarının hiçbir resmi müdahale olmaksızın serbest piyasadaki arz ve",
@@ -602,7 +434,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 44,
+    "id": 32,
     "kategori": "iktisat",
     "kelime": "döviz kuru",
     "aciklama": "bir ülkenin para biriminin başka bir ülkenin para birimi cinsinden",
@@ -616,7 +448,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 45,
+    "id": 33,
     "kategori": "iktisat",
     "kelime": "cari açık",
     "aciklama": "ithalat ve transfer giderlerinin ihracat gelirlerinden fazla olması",
@@ -630,7 +462,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 46,
+    "id": 34,
     "kategori": "iktisat",
     "kelime": "cari fazla",
     "aciklama": "ihracat ve transfer gelirlerinin ithalat giderlerinden fazla olması",
@@ -644,7 +476,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 47,
+    "id": 35,
     "kategori": "iktisat",
     "kelime": "ticaret açığı",
     "aciklama": "bir ülkenin sadece fiziki mal ihracatı ile mal ithalatı arasındaki",
@@ -658,7 +490,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 48,
+    "id": 36,
     "kategori": "iktisat",
     "kelime": "ticaret fazlası",
     "aciklama": "ülkenin ihraç ettiği fiziki sanayi ve tarım mallarının ithal edilen",
@@ -672,7 +504,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 49,
+    "id": 37,
     "kategori": "iktisat",
     "kelime": "ihracat",
     "aciklama": "yurt içinde üretilen malların ve hizmetlerin yabancı ülkelere döviz karşılığında",
@@ -686,7 +518,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 50,
+    "id": 38,
     "kategori": "iktisat",
     "kelime": "ithalat",
     "aciklama": "yabancı ülkelerde üretilen hammadde ve malların satın alınarak gümrükten yurt",
@@ -700,7 +532,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 51,
+    "id": 39,
     "kategori": "iktisat",
     "kelime": "ekonomik büyüme",
     "aciklama": "bir ülkenin reel üretim kapasitesinin ve hasılasının artması",
@@ -714,7 +546,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 52,
+    "id": 40,
     "kategori": "iktisat",
     "kelime": "milli gelir",
     "aciklama": "bir ülkede bir yıl boyunca üretilen nihai mal ve hizmetlerin",
@@ -728,7 +560,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 53,
+    "id": 41,
     "kategori": "iktisat",
     "kelime": "reel faiz",
     "aciklama": "nominal faiz oranından beklenen enflasyon oranı düşüldükten sonra elde kalan",
@@ -742,7 +574,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 54,
+    "id": 42,
     "kategori": "iktisat",
     "kelime": "nominal faiz",
     "aciklama": "bankaların ilan ettiği ve enflasyon hesaba katılmadan paranın üzerinde yazılı",
@@ -756,7 +588,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 55,
+    "id": 43,
     "kategori": "iktisat",
     "kelime": "sıcak para",
     "aciklama": "kısa vadeli yüksek faiz kazancı için ülkelere giren fonlar",
@@ -770,7 +602,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 56,
+    "id": 44,
     "kategori": "iktisat",
     "kelime": "sermaye kaçışı",
     "aciklama": "ekonomik kriz veya siyasi istikrarsızlık anında yerli ve yabancı yatırımcıların",
@@ -784,7 +616,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 57,
+    "id": 45,
     "kategori": "iktisat",
     "kelime": "sermaye kontrolü",
     "aciklama": "hükümetin döviz kaçışını engellemek için yurt dışına para transferine getirdiği",
@@ -798,7 +630,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 58,
+    "id": 46,
     "kategori": "iktisat",
     "kelime": "döviz rezervi",
     "aciklama": "merkez bankasının kasasında dış ödemeleri garantiye almak ve kur şoklarını",
@@ -812,7 +644,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 59,
+    "id": 47,
     "kategori": "iktisat",
     "kelime": "bütçe açığı",
     "aciklama": "devletin kamu harcamalarının toplanan vergi ve diğer bütçe gelirlerinden daha",
@@ -826,7 +658,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 60,
+    "id": 48,
     "kategori": "iktisat",
     "kelime": "bütçe fazlası",
     "aciklama": "devlet bütçesinde toplanan toplam gelirlerin yapılan kamu harcamalarını aşarak kasada",
@@ -840,7 +672,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 61,
+    "id": 49,
     "kategori": "iktisat",
     "kelime": "kamu borcu",
     "aciklama": "devletin bütçe açıklarını finanse etmek için iç ve dış piyasalara",
@@ -854,7 +686,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 62,
+    "id": 50,
     "kategori": "iktisat",
     "kelime": "borç krizi",
     "aciklama": "bir devletin veya şirketlerin vadesi dolan borçlarını ödeyemeyecek duruma düşüp",
@@ -868,7 +700,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 63,
+    "id": 51,
     "kategori": "iktisat",
     "kelime": "moratoryum",
     "aciklama": "borçlu devletin vadesi gelen dış borçlarını ödeyemeyeceğini resmen ilan ederek",
@@ -882,7 +714,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 64,
+    "id": 52,
     "kategori": "iktisat",
     "kelime": "hiperenflasyon",
     "aciklama": "paranın değerini tamamen yitirdiği kontrolsüz aşırı yüksek enflasyon",
@@ -896,7 +728,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 65,
+    "id": 53,
     "kategori": "iktisat",
     "kelime": "talep enflasyonu",
     "aciklama": "piyasadaki toplam harcama ve para bolluğunun üretilen mal miktarını aşmasıyla",
@@ -910,7 +742,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 66,
+    "id": 54,
     "kategori": "iktisat",
     "kelime": "maliyet enflasyonu",
     "aciklama": "petrol, enerji, hammadde veya ücretlerin artması sonucu firmaların üretim maliyetlerini",
@@ -924,21 +756,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 67,
-    "kategori": "iktisat",
-    "kelime": "çekirdek enflasyon",
-    "aciklama": "mevsimsel gıda ve enerji gibi geçici dalgalanan kalemlerin çıkarılmasıyla hesaplanan",
-    "yasakli_kelimeler": [
-      "özel kapsamlı tüfe",
-      "gıda ve enerjisiz",
-      "ana eğilim",
-      "kalıcı enflasyon",
-      "tcmb"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 68,
+    "id": 55,
     "kategori": "iktisat",
     "kelime": "gizli işsizlik",
     "aciklama": "üretime fiilen katkısı olmayan görünürde çalışan istihdam hali",
@@ -952,7 +770,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 69,
+    "id": 56,
     "kategori": "iktisat",
     "kelime": "asgari ücret",
     "aciklama": "bir işçiye kanunen ödenebilecek en düşük yasal saatlik veya aylık",
@@ -966,7 +784,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 70,
+    "id": 57,
     "kategori": "iktisat",
     "kelime": "sendikalaşma",
     "aciklama": "işçilerin haklarını korumak ve işveren karşısında toplu pazarlık gücü elde",
@@ -980,7 +798,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 71,
+    "id": 58,
     "kategori": "iktisat",
     "kelime": "toplu sözleşme",
     "aciklama": "işçi sendikası ile işveren arasında maaş zamlarını ve çalışma şartlarını",
@@ -994,7 +812,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 72,
+    "id": 59,
     "kategori": "iktisat",
     "kelime": "kartel",
     "aciklama": "firmaların fiyat ve miktarı belirlemek için kurduğu birlik",
@@ -1008,7 +826,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 73,
+    "id": 60,
     "kategori": "iktisat",
     "kelime": "serbest ticaret",
     "aciklama": "ülkeler arasında mal ve hizmet dolaşımının hiçbir gümrük vergisi, kota",
@@ -1022,37 +840,9 @@
     "zorluk": "kolay"
   },
   {
-    "id": 74,
-    "kategori": "iktisat",
-    "kelime": "sabit maliyet",
-    "aciklama": "üretim hacminden bağımsız olarak ödenmesi gereken zorunlu harcamalar",
-    "yasakli_kelimeler": [
-      "kira gideri",
-      "değişmeyen masraf",
-      "üretimden bağımsız",
-      "tfc",
-      "amortisman"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 75,
-    "kategori": "iktisat",
-    "kelime": "değişken maliyet",
-    "aciklama": "üretim miktarına bağlı olarak artıp azalan işletme maliyetleri",
-    "yasakli_kelimeler": [
-      "üretimle değişen",
-      "hammadde gideri",
-      "tvc",
-      "elektrik masrafı",
-      "işçilik"
-    ],
-    "zorluk": "kolay"
-  },
-  {
     "kategori": "iktisat",
     "kelime": "para harcamak",
-    "aciklama": "mal veya hizmet almak için eldeki paradan ödemede bulunmak.",
+    "aciklama": "mal veya hizmet almak için eldeki paradan ödemede bulunmak",
     "yasakli_kelimeler": [
       "satın almak",
       "tüketim",
@@ -1061,12 +851,12 @@
       "masraf"
     ],
     "zorluk": "kolay",
-    "id": 76
+    "id": 61
   },
   {
     "kategori": "iktisat",
     "kelime": "para biriktirmek",
-    "aciklama": "gelirin harcanmayan kısmını kenara ayırıp saklamak.",
+    "aciklama": "gelirin harcanmayan kısmını kenara ayırıp saklamak",
     "yasakli_kelimeler": [
       "tasarruf",
       "kumbara",
@@ -1075,12 +865,12 @@
       "gelecek"
     ],
     "zorluk": "kolay",
-    "id": 77
+    "id": 62
   },
   {
     "kategori": "iktisat",
     "kelime": "vergi ödemek",
-    "aciklama": "kamu giderlerine katılmak için devlete yasal pay vermek.",
+    "aciklama": "kamu giderlerine katılmak için devlete yasal pay vermek",
     "yasakli_kelimeler": [
       "devlet",
       "kdv",
@@ -1089,12 +879,12 @@
       "fatura"
     ],
     "zorluk": "kolay",
-    "id": 78
+    "id": 63
   },
   {
     "kategori": "iktisat",
     "kelime": "fiyat belirlemek",
-    "aciklama": "satılacak malın kaç liradan verileceğini tespit etmek.",
+    "aciklama": "satılacak malın kaç liradan verileceğini tespit etmek",
     "yasakli_kelimeler": [
       "etiket",
       "satış",
@@ -1103,12 +893,12 @@
       "maliyet"
     ],
     "zorluk": "kolay",
-    "id": 79
+    "id": 64
   },
   {
     "kategori": "iktisat",
     "kelime": "borç almak",
-    "aciklama": "geri vermek üzere başkasından veya bankadan para temin etmek.",
+    "aciklama": "geri vermek üzere başkasından veya bankadan para temin etmek",
     "yasakli_kelimeler": [
       "kredi",
       "banka",
@@ -1117,12 +907,12 @@
       "para"
     ],
     "zorluk": "kolay",
-    "id": 80
+    "id": 65
   },
   {
     "kategori": "iktisat",
     "kelime": "yatırım yapmak",
-    "aciklama": "gelecekte değer kazanması amacıyla parasını bir varlığa yatırmak.",
+    "aciklama": "gelecekte değer kazanması amacıyla parasını bir varlığa yatırmak",
     "yasakli_kelimeler": [
       "altın",
       "arsa",
@@ -1131,12 +921,12 @@
       "sermaye"
     ],
     "zorluk": "kolay",
-    "id": 81
+    "id": 66
   },
   {
     "kategori": "iktisat",
     "kelime": "üretim yapmak",
-    "aciklama": "i̇htiyaçları karşılamak üzere mal veya hizmet meydana getirmek.",
+    "aciklama": "i̇htiyaçları karşılamak üzere mal veya hizmet meydana getirmek",
     "yasakli_kelimeler": [
       "fabrika",
       "mal",
@@ -1145,40 +935,12 @@
       "piyasa"
     ],
     "zorluk": "kolay",
-    "id": 82
-  },
-  {
-    "kategori": "iktisat",
-    "kelime": "ithalat yapmak",
-    "aciklama": "yabancı ülkelerden mal ve hizmet satın alıp ülkeye getirmek.",
-    "yasakli_kelimeler": [
-      "dış alım",
-      "yabancı ülke",
-      "gümrük",
-      "döviz",
-      "getirtmek"
-    ],
-    "zorluk": "kolay",
-    "id": 83
-  },
-  {
-    "kategori": "iktisat",
-    "kelime": "ihracat yapmak",
-    "aciklama": "ülkede üretilen malları yabancı ülkelere satmak.",
-    "yasakli_kelimeler": [
-      "dış satım",
-      "yurt dışı",
-      "göndermek",
-      "döviz kazanmak",
-      "mal"
-    ],
-    "zorluk": "kolay",
-    "id": 84
+    "id": 67
   },
   {
     "kategori": "iktisat",
     "kelime": "indirim yapmak",
-    "aciklama": "ürünün satış fiyatını geçici olarak düşürmek.",
+    "aciklama": "ürünün satış fiyatını geçici olarak düşürmek",
     "yasakli_kelimeler": [
       "ucuzluk",
       "fiyat kırmak",
@@ -1187,12 +949,12 @@
       "satış"
     ],
     "zorluk": "kolay",
-    "id": 85
+    "id": 68
   },
   {
     "kategori": "iktisat",
     "kelime": "pazarlık etmek",
-    "aciklama": "alışverişte daha uygun bir fiyata anlaşmak için satıcıyla konuşmak.",
+    "aciklama": "alışverişte daha uygun bir fiyata anlaşmak için satıcıyla konuşmak",
     "yasakli_kelimeler": [
       "fiyat düşürme",
       "anlaşma",
@@ -1201,12 +963,12 @@
       "satıcı"
     ],
     "zorluk": "kolay",
-    "id": 86
+    "id": 69
   },
   {
     "kategori": "iktisat",
     "kelime": "kar etmek",
-    "aciklama": "maliyetinin üzerinde satış yaparak kazanç sağlamak.",
+    "aciklama": "maliyetinin üzerinde satış yaparak kazanç sağlamak",
     "yasakli_kelimeler": [
       "kazanç",
       "gelir gider farkı",
@@ -1215,12 +977,12 @@
       "para kazanmak"
     ],
     "zorluk": "kolay",
-    "id": 87
+    "id": 70
   },
   {
     "kategori": "iktisat",
     "kelime": "para basmak",
-    "aciklama": "piyasaya yeni kağıt para veya madeni para sürmek.",
+    "aciklama": "piyasaya yeni kağıt para veya madeni para sürmek",
     "yasakli_kelimeler": [
       "emisyon",
       "darphane",
@@ -1229,20 +991,6 @@
       "merkez bankası"
     ],
     "zorluk": "orta",
-    "id": 88
-  },
-  {
-    "kategori": "iktisat",
-    "kelime": "resesyona girmek",
-    "aciklama": "ekonominin üst üste iki çeyrek daralarak durgunluğa saplanması.",
-    "yasakli_kelimeler": [
-      "ekonomik küçülme",
-      "iki çeyrek üst üste",
-      "durgunluk",
-      "negatif büyüme",
-      "üretim düşüşü"
-    ],
-    "zorluk": "orta",
-    "id": 89
+    "id": 71
   }
 ]

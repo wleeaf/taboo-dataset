@@ -1,18 +1,19 @@
-# Taboo Dataset (16,108 Kelime / 150 Kategori)
+# Taboo Dataset (13,600 Kelime / 150 Kategori)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Cards](https://img.shields.io/badge/Cards-16%2C108-blue.svg)](#)
+[![Cards](https://img.shields.io/badge/Cards-13%2C600-blue.svg)](#)
 [![Categories](https://img.shields.io/badge/Categories-150-success.svg)](#)
 [![Encoding](https://img.shields.io/badge/Encoding-UTF--8-informational.svg)](#)
 
-Türkçe dilinde geliştirilen oyunlar, doğal dil işleme (NLP) araştırmaları, kelime dağarcığı modellemeleri ve bilgi yarışması tabanlı yapay zekâ uygulamaları için titizlikle kurgulanmış, kolay, orta ve zor seviyelerde **16.108 kartlık kapsamlı Türkçe Tabu veri seti**.
+Türkçe dilinde geliştirilen oyunlar, doğal dil işleme (NLP) araştırmaları, kelime dağarcığı modellemeleri ve bilgi yarışması tabanlı yapay zekâ uygulamaları için titizlikle kurgulanmış, kolay, orta ve zor seviyelerde **13.600 kartlık kapsamlı Türkçe Tabu veri seti**.
 
 ---
 
 ## 📌 Veri Seti Özellikleri
 
 - **150 Ayrık Kategori:** Fen bilimlerinden sanata, felsefeden popüler kültüre, mutfaktan spora ve coğrafyaya kadar birbirini tekrar etmeyen 150 spesifik alan.
-- **Kategoriye Göre Değişen Kart Sayısı:** Kartlar sayısal kotaya göre değil anlam ve oynanabilirliğe göre seçilir. Kategori içinde tekrar yoktur. Toplam 16.108 kart.
+- **Kategoriye Göre Değişen Kart Sayısı:** Kartlar sayısal kotaya göre değil anlam ve oynanabilirliğe göre seçilir. Kategori içinde tekrar yoktur. Toplam 13.600 kart.
+- **1-2 Kelimelik Doğal Hedefler:** Tüm kartlar 1 veya en fazla 2 kelimeden oluşur; 3 veya daha fazla kelimelik yapay kalıplar elenmiştir.
 - **Dengeli Kelime ve Fiil Dağılımı:** İsimler, kavramlar, terimler ve her kategoriye özel olarak eklenmiş otantik eylemler/fiiller (`fiil`).
 - **3 Zorluk Seviyesi:** Her kart için belirlenmiş `zorluk` seviyesi (`kolay`, `orta`, `zor`).
 - **Yüksek Nitelikli Tanımlar:** Her kavram için yalın, didaktik ve net açıklamalar (`aciklama`).

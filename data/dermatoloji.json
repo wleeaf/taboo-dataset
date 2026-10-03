@@ -3,7 +3,7 @@
     "id": 1,
     "kategori": "dermatoloji",
     "kelime": "melanom",
-    "aciklama": "melanositlerden kaynaklanan en ölümcül ve agresif seyirli kanseri türü.",
+    "aciklama": "deride melanositlerden kaynaklanan tehlikeli cilt kanseri türü.",
     "yasakli_kelimeler": [
       "cilt",
       "kanser",
@@ -17,12 +17,12 @@
     "id": 2,
     "kategori": "dermatoloji",
     "kelime": "vitiligo",
-    "aciklama": "melanosit yıkımı nedeniyle deride yama şeklinde depigmente otoimmün bozukluk.",
+    "aciklama": "ciltte melanin kaybı sonucu beyaz lekeler oluşturan hastalık.",
     "yasakli_kelimeler": [
       "leke",
       "pigment",
       "beyaz",
-      "melanin",
+      "cilt",
       "renk"
     ],
     "zorluk": "kolay"
@@ -45,13 +45,13 @@
     "id": 4,
     "kategori": "dermatoloji",
     "kelime": "selülit",
-    "aciklama": "alt dermis ve subkutan dokunun derin enfeksiyonu ödem tablosu.",
+    "aciklama": "kalça ve bacaklarda portakal kabuğu görünümü oluşturan doku.",
     "yasakli_kelimeler": [
-      "enfeksiyon",
-      "dermis",
-      "bakteri",
-      "ödem",
-      "subkutan"
+      "portakal kabuğu",
+      "bacak",
+      "kalça",
+      "yağ",
+      "cilt"
     ],
     "zorluk": "kolay"
   },
@@ -73,13 +73,13 @@
     "id": 6,
     "kategori": "dermatoloji",
     "kelime": "antihistaminik",
-    "aciklama": "histamin reseptörlerini bloke ederek alerjik döküntüleri, kabarıklıkları gideren ilaç.",
+    "aciklama": "alerji ve kaşıntı belirtilerini hafifletmek için kullanılan ilaç.",
     "yasakli_kelimeler": [
-      "kaşıntı",
       "alerji",
+      "kaşıntı",
+      "ilaç",
       "kurdeşen",
-      "ürtiker",
-      "histamin"
+      "hap"
     ],
     "zorluk": "kolay"
   },
@@ -366,14 +366,14 @@
   {
     "id": 27,
     "kategori": "dermatoloji",
-    "kelime": "erkek kelliği",
-    "aciklama": "genetik yatkınlık ve erkeklik hormonunun etkisiyle şakaklardan saç kaybı.",
+    "kelime": "kellik",
+    "aciklama": "saç dökülmesi sonucu kafa derisinin açıkta kalması durumu.",
     "yasakli_kelimeler": [
-      "genetik",
+      "saç",
+      "dökülme",
+      "kafa",
       "tepe",
-      "şakak",
-      "hormon",
-      "saç kaybı"
+      "erkek"
     ],
     "zorluk": "kolay"
   },
@@ -408,20 +408,6 @@
   {
     "id": 30,
     "kategori": "dermatoloji",
-    "kelime": "salisilik asit",
-    "aciklama": "gözenekleri temizleyen ve ölü deri hücrelerini ciltten hidroksi asit.",
-    "yasakli_kelimeler": [
-      "asit",
-      "soyucu",
-      "sivilce",
-      "gözenek",
-      "kepek"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 31,
-    "kategori": "dermatoloji",
     "kelime": "hyaluronik asit",
     "aciklama": "kendi ağırlığının bin katı kadar su tutabilen temel molekül.",
     "yasakli_kelimeler": [
@@ -434,7 +420,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 32,
+    "id": 31,
     "kategori": "dermatoloji",
     "kelime": "güneş kremi",
     "aciklama": "deriyi zararlı ultraviyole a ve b ışınlarından koruyucu losyon.",
@@ -448,7 +434,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 33,
+    "id": 32,
     "kategori": "dermatoloji",
     "kelime": "nemlendirici",
     "aciklama": "deri bariyerini güçlendirerek su kaybını önleyen ve veya losyon.",
@@ -462,7 +448,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 34,
+    "id": 33,
     "kategori": "dermatoloji",
     "kelime": "mantar hastalığı",
     "aciklama": "sıcak ve nemli deri kıvrımlarında mikroskobik mantarların kaşıntılı enfeksiyon.",
@@ -476,7 +462,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 35,
+    "id": 34,
     "kategori": "dermatoloji",
     "kelime": "ayak mantarı",
     "aciklama": "parmak aralarında soyulma, kaşıntı, kızarıklık ve kötü deri enfeksiyonu.",
@@ -490,7 +476,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 36,
+    "id": 35,
     "kategori": "dermatoloji",
     "kelime": "tırnak mantarı",
     "aciklama": "tırnağın kalınlaşmasına, sararmasına ve ufalanıp bozulmasına sebep mantar enfeksiyonu.",
@@ -504,7 +490,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 37,
+    "id": 36,
     "kategori": "dermatoloji",
     "kelime": "uyuz",
     "aciklama": "gözle görülmeyen mikroskobik parazitlerin deri altına tünel kaşıntı hastalığı.",
@@ -518,7 +504,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 38,
+    "id": 37,
     "kategori": "dermatoloji",
     "kelime": "bitlenme",
     "aciklama": "saç diplerine veya vücut kıllarına yerleşen kan sirke oluşturması.",
@@ -532,7 +518,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 39,
+    "id": 38,
     "kategori": "dermatoloji",
     "kelime": "çıban",
     "aciklama": "kıl kökünün bakterilerle enfekte olması sonucu oluşan kırmızı şişlik.",
@@ -546,7 +532,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 40,
+    "id": 39,
     "kategori": "dermatoloji",
     "kelime": "arpacık",
     "aciklama": "göz kapağındaki kıl folikülünün veya yağ bezinin küçük çıbancık.",
@@ -560,7 +546,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 41,
+    "id": 40,
     "kategori": "dermatoloji",
     "kelime": "kıl dönmesi",
     "aciklama": "kuyruk sokumu bölgesinde dökülen kılların deri altına sinüs oluşturması.",
@@ -574,7 +560,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 42,
+    "id": 41,
     "kategori": "dermatoloji",
     "kelime": "gül hastalığı",
     "aciklama": "yanak ve burun çevresinde kılcal damar genişlemesi kronik hastalık.",
@@ -588,7 +574,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 43,
+    "id": 42,
     "kategori": "dermatoloji",
     "kelime": "deri çatlağı",
     "aciklama": "hızlı kilo alma, büyüme veya hamilelikte derinin oluşan çizgiler.",
@@ -602,7 +588,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 44,
+    "id": 43,
     "kategori": "dermatoloji",
     "kelime": "yara izi",
     "aciklama": "derideki derin yaralanma veya ameliyat kesilerinin iyileşmesi dokusu izi.",
@@ -616,7 +602,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 45,
+    "id": 44,
     "kategori": "dermatoloji",
     "kelime": "yara kabuğu",
     "aciklama": "kanayan veya sıvı sızdıran yaranın kuruyan kan, koruyucu tabaka.",
@@ -630,21 +616,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 46,
-    "kategori": "dermatoloji",
-    "kelime": "kepeklenme",
-    "aciklama": "derinin en üst boynuzsu tabakasındaki ölü hücrelerin halinde dökülmesi.",
-    "yasakli_kelimeler": [
-      "pul pul",
-      "döküntü",
-      "ölü hücre",
-      "soyulma",
-      "yüzey"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 47,
+    "id": 45,
     "kategori": "dermatoloji",
     "kelime": "kist",
     "aciklama": "deri altında kapsülle çevrili, içi sıvı veya yuvarlak kese.",
@@ -658,7 +630,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 48,
+    "id": 46,
     "kategori": "dermatoloji",
     "kelime": "yağ bezesi",
     "aciklama": "cilt altında nohut veya ceviz büyüklüğünde beliren, yağ birikintisi.",
@@ -672,7 +644,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 49,
+    "id": 47,
     "kategori": "dermatoloji",
     "kelime": "isilik",
     "aciklama": "sıcak ve nemli havalarda ter bezi kanallarının kırmızı döküntü.",
@@ -686,7 +658,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 50,
+    "id": 48,
     "kategori": "dermatoloji",
     "kelime": "pişik",
     "aciklama": "bebeklerde veya kilolu bireylerde idrar, ter ve parlak kızarıklık.",
@@ -700,7 +672,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 51,
+    "id": 49,
     "kategori": "dermatoloji",
     "kelime": "soğuk yanığı",
     "aciklama": "aşırı dondurucu soğuğa maruz kalan parmak, burun doku hasarı.",
@@ -714,7 +686,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 52,
+    "id": 50,
     "kategori": "dermatoloji",
     "kelime": "lazer tedavisi",
     "aciklama": "odaklanmış yoğun ışık dalgalarıyla kılcal damarları, dövmeleri, etme tekniği.",
@@ -728,185 +700,31 @@
     "zorluk": "kolay"
   },
   {
+    "id": 51,
+    "kelime": "sivilce",
     "kategori": "dermatoloji",
-    "kelime": "cildiye muayenesine gitmek",
-    "aciklama": "ciltteki kaşıntı, döküntü veya leke için uzman doktora muayene olmak.",
-    "yasakli_kelimeler": [
-      "uzman doktor",
-      "cildiye",
-      "muayene",
-      "kaşıntı",
-      "leke"
-    ],
-    "zorluk": "kolay",
-    "id": 53
-  },
-  {
-    "kategori": "dermatoloji",
-    "kelime": "krem sürmek",
-    "aciklama": "kuru veya tahriş olmuş deriye nemlendirici veya tıbbi merhem uygulamak.",
-    "yasakli_kelimeler": [
-      "merhem",
-      "nemlendirici",
-      "tahriş",
-      "sürmek",
-      "tüp"
-    ],
-    "zorluk": "kolay",
-    "id": 54
-  },
-  {
-    "kategori": "dermatoloji",
-    "kelime": "kaşınmak",
-    "aciklama": "derideki alerji veya ısırık sebebiyle tırnakla cildi kaşıma ihtiyacı duymak.",
-    "yasakli_kelimeler": [
-      "tırnak",
-      "kaşıntı",
-      "tahriş",
-      "kızarıklık",
-      "alerji"
-    ],
-    "zorluk": "kolay",
-    "id": 55
-  },
-  {
-    "kategori": "dermatoloji",
-    "kelime": "güneş kremi sürmek",
-    "aciklama": "zararlı uv ışınlarından korunmak için güneşe çıkmadan losyon uygulamak.",
-    "yasakli_kelimeler": [
-      "faktör",
-      "losyon",
-      "uv koruma",
-      "yanık önleme",
-      "plaj"
-    ],
-    "zorluk": "kolay",
-    "id": 56
-  },
-  {
-    "kategori": "dermatoloji",
-    "kelime": "ben kontrol ettirmek",
-    "aciklama": "vücuttaki et benlerinin büyümesini veya renk değişimini dermatoskopla inceletmek.",
-    "yasakli_kelimeler": [
-      "et beni",
-      "renk değişimi",
-      "büyüme",
-      "melanom",
-      "inceleme"
-    ],
-    "zorluk": "kolay",
-    "id": 57
-  },
-  {
-    "kategori": "dermatoloji",
-    "kelime": "sivilce sıkmak",
-    "aciklama": "yüzdeki iltihaplı akneleri parmaklarla bastırarak patlatmaya çalışmak.",
+    "aciklama": "gençlerde cilt gözeneklerinin tıkanmasıyla oluşan iltihaplı kabartı.",
     "yasakli_kelimeler": [
       "akne",
-      "iltihap",
-      "patlatmak",
+      "ergenlik",
       "yüz",
-      "leke kalması"
+      "patlatmak",
+      "cilt"
     ],
-    "zorluk": "kolay",
-    "id": 58
+    "zorluk": "kolay"
   },
   {
+    "id": 52,
+    "kelime": "cildiye",
     "kategori": "dermatoloji",
-    "kelime": "cilt soyulmak",
-    "aciklama": "güneş yanığı veya kuruluk sonrası üst deri pul dökülmesi.",
+    "aciklama": "deri ve zührevi hastalıklarla ilgilenen tıp uzmanlık alanı.",
     "yasakli_kelimeler": [
-      "pul pul",
-      "güneş yanığı",
-      "üst deri",
-      "dökülme",
-      "kepeklenme"
+      "dermatoloji",
+      "doktor",
+      "hastane",
+      "cilt",
+      "kaşıntı"
     ],
-    "zorluk": "kolay",
-    "id": 59
-  },
-  {
-    "kategori": "dermatoloji",
-    "kelime": "kızarmak",
-    "aciklama": "alerjik reaksiyon veya sıcaklık sebebiyle cildin kan al olması.",
-    "yasakli_kelimeler": [
-      "eritem",
-      "kızarıklık",
-      "kan hücumu",
-      "alerji",
-      "tahriş"
-    ],
-    "zorluk": "kolay",
-    "id": 60
-  },
-  {
-    "kategori": "dermatoloji",
-    "kelime": "yara kabuğu koparmak",
-    "aciklama": "iyileşmekte olan yaranın üstündeki sertleşmiş kabuğu tırnakla kaldırmak.",
-    "yasakli_kelimeler": [
-      "kabuk",
-      "tırnak",
-      "kanama",
-      "iyileşme",
-      "koparma"
-    ],
-    "zorluk": "kolay",
-    "id": 61
-  },
-  {
-    "kategori": "dermatoloji",
-    "kelime": "buz koymak",
-    "aciklama": "arı sokması veya cilt yanmasında şişliği ve kompres yapmak.",
-    "yasakli_kelimeler": [
-      "arı sokması",
-      "soğuk kompres",
-      "şişlik",
-      "yanma",
-      "acıyı dindirme"
-    ],
-    "zorluk": "kolay",
-    "id": 62
-  },
-  {
-    "kategori": "dermatoloji",
-    "kelime": "dolgu yaptırmak",
-    "aciklama": "yüzdeki derin kırışıklıkları ve dudak hacmini hyaluronik asit enjeksiyonuyla doldurmak.",
-    "yasakli_kelimeler": [
-      "hyaluronik asit",
-      "dudak dolgusu",
-      "kırışıklık",
-      "enjeksiyon",
-      "hacim"
-    ],
-    "zorluk": "orta",
-    "id": 63
-  },
-  {
-    "kategori": "dermatoloji",
-    "kelime": "et beni aldırmak",
-    "aciklama": "boyun veya koltuk altındaki saplı deri çıkıntılarını cerrahi makasla kesmek.",
-    "yasakli_kelimeler": [
-      "fibrom",
-      "saplı ben",
-      "boyun bölgesi",
-      "makasla kesim",
-      "küçük operasyon"
-    ],
-    "zorluk": "orta",
-    "id": 64
-  },
-  {
-    "kategori": "dermatoloji",
-    "kelime": "zona dökmek",
-    "aciklama": "suçiçeği virüsünün sinir trasesi boyunca kabarcıklı ve kuşak oluşturması.",
-    "yasakli_kelimeler": [
-      "gece yanığı",
-      "herpes zoster",
-      "sinir trasesi",
-      "şiddetli ağrı",
-      "kabarcık"
-    ],
-    "zorluk": "orta",
-    "id": 65
+    "zorluk": "kolay"
   }
 ]

@@ -2,14 +2,14 @@
   {
     "id": 1,
     "kategori": "farmakoloji",
-    "kelime": "kortikosteroid",
-    "aciklama": "güçlü antiinflamatuar ve immünsüpresif etkili steroid hormon ilacı.",
+    "kelime": "kortizon",
+    "aciklama": "vücuttaki iltihabı ve alerjiyi baskılayan güçlü hormon ilacı.",
     "yasakli_kelimeler": [
-      "kortizon",
-      "prednizolon",
-      "dekzametazon",
-      "bağışıklık baskılama",
-      "cushing"
+      "hormon",
+      "iltihap",
+      "bağışıklık",
+      "şişlik",
+      "yan etki"
     ],
     "zorluk": "kolay"
   },
@@ -86,20 +86,6 @@
   {
     "id": 7,
     "kategori": "farmakoloji",
-    "kelime": "tolerans",
-    "aciklama": "sürekli kullanılan ilaca karşı vücudun duyarlılığının azalması hali.",
-    "yasakli_kelimeler": [
-      "duyarsızlaşma",
-      "alışma",
-      "doz artırma ihtiyacı",
-      "etki azalması",
-      "bağışıklık kazanma"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 8,
-    "kategori": "farmakoloji",
     "kelime": "bağımlılık",
     "aciklama": "ilacın kullanımına karşı gelişen fiziksel veya psikolojik yoksunluk durumu.",
     "yasakli_kelimeler": [
@@ -112,7 +98,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 9,
+    "id": 8,
     "kategori": "farmakoloji",
     "kelime": "plasebo etkisi",
     "aciklama": "etkisiz bir maddenin hastanın inancıyla olumlu iyileşme sağlaması.",
@@ -126,91 +112,21 @@
     "zorluk": "kolay"
   },
   {
+    "id": 9,
+    "kategori": "farmakoloji",
+    "kelime": "dilaltı hapı",
+    "aciklama": "dil altına konularak hızla emilen acil kalp ilacı.",
+    "yasakli_kelimeler": [
+      "kalp",
+      "tansiyon",
+      "emilim",
+      "hızlı",
+      "eritmek"
+    ],
+    "zorluk": "kolay"
+  },
+  {
     "id": 10,
-    "kategori": "farmakoloji",
-    "kelime": "oral yol",
-    "aciklama": "ilaçların ağız yoluyla yutularak mide-bağırsak sisteminden alınması yöntemi.",
-    "yasakli_kelimeler": [
-      "ağızdan alma",
-      "yutma",
-      "sindirim yolu",
-      "hap içme",
-      "en yaygın yol"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 11,
-    "kategori": "farmakoloji",
-    "kelime": "damar içi",
-    "aciklama": "ilacın enjektörle doğrudan damar içine verilmesi enjeksiyon yolu.",
-    "yasakli_kelimeler": [
-      "intravenöz",
-      "serum yolu",
-      "damardan enjeksiyon",
-      "yüzde yüz emilim",
-      "hızlı etki"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 12,
-    "kategori": "farmakoloji",
-    "kelime": "kas içi",
-    "aciklama": "ilacın derin kas dokusu içine enjekte edilerek uygulanması.",
-    "yasakli_kelimeler": [
-      "intramüsküler",
-      "kalçadan iğne",
-      "kas dokusu",
-      "enjeksiyon",
-      "aşı yolu"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 13,
-    "kategori": "farmakoloji",
-    "kelime": "deri altı",
-    "aciklama": "ilacın cilt altı yağ dokusuna enjekte edilerek verilmesi.",
-    "yasakli_kelimeler": [
-      "subkutan",
-      "yağ dokusu",
-      "insülin iğnesi",
-      "göbekten enjeksiyon",
-      "zerk"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 14,
-    "kategori": "farmakoloji",
-    "kelime": "dil altı",
-    "aciklama": "ilacın dil altına konularak kılcal damarlardan hızla emilmesi.",
-    "yasakli_kelimeler": [
-      "sublingual",
-      "hızlı emilim",
-      "kalp ilacı",
-      "dil altına koyma",
-      "eriyen hap"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 15,
-    "kategori": "farmakoloji",
-    "kelime": "transdermal bant",
-    "aciklama": "deriye yapıştırılarak ilacın kana yavaş ve sürekli salınmasını sağlayan bant.",
-    "yasakli_kelimeler": [
-      "yapışkan bant",
-      "nikotin bandı",
-      "yavaş salım",
-      "cilde yapıştırma",
-      "flaster"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 16,
     "kategori": "farmakoloji",
     "kelime": "tablet",
     "aciklama": "toz ilaçların preslenerek katı disk haline getirilmiş farmasötik formu.",
@@ -224,7 +140,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 17,
+    "id": 11,
     "kategori": "farmakoloji",
     "kelime": "kapsül",
     "aciklama": "jelatin kılıf içinde toz veya sıvı ilaç taşıyan form.",
@@ -238,7 +154,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 18,
+    "id": 12,
     "kategori": "farmakoloji",
     "kelime": "şurup",
     "aciklama": "yoğun şekerli sıvı içinde çözünmüş içilebilir sıvı ilaç formu.",
@@ -252,7 +168,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 19,
+    "id": 13,
     "kategori": "farmakoloji",
     "kelime": "merhem",
     "aciklama": "deriye sürülen yağ bazlı koyu kıvamlı harici tıbbi preparat.",
@@ -266,7 +182,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 20,
+    "id": 14,
     "kategori": "farmakoloji",
     "kelime": "krem",
     "aciklama": "su ve yağ emülsiyonundan oluşan yumuşak harici cilt preparatı.",
@@ -280,7 +196,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 21,
+    "id": 15,
     "kategori": "farmakoloji",
     "kelime": "ampul",
     "aciklama": "tek dozluk enjeksiyonluk sıvı ilaç içeren kapalı cam tüp.",
@@ -294,7 +210,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 22,
+    "id": 16,
     "kategori": "farmakoloji",
     "kelime": "fitil",
     "aciklama": "vücut ısısında eriyerek rektal yoldan emilen koni biçimli ilaç.",
@@ -308,7 +224,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 23,
+    "id": 17,
     "kategori": "farmakoloji",
     "kelime": "damla",
     "aciklama": "göz, kulak veya buruna damlatılarak uygulanan sıvı preparat.",
@@ -322,7 +238,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 24,
+    "id": 18,
     "kategori": "farmakoloji",
     "kelime": "reçete",
     "aciklama": "doktorun eczacıya hitaben yazdığı resmi ilaç kullanım talimatı belgesi.",
@@ -336,7 +252,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 25,
+    "id": 19,
     "kategori": "farmakoloji",
     "kelime": "antibiyotik",
     "aciklama": "bakterilerin üremesini durduran veya onları öldüren antimikrobiyal ilaç.",
@@ -350,21 +266,21 @@
     "zorluk": "kolay"
   },
   {
-    "id": 26,
+    "id": 20,
     "kategori": "farmakoloji",
-    "kelime": "analjezik",
-    "aciklama": "sinirsel ağrı iletimini keserek ağrıyı dindiren ilaç grubu.",
+    "kelime": "ağrı kesici",
+    "aciklama": "baş, diş veya kas sızılarını dindiren yaygın ilaç.",
     "yasakli_kelimeler": [
-      "ağrı kesici",
-      "ağrı dindirici",
-      "parasetamol",
-      "morfin grubu",
-      "acı kesme"
+      "ağrı",
+      "sızı",
+      "parol",
+      "hap",
+      "rahatlama"
     ],
     "zorluk": "kolay"
   },
   {
-    "id": 27,
+    "id": 21,
     "kategori": "farmakoloji",
     "kelime": "antidepresan",
     "aciklama": "depresyon ve anksiyete belirtilerini azaltan psikiyatrik ilaç grubu.",
@@ -378,21 +294,21 @@
     "zorluk": "kolay"
   },
   {
-    "id": 28,
+    "id": 22,
     "kategori": "farmakoloji",
-    "kelime": "antihistaminik",
-    "aciklama": "alerjik reaksiyonlarda histaminin reseptörlere bağlanmasını engelleyen ilaç.",
+    "kelime": "alerji ilacı",
+    "aciklama": "kaşıntı, hapşırma ve alerjik reaksiyonları önleyen ilaç.",
     "yasakli_kelimeler": [
-      "alerji ilacı",
-      "kaşıntı kesici",
-      "saman nezlesi",
-      "kurdeşen",
-      "histamin blokeri"
+      "kaşıntı",
+      "alerji",
+      "hapşırma",
+      "polen",
+      "histamin"
     ],
     "zorluk": "kolay"
   },
   {
-    "id": 29,
+    "id": 23,
     "kategori": "farmakoloji",
     "kelime": "kas gevşetici",
     "aciklama": "kas spazmlarını ve gerginliğini azaltarak rahatlama sağlayan ilaç.",
@@ -406,35 +322,35 @@
     "zorluk": "kolay"
   },
   {
-    "id": 30,
+    "id": 24,
     "kategori": "farmakoloji",
-    "kelime": "antasit",
-    "aciklama": "mide asidini kimyasal olarak nötralize eden bazik ilaç.",
+    "kelime": "mide ilacı",
+    "aciklama": "mide yanması ve ekşimesini gideren çiğneme tableti.",
     "yasakli_kelimeler": [
-      "mide yanması",
-      "asit nötralize",
-      "çiğneme tableti",
-      "reflü ilacı",
-      "karbonatlı"
+      "mide",
+      "yanma",
+      "reflü",
+      "asit",
+      "çiğneme"
     ],
     "zorluk": "kolay"
   },
   {
-    "id": 31,
+    "id": 25,
     "kategori": "farmakoloji",
-    "kelime": "laksatif",
-    "aciklama": "bağırsak hareketlerini artırarak kabızlığı gideren ilaç grubu.",
+    "kelime": "müshil",
+    "aciklama": "kabızlığı gidermek için bağırsakları çalıştıran ilaç.",
     "yasakli_kelimeler": [
-      "kabızlık ilacı",
-      "müshil",
-      "bağırsak çalıştırıcı",
-      "dışkı yumuşatıcı",
-      "tahliye"
+      "kabızlık",
+      "bağırsak",
+      "tahliye",
+      "sindirim",
+      "şurup"
     ],
     "zorluk": "kolay"
   },
   {
-    "id": 32,
+    "id": 26,
     "kategori": "farmakoloji",
     "kelime": "aspirin",
     "aciklama": "trombosit kümeleşmesini ve ağrıyı engelleyen asetilsalisilik asit ilacı.",
@@ -448,7 +364,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 33,
+    "id": 27,
     "kategori": "farmakoloji",
     "kelime": "ibuprofen",
     "aciklama": "yaygın kullanılan nonsteroid antiinflamatuar ve ağrı kesici etken madde.",
@@ -462,7 +378,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 34,
+    "id": 28,
     "kategori": "farmakoloji",
     "kelime": "penisilin",
     "aciklama": "küf mantarından izole edilen tarihin ilk antibiyotiği.",
@@ -476,7 +392,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 35,
+    "id": 29,
     "kategori": "farmakoloji",
     "kelime": "insülin",
     "aciklama": "kandaki glukozun hücre içine girmesini sağlayan hayati anabolik hormon.",
@@ -491,20 +407,6 @@
   },
   {
     "kategori": "farmakoloji",
-    "kelime": "reçete yazmak",
-    "aciklama": "doktorun hastanın tedavisi için resmi ilaç belgesi düzenlemesi.",
-    "yasakli_kelimeler": [
-      "doktor",
-      "ilaç",
-      "eczane",
-      "kağıt",
-      "tedavi"
-    ],
-    "zorluk": "kolay",
-    "id": 36
-  },
-  {
-    "kategori": "farmakoloji",
     "kelime": "ilaç içmek",
     "aciklama": "doktorun önerdiği ilacı ağızdan suyla yutarak vücuda almak.",
     "yasakli_kelimeler": [
@@ -515,35 +417,7 @@
       "hasta"
     ],
     "zorluk": "kolay",
-    "id": 37
-  },
-  {
-    "kategori": "farmakoloji",
-    "kelime": "şurup içirmek",
-    "aciklama": "çocuklara sıvı formdaki ilacı ölçekli kaşıkla içirmek.",
-    "yasakli_kelimeler": [
-      "kaşık",
-      "tatlı",
-      "çocuk",
-      "sıvı",
-      "öksürük"
-    ],
-    "zorluk": "kolay",
-    "id": 38
-  },
-  {
-    "kategori": "farmakoloji",
-    "kelime": "krem sürmek",
-    "aciklama": "tıbbi merhemi cildin hastalıklı bölgesine masaj yaparak sürmek.",
-    "yasakli_kelimeler": [
-      "merhem",
-      "deri",
-      "ovmak",
-      "kaşıntı",
-      "cilt"
-    ],
-    "zorluk": "kolay",
-    "id": 39
+    "id": 30
   },
   {
     "kategori": "farmakoloji",
@@ -557,7 +431,7 @@
       "uyarı"
     ],
     "zorluk": "kolay",
-    "id": 40
+    "id": 31
   },
   {
     "kategori": "farmakoloji",
@@ -571,21 +445,7 @@
       "ağrı"
     ],
     "zorluk": "kolay",
-    "id": 41
-  },
-  {
-    "kategori": "farmakoloji",
-    "kelime": "göz damlası damlatmak",
-    "aciklama": "steril göz damlasını alt göz kapağını çekerek damlatmak.",
-    "yasakli_kelimeler": [
-      "göz",
-      "şişe",
-      "kırpmak",
-      "yaş",
-      "görme"
-    ],
-    "zorluk": "kolay",
-    "id": 42
+    "id": 32
   },
   {
     "kategori": "farmakoloji",
@@ -599,20 +459,6 @@
       "tarif"
     ],
     "zorluk": "kolay",
-    "id": 43
-  },
-  {
-    "kategori": "farmakoloji",
-    "kelime": "ağrı kesici almak",
-    "aciklama": "baş veya diş ağrısını dindirmek için analjezik almak.",
-    "yasakli_kelimeler": [
-      "baş ağrısı",
-      "parol",
-      "rahatlama",
-      "hap",
-      "sancı"
-    ],
-    "zorluk": "kolay",
-    "id": 44
+    "id": 33
   }
 ]

@@ -1,506 +1,338 @@
 [
   {
     "id": 1,
-    "kategori": "patoloji",
     "kelime": "gangren",
-    "aciklama": "uzuvda gelişen koagülasyon nekrozunun süperenfeksiyonla ıslak veya kuru hal alması.",
+    "kategori": "patoloji",
+    "aciklama": "kan akımı kesilen dokunun çürüyüp kararması durumu.",
     "yasakli_kelimeler": [
       "çürüme",
+      "kesilmek",
       "uzuv kaybı",
-      "kuru ıslak",
-      "ampütasyon",
-      "clostridium"
+      "ayak",
+      "enfeksiyon"
     ],
-    "zorluk": "kolay"
+    "zorluk": "orta"
   },
   {
     "id": 2,
-    "kategori": "patoloji",
     "kelime": "metastaz",
-    "aciklama": "veya kan ile uzak organlara göç edip ikincil odaklar kurması.",
+    "kategori": "patoloji",
+    "aciklama": "tümör hücrelerinin kanla diğer organlara sıçraması ve yayılması.",
     "yasakli_kelimeler": [
-      "uzak yayılım",
-      "ikincil kitle",
-      "lenfatik hematojen",
-      "tohumlanma",
-      "primer dışı"
+      "sıçrama",
+      "kanser yayılması",
+      "ikincil odak",
+      "tümör",
+      "organ"
     ],
-    "zorluk": "kolay"
+    "zorluk": "orta"
   },
   {
     "id": 3,
-    "kategori": "patoloji",
     "kelime": "emboli",
-    "aciklama": "sıvı veya gaz kitle.",
+    "kategori": "patoloji",
+    "aciklama": "kan dolaşımındaki bir pıhtının damarı aniden tıkaması.",
     "yasakli_kelimeler": [
-      "taşınan kitle",
-      "damar tıkacı",
-      "pulmoner emboli",
-      "uzak tıkanma",
-      "tromboemboli"
+      "tıkanma",
+      "pıhtı atması",
+      "damar",
+      "akciğer",
+      "felç"
     ],
-    "zorluk": "kolay"
+    "zorluk": "orta"
   },
   {
     "id": 4,
-    "kategori": "patoloji",
     "kelime": "ateroskleroz",
-    "aciklama": "kolesterol ve köpüksü makrofaj içeren plak oluşumu.",
+    "kategori": "patoloji",
+    "aciklama": "yağ ve kolesterol birikimiyle damar duvarının sertleşmesi.",
     "yasakli_kelimeler": [
       "damar sertliği",
-      "aterom plağı",
-      "kolesterol birikimi",
-      "köpük hücreleri",
-      "intima lezyonu"
+      "plak",
+      "kolesterol",
+      "kalp krizi",
+      "tıkanıklık"
     ],
-    "zorluk": "kolay"
+    "zorluk": "zor"
   },
   {
     "id": 5,
+    "kelime": "karaciğer sirozu",
     "kategori": "patoloji",
-    "kelime": "helikobakter pilori",
-    "aciklama": "peptik ülser ve malt lenfoma gelişiminde rol oynayan spiral bakteri.",
+    "aciklama": "karaciğer dokusunun sertleşip işlevini kaybetmesiyle gelişen hastalık.",
     "yasakli_kelimeler": [
-      "üreaz",
-      "gastrit mikrobu",
-      "ülser sebebi",
-      "maltoma",
-      "kronik gastrit"
+      "alkol",
+      "sarılık",
+      "hepatit",
+      "organ yetmezliği",
+      "karaciğer nakli"
     ],
-    "zorluk": "kolay"
+    "zorluk": "orta"
   },
   {
     "id": 6,
+    "kelime": "hematom",
     "kategori": "patoloji",
-    "kelime": "crohn hastalığı",
-    "aciklama": "transmural tutulum ve kazeifiye olmayan granülomlarla seyreden inflamatuar barsak hastalığı.",
+    "aciklama": "damar dışına sızan kanın doku içinde birikmesi.",
     "yasakli_kelimeler": [
-      "transmural tutulum",
-      "atlamalı lezyon",
-      "kazeifiye olmayan",
-      "fistül",
-      "kaldırım taşı"
+      "kan birikmesi",
+      "morluk",
+      "şişlik",
+      "iç kanama",
+      "darbe"
     ],
-    "zorluk": "kolay"
+    "zorluk": "orta"
   },
   {
     "id": 7,
+    "kelime": "cerahat",
     "kategori": "patoloji",
-    "kelime": "ülseratif kolit",
-    "aciklama": "sadece mukoza ve submukozayı tutan kript abseli kronik barsak hastalığı.",
+    "aciklama": "iltihaplı bölgede biriken sarı renkli koyu sıvı.",
     "yasakli_kelimeler": [
-      "kesintisiz tutulum",
-      "mukoza sınırlı",
-      "kript absesi",
-      "kanlı ishal",
-      "toksik megakolon"
+      "irin",
+      "iltihap sıvısı",
+      "sarı akıntı",
+      "abse",
+      "mikrop"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 8,
+    "kelime": "abse",
     "kategori": "patoloji",
-    "kelime": "karaciğer sirozu",
-    "aciklama": "ve rejenere hepatosit nodülleriyle giden geri dönüşsüz son dönem hasarı.",
+    "aciklama": "dokuda içi iltihapla dolu şişkinlik ve çıban.",
     "yasakli_kelimeler": [
-      "rejenerasyon nodülü",
-      "fibröz bantlar",
-      "portal hipertansiyon",
-      "fibrozis",
-      "parankim bozulması"
+      "iltihap kesesi",
+      "cerahat",
+      "şişlik",
+      "drenaj",
+      "enfeksiyon"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 9,
+    "kelime": "ülser",
     "kategori": "patoloji",
-    "kelime": "lipom",
-    "aciklama": "yumuşak kıvamlı en sık rastlanan benign mezenkimal tümör.",
+    "aciklama": "mide veya bağırsak iç yüzeyinde oluşan açık yara.",
     "yasakli_kelimeler": [
-      "yağ bezesi",
-      "benign yağ tümörü",
-      "adiposit",
-      "yumuşak kitle",
-      "kapsüllü"
+      "mide yarası",
+      "asit",
+      "ağrı",
+      "yanma",
+      "kanama"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 10,
+    "kelime": "iyi huylu",
     "kategori": "patoloji",
-    "kelime": "hematom",
-    "aciklama": "veya organ içine sızarak kitlesel hacim oluşturan pıhtılaşmış kan birikintisi.",
+    "aciklama": "çevreye yayılmayan ve tehlike yaratmayan zararsız tümör.",
     "yasakli_kelimeler": [
-      "kan kitlesi",
-      "pıhtı toplanması",
-      "kan göllenmesi",
-      "organ içi kan",
-      "doku içi kanama"
+      "selim",
+      "zararsız ur",
+      "metastaz yapmayan",
+      "kanser olmayan",
+      "temiz kitle"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 11,
+    "kelime": "kötü huylu",
     "kategori": "patoloji",
-    "kelime": "nekroz",
-    "aciklama": "sonucu hücre zarının parçalanıp sitoplazmanın dışarı sızdığı kontrolsüz doku ölümü.",
+    "aciklama": "hızla büyüyüp diğer dokulara sıçrayan kanserli tümör.",
     "yasakli_kelimeler": [
-      "doku ölümü",
-      "hücre harabiyeti",
-      "apoptoz zıddı",
-      "kontrolsüz ölüm",
-      "hücre erimesi"
+      "habis",
+      "kanserli kitle",
+      "tümör",
+      "tehlikeli ur",
+      "yayılma"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 12,
+    "kelime": "lenfoma",
     "kategori": "patoloji",
-    "kelime": "doku hasarı",
-    "aciklama": "veya mikrobik ajanların organ dokusundaki hücrelerin bütünlüğünü ve çalışmasını bozması.",
+    "aciklama": "bağışıklık sisteminin lenf bezlerinde gelişen kanser türü.",
     "yasakli_kelimeler": [
-      "organ tahribatı",
-      "lezyon oluşumu",
-      "hücre harabiyeti",
-      "patolojik yıkım",
-      "hasar"
+      "lenf bezi kanseri",
+      "hodgkin",
+      "bağışıklık",
+      "şişmiş bez",
+      "onkoloji"
     ],
-    "zorluk": "kolay"
+    "zorluk": "orta"
   },
   {
     "id": 13,
+    "kelime": "melanom",
     "kategori": "patoloji",
-    "kelime": "serbest radikal",
-    "aciklama": "elektron taşıyan ve hücre zarlarına saldırarak lipit peroksidasyonu yapan molekül.",
+    "aciklama": "derideki benlerden kaynaklanan tehlikeli cilt kanseri.",
     "yasakli_kelimeler": [
-      "eşleşmemiş elektron",
-      "oksidatif hasar",
-      "reaktif oksijen",
-      "hücre zarı tahribatı",
-      "antioksidan hedefi"
+      "cilt kanseri",
+      "ben",
+      "güneş ışığı",
+      "deri",
+      "leke"
     ],
     "zorluk": "orta"
   },
   {
     "id": 14,
+    "kelime": "biyopsi",
     "kategori": "patoloji",
-    "kelime": "cerahat",
-    "aciklama": "nekrotik doku ve bakteri kalıntılarından oluşan sarımsı koyu iltihap sıvısı.",
+    "aciklama": "mikroskopta incelemek üzere hastadan parça doku alma işlemi.",
     "yasakli_kelimeler": [
-      "irin",
-      "iltihap sıvısı",
-      "pü",
-      "abse içeriği",
-      "sarı akıntı"
+      "parça alma",
+      "patoloji",
+      "mikroskop",
+      "tahlil",
+      "kanser testi"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 15,
+    "kelime": "otopsi raporu",
     "kategori": "patoloji",
-    "kelime": "abse",
-    "aciklama": "etrafı fibröz duvarla çevrili kapalı cerahat kesesi.",
+    "aciklama": "ölünün incelenmesiyle ölüm nedenini bildiren resmi belge.",
     "yasakli_kelimeler": [
-      "kapalı irin odağı",
-      "cerahat kesesi",
-      "iltihap kisti",
-      "drenaj gerektiren",
-      "şişlik"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 16,
-    "kategori": "patoloji",
-    "kelime": "fistül",
-    "aciklama": "organ veya organ ile deri yüzeyi arasında oluşan anormal kanal.",
-    "yasakli_kelimeler": [
-      "anormal kanal",
-      "iki organ arası geçit",
-      "deriye açılan delik",
-      "kronik akıntı kanalı",
-      "perianal fistül"
+      "ölüm nedeni",
+      "adli tıp",
+      "ceset inceleme",
+      "rapor",
+      "belge"
     ],
     "zorluk": "orta"
   },
   {
-    "id": 17,
+    "id": 16,
+    "kelime": "lenf bezi",
     "kategori": "patoloji",
-    "kelime": "ülser",
-    "aciklama": "tabakasının dökülerek altındaki bağ dokusunun açığa çıktığı derin yara çukuru.",
+    "aciklama": "enfeksiyon ve kanserle savaşan filtre edici küçük organ.",
     "yasakli_kelimeler": [
-      "derin yara",
-      "mide ülseri",
-      "epitel kaybı",
-      "doku çukuru",
-      "açık lezyon"
+      "lenf nodu",
+      "şişme",
+      "bağışıklık",
+      "boyun",
+      "filtre"
     ],
     "zorluk": "kolay"
   },
   {
-    "id": 18,
+    "id": 17,
+    "kelime": "polip",
     "kategori": "patoloji",
-    "kelime": "skar dokusu",
-    "aciklama": "hücre yenilenmesi yetersiz kaldığında hasarlı yerin kollajen lifleriyle doldurulması izi.",
+    "aciklama": "bağırsak veya burun mukozasından dışa sarkan et parçası.",
     "yasakli_kelimeler": [
-      "yara izi",
-      "nedbe dokusu",
-      "kollajen dolgusu",
-      "iyileşme izi",
-      "fibrozis"
+      "et beni",
+      "bağırsak",
+      "mukoza",
+      "çıkıntı",
+      "alınması gereken"
+    ],
+    "zorluk": "orta"
+  },
+  {
+    "id": 18,
+    "kelime": "kist",
+    "kategori": "patoloji",
+    "aciklama": "içi sıvı veya hava dolu kapalı doku kesesi.",
+    "yasakli_kelimeler": [
+      "sıvı dolu kese",
+      "baloncuk",
+      "ameliyat",
+      "patlama",
+      "ultrason"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 19,
+    "kelime": "pıhtı",
     "kategori": "patoloji",
-    "kelime": "ödem sıvısı",
-    "aciklama": "aralıklarına anormal miktarda sıvı kaçması sonucu uzuvlarda oluşan şişlik sıvısı.",
+    "aciklama": "kanama bölgesinde kanın jelleşip katılaşmasıyla oluşan tıkaç.",
     "yasakli_kelimeler": [
-      "dokuda su birikmesi",
-      "şişlik sıvısı",
-      "hidrostatik basınç",
-      "damar sızıntısı",
-      "bacak şişmesi"
+      "damar tıkanıklığı",
+      "trombus",
+      "kan donması",
+      "aspirin",
+      "fibrin"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 20,
+    "kelime": "biyopsi almak",
     "kategori": "patoloji",
-    "kelime": "iyi huylu",
-    "aciklama": "başka organlara metastaz yapmayan selim neoplazm niteliği.",
+    "aciklama": "şüpheli dokudan cerrahi olarak incelenmek üzere parça koparmak.",
     "yasakli_kelimeler": [
-      "benign",
-      "selim tümör",
-      "metastaz yapmayan",
-      "kapsüllü ur",
-      "kötü huylu zıddı"
+      "iğneyle çekmek",
+      "parça kesmek",
+      "doku örneği",
+      "patolojiye göndermek",
+      "incelemek"
     ],
-    "zorluk": "kolay"
+    "zorluk": "orta"
   },
   {
     "id": 21,
+    "kelime": "teşhis koymak",
     "kategori": "patoloji",
-    "kelime": "kötü huylu",
-    "aciklama": "kan ile uzak organlara sıçrayarak hayatı tehdit eden habis ur.",
+    "aciklama": "hastalığın ne olduğunu belirtilerini ve tahlillerini inceleyerek saptamak.",
     "yasakli_kelimeler": [
-      "malign",
-      "habis tümör",
-      "kanser",
-      "metastaz yapan",
-      "iyi huylu zıddı"
+      "tanı koymak",
+      "doktor kararı",
+      "rapor yazmak",
+      "hastalığı bulmak",
+      "belirlemek"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 22,
+    "kelime": "otopsi yapmak",
     "kategori": "patoloji",
-    "kelime": "lenfoma",
-    "aciklama": "düğümlerinde ve lenfoid organlarında t veya b lenfositlerin habisleştiği kanser.",
+    "aciklama": "kesin ölüm nedenini belirlemek için cesedi açıp incelemek.",
     "yasakli_kelimeler": [
-      "lenf kanseri",
-      "hodgkin lenfoma",
-      "lenf bezi büyümesi",
-      "b lenfosit uru",
-      "lenfoid tümör"
+      "adli tıp",
+      "ceset kesmek",
+      "ölüm sebebi",
+      "morg",
+      "doktor"
     ],
-    "zorluk": "kolay"
+    "zorluk": "orta"
   },
   {
     "id": 23,
+    "kelime": "şişmek",
     "kategori": "patoloji",
-    "kelime": "melanom",
-    "aciklama": "hücrelerinden kaynaklanan ve çok hızlı metastaz yapan ölümcül ben kanseri.",
+    "aciklama": "dokularda sıvı toplanması veya iltihap nedeniyle hacmin büyümesi.",
     "yasakli_kelimeler": [
-      "malign melanom",
-      "ben kanseri",
-      "melanosit uru",
-      "siyah tümör",
-      "ölümcül cilt kanseri"
+      "ödem yapmak",
+      "büyümek",
+      "kabarmak",
+      "iltihaplanmak",
+      "şişlik"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 24,
-    "kategori": "patoloji",
-    "kelime": "biyopsi",
-    "aciklama": "amacıyla yaşayan hastanın vücudundan mikroskopta incelenmek üzere doku parçası alma.",
-    "yasakli_kelimeler": [
-      "doku alma",
-      "parça koparma",
-      "patolojik inceleme",
-      "kanser teşhisi",
-      "numune alma"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 25,
-    "kategori": "patoloji",
-    "kelime": "iğne biyopsisi",
-    "aciklama": "kitleye ultrason kılavuzluğunda ince veya kalın iğne batırılarak hücre çekilmesi.",
-    "yasakli_kelimeler": [
-      "trucut",
-      "iğneyle parça alma",
-      "enjektörle çekme",
-      "kalın iğne biyopsisi",
-      "iab"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 26,
-    "kategori": "patoloji",
-    "kelime": "otopsi raporu",
-    "aciklama": "organlarının patolojik incelenmesi sonucu kesin ölüm nedenini belgeleyen resmi evrak.",
-    "yasakli_kelimeler": [
-      "adli tıp raporu",
-      "ölüm nedeni belgesi",
-      "ceset otopsisi",
-      "patolog raporu",
-      "otopsi sonucu"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 27,
-    "kategori": "patoloji",
-    "kelime": "cerrahi sınır",
-    "aciklama": "kenarlarında çini mürekkebiyle işaretlenen hatta tümör hücresi kalıp kalmadığının tespiti.",
-    "yasakli_kelimeler": [
-      "temiz sınır",
-      "çini mürekkebi",
-      "kanser ucu",
-      "tümörsüz alan",
-      "pozitif negatif sınır"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 28,
-    "kategori": "patoloji",
-    "kelime": "lenf nodu",
-    "aciklama": "metastaz varlığının patolog tarafından tek tek kesilip arandığı lenf bezi.",
-    "yasakli_kelimeler": [
-      "lenf bezi",
-      "koltuk altı bezi",
-      "metastaz odağı",
-      "lenfatik istasyon",
-      "tümör sıçraması"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 29,
-    "kategori": "patoloji",
-    "kelime": "polip",
-    "aciklama": "içine doğru mantar veya et beni gibi sarkan doku çıkıntısı.",
-    "yasakli_kelimeler": [
-      "bağırsak polipi",
-      "saplı kitle",
-      "et beni benzeri",
-      "mukozal çıkıntı",
-      "adenomatöz lezyon"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 30,
-    "kategori": "patoloji",
-    "kelime": "kist",
-    "aciklama": "dolu olan ve duvarı gerçek epitel tabakasıyla döşeli kapalı boşluk.",
-    "yasakli_kelimeler": [
-      "içi sıvı dolu kese",
-      "epitel döşeli boşluk",
-      "kist hidatik",
-      "yumurtalık kisti",
-      "kapsüllü sıvı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 31,
-    "kategori": "patoloji",
-    "kelime": "pıhtı",
-    "aciklama": "ve trombositlerin birleşerek kanamayı durduran veya damarı tıkayan jel kitle.",
-    "yasakli_kelimeler": [
-      "trombüs",
-      "kan pıhtılaşması",
-      "fibrin yumağı",
-      "trombosit tıkacı",
-      "pıhtı kitlesi"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "kategori": "patoloji",
-    "kelime": "biyopsi almak",
-    "aciklama": "hastalıklı organdan iğne veya cerrahiyle küçük doku parçası koparmak",
-    "yasakli_kelimeler": [
-      "doku",
-      "parça",
-      "iğne",
-      "cerrahi",
-      "organ"
-    ],
-    "zorluk": "kolay",
-    "id": 32
-  },
-  {
-    "kategori": "patoloji",
-    "kelime": "teşhis koymak",
-    "aciklama": "dokudaki kanser veya iltihap varlığını saptayıp raporlamak",
-    "yasakli_kelimeler": [
-      "tanı",
-      "rapor",
-      "kanser",
-      "iltihap",
-      "sonuç"
-    ],
-    "zorluk": "kolay",
-    "id": 33
-  },
-  {
-    "kategori": "patoloji",
-    "kelime": "otopsi yapmak",
-    "aciklama": "şüpheli ölümün kesin nedenini bulmak için cesedi açıp incelemek",
-    "yasakli_kelimeler": [
-      "ceset",
-      "ölüm nedeni",
-      "adli tıp",
-      "açmak",
-      "morga"
-    ],
-    "zorluk": "kolay",
-    "id": 34
-  },
-  {
-    "kategori": "patoloji",
-    "kelime": "şişmek",
-    "aciklama": "iltihaplı bölgeye sıvı toplanması sonucu ödem meydana gelmesi",
-    "yasakli_kelimeler": [
-      "ödem",
-      "sıvı toplanması",
-      "iltihap",
-      "büyüme",
-      "iltihabi"
-    ],
-    "zorluk": "kolay",
-    "id": 35
-  },
-  {
-    "kategori": "patoloji",
     "kelime": "iyileşmek",
-    "aciklama": "hasarlı dokunun nedbe dokusu oluşturarak tamir olması",
+    "kategori": "patoloji",
+    "aciklama": "hastalıklı veya hasarlı dokunun kendini onarıp sağlığına kavuşması.",
     "yasakli_kelimeler": [
-      "tamir",
-      "nedbe",
-      "skar",
-      "düzelme",
-      "hücre"
+      "sağlığına kavuşmak",
+      "düzelmek",
+      "şifa bulmak",
+      "onarım",
+      "kapanmak"
     ],
-    "zorluk": "kolay",
-    "id": 36
+    "zorluk": "kolay"
   }
 ]

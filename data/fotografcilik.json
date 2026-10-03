@@ -72,14 +72,14 @@
   {
     "id": 6,
     "kategori": "fotografcilik",
-    "kelime": "geniş açılı lens",
-    "aciklama": "geniş manzara alanlarını kadraja sığdıran kısa odaklı objektif.",
+    "kelime": "geniş açı",
+    "aciklama": "manzara çekimlerinde geniş alanı kadraja sığdıran objektif açısı.",
     "yasakli_kelimeler": [
       "manzara",
-      "geniş kadraj",
-      "kısa odak",
-      "mekan",
-      "perspektif"
+      "kadraj",
+      "lens",
+      "perspektif",
+      "objektif"
     ],
     "zorluk": "kolay"
   },
@@ -352,13 +352,13 @@
   {
     "id": 26,
     "kategori": "fotografcilik",
-    "kelime": "su altı fotoğrafçılığı",
-    "aciklama": "özel su altı kılıflarıyla deniz altı yaşamını fotoğraflama sanatı.",
+    "kelime": "sualtı çekimi",
+    "aciklama": "özel su geçirmez kılıflarla deniz altını fotoğraflama.",
     "yasakli_kelimeler": [
-      "housing",
+      "deniz",
       "dalgıç",
-      "deniz altı",
-      "resif",
+      "balık",
+      "kamera",
       "su geçirmez"
     ],
     "zorluk": "kolay"
@@ -660,20 +660,6 @@
   {
     "id": 48,
     "kategori": "fotografcilik",
-    "kelime": "gölge detayı",
-    "aciklama": "fotoğrafın karanlık bölgelerinde saklanan ve kurtarılabilen detay zenginliği.",
-    "yasakli_kelimeler": [
-      "karanlık ayrıntı",
-      "dinamik aralık",
-      "gölge kurtarma",
-      "karanlık ton",
-      "detay"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 49,
-    "kategori": "fotografcilik",
     "kelime": "keskinlik",
     "aciklama": "görüntüdeki kenarların ve detayların net ve belirgin olma derecesi.",
     "yasakli_kelimeler": [
@@ -686,7 +672,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 50,
+    "id": 49,
     "kategori": "fotografcilik",
     "kelime": "mercek kapağı",
     "aciklama": "objektif ön camını toza ve çizilmeye karşı koruyan plastik kapak.",
@@ -700,7 +686,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 51,
+    "id": 50,
     "kategori": "fotografcilik",
     "kelime": "boyun askısı",
     "aciklama": "makineyi boyna asarak düşmesini engelleyen dayanıklı kumaş askı.",
@@ -714,7 +700,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 52,
+    "id": 51,
     "kategori": "fotografcilik",
     "kelime": "fotoğraf çantası",
     "aciklama": "makine, lensler ve aksesuarları darbelere karşı koruyan bölmeli çanta.",
@@ -728,7 +714,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 53,
+    "id": 52,
     "kategori": "fotografcilik",
     "kelime": "yedek batarya",
     "aciklama": "çekimin yarıda kalmaması için çantada taşınan ekstra dolu pil.",
@@ -742,7 +728,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 54,
+    "id": 53,
     "kategori": "fotografcilik",
     "kelime": "kart okuyucu",
     "aciklama": "hafıza kartındaki fotoğrafları bilgisayara hızla aktaran usb adaptör aparatı.",
@@ -756,7 +742,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 55,
+    "id": 54,
     "kategori": "fotografcilik",
     "kelime": "stüdyo fonu",
     "aciklama": "stüdyoda çekimlerin arkasına asılan kumaş veya kağıt arka plan fonu.",
@@ -770,7 +756,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 56,
+    "id": 55,
     "kategori": "fotografcilik",
     "kelime": "yeşil perde",
     "aciklama": "arka planı dijital değiştirmek için kullanılan yeşil stüdyo fonu.",
@@ -784,7 +770,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 57,
+    "id": 56,
     "kategori": "fotografcilik",
     "kelime": "portre fotoğrafçılığı",
     "aciklama": "insan yüzünü, ifadesini ve karakterini odağa alan fotoğrafçılık türü.",
@@ -798,7 +784,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 58,
+    "id": 57,
     "kategori": "fotografcilik",
     "kelime": "manzara fotoğrafçılığı",
     "aciklama": "doğal çevreyi, dağları, denizleri ve kırları konu alan fotoğrafçılık.",
@@ -812,7 +798,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 59,
+    "id": 58,
     "kategori": "fotografcilik",
     "kelime": "spor fotoğrafçılığı",
     "aciklama": "atletik müsabakaları ve hızlı hareketli spor anlarını fotoğraflama uzmanlığı.",
@@ -826,7 +812,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 60,
+    "id": 59,
     "kategori": "fotografcilik",
     "kelime": "düğün fotoğrafçılığı",
     "aciklama": "evlilik törenini, çiftin duygularını ve kutlamaları belgeleyen fotoğrafçılık.",
@@ -840,7 +826,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 61,
+    "id": 60,
     "kategori": "fotografcilik",
     "kelime": "doğum fotoğrafçılığı",
     "aciklama": "hastanede doğum anını ve bebeğin ilk dakikalarını belgeleyen fotoğrafçılık.",
@@ -854,7 +840,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 62,
+    "id": 61,
     "kategori": "fotografcilik",
     "kelime": "gece fotoğrafçılığı",
     "aciklama": "karanlıkta sokakları, şehir ışıklarını ve geceyi fotoğraflama türü.",
@@ -868,7 +854,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 63,
+    "id": 62,
     "kategori": "fotografcilik",
     "kelime": "silüet çekimi",
     "aciklama": "ters ışıkta nesnenin yalnızca siyah hatlarıyla belirdiği sanatsal çekim.",
@@ -882,7 +868,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 64,
+    "id": 63,
     "kategori": "fotografcilik",
     "kelime": "hareket dondurma",
     "aciklama": "yüksek enstantane hızı kullanarak hızla hareket eden nesneyi havada dondurma.",
@@ -896,7 +882,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 65,
+    "id": 64,
     "kategori": "fotografcilik",
     "kelime": "vesikalık",
     "aciklama": "resmi evraklarda kullanılan standart ölçülü ve sade fonlu yüz fotoğrafı.",
@@ -910,7 +896,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 66,
+    "id": 65,
     "kategori": "fotografcilik",
     "kelime": "biyometrik fotoğraf",
     "aciklama": "pasaport ve kimlikler için uluslararası standartlara uygun yüz fotoğrafı.",
@@ -924,7 +910,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 67,
+    "id": 66,
     "kategori": "fotografcilik",
     "kelime": "polaroid",
     "aciklama": "çekildikten saniyeler sonra kendi kendine banyo olup çıkan kimyasal fotoğraf.",
@@ -938,7 +924,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 68,
+    "id": 67,
     "kategori": "fotografcilik",
     "kelime": "şipşak makine",
     "aciklama": "film haznesi içinde yerleşik anında baskı veren kompakt fotoğraf makinesi.",
@@ -952,7 +938,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 69,
+    "id": 68,
     "kategori": "fotografcilik",
     "kelime": "piksel",
     "aciklama": "dijital görüntüyü oluşturan en küçük renkli kare şeklindeki görüntü noktası.",
@@ -977,7 +963,7 @@
       "makine"
     ],
     "zorluk": "kolay",
-    "id": 70
+    "id": 69
   },
   {
     "kategori": "fotografcilik",
@@ -991,7 +977,7 @@
       "ses"
     ],
     "zorluk": "kolay",
-    "id": 71
+    "id": 70
   },
   {
     "kategori": "fotografcilik",
@@ -1005,7 +991,7 @@
       "göz"
     ],
     "zorluk": "kolay",
-    "id": 72
+    "id": 71
   },
   {
     "kategori": "fotografcilik",
@@ -1019,7 +1005,7 @@
       "aydınlatma"
     ],
     "zorluk": "kolay",
-    "id": 73
+    "id": 72
   },
   {
     "kategori": "fotografcilik",
@@ -1033,7 +1019,7 @@
       "kol uzatmak"
     ],
     "zorluk": "kolay",
-    "id": 74
+    "id": 73
   },
   {
     "kategori": "fotografcilik",
@@ -1047,21 +1033,7 @@
       "yakın"
     ],
     "zorluk": "kolay",
-    "id": 75
-  },
-  {
-    "kategori": "fotografcilik",
-    "kelime": "albüm yapmak",
-    "aciklama": "çekilen güzel fotoğrafları baskı alıp ciltli albümde toplamak.",
-    "yasakli_kelimeler": [
-      "baskı",
-      "sayfa",
-      "fotoğraf dizmek",
-      "anı",
-      "hatıra"
-    ],
-    "zorluk": "kolay",
-    "id": 76
+    "id": 74
   },
   {
     "kategori": "fotografcilik",
@@ -1075,49 +1047,7 @@
       "model"
     ],
     "zorluk": "kolay",
-    "id": 77
-  },
-  {
-    "kategori": "fotografcilik",
-    "kelime": "fotoğrafı silmek",
-    "aciklama": "hafıza kartındaki bulanık veya hatalı çekilmiş fotoğrafları silmek.",
-    "yasakli_kelimeler": [
-      "çöp kutusu",
-      "kötü çıkmak",
-      "hafıza kartı",
-      "kaldırmak",
-      "beğenmemek"
-    ],
-    "zorluk": "kolay",
-    "id": 78
-  },
-  {
-    "kategori": "fotografcilik",
-    "kelime": "gülümsemek",
-    "aciklama": "portre çekilirken kameraya bakıp neşeyle tebessüm etmek.",
-    "yasakli_kelimeler": [
-      "peynir",
-      "mutlu",
-      "surat",
-      "yüz",
-      "poz"
-    ],
-    "zorluk": "kolay",
-    "id": 79
-  },
-  {
-    "kategori": "fotografcilik",
-    "kelime": "manzara çekmek",
-    "aciklama": "doğal kırları, dağları ve denizleri geniş açıyla fotoğraflamak.",
-    "yasakli_kelimeler": [
-      "doğa",
-      "dağ",
-      "deniz",
-      "güneş",
-      "geniş açı"
-    ],
-    "zorluk": "kolay",
-    "id": 80
+    "id": 75
   },
   {
     "kategori": "fotografcilik",
@@ -1131,21 +1061,7 @@
       "vizör"
     ],
     "zorluk": "orta",
-    "id": 81
-  },
-  {
-    "kategori": "fotografcilik",
-    "kelime": "portre çekmek",
-    "aciklama": "insan yüzünü ve ifadesini estetik ışıkla fotoğraflamak.",
-    "yasakli_kelimeler": [
-      "yüz",
-      "insan",
-      "model",
-      "85mm",
-      "ifade"
-    ],
-    "zorluk": "orta",
-    "id": 82
+    "id": 76
   },
   {
     "kategori": "fotografcilik",
@@ -1159,7 +1075,7 @@
       "renk ayarı"
     ],
     "zorluk": "orta",
-    "id": 83
+    "id": 77
   },
   {
     "kategori": "fotografcilik",
@@ -1173,6 +1089,6 @@
       "odak"
     ],
     "zorluk": "orta",
-    "id": 84
+    "id": 78
   }
 ]

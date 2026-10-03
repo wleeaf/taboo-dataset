@@ -3,7 +3,7 @@
     "id": 1,
     "kategori": "tesisat",
     "kelime": "sifon",
-    "aciklama": "lavabo veya klozet giderinde su tutarak pis kanalizasyon kokularının ve.",
+    "aciklama": "gider borusunda koku kaçışını engelleyen su tuzaklı düzenek.",
     "yasakli_kelimeler": [
       "koku önleyici",
       "su perdesi",
@@ -16,36 +16,8 @@
   {
     "id": 2,
     "kategori": "tesisat",
-    "kelime": "manometre",
-    "aciklama": "kapalı boru devreleri ve kazanlardaki su veya gaz akışkan basıncını.",
-    "yasakli_kelimeler": [
-      "basınç göstergesi",
-      "bar saati",
-      "ibreli saat",
-      "tesisat basıncı",
-      "ölçüm"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 3,
-    "kategori": "tesisat",
-    "kelime": "genleşme tankı",
-    "aciklama": "kapalı devre ısıtma tesisatında ısınan suyun artan hacmini membranla dengeleyerek.",
-    "yasakli_kelimeler": [
-      "membran",
-      "hacim genleşmesi",
-      "kombi tankı",
-      "basınç dengeleme",
-      "kapalı devre"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 4,
-    "kategori": "tesisat",
     "kelime": "hidrofor",
-    "aciklama": "şebeke su basıncının yetersiz kaldığı binalarda suyu basınçlandırarak üst katlara.",
+    "aciklama": "binalarda su basıncını artırarak üst katlara su basan pompa.",
     "yasakli_kelimeler": [
       "su pompası",
       "basınç artırıcı",
@@ -56,24 +28,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 5,
-    "kategori": "tesisat",
-    "kelime": "çekvalf",
-    "aciklama": "borulardaki akışkanın sadece tek bir yönde akmasına izin veren ve.",
-    "yasakli_kelimeler": [
-      "tek yönlü vana",
-      "geri akış önleyici",
-      "klape",
-      "akış kontrolü",
-      "geri tepme"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 6,
+    "id": 3,
     "kategori": "tesisat",
     "kelime": "termostatik vana",
-    "aciklama": "radyatörün girişine takılarak oda sıcaklığı ayarlanan dereceye geldiğinde sıcak su.",
+    "aciklama": "oda sıcaklığına göre radyatörün su akışını kısan vana.",
     "yasakli_kelimeler": [
       "radyatör vanası",
       "oda sıcaklığı",
@@ -84,21 +42,7 @@
     "zorluk": "zor"
   },
   {
-    "id": 7,
-    "kategori": "tesisat",
-    "kelime": "sirkülasyon pompası",
-    "aciklama": "kombi ve kazanlarda ısınan sıcak suyun radyatörler veya yerden ısıtma.",
-    "yasakli_kelimeler": [
-      "devirdaim",
-      "dolaşım pompası",
-      "kombi pompası",
-      "sıcak su akışı",
-      "motor"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 8,
+    "id": 4,
     "kategori": "tesisat",
     "kelime": "dirsek",
     "aciklama": "boru hattının yönünü kırk beş veya doksan derece değiştirmek amacıyla.",
@@ -112,7 +56,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 9,
+    "id": 5,
     "kategori": "tesisat",
     "kelime": "keten",
     "aciklama": "metal dişli boru bağlantılarında sızdırmazlığı sağlamak için vida dişlerine sarılan.",
@@ -126,10 +70,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 10,
+    "id": 6,
     "kategori": "tesisat",
     "kelime": "teflon bant",
-    "aciklama": "su ve gaz borularının dişli kısımlarına sarılarak sızmayı önleyen beyaz.",
+    "aciklama": "boru dişlerine sarılarak sızdırmazlık sağlayan beyaz yalıtım şeridi.",
     "yasakli_kelimeler": [
       "ptfe bant",
       "beyaz bant",
@@ -140,10 +84,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 11,
+    "id": 7,
     "kategori": "tesisat",
     "kelime": "boru anahtarı",
-    "aciklama": "silindirik düz boruları dişli çeneleriyle kuvvetlice kavrayarak sıkmaya veya sökmeye.",
+    "aciklama": "silindirik boruları kavramak ve sıkmak için kullanılan alet.",
     "yasakli_kelimeler": [
       "maşon anahtarı",
       "tırtıklı çene",
@@ -154,7 +98,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 12,
+    "id": 8,
     "kategori": "tesisat",
     "kelime": "boru makası",
     "aciklama": "plastik temiz su ve pprc borularını ezmeden ve dik açıyla.",
@@ -168,10 +112,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 13,
+    "id": 9,
     "kategori": "tesisat",
     "kelime": "radyatör",
-    "aciklama": "içinden geçen sıcak suyun ısısını kanatçıkları ile odaya konveksiyon ve.",
+    "aciklama": "içindeki sıcak suyla bulunduğu mekanı ısıtan petek gövde.",
     "yasakli_kelimeler": [
       "kalorifer peteği",
       "ısıtıcı panel",
@@ -182,7 +126,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 14,
+    "id": 10,
     "kategori": "tesisat",
     "kelime": "yerden ısıtma",
     "aciklama": "şap betonunun altına döşenen pex borulardan düşük sıcaklıkta su dolaştırılarak.",
@@ -196,21 +140,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 15,
-    "kategori": "tesisat",
-    "kelime": "boyler",
-    "aciklama": "kazandan gelen sıcak suyun serpantin içinde dolaşmasıyla büyük hacimli kullanım.",
-    "yasakli_kelimeler": [
-      "sıcak su deposu",
-      "serpantinli tank",
-      "kullanım suyu kazanı",
-      "emaye tank",
-      "büyük hacim"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 16,
+    "id": 11,
     "kategori": "tesisat",
     "kelime": "pisuvar",
     "aciklama": "özellikle umumi tuvaletlerde erkeklerin ayakta kullanımına uygun olarak duvara monte.",
@@ -224,7 +154,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 17,
+    "id": 12,
     "kategori": "tesisat",
     "kelime": "fotoselli batarya",
     "aciklama": "altındaki kızılötesi sensör ile el yaklaştırıldığında dokunmadan suyu otomatik akıtan.",
@@ -238,49 +168,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 18,
-    "kategori": "tesisat",
-    "kelime": "küresel vana",
-    "aciklama": "gövdesi içindeki delikli kürenin çeyrek tur döndürülmesiyle su veya gaz.",
-    "yasakli_kelimeler": [
-      "delikli küre",
-      "çeyrek tur vana",
-      "tam geçişli vana",
-      "hızlı kapama",
-      "kol"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 19,
-    "kategori": "tesisat",
-    "kelime": "kelebek vana",
-    "aciklama": "büyük çaplı endüstriyel borularda akış eksenine dik mil etrafında dönen.",
-    "yasakli_kelimeler": [
-      "disk vana",
-      "merkezi disk",
-      "büyük çap",
-      "endüstriyel vana",
-      "aktüatör"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 20,
-    "kategori": "tesisat",
-    "kelime": "basınç düşürücü",
-    "aciklama": "şebekeden gelen aşırı yüksek su basıncını tesisatın ve armatürlerin patlamaması.",
-    "yasakli_kelimeler": [
-      "regülatör",
-      "yüksek şebeke basıncı",
-      "tazyik düşürücü",
-      "armatür koruma",
-      "ayar ventili"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 21,
+    "id": 13,
     "kategori": "tesisat",
     "kelime": "termosifon",
     "aciklama": "banyolarda kullanım suyunu elektrikli rezistans ile ısıtıp kendi yalıtımlı kazanında.",
@@ -294,10 +182,10 @@
     "zorluk": "orta"
   },
   {
-    "id": 22,
+    "id": 14,
     "kategori": "tesisat",
     "kelime": "şofben",
-    "aciklama": "içinden geçen soğuk suyu doğalgaz veya tüpgaz aleviyle anında ısıtarak.",
+    "aciklama": "kullanım suyunu doğalgaz veya tüple anında ısıtan cihaz.",
     "yasakli_kelimeler": [
       "gazlı su ısıtıcı",
       "ani su ısıtıcı",
@@ -308,10 +196,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 23,
+    "id": 15,
     "kategori": "tesisat",
     "kelime": "yoğuşmalı kombi",
-    "aciklama": "atık baca gazındaki su buharını özel eşanjöründe yoğuşturarak gizli ısıyı.",
+    "aciklama": "baca gazındaki buharı yoğunlaştırarak ekstra verim sağlayan kombi.",
     "yasakli_kelimeler": [
       "baca gazı yoğuşması",
       "gizli ısı",
@@ -322,24 +210,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 24,
-    "kategori": "tesisat",
-    "kelime": "atık su borusu",
-    "aciklama": "bina içindeki lavabo, tuvalet ve banyo giderlerinden çıkan pis suları.",
-    "yasakli_kelimeler": [
-      "pis su kanalı",
-      "bina gideri",
-      "kanalizasyon tahliyesi",
-      "akıntı borusu",
-      "lavabo hattı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 25,
+    "id": 16,
     "kategori": "tesisat",
     "kelime": "yer süzgeci",
-    "aciklama": "banyo ve balkon zeminlerindeki yüzey suyunu tahliye eden, içinde koku.",
+    "aciklama": "banyo veya balkon zeminindeki suyu gidere akıtan ızgara.",
     "yasakli_kelimeler": [
       "banyo gideri",
       "yer ızgarası",
@@ -350,10 +224,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 26,
+    "id": 17,
     "kategori": "tesisat",
     "kelime": "gömme rezervuar",
-    "aciklama": "klozet su haznesinin ve yıkama mekanizmasının tuğla duvar içine gömülerek.",
+    "aciklama": "duvarın içine gömülerek yerden tasarruf sağlayan sifon deposu.",
     "yasakli_kelimeler": [
       "duvar içi sifon",
       "gizli hazne",
@@ -364,7 +238,7 @@
     "zorluk": "zor"
   },
   {
-    "id": 27,
+    "id": 18,
     "kategori": "tesisat",
     "kelime": "asma klozet",
     "aciklama": "yere basmayıp gömme rezervuara ait duvardaki çelik taşıyıcı şaseye asılan.",
@@ -378,21 +252,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 28,
-    "kategori": "tesisat",
-    "kelime": "ara musluk",
-    "aciklama": "lavabo veya klozet rezervuarı bağlantısı altına konarak arıza anında sadece.",
-    "yasakli_kelimeler": [
-      "taharet musluğu",
-      "küçük filtreli musluk",
-      "lavabo altı vana",
-      "cihaz vanası",
-      "filtreli musluk"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 29,
+    "id": 19,
     "kategori": "tesisat",
     "kelime": "su sayacı",
     "aciklama": "şebekeden abonenin konutuna giren temiz suyun hacmini metreküp cinsinden ölçüp.",
@@ -406,7 +266,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 30,
+    "id": 20,
     "kategori": "tesisat",
     "kelime": "doğalgaz sayacı",
     "aciklama": "binaya giren gazın akış miktarını diyafram körükleri veya rotary pistonlarla.",
@@ -420,35 +280,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 31,
-    "kategori": "tesisat",
-    "kelime": "gaz alarm cihazı",
-    "aciklama": "ortamdaki metan veya lpg sızıntısını algılayarak sesli alarm veren ve.",
-    "yasakli_kelimeler": [
-      "metan dedektörü",
-      "sızıntı alarmı",
-      "gaz sensörü",
-      "solenoid tetikleme",
-      "uyarı cihazı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 32,
-    "kategori": "tesisat",
-    "kelime": "su yumuşatma cihazı",
-    "aciklama": "sert şebeke suyundaki kalsiyum ve magnezyum iyonlarını reçine tankından geçirip.",
-    "yasakli_kelimeler": [
-      "reçine tankı",
-      "kireç arıtma",
-      "tuz tankı",
-      "iyon değişimi",
-      "yumuşak su"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 33,
+    "id": 21,
     "kategori": "tesisat",
     "kelime": "karbon filtre",
     "aciklama": "suyun içindeki kloru, kötü kokuyu ve organik kimyasalları gözeneklerine emerek.",
@@ -462,21 +294,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 34,
-    "kategori": "tesisat",
-    "kelime": "tıkanıklık açma teli",
-    "aciklama": "lavabo, klozet veya kanalizasyon borularındaki katı tıkanıklıkları dönerek veya iterek.",
-    "yasakli_kelimeler": [
-      "sustalı tel",
-      "spiral yay",
-      "lavabo açıcı",
-      "tıkanma",
-      "kanal gideri"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 35,
+    "id": 22,
     "kategori": "tesisat",
     "kelime": "şamandıra",
     "aciklama": "suyun üzerinde yüzerek rezervuardaki su seviyesini mekanik veya elektriksel olarak.",
@@ -490,49 +308,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 36,
-    "kategori": "tesisat",
-    "kelime": "taharet çubuğu",
-    "aciklama": "alaturka veya alafranga klozetlerin arka iç kısmına monte edilerek kişisel.",
-    "yasakli_kelimeler": [
-      "klozet fıskiyesi",
-      "küçük su borusu",
-      "kişisel temizlik ucu",
-      "yıkama nozulu",
-      "taharet ucu"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 37,
-    "kategori": "tesisat",
-    "kelime": "aç kapa batarya",
-    "aciklama": "tek bir kolun sağa sola ve yukarı aşağı hareketiyle hem.",
-    "yasakli_kelimeler": [
-      "tek kollu musluk",
-      "mikser batarya",
-      "seramik kartuşlu",
-      "karıştırıcı musluk",
-      "banyo bataryası"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 38,
-    "kategori": "tesisat",
-    "kelime": "duş kanalı",
-    "aciklama": "modern banyolarda duşakabin zeminine boydan boya yerleştirilen paslanmaz çelik ızgaralı.",
-    "yasakli_kelimeler": [
-      "lineer gider",
-      "çelik ızgaralı kanal",
-      "boyuna süzgeç",
-      "hemzemin duş",
-      "zemin kanalı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 39,
+    "id": 23,
     "kategori": "tesisat",
     "kelime": "yangın dolabı",
     "aciklama": "binalarda acil yangın müdahalesi için içinde su vanası, yarı rijit.",
@@ -546,7 +322,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 40,
+    "id": 24,
     "kategori": "tesisat",
     "kelime": "foseptik",
     "aciklama": "kanalizasyon şebekesi bulunmayan yerleşimlerde atık suların ve dışkıların toplanıp çökeltildiği.",
@@ -560,7 +336,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 41,
+    "id": 25,
     "kategori": "tesisat",
     "kelime": "vidanjör",
     "aciklama": "kanalizasyon tıkanıklıklarını yüksek basınçlı suyla açan ve foseptik çukurlarını vakum.",
@@ -574,7 +350,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 42,
+    "id": 26,
     "kategori": "tesisat",
     "kelime": "lavabo",
     "aciklama": "banyoda veya tuvalette el ve yüz yıkamak için kullanılan, altında.",
@@ -588,10 +364,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 43,
+    "id": 27,
     "kategori": "tesisat",
     "kelime": "eviye",
-    "aciklama": "mutfak tezgahına gömülen, bulaşık yıkamak ve sebze meyve temizlemek için.",
+    "aciklama": "mutfak tezgahına gömülen, bulaşık yıkamak ve sebze meyve temizlemek.",
     "yasakli_kelimeler": [
       "mutfak tezgahı",
       "bulaşık yıkama",
@@ -602,7 +378,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 44,
+    "id": 28,
     "kategori": "tesisat",
     "kelime": "küvet",
     "aciklama": "banyoda içine su doldurularak uzanıp yıkanmak için tasarlanmış geniş akrilik.",
@@ -616,10 +392,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 45,
+    "id": 29,
     "kategori": "tesisat",
     "kelime": "duşakabin",
-    "aciklama": "duş alırken suların banyo zeminine sıçramasını önleyen cam veya mika.",
+    "aciklama": "banyoda duş alırken suların dışarı sıçramasını önleyen kabin.",
     "yasakli_kelimeler": [
       "sıçrama önleyici",
       "temperli cam",
@@ -630,7 +406,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 46,
+    "id": 30,
     "kategori": "tesisat",
     "kelime": "duş başlığı",
     "aciklama": "spiral hortumun ucunda bulunan ve suyu yağmur gibi ince deliklerden.",
@@ -644,7 +420,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 47,
+    "id": 31,
     "kategori": "tesisat",
     "kelime": "klozet",
     "aciklama": "üzerine oturularak insan dışkısının suyla kanalizasyona gönderildiği sifonlu seramik hela.",
@@ -658,7 +434,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 48,
+    "id": 32,
     "kategori": "tesisat",
     "kelime": "klozet kapağı",
     "aciklama": "klozetin üzerine menteşeyle takılan, hijyen sağlayan ve amortisörle yavaşça kapanabilen.",
@@ -672,7 +448,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 49,
+    "id": 33,
     "kategori": "tesisat",
     "kelime": "musluk",
     "aciklama": "borudaki suyun akışını açıp kapatan veya miktarını ayarlayan en temel.",
@@ -686,7 +462,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 50,
+    "id": 34,
     "kategori": "tesisat",
     "kelime": "batarya",
     "aciklama": "sıcak ve soğuk suyu tek bir gövdede karıştırarak istenen sıcaklıkta.",
@@ -700,10 +476,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 51,
+    "id": 35,
     "kategori": "tesisat",
     "kelime": "taharet musluğu",
-    "aciklama": "klozetin hemen yanına duvara monte edilen ve taharet çubuğuna tazyikli.",
+    "aciklama": "klozetin yanında bulunan kişisel temizlik için küçük musluk.",
     "yasakli_kelimeler": [
       "klozet yanı",
       "ara musluk",
@@ -714,7 +490,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 52,
+    "id": 36,
     "kategori": "tesisat",
     "kelime": "rezervuar",
     "aciklama": "klozetin arkasında veya duvarın içinde su depolayarak sifona basıldığında klozeti.",
@@ -728,10 +504,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 53,
+    "id": 37,
     "kategori": "tesisat",
     "kelime": "su tesisatı",
-    "aciklama": "şebekeden gelen temiz suyu musluklara taşıyan ve kirli suyu kanalizasyona.",
+    "aciklama": "temiz suyu getiren ve pis suyu tahliye eden boru ağı.",
     "yasakli_kelimeler": [
       "temiz ve atık su",
       "şebeke bağlantısı",
@@ -742,10 +518,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 54,
+    "id": 38,
     "kategori": "tesisat",
     "kelime": "gaz tesisatı",
-    "aciklama": "doğalgazı sayaçtan alıp kombi ve ocağa sızdırmaz çelik borularla güvenle.",
+    "aciklama": "doğalgazı borularla ocak ve kombiye taşıyan sızdırmaz hat.",
     "yasakli_kelimeler": [
       "doğalgaz borusu",
       "kombi hattı",
@@ -756,10 +532,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 55,
+    "id": 39,
     "kategori": "tesisat",
     "kelime": "sıhhi tesisat",
-    "aciklama": "insan sağlığını korumak amacıyla yapılarda temiz suyun temini ve pis.",
+    "aciklama": "yapılarda temiz ve kirli su iletimini sağlayan altyapı.",
     "yasakli_kelimeler": [
       "temiz pis su",
       "sağlık tesisatı",
@@ -770,10 +546,10 @@
     "zorluk": "orta"
   },
   {
-    "id": 56,
+    "id": 40,
     "kategori": "tesisat",
     "kelime": "kalorifer",
-    "aciklama": "kazan veya kombide ısıtılan sıcak suyun borularla radyatörlere taşınarak evi.",
+    "aciklama": "kazan veya kombiden gelen sıcak suyla mekanı ısıtan sistem.",
     "yasakli_kelimeler": [
       "merkezi ısıtma",
       "sıcak su dolaşımı",
@@ -784,7 +560,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 57,
+    "id": 41,
     "kategori": "tesisat",
     "kelime": "kombi",
     "aciklama": "evlerde doğalgaz yakarak hem mekanın radyatörlerini ısıtan hem de anlık.",
@@ -798,7 +574,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 58,
+    "id": 42,
     "kategori": "tesisat",
     "kelime": "kazan",
     "aciklama": "apartman veya sitelerin bodrum katındaki kazan dairesinde devasa hacimdeki suyu.",
@@ -812,38 +588,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 59,
-    "kategori": "tesisat",
-    "kelime": "döküm radyatör",
-    "aciklama": "pik dökümden dilimler halinde üretilen, geç ısınıp çok geç soğuyan.",
-    "yasakli_kelimeler": [
-      "dilimli petek",
-      "pik döküm",
-      "ağır petek",
-      "geç soğuyan",
-      "eski kalorifer"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 60,
-    "kategori": "tesisat",
-    "kelime": "panel radyatör",
-    "aciklama": "sac levhaların preslenip kaynaklanmasıyla yapılan, modern evlerde pencere altlarına takılan.",
-    "yasakli_kelimeler": [
-      "beyaz petek",
-      "sac petek",
-      "pencere altı",
-      "kalorifer peteği",
-      "kompakt"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 61,
+    "id": 43,
     "kategori": "tesisat",
     "kelime": "havlupan",
-    "aciklama": "banyolarda hem mekanı ısıtmak hem de ıslak havluları kurutmak için.",
+    "aciklama": "banyolarda hem mekanı ısıtmak hem de ıslak havluları kurutmak.",
     "yasakli_kelimeler": [
       "banyo peteği",
       "merdiven biçimli",
@@ -854,7 +602,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 62,
+    "id": 44,
     "kategori": "tesisat",
     "kelime": "termostat",
     "aciklama": "ortam veya su sıcaklığını algılayarak ısıtıcı veya soğutucuyu otomatik açıp.",
@@ -868,7 +616,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 63,
+    "id": 45,
     "kategori": "tesisat",
     "kelime": "oda termostatı",
     "aciklama": "salondaki duvara monte edilip oda sıcaklığı hedeflenen dereceye geldiğinde kombiyi.",
@@ -882,7 +630,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 64,
+    "id": 46,
     "kategori": "tesisat",
     "kelime": "su borusu",
     "aciklama": "suyu kaynağından kullanım noktasına taşımak için döşenen yuvarlak kesitli içi.",
@@ -896,21 +644,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 65,
-    "kategori": "tesisat",
-    "kelime": "bakır boru",
-    "aciklama": "klima tesisatlarında ve medikal gaz hatlarında kullanılan, ısı iletimi yüksek.",
-    "yasakli_kelimeler": [
-      "klima borusu",
-      "lehimli bağlantı",
-      "kırmızı metal",
-      "yüksek iletkenlik",
-      "gaz hattı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 66,
+    "id": 47,
     "kategori": "tesisat",
     "kelime": "plastik boru",
     "aciklama": "sıcak ve soğuk su tesisatında kaynak makinesiyle eritilerek birleştirilen kireç.",
@@ -924,49 +658,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 67,
-    "kategori": "tesisat",
-    "kelime": "demir boru",
-    "aciklama": "yangın hatlarında ve eski su tesisatlarında kullanılan diş açılarak paftayla.",
-    "yasakli_kelimeler": [
-      "galvanizli boru",
-      "dişli bağlantı",
-      "yangın hattı",
-      "ağır boru",
-      "paslanabilir"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 68,
-    "kategori": "tesisat",
-    "kelime": "çelik boru",
-    "aciklama": "yüksek basınçlı buhar, gaz ve sanayi akışkanlarını taşımak için kaynakla.",
-    "yasakli_kelimeler": [
-      "yüksek basınç",
-      "gaz hattı",
-      "kaynaklı boru",
-      "sanayi tesisatı",
-      "çelik"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 69,
-    "kategori": "tesisat",
-    "kelime": "spiral boru",
-    "aciklama": "havalandırma sistemlerinde hava kanalı olarak kullanılan sarmal kenetli ince sacdan.",
-    "yasakli_kelimeler": [
-      "sarmal boru",
-      "havalandırma borusu",
-      "sac kanal",
-      "esnek boru",
-      "baca borusu"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 70,
+    "id": 48,
     "kategori": "tesisat",
     "kelime": "pimaş boru",
     "aciklama": "bina içi pis su ve atık su giderlerinde contalı geçme.",
@@ -980,80 +672,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 71,
-    "kategori": "tesisat",
-    "kelime": "pimaş",
-    "aciklama": "lavabo, tuvalet ve küvet giderlerinden gelen kirli suyu ana gidere.",
-    "yasakli_kelimeler": [
-      "gider borusu",
-      "gri plastik",
-      "pis su",
-      "atık su tahliyesi",
-      "tıkanan boru"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 72,
-    "kategori": "tesisat",
-    "kelime": "t boru",
-    "aciklama": "akışkanın yönünü ikiye bölen veya iki farklı hattı tek bir.",
-    "yasakli_kelimeler": [
-      "t biçimi",
-      "hat bölme",
-      "birleştirme",
-      "üç çıkışlı",
-      "boru eki"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 73,
-    "kategori": "tesisat",
-    "kelime": "deveboynu",
-    "aciklama": "içinde su tutarak kanalizasyon kokusunun banyoya girmesini engelleyen s veya.",
-    "yasakli_kelimeler": [
-      "u kıvrımı",
-      "koku önleyici su kilidi",
-      "sifon borusu",
-      "kıvrımlı boru",
-      "lavabo altı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 74,
-    "kategori": "tesisat",
-    "kelime": "lehim",
-    "aciklama": "bakır boruların ek yerlerini birleştirmek için kalay ve kurşun alaşımının.",
-    "yasakli_kelimeler": [
-      "kalay kurşun",
-      "bakır boru birleştirme",
-      "pürmüz alevi",
-      "lehim teli",
-      "pasta"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 75,
-    "kategori": "tesisat",
-    "kelime": "pürmüz",
-    "aciklama": "küçük bir gaz kartuşuna takılan ve bakır boru lehiminde kullanılan.",
-    "yasakli_kelimeler": [
-      "gaz kartuşu",
-      "lehim alevi",
-      "portatif alev",
-      "ısıtma tabancası",
-      "mavi alev"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 76,
+    "id": 49,
     "kategori": "tesisat",
     "kelime": "su sızıntısı",
-    "aciklama": "borudaki çürüme, gevşek bağlantı veya delinme sebebiyle suyun duvar veya.",
+    "aciklama": "boru çatlağından veya ek yerinden dışarı su damlaması.",
     "yasakli_kelimeler": [
       "kaçak",
       "damlama",
@@ -1064,7 +686,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 77,
+    "id": 50,
     "kategori": "tesisat",
     "kelime": "boru patlaması",
     "aciklama": "aşırı yüksek şebeke basıncı veya kışın suyun donup genleşmesi sonucu.",
@@ -1078,7 +700,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 78,
+    "id": 51,
     "kategori": "tesisat",
     "kelime": "su baskını",
     "aciklama": "patlayan borulardan veya taşan giderlerden çıkan suların dairenin veya bodrumun.",
@@ -1092,7 +714,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 79,
+    "id": 52,
     "kategori": "tesisat",
     "kelime": "kireçlenme",
     "aciklama": "sert suların ısıtılmasıyla boru iç çeperlerinde ve kombi eşanjöründe kalsiyum.",
@@ -1106,7 +728,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 80,
+    "id": 53,
     "kategori": "tesisat",
     "kelime": "kireç çözücü",
     "aciklama": "kireç bağlamış boyler, boru ve batarya filtrelerindeki kireç taşlarını eritip.",
@@ -1120,7 +742,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 81,
+    "id": 54,
     "kategori": "tesisat",
     "kelime": "tıkanıklık",
     "aciklama": "saç telleri, katı yağlar veya yabancı maddelerin sifon ve pimaş.",
@@ -1134,10 +756,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 82,
+    "id": 55,
     "kategori": "tesisat",
     "kelime": "lavabo açıcı",
-    "aciklama": "tıkalı gidere döküldükten sonra üzerine kaynar su dökülerek organik atıkları.",
+    "aciklama": "tıkalı lavabo giderlerini kimyasal etkiyle açan toz veya sıvı.",
     "yasakli_kelimeler": [
       "kostik soda",
       "kaynar suyla tepkime",
@@ -1148,7 +770,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 83,
+    "id": 56,
     "kategori": "tesisat",
     "kelime": "pompa",
     "aciklama": "elektrik motorundan aldığı mekanik güçle sıvılara basınç kazandırıp boru hattında.",
@@ -1162,10 +784,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 84,
+    "id": 57,
     "kategori": "tesisat",
     "kelime": "dalgıç pompa",
-    "aciklama": "motoru ve gövdesi tamamen suyun içine batırılarak su kuyusundan veya.",
+    "aciklama": "su kuyusu veya depoda suyun içine batırılarak çalışan pompa.",
     "yasakli_kelimeler": [
       "suya batırılan",
       "kuyu pompası",
@@ -1176,7 +798,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 85,
+    "id": 58,
     "kategori": "tesisat",
     "kelime": "atık su",
     "aciklama": "evlerde banyo, mutfak ve tuvalette kullanıldıktan sonra kirlenip kanalizasyon borularına.",
@@ -1190,10 +812,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 86,
+    "id": 59,
     "kategori": "tesisat",
     "kelime": "yağmur suyu",
-    "aciklama": "çatı ve teraslara düşen, oluklar ve iniş borularıyla kanalizasyona veya.",
+    "aciklama": "çatı ve teraslara düşen, oluklar ve iniş borularıyla kanalizasyona.",
     "yasakli_kelimeler": [
       "çatı oluğu suyu",
       "yağış tahliyesi",
@@ -1204,10 +826,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 87,
+    "id": 60,
     "kategori": "tesisat",
     "kelime": "yağmur oluğu",
-    "aciklama": "çatının saçak ucuna monte edilerek kiremitlerden akan yağmur sularını toplayıp.",
+    "aciklama": "çatıdan akan yağmur sularını toplayıp tahliye eden kanal.",
     "yasakli_kelimeler": [
       "çatı saçağı",
       "çinko veya plastik",
@@ -1218,21 +840,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 88,
-    "kategori": "tesisat",
-    "kelime": "çatı oluğu",
-    "aciklama": "yağmur ve eriyen kar sularının bina cephesine zarar vermeden düzenli.",
-    "yasakli_kelimeler": [
-      "saçak oluğu",
-      "çatı kenarı",
-      "kar erimesi suyu",
-      "iniş borusuna aktarma",
-      "oluk"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 89,
+    "id": 61,
     "kategori": "tesisat",
     "kelime": "rögar",
     "aciklama": "yeraltındaki kanalizasyon borularının kontrolü, temizliği ve yön değiştirmesi için yapılan.",
@@ -1246,10 +854,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 90,
+    "id": 62,
     "kategori": "tesisat",
     "kelime": "rögar kapağı",
-    "aciklama": "sokak ve kaldırımlardaki rögar kuyularının üzerine kapatılan, üzerinden araçların geçtiği.",
+    "aciklama": "kanalizasyon kuyularının üzerine kapatılan ağır döküm kapak.",
     "yasakli_kelimeler": [
       "döküm kapak",
       "yuvarlak kapak",
@@ -1260,7 +868,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 91,
+    "id": 63,
     "kategori": "tesisat",
     "kelime": "havalandırma kanalı",
     "aciklama": "kapalı binalara taze hava basmak veya kirli havayı dışarı atmak.",
@@ -1274,7 +882,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 92,
+    "id": 64,
     "kategori": "tesisat",
     "kelime": "menfez",
     "aciklama": "havalandırma kanallarının ağzına veya banyo kapılarına takılan, hava giriş çıkışını.",
@@ -1288,7 +896,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 93,
+    "id": 65,
     "kategori": "tesisat",
     "kelime": "split klima",
     "aciklama": "iç ünite ve bir dış üniteden oluşan, gaz borularıyla birbirine.",
@@ -1302,7 +910,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 94,
+    "id": 66,
     "kategori": "tesisat",
     "kelime": "merkezi klima",
     "aciklama": "büyük otel, hastane ve ofis binalarında tek bir dış merkezden.",
@@ -1316,7 +924,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 95,
+    "id": 67,
     "kategori": "tesisat",
     "kelime": "baca",
     "aciklama": "kombi, soba veya kazanın yakıt yakması sonucu oluşan zehirli egzoz.",
@@ -1330,21 +938,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 96,
-    "kategori": "tesisat",
-    "kelime": "hermetik baca",
-    "aciklama": "iç içe geçmiş iki borudan oluşarak dış borudan temiz hava.",
-    "yasakli_kelimeler": [
-      "iç içe iki boru",
-      "temiz hava girişi",
-      "kombi bacası",
-      "duvardan çıkan",
-      "egzoz atımı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 97,
+    "id": 68,
     "kategori": "tesisat",
     "kelime": "gaz vanası",
     "aciklama": "doğalgaz tesisatında acil durumlarda gaz akışını çeyrek turda kesebilen sarı.",
@@ -1358,7 +952,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 98,
+    "id": 69,
     "kategori": "tesisat",
     "kelime": "gaz dedektörü",
     "aciklama": "ortamda metan veya lpg gaz kaçağı olduğunda yüksek sesli siren.",
@@ -1372,7 +966,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 99,
+    "id": 70,
     "kategori": "tesisat",
     "kelime": "duman dedektörü",
     "aciklama": "yangının başlangıcında ortama yayılan duman partiküllerini optik sensörüyle yakalayıp yangın.",
@@ -1386,10 +980,10 @@
     "zorluk": "kolay"
   },
   {
-    "id": 100,
+    "id": 71,
     "kategori": "tesisat",
     "kelime": "yangın tesisatı",
-    "aciklama": "binalarda yangın anında alevlere suyla müdahale etmek için kurulan hidrant,.",
+    "aciklama": "binalarda yangına anında suyla müdahale etmek için kurulan sistem.",
     "yasakli_kelimeler": [
       "kırmızı borular",
       "sprinkler sistemi",
@@ -1400,7 +994,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 101,
+    "id": 72,
     "kategori": "tesisat",
     "kelime": "sprinkler",
     "aciklama": "yangın sıcaklığı altmış sekiz dereceye ulaştığında içindeki kırmızı cam tüp.",
@@ -1414,35 +1008,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 102,
-    "kategori": "tesisat",
-    "kelime": "yangın vanası",
-    "aciklama": "yangın dolaplarında hortumun bağlandığı, acil durumlarda suyun hızla açılmasını sağlayan.",
-    "yasakli_kelimeler": [
-      "yangın dolabı içi",
-      "hortum bağlantısı",
-      "rekorlu vana",
-      "bronz vana",
-      "acil su vanası"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 103,
-    "kategori": "tesisat",
-    "kelime": "tesisat ustası",
-    "aciklama": "binaların temiz su, pis su, ısıtma ve gaz tesisatını projeye.",
-    "yasakli_kelimeler": [
-      "su tesisatçısı",
-      "boru döşeyen",
-      "usta",
-      "tamirci",
-      "tesisatçı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 104,
+    "id": 73,
     "kategori": "tesisat",
     "kelime": "su tesisatçısı",
     "aciklama": "patlayan boruları onaran, musluk ve klozet montajı yapan sıhhi tesisat.",
@@ -1456,21 +1022,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 105,
-    "kategori": "tesisat",
-    "kelime": "pis su",
-    "aciklama": "evsel kullanım sonucu kirlenmiş ve bina pimaş hatlarından şehir kanalizasyon.",
-    "yasakli_kelimeler": [
-      "atık su",
-      "kanalizasyon",
-      "pimaş borusu suyu",
-      "lavabo tuvalet gideri",
-      "kirli su"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 106,
+    "id": 74,
     "kategori": "tesisat",
     "kelime": "temiz su",
     "aciklama": "içilebilir ve yemeklerde kullanılabilir nitelikte, basınçlı borularla daireye ulaşan şebeke.",
@@ -1485,34 +1037,6 @@
   },
   {
     "kategori": "tesisat",
-    "kelime": "boru döşemek",
-    "aciklama": "su veya gaz iletimi için hat boyunca boruları yerleştirmek.",
-    "yasakli_kelimeler": [
-      "hat",
-      "su",
-      "gaz",
-      "yerleştirmek",
-      "plastik"
-    ],
-    "zorluk": "kolay",
-    "id": 107
-  },
-  {
-    "kategori": "tesisat",
-    "kelime": "musluk takmak",
-    "aciklama": "lavabo veya tezgaha su akışını kontrol eden bataryayı monte etmek.",
-    "yasakli_kelimeler": [
-      "batarya",
-      "lavabo",
-      "su",
-      "montaj",
-      "vana"
-    ],
-    "zorluk": "kolay",
-    "id": 108
-  },
-  {
-    "kategori": "tesisat",
     "kelime": "vanayı kapatmak",
     "aciklama": "boru hattındaki su veya gaz akışını durdurmak için vanayı çevirmek.",
     "yasakli_kelimeler": [
@@ -1523,7 +1047,7 @@
       "çevirmek"
     ],
     "zorluk": "kolay",
-    "id": 109
+    "id": 75
   },
   {
     "kategori": "tesisat",
@@ -1537,7 +1061,7 @@
       "su"
     ],
     "zorluk": "kolay",
-    "id": 110
+    "id": 76
   },
   {
     "kategori": "tesisat",
@@ -1551,49 +1075,7 @@
       "su"
     ],
     "zorluk": "kolay",
-    "id": 111
-  },
-  {
-    "kategori": "tesisat",
-    "kelime": "su sızdırmak",
-    "aciklama": "boru çatlağından veya ek yerinden dışarıya su damlaması.",
-    "yasakli_kelimeler": [
-      "damlamak",
-      "kaçak",
-      "çatlak",
-      "boru",
-      "ıslak"
-    ],
-    "zorluk": "kolay",
-    "id": 112
-  },
-  {
-    "kategori": "tesisat",
-    "kelime": "boru kesmek",
-    "aciklama": "tesisat borusunu makas veya testere ile istenen ölçüde kesmek.",
-    "yasakli_kelimeler": [
-      "makas",
-      "testere",
-      "ölçü",
-      "pvc",
-      "plastik"
-    ],
-    "zorluk": "kolay",
-    "id": 113
-  },
-  {
-    "kategori": "tesisat",
-    "kelime": "kombiyi çalıştırmak",
-    "aciklama": "evdeki sıcak su ve ısınma ihtiyacı için kombi cihazını açmak.",
-    "yasakli_kelimeler": [
-      "ısıtma",
-      "sıcak su",
-      "gaz",
-      "cihaz",
-      "düğme"
-    ],
-    "zorluk": "kolay",
-    "id": 114
+    "id": 77
   },
   {
     "kategori": "tesisat",
@@ -1607,21 +1089,7 @@
       "taşma"
     ],
     "zorluk": "kolay",
-    "id": 115
-  },
-  {
-    "kategori": "tesisat",
-    "kelime": "petek havası almak",
-    "aciklama": "isınmayan kalorifer radyatörünün pürjör tapasını açıp biriken havayı boşaltmak.",
-    "yasakli_kelimeler": [
-      "pürjör",
-      "hava",
-      "radyatör",
-      "ısınmama",
-      "tapa"
-    ],
-    "zorluk": "orta",
-    "id": 116
+    "id": 78
   },
   {
     "kategori": "tesisat",
@@ -1635,20 +1103,6 @@
       "basmak"
     ],
     "zorluk": "orta",
-    "id": 117
-  },
-  {
-    "kategori": "tesisat",
-    "kelime": "kombiye su basmak",
-    "aciklama": "düşen kalorifer tesisatı su basıncını vanayı açarak 1.5 bar seviyesine.",
-    "yasakli_kelimeler": [
-      "bar",
-      "manometre",
-      "doldurma vanası",
-      "basınç",
-      "su"
-    ],
-    "zorluk": "orta",
-    "id": 118
+    "id": 79
   }
 ]

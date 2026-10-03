@@ -1,9 +1,8 @@
 [
   {
-    "id": 1,
     "kategori": "hukuk",
     "kelime": "ehliyet",
-    "aciklama": "kişinin hak sahibi olabilme ve borçlanabilme yeteneği",
+    "aciklama": "kişinin hak sahibi olabilme ve kendi fiilleriyle hak ve borç",
     "yasakli_kelimeler": [
       "fiil",
       "hak ehliyeti",
@@ -11,13 +10,13 @@
       "erginlik",
       "ayırt etme"
     ],
-    "zorluk": "orta"
+    "zorluk": "orta",
+    "id": 1
   },
   {
-    "id": 2,
     "kategori": "hukuk",
     "kelime": "sebepsiz zenginleşme",
-    "aciklama": "haklı sebep olmaksızın başkası aleyhine malvarlığını artırma",
+    "aciklama": "haklı bir sebep olmaksızın bir kimsenin malvarlığının diğer bir kimsenin",
     "yasakli_kelimeler": [
       "iade",
       "borçlar kanunu",
@@ -25,13 +24,13 @@
       "haklı sebep",
       "fakirleşme"
     ],
-    "zorluk": "orta"
+    "zorluk": "orta",
+    "id": 2
   },
   {
-    "id": 3,
     "kategori": "hukuk",
     "kelime": "zamanaşımı",
-    "aciklama": "kanuni sürenin geçmesiyle dava açma hakkının düşmesi",
+    "aciklama": "kanunda belirtilen sürenin geçmesiyle bir alacak hakkının dava ve takip",
     "yasakli_kelimeler": [
       "süre",
       "alacak",
@@ -39,13 +38,13 @@
       "hak düşürücü",
       "borç"
     ],
-    "zorluk": "kolay"
+    "zorluk": "kolay",
+    "id": 3
   },
   {
-    "id": 4,
     "kategori": "hukuk",
     "kelime": "itiraz",
-    "aciklama": "hakkın hiç doğmadığını veya sona erdiğini ileri sürme",
+    "aciklama": "bir hakkın hiç doğmadığını veya sonradan tamamen ortadan kalktığını belirten",
     "yasakli_kelimeler": [
       "defi",
       "re'sen",
@@ -53,13 +52,13 @@
       "hükümsüzlük",
       "beyan"
     ],
-    "zorluk": "kolay"
+    "zorluk": "kolay",
+    "id": 4
   },
   {
-    "id": 5,
     "kategori": "hukuk",
     "kelime": "ihtiyati tedbir",
-    "aciklama": "sözleşme öncesi kusurlu davranıştan doğan hukuki sorumluluk",
+    "aciklama": "dava konusu hakkın elde edilmesinin önemli ölçüde zorlaşmasını veya imkansızlaşmasını",
     "yasakli_kelimeler": [
       "geçici koruma",
       "mahkeme",
@@ -67,27 +66,13 @@
       "güvence",
       "karar"
     ],
-    "zorluk": "orta"
+    "zorluk": "orta",
+    "id": 5
   },
   {
-    "id": 6,
-    "kategori": "hukuk",
-    "kelime": "ihtiyati haciz",
-    "aciklama": "tarafların üçüncü kişileri yanıltmak amacıyla yaptığı danışıklı işlem",
-    "yasakli_kelimeler": [
-      "alacak",
-      "icra",
-      "güvence",
-      "tedbir",
-      "rehin"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 7,
     "kategori": "hukuk",
     "kelime": "kesin hüküm",
-    "aciklama": "bir kimsenin irade beyanında esaslı hataya düşmesi",
+    "aciklama": "yargılama sonucunda verilen ve olağan kanun yolları tükenerek bağlayıcılık ve",
     "yasakli_kelimeler": [
       "dava şartı",
       "res judicata",
@@ -95,13 +80,13 @@
       "istinaf",
       "temyiz"
     ],
-    "zorluk": "orta"
+    "zorluk": "orta",
+    "id": 6
   },
   {
-    "id": 8,
     "kategori": "hukuk",
     "kelime": "istinaf",
-    "aciklama": "karşı tarafı aldatarak sözleşme yapmaya yönlendirme eylemi",
+    "aciklama": "ilk derece mahkemesi kararlarının hem maddi hem de hukuki yönden",
     "yasakli_kelimeler": [
       "bölge adliye",
       "temyiz",
@@ -109,13 +94,13 @@
       "ilk derece",
       "itiraz"
     ],
-    "zorluk": "kolay"
+    "zorluk": "kolay",
+    "id": 7
   },
   {
-    "id": 9,
     "kategori": "hukuk",
     "kelime": "temyiz",
-    "aciklama": "korkutma ve tehdit yoluyla iradenin sakatlanması durumu",
+    "aciklama": "istinaf veya ilk derece mahkemelerinin nihai kararlarının hukuka uygunluk yönünden",
     "yasakli_kelimeler": [
       "yargıtay",
       "danıştay",
@@ -123,55 +108,13 @@
       "onama",
       "kanun yolu"
     ],
-    "zorluk": "kolay"
+    "zorluk": "kolay",
+    "id": 8
   },
   {
-    "id": 10,
-    "kategori": "hukuk",
-    "kelime": "feragat",
-    "aciklama": "tarafların edimleri arasında dürüstlüğe aykırı aşırı oransızlık",
-    "yasakli_kelimeler": [
-      "vazgeçme",
-      "kabul",
-      "sulh",
-      "dava",
-      "kesin hüküm"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 11,
-    "kategori": "hukuk",
-    "kelime": "kabul",
-    "aciklama": "hukuki işlemin emredici kurallara aykırılık sebebiyle geçersiz olması",
-    "yasakli_kelimeler": [
-      "feragat",
-      "sulh",
-      "talep",
-      "mahkeme",
-      "dava"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 12,
-    "kategori": "hukuk",
-    "kelime": "sulh",
-    "aciklama": "bir hukuki işlemin kurucu unsurlarındaki eksiklik hali",
-    "yasakli_kelimeler": [
-      "anlaşma",
-      "uzlaşma",
-      "feragat",
-      "kabul",
-      "protokol"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 13,
     "kategori": "hukuk",
     "kelime": "mülkiyet hakkı",
-    "aciklama": "alacaklının alacağını üçüncü bir kişiye devretmesi işlemi",
+    "aciklama": "sahibine bir şey üzerinde hukuk düzeninin sınırları içinde dilediği gibi",
     "yasakli_kelimeler": [
       "kullanma",
       "yararlanma",
@@ -179,13 +122,13 @@
       "ayni hak",
       "malik"
     ],
-    "zorluk": "kolay"
+    "zorluk": "kolay",
+    "id": 9
   },
   {
-    "id": 14,
     "kategori": "hukuk",
     "kelime": "ipotek",
-    "aciklama": "sözleşmeden cayma hakkı karşılığında verilen para miktarı",
+    "aciklama": "mevcut veya doğacak bir borcu teminat altına almak üzere bir",
     "yasakli_kelimeler": [
       "taşınmaz",
       "tapu",
@@ -193,27 +136,13 @@
       "rehin",
       "kredi"
     ],
-    "zorluk": "kolay"
+    "zorluk": "kolay",
+    "id": 10
   },
   {
-    "id": 15,
-    "kategori": "hukuk",
-    "kelime": "saklı pay",
-    "aciklama": "birden çok kimsenin paylı olarak malik olması",
-    "yasakli_kelimeler": [
-      "tenkis",
-      "altsoy",
-      "sağ kalan eş",
-      "tasarruf nisabı",
-      "mirasçı"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 16,
     "kategori": "hukuk",
     "kelime": "vasiyetname",
-    "aciklama": "başkasının eşyasını kullanma veya ondan yararlanma hakkı",
+    "aciklama": "bir kimsenin ölümünden sonra geçerli olmak üzere malvarlığı veya diğer",
     "yasakli_kelimeler": [
       "ölüme bağlı",
       "muris",
@@ -221,13 +150,13 @@
       "el yazılı",
       "mirasbırakan"
     ],
-    "zorluk": "kolay"
+    "zorluk": "kolay",
+    "id": 11
   },
   {
-    "id": 17,
     "kategori": "hukuk",
     "kelime": "vesayet",
-    "aciklama": "bir taşınmazdan tam olarak yararlanma sağlayan ayni hak",
+    "aciklama": "velayet altında bulunmayan küçüklerin ve kanunda yazılı sebeplerle kısıtlanmış erginlerin",
     "yasakli_kelimeler": [
       "vasi",
       "kısıtlama",
@@ -235,13 +164,13 @@
       "sulh hukuk",
       "denetim makamı"
     ],
-    "zorluk": "kolay"
+    "zorluk": "kolay",
+    "id": 12
   },
   {
-    "id": 18,
     "kategori": "hukuk",
     "kelime": "kayyım",
-    "aciklama": "bir binada veya yapıda oturma hakkı veren irtifak",
+    "aciklama": "belirli bir işi görmek veya bir malvarlığını yönetmek üzere mahkeme",
     "yasakli_kelimeler": [
       "temsilci",
       "yönetim",
@@ -249,13 +178,13 @@
       "vesayet",
       "şirket"
     ],
-    "zorluk": "kolay"
+    "zorluk": "kolay",
+    "id": 13
   },
   {
-    "id": 19,
     "kategori": "hukuk",
     "kelime": "yemin",
-    "aciklama": "mirasbırakanın tasarruf sınırını aşan kısmın tenkisi davası",
+    "aciklama": "taraflardan birinin iddiasını kanıtlayamaması durumunda diğer tarafa yönelttiği veya hakimin",
     "yasakli_kelimeler": [
       "kesin delil",
       "teklif",
@@ -263,13 +192,13 @@
       "dava",
       "mahkeme"
     ],
-    "zorluk": "kolay"
+    "zorluk": "kolay",
+    "id": 14
   },
   {
-    "id": 20,
     "kategori": "hukuk",
     "kelime": "bilirkişi",
-    "aciklama": "mirasçının mirası kabul etmeyip tek taraflı reddetmesi",
+    "aciklama": "çözümü özel veya teknik bir bilgiyi gerektiren hallerde oy ve",
     "yasakli_kelimeler": [
       "rapor",
       "uzman",
@@ -277,13 +206,13 @@
       "hakim",
       "teknik"
     ],
-    "zorluk": "kolay"
+    "zorluk": "kolay",
+    "id": 15
   },
   {
-    "id": 21,
     "kategori": "hukuk",
     "kelime": "keşif",
-    "aciklama": "kanunda gösterilen ağır sebeplerle mirasçılıktan çıkarılma durumu",
+    "aciklama": "hakimin dava konusu uyuşmazlığı yerinde bizzat inceleyerek duyu organlarıyla bilgi",
     "yasakli_kelimeler": [
       "yerinde inceleme",
       "delil",
@@ -291,13 +220,13 @@
       "mahal",
       "hakim"
     ],
-    "zorluk": "kolay"
+    "zorluk": "kolay",
+    "id": 16
   },
   {
-    "id": 22,
     "kategori": "hukuk",
     "kelime": "haciz",
-    "aciklama": "mirasbırakanın ölümünden sonra hüküm doğuracak son arzuları",
+    "aciklama": "kesinleşen veya takibe konu olan bir para alacağının ödenmesini sağlamak",
     "yasakli_kelimeler": [
       "icra dairesi",
       "borçlu",
@@ -305,13 +234,13 @@
       "satış",
       "paraya çevirme"
     ],
-    "zorluk": "kolay"
+    "zorluk": "kolay",
+    "id": 17
   },
   {
-    "id": 23,
     "kategori": "hukuk",
     "kelime": "icra takibi",
-    "aciklama": "mirasbırakanın tek taraflı veya çift taraflı ölüme bağlı sözleşmesi",
+    "aciklama": "borcunu rızasıyla ifa etmeyen borçluya karşı alacaklının devlet zoruyla alacağını",
     "yasakli_kelimeler": [
       "icra memurluğu",
       "ödeme emri",
@@ -319,41 +248,13 @@
       "haciz",
       "itiraz"
     ],
-    "zorluk": "kolay"
+    "zorluk": "kolay",
+    "id": 18
   },
   {
-    "id": 24,
-    "kategori": "hukuk",
-    "kelime": "ödeme emri",
-    "aciklama": "kanunun mirasçıları akrabalık derecesine göre ayırdığı zümre sistemi",
-    "yasakli_kelimeler": [
-      "tebligat",
-      "yedi gün",
-      "itiraz",
-      "icra takibi",
-      "mal beyanı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 25,
-    "kategori": "hukuk",
-    "kelime": "mal beyanı",
-    "aciklama": "evlilik birliğinin hakim kararıyla sona erdirilmesi davası",
-    "yasakli_kelimeler": [
-      "icra",
-      "bildirim",
-      "varlık",
-      "ödeme emri",
-      "hapis"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 26,
     "kategori": "hukuk",
     "kelime": "iflas",
-    "aciklama": "anne babanın çocuk üzerindeki bakım ve temsil hakkı",
+    "aciklama": "ticaret erbabı bir borçlunun vadesi gelmiş borçlarını ödeyememesi üzerine tüm",
     "yasakli_kelimeler": [
       "iflas masası",
       "tasfiye",
@@ -361,13 +262,13 @@
       "iflas dairesi",
       "konkordato"
     ],
-    "zorluk": "kolay"
+    "zorluk": "kolay",
+    "id": 19
   },
   {
-    "id": 27,
     "kategori": "hukuk",
     "kelime": "konkordato",
-    "aciklama": "vesayet altındaki küçüğü veya kısıtlıyı temsil eden kişi",
+    "aciklama": "mali durumu bozulan borçlunun borçlarını yeniden yapılandırmak için alacaklılarıyla yaptığı",
     "yasakli_kelimeler": [
       "yeniden yapılandırma",
       "iflas",
@@ -375,13 +276,13 @@
       "vade",
       "komiser"
     ],
-    "zorluk": "zor"
+    "zorluk": "zor",
+    "id": 20
   },
   {
-    "id": 28,
     "kategori": "hukuk",
     "kelime": "tahkim",
-    "aciklama": "evlilik içinde edinilen malların yarı yarıya paylaşımı rejimi",
+    "aciklama": "uyuşmazlık taraflarının anlaşarak anlaşmazlığın devlet mahkemeleri yerine bağımsız hakemler eliyle",
     "yasakli_kelimeler": [
       "hakem",
       "tahkim sözleşmesi",
@@ -389,13 +290,13 @@
       "yargılama",
       "karar"
     ],
-    "zorluk": "orta"
+    "zorluk": "orta",
+    "id": 21
   },
   {
-    "id": 29,
     "kategori": "hukuk",
     "kelime": "arabuluculuk",
-    "aciklama": "çocuk ile anne ve baba arasındaki hukuki bağ",
+    "aciklama": "taraflar arasındaki uyuşmazlığın tarafsız bir uzman rehberliğinde iletişim kurularak dostane",
     "yasakli_kelimeler": [
       "dava şartı",
       "uzlaşma",
@@ -403,55 +304,13 @@
       "anlaşma belgesi",
       "müzakere"
     ],
-    "zorluk": "kolay"
+    "zorluk": "kolay",
+    "id": 22
   },
   {
-    "id": 30,
-    "kategori": "hukuk",
-    "kelime": "iptal davası",
-    "aciklama": "babalık karinesinin çürütülmesi için açılan soybağı davası",
-    "yasakli_kelimeler": [
-      "idare mahkemesi",
-      "tam yargı",
-      "menfaat ihlali",
-      "idari yargı",
-      "hukuka aykırılık"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 31,
-    "kategori": "hukuk",
-    "kelime": "yürütmenin durdurulması",
-    "aciklama": "akıl hastalığı veya savurganlık nedeniyle kişinin hak ehliyetinin sınırlandırılması",
-    "yasakli_kelimeler": [
-      "geçici tedbir",
-      "idare mahkemesi",
-      "telafisi güç zarar",
-      "durdurma",
-      "uygulama"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 32,
-    "kategori": "hukuk",
-    "kelime": "kamu düzeni",
-    "aciklama": "kişinin neticeyi öngörmesine rağmen gerçekleşmeyeceğine güvenmesi hali",
-    "yasakli_kelimeler": [
-      "güvenlik",
-      "dirlik",
-      "sağlık",
-      "emredici kural",
-      "toplum"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 33,
     "kategori": "hukuk",
     "kelime": "mücbir sebep",
-    "aciklama": "hukuka aykırı saldırıyı defetmek amacıyla orantılı güç kullanma",
+    "aciklama": "borcun yerine getirilmesini mutlak biçimde engelleyen, dışarıdan gelen, önceden öngörülemez",
     "yasakli_kelimeler": [
       "beklenmeyen hal",
       "doğal afet",
@@ -459,13 +318,13 @@
       "kusursuzluk",
       "illiyet"
     ],
-    "zorluk": "kolay"
+    "zorluk": "kolay",
+    "id": 23
   },
   {
-    "id": 34,
     "kategori": "hukuk",
     "kelime": "suç",
-    "aciklama": "failin suçun icra hareketlerinden kendi iradesiyle vazgeçmesi",
+    "aciklama": "ceza kanunları tarafından açıkça yasaklanmış ve karşılığında hapis veya adli",
     "yasakli_kelimeler": [
       "ceza",
       "kanunsuzluk",
@@ -473,13 +332,13 @@
       "yasak eylem",
       "adliye"
     ],
-    "zorluk": "kolay"
+    "zorluk": "kolay",
+    "id": 24
   },
   {
-    "id": 35,
     "kategori": "hukuk",
     "kelime": "ceza",
-    "aciklama": "suçun tamamlanmasından sonra failin pişmanlık gösterip zararı gidermesi",
+    "aciklama": "suç işleyen kişiye mahkeme tarafından hükmedilen ve hürriyeti bağlayıcı veya",
     "yasakli_kelimeler": [
       "yaptırım",
       "hapis",
@@ -487,13 +346,13 @@
       "mahkumiyet",
       "suç karşılığı"
     ],
-    "zorluk": "kolay"
+    "zorluk": "kolay",
+    "id": 25
   },
   {
-    "id": 36,
     "kategori": "hukuk",
     "kelime": "kast",
-    "aciklama": "bir suçu birden fazla kişinin anlaşarak birlikte işlemesi",
+    "aciklama": "failin suç teşkil eden fiilin neticesini bilerek ve isteyerek gerçekleştirmesi",
     "yasakli_kelimeler": [
       "bilerek",
       "isteyerek",
@@ -501,13 +360,13 @@
       "kusur",
       "niyet"
     ],
-    "zorluk": "kolay"
+    "zorluk": "kolay",
+    "id": 26
   },
   {
-    "id": 37,
     "kategori": "hukuk",
     "kelime": "taksir",
-    "aciklama": "başkasına suç işleme kararını verdiren azmettiren kişi",
+    "aciklama": "failin dikkat ve özen yükümlülüğüne aykırı davranarak öngörülebilir bir neticenin",
     "yasakli_kelimeler": [
       "dikkatsizlik",
       "özen eksikliği",
@@ -515,13 +374,13 @@
       "istemeden",
       "kusur"
     ],
-    "zorluk": "kolay"
+    "zorluk": "kolay",
+    "id": 27
   },
   {
-    "id": 38,
     "kategori": "hukuk",
     "kelime": "meşru müdafaa",
-    "aciklama": "aynı suç işleme kararıyla birden çok fiilin işlenmesi",
+    "aciklama": "kendisine veya bir başkasına yönelmiş haksız ve mevcut bir saldırıyı",
     "yasakli_kelimeler": [
       "savunma",
       "saldırı defetme",
@@ -529,13 +388,13 @@
       "nefsi müdafaa",
       "orantı"
     ],
-    "zorluk": "kolay"
+    "zorluk": "kolay",
+    "id": 28
   },
   {
-    "id": 39,
     "kategori": "hukuk",
     "kelime": "haksız tahrik",
-    "aciklama": "hükmedilen cezanın infaz edilemeyeceği yasal sürenin dolması",
+    "aciklama": "mağdurun haksız bir davranışı sonucu aniden kapıldığı öfke veya şiddetli",
     "yasakli_kelimeler": [
       "kışkırtma",
       "öfke ve elem",
@@ -543,13 +402,13 @@
       "haksız fiil",
       "tepki"
     ],
-    "zorluk": "kolay"
+    "zorluk": "kolay",
+    "id": 29
   },
   {
-    "id": 40,
     "kategori": "hukuk",
     "kelime": "suça teşebbüs",
-    "aciklama": "cezanın infaz kurumundan koşullu olarak erken tahliye edilmesi",
+    "aciklama": "failin doğrudan doğruya icraya başlayıp elinde olmayan engel sebepler yüzünden",
     "yasakli_kelimeler": [
       "yarım kalma",
       "icra başlangıcı",
@@ -557,13 +416,13 @@
       "tamamlayamama",
       "ceza indirimi"
     ],
-    "zorluk": "orta"
+    "zorluk": "orta",
+    "id": 30
   },
   {
-    "id": 41,
     "kategori": "hukuk",
     "kelime": "azmettiren",
-    "aciklama": "mahkumiyet hükmünün cezaevinde infaz edilmeyip ertelenmesi kararı",
+    "aciklama": "aklinda suç işleme fikri hiç bulunmayan bir kimsenin aklına o",
     "yasakli_kelimeler": [
       "akla sokma",
       "fikir verme",
@@ -571,13 +430,13 @@
       "yönlendirme",
       "iştirak"
     ],
-    "zorluk": "orta"
+    "zorluk": "orta",
+    "id": 31
   },
   {
-    "id": 42,
     "kategori": "hukuk",
     "kelime": "şikayet",
-    "aciklama": "suç tipinde belirtilen neticenin failin hareketiyle meydana gelmesi",
+    "aciklama": "takibi şikayete bağlı suçlarda suçtan zarar görenin altı ay içinde",
     "yasakli_kelimeler": [
       "başvuru",
       "altı ay",
@@ -585,13 +444,13 @@
       "savcılık",
       "soruşturma şartı"
     ],
-    "zorluk": "kolay"
+    "zorluk": "kolay",
+    "id": 32
   },
   {
-    "id": 43,
     "kategori": "hukuk",
     "kelime": "takipsizlik kararı",
-    "aciklama": "failin eylemin haksızlık içeriği veya unsurlarında yanılması",
+    "aciklama": "savcılığın soruşturma sonucunda kamu davası açmaya yeterli şüphe bulunmadığına kanaat",
     "yasakli_kelimeler": [
       "kyok",
       "dava açmama",
@@ -599,13 +458,13 @@
       "savcılık kararı",
       "soruşturma sonu"
     ],
-    "zorluk": "orta"
+    "zorluk": "orta",
+    "id": 33
   },
   {
-    "id": 44,
     "kategori": "hukuk",
     "kelime": "iddianame",
-    "aciklama": "ceza yargılamasında suç şüphesi altında bulunan kimse",
+    "aciklama": "cumhuriyet savcısının şüpheli hakkında kamu davası açmak amacıyla mahkemeye sunduğu",
     "yasakli_kelimeler": [
       "savcılık belgesi",
       "dava açma",
@@ -613,13 +472,13 @@
       "mahkemeye sunulan",
       "kamu davası"
     ],
-    "zorluk": "kolay"
+    "zorluk": "kolay",
+    "id": 34
   },
   {
-    "id": 45,
     "kategori": "hukuk",
     "kelime": "duruşma",
-    "aciklama": "işlenen suç sebebiyle doğrudan zarar gören veya mağdur kişi",
+    "aciklama": "hakim huzurunda tarafların, avukatların ve tanıkların dinlendiği ve delillerin tartışıldığı",
     "yasakli_kelimeler": [
       "mahkeme oturumu",
       "celse",
@@ -627,13 +486,13 @@
       "salon",
       "hakim karşısı"
     ],
-    "zorluk": "kolay"
+    "zorluk": "kolay",
+    "id": 35
   },
   {
-    "id": 46,
     "kategori": "hukuk",
     "kelime": "celse",
-    "aciklama": "ceza yargılamasında şüpheli veya sanığı savunan avukat",
+    "aciklama": "bir davanın mahkeme salonunda görülen ve tutanağa bağlanan her bir",
     "yasakli_kelimeler": [
       "oturum",
       "duruşma günü",
@@ -641,13 +500,13 @@
       "ara karar",
       "mahkeme"
     ],
-    "zorluk": "orta"
+    "zorluk": "orta",
+    "id": 36
   },
   {
-    "id": 47,
     "kategori": "hukuk",
     "kelime": "müşteki",
-    "aciklama": "katılan veya mağduru ceza davasında temsil eden avukat",
+    "aciklama": "işlenen suç nedeniyle mağdur olup failden resmi makamlar önünde şikayetçi",
     "yasakli_kelimeler": [
       "şikayetçi",
       "yakınan",
@@ -655,13 +514,13 @@
       "suçtan zarar gören",
       "ifade veren"
     ],
-    "zorluk": "kolay"
+    "zorluk": "kolay",
+    "id": 37
   },
   {
-    "id": 48,
     "kategori": "hukuk",
     "kelime": "mağdur",
-    "aciklama": "delillerin kaybolmasını veya kaçmayı önlemek için tutuklama kararı",
+    "aciklama": "işlenen bir haksız fiil veya ceza suçu sebebiyle doğrudan doğruya",
     "yasakli_kelimeler": [
       "zarar gören",
       "suç hedefi",
@@ -669,13 +528,13 @@
       "şikayetçi",
       "haksızlığa uğrayan"
     ],
-    "zorluk": "kolay"
+    "zorluk": "kolay",
+    "id": 38
   },
   {
-    "id": 49,
     "kategori": "hukuk",
     "kelime": "şüpheli",
-    "aciklama": "tutuklama yerine uygulanan yurt dışı yasağı veya imza yükümlülüğü",
+    "aciklama": "soruşturma evresinde suç işlediği şüphesiyle hakkında savcılıkça araştırma yürütülen kişi",
     "yasakli_kelimeler": [
       "soruşturulan",
       "zanlı",
@@ -683,13 +542,13 @@
       "gözaltı",
       "savcılık şüphesi"
     ],
-    "zorluk": "kolay"
+    "zorluk": "kolay",
+    "id": 39
   },
   {
-    "id": 50,
     "kategori": "hukuk",
     "kelime": "sanık",
-    "aciklama": "şüphelinin kolluk veya savcılıkça geçici olarak alıkonulması tedbiri",
+    "aciklama": "hakkında düzenlenen iddianamenin mahkemece kabul edilmesiyle kovuşturma aşamasına geçilen ve",
     "yasakli_kelimeler": [
       "yargılanan",
       "mahkeme salonu",
@@ -697,13 +556,13 @@
       "duruşma sanığı",
       "suçlanan"
     ],
-    "zorluk": "kolay"
+    "zorluk": "kolay",
+    "id": 40
   },
   {
-    "id": 51,
     "kategori": "hukuk",
     "kelime": "davacı",
-    "aciklama": "şüphelinin üzerinde veya konutunda delil bulmak amacıyla arama yapılması",
+    "aciklama": "hukuk mahkemesinde bir hakkın teslimi veya tazminat için dava dilekçesi",
     "yasakli_kelimeler": [
       "dava açan",
       "talep eden",
@@ -711,13 +570,13 @@
       "dilekçe sahibi",
       "karşı taraf"
     ],
-    "zorluk": "kolay"
+    "zorluk": "kolay",
+    "id": 41
   },
   {
-    "id": 52,
     "kategori": "hukuk",
     "kelime": "davalı",
-    "aciklama": "suçla ilgili delil ve eşyaya yetkili makamlarca el konulması",
+    "aciklama": "kendisine karşı hukuk mahkemesinde dava açılmış olan ve cevap dilekçesiyle",
     "yasakli_kelimeler": [
       "hakkında dava açılan",
       "cevap veren",
@@ -725,13 +584,13 @@
       "savunma",
       "muhatap"
     ],
-    "zorluk": "kolay"
+    "zorluk": "kolay",
+    "id": 42
   },
   {
-    "id": 53,
     "kategori": "hukuk",
     "kelime": "vekil",
-    "aciklama": "iletişimin tespiti ve telefon konuşmalarının mahkemece dinlenmesi kararı",
+    "aciklama": "noterden aldığı vekaletnameye dayanarak müvekkilini mahkemelerde ve resmi dairelerde temsil",
     "yasakli_kelimeler": [
       "avukat",
       "temsilci",
@@ -739,13 +598,13 @@
       "müvekkil",
       "hukuki temsil"
     ],
-    "zorluk": "kolay"
+    "zorluk": "kolay",
+    "id": 43
   },
   {
-    "id": 54,
     "kategori": "hukuk",
     "kelime": "beraat",
-    "aciklama": "savcılığın kamu davası açmak için düzenlediği resmi itham belgesi",
+    "aciklama": "yargılanan sanığın suçsuz olduğunun veya delil yetersizliğinin anlaşılması üzerine verilen",
     "yasakli_kelimeler": [
       "aklanma",
       "suçsuzluk kararı",
@@ -753,13 +612,13 @@
       "tahliye",
       "mahkeme kararı"
     ],
-    "zorluk": "kolay"
+    "zorluk": "kolay",
+    "id": 44
   },
   {
-    "id": 55,
     "kategori": "hukuk",
     "kelime": "mahkumiyet",
-    "aciklama": "yeterli delil bulunmaması halinde kamu davası açılmaması kararı",
+    "aciklama": "sanığın suçu işlediğinin delillerle sabit olması neticesinde hakkında hapis veya",
     "yasakli_kelimeler": [
       "hüküm giyme",
       "ceza alma",
@@ -767,13 +626,13 @@
       "hapis kararı",
       "infaz"
     ],
-    "zorluk": "kolay"
+    "zorluk": "kolay",
+    "id": 45
   },
   {
-    "id": 56,
     "kategori": "hukuk",
     "kelime": "para cezası",
-    "aciklama": "şüphelinin suçunu kabul etmesi üzerine cezada indirim öngören usul",
+    "aciklama": "suçlu bulunan kişinin devlet hazinesine belirli bir miktar parayı ödemesine",
     "yasakli_kelimeler": [
       "adli ceza",
       "hazineye ödeme",
@@ -781,13 +640,13 @@
       "mali yaptırım",
       "ceza"
     ],
-    "zorluk": "kolay"
+    "zorluk": "kolay",
+    "id": 46
   },
   {
-    "id": 57,
     "kategori": "hukuk",
     "kelime": "hapis cezası",
-    "aciklama": "mağdur ve şüphelinin tarafsız uzlaştırmacı huzurunda anlaşması kurumu",
+    "aciklama": "suçlunun hürriyetinin kısıtlanarak kanunda yazılı süre boyunca ceza infaz kurumunda",
     "yasakli_kelimeler": [
       "cezaevi",
       "hürriyeti bağlayıcı",
@@ -795,13 +654,13 @@
       "parmaklık",
       "mahkumiyet"
     ],
-    "zorluk": "kolay"
+    "zorluk": "kolay",
+    "id": 47
   },
   {
-    "id": 58,
     "kategori": "hukuk",
     "kelime": "müebbet hapis",
-    "aciklama": "ilk derece mahkemesi kararlarına karşı bölge adliye mahkemesine başvuru",
+    "aciklama": "hükümlünün hayatı boyunca ceza infaz kurumunda çektirilen ömür boyu hapis",
     "yasakli_kelimeler": [
       "ömür boyu",
       "hayat boyu",
@@ -809,13 +668,13 @@
       "ağır ceza",
       "infaz"
     ],
-    "zorluk": "kolay"
+    "zorluk": "kolay",
+    "id": 48
   },
   {
-    "id": 59,
     "kategori": "hukuk",
     "kelime": "ağırlaştırılmış müebbet",
-    "aciklama": "istinaf mahkemesi kararlarının yargıtay tarafından denetlenmesi yolu",
+    "aciklama": "en ağır suçlara verilen, tek kişilik hücrede sıkı güvenlik rejiminde",
     "yasakli_kelimeler": [
       "tek kişilik hücre",
       "en ağır yaptırım",
@@ -823,13 +682,13 @@
       "sıkı güvenlik",
       "ömür boyu"
     ],
-    "zorluk": "orta"
+    "zorluk": "orta",
+    "id": 49
   },
   {
-    "id": 60,
     "kategori": "hukuk",
     "kelime": "erteleme",
-    "aciklama": "yargıtay cumhuriyet başsavcısının ceza genel kuruluna itiraz başvurusu",
+    "aciklama": "iki yıl veya daha az hapis cezasına çarptırılan kişinin cezasının",
     "yasakli_kelimeler": [
       "ceza ertelemesi",
       "denetim süresi",
@@ -837,13 +696,13 @@
       "şartlı erteleme",
       "hüküm"
     ],
-    "zorluk": "kolay"
+    "zorluk": "kolay",
+    "id": 50
   },
   {
-    "id": 61,
     "kategori": "hukuk",
     "kelime": "denetimli serbestlik",
-    "aciklama": "kesinleşen hükmün yeni delil ortaya çıkması halinde yeniden incelenmesi",
+    "aciklama": "hükümlünün cezasını cezaevi yerine toplum içinde imza atarak ve kamu",
     "yasakli_kelimeler": [
       "imza yükümlülüğü",
       "dışarıda infaz",
@@ -851,13 +710,13 @@
       "denetim",
       "tahliye sonrası"
     ],
-    "zorluk": "orta"
+    "zorluk": "orta",
+    "id": 51
   },
   {
-    "id": 62,
     "kategori": "hukuk",
     "kelime": "şartlı tahliye",
-    "aciklama": "anayasa mahkemesine temel hak ihlali iddiasıyla yapılan bireysel başvuru",
+    "aciklama": "cezasının kanunen belirlenen kısmını cezaevinde iyi halli geçiren mahkumun erken",
     "yasakli_kelimeler": [
       "koşullu salıverilme",
       "iyi hal",
@@ -865,13 +724,13 @@
       "ceza indirimi",
       "infaz indirimi"
     ],
-    "zorluk": "kolay"
+    "zorluk": "kolay",
+    "id": 52
   },
   {
-    "id": 63,
     "kategori": "hukuk",
     "kelime": "tutuklama",
-    "aciklama": "avrupa insan hakları mahkemesine hak ihlali nedeniyle başvuru",
+    "aciklama": "kaçma veya delilleri karartma şüphesi olan sanık hakkında yargılama bitmeden",
     "yasakli_kelimeler": [
       "cezaevine koyma",
       "kaçma şüphesi",
@@ -879,13 +738,13 @@
       "tedbir",
       "delil karartma"
     ],
-    "zorluk": "kolay"
+    "zorluk": "kolay",
+    "id": 53
   },
   {
-    "id": 64,
     "kategori": "hukuk",
     "kelime": "adli kontrol",
-    "aciklama": "davacı ve davalının mahkeme önünde eşit koşullarda yarışması ilkesi",
+    "aciklama": "tutuklama yerine şüpheliye yurt dışına çıkış yasağı ve karakola düzenli",
     "yasakli_kelimeler": [
       "yurt dışı yasağı",
       "imza atma",
@@ -893,13 +752,13 @@
       "karakol",
       "tedbir"
     ],
-    "zorluk": "kolay"
+    "zorluk": "kolay",
+    "id": 54
   },
   {
-    "id": 65,
     "kategori": "hukuk",
     "kelime": "yakalama",
-    "aciklama": "hakimin tarafların talep ve iddialarıyla bağlı olması kuralı",
+    "aciklama": "suçüstü halinde veya hakkında arama kararı olan kişinin polis veya",
     "yasakli_kelimeler": [
       "gözaltı öncesi",
       "suçüstü",
@@ -907,13 +766,13 @@
       "kaçak yakalama",
       "emniyet"
     ],
-    "zorluk": "kolay"
+    "zorluk": "kolay",
+    "id": 55
   },
   {
-    "id": 66,
     "kategori": "hukuk",
     "kelime": "gözaltı",
-    "aciklama": "hukuk davasında hakimin resen araştırma yapamayacağı ilkesi",
+    "aciklama": "yakalanan şüphelinin savcılık talimatıyla emniyette yirmi dört saat boyunca nezarethanede",
     "yasakli_kelimeler": [
       "nezarethane",
       "yirmi dört saat",
@@ -921,13 +780,13 @@
       "savcı talimatı",
       "alıkoyma"
     ],
-    "zorluk": "kolay"
+    "zorluk": "kolay",
+    "id": 56
   },
   {
-    "id": 67,
     "kategori": "hukuk",
     "kelime": "ifade alma",
-    "aciklama": "iddia ve savunmanın mahkemede sözlü ve açık sunulması ilkesi",
+    "aciklama": "şüphelinin kollukta veya savcılıkta suçlamalar karşısında susma hakkı hatırlatılarak dinlenmesi",
     "yasakli_kelimeler": [
       "polis ifadesi",
       "savcı dinlemesi",
@@ -935,13 +794,13 @@
       "tutanak",
       "beyan"
     ],
-    "zorluk": "kolay"
+    "zorluk": "kolay",
+    "id": 57
   },
   {
-    "id": 68,
     "kategori": "hukuk",
     "kelime": "sorgu",
-    "aciklama": "duruşmaların ve duruşma tutanaklarının kamuya açık olması kuralı",
+    "aciklama": "şüpheli veya sanığın mahkeme veya hakim tarafından isnat edilen suç",
     "yasakli_kelimeler": [
       "hakim sorgusu",
       "sulh ceza",
@@ -949,13 +808,13 @@
       "yargıç karşısı",
       "duruşma"
     ],
-    "zorluk": "kolay"
+    "zorluk": "kolay",
+    "id": 58
   },
   {
-    "id": 69,
     "kategori": "hukuk",
     "kelime": "arama kararı",
-    "aciklama": "yargılamanın en az masrafla ve en hızlı sonuçlandırılması ilkesi",
+    "aciklama": "şüphelinin evinde, iş yerinde veya üzerinde suç delillerini ele geçirmek",
     "yasakli_kelimeler": [
       "ev araması",
       "üst araması",
@@ -963,13 +822,13 @@
       "baskın",
       "delil arama"
     ],
-    "zorluk": "kolay"
+    "zorluk": "kolay",
+    "id": 59
   },
   {
-    "id": 70,
     "kategori": "hukuk",
     "kelime": "el koyma",
-    "aciklama": "mahkemelerin hiçbir organ veya makamdan talimat almadan karar vermesi",
+    "aciklama": "suçta kullanılan veya suçtan elde edilen eşya ve paralara yargılama",
     "yasakli_kelimeler": [
       "zapt etme",
       "delil muhafazası",
@@ -977,13 +836,13 @@
       "haciz benzeri",
       "devletçe alma"
     ],
-    "zorluk": "kolay"
+    "zorluk": "kolay",
+    "id": 60
   },
   {
-    "id": 71,
     "kategori": "hukuk",
     "kelime": "masumiyet karinesi",
-    "aciklama": "kesin delil niteliğinde olan ve tarafları bağlayan yazılı belge",
+    "aciklama": "suçu mahkeme kararıyla kesinleşinceye kadar hiç kimsenin peşinen suçlu sayılamayacağını",
     "yasakli_kelimeler": [
       "suçsuzluk varsayımı",
       "peşin hüküm yasağı",
@@ -991,13 +850,13 @@
       "anayasal ilke",
       "kesin hüküm"
     ],
-    "zorluk": "kolay"
+    "zorluk": "kolay",
+    "id": 61
   },
   {
-    "id": 72,
     "kategori": "hukuk",
     "kelime": "af",
-    "aciklama": "kesin delil olarak taraflardan birine teklif edilen resmi yemin",
+    "aciklama": "yasama organı veya devlet başkanı tarafından suçların kovuşturulmasından veya cezaların",
     "yasakli_kelimeler": [
       "ceza silme",
       "bağışlama",
@@ -1005,13 +864,13 @@
       "cezaevi tahliyesi",
       "mahkum affı"
     ],
-    "zorluk": "kolay"
+    "zorluk": "kolay",
+    "id": 62
   },
   {
-    "id": 73,
     "kategori": "hukuk",
     "kelime": "genel af",
-    "aciklama": "özel veya teknik bilgiyi gerektiren konularda uzmanın hazırladığı rapor",
+    "aciklama": "meclisin beşte üç çoğunluğuyla kabul edilen, hem cezayı hem de",
     "yasakli_kelimeler": [
       "sicil silinmesi",
       "suçun yok sayılması",
@@ -1019,27 +878,13 @@
       "kapsamlı af",
       "tüm mahkumlar"
     ],
-    "zorluk": "orta"
+    "zorluk": "orta",
+    "id": 63
   },
   {
-    "id": 74,
-    "kategori": "hukuk",
-    "kelime": "özel af",
-    "aciklama": "hakimin dava konusu eşya veya yeri bizzat incelemesi işlemi",
-    "yasakli_kelimeler": [
-      "ceza indirimi",
-      "sicil kalır",
-      "cumhurbaşkanı affı",
-      "kısmi af",
-      "tahliye"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 75,
     "kategori": "hukuk",
     "kelime": "anayasa",
-    "aciklama": "dava konusu olaya bizzat tanıklık etmiş kişinin beyanı",
+    "aciklama": "devletin temel organlarını, yönetim biçimini ve vatandaşların temel hak ve",
     "yasakli_kelimeler": [
       "en üst kanun",
       "temel yasa",
@@ -1047,13 +892,13 @@
       "hak ve hürriyetler",
       "anayasa mahkemesi"
     ],
-    "zorluk": "kolay"
+    "zorluk": "kolay",
+    "id": 64
   },
   {
-    "id": 76,
     "kategori": "hukuk",
     "kelime": "kanun",
-    "aciklama": "bir davanın mahkemece kesin karara bağlanıp yeniden açılamaması",
+    "aciklama": "türkiye büyük millet meclisi tarafından anayasaya uygun olarak çıkarılan ve",
     "yasakli_kelimeler": [
       "yasa",
       "tbmm",
@@ -1061,27 +906,13 @@
       "maddeler",
       "meclis kabulü"
     ],
-    "zorluk": "kolay"
+    "zorluk": "kolay",
+    "id": 65
   },
   {
-    "id": 77,
-    "kategori": "hukuk",
-    "kelime": "cumhurbaşkanlığı kararnamesi",
-    "aciklama": "aynı davanın daha önce başka bir mahkemede açılmış olması itirazı",
-    "yasakli_kelimeler": [
-      "cbk",
-      "yürütme yetkisi",
-      "kararname",
-      "cumhurbaşkanı",
-      "düzenleme"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 78,
     "kategori": "hukuk",
     "kelime": "yönetmelik",
-    "aciklama": "mahkemenin belirli bir davaya bakma yetkisinin bulunması kuralı",
+    "aciklama": "bakanlıkların ve kamu tüzel kişilerinin kanunların uygulanmasını göstermek üzere çıkardığı",
     "yasakli_kelimeler": [
       "bakanlık metni",
       "kanun uygulaması",
@@ -1089,41 +920,13 @@
       "kamu kurumu",
       "resmi gazete"
     ],
-    "zorluk": "kolay"
+    "zorluk": "kolay",
+    "id": 66
   },
   {
-    "id": 79,
-    "kategori": "hukuk",
-    "kelime": "genelge",
-    "aciklama": "davanın coğrafi olarak hangi yer mahkemesinde görüleceği kuralı",
-    "yasakli_kelimeler": [
-      "tamim",
-      "talimat yazısı",
-      "iç emir",
-      "memurlara bildirim",
-      "uygulama rehberi"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 80,
-    "kategori": "hukuk",
-    "kelime": "tebliğ",
-    "aciklama": "dava açanın mahkemeden korunmasını talep ettiği hukuki yarar",
-    "yasakli_kelimeler": [
-      "duyuru metni",
-      "maliye tebliği",
-      "resmi açıklama",
-      "mevzuat bildirimi",
-      "uygulama"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 81,
     "kategori": "hukuk",
     "kelime": "tebligat",
-    "aciklama": "davada davacı veya davalı sıfatına sahip olma ehliyeti",
+    "aciklama": "mahkeme veya icra dairesi evraklarının ptt memuru aracılığıyla muhatabın adresine",
     "yasakli_kelimeler": [
       "posta teslimi",
       "sarı zarf",
@@ -1131,13 +934,13 @@
       "imza karşılığı",
       "adres"
     ],
-    "zorluk": "kolay"
+    "zorluk": "kolay",
+    "id": 67
   },
   {
-    "id": 82,
     "kategori": "hukuk",
     "kelime": "anayasa mahkemesi",
-    "aciklama": "gecikmesinde sakınca bulunan hallerde hakkı korumaya yönelik geçici tedbir",
+    "aciklama": "kanunların anayasaya uygunluğunu denetleyen ve bireysel hak ihlali başvurularını karara",
     "yasakli_kelimeler": [
       "aym",
       "bireysel başvuru",
@@ -1145,13 +948,13 @@
       "iptal denetimi",
       "en üst mahkeme"
     ],
-    "zorluk": "kolay"
+    "zorluk": "kolay",
+    "id": 68
   },
   {
-    "id": 83,
     "kategori": "hukuk",
     "kelime": "yargıtay",
-    "aciklama": "para alacağını güvenceye almak için borçlunun mallarına geçici haciz",
+    "aciklama": "adli yargı ilk derece mahkemeleri ve istinaf kararlarının hukuka uygunluğunu",
     "yasakli_kelimeler": [
       "temyiz mahkemesi",
       "adli yargı",
@@ -1159,13 +962,13 @@
       "bozma onama",
       "içtihat"
     ],
-    "zorluk": "kolay"
+    "zorluk": "kolay",
+    "id": 69
   },
   {
-    "id": 84,
     "kategori": "hukuk",
     "kelime": "danıştay",
-    "aciklama": "kesinleşen mahkeme kararlarının icra dairesince zorla yerine getirilmesi",
+    "aciklama": "idari mahkemelerin ve vergi mahkemelerinin kararlarını temyizen inceleyen en yüksek",
     "yasakli_kelimeler": [
       "idari yargı",
       "temyiz merci",
@@ -1173,13 +976,13 @@
       "yürütmeyi durdurma",
       "yüksek mahkeme"
     ],
-    "zorluk": "kolay"
+    "zorluk": "kolay",
+    "id": 70
   },
   {
-    "id": 85,
     "kategori": "hukuk",
     "kelime": "sayıştay",
-    "aciklama": "ilamlı ve ilamsız icra takiplerini yürüten resmi adli daire",
+    "aciklama": "kamu kurumlarının gelir, gider ve mallarını tbmm adına denetleyen ve",
     "yasakli_kelimeler": [
       "mali denetim",
       "kamu harcaması",
@@ -1187,13 +990,13 @@
       "bütçe kontrolü",
       "zimmet"
     ],
-    "zorluk": "orta"
+    "zorluk": "orta",
+    "id": 71
   },
   {
-    "id": 86,
     "kategori": "hukuk",
     "kelime": "asliye hukuk",
-    "aciklama": "mahkeme kararı olmadan fatura veya senede dayalı icra takibi",
+    "aciklama": "özel bir mahkemenin görevine girmeyen genel alacak, tapu iptali ve",
     "yasakli_kelimeler": [
       "genel mahkeme",
       "tazminat davası",
@@ -1201,13 +1004,13 @@
       "alacak davası",
       "hukuk mahkemesi"
     ],
-    "zorluk": "kolay"
+    "zorluk": "kolay",
+    "id": 72
   },
   {
-    "id": 87,
     "kategori": "hukuk",
     "kelime": "sulh hukuk",
-    "aciklama": "alacaklının talebiyle borçlunun haczedilen mallarının açık artırmayla satışı",
+    "aciklama": "kira tespit ve tahliye, mirasçılık belgesi alma ve ortaklığın giderilmesi",
     "yasakli_kelimeler": [
       "kira tahliyesi",
       "veraset ilamı",
@@ -1215,13 +1018,13 @@
       "basit yargılama",
       "küçük uyuşmazlık"
     ],
-    "zorluk": "kolay"
+    "zorluk": "kolay",
+    "id": 73
   },
   {
-    "id": 88,
     "kategori": "hukuk",
     "kelime": "asliye ceza",
-    "aciklama": "haczedilen malın borçluya veya üçüncü kişiye ait olduğu iddiası",
+    "aciklama": "ağır ceza mahkemesinin görev alanına girmeyen on yıla kadar hapis",
     "yasakli_kelimeler": [
       "tek hakim",
       "on yıl altı hapis",
@@ -1229,13 +1032,13 @@
       "hırsızlık yaralama",
       "mahkeme"
     ],
-    "zorluk": "kolay"
+    "zorluk": "kolay",
+    "id": 74
   },
   {
-    "id": 89,
     "kategori": "hukuk",
     "kelime": "ağır ceza",
-    "aciklama": "borçlunun alacaklılarından mal kaçırmak için yaptığı tasarrufların iptali davası",
+    "aciklama": "cinayet, yağma, terör ve on yıldan fazla ağır hapis cezası",
     "yasakli_kelimeler": [
       "cinayet davası",
       "üç hakim heyeti",
@@ -1243,13 +1046,13 @@
       "on yıl üzeri",
       "ağır suçlar"
     ],
-    "zorluk": "kolay"
+    "zorluk": "kolay",
+    "id": 75
   },
   {
-    "id": 90,
     "kategori": "hukuk",
     "kelime": "aile mahkemesi",
-    "aciklama": "borçlunun tüm malvarlığının paraya çevrilip alacaklılara paylaştırılması usulü",
+    "aciklama": "boşanma, nafaka, velayet, mal paylaşımı ve aile içi şiddet tedbirlerine",
     "yasakli_kelimeler": [
       "boşanma",
       "velayet",
@@ -1257,13 +1060,13 @@
       "mal rejimi",
       "uzman pedagog"
     ],
-    "zorluk": "kolay"
+    "zorluk": "kolay",
+    "id": 76
   },
   {
-    "id": 91,
     "kategori": "hukuk",
     "kelime": "iş mahkemesi",
-    "aciklama": "borca batık borçlunun alacaklılarıyla anlaşarak borçlarını yeniden yapılandırması",
+    "aciklama": "işçi ile işveren arasındaki kıdem tazminatı, fazla mesai ücreti ve",
     "yasakli_kelimeler": [
       "işçi işveren",
       "kıdem tazminatı",
@@ -1271,13 +1074,13 @@
       "ücret alacağı",
       "iş hukuku"
     ],
-    "zorluk": "kolay"
+    "zorluk": "kolay",
+    "id": 77
   },
   {
-    "id": 92,
     "kategori": "hukuk",
     "kelime": "tüketici mahkemesi",
-    "aciklama": "idarenin kamu gücünü kullanarak tek taraflı tesis ettiği hukuki işlem",
+    "aciklama": "ayıplı mal ve hizmet satın alan tüketiciler ile satıcılar arasındaki",
     "yasakli_kelimeler": [
       "ayıplı mal",
       "satıcı alıcı",
@@ -1285,13 +1088,13 @@
       "para iadesi",
       "ihtisas mahkemesi"
     ],
-    "zorluk": "kolay"
+    "zorluk": "kolay",
+    "id": 78
   },
   {
-    "id": 93,
     "kategori": "hukuk",
     "kelime": "ticaret mahkemesi",
-    "aciklama": "idarenin yürütmekle yükümlü olduğu hizmeti ifa ederken yaptığı eylem",
+    "aciklama": "şirketler arası ticari uyuşmazlıklar, çek ve senet davaları ile iflas",
     "yasakli_kelimeler": [
       "tacir uyuşmazlığı",
       "şirketler davası",
@@ -1299,13 +1102,13 @@
       "iflas konkordato",
       "heyet"
     ],
-    "zorluk": "orta"
+    "zorluk": "orta",
+    "id": 79
   },
   {
-    "id": 94,
     "kategori": "hukuk",
     "kelime": "icra mahkemesi",
-    "aciklama": "idarenin hukuka aykırı eylem ve işlemlerinden doğan zararı tazmin davası",
+    "aciklama": "icra takibine yapılan itirazların kaldırılmasına ve icra memurunun işlemlerine karşı",
     "yasakli_kelimeler": [
       "itirazın kaldırılması",
       "icra şikayeti",
@@ -1313,13 +1116,13 @@
       "takip itirazı",
       "haciz davası"
     ],
-    "zorluk": "orta"
+    "zorluk": "orta",
+    "id": 80
   },
   {
-    "id": 95,
     "kategori": "hukuk",
     "kelime": "idare mahkemesi",
-    "aciklama": "idarenin kamu hizmetini kötü, geç veya hiç işletmemesi kusuru",
+    "aciklama": "devlet kurumlarının ve belediyelerin aldığı hukuka aykırı idari işlemlerin iptali",
     "yasakli_kelimeler": [
       "idari işlem iptali",
       "yürütmeyi durdurma",
@@ -1327,13 +1130,13 @@
       "tayin davası",
       "idare"
     ],
-    "zorluk": "kolay"
+    "zorluk": "kolay",
+    "id": 81
   },
   {
-    "id": 96,
     "kategori": "hukuk",
     "kelime": "vergi mahkemesi",
-    "aciklama": "idarenin kusuru olmasa dahi tehlike veya fedakarlık sebebiyle sorumluluğu",
+    "aciklama": "vergi dairesinin kestiği usulsüzlük cezaları veya haksız vergi tarhiyatlarına karşı",
     "yasakli_kelimeler": [
       "vergi cezası",
       "tarhiyat iptali",
@@ -1341,13 +1144,13 @@
       "vergi dairesi",
       "ihbarname"
     ],
-    "zorluk": "kolay"
+    "zorluk": "kolay",
+    "id": 82
   },
   {
-    "id": 97,
     "kategori": "hukuk",
     "kelime": "cumhuriyet savcısı",
-    "aciklama": "kamu yararı amacıyla özel mülkiyetteki taşınmazın idarece satın alınması",
+    "aciklama": "suç ihbarı üzerine kamu adına soruşturma başlatan, delil toplayan ve",
     "yasakli_kelimeler": [
       "soruşturma amiri",
       "iddianame yazan",
@@ -1355,13 +1158,13 @@
       "delil toplayan",
       "adliye"
     ],
-    "zorluk": "kolay"
+    "zorluk": "kolay",
+    "id": 83
   },
   {
-    "id": 98,
     "kategori": "hukuk",
     "kelime": "hakim",
-    "aciklama": "kamu yararı amacıyla kişilerin taşınır mallarına geçici el konulması",
+    "aciklama": "mahkemede tarafları ve delilleri dinleyip kanunlar çerçevesinde vicdani kanaatiyle nihai",
     "yasakli_kelimeler": [
       "yargıç",
       "hüküm veren",
@@ -1369,13 +1172,13 @@
       "karar merci",
       "duruşma başkanı"
     ],
-    "zorluk": "kolay"
+    "zorluk": "kolay",
+    "id": 84
   },
   {
-    "id": 99,
     "kategori": "hukuk",
     "kelime": "zabıt katibi",
-    "aciklama": "idarenin kamu düzenini korumak için uyguladığı zabıta yetkileri",
+    "aciklama": "duruşma salonunda hakimin ağzından çıkan her sözü ve tarafların ifadelerini",
     "yasakli_kelimeler": [
       "tutanak yazan",
       "katip",
@@ -1383,13 +1186,13 @@
       "duruşma yazmanı",
       "adliye memuru"
     ],
-    "zorluk": "kolay"
+    "zorluk": "kolay",
+    "id": 85
   },
   {
-    "id": 100,
     "kategori": "hukuk",
     "kelime": "mübaşir",
-    "aciklama": "idarenin kanunun belirlediği sınırlar içinde serbestçe karar alabilme yetkisi",
+    "aciklama": "duruşma sırası gelen tarafların isimlerini koridorda yüksek sesle çağırarak salona",
     "yasakli_kelimeler": [
       "koridorda bağıran",
       "isim çağıran",
@@ -1397,13 +1200,13 @@
       "duruşma görevlisi",
       "adliye personeli"
     ],
-    "zorluk": "kolay"
+    "zorluk": "kolay",
+    "id": 86
   },
   {
-    "id": 101,
     "kategori": "hukuk",
     "kelime": "adliye",
-    "aciklama": "idarenin aldığı kararların kanunlara ve anayasaya uygun olması ilkesi",
+    "aciklama": "mahkemelerin, cumhuriyet başsavcılığının ve icra müdürlüklerinin içinde yer aldığı adalet",
     "yasakli_kelimeler": [
       "adalet sarayı",
       "mahkeme binası",
@@ -1411,13 +1214,13 @@
       "duruşma salonları",
       "icra dairesi"
     ],
-    "zorluk": "kolay"
+    "zorluk": "kolay",
+    "id": 87
   },
   {
-    "id": 102,
     "kategori": "hukuk",
     "kelime": "baro",
-    "aciklama": "idarenin kanunda öngörülmeyen bir alanda doğrudan işlem yapamaması kuralı",
+    "aciklama": "bir ilde kayıtlı avukatların mesleki dayanışmasını, disiplin denetimini ve haklarını",
     "yasakli_kelimeler": [
       "avukatlar birliği",
       "tbb",
@@ -1425,13 +1228,13 @@
       "meslek kuruluşu",
       "il barosu"
     ],
-    "zorluk": "kolay"
+    "zorluk": "kolay",
+    "id": 88
   },
   {
-    "id": 103,
     "kategori": "hukuk",
     "kelime": "avukat",
-    "aciklama": "idari işlemlerin ve düzenlemelerin geleceğe yönelik güven vermesi ilkesi",
+    "aciklama": "hukuk fakültesi mezunu olup müvekkillerinin haklarını mahkemelerde ve resmi kurumlarda",
     "yasakli_kelimeler": [
       "savunman",
       "vekil",
@@ -1439,13 +1242,13 @@
       "dava takipçisi",
       "hukukçu"
     ],
-    "zorluk": "kolay"
+    "zorluk": "kolay",
+    "id": 89
   },
   {
-    "id": 104,
     "kategori": "hukuk",
     "kelime": "noter",
-    "aciklama": "idari kararların açık, öngörülebilir ve keyfilikten uzak olması güvencesi",
+    "aciklama": "vekaletname, sözleşme, araç satışı ve ihtarname gibi işlemleri resmi tasdik",
     "yasakli_kelimeler": [
       "tasdik makamı",
       "vekaletname veren",
@@ -1453,13 +1256,13 @@
       "resmi onay",
       "mühür"
     ],
-    "zorluk": "kolay"
+    "zorluk": "kolay",
+    "id": 90
   },
   {
-    "id": 105,
     "kategori": "hukuk",
     "kelime": "nafaka",
-    "aciklama": "idarenin yaptığı işlemlerin üst mahkemeler ve danıştayca denetlenmesi",
+    "aciklama": "boşanma davası sonucu yoksulluğa düşecek eşe veya müşterek çocukların bakımına",
     "yasakli_kelimeler": [
       "iştirak nafakası",
       "yoksulluk parası",
@@ -1467,13 +1270,13 @@
       "çocuk bakımı",
       "aylık ödeme"
     ],
-    "zorluk": "kolay"
+    "zorluk": "kolay",
+    "id": 91
   },
   {
-    "id": 106,
     "kategori": "hukuk",
     "kelime": "boşanma",
-    "aciklama": "idari yargının en yüksek temyiz ve danışma mercii mahkemesi",
+    "aciklama": "evlilik birliğinin taraflardan birinin talebiyle aile mahkemesi kararı doğrultusunda resmen",
     "yasakli_kelimeler": [
       "evlilik bitişi",
       "ayrılık",
@@ -1481,13 +1284,13 @@
       "anlaşmalı çekişmeli",
       "evlilik cüzdanı"
     ],
-    "zorluk": "kolay"
+    "zorluk": "kolay",
+    "id": 92
   },
   {
-    "id": 107,
     "kategori": "hukuk",
     "kelime": "velayet",
-    "aciklama": "kamu gelir ve giderlerini tbmm adına denetleyen yüksek mahkeme",
+    "aciklama": "ergin olmayan çocukların bakımı, eğitimi, mal varlığı ve temsili konusunda",
     "yasakli_kelimeler": [
       "çocuk hakkı",
       "anne baba yetkisi",
@@ -1495,13 +1298,13 @@
       "velayet hakkı",
       "vasilik"
     ],
-    "zorluk": "kolay"
+    "zorluk": "kolay",
+    "id": 93
   },
   {
-    "id": 108,
     "kategori": "hukuk",
     "kelime": "evlat edinme",
-    "aciklama": "kanunların anayasaya uygunluğunu denetleyen en yüksek anayasa yargı organı",
+    "aciklama": "mahkeme kararıyla başkasının çocuğunu kendi öz çocuğu gibi hukuken aile",
     "yasakli_kelimeler": [
       "evlatlık",
       "mahkeme kararı",
@@ -1509,13 +1312,13 @@
       "soybağı kurma",
       "aile bağı"
     ],
-    "zorluk": "kolay"
+    "zorluk": "kolay",
+    "id": 94
   },
   {
-    "id": 109,
     "kategori": "hukuk",
     "kelime": "mirasçı",
-    "aciklama": "yasama organı tarafından anayasada belirtilen usule göre çıkarılan kural",
+    "aciklama": "ölen kişinin geride bıraktığı mal varlığı, haklar ve borçların kanunen",
     "yasakli_kelimeler": [
       "varis",
       "tereke sahibi",
@@ -1523,41 +1326,13 @@
       "veraset ilamı",
       "miras payı"
     ],
-    "zorluk": "kolay"
+    "zorluk": "kolay",
+    "id": 95
   },
   {
-    "id": 110,
-    "kategori": "hukuk",
-    "kelime": "mirastan feragat",
-    "aciklama": "cumhurbaşkanı tarafından yürütme yetkisine ilişkin olarak çıkarılan düzenleyici işlem",
-    "yasakli_kelimeler": [
-      "haktan vazgeçme",
-      "sağken anlaşma",
-      "noter sözleşmesi",
-      "miras payı",
-      "feragatname"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 111,
-    "kategori": "hukuk",
-    "kelime": "mirası ret",
-    "aciklama": "bakanlıklar ve kamu tüzel kişilerinin kanunları uygulamak için çıkardığı kural",
-    "yasakli_kelimeler": [
-      "reddi miras",
-      "üç ay süre",
-      "borçlu tereke",
-      "kabul etmeme",
-      "sulh mahkemesi"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 112,
     "kategori": "hukuk",
     "kelime": "tazminat",
-    "aciklama": "hukuk kurallarının anayasadan yönetmeliğe kadar derecelendirilmesi piramidi",
+    "aciklama": "haksız fiil, sözleşmeye aykırılık veya iş kazası nedeniyle bir kimseye",
     "yasakli_kelimeler": [
       "zarar karşılığı",
       "para ödemesi",
@@ -1565,13 +1340,13 @@
       "tazmin",
       "haksız fiil"
     ],
-    "zorluk": "kolay"
+    "zorluk": "kolay",
+    "id": 96
   },
   {
-    "id": 113,
     "kategori": "hukuk",
     "kelime": "maddi tazminat",
-    "aciklama": "yasama organının kanun yapma, yürütmenin uygulama ve yargının denetleme ilkesi",
+    "aciklama": "kişinin malvarlığında veya bedeninde meydana gelen somut parasal kayıp ve",
     "yasakli_kelimeler": [
       "parasal zarar",
       "tedavi masrafı",
@@ -1579,13 +1354,13 @@
       "tazminat",
       "somut zarar"
     ],
-    "zorluk": "kolay"
+    "zorluk": "kolay",
+    "id": 97
   },
   {
-    "id": 114,
     "kategori": "hukuk",
     "kelime": "manevi tazminat",
-    "aciklama": "kanunların geçmişe yürütülememesi ve kişilerin kazanılmış haklarının korunması ilkesi",
+    "aciklama": "kişilik haklarına saldırı, iftira veya yakınını kaybetme sonucu duyulan derin",
     "yasakli_kelimeler": [
       "acı ve elem",
       "kişilik hakkı",
@@ -1593,13 +1368,13 @@
       "tazminat",
       "hakaret davası"
     ],
-    "zorluk": "kolay"
+    "zorluk": "kolay",
+    "id": 98
   },
   {
-    "id": 115,
     "kategori": "hukuk",
     "kelime": "haksız rekabet",
-    "aciklama": "yürürlükteki mevzuatın usulüne uygun olarak yürürlükten tamamen kaldırılması",
+    "aciklama": "aldatıcı reklam, taklit marka veya yanıltıcı bilgilerle piyasadaki dürüst ticari",
     "yasakli_kelimeler": [
       "marka taklidi",
       "aldatıcı reklam",
@@ -1607,13 +1382,13 @@
       "ticari zarar",
       "dava"
     ],
-    "zorluk": "orta"
+    "zorluk": "orta",
+    "id": 99
   },
   {
-    "id": 116,
     "kategori": "hukuk",
     "kelime": "kıdem tazminatı",
-    "aciklama": "kanun koyucunun bilerek düzenlemediği kural içi kanun boşluğu",
+    "aciklama": "en az bir yıl çalışan işçinin haksız yere işten çıkarılması",
     "yasakli_kelimeler": [
       "işten çıkarma",
       "her yıl bir maaş",
@@ -1621,13 +1396,13 @@
       "çalışma süresi",
       "iş tazminatı"
     ],
-    "zorluk": "kolay"
+    "zorluk": "kolay",
+    "id": 100
   },
   {
-    "id": 117,
     "kategori": "hukuk",
     "kelime": "ihbar tazminatı",
-    "aciklama": "kanunda bulunması gereken bir hükmün eksik olması hali",
+    "aciklama": "iş sözleşmesini feshederken kanuni ihbar önellerine uymayan tarafın karşı tarafa",
     "yasakli_kelimeler": [
       "önel süresi",
       "bildirimsiz fesih",
@@ -1635,26 +1410,27 @@
       "iş kanunu",
       "tazminat"
     ],
-    "zorluk": "orta"
+    "zorluk": "orta",
+    "id": 101
   },
   {
-    "id": 118,
     "kategori": "hukuk",
     "kelime": "iş sözleşmesi",
-    "aciklama": "hakimin uygulanacak kural bulunmadığında kanun koyucu gibi karar vermesi",
+    "aciklama": "işçi ile işveren arasındaki çalışma ilişkisini düzenleyen sözleşme",
     "yasakli_kelimeler": [
       "çalışma akdi",
-      "işçi işveren anlaşması",
-      "ücret bağımlılık",
-      "iş sözleşmesi",
-      "akid"
+      "işçi",
+      "işveren",
+      "ücret",
+      "kontrat"
     ],
-    "zorluk": "kolay"
+    "zorluk": "kolay",
+    "id": 102
   },
   {
     "kategori": "hukuk",
     "kelime": "dava açmak",
-    "aciklama": "hukukta kıyas ve yorum yöntemlerinin kullanılması kuralları",
+    "aciklama": "bir anlaşmazlığı çözmesi için mahkemeye resmi başvuru yapmak",
     "yasakli_kelimeler": [
       "mahkeme",
       "avukat",
@@ -1663,12 +1439,12 @@
       "hakkını aramak"
     ],
     "zorluk": "kolay",
-    "id": 119
+    "id": 103
   },
   {
     "kategori": "hukuk",
     "kelime": "savunma yapmak",
-    "aciklama": "işçi ile işveren arasındaki bağımlılık ve ücret ilişkisini düzenleyen sözleşme",
+    "aciklama": "yöneltilen suçlama veya iddiaya karşı kendini savunmak",
     "yasakli_kelimeler": [
       "avukat",
       "sanık",
@@ -1677,12 +1453,12 @@
       "suçsuzluk"
     ],
     "zorluk": "kolay",
-    "id": 120
+    "id": 104
   },
   {
     "kategori": "hukuk",
     "kelime": "şahitlik yapmak",
-    "aciklama": "iş sözleşmesinin süresi dolmadan ve ihbar süresine uyulmadan feshi tazminatı",
+    "aciklama": "olay anında gördüklerini veya bildiklerini mahkemede anlatmak",
     "yasakli_kelimeler": [
       "tanık",
       "gördüğünü anlatmak",
@@ -1691,12 +1467,12 @@
       "ifade"
     ],
     "zorluk": "kolay",
-    "id": 121
+    "id": 105
   },
   {
     "kategori": "hukuk",
     "kelime": "sözleşme imzalamak",
-    "aciklama": "en az bir yıl çalışan işçiye işten ayrılırken ödenen tazminat",
+    "aciklama": "i̇ki taraf arasındaki hukuki şartları kabul edip imzalamak",
     "yasakli_kelimeler": [
       "kontrat",
       "madde",
@@ -1705,12 +1481,12 @@
       "kalem"
     ],
     "zorluk": "kolay",
-    "id": 122
+    "id": 106
   },
   {
     "kategori": "hukuk",
     "kelime": "itiraz etmek",
-    "aciklama": "işçinin haksız yere işten çıkarılması halinde işe iadesini talep davası",
+    "aciklama": "verilen bir kararın veya beyanın geçersizliğini öne sürmek",
     "yasakli_kelimeler": [
       "kabul etmemek",
       "karar",
@@ -1719,96 +1495,12 @@
       "söz hakkı"
     ],
     "zorluk": "kolay",
-    "id": 123
-  },
-  {
-    "kategori": "hukuk",
-    "kelime": "ceza vermek",
-    "aciklama": "iş sözleşmesinin kanunda belirtilen haklı nedenlerle derhal sona erdirilmesi",
-    "yasakli_kelimeler": [
-      "hakim",
-      "hapis",
-      "para",
-      "mahkeme",
-      "suç"
-    ],
-    "zorluk": "kolay",
-    "id": 124
-  },
-  {
-    "kategori": "hukuk",
-    "kelime": "ifade vermek",
-    "aciklama": "iş güvencesi kapsamında geçerli bir nedene dayanılarak yapılan fesih",
-    "yasakli_kelimeler": [
-      "karakol",
-      "savcı",
-      "anlatmak",
-      "soru",
-      "tutanak"
-    ],
-    "zorluk": "kolay",
-    "id": 125
-  },
-  {
-    "kategori": "hukuk",
-    "kelime": "boşanmak",
-    "aciklama": "haftalık kırk beş saati aşan çalışma karşılığı ödenen ek ücret",
-    "yasakli_kelimeler": [
-      "evlilik",
-      "ayrılmak",
-      "nafaka",
-      "mahkeme",
-      "eş"
-    ],
-    "zorluk": "kolay",
-    "id": 126
-  },
-  {
-    "kategori": "hukuk",
-    "kelime": "avukat tutmak",
-    "aciklama": "işçinin yıl boyunca çalışması karşılığı hak kazandığı ücretli izin hakkı",
-    "yasakli_kelimeler": [
-      "vekalet",
-      "savunma",
-      "hukukçu",
-      "dava",
-      "ücret"
-    ],
-    "zorluk": "kolay",
-    "id": 127
-  },
-  {
-    "kategori": "hukuk",
-    "kelime": "kanunlara uymak",
-    "aciklama": "işçi sendikası ile işveren arasında akdedilen toplu sözleşme",
-    "yasakli_kelimeler": [
-      "kural",
-      "yasa",
-      "vatandaş",
-      "ceza",
-      "düzen"
-    ],
-    "zorluk": "kolay",
-    "id": 128
-  },
-  {
-    "kategori": "hukuk",
-    "kelime": "tazminat istemek",
-    "aciklama": "işçilerin taleplerini kabul ettirmek için topluca işi bırakma hakkı",
-    "yasakli_kelimeler": [
-      "zarar",
-      "para",
-      "mağdur",
-      "ödetmek",
-      "dava"
-    ],
-    "zorluk": "kolay",
-    "id": 129
+    "id": 107
   },
   {
     "kategori": "hukuk",
     "kelime": "şikayetçi olmak",
-    "aciklama": "işverenin işçileri topluca işyerinden uzaklaştırması eylemi",
+    "aciklama": "kendisine haksızlık yapan kişinin cezalandırılmasını istemek",
     "yasakli_kelimeler": [
       "suç duyurusu",
       "dilekçe",
@@ -1817,54 +1509,12 @@
       "başvuru"
     ],
     "zorluk": "kolay",
-    "id": 130
-  },
-  {
-    "kategori": "hukuk",
-    "kelime": "temyize başvurmak",
-    "aciklama": "işyerinde çalışan işçinin iş dolayısıyla uğradığı bedensel veya ruhsal kaza",
-    "yasakli_kelimeler": [
-      "yargıtay",
-      "üst mahkeme",
-      "karar bozma",
-      "istinaf",
-      "hukuki inceleme"
-    ],
-    "zorluk": "orta",
-    "id": 131
-  },
-  {
-    "kategori": "hukuk",
-    "kelime": "haciz koydurmak",
-    "aciklama": "işçilerin ve işverenlerin haklarını korumak için kurduğu mesleki kuruluş",
-    "yasakli_kelimeler": [
-      "icra",
-      "borç",
-      "mal varlığı",
-      "memur",
-      "alacak"
-    ],
-    "zorluk": "orta",
-    "id": 132
-  },
-  {
-    "kategori": "hukuk",
-    "kelime": "vekaletname çıkarmak",
-    "aciklama": "ortak sayısı sınırlı olan ve pay devri kısıtlanan sermaye şirketi",
-    "yasakli_kelimeler": [
-      "noter",
-      "yetki verme",
-      "avukat",
-      "resmi belge",
-      "temsil"
-    ],
-    "zorluk": "orta",
-    "id": 133
+    "id": 108
   },
   {
     "kategori": "hukuk",
     "kelime": "delil toplamak",
-    "aciklama": "ortakların ekonomik çıkarlarını korumak için kurduğu dayanışma ortaklığı",
+    "aciklama": "i̇ddiayı kanıtlayacak somut evrak ve şahitleri bir araya getirmek",
     "yasakli_kelimeler": [
       "ispat",
       "kamera kaydı",
@@ -1873,12 +1523,12 @@
       "mahkemeye sunma"
     ],
     "zorluk": "orta",
-    "id": 134
+    "id": 109
   },
   {
     "kategori": "hukuk",
     "kelime": "ihtarname çekmek",
-    "aciklama": "şirket ortaklarına dağıtılan yıllık net kar payı tutarı",
+    "aciklama": "karşı tarafa edimini yerine getirmesi için noterden resmi bildirim yollamak",
     "yasakli_kelimeler": [
       "noter",
       "uyarı",
@@ -1887,20 +1537,6 @@
       "resmi tebligat"
     ],
     "zorluk": "orta",
-    "id": 135
-  },
-  {
-    "kategori": "hukuk",
-    "kelime": "görevi kötüye kullanmak",
-    "aciklama": "uluslararası antlaşmalar ve devletlerarası hukuki ilişkileri düzenleyen kurallar",
-    "yasakli_kelimeler": [
-      "kamu görevlisi",
-      "nüfuz ticareti",
-      "haksız menfaat",
-      "tck 257",
-      "zarar"
-    ],
-    "zorluk": "zor",
-    "id": 136
+    "id": 110
   }
 ]

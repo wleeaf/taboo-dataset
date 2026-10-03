@@ -3,13 +3,13 @@
     "id": 1,
     "kategori": "numizmatik",
     "kelime": "darphane",
-    "aciklama": "madeni para ve madalyaların basıldığı resmi devlet tesisi.",
+    "aciklama": "madeni para ve madalyaların resmi basıldığı devlet tesisi",
     "yasakli_kelimeler": [
-      "para basımı",
-      "madeni para",
-      "devlet matbaası",
-      "sikke üretimi",
-      "altın basımı"
+      "para",
+      "madeni",
+      "basım",
+      "devlet",
+      "hazine"
     ],
     "zorluk": "kolay"
   },
@@ -17,13 +17,13 @@
     "id": 2,
     "kategori": "numizmatik",
     "kelime": "sikke",
-    "aciklama": "devlet garantisiyle tedavüle sokulan madeni para sikke.",
+    "aciklama": "tarihte devlet güvencesiyle basılan madeni para",
     "yasakli_kelimeler": [
       "madeni para",
-      "eski para",
-      "tedavül",
-      "metal para",
-      "devlet basımı"
+      "eski",
+      "altın",
+      "gümüş",
+      "tarih"
     ],
     "zorluk": "kolay"
   },
@@ -31,41 +31,41 @@
     "id": 3,
     "kategori": "numizmatik",
     "kelime": "nominal değer",
-    "aciklama": "paranın üzerinde basılı olan yasal resmi parasal değer.",
+    "aciklama": "paranın üzerinde yazılı olan yasal resmi değer",
     "yasakli_kelimeler": [
-      "üstündeki değer",
-      "yazılı değer",
-      "tedavül değeri",
-      "madeni para rakamı",
-      "para kıymeti"
+      "değer",
+      "fiyat",
+      "yazılı",
+      "rakam",
+      "banknot"
     ],
-    "zorluk": "kolay"
+    "zorluk": "orta"
   },
   {
     "id": 4,
     "kategori": "numizmatik",
     "kelime": "darphane işareti",
-    "aciklama": "koleksiyoncular arasındaki nadirlik ve kondisyona bağlı piyasa değeri.",
+    "aciklama": "paranın basıldığı şehri veya darphaneyi simgeleyen harf",
     "yasakli_kelimeler": [
-      "darphane harfi",
-      "basım yeri",
-      "küçük damga",
-      "üretim işareti",
-      "monogram"
+      "harf",
+      "sembol",
+      "damga",
+      "şehir",
+      "basım"
     ],
-    "zorluk": "kolay"
+    "zorluk": "zor"
   },
   {
     "id": 5,
     "kategori": "numizmatik",
     "kelime": "tuğra",
-    "aciklama": "paranın veya sikkenin ana motifini taşıyan ön yüzü.",
+    "aciklama": "osmanlı paralarında ve fermanlarında yer alan padişah imzası",
     "yasakli_kelimeler": [
-      "padişah imzası",
-      "osmanlı parası",
-      "hat sanatı",
-      "mühür",
-      "sultan alameti"
+      "padişah",
+      "imza",
+      "osmanlı",
+      "ferman",
+      "hat"
     ],
     "zorluk": "kolay"
   },
@@ -73,13 +73,13 @@
     "id": 6,
     "kategori": "numizmatik",
     "kelime": "akçe",
-    "aciklama": "paranın değerini veya sembolünü gösteren arka yüzü.",
+    "aciklama": "osmanlı imparatorluğunda kullanılan temel gümüş para birimi",
     "yasakli_kelimeler": [
-      "osmanlı parası",
-      "gümüş para",
-      "temel para birimi",
-      "eski sikke",
-      "padişah akçesi"
+      "osmanlı",
+      "gümüş",
+      "para",
+      "birim",
+      "eski"
     ],
     "zorluk": "kolay"
   },
@@ -87,13 +87,13 @@
     "id": 7,
     "kategori": "numizmatik",
     "kelime": "sultani",
-    "aciklama": "madeni paranın kabartmaları arasında kalan düz arka plan zemini.",
+    "aciklama": "osmanlı devleti'nde basılan ilk resmi altın sikke",
     "yasakli_kelimeler": [
-      "osmanlı altını",
-      "altın sikke",
-      "fatih dönemi",
-      "has altın",
-      "osmanlı parası"
+      "altın",
+      "osmanlı",
+      "sikke",
+      "padişah",
+      "değer"
     ],
     "zorluk": "orta"
   },
@@ -101,27 +101,27 @@
     "id": 8,
     "kategori": "numizmatik",
     "kelime": "mangır",
-    "aciklama": "madeni paranın çevresini saran koruyucu yükseltilmiş kenar bordürü.",
+    "aciklama": "osmanlı'da küçük harcamalarda kullanılan bakır bozuk para",
     "yasakli_kelimeler": [
-      "bakır para",
-      "osmanlı ufaklığı",
-      "düşük değerli",
-      "bozukluk",
-      "bakır sikke"
+      "bakır",
+      "osmanlı",
+      "bozuk",
+      "küçük",
+      "para"
     ],
-    "zorluk": "kolay"
+    "zorluk": "orta"
   },
   {
     "id": 9,
     "kategori": "numizmatik",
     "kelime": "kuruş",
-    "aciklama": "sikke basılmadan önce hazırlanan yuvarlak ham maden parçası flan.",
+    "aciklama": "türk lirasının yüzde birine denk gelen madeni para",
     "yasakli_kelimeler": [
-      "yüzde bir lira",
-      "madeni para",
-      "osmanlı parası",
-      "ufaklık",
-      "liranın altı"
+      "lira",
+      "bozukluk",
+      "madeni",
+      "elli",
+      "ufaklık"
     ],
     "zorluk": "kolay"
   },
@@ -129,13 +129,13 @@
     "id": 10,
     "kategori": "numizmatik",
     "kelime": "para",
-    "aciklama": "sikke basımında madene darbe vurarak şekil veren çelik kalıp.",
+    "aciklama": "mal ve hizmet alımında kullanılan resmi ödeme aracı",
     "yasakli_kelimeler": [
-      "kırkta bir",
-      "osmanlı sikkesi",
-      "gümüş",
-      "kuruşun altı",
-      "ufak para"
+      "nakit",
+      "ödeme",
+      "alışveriş",
+      "banknot",
+      "bozukluk"
     ],
     "zorluk": "kolay"
   },
@@ -143,27 +143,27 @@
     "id": 11,
     "kategori": "numizmatik",
     "kelime": "mecidiye",
-    "aciklama": "darphane kalıbının hafif kaymasıyla oluşan hatalı baskı parası.",
+    "aciklama": "sultan abdülmecid döneminde basılan gümüş osmanlı parası",
     "yasakli_kelimeler": [
+      "gümüş",
+      "osmanlı",
       "abdülmecid",
-      "yirmi kuruş",
-      "gümüş mecidiye",
-      "osmanlı parası",
-      "darphane"
+      "sikke",
+      "lira"
     ],
-    "zorluk": "kolay"
+    "zorluk": "orta"
   },
   {
     "id": 12,
     "kategori": "numizmatik",
     "kelime": "dinar",
-    "aciklama": "madenin içinde çatlak veya boşluk bulunmasıyla oluşan basım hatası.",
+    "aciklama": "arap ve orta doğu ülkelerinde kullanılan para birimi",
     "yasakli_kelimeler": [
-      "altın sikke",
-      "islam parası",
-      "emevi abbası",
-      "orta doğu parası",
-      "altın para"
+      "arap",
+      "para birimi",
+      "kuveyt",
+      "ırak",
+      "orta doğu"
     ],
     "zorluk": "kolay"
   },
@@ -171,1134 +171,560 @@
     "id": 13,
     "kategori": "numizmatik",
     "kelime": "dirhem",
-    "aciklama": "eski bir sikkenin üzerine yeni bir kalıpla vurulan ikinci baskı.",
+    "aciklama": "eskiden kullanılan gümüş para ve ağırlık ölçü birimi",
     "yasakli_kelimeler": [
-      "gümüş para",
-      "islam sikkesi",
-      "ağırlık birimi",
-      "gümüş dirhem",
+      "ağırlık",
+      "ölçü",
+      "gümüş",
+      "osmanlı",
       "eski para"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 14,
-    "kategori": "numizmatik",
-    "kelime": "tetradrahmi",
-    "aciklama": "tedavülden kalkan paranın delinerek geçersiz kılınması işlemi.",
-    "yasakli_kelimeler": [
-      "antik yunan",
-      "atina baykuşu",
-      "dört drahmi",
-      "gümüş sikke",
-      "antik para"
     ],
     "zorluk": "orta"
   },
   {
-    "id": 15,
+    "id": 14,
     "kategori": "numizmatik",
     "kelime": "drahmi",
-    "aciklama": "koleksiyoncular için özel ve sınırlı sayıda basılan madeni para.",
+    "aciklama": "yunanistan'ın avro öncesinde kullandığı tarihi para birimi",
     "yasakli_kelimeler": [
-      "yunan parası",
-      "antik sikke",
-      "gümüş drahmi",
-      "eski yunan",
-      "para birimi"
+      "yunanistan",
+      "avro",
+      "para",
+      "avrupa",
+      "tarihi"
     ],
     "zorluk": "kolay"
+  },
+  {
+    "id": 15,
+    "kategori": "numizmatik",
+    "kelime": "florin",
+    "aciklama": "avrupa'da yüzyıllar boyu kullanılmış ünlü altın para",
+    "yasakli_kelimeler": [
+      "altın",
+      "avrupa",
+      "italya",
+      "flarans",
+      "eski para"
+    ],
+    "zorluk": "orta"
   },
   {
     "id": 16,
     "kategori": "numizmatik",
-    "kelime": "florin",
-    "aciklama": "antik yunan'da dört drahmi değerindeki büyük gümüş sikke.",
+    "kelime": "duka",
+    "aciklama": "venedik cumhuriyeti tarafından basılan meşhur altın sikke",
     "yasakli_kelimeler": [
-      "floransa",
-      "altın florin",
-      "zambak arması",
-      "italyan parası",
-      "ortaçağ ticareti"
+      "venedik",
+      "altın",
+      "sikke",
+      "italya",
+      "tarihi"
     ],
-    "zorluk": "kolay"
+    "zorluk": "orta"
   },
   {
     "id": 17,
     "kategori": "numizmatik",
-    "kelime": "duka",
-    "aciklama": "antik yunan'da drahminin altıda biri değerindeki küçük sikke.",
+    "kelime": "kalıp",
+    "aciklama": "madeni paraların üzerine desen basan çelik alet",
     "yasakli_kelimeler": [
-      "venedik",
-      "altın duka",
-      "doj parası",
-      "uluslararası para",
-      "italyan altını"
+      "çelik",
+      "baskı",
+      "darphane",
+      "damga",
+      "desen"
     ],
-    "zorluk": "kolay"
+    "zorluk": "orta"
   },
   {
     "id": 18,
     "kategori": "numizmatik",
-    "kelime": "kenar yazısı",
-    "aciklama": "i̇slam dünyasında kullanılan geleneksel gümüş sikke dirhem.",
+    "kelime": "pul",
+    "aciklama": "mektup ve evrak üzerine yapıştırılan değerli küçük kağıt",
     "yasakli_kelimeler": [
-      "para kenarı",
-      "yazılı kenar",
-      "lefant",
-      "hırsızlık önleme",
-      "çevre yazısı"
+      "mektup",
+      "posta",
+      "koleksiyon",
+      "filateli",
+      "zarf"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 19,
     "kategori": "numizmatik",
-    "kelime": "tırtık",
-    "aciklama": "i̇slam devletlerinde kullanılan bakır bozuk para fels.",
+    "kelime": "ayar",
+    "aciklama": "altın ve gümüşün saflık derecesini belirten yasal ölçü",
     "yasakli_kelimeler": [
-      "dişli kenar",
-      "madeni para çizgisi",
-      "kenar deseni",
-      "tırtıklı",
-      "aşınma engelleme"
+      "altın",
+      "saflık",
+      "gümüş",
+      "karat",
+      "derece"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 20,
     "kategori": "numizmatik",
-    "kelime": "kalıp",
-    "aciklama": "osmanlı'da akçenin üçte biri değerindeki küçük bakır para.",
+    "kelime": "sahte para",
+    "aciklama": "yasal olmayan yollarla taklit edilerek basılmış para",
     "yasakli_kelimeler": [
-      "negatif desen",
-      "baskı aleti",
-      "çelik kalıp",
-      "darphane aleti",
-      "alt üst kalıp"
+      "kalpazan",
+      "taklit",
+      "kopya",
+      "yasadışı",
+      "dolandırıcılık"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 21,
     "kategori": "numizmatik",
-    "kelime": "pul",
-    "aciklama": "osmanlı'da sultan ikinci mahmud döneminde basılan gümüş para.",
+    "kelime": "kalpazan",
+    "aciklama": "yasadışı yollarla sahte para basıp piyasaya süren kimse",
     "yasakli_kelimeler": [
-      "ham metal disk",
-      "basılmamış disk",
-      "metal levha",
-      "para taslağı",
-      "blank"
+      "sahte",
+      "suçlu",
+      "dolandırıcı",
+      "basmak",
+      "matbaa"
     ],
-    "zorluk": "orta"
+    "zorluk": "kolay"
   },
   {
     "id": 22,
     "kategori": "numizmatik",
-    "kelime": "ayar",
-    "aciklama": "türkiye cumhuriyeti'nin temel ulusal para birimi türk lirası.",
+    "kelime": "hazine",
+    "aciklama": "yer altında veya batıklarda bulunan değerli altın gömü",
     "yasakli_kelimeler": [
-      "saflık derecesi",
-      "kırat",
-      "altın oranı",
-      "milyem",
-      "maden kalitesi"
+      "altın",
+      "gömü",
+      "define",
+      "değerli",
+      "sandık"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 23,
     "kategori": "numizmatik",
-    "kelime": "sahte para",
-    "aciklama": "yasal otoritenin ve darphanenin izni dışında yasadışı yollarla.",
+    "kelime": "define",
+    "aciklama": "toprağa gizlenmiş ve sonradan keşfedilen tarihi gömü",
     "yasakli_kelimeler": [
-      "kalpazan",
-      "taklit para",
-      "yasadışı basım",
-      "sahtecilik",
-      "değersiz kopya"
+      "gömü",
+      "hazine",
+      "toprak",
+      "kazı",
+      "altın"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 24,
     "kategori": "numizmatik",
-    "kelime": "kalpazan",
-    "aciklama": "yasadışı olarak taklit sikke veya sahte banknot basıp.",
+    "kelime": "nümizmat",
+    "aciklama": "madeni ve kağıt paraları araştıran para uzmanı",
     "yasakli_kelimeler": [
-      "sahte para basan",
-      "taklitçi",
-      "yasadışı darp",
-      "para basan suçlu",
-      "sahtekar"
+      "koleksiyoncu",
+      "uzman",
+      "tarih",
+      "araştırmacı",
+      "sikke"
     ],
-    "zorluk": "kolay"
+    "zorluk": "orta"
   },
   {
     "id": 25,
     "kategori": "numizmatik",
-    "kelime": "hazine",
-    "aciklama": "toprak altında veya batıklarda küp ya da sandık.",
+    "kelime": "madalya",
+    "aciklama": "başarı ve anı amacıyla kişilere takılan metal ödül",
     "yasakli_kelimeler": [
-      "define",
-      "toplu sikke",
-      "gömü",
-      "küp para",
-      "arkeolojik buluntu"
+      "ödül",
+      "spor",
+      "altın",
+      "gümüş",
+      "bronz"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 26,
     "kategori": "numizmatik",
-    "kelime": "define",
-    "aciklama": "geçmişte saklanmış ve günümüze kadar el değmeden korunarak.",
+    "kelime": "plaket",
+    "aciklama": "anı veya takdir belirtisi olarak verilen metal levha",
     "yasakli_kelimeler": [
-      "hazine",
-      "toprak altı",
-      "tarihi gömü",
-      "küp altın",
-      "buluntu"
+      "ödül",
+      "tören",
+      "teşekkür",
+      "ahşap",
+      "yazı"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 27,
     "kategori": "numizmatik",
-    "kelime": "nümizmat",
-    "aciklama": "tarihi ve modern madeni paraları, madalyaları ve para.",
+    "kelime": "jeton",
+    "aciklama": "otomat ve turnikelerde para yerine kullanılan metal yuvarlak",
     "yasakli_kelimeler": [
-      "para bilimci",
-      "koleksiyon uzmanı",
-      "madeni para araştırmacısı",
-      "para uzmanı",
-      "tarihçi"
+      "otomat",
+      "turnike",
+      "metro",
+      "oyun",
+      "metal"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 28,
     "kategori": "numizmatik",
-    "kelime": "madalya",
-    "aciklama": "önemli bir zafer, tarihi olay veya kişiyi onurlandırmak.",
+    "kelime": "hatıra para",
+    "aciklama": "özel olayları anmak amacıyla sınırlı basılan madeni para",
     "yasakli_kelimeler": [
-      "onur plaketi",
-      "hatıra metal",
-      "ödül metali",
-      "nişan",
-      "darphane madalyası"
+      "darphane",
+      "anı",
+      "özel",
+      "koleksiyon",
+      "limitli"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 29,
     "kategori": "numizmatik",
-    "kelime": "plaket",
-    "aciklama": "genellikle dikdörtgen veya köşeli biçimde sanatsal kabartmalarla dökülen hatıra madalyon.",
+    "kelime": "filigran",
+    "aciklama": "kağıt parayı ışığa tutunca görünen gizli görsel desen",
     "yasakli_kelimeler": [
-      "köşeli madalya",
-      "kabartma levha",
-      "hatıra metal",
-      "bronz levha",
-      "anma metali"
+      "ışık",
+      "kağıt",
+      "gizli",
+      "resim",
+      "güvenlik"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 30,
     "kategori": "numizmatik",
-    "kelime": "jeton",
-    "aciklama": "otomatlarda, ulaşımda veya oyun salonlarında para yerine kullanılmak.",
+    "kelime": "hologram",
+    "aciklama": "paranın taklit edilmesini önleyen parlak optik güvenlik deseni",
     "yasakli_kelimeler": [
-      "marka",
-      "otomat metali",
-      "para yerine geçen",
-      "geçiş pulu",
-      "oyun parası"
+      "parlak",
+      "renk",
+      "güvenlik",
+      "etiket",
+      "üç boyutlu"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 31,
     "kategori": "numizmatik",
-    "kelime": "hatıra para",
-    "aciklama": "tarihi bir yıldönümünü veya olayı anmak amacıyla darphane.",
+    "kelime": "güvenlik şeridi",
+    "aciklama": "banknot kağıdının içine gömülü ince koruyucu metal hat",
     "yasakli_kelimeler": [
-      "anma parası",
-      "sınırlı üretim",
-      "koleksiyon parası",
-      "özel basım",
-      "yıldönümü parası"
+      "şerit",
+      "metal",
+      "kağıt",
+      "ışık",
+      "banknot"
     ],
-    "zorluk": "kolay"
+    "zorluk": "orta"
   },
   {
     "id": 32,
     "kategori": "numizmatik",
-    "kelime": "polimer para",
-    "aciklama": "kağıt yerine özel esnek ve dayanıklı plastik polimer.",
+    "kelime": "gravür",
+    "aciklama": "banknot levhalarına elle kazınan ince çizim sanatı",
     "yasakli_kelimeler": [
-      "plastik banknot",
-      "polimer tabaka",
-      "yırtılmaz para",
-      "su geçirmez",
-      "modern kağıt para"
+      "kazıma",
+      "çizim",
+      "sanat",
+      "baskı",
+      "kalıp"
     ],
-    "zorluk": "kolay"
+    "zorluk": "zor"
   },
   {
     "id": 33,
     "kategori": "numizmatik",
-    "kelime": "filigran",
-    "aciklama": "kağıt paranın hamuruna üretim sırasında eklenen ve ışığa.",
+    "kelime": "seri numarası",
+    "aciklama": "her banknotun üzerinde bulunan benzersiz harf ve rakamlar",
     "yasakli_kelimeler": [
-      "ışığa tutma",
-      "gizli desen",
-      "kağıt para hamuru",
-      "sahtecilik önlemi",
-      "görünmez resim"
+      "harf",
+      "rakam",
+      "benzersiz",
+      "kod",
+      "para"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 34,
     "kategori": "numizmatik",
-    "kelime": "hologram",
-    "aciklama": "banknot veya hatıra paralarda ışık açısına göre renk.",
+    "kelime": "hata basım",
+    "aciklama": "darphanede kayma veya çift baskıyla hatalı üretilen para",
     "yasakli_kelimeler": [
-      "üç boyutlu",
-      "renk değiştiren",
-      "güvenlik şeridi",
-      "ışık açısı",
-      "parlak bant"
+      "darphane",
+      "hata",
+      "kayma",
+      "nadir",
+      "değerli"
     ],
-    "zorluk": "kolay"
+    "zorluk": "orta"
   },
   {
     "id": 35,
     "kategori": "numizmatik",
-    "kelime": "mikroyazı",
-    "aciklama": "banknot ve paralarda sahteciliği engellemek için sadece büyüteçle.",
+    "kelime": "müzayede",
+    "aciklama": "nadir koleksiyon paralarının açık artırmayla satıldığı etkinlik",
     "yasakli_kelimeler": [
-      "büyüteç yazısı",
-      "küçük yazı",
-      "güvenlik metni",
-      "sahtecilik engeli",
-      "minik karakter"
+      "açık artırma",
+      "satış",
+      "pey",
+      "antika",
+      "fiyat"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 36,
     "kategori": "numizmatik",
-    "kelime": "güvenlik şeridi",
-    "aciklama": "banknot kağıdının içine gömülen ve üzerinde metin veya.",
+    "kelime": "hassas terazi",
+    "aciklama": "madeni paranın gramajını miligram düzeyinde tartan terazi",
     "yasakli_kelimeler": [
-      "metalik bant",
-      "gömülü şerit",
-      "para güvenliği",
-      "kağıt para teli",
-      "manyetik bant"
+      "tartı",
+      "gram",
+      "miligram",
+      "ölçüm",
+      "kuyumcu"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 37,
     "kategori": "numizmatik",
-    "kelime": "gravür",
-    "aciklama": "banknot baskı plakaları üzerine çelik oyma sanatıyla incecik.",
+    "kelime": "kumpas",
+    "aciklama": "paranın kalınlığını ve çapını ölçmeye yarayan hassas cetvel",
     "yasakli_kelimeler": [
-      "çelik oyma",
-      "plaka işleme",
-      "baskı sanatı",
-      "çizgisel portre",
-      "oymacılık"
+      "ölçü",
+      "cetvel",
+      "çap",
+      "kalınlık",
+      "milimetre"
     ],
-    "zorluk": "kolay"
+    "zorluk": "orta"
   },
   {
     "id": 38,
     "kategori": "numizmatik",
-    "kelime": "seri numarası",
-    "aciklama": "her banknotun üzerine benzersiz olarak basılan, paranın izini.",
+    "kelime": "karun hazinesi",
+    "aciklama": "lidya kralına ait çok zengin tarihi altın hazinesi",
     "yasakli_kelimeler": [
-      "harf ve rakam",
-      "benzersiz kod",
-      "banknot kodu",
-      "para numarası",
-      "üretim dizisi"
+      "lidya",
+      "uşak",
+      "altın",
+      "zengin",
+      "tarihi"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 39,
     "kategori": "numizmatik",
-    "kelime": "hata basım",
-    "aciklama": "darphanede kalıp kayması, çift darp veya pul bozukluğu.",
+    "kelime": "lidya parası",
+    "aciklama": "tarihte bilinen ilk madeni parayı basan lidyalıların parası",
     "yasakli_kelimeler": [
-      "basım hatası",
-      "kalıp kayması",
-      "çift baskı",
-      "üretim kusuru",
-      "değerli yanlış"
+      "lidya",
+      "ilk",
+      "tarih",
+      "elektrum",
+      "anadolu"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 40,
     "kategori": "numizmatik",
-    "kelime": "müzayede",
-    "aciklama": "nadir numizmatik parçaların koleksiyonerler arasında pey sürülerek açık.",
+    "kelime": "cülus bahşişi",
+    "aciklama": "tahta yeni geçen padişahın yeniçerilere dağıttığı bahşiş",
     "yasakli_kelimeler": [
-      "açık artırma",
-      "pey sürme",
-      "nadir para satışı",
-      "koleksiyon satışı",
-      "en yüksek teklif"
+      "padişah",
+      "taht",
+      "yeniçeri",
+      "bahşiş",
+      "dağıtmak"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 41,
     "kategori": "numizmatik",
-    "kelime": "hassas terazi",
-    "aciklama": "madeni paraların orijinal ağırlığını gramın yüzde veya binde.",
+    "kelime": "saf altın",
+    "aciklama": "içine katkı maddesi karıştırılmamış yirmi dört ayar altın",
     "yasakli_kelimeler": [
-      "dijital tartı",
-      "gram hassasiyeti",
-      "sikke tartımı",
-      "miligram",
-      "sahtelik tespiti"
+      "yirmi dört ayar",
+      "külçe",
+      "katkısız",
+      "değerli",
+      "maden"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 42,
     "kategori": "numizmatik",
-    "kelime": "kumpas",
-    "aciklama": "madeni paraların çapını ve et kalınlığını milimetrenin yüzde.",
+    "kelime": "külçe altın",
+    "aciklama": "eritilip kalıba dökülmüş saf altın külçesi",
     "yasakli_kelimeler": [
-      "çap ölçer",
-      "kalınlık ölçümü",
-      "milimetrik",
-      "çeneli cetvel",
-      "boyut tespiti"
+      "kalıp",
+      "blok",
+      "banka",
+      "kasa",
+      "ağır"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 43,
     "kategori": "numizmatik",
-    "kelime": "karun hazinesi",
-    "aciklama": "uşak civarında bulunan, lidya krallığına ait paha biçilmez.",
+    "kelime": "has gümüş",
+    "aciklama": "işlenmemiş en saf ve yüksek dereceli gümüş madeni",
     "yasakli_kelimeler": [
-      "lidya hazinesi",
-      "uşak buluntusu",
-      "elektron sikkeler",
-      "zengin kral",
-      "krezüs"
+      "gümüş",
+      "saf",
+      "maden",
+      "ayar",
+      "parlak"
     ],
-    "zorluk": "kolay"
+    "zorluk": "orta"
   },
   {
     "id": 44,
     "kategori": "numizmatik",
-    "kelime": "lidya parası",
-    "aciklama": "tarihte ilk kez anadolu'da liyalılar tarafından elektrum madeninden.",
+    "kelime": "oksitlenme",
+    "aciklama": "madeni paraların hava ve nemle temas ederek kararması",
     "yasakli_kelimeler": [
-      "ilk madeni para",
-      "anadolu sikkesi",
-      "kroisos",
-      "aslan başı",
-      "elektrum para"
+      "kararma",
+      "pas",
+      "kimyasal",
+      "hava",
+      "reaksiyon"
     ],
-    "zorluk": "kolay"
+    "zorluk": "orta"
   },
   {
     "id": 45,
     "kategori": "numizmatik",
-    "kelime": "bakır mangır",
-    "aciklama": "osmanlı imparatorluğu'nda halkın günlük çarşı pazar alışverişinde bozuk.",
+    "kelime": "korozyon",
+    "aciklama": "madeni paranın aşınması ve kimyasal olarak yıpranması",
     "yasakli_kelimeler": [
-      "osmanlı bakırı",
-      "bozuk para",
-      "çarşı parası",
-      "ufaklık para",
-      "pul para"
+      "aşınma",
+      "yıpranma",
+      "paslanma",
+      "metal",
+      "tahribat"
     ],
-    "zorluk": "kolay"
+    "zorluk": "orta"
   },
   {
     "id": 46,
     "kategori": "numizmatik",
-    "kelime": "gümüş akçe",
-    "aciklama": "orhan gazi'den itibaren osmanlı'nın temel para birimi olan.",
+    "kelime": "banknot",
+    "aciklama": "merkez bankası tarafından dolaşıma çıkarılan kağıt para",
     "yasakli_kelimeler": [
-      "osmanlı gümüşü",
-      "temel para birimi",
-      "orhan gazi sikkesi",
-      "ince gümüş",
-      "ak akçe"
+      "kağıt",
+      "merkez bankası",
+      "nakit",
+      "cüzdan",
+      "emisyon"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 47,
     "kategori": "numizmatik",
-    "kelime": "altın sikke",
-    "aciklama": "paslanmayan ve değerini yüzyıllarca koruyan saf altından darphanede.",
+    "kelime": "kağıt para",
+    "aciklama": "cüzdanda taşınan nakit alışveriş banknotu",
     "yasakli_kelimeler": [
-      "altın para",
-      "sultani altın",
-      "madeni altın",
-      "darphane altını",
-      "sarraf sikkesi"
+      "banknot",
+      "bozukluk",
+      "nakit",
+      "cüzdan",
+      "harcama"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 48,
     "kategori": "numizmatik",
-    "kelime": "gümüş sikke",
-    "aciklama": "tarih boyunca ticaretin ve tedavülün belkemiğini oluşturan beyaz.",
+    "kelime": "emisyon",
+    "aciklama": "yeni kağıt paraların basılıp piyasaya sürülmesi işlemi",
     "yasakli_kelimeler": [
-      "gümüş para",
-      "akçe dirhem",
-      "beyaz maden",
-      "tedavül sikkesi",
-      "eski gümüş"
+      "basım",
+      "piyasa",
+      "merkez bankası",
+      "dolaşım",
+      "para"
     ],
-    "zorluk": "kolay"
+    "zorluk": "orta"
   },
   {
     "id": 49,
     "kategori": "numizmatik",
-    "kelime": "bronz sikke",
-    "aciklama": "bakır ve kalay alaşımından dökülen ya da basılan,.",
+    "kelime": "tedavül",
+    "aciklama": "bir paranın piyasada resmi olarak dolaşımda bulunması",
     "yasakli_kelimeler": [
-      "tunç sikke",
-      "bakır kalay",
-      "şehir parası",
-      "antik bronz",
-      "bozuk para"
+      "dolaşım",
+      "geçerli",
+      "kullanım",
+      "resmi",
+      "piyasa"
     ],
-    "zorluk": "kolay"
+    "zorluk": "orta"
   },
   {
     "id": 50,
     "kategori": "numizmatik",
-    "kelime": "cülus bahşişi",
-    "aciklama": "yeni osmanlı padişahı tahta çıktığında kendi adıyla bastırdığı.",
+    "kelime": "para albümü",
+    "aciklama": "madeni veya kağıt paraların saklandığı şeffaf gözlü defter",
     "yasakli_kelimeler": [
-      "tahta çıkış parası",
-      "yeniçeriye bahşiş",
-      "padişah değişimi",
-      "cülus akçesi",
-      "saray dağıtımı"
+      "albüm",
+      "defter",
+      "koleksiyon",
+      "saklama",
+      "şeffaf"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 51,
     "kategori": "numizmatik",
-    "kelime": "saf altın",
-    "aciklama": "içinde hiçbir katkı metali bulunmayan, dokuz yüz doksan.",
+    "kelime": "koleksiyoncu",
+    "aciklama": "tarihi para ve objeleri özenle biriktiren kimse",
     "yasakli_kelimeler": [
-      "yirmi dört ayar",
-      "has altın",
-      "999 milyem",
-      "katkısız altın",
-      "külçe saflığı"
+      "biriktirmek",
+      "meraklı",
+      "hobi",
+      "antika",
+      "nadir"
     ],
     "zorluk": "kolay"
   },
   {
     "id": 52,
     "kategori": "numizmatik",
-    "kelime": "külçe altın",
-    "aciklama": "darphaneler veya rafineriler tarafından döküm blok halinde üretilen.",
-    "yasakli_kelimeler": [
-      "altın külçesi",
-      "blok altın",
-      "rafineri damgası",
-      "yatırım altını",
-      "gram altın külçe"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 53,
-    "kategori": "numizmatik",
-    "kelime": "has gümüş",
-    "aciklama": "dokuz yüz doksan dokuz saflıkta olan ve üzerinde.",
-    "yasakli_kelimeler": [
-      "saf gümüş",
-      "katkısız gümüş",
-      "999 gümüş",
-      "arı gümüş",
-      "rafine gümüş"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 54,
-    "kategori": "numizmatik",
-    "kelime": "saf bakır",
-    "aciklama": "kırmızımsı parlak rengi ve yumuşaklığıyla mangır ve bozuk.",
-    "yasakli_kelimeler": [
-      "kırmızı maden",
-      "has bakır",
-      "mangır metali",
-      "saf maden",
-      "katkısız bakır"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 55,
-    "kategori": "numizmatik",
-    "kelime": "tunç",
-    "aciklama": "bakırın kalay ile eritilerek sertleştirilmesiyle elde edilen ve.",
-    "yasakli_kelimeler": [
-      "bronz alaşımı",
-      "bakır kalay",
-      "antik maden",
-      "sert metal",
-      "tunç sikke"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 56,
-    "kategori": "numizmatik",
-    "kelime": "pirinç alaşım",
-    "aciklama": "bakır ve çinkonun birleşiminden oluşan, altına benzeyen sarı.",
-    "yasakli_kelimeler": [
-      "bakır çinko",
-      "sarı alaşım",
-      "altın rengi metal",
-      "bozuk para alaşımı",
-      "dupondius metali"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 57,
-    "kategori": "numizmatik",
-    "kelime": "nikel",
-    "aciklama": "manyetik özelliği olan, sert ve parlak gümüş rengiyle.",
-    "yasakli_kelimeler": [
-      "mıknatıs çeken",
-      "sert beyaz metal",
-      "bozuk para madeni",
-      "nikel para",
-      "alaşım metali"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 58,
-    "kategori": "numizmatik",
-    "kelime": "alüminyum para",
-    "aciklama": "ekonomik kriz veya savaş dönemlerinde metal tasarrufu için.",
-    "yasakli_kelimeler": [
-      "hafif para",
-      "savaş parası",
-      "alüminyum bozukluk",
-      "tüy gibi hafif",
-      "enflasyon parası"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 59,
-    "kategori": "numizmatik",
-    "kelime": "kurşun mühür",
-    "aciklama": "bizans ve osmanlı'da resmi yazışmaların ve ticaret denklerinin.",
-    "yasakli_kelimeler": [
-      "bulla",
-      "mühür baskı",
-      "yumuşak kurşun",
-      "bizans mührü",
-      "gümrük mührü"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 60,
-    "kategori": "numizmatik",
-    "kelime": "altın kaplama",
-    "aciklama": "değersiz bir baz metal üzerine elektrolizle mikron kalınlığında.",
-    "yasakli_kelimeler": [
-      "yaldız kaplama",
-      "sahte altın görünümü",
-      "elektroliz",
-      "mikron tabaka",
-      "altın suyu"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 61,
-    "kategori": "numizmatik",
-    "kelime": "gümüş kaplama",
-    "aciklama": "bakır bir sikkenin üzerini ince gümüş tabakasıyla örterek.",
-    "yasakli_kelimeler": [
-      "fourree",
-      "sahte gümüş",
-      "ince kaplama",
-      "bakır çekirdek",
-      "kaplama sikke"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 62,
-    "kategori": "numizmatik",
-    "kelime": "oksitlenme",
-    "aciklama": "madeni paranın havadaki oksijen ve nemle temas ederek.",
-    "yasakli_kelimeler": [
-      "kararma",
-      "hava teması",
-      "paslanma",
-      "metal kararması",
-      "kükürtleşme"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 63,
-    "kategori": "numizmatik",
-    "kelime": "korozyon",
-    "aciklama": "toprak altında yüzyıllarca kalan metallerin kimyasal reaksiyonlarla aşınıp çukurlaşarak erimesi.",
-    "yasakli_kelimeler": [
-      "metal aşınması",
-      "paslanma çürüme",
-      "toprak hasarı",
-      "çukurlaşma",
-      "metal erimesi"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 64,
-    "kategori": "numizmatik",
-    "kelime": "örs",
-    "aciklama": "alt kalıbın sağlam bir kütük içine çakıldığı ve.",
-    "yasakli_kelimeler": [
-      "çekiç vurulan yer",
-      "alt kalıp yuvası",
-      "demirci örsü",
-      "darphane kütüğü",
-      "çelik taban"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 65,
-    "kategori": "numizmatik",
-    "kelime": "darp hatası",
-    "aciklama": "üretim sırasında kalıbın kayması, pulun çift basılması veya.",
-    "yasakli_kelimeler": [
-      "hata baskı",
-      "mint error",
-      "kayık baskı",
-      "hatalı para",
-      "basım kusuru"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 66,
-    "kategori": "numizmatik",
-    "kelime": "çift vuruş",
-    "aciklama": "çekiç veya presin aynı pul üzerine iki kez.",
-    "yasakli_kelimeler": [
-      "double strike",
-      "iki kez vuruş",
-      "çift baskı",
-      "gölgeli harf",
-      "üst üste desen"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 67,
-    "kategori": "numizmatik",
-    "kelime": "banknot",
-    "aciklama": "merkez bankası tarafından basılan ve arkasında devlet güvencesi.",
-    "yasakli_kelimeler": [
-      "kağıt para",
-      "merkez bankası",
-      "tedavül parası",
-      "emisyon",
-      "para banknotu"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 68,
-    "kategori": "numizmatik",
-    "kelime": "kağıt para",
-    "aciklama": "madeni paralara kıyasla taşıması kolay, üzerinde gravür ve.",
-    "yasakli_kelimeler": [
-      "banknot",
-      "kaime",
-      "kağıt banknot",
-      "nakit para",
-      "tedavül kağıdı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 69,
-    "kategori": "numizmatik",
-    "kelime": "kaime",
-    "aciklama": "osmanlı imparatorluğu'nda abdülmecid döneminde ilk kez basılan faiz.",
-    "yasakli_kelimeler": [
-      "kaime-i mutebere",
-      "osmanlı kağıt parası",
-      "ilk kağıt para",
-      "abdülmecid",
-      "el yazması para"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 70,
-    "kategori": "numizmatik",
-    "kelime": "emisyon",
-    "aciklama": "merkez bankasının piyasaya yeni banknot sürmesi veya tedavüldeki.",
-    "yasakli_kelimeler": [
-      "para basımı",
-      "emisyon grubu",
-      "piyasaya sürme",
-      "tedavül çıkarma",
-      "banknot basımı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 71,
-    "kategori": "numizmatik",
-    "kelime": "tedavül",
-    "aciklama": "bir paranın piyasada alışverişte yasal ödeme aracı olarak.",
-    "yasakli_kelimeler": [
-      "dolaşım",
-      "geçerli para",
-      "piyasada dönme",
-      "yasal ödeme",
-      "tedavülde olmak"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 72,
-    "kategori": "numizmatik",
-    "kelime": "tedavülden kalkma",
-    "aciklama": "eskiyen veya geçerliliğini yitiren bir paranın merkez bankası.",
-    "yasakli_kelimeler": [
-      "geçersiz olma",
-      "zamanaşımı",
-      "piyasadan çekilme",
-      "para değişimi",
-      "hükümsüz kalma"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 73,
-    "kategori": "numizmatik",
-    "kelime": "ultraviyole ışık",
-    "aciklama": "banknot sahteciliğini denetlemek için sahte para kontrol cihazlarında.",
-    "yasakli_kelimeler": [
-      "mor ışık",
-      "uv lamba",
-      "sahte para makinesi",
-      "parlayan lifler",
-      "floresan desen"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 74,
-    "kategori": "numizmatik",
-    "kelime": "sahtecilik",
-    "aciklama": "yasal paraların benzerlerini yasa dışı olarak basıp piyasaya.",
-    "yasakli_kelimeler": [
-      "kalpazanlık suçu",
-      "sahte para basma",
-      "dolandırıcılık",
-      "taklit para",
-      "yasadışı basım"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 75,
-    "kategori": "numizmatik",
-    "kelime": "para albümü",
-    "aciklama": "madeni veya kağıt paraların hava almadan ve çizilmeden.",
-    "yasakli_kelimeler": [
-      "koleksiyon defteri",
-      "cepli albüm",
-      "para föyü defteri",
-      "sikke albümü",
-      "şeffaf sayfalar"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 76,
-    "kategori": "numizmatik",
-    "kelime": "çizik",
-    "aciklama": "madeni paranın yüzeyine yabancı sert bir cismin sürtünmesiyle.",
-    "yasakli_kelimeler": [
-      "sikke çiziği",
-      "saç kılı çizik",
-      "yüzey hasarı",
-      "kesik izi",
-      "değer düşüren çizik"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 77,
-    "kategori": "numizmatik",
-    "kelime": "leke",
-    "aciklama": "paranın üzerine damlayan kimyasal, yağ veya pas sebebiyle.",
-    "yasakli_kelimeler": [
-      "pas lekesi",
-      "kir izi",
-      "yağ lekesi",
-      "yüzey kirliliği",
-      "metal lekesi"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 78,
-    "kategori": "numizmatik",
-    "kelime": "sahte sikke",
-    "aciklama": "koleksiyoncuları kandırmak amacıyla antik paraların modern döküm veya.",
-    "yasakli_kelimeler": [
-      "taklit sikke",
-      "replika para",
-      "dolandırıcı sikkesi",
-      "döküm taklit",
-      "sahte antik para"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 79,
-    "kategori": "numizmatik",
-    "kelime": "müzayede evi",
-    "aciklama": "nadir paraların ve madalyaların pey sürülerek açık artırmayla.",
-    "yasakli_kelimeler": [
-      "açık artırma şirketi",
-      "mezat salonu",
-      "pey sürme",
-      "koleksiyon satışı",
-      "sotheby's christie's"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 80,
-    "kategori": "numizmatik",
-    "kelime": "koleksiyoncu",
-    "aciklama": "tarihi sikkeleri, madalyaları ve banknotları tutkuyla toplayan, araştıran.",
-    "yasakli_kelimeler": [
-      "para toplayan",
-      "nümizmat",
-      "arşivci",
-      "koleksiyon sahibi",
-      "sikke meraklısı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 81,
-    "kategori": "numizmatik",
-    "kelime": "özel koleksiyon",
-    "aciklama": "devlet müzeleri dışında kültür bakanlığı izniyle şahısların evinde.",
-    "yasakli_kelimeler": [
-      "şahıs koleksiyonu",
-      "koleksiyon izin belgesi",
-      "müze tescilli",
-      "ev koleksiyonu",
-      "nümizmatik arşivi"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "kategori": "numizmatik",
-    "kelime": "para basmak",
-    "aciklama": "darphanede madeni sikke veya banknot üretmek",
-    "yasakli_kelimeler": [
-      "darphane",
-      "madeni",
-      "sikke",
-      "üretim",
-      "para"
-    ],
-    "zorluk": "kolay",
-    "id": 82
-  },
-  {
-    "kategori": "numizmatik",
-    "kelime": "koleksiyon yapmak",
-    "aciklama": "farklı dönem ve ülkelere ait madeni paraları biriktirmek",
-    "yasakli_kelimeler": [
-      "biriktirmek",
-      "koleksiyoner",
-      "albüm",
-      "parça",
-      "hobi"
-    ],
-    "zorluk": "kolay",
-    "id": 83
-  },
-  {
-    "kategori": "numizmatik",
-    "kelime": "harcamak",
-    "aciklama": "mal ve hizmet satın almak için eldeki parayı vermek",
-    "yasakli_kelimeler": [
-      "satın almak",
-      "ödeme",
-      "alışveriş",
-      "tüketmek",
-      "para"
-    ],
-    "zorluk": "kolay",
-    "id": 84
-  },
-  {
-    "kategori": "numizmatik",
-    "kelime": "biriktirmek",
-    "aciklama": "paraları kumbarada veya kasada saklayıp çoğaltmak",
-    "yasakli_kelimeler": [
-      "kumbara",
-      "kasa",
-      "tasarruf",
-      "saklamak",
-      "çoğaltmak"
-    ],
-    "zorluk": "kolay",
-    "id": 85
-  },
-  {
-    "kategori": "numizmatik",
-    "kelime": "incelemek",
-    "aciklama": "büyüteçle sikkenin üstündeki yazı ve kabartmaları gözlemlemek",
-    "yasakli_kelimeler": [
-      "büyüteç",
-      "yazı",
-      "kabartma",
-      "detay",
-      "gözlem"
-    ],
-    "zorluk": "kolay",
-    "id": 86
-  },
-  {
-    "kategori": "numizmatik",
-    "kelime": "temizlemek",
-    "aciklama": "topraktan çıkan madeni paranın kirini zarar vermeden arındırmak",
-    "yasakli_kelimeler": [
-      "kir",
-      "arındırmak",
-      "yıkamak",
-      "solüsyon",
-      "fırça"
-    ],
-    "zorluk": "kolay",
-    "id": 87
-  },
-  {
-    "kategori": "numizmatik",
     "kelime": "bozdurmak",
-    "aciklama": "büyük değerli banknotu daha küçük bozuk paralara çevirmek",
+    "aciklama": "büyük banknotu daha küçük paralara dönüştürme işlemi",
     "yasakli_kelimeler": [
-      "tüm",
-      "bozukluk",
+      "bütün",
       "küçük",
-      "çevirmek",
-      "para üstü"
+      "tüm",
+      "bozuk",
+      "para"
     ],
-    "zorluk": "kolay",
-    "id": 88
-  },
-  {
-    "kategori": "numizmatik",
-    "kelime": "saklamak",
-    "aciklama": "değerli sikkeleri koruyucu şeffaf kapsüllere veya albüme koymak",
-    "yasakli_kelimeler": [
-      "kapsül",
-      "albüm",
-      "koruma",
-      "şeffaf",
-      "kutu"
-    ],
-    "zorluk": "kolay",
-    "id": 89
-  },
-  {
-    "kategori": "numizmatik",
-    "kelime": "satın almak",
-    "aciklama": "müzayededen nadir bir tarihi sikkeyi bedelini ödeyip edinmek",
-    "yasakli_kelimeler": [
-      "müzayede",
-      "bedel",
-      "nadir",
-      "edinmek",
-      "ödeme"
-    ],
-    "zorluk": "kolay",
-    "id": 90
-  },
-  {
-    "kategori": "numizmatik",
-    "kelime": "değiş tokuş etmek",
-    "aciklama": "koleksiyonerler arasında çift olan paraları takas yapmak",
-    "yasakli_kelimeler": [
-      "takas",
-      "koleksiyoner",
-      "çift",
-      "vermek",
-      "almak"
-    ],
-    "zorluk": "kolay",
-    "id": 91
-  },
-  {
-    "kategori": "numizmatik",
-    "kelime": "tartmak",
-    "aciklama": "hassas teraziyle madeni paranın gramını virgülden sonra ölçmek",
-    "yasakli_kelimeler": [
-      "terazi",
-      "gram",
-      "hassas",
-      "ağırlık",
-      "ölçüm"
-    ],
-    "zorluk": "kolay",
-    "id": 92
-  },
-  {
-    "kategori": "numizmatik",
-    "kelime": "sergilemek",
-    "aciklama": "müzede tarihi sikkeleri cam vitrin arkasında halka açmak",
-    "yasakli_kelimeler": [
-      "müze",
-      "vitrin",
-      "cam",
-      "ziyaretçi",
-      "göstermek"
-    ],
-    "zorluk": "kolay",
-    "id": 93
+    "zorluk": "kolay"
   }
 ]

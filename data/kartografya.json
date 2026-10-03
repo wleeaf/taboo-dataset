@@ -210,20 +210,6 @@
     "zorluk": "orta"
   },
   {
-    "kelime": "mercator",
-    "aciklama": "özellikle deniz seyrüseferinde pusula yönlerini doğru gösteren ancak kutuplara doğru",
-    "yasakli_kelimeler": [
-      "silindirik projeksiyon",
-      "denizcilik haritası",
-      "açı koruyan",
-      "grönland yanılsaması",
-      "harita projeksiyonu"
-    ],
-    "id": 16,
-    "kategori": "kartografya",
-    "zorluk": "kolay"
-  },
-  {
     "kelime": "koordinat",
     "aciklama": "bir noktanın yeryüzündeki veya harita düzlemindeki kesin konumunu belirten enlem-boylam",
     "yasakli_kelimeler": [
@@ -233,55 +219,13 @@
       "derece dakika",
       "lokasyon"
     ],
-    "id": 17,
-    "kategori": "kartografya",
-    "zorluk": "kolay"
-  },
-  {
-    "kelime": "coğrafi bilgi sistemi",
-    "aciklama": "yeryüzüne ait mekansal verilerin toplanması, depolanması, analiz edilmesi ve haritalandırılmasını",
-    "yasakli_kelimeler": [
-      "cbs",
-      "gis",
-      "mekansal analiz",
-      "sayısal harita",
-      "yazılım"
-    ],
-    "id": 18,
-    "kategori": "kartografya",
-    "zorluk": "kolay"
-  },
-  {
-    "kelime": "piksel",
-    "aciklama": "sayısal bir raster haritanın veya uydu görüntüsünün temsil edebildiği en",
-    "yasakli_kelimeler": [
-      "çözünürlük",
-      "en küçük birim",
-      "kare hücre",
-      "görüntü noktası",
-      "matris"
-    ],
-    "id": 19,
-    "kategori": "kartografya",
-    "zorluk": "kolay"
-  },
-  {
-    "kelime": "küresel konumlama sistemi",
-    "aciklama": "dünya yörüngesindeki uydulardan gelen sinyallerle yeryüzündeki kesin konumu belirleyen sistem.",
-    "yasakli_kelimeler": [
-      "uydu seyrüseferi",
-      "navigasyon",
-      "koordinat",
-      "yörünge",
-      "harita"
-    ],
-    "id": 20,
+    "id": 16,
     "kategori": "kartografya",
     "zorluk": "kolay"
   },
   {
     "kelime": "gerçek kuzey",
-    "aciklama": "dünyanın dönme ekseninin yeryüzünü kestiği kuzey kutup noktasının doğrudan yönü.",
+    "aciklama": "dünyanın dönme ekseninin yeryüzünü kestiği kuzey kutup noktasının doğrudan yönü",
     "yasakli_kelimeler": [
       "coğrafi kuzey",
       "kutup noktası",
@@ -289,7 +233,7 @@
       "harita kuzeyi",
       "meridyen yönü"
     ],
-    "id": 21,
+    "id": 17,
     "kategori": "kartografya",
     "zorluk": "kolay"
   },
@@ -303,13 +247,13 @@
       "yükselti basamağı",
       "beşeri zıddı"
     ],
-    "id": 22,
+    "id": 18,
     "kategori": "kartografya",
     "zorluk": "kolay"
   },
   {
     "kelime": "siyasi harita",
-    "aciklama": "ülkelerin sınırlarını, başkentlerini, komşuluk ilişkilerini ve idari bölünüşlerini gösteren harita.",
+    "aciklama": "ülkelerin sınırlarını, başkentlerini, komşuluk ilişkilerini ve idari bölünüşlerini gösteren harita",
     "yasakli_kelimeler": [
       "ülke sınırları",
       "idari bölünüş",
@@ -317,77 +261,7 @@
       "başkent",
       "mülki harita"
     ],
-    "id": 23,
-    "kategori": "kartografya",
-    "zorluk": "kolay"
-  },
-  {
-    "kelime": "falez",
-    "aciklama": "deniz veya göl kıyısında dalga aşındırmasıyla oluşmuş ve izohipslerin birbirine",
-    "yasakli_kelimeler": [
-      "yalıyar",
-      "uçurum",
-      "dik kıyı",
-      "dalga aşınımı",
-      "kıyı yarı"
-    ],
-    "id": 24,
-    "kategori": "kartografya",
-    "zorluk": "kolay"
-  },
-  {
-    "kelime": "kanyon",
-    "aciklama": "akarsuyun dirençli kalker tabakalarını derine aşındırmasıyla oluşan ve çok sık",
-    "yasakli_kelimeler": [
-      "derin vadi",
-      "boğaz vadi",
-      "kalker aşınması",
-      "dik yamaç",
-      "akarsu yarığı"
-    ],
-    "id": 25,
-    "kategori": "kartografya",
-    "zorluk": "kolay"
-  },
-  {
-    "kelime": "delta",
-    "aciklama": "akarsuların taşıdığı alüvyonları denize döküldüğü yerde biriktirmesiyle oluşan ve çok",
-    "yasakli_kelimeler": [
-      "alüvyon ovası",
-      "nehir ağzı",
-      "üçgen ova",
-      "çukurova",
-      "birikinti ovası"
-    ],
-    "id": 26,
-    "kategori": "kartografya",
-    "zorluk": "kolay"
-  },
-  {
-    "kelime": "menderes",
-    "aciklama": "eğimin azaldığı tabanlı vadilerde akarsuyun 's' harfi benzeri büklümler çizerek",
-    "yasakli_kelimeler": [
-      "büklüm",
-      "kıvrım",
-      "akarsu yatağı",
-      "tabanlı vadi",
-      "salınım"
-    ],
-    "id": 27,
-    "kategori": "kartografya",
-    "zorluk": "kolay"
-  },
-  {
-    "kelime": "plato",
-    "aciklama": "akarsular tarafından derin vadilerle yarılmış ancak genel hatlarıyla deniz seviyesinden",
-    "yasakli_kelimeler": [
-      "yayla",
-      "yüksek düzlük",
-      "derin vadi",
-      "aşınım düzlüğü",
-      "ova zıddı"
-    ],
-    "id": 28,
+    "id": 19,
     "kategori": "kartografya",
     "zorluk": "kolay"
   },
@@ -401,12 +275,12 @@
       "yokuş",
       "kot farkı"
     ],
-    "id": 29,
+    "id": 20,
     "kategori": "kartografya",
     "zorluk": "kolay"
   },
   {
-    "id": 30,
+    "id": 21,
     "kategori": "kartografya",
     "kelime": "pusula",
     "aciklama": "dünyanın manyetik alanını kullanarak ibresiyle manyetik kuzeyi gösteren temel yön",
@@ -420,7 +294,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 31,
+    "id": 22,
     "kategori": "kartografya",
     "kelime": "rüzgar gülü",
     "aciklama": "haritaların ve deniz haritalarının üzerine basılan, ana ve ara yönleri",
@@ -434,7 +308,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 32,
+    "id": 23,
     "kategori": "kartografya",
     "kelime": "yön oku",
     "aciklama": "haritanın üst köşesinde yer alarak haritanın coğrafi veya grid kuzeyini",
@@ -448,77 +322,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 33,
-    "kategori": "kartografya",
-    "kelime": "çizgi ölçek",
-    "aciklama": "harita üzerindeki mesafelerin arazide kaç kilometreye denk geldiğini gösteren bölümlere",
-    "yasakli_kelimeler": [
-      "grafik ölçek",
-      "cetvel",
-      "kilometre çubuğu",
-      "mesafe ölçme",
-      "ölçek"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 34,
-    "kategori": "kartografya",
-    "kelime": "kesir ölçek",
-    "aciklama": "haritadaki bir birimin arazide kaç birime karşılık geldiğini bir bölü",
-    "yasakli_kelimeler": [
-      "bir bölü",
-      "oran",
-      "küçültme payı",
-      "kesirli ifade",
-      "ölçek"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 35,
-    "kategori": "kartografya",
-    "kelime": "büyük ölçek",
-    "aciklama": "paydası küçük olan, dar bir alanı gösteren ve binalar ile",
-    "yasakli_kelimeler": [
-      "küçük payda",
-      "ayrıntılı harita",
-      "dar alan",
-      "şehir planı",
-      "detay"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 36,
-    "kategori": "kartografya",
-    "kelime": "küçük ölçek",
-    "aciklama": "paydası çok büyük olan, tüm dünyayı veya kıtaları tek bir",
-    "yasakli_kelimeler": [
-      "büyük payda",
-      "dünya haritası",
-      "geniş alan",
-      "az ayrıntı",
-      "kıta"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 37,
-    "kategori": "kartografya",
-    "kelime": "harita paftası",
-    "aciklama": "büyük ölçekli standart haritaların araziyi kaplamak üzere belirli enlem ve",
-    "yasakli_kelimeler": [
-      "pafta yaprağı",
-      "bölünmüş harita",
-      "tabaka",
-      "standart sayfa",
-      "enlem boylam"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 38,
+    "id": 24,
     "kategori": "kartografya",
     "kelime": "pafta",
     "aciklama": "bütün bir haritayı, planı veya kadastro desenini oluşturan numaralandırılmış ayrı",
@@ -532,7 +336,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 39,
+    "id": 25,
     "kategori": "kartografya",
     "kelime": "küre",
     "aciklama": "üzerinde dünya haritası basılı olan ve ekseni etrafında dönebilen üç",
@@ -546,7 +350,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 40,
+    "id": 26,
     "kategori": "kartografya",
     "kelime": "kabartma harita",
     "aciklama": "dağları, vadileri ve platoları elle hissedilebilir şekilde yükseltilmiş plastik malzemeden",
@@ -560,7 +364,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 41,
+    "id": 27,
     "kategori": "kartografya",
     "kelime": "duvar haritası",
     "aciklama": "okul sınıflarında veya ofislerde duvara asılarak uzaktan rahatça incelenebilen büyük",
@@ -574,7 +378,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 42,
+    "id": 28,
     "kategori": "kartografya",
     "kelime": "yol haritası",
     "aciklama": "otoyolları, karayollarını, kavşakları ve şehirler arası mesafeleri gösteren seyahat ve",
@@ -588,7 +392,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 43,
+    "id": 29,
     "kategori": "kartografya",
     "kelime": "deniz haritası",
     "aciklama": "kaptanların gemilerini güvenle seyrettirmesi için deniz derinliklerini, sığlıkları ve fenerleri",
@@ -602,7 +406,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 44,
+    "id": 30,
     "kategori": "kartografya",
     "kelime": "hava haritası",
     "aciklama": "pilotlar için uçuş koridorlarını, havaalanlarını, radyo seyrüsefer istasyonlarını ve irtifa",
@@ -616,7 +420,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 45,
+    "id": 31,
     "kategori": "kartografya",
     "kelime": "jeoloji haritası",
     "aciklama": "yeryüzündeki kayaç türlerini, fay hatlarını, jeolojik tabakaları ve maden yataklarını",
@@ -630,7 +434,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 46,
+    "id": 32,
     "kategori": "kartografya",
     "kelime": "iklim haritası",
     "aciklama": "akdeniz, karasal veya ekvatoral gibi iklim tiplerinin dünyadaki ve ülkedeki",
@@ -644,7 +448,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 47,
+    "id": 33,
     "kategori": "kartografya",
     "kelime": "nüfus haritası",
     "aciklama": "insanların yaşadığı yerleşim alanlarını, nüfus yoğunluğunu ve göç hareketlerini renklerle",
@@ -658,7 +462,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 48,
+    "id": 34,
     "kategori": "kartografya",
     "kelime": "turizm haritası",
     "aciklama": "tarihi eserleri, müzeleri, otelleri ve plajları simgelerle öne çıkararak turistlere",
@@ -672,7 +476,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 49,
+    "id": 35,
     "kategori": "kartografya",
     "kelime": "şehir planı",
     "aciklama": "bir kentin tüm caddelerini, sokaklarını, meydanlarını ve önemli kamu binalarını",
@@ -686,35 +490,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 50,
-    "kategori": "kartografya",
-    "kelime": "parsel",
-    "aciklama": "imar yasalarına göre ayrılmış ve tapu kütüğüne tescil edilmiş bağımsız",
-    "yasakli_kelimeler": [
-      "arsa parçası",
-      "tapu kaydı",
-      "ada parsel",
-      "mülkiyet sınırı",
-      "kadastro"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 51,
-    "kategori": "kartografya",
-    "kelime": "ada",
-    "aciklama": "çevresi yollarla, meydanlarla veya demiryolu hatlarıyla belirlenmiş parseller topluluğu.",
-    "yasakli_kelimeler": [
-      "parseller grubu",
-      "imar adası",
-      "sokaklarla çevrili",
-      "kadastro no",
-      "arsa"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 52,
+    "id": 36,
     "kategori": "kartografya",
     "kelime": "uydu alıcısı",
     "aciklama": "yörüngedeki navigasyon uydularından gelen radyo sinyallerini yakalayarak yeryüzündeki konumu hesaplayan",
@@ -728,7 +504,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 53,
+    "id": 37,
     "kategori": "kartografya",
     "kelime": "kutup dairesi",
     "aciklama": "altmış altı derece otuz üç dakika enleminde yer alan ve",
@@ -742,7 +518,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 54,
+    "id": 38,
     "kategori": "kartografya",
     "kelime": "dönence",
     "aciklama": "güneş ışınlarının yılda birer kez dik açıyla gelebildiği en kuzey",
@@ -756,7 +532,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 55,
+    "id": 39,
     "kategori": "kartografya",
     "kelime": "yengeç dönencesi",
     "aciklama": "kuzey yarımkürede güneş ışınlarının yirmi bir haziranda dik geldiği yirmi",
@@ -770,7 +546,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 56,
+    "id": 40,
     "kategori": "kartografya",
     "kelime": "oğlak dönencesi",
     "aciklama": "güney yarımkürede güneş ışınlarının yirmi bir aralıkta dik geldiği güney",
@@ -784,7 +560,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 57,
+    "id": 41,
     "kategori": "kartografya",
     "kelime": "kutup noktası",
     "aciklama": "dünyanın dönme ekseninin yeryüzünü delip geçtiği düşünülen doksan derece enlemindeki",
@@ -798,7 +574,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 58,
+    "id": 42,
     "kategori": "kartografya",
     "kelime": "kuzey kutbu",
     "aciklama": "arktik okyanusu buzullarının ortasında yer alan ve dünyanın en kuzey",
@@ -812,7 +588,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 59,
+    "id": 43,
     "kategori": "kartografya",
     "kelime": "güney kutbu",
     "aciklama": "antarktika kıtasının buzulları üzerinde yer alan dünyanın en güneyindeki doksan",
@@ -826,7 +602,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 60,
+    "id": 44,
     "kategori": "kartografya",
     "kelime": "başlangıç meridyeni",
     "aciklama": "londra yakınlarındaki greenwich gözlemevinden geçtiği kabul edilen sıfır dereceli referans",
@@ -840,7 +616,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 61,
+    "id": 45,
     "kategori": "kartografya",
     "kelime": "tarih çizgisi",
     "aciklama": "büyük okyanus üzerinden geçen, batısına geçildiğinde takvimin bir gün ileri",
@@ -854,7 +630,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 62,
+    "id": 46,
     "kategori": "kartografya",
     "kelime": "saat dilimi",
     "aciklama": "dünyanın on beşer derecelik yirmi dört eşit parçaya bölünmesiyle oluşturulan",
@@ -868,7 +644,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 63,
+    "id": 47,
     "kategori": "kartografya",
     "kelime": "yerel saat",
     "aciklama": "güneşin gökyüzünde en tepe noktaya ulaştığı anın tam öğle on",
@@ -882,7 +658,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 64,
+    "id": 48,
     "kategori": "kartografya",
     "kelime": "güzergah",
     "aciklama": "bir seyahatte veya taşımacılıkta başlangıç ile varış noktası arasında harita",
@@ -896,7 +672,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 65,
+    "id": 49,
     "kategori": "kartografya",
     "kelime": "rota",
     "aciklama": "gemilerin veya uçakların harita üzerinde belirleyip seyrüsefer aletleriyle izlediği pusula",
@@ -910,7 +686,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 66,
+    "id": 50,
     "kategori": "kartografya",
     "kelime": "hava fotoğrafı",
     "aciklama": "uçak veya insansız hava aracına takılan özel metrik kameralarla yere",
@@ -924,7 +700,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 67,
+    "id": 51,
     "kategori": "kartografya",
     "kelime": "uydu görüntüsü",
     "aciklama": "dünya yörüngesindeki yapay yer gözlem uydularının sensörleriyle yeryüzünü tarayarak elde",
@@ -938,63 +714,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 68,
-    "kategori": "kartografya",
-    "kelime": "katman",
-    "aciklama": "harita üzerinde yollar, binalar ve nehirler gibi aynı türdeki coğrafi",
-    "yasakli_kelimeler": [
-      "layer",
-      "şeffaf tabaka",
-      "harita tabakası",
-      "üst üste bindirme",
-      "tematik grup"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 69,
-    "kategori": "kartografya",
-    "kelime": "harita katmanı",
-    "aciklama": "cbs yazılımında açılıp kapatılabilen, renklendirilebilen ve analize sokulabilen tekil coğrafi",
-    "yasakli_kelimeler": [
-      "veri kümesi",
-      "cbs katmanı",
-      "açılır kapanır",
-      "tabaka",
-      "harita unsuru"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 70,
-    "kategori": "kartografya",
-    "kelime": "silindirik projeksiyon",
-    "aciklama": "dünya küresinin etrafına sarılan silindir kağıda çizgilerin yansıtıldığı ve ekvator",
-    "yasakli_kelimeler": [
-      "silindir kağıt",
-      "ekvator teğeti",
-      "kutuplarda bozulma",
-      "mercator tipi",
-      "projeksiyon"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 71,
-    "kategori": "kartografya",
-    "kelime": "konik projeksiyon",
-    "aciklama": "dünya küresinin üzerine külah gibi koni geçirilerek orta enlemlerin ve",
-    "yasakli_kelimeler": [
-      "koni külah",
-      "orta enlemler",
-      "türkiye haritası",
-      "teğet paralel",
-      "projeksiyon"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 72,
+    "id": 52,
     "kategori": "kartografya",
     "kelime": "haritacı",
     "aciklama": "arazi ölçümleri yapan, harita çizen, coğrafi verileri analiz eden ve",
@@ -1008,7 +728,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 73,
+    "id": 53,
     "kategori": "kartografya",
     "kelime": "kartograf",
     "aciklama": "harita çizimi, tasarımı ve analizini yapan uzman haritacı",
@@ -1024,7 +744,7 @@
   {
     "kategori": "kartografya",
     "kelime": "harita çizmek",
-    "aciklama": "yeryüzü şekillerini ve yerleşimleri kuşbakışı kağıda aktarmak.",
+    "aciklama": "yeryüzü şekillerini ve yerleşimleri kuşbakışı kağıda aktarmak",
     "yasakli_kelimeler": [
       "yol",
       "şehir",
@@ -1033,40 +753,12 @@
       "çizim"
     ],
     "zorluk": "kolay",
-    "id": 74
-  },
-  {
-    "kategori": "kartografya",
-    "kelime": "haritayı açmak",
-    "aciklama": "katlanmış yol haritasını incelemek için düz bir yere sermek.",
-    "yasakli_kelimeler": [
-      "katlamak",
-      "masa",
-      "yolculuk",
-      "bakmak",
-      "büyük kağıt"
-    ],
-    "zorluk": "kolay",
-    "id": 75
-  },
-  {
-    "kategori": "kartografya",
-    "kelime": "kuzey yönünü bulmak",
-    "aciklama": "haritanın üst tarafının gösterdiği ana yönü tespit etmek.",
-    "yasakli_kelimeler": [
-      "pusula",
-      "ok işareti",
-      "harita üstü",
-      "yön",
-      "güney"
-    ],
-    "zorluk": "kolay",
-    "id": 76
+    "id": 54
   },
   {
     "kategori": "kartografya",
     "kelime": "ölçek hesaplamak",
-    "aciklama": "haritadaki mesafenin gerçekte kaç kilometre olduğunu hesaplamak.",
+    "aciklama": "haritadaki mesafenin gerçekte kaç kilometre olduğunu hesaplamak",
     "yasakli_kelimeler": [
       "oran",
       "küçültme",
@@ -1075,40 +767,12 @@
       "bölmek"
     ],
     "zorluk": "kolay",
-    "id": 77
-  },
-  {
-    "kategori": "kartografya",
-    "kelime": "yol tarifi vermek",
-    "aciklama": "haritaya bakarak bir adrese nasıl gidileceğini anlatmak.",
-    "yasakli_kelimeler": [
-      "sağa dön",
-      "sola dön",
-      "cadde",
-      "harita",
-      "ulaşım"
-    ],
-    "zorluk": "kolay",
-    "id": 78
-  },
-  {
-    "kategori": "kartografya",
-    "kelime": "atlas karıştırmak",
-    "aciklama": "çeşitli haritaların ciltlendiği büyük coğrafya kitabını incelemek.",
-    "yasakli_kelimeler": [
-      "harita kitabı",
-      "sayfa",
-      "coğrafya",
-      "okul",
-      "ülkeler"
-    ],
-    "zorluk": "kolay",
-    "id": 79
+    "id": 55
   },
   {
     "kategori": "kartografya",
     "kelime": "konum işaretlemek",
-    "aciklama": "belirli bir mekanı harita üzerinde nokta ile belirtmek.",
+    "aciklama": "belirli bir mekanı harita üzerinde nokta ile belirtmek",
     "yasakli_kelimeler": [
       "pin",
       "kırmızı nokta",
@@ -1117,12 +781,12 @@
       "harita"
     ],
     "zorluk": "kolay",
-    "id": 80
+    "id": 56
   },
   {
     "kategori": "kartografya",
     "kelime": "koordinat girmek",
-    "aciklama": "enlem ve boylam derecelerini girerek noktanın yerküredeki tam yerini bulmak.",
+    "aciklama": "enlem ve boylam derecelerini girerek noktanın yerküredeki tam yerini bulmak",
     "yasakli_kelimeler": [
       "enlem boylam",
       "derece dakika",
@@ -1131,6 +795,6 @@
       "paralel meridyen"
     ],
     "zorluk": "orta",
-    "id": 81
+    "id": 57
   }
 ]

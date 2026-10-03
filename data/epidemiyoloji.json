@@ -16,48 +16,6 @@
   {
     "id": 2,
     "kategori": "epidemiyoloji",
-    "kelime": "insidans",
-    "aciklama": "belirli zaman diliminde belirli bir risk altındaki vaka sayısı.",
-    "yasakli_kelimeler": [
-      "yeni vaka",
-      "oran",
-      "sıklık",
-      "süre",
-      "risk"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 3,
-    "kategori": "epidemiyoloji",
-    "kelime": "prevalans",
-    "aciklama": "belirli anda veya zaman aralığında bir toplumda vakaların oranı.",
-    "yasakli_kelimeler": [
-      "mevcut vaka",
-      "tüm vakalar",
-      "oran",
-      "sıklık",
-      "toplum"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 4,
-    "kategori": "epidemiyoloji",
-    "kelime": "endemik",
-    "aciklama": "enfeksiyon hastalığının belirli coğrafi bölgede veya toplulukta düzeyde görülmesi.",
-    "yasakli_kelimeler": [
-      "yerel",
-      "olağan",
-      "coğrafya",
-      "sürekli",
-      "salgın"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 5,
-    "kategori": "epidemiyoloji",
     "kelime": "epidemi",
     "aciklama": "hastalığın belirli bölgede beklenenden belirgin derecede daha insanda görülmesi.",
     "yasakli_kelimeler": [
@@ -70,7 +28,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 6,
+    "id": 3,
     "kategori": "epidemiyoloji",
     "kelime": "pandemi",
     "aciklama": "bulaşıcı hastalığın birden fazla kıtaya veya dünya kitleleri etkilemesi.",
@@ -84,231 +42,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 7,
-    "kategori": "epidemiyoloji",
-    "kelime": "mortalite",
-    "aciklama": "belirli popülasyonda belirli bir süre içinde oluşan veya sayısı.",
-    "yasakli_kelimeler": [
-      "ölüm",
-      "oran",
-      "vefat",
-      "nüfus",
-      "istatistik"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 8,
-    "kategori": "epidemiyoloji",
-    "kelime": "morbidite",
-    "aciklama": "toplumda belirli zaman aralığında hastalıktan muzdarip olan bireylerin genel oranı.",
-    "yasakli_kelimeler": [
-      "hastalık",
-      "oran",
-      "rahatsızlık",
-      "toplum",
-      "vaka"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 9,
-    "kategori": "epidemiyoloji",
-    "kelime": "fatalite",
-    "aciklama": "belirli hastalığa yakalanan kişilerden kaçının bu hastalık gösteren oran.",
-    "yasakli_kelimeler": [
-      "vaka ölüm",
-      "ölümcül",
-      "oran",
-      "letalite",
-      "hasta"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 10,
-    "kategori": "epidemiyoloji",
-    "kelime": "kohort araştırması",
-    "aciklama": "belirli etkene maruz kalan ve kalmayan kişileri ölçen çalışma.",
-    "yasakli_kelimeler": [
-      "prospektif",
-      "maruziyet",
-      "izlem",
-      "takip",
-      "risk"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 11,
-    "kategori": "epidemiyoloji",
-    "kelime": "vaka kontrol çalışması",
-    "aciklama": "hasta bireyler ile sağlıklı kontrol grubunu geçmişe araştırma türü.",
-    "yasakli_kelimeler": [
-      "retrospektif",
-      "hasta",
-      "kontrol",
-      "geçmiş",
-      "maruziyet"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 12,
-    "kategori": "epidemiyoloji",
-    "kelime": "kesitsel araştırma",
-    "aciklama": "belirli zamanda toplumdaki maruziyet ve hastalık durumunu ölçen çalışma.",
-    "yasakli_kelimeler": [
-      "anlık",
-      "fotoğraf",
-      "prevalans",
-      "anket",
-      "zaman"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 13,
-    "kategori": "epidemiyoloji",
-    "kelime": "randomize kontrollü çalışma",
-    "aciklama": "katılımcıların deney ve kontrol kollarına rastgele atandığı klinik araştırma.",
-    "yasakli_kelimeler": [
-      "rastgele",
-      "klinik",
-      "deney",
-      "plasebo",
-      "kanıt"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 14,
-    "kategori": "epidemiyoloji",
-    "kelime": "rölatif risk",
-    "aciklama": "etkene maruz kalanlardaki hastalık insidansının maruz kalmayanlardakine risk oranı.",
-    "yasakli_kelimeler": [
-      "risk oranı",
-      "maruziyet",
-      "kohort",
-      "bölüm",
-      "oran"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 15,
-    "kategori": "epidemiyoloji",
-    "kelime": "odds oranı",
-    "aciklama": "vaka kontrol çalışmalarında maruziyet şansının hasta ve sağlamlar arasında oranlanması.",
-    "yasakli_kelimeler": [
-      "şans oranı",
-      "vaka kontrol",
-      "oran",
-      "çapraz",
-      "maruziyet"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 16,
-    "kategori": "epidemiyoloji",
-    "kelime": "atak hızı",
-    "aciklama": "salgın durumlarında sınırlı risk altındaki grupta hastalığa gruba oranı.",
-    "yasakli_kelimeler": [
-      "salgın",
-      "hız",
-      "risk",
-      "yeni vaka",
-      "ani"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 17,
-    "kategori": "epidemiyoloji",
-    "kelime": "sekonder atak hızı",
-    "aciklama": "primer indeks vakaya maruz kalan duyarlı temaslılar yakalananların oranı.",
-    "yasakli_kelimeler": [
-      "temaslı",
-      "bulaşma",
-      "indeks vaka",
-      "aile içi",
-      "oran"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 18,
-    "kategori": "epidemiyoloji",
-    "kelime": "indeks vaka",
-    "aciklama": "salgında sağlık otoriteleri tarafından ilk tespit edilen hasta birey.",
-    "yasakli_kelimeler": [
-      "ilk hasta",
-      "sıfır",
-      "salgın",
-      "tespit",
-      "kaynak"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 19,
-    "kategori": "epidemiyoloji",
-    "kelime": "primer vaka",
-    "aciklama": "popülasyona veya ortama hastalığı ilk getiren ve hasta kişi.",
-    "yasakli_kelimeler": [
-      "ilk",
-      "kaynak",
-      "başlatıcı",
-      "salgın",
-      "taşıyıcı"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 20,
-    "kategori": "epidemiyoloji",
-    "kelime": "rezervuar",
-    "aciklama": "bulaşıcı etkenin doğal olarak yaşadığı, çoğaldığı ve cansız ortam.",
-    "yasakli_kelimeler": [
-      "konakçı",
-      "kaynak",
-      "kaynakça",
-      "hayvan",
-      "doğal"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 21,
-    "kategori": "epidemiyoloji",
-    "kelime": "vektör",
-    "aciklama": "patojeni konakçıdan diğerine taşıyarak bulaşmayı sağlayan sivrisinek gibi canlı.",
-    "yasakli_kelimeler": [
-      "taşıyıcı",
-      "sivrisinek",
-      "kene",
-      "bulaş",
-      "parazit"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 22,
-    "kategori": "epidemiyoloji",
-    "kelime": "fomit",
-    "aciklama": "hastalık etkenleriyle kirlenmiş ve mekanik temasla bulaşmaya cansız nesne.",
-    "yasakli_kelimeler": [
-      "cansız",
-      "nesne",
-      "eşya",
-      "kapı kolu",
-      "bulaş"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 23,
+    "id": 4,
     "kategori": "epidemiyoloji",
     "kelime": "kuluçka süresi",
     "aciklama": "hastalık etkeninin vücuda girmesiyle ilk klinik belirti geçen zaman.",
@@ -322,49 +56,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 24,
-    "kategori": "epidemiyoloji",
-    "kelime": "bulaştırıcılık süresi",
-    "aciklama": "enfekte bireyin etkeni doğrudan veya dolaylı başka zaman aralığı.",
-    "yasakli_kelimeler": [
-      "bulaş",
-      "süre",
-      "yayılma",
-      "zaman",
-      "enfekte"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 25,
-    "kategori": "epidemiyoloji",
-    "kelime": "temel üreme katsayısı",
-    "aciklama": "hiç bağışıklığı olmayan popülasyonda bir vakanın enfekte r sıfır.",
-    "yasakli_kelimeler": [
-      "r sıfır",
-      "bulaşma",
-      "üreme",
-      "sayı",
-      "salgın"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 26,
-    "kategori": "epidemiyoloji",
-    "kelime": "efektif üreme sayısı",
-    "aciklama": "popülasyonda kısmi bağışıklık veya önlemler varken vakanın hastalığı bulaştırdığı.",
-    "yasakli_kelimeler": [
-      "r değeri",
-      "bulaş",
-      "katsayı",
-      "önlem",
-      "salgın"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 27,
+    "id": 5,
     "kategori": "epidemiyoloji",
     "kelime": "sürü bağışıklığı",
     "aciklama": "toplumun kritik kısmının aşı veya hastalıkla bağışık zincirini kırması.",
@@ -378,7 +70,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 28,
+    "id": 6,
     "kategori": "epidemiyoloji",
     "kelime": "karantina",
     "aciklama": "bulaşıcı hastalığa maruz kaldığından şüphelenilen ancak henüz tecrit edilmesi.",
@@ -392,7 +84,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 29,
+    "id": 7,
     "kategori": "epidemiyoloji",
     "kelime": "izolasyon",
     "aciklama": "hastalık tanısı konmuş veya semptom gösteren enfekte bireylerden ayrılması.",
@@ -406,7 +98,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 30,
+    "id": 8,
     "kategori": "epidemiyoloji",
     "kelime": "filyasyon",
     "aciklama": "bulaşıcı hastalık vakasının temas ettiği kişileri geriye etme çalışması.",
@@ -420,21 +112,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 31,
-    "kategori": "epidemiyoloji",
-    "kelime": "sürveyans",
-    "aciklama": "sağlık politikalarını belirlemek için hastalık verilerinin sürekli, ve analizi.",
-    "yasakli_kelimeler": [
-      "izlem",
-      "gözlem",
-      "veri toplama",
-      "sistematik",
-      "takip"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 32,
+    "id": 9,
     "kategori": "epidemiyoloji",
     "kelime": "tarama testi",
     "aciklama": "belirti göstermeyen geniş popülasyonda bir hastalığı erken basit test.",
@@ -448,133 +126,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 33,
-    "kategori": "epidemiyoloji",
-    "kelime": "duyarlılık",
-    "aciklama": "tanı testinin hastalığı gerçekten var olan bireyleri saptayabilme yeteneği.",
-    "yasakli_kelimeler": [
-      "hassasiyet",
-      "pozitif",
-      "hasta",
-      "sensitivite",
-      "oran"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 34,
-    "kategori": "epidemiyoloji",
-    "kelime": "özgüllük",
-    "aciklama": "tanı testinin hastalığı gerçekten olmayan sağlıklı bireyleri belirleyebilme yeteneği.",
-    "yasakli_kelimeler": [
-      "spesifisite",
-      "negatif",
-      "sağlıklı",
-      "test",
-      "oran"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 35,
-    "kategori": "epidemiyoloji",
-    "kelime": "pozitif prediktif değer",
-    "aciklama": "test sonucu pozitif çıkan kişinin gerçekten o olma olasılığı.",
-    "yasakli_kelimeler": [
-      "tahmin",
-      "değer",
-      "pozitif",
-      "olasılık",
-      "kesinlik"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 36,
-    "kategori": "epidemiyoloji",
-    "kelime": "negatif prediktif değer",
-    "aciklama": "test sonucu negatif çıkan bireyin gerçekten o olmama olasılığı.",
-    "yasakli_kelimeler": [
-      "tahmin",
-      "değer",
-      "negatif",
-      "olasılık",
-      "sağlam"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 37,
-    "kategori": "epidemiyoloji",
-    "kelime": "yanlılık",
-    "aciklama": "araştırmanın tasarımı, veri toplaması veya analizinde gerçeği hata eğilimi.",
-    "yasakli_kelimeler": [
-      "bias",
-      "hata",
-      "sistematik",
-      "sapma",
-      "yanılgı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 38,
-    "kategori": "epidemiyoloji",
-    "kelime": "seçim yanlılığı",
-    "aciklama": "çalışma gruplarının belirlenmesi aşamasında katılımcıların hedef kitleyi seçilmesi hatası.",
-    "yasakli_kelimeler": [
-      "seçim",
-      "temsil",
-      "bias",
-      "örneklem",
-      "grup"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 39,
-    "kategori": "epidemiyoloji",
-    "kelime": "bilgi yanlılığı",
-    "aciklama": "verilerin toplanması veya ölçümü sırasında yanlış sınıflandırma kaynaklı sapma.",
-    "yasakli_kelimeler": [
-      "hatırlama",
-      "ölçüm",
-      "hata",
-      "bias",
-      "anket"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 40,
-    "kategori": "epidemiyoloji",
-    "kelime": "karıştırıcı faktör",
-    "aciklama": "hem maruziyet hem de sonuçla bağımsız ilişkili üçüncü değişken.",
-    "yasakli_kelimeler": [
-      "karıştırıcı",
-      "değişken",
-      "faktör",
-      "maskeleme",
-      "ilişki"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 41,
-    "kategori": "epidemiyoloji",
-    "kelime": "körleme",
-    "aciklama": "çalışmada taraflılığı önlemek için uygulanan ilacın veya bilindiğinin gizlenmesi.",
-    "yasakli_kelimeler": [
-      "blinding",
-      "çift kör",
-      "tek kör",
-      "gizleme",
-      "tarafsız"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 42,
+    "id": 10,
     "kategori": "epidemiyoloji",
     "kelime": "plasebo etkisi",
     "aciklama": "farmakolojik olarak etkisiz maddenin hastanın inancı ve iyileşme sağlaması.",
@@ -588,301 +140,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 43,
-    "kategori": "epidemiyoloji",
-    "kelime": "sağkalım analizi",
-    "aciklama": "hastaların belirli olay veya ölüme kadar geçen istatistiksel yöntem.",
-    "yasakli_kelimeler": [
-      "yaşam",
-      "süre",
-      "kaplan-meier",
-      "ölüm",
-      "analiz"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 44,
-    "kategori": "epidemiyoloji",
-    "kelime": "hazard oranı",
-    "aciklama": "iki grupta belirli olayın meydana gelme hızlarının sağkalım metriği.",
-    "yasakli_kelimeler": [
-      "risk",
-      "hız",
-      "sağkalım",
-      "oran",
-      "cox"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 45,
-    "kategori": "epidemiyoloji",
-    "kelime": "yaşa standardize hız",
-    "aciklama": "farklı toplumların hastalık veya ölüm hızlarını kıyaslamak eşitleyen hız.",
-    "yasakli_kelimeler": [
-      "standardizasyon",
-      "yaş",
-      "nüfus",
-      "kıyaslama",
-      "düzeltme"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 46,
-    "kategori": "epidemiyoloji",
-    "kelime": "daly metriği",
-    "aciklama": "erken ölüm ve sakatlık nedeniyle kaybedilen sağlıklı yükü birimi.",
-    "yasakli_kelimeler": [
-      "hastalık yükü",
-      "kayıp yıl",
-      "sakatlık",
-      "erken ölüm",
-      "sağlık ölçütü"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 47,
-    "kategori": "epidemiyoloji",
-    "kelime": "daly",
-    "aciklama": "erken ölümle kaybedilen yıllar ile sakatlıkla geçen yükü birimi.",
-    "yasakli_kelimeler": [
-      "engellilik",
-      "kayıp yıl",
-      "yük",
-      "küresel",
-      "sağlık"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 48,
-    "kategori": "epidemiyoloji",
-    "kelime": "qaly",
-    "aciklama": "tıbbi müdahalenin hastaya kazandırdığı yaşam süresini yaşam sağlık çıktısı.",
-    "yasakli_kelimeler": [
-      "kalite",
-      "yaşam",
-      "kazanç",
-      "yıl",
-      "maliyet"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 49,
-    "kategori": "epidemiyoloji",
-    "kelime": "nedensellik ilişkisi",
-    "aciklama": "maruziyetin doğrudan sonuca veya hastalığa yol açtığını gösteren sebep-sonuç bağı.",
-    "yasakli_kelimeler": [
-      "sebep",
-      "sonuç",
-      "ilişki",
-      "etki",
-      "bağlantı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 50,
-    "kategori": "epidemiyoloji",
-    "kelime": "bradford hill kriterleri",
-    "aciklama": "epidemiyolojide ilişkinin tesadüfi olmayıp nedensel olduğunu değerlendiren oluşan ölçütler.",
-    "yasakli_kelimeler": [
-      "kriter",
-      "nedensellik",
-      "kuvvet",
-      "tutarlılık",
-      "sebep"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 51,
-    "kategori": "epidemiyoloji",
-    "kelime": "doz tepki ilişkisi",
-    "aciklama": "etkene maruziyet miktarı arttıkça hastalığın ortaya çıkma orantılı artması.",
-    "yasakli_kelimeler": [
-      "doz",
-      "tepki",
-      "miktar",
-      "risk",
-      "maruziyet"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 52,
-    "kategori": "epidemiyoloji",
-    "kelime": "biyolojik mantıklılık",
-    "aciklama": "gözlemlenen nedensel ilişkinin mevcut biyolojik ve biyomedikal mantıklı olması.",
-    "yasakli_kelimeler": [
-      "biyoloji",
-      "mantık",
-      "tutarlılık",
-      "mekanizma",
-      "bilim"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 53,
-    "kategori": "epidemiyoloji",
-    "kelime": "atfedilen risk",
-    "aciklama": "hastalık insidansının doğrudan o maruziyete bağlı olan önlenecek kısmı.",
-    "yasakli_kelimeler": [
-      "fark",
-      "risk",
-      "maruziyet",
-      "önlenebilir",
-      "oran"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 54,
-    "kategori": "epidemiyoloji",
-    "kelime": "popülasyona atfedilen risk",
-    "aciklama": "toplumda risk faktörünün ortadan kaldırılması durumunda hastalık oranındaki azalma miktarı.",
-    "yasakli_kelimeler": [
-      "toplum",
-      "azalma",
-      "risk",
-      "faktör",
-      "önleme"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 55,
-    "kategori": "epidemiyoloji",
-    "kelime": "kümelenme",
-    "aciklama": "belirli zaman ve coğrafi alanda beklenenden fazla çıkması olgusu.",
-    "yasakli_kelimeler": [
-      "küme",
-      "toplanma",
-      "mekan",
-      "zaman",
-      "artış"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 56,
-    "kategori": "epidemiyoloji",
-    "kelime": "salgın eğrisi",
-    "aciklama": "salgın sırasında vakaların başlangıç zamanlarına göre dağılımını histogram grafiği.",
-    "yasakli_kelimeler": [
-      "grafik",
-      "eğri",
-      "zaman",
-      "vaka sayısı",
-      "histogram"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 57,
-    "kategori": "epidemiyoloji",
-    "kelime": "ortak kaynaklı salgın",
-    "aciklama": "vakaların aynı kirlenmiş su, gıda veya araç salgın türü.",
-    "yasakli_kelimeler": [
-      "kaynak",
-      "ortak",
-      "su",
-      "gıda",
-      "nokta"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 58,
-    "kategori": "epidemiyoloji",
-    "kelime": "yayılımcı salgın",
-    "aciklama": "hastalığın insandan insana temas veya damlacıkla bulaşarak salgın tipi.",
-    "yasakli_kelimeler": [
-      "bulaş",
-      "insandan insana",
-      "dalga",
-      "zincir",
-      "yayılma"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 59,
-    "kategori": "epidemiyoloji",
-    "kelime": "zoonoz",
-    "aciklama": "hayvanlardan insanlara doğal yollarla doğrudan veya dolaylı bulaşan enfeksiyon hastalıkları.",
-    "yasakli_kelimeler": [
-      "hayvan",
-      "bulaş",
-      "insan",
-      "kuduz",
-      "şarbon"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 60,
-    "kategori": "epidemiyoloji",
-    "kelime": "antropozoonoz",
-    "aciklama": "etkenin hayvanlardan insanlara bulaştığı ve insanı tesadüfi konak kıldığı enfeksiyonlar.",
-    "yasakli_kelimeler": [
-      "hayvan",
-      "insan",
-      "bulaşma",
-      "konak",
-      "parazit"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 61,
-    "kategori": "epidemiyoloji",
-    "kelime": "endemik tiyatro",
-    "aciklama": "enfeksiyon etkeninin varlığını sürdürebilmesi için gerekli çevresel, şartların bütünü.",
-    "yasakli_kelimeler": [
-      "ekoloji",
-      "odak",
-      "çevre",
-      "etken",
-      "ortam"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 62,
-    "kategori": "epidemiyoloji",
-    "kelime": "epidemiyolojik üçgen",
-    "aciklama": "enfeksiyon hastalıklarının ortaya çıkışını etken, konakçı ve temel model.",
-    "yasakli_kelimeler": [
-      "etken",
-      "konakçı",
-      "çevre",
-      "üçgen",
-      "model"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 63,
-    "kategori": "epidemiyoloji",
-    "kelime": "buzdağı olgusu",
-    "aciklama": "hastalığın klinik olarak fark edilen vakalarının sadece anlatan kavram.",
-    "yasakli_kelimeler": [
-      "buzdağı",
-      "asemptomatik",
-      "gizli",
-      "görünmeyen",
-      "tepe"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 64,
+    "id": 11,
     "kategori": "epidemiyoloji",
     "kelime": "asemptomatik taşıyıcı",
     "aciklama": "vücudunda patojen taşıyan ve bulaştıran ancak kendisinde görülmeyen kişi.",
@@ -896,77 +154,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 65,
-    "kategori": "epidemiyoloji",
-    "kelime": "indüksiyon periyodu",
-    "aciklama": "nedensel etkene maruz kalınması ile hastalığın biyolojik gizli süre.",
-    "yasakli_kelimeler": [
-      "süre",
-      "başlangıç",
-      "gizil",
-      "zaman",
-      "etken"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 66,
-    "kategori": "epidemiyoloji",
-    "kelime": "latens süresi",
-    "aciklama": "hastalığın hücresel düzeyde başlaması ile ilk klinik arasındaki süre.",
-    "yasakli_kelimeler": [
-      "gizlilik",
-      "zaman",
-      "belirti",
-      "aralık",
-      "klinik"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 67,
-    "kategori": "epidemiyoloji",
-    "kelime": "kontak filyasyon",
-    "aciklama": "enfekte şahısla temas etmiş potansiyel vakaların bulunup izolasyona alınması süreci.",
-    "yasakli_kelimeler": [
-      "temas",
-      "tarama",
-      "izleme",
-      "filyasyon",
-      "tespit"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 68,
-    "kategori": "epidemiyoloji",
-    "kelime": "aşılama kapsamı",
-    "aciklama": "hedef nüfusta önerilen aşı dozlarını eksiksiz almış yüzdesel oranı.",
-    "yasakli_kelimeler": [
-      "aşı",
-      "oran",
-      "kapsam",
-      "hedef",
-      "toplum"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 69,
-    "kategori": "epidemiyoloji",
-    "kelime": "aşılama etkinliği",
-    "aciklama": "aşının kontrollü klinik çalışmalarda veya gerçek hayatta hastalığı önleme yüzdesi.",
-    "yasakli_kelimeler": [
-      "aşı",
-      "etki",
-      "koruma",
-      "yüzde",
-      "önleme"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 70,
+    "id": 12,
     "kategori": "epidemiyoloji",
     "kelime": "soğuk zincir",
     "aciklama": "aşı ve biyolojik ürünlerin üretimden uygulanma anına korunması sistemi.",
@@ -980,21 +168,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 71,
-    "kategori": "epidemiyoloji",
-    "kelime": "bildirimi zorunlu hastalık",
-    "aciklama": "kamu sağlığını tehdit ettiği için hekimlerin resmi gereken enfeksiyon.",
-    "yasakli_kelimeler": [
-      "bildirim",
-      "zorunlu",
-      "halk sağlığı",
-      "yasa",
-      "kurum"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 72,
+    "id": 13,
     "kategori": "epidemiyoloji",
     "kelime": "halk sağlığı",
     "aciklama": "toplumun organize çabalarıyla hastalıkları önlemeyi, yaşamı uzatmayı hedefleyen disiplin.",
@@ -1008,7 +182,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 73,
+    "id": 14,
     "kategori": "epidemiyoloji",
     "kelime": "koruyucu hekimlik",
     "aciklama": "bireylerin ve toplumun hastalanmasını önlemeye odaklanan primer, sağlık hizmetleri.",
@@ -1022,161 +196,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 74,
-    "kategori": "epidemiyoloji",
-    "kelime": "primer koruma",
-    "aciklama": "hastalık etkeniyle karşılaşmayı ve hastalığın henüz hücresel önleme basamağı.",
-    "yasakli_kelimeler": [
-      "aşılama",
-      "önleme",
-      "eğitim",
-      "sağlık",
-      "ilk adım"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 75,
-    "kategori": "epidemiyoloji",
-    "kelime": "sekonder koruma",
-    "aciklama": "hastalığın belirtisiz veya erken evrede taramalarla yakalanıp ilerlemesinin durdurulması basamağı.",
-    "yasakli_kelimeler": [
-      "tarama",
-      "erken tanı",
-      "check-up",
-      "tedavi",
-      "evre"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 76,
-    "kategori": "epidemiyoloji",
-    "kelime": "tersiyer koruma",
-    "aciklama": "hastalık oluştuktan sonra kalıcı sakatlıkları ve komplikasyonları etme adımı.",
-    "yasakli_kelimeler": [
-      "rehabilitasyon",
-      "komplikasyon",
-      "sakatlık",
-      "kronik",
-      "iyileştirme"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 77,
-    "kategori": "epidemiyoloji",
-    "kelime": "örneklem büyüklüğü",
-    "aciklama": "epidemiyolojik araştırmada istatistiksel gücü sağlamak için gereken asgari katılımcı sayısı.",
-    "yasakli_kelimeler": [
-      "katılımcı",
-      "sayı",
-      "istatistik",
-      "güç",
-      "popülasyon"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 78,
-    "kategori": "epidemiyoloji",
-    "kelime": "temsil yeteneği",
-    "aciklama": "seçilen örneklemin ait olduğu ana kütlenin özelliklerini genellenebilme düzeyi.",
-    "yasakli_kelimeler": [
-      "örneklem",
-      "genelleme",
-      "evren",
-      "popülasyon",
-      "yansıtma"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 79,
-    "kategori": "epidemiyoloji",
-    "kelime": "stratifikasyon",
-    "aciklama": "karıştırıcı faktörleri için verileri yaş veya cinsiyet analiz etme.",
-    "yasakli_kelimeler": [
-      "tabakalama",
-      "alt grup",
-      "katman",
-      "analiz",
-      "karıştırıcı"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 80,
-    "kategori": "epidemiyoloji",
-    "kelime": "eşleştirme",
-    "aciklama": "vaka ve kontrol gruplarının yaş veya cinsiyet denk kılınması.",
-    "yasakli_kelimeler": [
-      "matching",
-      "denk",
-      "kontrol",
-      "vaka",
-      "karıştırıcı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 81,
-    "kategori": "epidemiyoloji",
-    "kelime": "meta analiz",
-    "aciklama": "aynı konuda yapılmış birden fazla bağımsız çalışmanın birleştirme yöntemi.",
-    "yasakli_kelimeler": [
-      "birleştirme",
-      "derleme",
-      "kanıt",
-      "istatistik",
-      "çalışma"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 82,
-    "kategori": "epidemiyoloji",
-    "kelime": "sistematik derleme",
-    "aciklama": "belirli araştırma sorusuna yanıt arayan nitelikli çalışmaları kriterlerle sentezleme.",
-    "yasakli_kelimeler": [
-      "derleme",
-      "literatür",
-      "kanıt",
-      "sentez",
-      "kriter"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 83,
-    "kategori": "epidemiyoloji",
-    "kelime": "huni grafiği",
-    "aciklama": "meta-analizlerde yayın yanlılığını görselleştirmek ve küçük çalışma çizilen grafik.",
-    "yasakli_kelimeler": [
-      "yayın yanlılığı",
-      "grafik",
-      "meta analiz",
-      "asimetri",
-      "saçılım"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 84,
-    "kategori": "epidemiyoloji",
-    "kelime": "yayın yanlılığı",
-    "aciklama": "olumlu veya anlamlı sonuç çıkan çalışmaların olumsuz yayımlanması hatası.",
-    "yasakli_kelimeler": [
-      "yayın",
-      "makale",
-      "olumlu",
-      "taraflılık",
-      "dergi"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 85,
+    "id": 15,
     "kategori": "epidemiyoloji",
     "kelime": "sağlık okuryazarlığı",
     "aciklama": "bireylerin sağlıkla ilgili temel bilgilere ulaşma, anlama verebilme kapasitesi.",
@@ -1190,105 +210,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 86,
-    "kategori": "epidemiyoloji",
-    "kelime": "ekolojik çalışma",
-    "aciklama": "bireyler yerine ülke veya bölge gibi topluluk araştırma tipi.",
-    "yasakli_kelimeler": [
-      "topluluk",
-      "ülke",
-      "birey dışı",
-      "korelasyon",
-      "agregat"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 87,
-    "kategori": "epidemiyoloji",
-    "kelime": "ekolojik yanılgı",
-    "aciklama": "topluluk düzeyinde saptanan ilişkinin hatalı şekilde o mal edilmesi.",
-    "yasakli_kelimeler": [
-      "yanılgı",
-      "birey",
-      "toplum",
-      "hata",
-      "ilişki"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 88,
-    "kategori": "epidemiyoloji",
-    "kelime": "kesitsel prevalans",
-    "aciklama": "belirli bir kesitte toplumda taranan hastalığın o andaki bulunma sıklığı.",
-    "yasakli_kelimeler": [
-      "anlık",
-      "sıklık",
-      "oran",
-      "tüm vaka",
-      "nokta"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 89,
-    "kategori": "epidemiyoloji",
-    "kelime": "serolojik sürveyans",
-    "aciklama": "toplumdan alınan kan örneklerinde antikor düzeylerini ölçerek oranını izleme.",
-    "yasakli_kelimeler": [
-      "antikor",
-      "kan",
-      "seroloji",
-      "bağışıklık",
-      "tarama"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 90,
-    "kategori": "epidemiyoloji",
-    "kelime": "aşırı ölüm",
-    "aciklama": "kriz veya salgın döneminde gözlenen toplam ölüm üzerine çıkması.",
-    "yasakli_kelimeler": [
-      "fazla ölüm",
-      "istatistik",
-      "ortalama",
-      "kriz",
-      "artış"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 91,
-    "kategori": "epidemiyoloji",
-    "kelime": "virülans",
-    "aciklama": "patojenin konakçıda oluşturabildiği hastalığın şiddeti veya öldürücülük derecesi.",
-    "yasakli_kelimeler": [
-      "şiddet",
-      "öldürücülük",
-      "ağır",
-      "patojen",
-      "hasar"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 92,
-    "kategori": "epidemiyoloji",
-    "kelime": "patojenite",
-    "aciklama": "mikroorganizmanın duyarlı bir konakçıda hastalık oluşturabilme yeteneği.",
-    "yasakli_kelimeler": [
-      "hastalık yapma",
-      "mikrop",
-      "kabiliyet",
-      "yetililik",
-      "bulaş"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 93,
+    "id": 16,
     "kategori": "epidemiyoloji",
     "kelime": "bulaşma yolu",
     "aciklama": "enfeksiyon ajanının kaynaktan yeni bir konakçıya geçerken izlediği fiziksel mekanizma.",
@@ -1302,7 +224,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 94,
+    "id": 17,
     "kategori": "epidemiyoloji",
     "kelime": "damlacık yolu",
     "aciklama": "öksürme veya hapşırma ile saçılan büyük partiküllerin gerçekleşen bulaşma.",
@@ -1316,7 +238,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 95,
+    "id": 18,
     "kategori": "epidemiyoloji",
     "kelime": "hava yolu",
     "aciklama": "küçük damlacık çekirdeklerinin havada uzun süre asılı bulaşma biçimi.",
@@ -1330,77 +252,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 96,
-    "kategori": "epidemiyoloji",
-    "kelime": "fekal oral yol",
-    "aciklama": "dışkıyla kirlenmiş su veya gıdaların ağız ile bulaş mekanizması.",
-    "yasakli_kelimeler": [
-      "dışkı",
-      "ağız",
-      "su",
-      "gıda",
-      "kirlilik"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 97,
-    "kategori": "epidemiyoloji",
-    "kelime": "parenteral yol",
-    "aciklama": "etkenin sindirim kanalına uğramadan doğrudan damar içi vücuda girişi.",
-    "yasakli_kelimeler": [
-      "enjeksiyon",
-      "iğne",
-      "damar",
-      "kan",
-      "deri altı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 98,
-    "kategori": "epidemiyoloji",
-    "kelime": "dikey bulaşma",
-    "aciklama": "enfeksiyonun anneden bebeğe gebelik, doğum veya emzirme sırasında doğrudan aktarılması.",
-    "yasakli_kelimeler": [
-      "anne",
-      "bebek",
-      "gebelik",
-      "doğum",
-      "plasenta"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 99,
-    "kategori": "epidemiyoloji",
-    "kelime": "yatay bulaşma",
-    "aciklama": "hastalığın aynı popülasyondaki bireyler arasında temas, damlacık veya vektörlerle yayılması.",
-    "yasakli_kelimeler": [
-      "bireyler arası",
-      "toplum",
-      "yayılma",
-      "temas",
-      "akran"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 100,
-    "kategori": "epidemiyoloji",
-    "kelime": "karşılıklı etkileşim",
-    "aciklama": "iki veya daha fazla risk faktörünün araya etki yaratması.",
-    "yasakli_kelimeler": [
-      "etkileşim",
-      "sinerji",
-      "birlikte",
-      "faktör",
-      "çarpansal"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 101,
+    "id": 19,
     "kategori": "epidemiyoloji",
     "kelime": "enfeksiyon kaynağı",
     "aciklama": "patojen mikroorganizmanın konakçıya doğrudan veya dolaylı geçtiği veya nesne.",
@@ -1414,7 +266,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 102,
+    "id": 20,
     "kategori": "epidemiyoloji",
     "kelime": "temaslı takibi",
     "aciklama": "bulaşıcı hastalık tanısı alan kişiyle yakın temasta izlenmesi süreci.",
@@ -1428,21 +280,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 103,
-    "kategori": "epidemiyoloji",
-    "kelime": "vaka tanımı",
-    "aciklama": "salgın araştırmasında kişinin hasta olarak kabul edilmesi kriterleri bütünü.",
-    "yasakli_kelimeler": [
-      "kriter",
-      "hasta",
-      "tanı",
-      "klinik",
-      "belirti"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 104,
+    "id": 21,
     "kategori": "epidemiyoloji",
     "kelime": "şüpheli vaka",
     "aciklama": "hastalığın bazı klinik belirtilerini taşıyan veya temas yapılmamış kişi.",
@@ -1456,35 +294,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 105,
-    "kategori": "epidemiyoloji",
-    "kelime": "olası vaka",
-    "aciklama": "tipik klinik belirtileri ve doğrulanmış vakayla epidemiyolojik çıkmamış hasta.",
-    "yasakli_kelimeler": [
-      "bağlantı",
-      "klinik",
-      "kuvvetli",
-      "sonuçsuz",
-      "şüpheli"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 106,
-    "kategori": "epidemiyoloji",
-    "kelime": "kesin vaka",
-    "aciklama": "hastalık etkeni laboratuvar testleriyle kesin olarak tespit hasta birey.",
-    "yasakli_kelimeler": [
-      "laboratuvar",
-      "doğrulanmış",
-      "pozitif",
-      "test",
-      "hasta"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 107,
+    "id": 22,
     "kategori": "epidemiyoloji",
     "kelime": "süper yayıcı",
     "aciklama": "bulaşıcı hastalığı ortalamadan çok daha fazla sayıda bulaştırıcı birey.",
@@ -1498,21 +308,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 108,
-    "kategori": "epidemiyoloji",
-    "kelime": "süper yayılma",
-    "aciklama": "kalabalık ve kapalı ortamda tek bir kaynaktan salgın olayı.",
-    "yasakli_kelimeler": [
-      "kalabalık",
-      "kapalı alan",
-      "toplu",
-      "aynı anda",
-      "salgın"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 109,
+    "id": 23,
     "kategori": "epidemiyoloji",
     "kelime": "temaslı",
     "aciklama": "bulaşıcı hastalık taşıyan kişiyle virüsün bulaşabileceği mesafede bulunmuş birey.",
@@ -1526,7 +322,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 110,
+    "id": 24,
     "kategori": "epidemiyoloji",
     "kelime": "yakın temas",
     "aciklama": "maskesiz olarak kapalı mekanda iki metreden yakın riskli karşılaşma.",
@@ -1540,35 +336,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 111,
-    "kategori": "epidemiyoloji",
-    "kelime": "damlacık çekirdeği",
-    "aciklama": "havada buharlaşan damlacıklardan geriye kalan ve havada minik partikül.",
-    "yasakli_kelimeler": [
-      "asılı",
-      "hava",
-      "partikül",
-      "buharlaşma",
-      "aerosol"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 112,
-    "kategori": "epidemiyoloji",
-    "kelime": "biyolojik ajan",
-    "aciklama": "insanlarda, hayvanlarda veya bitkilerde hastalığa ve ölüme canlı etken.",
-    "yasakli_kelimeler": [
-      "mikrop",
-      "etken",
-      "canlı",
-      "hastalık",
-      "silah"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 113,
+    "id": 25,
     "kategori": "epidemiyoloji",
     "kelime": "patojen",
     "aciklama": "girdiği canlı organizmada enfeksiyona ve hastalığa neden zararlı etmen.",
@@ -1582,63 +350,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 114,
-    "kategori": "epidemiyoloji",
-    "kelime": "konakçı",
-    "aciklama": "parazitin veya patojen mikroorganizmanın üzerinde ya da canlı organizma.",
-    "yasakli_kelimeler": [
-      "canlı",
-      "barınmak",
-      "parazit",
-      "organizma",
-      "beslenmek"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 115,
-    "kategori": "epidemiyoloji",
-    "kelime": "duyarlı konakçı",
-    "aciklama": "belirli enfeksiyon etkenine karşı bağışıklığı bulunmayan ve taşıyan birey.",
-    "yasakli_kelimeler": [
-      "bağışıklıksız",
-      "risk",
-      "açık",
-      "enfeksiyon",
-      "savunmasız"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 116,
-    "kategori": "epidemiyoloji",
-    "kelime": "bağışık birey",
-    "aciklama": "aşılama veya hastalığı daha önce geçirme ile sahip kişi.",
-    "yasakli_kelimeler": [
-      "antikor",
-      "koruma",
-      "aşılanmış",
-      "geçirmiş",
-      "savunma"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 117,
-    "kategori": "epidemiyoloji",
-    "kelime": "bağışıklık düzeyi",
-    "aciklama": "toplumun veya bireyin belirli enfeksiyona karşı geliştirdiği direnç gücü.",
-    "yasakli_kelimeler": [
-      "antikor",
-      "direnç",
-      "toplum",
-      "seviye",
-      "koruma"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 118,
+    "id": 26,
     "kategori": "epidemiyoloji",
     "kelime": "aşı tereddüdü",
     "aciklama": "aşı hizmetlerine erişim olmasına rağmen aşı olmayı yaklaşma durumu.",
@@ -1652,7 +364,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 119,
+    "id": 27,
     "kategori": "epidemiyoloji",
     "kelime": "aşı reddi",
     "aciklama": "yanlış inanışlar veya komplo teorileri sebebiyle kendisine kabul etmeme.",
@@ -1666,7 +378,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 120,
+    "id": 28,
     "kategori": "epidemiyoloji",
     "kelime": "aşı pasaportu",
     "aciklama": "pandemi döneminde seyahat edebilmek veya etkinliklere katılabilmek resmi sertifika.",
@@ -1680,7 +392,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 121,
+    "id": 29,
     "kategori": "epidemiyoloji",
     "kelime": "aşı takvimi",
     "aciklama": "çocukluk ve yetişkinlik döneminde hangi aşıların hangi sağlık planı.",
@@ -1694,7 +406,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 122,
+    "id": 30,
     "kategori": "epidemiyoloji",
     "kelime": "rapel doz",
     "aciklama": "zamanla azalan bağışıklık yanıtını ve antikor seviyesini aşı dozu.",
@@ -1708,63 +420,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 123,
-    "kategori": "epidemiyoloji",
-    "kelime": "canlı aşı",
-    "aciklama": "laboratuvarda hastalık yapma gücü zayıflatılmış canlı mikroorganizmalar aşı türü.",
-    "yasakli_kelimeler": [
-      "zayıflatılmış",
-      "mikrop",
-      "canlı",
-      "kızamık",
-      "bağışıklık"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 124,
-    "kategori": "epidemiyoloji",
-    "kelime": "inaktif aşı",
-    "aciklama": "ısı veya kimyasallarla öldürülmüş mikroorganizmalardan üretilen, güvenli aşı teknolojisi.",
-    "yasakli_kelimeler": [
-      "ölü aşı",
-      "öldürülmüş",
-      "geleneksel",
-      "güvenli",
-      "virüs"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 125,
-    "kategori": "epidemiyoloji",
-    "kelime": "genetik aşı",
-    "aciklama": "virüsün antijen proteinini üretmesi için vücut hücrelerine biyoteknolojik aşı.",
-    "yasakli_kelimeler": [
-      "talimat",
-      "protein",
-      "biyoteknoloji",
-      "hücre",
-      "modern"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 126,
-    "kategori": "epidemiyoloji",
-    "kelime": "aşı etkinliği",
-    "aciklama": "aşının klinik deneylerde veya gerçek hayat koşullarında yüzdesi başarısı.",
-    "yasakli_kelimeler": [
-      "yüzde",
-      "koruma oranı",
-      "başarı",
-      "klinik deney",
-      "önleme"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 127,
+    "id": 31,
     "kategori": "epidemiyoloji",
     "kelime": "yan etki",
     "aciklama": "aşı veya ilaç uygulamasından sonra oluşan ateş, tıbbi reaksiyon.",
@@ -1778,63 +434,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 128,
-    "kategori": "epidemiyoloji",
-    "kelime": "seroprevalans",
-    "aciklama": "toplumdan alınan kan örneklerinde belirli mikroba karşı yüzdesel sıklığı.",
-    "yasakli_kelimeler": [
-      "kan",
-      "antikor",
-      "yüzde",
-      "toplum",
-      "sıklık"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 129,
-    "kategori": "epidemiyoloji",
-    "kelime": "serokonversiyon",
-    "aciklama": "enfeksiyon veya aşılanma sonrasında kanda saptanamayan antikorların yükselmesi süreci.",
-    "yasakli_kelimeler": [
-      "antikor",
-      "kandaki artış",
-      "pozitifleşme",
-      "dönüşüm",
-      "tespit"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 130,
-    "kategori": "epidemiyoloji",
-    "kelime": "antikor titresi",
-    "aciklama": "kandaki koruyucu veya hastalık göstergesi antikorların yoğunluğunu belirten ölçü.",
-    "yasakli_kelimeler": [
-      "yoğunluk",
-      "seviye",
-      "ölçüm",
-      "kan",
-      "bağışıklık"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 131,
-    "kategori": "epidemiyoloji",
-    "kelime": "antijen testi",
-    "aciklama": "virüsün veya bakterinin yüzeyindeki özgül proteinleri sürüntü tanı testi.",
-    "yasakli_kelimeler": [
-      "protein",
-      "sürüntü",
-      "virüs",
-      "tespit",
-      "hızlı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 132,
+    "id": 32,
     "kategori": "epidemiyoloji",
     "kelime": "hızlı test",
     "aciklama": "laboratuvar cihazına gerek kalmadan hasta başında on test kiti.",
@@ -1848,7 +448,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 133,
+    "id": 33,
     "kategori": "epidemiyoloji",
     "kelime": "antikor testi",
     "aciklama": "kişinin hastalığı daha önce geçirip geçirmediğini veya bağışıklık testi.",
@@ -1862,91 +462,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 134,
-    "kategori": "epidemiyoloji",
-    "kelime": "yalancı pozitiflik",
-    "aciklama": "gerçekte hasta veya enfekte olmayan sağlıklı bireyin çıkması hali.",
-    "yasakli_kelimeler": [
-      "yanlış pozitif",
-      "sağlıklı",
-      "hata",
-      "yanıltıcı",
-      "özgüllük"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 135,
-    "kategori": "epidemiyoloji",
-    "kelime": "yalancı negatiflik",
-    "aciklama": "gerçekte enfeksiyonu taşıyan hasta kişinin test sonucunun negatif görünmesi.",
-    "yasakli_kelimeler": [
-      "yanlış negatif",
-      "hasta",
-      "kaçırma",
-      "hata",
-      "duyarlılık"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 136,
-    "kategori": "epidemiyoloji",
-    "kelime": "doğrulama testi",
-    "aciklama": "tarama testinde pozitif çıkan şüpheli sonucu kesinleştirmek ikinci test.",
-    "yasakli_kelimeler": [
-      "kesinleştirme",
-      "ikinci test",
-      "teyit",
-      "tarama",
-      "güvenilir"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 137,
-    "kategori": "epidemiyoloji",
-    "kelime": "altın standart",
-    "aciklama": "hastalığın varlığını veya yokluğunu belirlemede tıbbi doğruluğu tanı yöntemi.",
-    "yasakli_kelimeler": [
-      "referans",
-      "en iyi",
-      "kıyaslama",
-      "doğruluk",
-      "kesin"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 138,
-    "kategori": "epidemiyoloji",
-    "kelime": "tanı kriteri",
-    "aciklama": "uluslararası sağlık otoritelerince hastalığın kesin teşhisi için test şartları.",
-    "yasakli_kelimeler": [
-      "şart",
-      "teşhis",
-      "kılavuz",
-      "bulgu",
-      "semptom"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 139,
-    "kategori": "epidemiyoloji",
-    "kelime": "vaka bildirimi",
-    "aciklama": "hekimlerin teşhis ettikleri bulaşıcı hastalıkları kanunen sağlık iletme zorunluluğu.",
-    "yasakli_kelimeler": [
-      "sağlık bakanlığı",
-      "bildirmek",
-      "zorunlu",
-      "hekim",
-      "rapor"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 140,
+    "id": 34,
     "kategori": "epidemiyoloji",
     "kelime": "filyasyon ekibi",
     "aciklama": "salgın anında sahaya inerek hastaların evlerini ziyaret sağlık görevlileri.",
@@ -1960,189 +476,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 141,
-    "kategori": "epidemiyoloji",
-    "kelime": "saha epidemiyolojisi",
-    "aciklama": "salgın patlak verdiğinde masa başında değil doğrudan pratik uzmanlık.",
-    "yasakli_kelimeler": [
-      "olay yeri",
-      "acil müdahale",
-      "pratik",
-      "kontrol",
-      "inceleme"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 142,
-    "kategori": "epidemiyoloji",
-    "kelime": "moleküler epidemiyoloji",
-    "aciklama": "patojenlerin genetik dizilimlerini inceleyerek virüsün mutasyonlarını ve ileri bilim.",
-    "yasakli_kelimeler": [
-      "genetik",
-      "dizilim",
-      "mutasyon",
-      "dna",
-      "köken"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 143,
-    "kategori": "epidemiyoloji",
-    "kelime": "klinik epidemiyoloji",
-    "aciklama": "epidemiyolojik yöntemleri hastanedeki bireysel tanı, tedavi etkinliği kullanan alan.",
-    "yasakli_kelimeler": [
-      "hastane",
-      "tedavi",
-      "klinik",
-      "prognoz",
-      "karar"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 144,
-    "kategori": "epidemiyoloji",
-    "kelime": "genetik epidemiyoloji",
-    "aciklama": "hastalıkların ortaya çıkışında kalıtsal faktörler ile çevresel araştıran dal.",
-    "yasakli_kelimeler": [
-      "kalıtım",
-      "gen",
-      "çevre",
-      "aile",
-      "etkileşim"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 145,
-    "kategori": "epidemiyoloji",
-    "kelime": "çevresel epidemiyoloji",
-    "aciklama": "hava kirliliği, su kirliliği ve radyasyon gibi inceleyen alan.",
-    "yasakli_kelimeler": [
-      "hava kirliliği",
-      "maruziyet",
-      "çevre",
-      "su",
-      "zarar"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 146,
-    "kategori": "epidemiyoloji",
-    "kelime": "mesleki epidemiyoloji",
-    "aciklama": "çalışma ortamındaki kimyasal, fiziksel ve ergonomik risklerin araştıran bilim.",
-    "yasakli_kelimeler": [
-      "işçi",
-      "fabrika",
-      "meslek hastalığı",
-      "çalışma ortamı",
-      "risk"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 147,
-    "kategori": "epidemiyoloji",
-    "kelime": "sosyal epidemiyoloji",
-    "aciklama": "gelir eşitsizliği, eğitim ve toplumsal sınıfın sağlık inceleyen disiplin.",
-    "yasakli_kelimeler": [
-      "gelir eşitsizliği",
-      "toplum",
-      "sınıf",
-      "sosyal",
-      "eğitim"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 148,
-    "kategori": "epidemiyoloji",
-    "kelime": "beslenme epidemiyolojisi",
-    "aciklama": "beslenme alışkanlıkları, diyet ve gıda tüketiminin kronik inceleyen uzmanlık.",
-    "yasakli_kelimeler": [
-      "diyet",
-      "gıda",
-      "kronik hastalık",
-      "obezite",
-      "besin"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 149,
-    "kategori": "epidemiyoloji",
-    "kelime": "farmakoepidemiyoloji",
-    "aciklama": "ilaçların geniş insan topluluklarındaki kullanım sıklığını, gerçek araştıran bilim.",
-    "yasakli_kelimeler": [
-      "ilaç",
-      "yan etki",
-      "toplum",
-      "etkililik",
-      "pazar sonrası"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 150,
-    "kategori": "epidemiyoloji",
-    "kelime": "aktif sürveyans",
-    "aciklama": "sağlık görevlilerinin düzenli olarak hastaneleri ve laboratuvarları bilgilerini toplaması.",
-    "yasakli_kelimeler": [
-      "bizzat",
-      "arama",
-      "ziyaret",
-      "toplama",
-      "sürveyans"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 151,
-    "kategori": "epidemiyoloji",
-    "kelime": "pasif sürveyans",
-    "aciklama": "sağlık merkezlerinin tespit ettikleri vakaları rutin yasal kendiliklerinden bildirmesi.",
-    "yasakli_kelimeler": [
-      "rutin",
-      "bildirim",
-      "merkez",
-      "raporlama",
-      "geleneksel"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 152,
-    "kategori": "epidemiyoloji",
-    "kelime": "sendromik sürveyans",
-    "aciklama": "kesin tanı konulmadan önce acil servis başvuruları izleme yöntemi.",
-    "yasakli_kelimeler": [
-      "erken belirti",
-      "acil servis",
-      "eczane",
-      "tanı öncesi",
-      "izlem"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 153,
-    "kategori": "epidemiyoloji",
-    "kelime": "nöbetçi sürveyans",
-    "aciklama": "ülkeden değil, belirli coğrafyalarda seçilmiş örnek hastanelerden izlenmesi sistemi.",
-    "yasakli_kelimeler": [
-      "seçilmiş",
-      "örneklem",
-      "hastane",
-      "grip",
-      "temsili"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 154,
+    "id": 35,
     "kategori": "epidemiyoloji",
     "kelime": "erken uyarı",
     "aciklama": "ani salgın tehdidini çok erkenden tespit ederek alarm mekanizması.",
@@ -2156,49 +490,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 155,
-    "kategori": "epidemiyoloji",
-    "kelime": "salgın araştırması",
-    "aciklama": "beklenmedik vaka artışı karşısında salgının kaynağını, bulaş saha çalışması.",
-    "yasakli_kelimeler": [
-      "kaynak",
-      "araştırma",
-      "artış",
-      "bulaş",
-      "saha"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 156,
-    "kategori": "epidemiyoloji",
-    "kelime": "salgın yönetimi",
-    "aciklama": "salgının yayılmasını durdurmak için karantina, aşılama ve idari süreç.",
-    "yasakli_kelimeler": [
-      "kriz",
-      "koordinasyon",
-      "önlem",
-      "kontrol",
-      "idare"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 157,
-    "kategori": "epidemiyoloji",
-    "kelime": "bulaş zinciri",
-    "aciklama": "patojenin kaynaktan çıkıp bulaşma ile duyarlı konakçıya halkalar bütünü.",
-    "yasakli_kelimeler": [
-      "halka",
-      "kaynak",
-      "yol",
-      "zincir kırmak",
-      "akış"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 158,
+    "id": 36,
     "kategori": "epidemiyoloji",
     "kelime": "bulaşıcı hastalık",
     "aciklama": "bakteri, virüs veya parazitlerin kişiden kişiye doğrudan enfeksiyon hastalığı.",
@@ -2212,7 +504,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 159,
+    "id": 37,
     "kategori": "epidemiyoloji",
     "kelime": "kronik hastalık",
     "aciklama": "bulaşıcı olmayan, uzun yıllar veya ömür boyu ilerleyen hastalıklar.",
@@ -2226,133 +518,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 160,
-    "kategori": "epidemiyoloji",
-    "kelime": "kronik rahatsızlık",
-    "aciklama": "kalıcı doku hasarı veya fonksiyon kaybı yaratarak sağlık sorunu.",
-    "yasakli_kelimeler": [
-      "yaşam kalitesi",
-      "kalıcı",
-      "uzun süreli",
-      "rahatsızlık",
-      "kalp"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 161,
-    "kategori": "epidemiyoloji",
-    "kelime": "ölüm hızı",
-    "aciklama": "belirli zaman diliminde bir toplumda oluşan toplam olan oranı.",
-    "yasakli_kelimeler": [
-      "vefat",
-      "nüfus",
-      "oran",
-      "toplam",
-      "yıl"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 162,
-    "kategori": "epidemiyoloji",
-    "kelime": "doğum hızı",
-    "aciklama": "yılda gerçekleşen canlı doğum sayısının o yılki demografik hız.",
-    "yasakli_kelimeler": [
-      "canlı doğum",
-      "nüfus",
-      "bebek",
-      "demografi",
-      "hız"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 163,
-    "kategori": "epidemiyoloji",
-    "kelime": "bebek ölümü",
-    "aciklama": "yaşına basmadan önce hayatını kaybeden bebeklerin sayısını sağlığı göstergesi.",
-    "yasakli_kelimeler": [
-      "bir yaş",
-      "bebek",
-      "sağlık göstergesi",
-      "kayıp",
-      "vefat"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 164,
-    "kategori": "epidemiyoloji",
-    "kelime": "anne ölümü",
-    "aciklama": "gebelik, doğum veya lohusalık sürecinde gebeliğe bağlı kadınların oranı.",
-    "yasakli_kelimeler": [
-      "gebelik",
-      "doğum",
-      "lohusa",
-      "kadın",
-      "vefat"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 165,
-    "kategori": "epidemiyoloji",
-    "kelime": "perinatal ölüm",
-    "aciklama": "gebeliğin yirmi sekizinci haftasından doğumdan sonraki ilk gerçekleşen kayıplar.",
-    "yasakli_kelimeler": [
-      "yirmi sekiz hafta",
-      "doğum anı",
-      "ilk hafta",
-      "ölü doğum",
-      "bebek"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 166,
-    "kategori": "epidemiyoloji",
-    "kelime": "yaşam beklentisi",
-    "aciklama": "yeni doğan bireyin mevcut ölüm hızları devam öngörüldüğü süre.",
-    "yasakli_kelimeler": [
-      "ortalama ömür",
-      "yıl",
-      "yaşamak",
-      "doğumda",
-      "demografi"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 167,
-    "kategori": "epidemiyoloji",
-    "kelime": "hastalık yükü",
-    "aciklama": "toplumda hastalık ve erken ölümlerin yarattığı toplam toplu ölçüsü.",
-    "yasakli_kelimeler": [
-      "kayıp",
-      "maliyet",
-      "erken ölüm",
-      "toplum",
-      "etki"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 168,
-    "kategori": "epidemiyoloji",
-    "kelime": "sakatlık oranı",
-    "aciklama": "popülasyonda fiziksel veya zihinsel fonksiyon kaybıyla yaşayan nüfustaki payı.",
-    "yasakli_kelimeler": [
-      "engelli",
-      "fonksiyon kaybı",
-      "nüfus",
-      "pay",
-      "fiziksel"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 169,
+    "id": 38,
     "kategori": "epidemiyoloji",
     "kelime": "risk faktörü",
     "aciklama": "kişide bulunması halinde belirli hastalığa yakalanma olasılığını veya alışkanlık.",
@@ -2366,399 +532,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 170,
-    "kategori": "epidemiyoloji",
-    "kelime": "koruyucu faktör",
-    "aciklama": "düzenli egzersiz veya sağlıklı beslenme gibi hastalığa yaşam özelliği.",
-    "yasakli_kelimeler": [
-      "azaltmak",
-      "egzersiz",
-      "olumlu",
-      "koruma",
-      "sağlıklı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 171,
-    "kategori": "epidemiyoloji",
-    "kelime": "değiştirilebilir risk",
-    "aciklama": "sigara içmek, hareketsizlik gibi kişinin kendi davranışlarıyla risk etkeni.",
-    "yasakli_kelimeler": [
-      "davranış",
-      "sigara",
-      "önlenebilir",
-      "yaşam tarzı",
-      "müdahale"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 172,
-    "kategori": "epidemiyoloji",
-    "kelime": "insidans yoğunluğu",
-    "aciklama": "yeni vaka sayısının izlenen bireylerin toplam risk bulunan hız.",
-    "yasakli_kelimeler": [
-      "kişi zaman",
-      "yeni vaka",
-      "hız",
-      "izlem",
-      "payda"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 173,
-    "kategori": "epidemiyoloji",
-    "kelime": "kümülatif insidans",
-    "aciklama": "belirli risk altındaki kohort grubunda tanımlanan süre ve oranı.",
-    "yasakli_kelimeler": [
-      "kohort",
-      "olasılık",
-      "süre",
-      "yeni vaka",
-      "oran"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 174,
-    "kategori": "epidemiyoloji",
-    "kelime": "nokta prevalans",
-    "aciklama": "belirli takvim anında veya günde toplumda var nüfusa oranı.",
-    "yasakli_kelimeler": [
-      "anlık",
-      "tek bir gün",
-      "eski yeni",
-      "mevcut",
-      "oran"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 175,
-    "kategori": "epidemiyoloji",
-    "kelime": "dönem prevalansı",
-    "aciklama": "belirli zaman aralığında toplumda herhangi bir anda sıklık yüzdesi.",
-    "yasakli_kelimeler": [
-      "zaman aralığı",
-      "ay",
-      "yıl",
-      "toplam hasta",
-      "dönem"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 176,
-    "kategori": "epidemiyoloji",
-    "kelime": "orantılı mortalite",
-    "aciklama": "toplam ölümler içinde belirli hastalığın örneğin kanserin yüzdesel payı.",
-    "yasakli_kelimeler": [
-      "yüzde",
-      "toplam vefat",
-      "pay",
-      "kanser",
-      "ölüm nedeni"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 177,
-    "kategori": "epidemiyoloji",
-    "kelime": "sağkalım oranı",
-    "aciklama": "kanser gibi ciddi tanı konulduktan sonra beş hastaların yüzdesi.",
-    "yasakli_kelimeler": [
-      "hayatta kalma",
-      "beş yıl",
-      "yüzde",
-      "kanser",
-      "tedavi"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 178,
-    "kategori": "epidemiyoloji",
-    "kelime": "kaplan-meier eğrisi",
-    "aciklama": "zaman içinde hastaların hayatta kalma olasılığını basamaklı eğrisi grafiği.",
-    "yasakli_kelimeler": [
-      "basamak",
-      "merdiven",
-      "sağkalım",
-      "grafik",
-      "olasılık"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 179,
-    "kategori": "epidemiyoloji",
-    "kelime": "log-rank testi",
-    "aciklama": "iki veya daha fazla grubun sağkalım eğrileri sınayan test.",
-    "yasakli_kelimeler": [
-      "eğri karşılaştırma",
-      "sağkalım",
-      "grup",
-      "anlamlılık",
-      "test"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 180,
-    "kategori": "epidemiyoloji",
-    "kelime": "cox regresyonu",
-    "aciklama": "hastaların sağkalım süresini ve ölüm riskini birden parametrik yöntem.",
-    "yasakli_kelimeler": [
-      "sağkalım süresi",
-      "hazard",
-      "risk",
-      "yarı parametrik",
-      "regresyon"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 181,
-    "kategori": "epidemiyoloji",
-    "kelime": "duyarlılık analizi",
-    "aciklama": "çalışmanın sonuçlarının araştırmacının yaptığı temel varsayımlara ve olduğunu sınama.",
-    "yasakli_kelimeler": [
-      "sağlamlık",
-      "varsayım",
-      "hassasiyet",
-      "güvenilirlik",
-      "sınama"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 182,
-    "kategori": "epidemiyoloji",
-    "kelime": "tabakalı analiz",
-    "aciklama": "karıştırıcı faktörün etkisini kontrol etmek için veriyi ayırıp inceleme.",
-    "yasakli_kelimeler": [
-      "katman",
-      "karıştırıcı",
-      "alt grup",
-      "yaş",
-      "cinsiyet"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 183,
-    "kategori": "epidemiyoloji",
-    "kelime": "niyet analizi",
-    "aciklama": "klinik deneylerde hastaların tedaviyi bırakıp bırakmadığına bakılmaksızın edilmesi ilkesi.",
-    "yasakli_kelimeler": [
-      "randomizasyon",
-      "atanan grup",
-      "tedaviyi bırakma",
-      "tarafsızlık",
-      "analiz"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 184,
-    "kategori": "epidemiyoloji",
-    "kelime": "protokol analizi",
-    "aciklama": "yalnızca klinik araştırma kurallarına ve ilaç protokolüne değerlendirilmesi yaklaşımı.",
-    "yasakli_kelimeler": [
-      "tam uyum",
-      "protokol",
-      "kural",
-      "ayrılma",
-      "değerlendirme"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 185,
-    "kategori": "epidemiyoloji",
-    "kelime": "hatırlama yanlılığı",
-    "aciklama": "hasta kişilerin geçmişteki maruziyetlerini sağlıklı kişilere kıyasla hatırlaması yanılgısı.",
-    "yasakli_kelimeler": [
-      "geçmiş",
-      "hafıza",
-      "vaka kontrol",
-      "yanılgı",
-      "maruziyet"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 186,
-    "kategori": "epidemiyoloji",
-    "kelime": "gözlemci yanlılığı",
-    "aciklama": "araştırmacının hastanın hangi grupta olduğunu bilmesi nedeniyle taraflı yapması.",
-    "yasakli_kelimeler": [
-      "araştırmacı",
-      "taraflılık",
-      "körleme",
-      "ölçüm",
-      "beklenti"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 187,
-    "kategori": "epidemiyoloji",
-    "kelime": "berkson yanlılığı",
-    "aciklama": "örneklemin hastanede yatan hastalardan seçilmesi durumunda hastaneye seçim hatası.",
-    "yasakli_kelimeler": [
-      "hastane",
-      "yatış",
-      "seçim hatası",
-      "temsilsiz",
-      "örneklem"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 188,
-    "kategori": "epidemiyoloji",
-    "kelime": "işçi etkisi",
-    "aciklama": "çalışan işçi nüfusun hasta ve işsizleri içeren ölümlü çıkması.",
-    "yasakli_kelimeler": [
-      "çalışan",
-      "sağlıklı nüfus",
-      "işsiz",
-      "mortalite",
-      "yanılgı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 189,
-    "kategori": "epidemiyoloji",
-    "kelime": "hawthorne etkisi",
-    "aciklama": "araştırmaya katıldığını ve izlendiğini bilen bireylerin davranışlarını değiştirmesi olgusu.",
-    "yasakli_kelimeler": [
-      "izlenmek",
-      "davranış değişimi",
-      "farkındalık",
-      "deney",
-      "katılımcı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 190,
-    "kategori": "epidemiyoloji",
-    "kelime": "retrospektif çalışma",
-    "aciklama": "hastalık oluştuktan sonra geçmişe dönük hasta kayıtlarını yapılan araştırma.",
-    "yasakli_kelimeler": [
-      "geçmiş",
-      "geriye dönük",
-      "kayıt",
-      "arşiv",
-      "araştırma"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 191,
-    "kategori": "epidemiyoloji",
-    "kelime": "prospektif çalışma",
-    "aciklama": "sağlıklı bireylerin bugünden başlayarak geleceğe doğru uzun izlendiği araştırma.",
-    "yasakli_kelimeler": [
-      "geleceğe doğru",
-      "uzun takip",
-      "kohort",
-      "izlem",
-      "bugünden"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 192,
-    "kategori": "epidemiyoloji",
-    "kelime": "vaka serisi",
-    "aciklama": "benzer belirtiler gösteren veya yeni hastalığa yakalanan tanımlayıcı rapor.",
-    "yasakli_kelimeler": [
-      "az sayıda",
-      "tanımlayıcı",
-      "ortak özellik",
-      "rapor",
-      "klinik"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 193,
-    "kategori": "epidemiyoloji",
-    "kelime": "vaka sunumu",
-    "aciklama": "tıpta daha önce nadir görülen veya alışılmadık literatüre bildirilmesi.",
-    "yasakli_kelimeler": [
-      "tek hasta",
-      "nadir",
-      "literatür",
-      "rapor",
-      "sunum"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 194,
-    "kategori": "epidemiyoloji",
-    "kelime": "panel araştırması",
-    "aciklama": "aynı örneklem grubundaki katılımcıların belirli zaman aralıklarıyla durumlarının ölçülmesi.",
-    "yasakli_kelimeler": [
-      "aynı kişiler",
-      "tekrar",
-      "aralık",
-      "takip",
-      "izlem"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 195,
-    "kategori": "epidemiyoloji",
-    "kelime": "kesitsel analiz",
-    "aciklama": "toplumun belirli anındaki hastalık ve risk faktörlerini eşzamanlı fotoğraflama.",
-    "yasakli_kelimeler": [
-      "tek seferlik",
-      "anlık",
-      "fotoğraf",
-      "anket",
-      "prevalans"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 196,
-    "kategori": "epidemiyoloji",
-    "kelime": "müdahale araştırması",
-    "aciklama": "araştırmacının gruba yeni aşı, ilaç veya diyet deneysel çalışma.",
-    "yasakli_kelimeler": [
-      "deneysel",
-      "müdahale",
-      "ilaç",
-      "kontrol grubu",
-      "kıyaslama"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 197,
-    "kategori": "epidemiyoloji",
-    "kelime": "toplum deneyi",
-    "aciklama": "bireyler yerine mahalle veya şehrin suyuna flor sağlığı deneyi.",
-    "yasakli_kelimeler": [
-      "mahalle",
-      "şehir",
-      "toplu",
-      "halk sağlığı",
-      "su florlama"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 198,
+    "id": 39,
     "kategori": "epidemiyoloji",
     "kelime": "hastane enfeksiyonu",
     "aciklama": "hastanın hastaneye yatışında kuluçka döneminde olmayan, yattıktan gelişen enfeksiyon.",
@@ -2768,34 +542,6 @@
       "yatış",
       "sağlık hizmeti",
       "bulaşma"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 199,
-    "kategori": "epidemiyoloji",
-    "kelime": "nozokomiyal enfeksiyon",
-    "aciklama": "sağlık kurumlarında tedavi veya ameliyat sırasında dirençli oluşan enfeksiyon.",
-    "yasakli_kelimeler": [
-      "dirençli bakteri",
-      "hastane kaynaklı",
-      "ameliyat",
-      "tedavi",
-      "klinik"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 200,
-    "kategori": "epidemiyoloji",
-    "kelime": "salgın eşiği",
-    "aciklama": "bölgede vaka sayısının mevsimsel beklenen normal sınırları sınır değer.",
-    "yasakli_kelimeler": [
-      "sınır",
-      "alarm",
-      "aşmak",
-      "beklenen sayı",
-      "ilan"
     ],
     "zorluk": "kolay"
   },
@@ -2811,7 +557,7 @@
       "hemşire"
     ],
     "zorluk": "kolay",
-    "id": 201
+    "id": 40
   },
   {
     "kategori": "epidemiyoloji",
@@ -2825,7 +571,7 @@
       "korunmak"
     ],
     "zorluk": "kolay",
-    "id": 202
+    "id": 41
   },
   {
     "kategori": "epidemiyoloji",
@@ -2839,7 +585,7 @@
       "temizlik"
     ],
     "zorluk": "kolay",
-    "id": 203
+    "id": 42
   },
   {
     "kategori": "epidemiyoloji",
@@ -2853,7 +599,7 @@
       "çıkmamak"
     ],
     "zorluk": "kolay",
-    "id": 204
+    "id": 43
   },
   {
     "kategori": "epidemiyoloji",
@@ -2867,7 +613,7 @@
       "mikrop"
     ],
     "zorluk": "kolay",
-    "id": 205
+    "id": 44
   },
   {
     "kategori": "epidemiyoloji",
@@ -2881,7 +627,7 @@
       "alın"
     ],
     "zorluk": "kolay",
-    "id": 206
+    "id": 45
   },
   {
     "kategori": "epidemiyoloji",
@@ -2895,7 +641,7 @@
       "negatif"
     ],
     "zorluk": "kolay",
-    "id": 207
+    "id": 46
   },
   {
     "kategori": "epidemiyoloji",
@@ -2909,7 +655,7 @@
       "metre"
     ],
     "zorluk": "kolay",
-    "id": 208
+    "id": 47
   },
   {
     "kategori": "epidemiyoloji",
@@ -2923,7 +669,7 @@
       "iyileşmek"
     ],
     "zorluk": "kolay",
-    "id": 209
+    "id": 48
   },
   {
     "kategori": "epidemiyoloji",
@@ -2937,7 +683,7 @@
       "mikrop"
     ],
     "zorluk": "kolay",
-    "id": 210
+    "id": 49
   },
   {
     "kategori": "epidemiyoloji",
@@ -2951,7 +697,7 @@
       "düzelmek"
     ],
     "zorluk": "kolay",
-    "id": 211
+    "id": 50
   },
   {
     "kategori": "epidemiyoloji",
@@ -2965,63 +711,7 @@
       "ağrı"
     ],
     "zorluk": "kolay",
-    "id": 212
-  },
-  {
-    "kategori": "epidemiyoloji",
-    "kelime": "filyasyon yapmak",
-    "aciklama": "bulaşıcı hastalıklı kişinin temas ettiği kimseleri sahada tespit etmek.",
-    "yasakli_kelimeler": [
-      "temaslı",
-      "takip",
-      "zincir",
-      "ekip",
-      "tarama"
-    ],
-    "zorluk": "orta",
-    "id": 213
-  },
-  {
-    "kategori": "epidemiyoloji",
-    "kelime": "sürveyans yürütmek",
-    "aciklama": "halk sağlığını tehdit eden hastalıkların verilerini sistematik ve izlemek.",
-    "yasakli_kelimeler": [
-      "izleme",
-      "veri",
-      "salgın",
-      "sağlık bakanlığı",
-      "raporlama"
-    ],
-    "zorluk": "orta",
-    "id": 214
-  },
-  {
-    "kategori": "epidemiyoloji",
-    "kelime": "temaslı taramak",
-    "aciklama": "enfekte bireyle yan yana gelmiş insanları bulup incelemek.",
-    "yasakli_kelimeler": [
-      "filyasyon",
-      "izolasyon",
-      "hasta",
-      "kişi",
-      "tespit"
-    ],
-    "zorluk": "orta",
-    "id": 215
-  },
-  {
-    "kategori": "epidemiyoloji",
-    "kelime": "vaka sayısını bildirmek",
-    "aciklama": "tespit edilen yeni hasta sayılarını resmi makamlara iletmek.",
-    "yasakli_kelimeler": [
-      "rapor",
-      "istatistik",
-      "günlük",
-      "tablo",
-      "hasta"
-    ],
-    "zorluk": "orta",
-    "id": 216
+    "id": 51
   },
   {
     "kategori": "epidemiyoloji",
@@ -3035,49 +725,7 @@
       "önleme"
     ],
     "zorluk": "orta",
-    "id": 217
-  },
-  {
-    "kategori": "epidemiyoloji",
-    "kelime": "izolasyon uygulamak",
-    "aciklama": "enfekte olmuş hastayı sağlıklı insanlardan fiziksel olarak ayırmak.",
-    "yasakli_kelimeler": [
-      "tecrit",
-      "ayrı",
-      "oda",
-      "hastane",
-      "bulaştırmamak"
-    ],
-    "zorluk": "orta",
-    "id": 218
-  },
-  {
-    "kategori": "epidemiyoloji",
-    "kelime": "sürü bağışıklığı kazanmak",
-    "aciklama": "toplumun büyük kısmının bağışıklık kazanmasıyla yayılımın durması.",
-    "yasakli_kelimeler": [
-      "toplum",
-      "aşı",
-      "antikor",
-      "yüzde",
-      "korunma"
-    ],
-    "zorluk": "orta",
-    "id": 219
-  },
-  {
-    "kategori": "epidemiyoloji",
-    "kelime": "epidemiyolojik harita çıkarmak",
-    "aciklama": "hastalık vakalarının coğrafi dağılımını harita üzerinde göstermek.",
-    "yasakli_kelimeler": [
-      "coğrafi",
-      "küme",
-      "bölge",
-      "risk",
-      "yayılım"
-    ],
-    "zorluk": "orta",
-    "id": 220
+    "id": 52
   },
   {
     "kategori": "epidemiyoloji",
@@ -3091,35 +739,7 @@
       "dezenfeksiyon"
     ],
     "zorluk": "orta",
-    "id": 221
-  },
-  {
-    "kategori": "epidemiyoloji",
-    "kelime": "damlacık yoluyla bulaşmak",
-    "aciklama": "ağız ve burundan çıkan mikro taneciklerle havadan yayılmak.",
-    "yasakli_kelimeler": [
-      "öksürük",
-      "hapşırık",
-      "hava",
-      "partikül",
-      "solunum"
-    ],
-    "zorluk": "orta",
-    "id": 222
-  },
-  {
-    "kategori": "epidemiyoloji",
-    "kelime": "kuluçka süresini beklemek",
-    "aciklama": "mikrobun vücuda girmesiyle ilk semptomun çıkması arasındaki süreyi gözlemek.",
-    "yasakli_kelimeler": [
-      "inkübasyon",
-      "gün",
-      "belirti",
-      "gelişme",
-      "virüs"
-    ],
-    "zorluk": "orta",
-    "id": 223
+    "id": 53
   },
   {
     "kategori": "epidemiyoloji",
@@ -3133,77 +753,7 @@
       "kapatmak"
     ],
     "zorluk": "orta",
-    "id": 224
-  },
-  {
-    "kategori": "epidemiyoloji",
-    "kelime": "ölüm oranını hesaplamak",
-    "aciklama": "hastalığa yakalananların kaçının yaşamını yitirdiğini oranlamak.",
-    "yasakli_kelimeler": [
-      "mortalite",
-      "vefat",
-      "vaka",
-      "yüzde",
-      "istatistik"
-    ],
-    "zorluk": "orta",
-    "id": 225
-  },
-  {
-    "kategori": "epidemiyoloji",
-    "kelime": "toplu tarama yapmak",
-    "aciklama": "büyük insan gruplarına aynı anda tarama testi uygulamak.",
-    "yasakli_kelimeler": [
-      "test",
-      "popülasyon",
-      "kitlesel",
-      "okul",
-      "işyeri"
-    ],
-    "zorluk": "orta",
-    "id": 226
-  },
-  {
-    "kategori": "epidemiyoloji",
-    "kelime": "kaynağı tespit etmek",
-    "aciklama": "salgının çıkış noktasını ve ilk bulaş yerini saptamak.",
-    "yasakli_kelimeler": [
-      "sıfır hasta",
-      "köken",
-      "başlangıç",
-      "odak",
-      "virüs"
-    ],
-    "zorluk": "orta",
-    "id": 227
-  },
-  {
-    "kategori": "epidemiyoloji",
-    "kelime": "sağlık protokolü yayımlamak",
-    "aciklama": "tedavi ve izolasyon süreçlerini standartlaştıran kılavuz çıkarmak.",
-    "yasakli_kelimeler": [
-      "rehber",
-      "yönerge",
-      "bakanlık",
-      "kurallar",
-      "hastane"
-    ],
-    "zorluk": "orta",
-    "id": 228
-  },
-  {
-    "kategori": "epidemiyoloji",
-    "kelime": "numune almak",
-    "aciklama": "laboratuvar incelemesi için hastadan biyolojik sürüntü toplamak.",
-    "yasakli_kelimeler": [
-      "örnek",
-      "çubuk",
-      "boğaz",
-      "burun",
-      "tüp"
-    ],
-    "zorluk": "orta",
-    "id": 229
+    "id": 54
   },
   {
     "kategori": "epidemiyoloji",
@@ -3217,217 +767,7 @@
       "öncelik"
     ],
     "zorluk": "orta",
-    "id": 230
-  },
-  {
-    "kategori": "epidemiyoloji",
-    "kelime": "antikor seviyesini ölçmek",
-    "aciklama": "kanda hastalığa karşı oluşmuş savunma proteinlerinin miktarını test etmek.",
-    "yasakli_kelimeler": [
-      "kan",
-      "bağışıklık",
-      "seroloji",
-      "titre",
-      "titer"
-    ],
-    "zorluk": "orta",
-    "id": 231
-  },
-  {
-    "kategori": "epidemiyoloji",
-    "kelime": "sağlık uyarısı yapmak",
-    "aciklama": "toplumu tehdit eden sağlık riskine karşı kamuoyunu bilgilendirmek.",
-    "yasakli_kelimeler": [
-      "anons",
-      "tehlike",
-      "bildiri",
-      "toplum",
-      "alarm"
-    ],
-    "zorluk": "orta",
-    "id": 232
-  },
-  {
-    "kategori": "epidemiyoloji",
-    "kelime": "klinik deneme yürütmek",
-    "aciklama": "yeni geliştirilen tıbbi ürünün insanlardaki etkinliğini ve güvenliğini test etmek.",
-    "yasakli_kelimeler": [
-      "faz",
-      "insan",
-      "ilaç",
-      "deney",
-      "aşı"
-    ],
-    "zorluk": "orta",
-    "id": 233
-  },
-  {
-    "kategori": "epidemiyoloji",
-    "kelime": "pik noktasını görmek",
-    "aciklama": "salgın eğrisinin en yüksek hasta sayısına ulaşıp gerilemeye başlaması.",
-    "yasakli_kelimeler": [
-      "zirve",
-      "tepe",
-      "düşüş",
-      "en yüksek",
-      "vaka"
-    ],
-    "zorluk": "orta",
-    "id": 234
-  },
-  {
-    "kategori": "epidemiyoloji",
-    "kelime": "aşı pasaportu sorgulamak",
-    "aciklama": "kişilerin aşılanma durumunu belge üzerinden doğrulamak.",
-    "yasakli_kelimeler": [
-      "belge",
-      "kod",
-      "giriş",
-      "kontrol",
-      "doz"
-    ],
-    "zorluk": "orta",
-    "id": 235
-  },
-  {
-    "kategori": "epidemiyoloji",
-    "kelime": "sağlık sistemini korumak",
-    "aciklama": "hastanelerin hasta yükü altında çökmesini engellemek.",
-    "yasakli_kelimeler": [
-      "kapasite",
-      "yoğun bakım",
-      "yatak",
-      "çöküş",
-      "hastane"
-    ],
-    "zorluk": "orta",
-    "id": 236
-  },
-  {
-    "kategori": "epidemiyoloji",
-    "kelime": "bulaşma katsayısını hesaplamak",
-    "aciklama": "enfekte bir kişinin hastalığı ortalama kaç kişiye bulaştırdığını hesaplamak.",
-    "yasakli_kelimeler": [
-      "r sıfır",
-      "bulaş oranı",
-      "sayı",
-      "salgın dinamiği",
-      "bulaştırma"
-    ],
-    "zorluk": "zor",
-    "id": 237
-  },
-  {
-    "kategori": "epidemiyoloji",
-    "kelime": "insidans hızını bulmak",
-    "aciklama": "belirli bir dönemde toplumda oluşan yeni vaka sıklığını hesaplamak.",
-    "yasakli_kelimeler": [
-      "yeni vaka",
-      "nüfus",
-      "zaman",
-      "oran",
-      "hastalık"
-    ],
-    "zorluk": "zor",
-    "id": 238
-  },
-  {
-    "kategori": "epidemiyoloji",
-    "kelime": "prevalansı saptamak",
-    "aciklama": "belirli anda toplumdaki toplam (eski ve yeni) hasta oranını belirlemek.",
-    "yasakli_kelimeler": [
-      "mevcut vaka",
-      "toplam",
-      "nokta",
-      "dönem",
-      "yaygınlık"
-    ],
-    "zorluk": "zor",
-    "id": 239
-  },
-  {
-    "kategori": "epidemiyoloji",
-    "kelime": "atak hızını belirlemek",
-    "aciklama": "sınırlı bir toplulukta etkene maruz kalanlar arasındaki hastalanma oranını bulmak.",
-    "yasakli_kelimeler": [
-      "besin zehirlenmesi",
-      "risk altındaki nüfus",
-      "yüzde",
-      "akut salgın",
-      "oran"
-    ],
-    "zorluk": "zor",
-    "id": 240
-  },
-  {
-    "kategori": "epidemiyoloji",
-    "kelime": "morbiditeyi değerlendirmek",
-    "aciklama": "toplumda hastalığın görülme ve yayılma sıklığını analiz etmek.",
-    "yasakli_kelimeler": [
-      "hastalanma",
-      "sağlık durumu",
-      "istatistik",
-      "nüfus",
-      "rapor"
-    ],
-    "zorluk": "zor",
-    "id": 241
-  },
-  {
-    "kategori": "epidemiyoloji",
-    "kelime": "kohort çalışması yürütmek",
-    "aciklama": "etkene maruz kalan ve kalmayan grupları zaman dönük izlemek.",
-    "yasakli_kelimeler": [
-      "izlem",
-      "maruziyet",
-      "prospektif",
-      "risk",
-      "grup"
-    ],
-    "zorluk": "zor",
-    "id": 242
-  },
-  {
-    "kategori": "epidemiyoloji",
-    "kelime": "vaka-kontrol araştırması yapmak",
-    "aciklama": "hastalar ile sağlıklı bireylerin geçmiş maruziyetlerini geriye dönük karşılaştırmak.",
-    "yasakli_kelimeler": [
-      "retrospektif",
-      "geçmiş",
-      "odds ratio",
-      "hasta",
-      "sağlıklı"
-    ],
-    "zorluk": "zor",
-    "id": 243
-  },
-  {
-    "kategori": "epidemiyoloji",
-    "kelime": "vaka kontrol eşlemek",
-    "aciklama": "belirli tek bir zaman kesitinde hastalık ve etken ilişkisini incelemek.",
-    "yasakli_kelimeler": [
-      "anlık",
-      "nokta prevalans",
-      "fotoğraf",
-      "anket",
-      "zaman"
-    ],
-    "zorluk": "zor",
-    "id": 244
-  },
-  {
-    "kategori": "epidemiyoloji",
-    "kelime": "endemik durumu saptamak",
-    "aciklama": "hastalığın belirli coğrafyada sürekli ve alışılmış düzeyde var olduğunu belirlemek.",
-    "yasakli_kelimeler": [
-      "bölgesel",
-      "sürekli",
-      "olağan",
-      "yerel",
-      "seviye"
-    ],
-    "zorluk": "zor",
-    "id": 245
+    "id": 55
   },
   {
     "kategori": "epidemiyoloji",
@@ -3441,62 +781,6 @@
       "salgın"
     ],
     "zorluk": "zor",
-    "id": 246
-  },
-  {
-    "kategori": "epidemiyoloji",
-    "kelime": "zoonotik geçişi kanıtlamak",
-    "aciklama": "patojenin hayvandan insana sıçradığını bilimsel olarak göstermek.",
-    "yasakli_kelimeler": [
-      "hayvandan insana",
-      "tür atlama",
-      "virüs",
-      "konak",
-      "enfeksiyon"
-    ],
-    "zorluk": "zor",
-    "id": 247
-  },
-  {
-    "kategori": "epidemiyoloji",
-    "kelime": "karıştırıcı faktörü düzeltmek",
-    "aciklama": "sonucu yanıltıcı şekilde etkileyen üçüncü değişkenin etkisini analizden arındırmak.",
-    "yasakli_kelimeler": [
-      "confounding",
-      "tabakalama",
-      "sapma",
-      "ilişki",
-      "regresyon"
-    ],
-    "zorluk": "zor",
-    "id": 248
-  },
-  {
-    "kategori": "epidemiyoloji",
-    "kelime": "göreceli riski hesaplamak",
-    "aciklama": "risk faktörüne maruz kalanların kalmayanlara göre hastalanma katını bulmak.",
-    "yasakli_kelimeler": [
-      "relative risk",
-      "oran",
-      "maruz",
-      "kohort",
-      "ihtimal"
-    ],
-    "zorluk": "zor",
-    "id": 249
-  },
-  {
-    "kategori": "epidemiyoloji",
-    "kelime": "epidemik eğri çizmek",
-    "aciklama": "vakaların başlangıç tarihlerine göre zamansal grafiğini çıkartıp salgın tipini saptamak.",
-    "yasakli_kelimeler": [
-      "zamana göre vaka",
-      "histogram",
-      "salgın tipi",
-      "ortak kaynak",
-      "grafik"
-    ],
-    "zorluk": "zor",
-    "id": 250
+    "id": 56
   }
 ]

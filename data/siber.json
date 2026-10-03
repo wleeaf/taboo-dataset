@@ -2,20 +2,6 @@
   {
     "id": 1,
     "kategori": "siber",
-    "kelime": "sıfırıncı gün açığı",
-    "aciklama": "geliştiricisi tarafından henüz keşfedilmemiş veya yamalanmamış güvenlik açığı",
-    "yasakli_kelimeler": [
-      "zafiyet",
-      "yama",
-      "güvenlik",
-      "istismar",
-      "yazılım"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 2,
-    "kategori": "siber",
     "kelime": "oltalama",
     "aciklama": "sahte e-posta veya sitelerle kullanıcı bilgilerini çalma yöntemi",
     "yasakli_kelimeler": [
@@ -28,7 +14,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 3,
+    "id": 2,
     "kategori": "siber",
     "kelime": "fidye yazılımı",
     "aciklama": "sistemdeki dosyaları şifreleyip açmak için para isteyen yazılım",
@@ -42,7 +28,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 4,
+    "id": 3,
     "kategori": "siber",
     "kelime": "truva atı",
     "aciklama": "masum görünüp arka planda sisteme zarar veren yazılım",
@@ -56,7 +42,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 5,
+    "id": 4,
     "kategori": "siber",
     "kelime": "solucan",
     "aciklama": "ağ üzerinden kendi kendine kopyalanarak yayılan zararlı yazılım",
@@ -70,7 +56,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 6,
+    "id": 5,
     "kategori": "siber",
     "kelime": "arka kapı",
     "aciklama": "kimlik doğrulamasını atlayarak sisteme erişim sağlayan gizli giriş",
@@ -84,7 +70,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 7,
+    "id": 6,
     "kategori": "siber",
     "kelime": "tuş kaydedici",
     "aciklama": "klavyede basılan tüm tuşları gizlice kaydeden casus yazılım",
@@ -98,7 +84,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 8,
+    "id": 7,
     "kategori": "siber",
     "kelime": "botnet",
     "aciklama": "uzaktan kontrol edilen zombi bilgisayarlardan oluşan saldırı ağı",
@@ -112,7 +98,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 9,
+    "id": 8,
     "kategori": "siber",
     "kelime": "ddos saldırısı",
     "aciklama": "sunucuyu yoğun trafikle çökerterek hizmeti durduran siber saldırı",
@@ -126,7 +112,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 10,
+    "id": 9,
     "kategori": "siber",
     "kelime": "kaba kuvvet saldırısı",
     "aciklama": "tüm olası şifre kombinasyonlarını sırayla deneyerek kırma yöntemi",
@@ -140,119 +126,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 11,
-    "kategori": "siber",
-    "kelime": "ortadaki adam saldırısı",
-    "aciklama": "iki taraf arasındaki iletişime gizlice sızıp verileri değiştirme",
-    "yasakli_kelimeler": [
-      "iletişim",
-      "araya girme",
-      "dinleme",
-      "paket",
-      "üçüncü kişi"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 12,
-    "kategori": "siber",
-    "kelime": "sql enjeksiyonu",
-    "aciklama": "veri tabanına zararlı kod ekleyerek bilgi sızdırma saldırısı",
-    "yasakli_kelimeler": [
-      "veri tabanı",
-      "sorgu",
-      "tablo",
-      "girdi",
-      "açık"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 13,
-    "kategori": "siber",
-    "kelime": "zararlı betik çalıştırma",
-    "aciklama": "web sayfasına zararlı istemci kodları enjekte etme saldırısı",
-    "yasakli_kelimeler": [
-      "tarayıcı açığı",
-      "çerez hırsızlığı",
-      "istemci saldırısı",
-      "kod enjeksiyonu",
-      "oturum çalma"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 14,
-    "kategori": "siber",
-    "kelime": "istek sahteciliği",
-    "aciklama": "kullanıcının oturumunu kullanarak habersiz istek ve işlem yaptırma",
-    "yasakli_kelimeler": [
-      "kullanıcı oturumu",
-      "onaysız işlem",
-      "yetkisiz emir",
-      "oturum açığı",
-      "tarayıcı kandırma"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 15,
-    "kategori": "siber",
-    "kelime": "arabellek taşması",
-    "aciklama": "bellek alanına kapasiteden fazla veri yazarak sistemi bozma",
-    "yasakli_kelimeler": [
-      "bellek",
-      "hafıza",
-      "taşma",
-      "kapasite",
-      "yığın"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 16,
-    "kategori": "siber",
-    "kelime": "ayrıcalık yükseltme",
-    "aciklama": "sistemdeki yetkileri istismar ederek yönetici düzeyine çıkarma eylemi",
-    "yasakli_kelimeler": [
-      "yetki",
-      "yönetici",
-      "erişim",
-      "istismar",
-      "root"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 17,
-    "kategori": "siber",
-    "kelime": "bal küpü",
-    "aciklama": "saldırganları tuzağa düşürüp izlemek için kurulan sahte sistem",
-    "yasakli_kelimeler": [
-      "tuzak",
-      "yem",
-      "izleme",
-      "hedef",
-      "saldırgan"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 18,
-    "kategori": "siber",
-    "kelime": "sızma testi",
-    "aciklama": "sistem açıklarını bulmak için izinli yapılan güvenlik testi",
-    "yasakli_kelimeler": [
-      "test",
-      "denetim",
-      "pentest",
-      "açık",
-      "güvenlik"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 19,
+    "id": 10,
     "kategori": "siber",
     "kelime": "güvenlik duvarı",
     "aciklama": "ağ trafiğini kurallara göre denetleyip süzen güvenlik sistemi",
@@ -266,7 +140,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 20,
+    "id": 11,
     "kategori": "siber",
     "kelime": "kimlik doğrulama",
     "aciklama": "kullanıcının iddia ettiği kişi olduğunu doğrulama süreci",
@@ -280,21 +154,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 21,
-    "kategori": "siber",
-    "kelime": "yetkilendirme",
-    "aciklama": "hesaba girişte şifreye ek ikinci doğrulama adımı",
-    "yasakli_kelimeler": [
-      "izin",
-      "erişim",
-      "rol",
-      "hak",
-      "kaynak"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 22,
+    "id": 12,
     "kategori": "siber",
     "kelime": "çok faktörlü doğrulama",
     "aciklama": "bilgileri sadece yetkili kişilerin okuyabileceği koda dönüştürme",
@@ -308,7 +168,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 23,
+    "id": 13,
     "kategori": "siber",
     "kelime": "dijital imza",
     "aciklama": "şifreleme ve şifre çözme için aynı anahtarı kullanma",
@@ -322,63 +182,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 24,
-    "kategori": "siber",
-    "kelime": "açık anahtarlı şifreleme",
-    "aciklama": "şifreleme ve çözmede genel ile özel anahtar ikilisi",
-    "yasakli_kelimeler": [
-      "anahtar",
-      "asimetrik",
-      "gizli",
-      "şifre",
-      "kriptografi"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 25,
-    "kategori": "siber",
-    "kelime": "simetrik şifreleme",
-    "aciklama": "verinin bütünlüğünü doğrulamak için üretilen sabit uzunluklu özet",
-    "yasakli_kelimeler": [
-      "ortak",
-      "aynı",
-      "anahtar",
-      "şifre",
-      "çözme"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 26,
-    "kategori": "siber",
-    "kelime": "karma fonksiyonu",
-    "aciklama": "dijital belgenin kaynağını ve değiştirilmediğini kanıtlayan elektronik imza",
-    "yasakli_kelimeler": [
-      "özet",
-      "tek yönlü",
-      "algoritma",
-      "matematik",
-      "dönüştürme"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 27,
-    "kategori": "siber",
-    "kelime": "tuzlama",
-    "aciklama": "web sitelerinin kimliğini doğrulayan ve trafiği şifreleyen sertifika",
-    "yasakli_kelimeler": [
-      "parola",
-      "ekleme",
-      "rastgele",
-      "özet",
-      "şifre"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 28,
+    "id": 14,
     "kategori": "siber",
     "kelime": "blokzincir",
     "aciklama": "güvenli web trafiği sağlayan şifreli iletişim protokolü",
@@ -392,63 +196,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 29,
-    "kategori": "siber",
-    "kelime": "sıfır güven",
-    "aciklama": "şifreli tünel oluşturarak güvenli internet bağlantısı sağlayan ağ",
-    "yasakli_kelimeler": [
-      "güven",
-      "doğrulama",
-      "ağ",
-      "model",
-      "iç tehdit"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 30,
-    "kategori": "siber",
-    "kelime": "derin paket inceleme",
-    "aciklama": "kullanıcının gizlice internet aktivitelerini izleyen casus yazılım türü",
-    "yasakli_kelimeler": [
-      "paket",
-      "içerik",
-      "analiz",
-      "başlık",
-      "veri"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 31,
-    "kategori": "siber",
-    "kelime": "tersine mühendislik",
-    "aciklama": "yazılımlardaki güvenlik açıklarını kötü amaçla kullanan kod parçası",
-    "yasakli_kelimeler": [
-      "kaynak kod",
-      "çözümleme",
-      "analiz",
-      "makine dili",
-      "derleme"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 32,
-    "kategori": "siber",
-    "kelime": "kök kullanıcı takımı",
-    "aciklama": "arka planda gizlice çalışarak sistem kontrolünü ele geçiren yazılım",
-    "yasakli_kelimeler": [
-      "gizleme",
-      "çekirdek",
-      "yönetici",
-      "zararlı",
-      "tespit"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 33,
+    "id": 15,
     "kategori": "siber",
     "kelime": "casus yazılım",
     "aciklama": "bellekte çalışıp dosya sisteminde iz bırakmayan zararlı yazılım",
@@ -462,161 +210,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 34,
-    "kategori": "siber",
-    "kelime": "zafiyet tarayıcı",
-    "aciklama": "kullanıcıların güvenini suistimal ederek bilgi sızdırma sanatı",
-    "yasakli_kelimeler": [
-      "tarama",
-      "açık",
-      "tespit",
-      "otomatik",
-      "araç"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 35,
-    "kategori": "siber",
-    "kelime": "bayrak kapmaca",
-    "aciklama": "üst düzey hedeflere yönelik yapılan özel hedefli oltalama",
-    "yasakli_kelimeler": [
-      "yarışma",
-      "bayrak",
-      "puan",
-      "etkinlik",
-      "güvenlik"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 36,
-    "kategori": "siber",
-    "kelime": "kırmızı takım",
-    "aciklama": "yem olarak bırakılan virüslü usb ile sisteme sızma",
-    "yasakli_kelimeler": [
-      "saldırı",
-      "ekip",
-      "test",
-      "ofansif",
-      "taklit"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 37,
-    "kategori": "siber",
-    "kelime": "mavi takım",
-    "aciklama": "kart kopyalama cihazıyla manyetik şerit bilgilerini gizlice çalma",
-    "yasakli_kelimeler": [
-      "savunma",
-      "izleme",
-      "defansif",
-      "ekip",
-      "koruma"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 38,
-    "kategori": "siber",
-    "kelime": "mor takım",
-    "aciklama": "ekrandaki şifre veya bilgileri arkadan gizlice gözetleme",
-    "yasakli_kelimeler": [
-      "iş birliği",
-      "koordinasyon",
-      "paylaşım",
-      "karma",
-      "savunma"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 39,
-    "kategori": "siber",
-    "kelime": "güvenlik operasyon merkezi",
-    "aciklama": "şirket çöplerini karıştırarak hassas doküman ve şifre arama",
-    "yasakli_kelimeler": [
-      "merkez",
-      "izleme",
-      "olay",
-      "analist",
-      "operasyon"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 40,
-    "kategori": "siber",
-    "kelime": "güvenlik olayı yönetimi",
-    "aciklama": "yüksek yetkili yöneticilere yönelik özel hedefli oltalama saldırısı",
-    "yasakli_kelimeler": [
-      "günlük kaydı",
-      "olay tespiti",
-      "merkezi izleme",
-      "tehdit analizi",
-      "korelasyon"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 41,
-    "kategori": "siber",
-    "kelime": "güvenlik otomasyonu",
-    "aciklama": "telefonla sesli arama yaparak yapılan sahte oltalama dolandırıcılığı",
-    "yasakli_kelimeler": [
-      "olay müdahalesi",
-      "otomatik yanıt",
-      "iş akışı",
-      "tehdit giderme",
-      "süreç yönetimi"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 42,
-    "kategori": "siber",
-    "kelime": "uç nokta koruması",
-    "aciklama": "sms mesajı yoluyla zararlı link göndererek yapılan dolandırıcılık",
-    "yasakli_kelimeler": [
-      "cihaz",
-      "izleme",
-      "tehdit",
-      "antivirüs",
-      "tespit"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 43,
-    "kategori": "siber",
-    "kelime": "veri sızıntısı önleme",
-    "aciklama": "qr kod içine zararlı bağlantı gizleyerek yapılan dolandırıcılık",
-    "yasakli_kelimeler": [
-      "kaçırma",
-      "sızdırma",
-      "hassas",
-      "belge",
-      "engelleme"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 44,
-    "kategori": "siber",
-    "kelime": "hava boşluğu",
-    "aciklama": "tarayıcıda girilen adresin sahte siteye yönlendirilmesi saldırısı",
-    "yasakli_kelimeler": [
-      "fiziksel",
-      "izolasyon",
-      "bağlantı",
-      "yalıtım",
-      "çevrimdışı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 45,
+    "id": 16,
     "kategori": "siber",
     "kelime": "sosyal mühendislik",
     "aciklama": "ip adresini taklit ederek kendini başka cihaz gibi gösterme",
@@ -630,35 +224,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 46,
-    "kategori": "siber",
-    "kelime": "hedefli oltalama",
-    "aciklama": "mac adresini taklit ederek ağ filtrelerini ve kontrollerini atlatma",
-    "yasakli_kelimeler": [
-      "özel",
-      "hedef",
-      "kişi",
-      "e-posta",
-      "araştırma"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 47,
-    "kategori": "siber",
-    "kelime": "su birikintisi saldırısı",
-    "aciklama": "arp tablosunu zehirleyerek yerel ağ trafiğini araya alma",
-    "yasakli_kelimeler": [
-      "web sitesi",
-      "ziyaret",
-      "tuzak",
-      "zararlı",
-      "ortam"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 48,
+    "id": 17,
     "kategori": "siber",
     "kelime": "yemleme",
     "aciklama": "dns sorgularını saptırarak kullanıcıları sahte sitelere yönlendirme saldırısı",
@@ -672,189 +238,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 49,
-    "kategori": "siber",
-    "kelime": "omuzdan izleme",
-    "aciklama": "güvenlik açığını kapatmak için yayınlanan resmi yazılım yaması",
-    "yasakli_kelimeler": [
-      "fiziksel",
-      "gözetleme",
-      "arkadan",
-      "ekran",
-      "şifre"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 50,
-    "kategori": "siber",
-    "kelime": "parola püskürtme",
-    "aciklama": "sistemdeki güvenlik açıklarını tespit etmek için yapılan tarama",
-    "yasakli_kelimeler": [
-      "hesap",
-      "kilitleme",
-      "deneme",
-      "yaygın",
-      "kullanıcı adı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 51,
-    "kategori": "siber",
-    "kelime": "sözlük saldırısı",
-    "aciklama": "ağ trafiğini izleyip şüpheli etkinlikleri tespit eden sistem",
-    "yasakli_kelimeler": [
-      "kelime",
-      "liste",
-      "şifre",
-      "deneme",
-      "kırma"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 52,
-    "kategori": "siber",
-    "kelime": "gökkuşağı tablosu",
-    "aciklama": "zararlı ağ trafiğini tespit ettiği anda otomatik engelleyen sistem",
-    "yasakli_kelimeler": [
-      "özet",
-      "tablo",
-      "önceden",
-      "hesaplama",
-      "kırma"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 53,
-    "kategori": "siber",
-    "kelime": "ortadaki tarayıcı",
-    "aciklama": "uç noktalardaki güvenlik tehditlerini izleyip engelleyen güvenlik yazılımı",
-    "yasakli_kelimeler": [
-      "tarayıcı",
-      "zararlı",
-      "banka",
-      "işlem",
-      "araya girme"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 54,
-    "kategori": "siber",
-    "kelime": "önbellek zehirlenmesi",
-    "aciklama": "güvenlik loglarını toplayıp analiz eden merkezi izleme yazılımı",
-    "yasakli_kelimeler": [
-      "sahte yönlendirme",
-      "isim çözümleme",
-      "tablo tahrifatı",
-      "sahte adres",
-      "sunucu manipülasyonu"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 55,
-    "kategori": "siber",
-    "kelime": "adres çözümleme zehirlemesi",
-    "aciklama": "güvenlik operasyonlarını otomatikleştiren ve müdahaleyi hızlandıran platform",
-    "yasakli_kelimeler": [
-      "yerel ağ tuzağı",
-      "fiziksel adres eşleme",
-      "araya girme",
-      "ağ dinleme",
-      "sahte paket yayma"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 56,
-    "kategori": "siber",
-    "kelime": "kaynak adres sahteciliği",
-    "aciklama": "hassas kurumsal verilerin dışarı sızmasını engelleyen güvenlik sistemi",
-    "yasakli_kelimeler": [
-      "sahte gönderici",
-      "paket başlığı",
-      "kimlik gizleme",
-      "ağ paketi",
-      "sahte bilgi"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 57,
-    "kategori": "siber",
-    "kelime": "paket koklama",
-    "aciklama": "şüpheli dosyaları güvenli izole ortamda çalıştırıp analiz etme",
-    "yasakli_kelimeler": [
-      "ağ",
-      "trafik",
-      "dinleme",
-      "yakalama",
-      "wireshark"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 58,
-    "kategori": "siber",
-    "kelime": "oturum çalma",
-    "aciklama": "hiçbir kullanıcı veya cihaza varsayılan olarak güvenmeme mimarisi",
-    "yasakli_kelimeler": [
-      "çerez",
-      "kimlik",
-      "oturum",
-      "yetki",
-      "erişim"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 59,
-    "kategori": "siber",
-    "kelime": "çerez zehirlenmesi",
-    "aciklama": "kullanıcılara sadece işleri için gereken minimum yetkileri verme",
-    "yasakli_kelimeler": [
-      "çerez",
-      "tarayıcı",
-      "değiştirme",
-      "oturum",
-      "veri"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 60,
-    "kategori": "siber",
-    "kelime": "etki alanı önleme",
-    "aciklama": "güvenlik olaylarının 7/24 izlendiği ve yönetildiği operasyon merkezi",
-    "yasakli_kelimeler": [
-      "sansür",
-      "gizleme",
-      "trafik",
-      "hedef",
-      "cdn"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 61,
-    "kategori": "siber",
-    "kelime": "tünelleme",
-    "aciklama": "siber tehditlere karşı savunma ve koruma yapan ekip",
-    "yasakli_kelimeler": [
-      "protokol",
-      "kapsülleme",
-      "paket",
-      "veri",
-      "geçiş"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 62,
+    "id": 18,
     "kategori": "siber",
     "kelime": "sanal özel ağ",
     "aciklama": "sistemlere sızarak güvenlik açıklarını test eden saldırı ekibi",
@@ -868,539 +252,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 63,
-    "kategori": "siber",
-    "kelime": "kum havuzu",
-    "aciklama": "kırmızı ve mavi ekipleri koordine eden güvenlik ekibi",
-    "yasakli_kelimeler": [
-      "izolasyon",
-      "analiz",
-      "şüpheli",
-      "test",
-      "güvenli"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 64,
-    "kategori": "siber",
-    "kelime": "istismar kodu",
-    "aciklama": "siber suç delillerini inceleyen ve analiz eden adli bilişim",
-    "yasakli_kelimeler": [
-      "zafiyet",
-      "kod",
-      "sızma",
-      "açık",
-      "çalıştırma"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 65,
-    "kategori": "siber",
-    "kelime": "faydalı yük",
-    "aciklama": "zararlı yazılımların çalışma mantığını çözmek için yapılan analiz",
-    "yasakli_kelimeler": [
-      "zararlı",
-      "çalıştırma",
-      "eylem",
-      "teslim",
-      "kod"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 66,
-    "kategori": "siber",
-    "kelime": "komuta kontrol sunucusu",
-    "aciklama": "yazılımı kaynak koduna dönüştürerek mantığını çözme işlemi",
-    "yasakli_kelimeler": [
-      "botnet",
-      "zombi",
-      "uzaktan yönetim",
-      "saldırgan",
-      "talimat"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 67,
-    "kategori": "siber",
-    "kelime": "yanal hareket",
-    "aciklama": "bilinen zararlı yazılımları ve saldırı izlerini gösteren göstergeler",
-    "yasakli_kelimeler": [
-      "içeride",
-      "yayılma",
-      "sunucu",
-      "yatay",
-      "ağ"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 68,
-    "kategori": "siber",
-    "kelime": "kalıcılık",
-    "aciklama": "siber saldırganların taktik ve tekniklerini sınıflandıran bilgi tabanı",
-    "yasakli_kelimeler": [
-      "yeniden başlatma",
-      "kayıt defteri",
-      "süreklilik",
-      "yerleşme",
-      "çalışma"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 69,
-    "kategori": "siber",
-    "kelime": "veri sızdırma",
-    "aciklama": "siber saldırının keşiften hedefe kadar olan aşamalarını tanımlama",
-    "yasakli_kelimeler": [
-      "aktarma",
-      "dışarı",
-      "çalma",
-      "dosya",
-      "gizli"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 70,
-    "kategori": "siber",
-    "kelime": "adli bilişim",
-    "aciklama": "devlet destekli ve uzun süreli gizli siber tehdit grubu",
-    "yasakli_kelimeler": [
-      "kanıt",
-      "suç",
-      "hukuk",
-      "inceleme",
-      "dijital"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 71,
-    "kategori": "siber",
-    "kelime": "bellek dökümü",
-    "aciklama": "yazılım geliştirme aşamasına güvenliği baştan entegre etme yaklaşımı",
-    "yasakli_kelimeler": [
-      "ram",
-      "geçici",
-      "kopya",
-      "adli",
-      "çözümleme"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 72,
-    "kategori": "siber",
-    "kelime": "trafik dökümü analizi",
-    "aciklama": "kaynak kodu güvenlik açıkları için statik olarak analiz etme",
-    "yasakli_kelimeler": [
-      "paket",
-      "yakalama",
-      "protokol",
-      "wireshark",
-      "inceleme"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 73,
-    "kategori": "siber",
-    "kelime": "sertifika yetkilisi",
-    "aciklama": "çalışan uygulamayı güvenlik zafiyetleri için dinamik test etme",
-    "yasakli_kelimeler": [
-      "güvenilir",
-      "imza",
-      "dijital",
-      "onay",
-      "kuruluş"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 74,
-    "kategori": "siber",
-    "kelime": "güvenli bağlantı düşürme",
-    "aciklama": "yazılıma rastgele bozuk girdiler vererek açıkları tespit etme",
-    "yasakli_kelimeler": [
-      "şifresiz bağlantı",
-      "şifre kırma",
-      "aradaki adam",
-      "bağlantı geriletme",
-      "düz metin aktarımı"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 75,
-    "kategori": "siber",
-    "kelime": "güvenli el sıkışma",
-    "aciklama": "sunucu ve cihazları güvenlik standartlarına göre sıkılaştırma işlemi",
-    "yasakli_kelimeler": [
-      "şifreli iletişim",
-      "sertifika kontrolü",
-      "oturum anahtarı",
-      "bağlantı başlangıcı",
-      "güvenlik uzlaşması"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 76,
-    "kategori": "siber",
-    "kelime": "örtük kanal",
-    "aciklama": "kurumların internete açık tüm dijital varlık ve riskleri",
-    "yasakli_kelimeler": [
-      "gizli",
-      "iletişim",
-      "kanal",
-      "veri",
-      "kaçırma"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 77,
-    "kategori": "siber",
-    "kelime": "steganografi",
-    "aciklama": "açık kaynak kodlu istihbarat ve bilgi toplama yöntemi",
-    "yasakli_kelimeler": [
-      "gizleme",
-      "resim",
-      "piksel",
-      "mesaj",
-      "taşıyıcı"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 78,
-    "kategori": "siber",
-    "kelime": "homomorfik şifreleme",
-    "aciklama": "siber tehditler hakkında toplanan ve paylaşılan istihbarat verisi",
-    "yasakli_kelimeler": [
-      "hesaplama",
-      "şifreli",
-      "gizlilik",
-      "işlem",
-      "kriptografi"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 79,
-    "kategori": "siber",
-    "kelime": "kuantum sonrası kriptografi",
-    "aciklama": "güvenlik açığı bildirenlere para ödülü veren resmi program",
-    "yasakli_kelimeler": [
-      "kuantum",
-      "kriptografi",
-      "dayanıklı",
-      "algoritma",
-      "şifre"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 80,
-    "kategori": "siber",
-    "kelime": "erişim kontrol listesi",
-    "aciklama": "güvenlik açıklarına verilen resmi uluslararası tanımlayıcı numara",
-    "yasakli_kelimeler": [
-      "izin",
-      "kural",
-      "liste",
-      "hak",
-      "erişim"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 81,
-    "kategori": "siber",
-    "kelime": "rol tabanlı erişim",
-    "aciklama": "güvenlik açığının ciddiyetini derecelendiren standart puanlama sistemi",
-    "yasakli_kelimeler": [
-      "yetki",
-      "pozisyon",
-      "erişim",
-      "izinler",
-      "kullanıcı unvanı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 82,
-    "kategori": "siber",
-    "kelime": "en düşük yetki",
-    "aciklama": "yazılımın içerdiği tüm bileşen ve kütüphanelerin listesi",
-    "yasakli_kelimeler": [
-      "asgari yetki",
-      "kısıtlama",
-      "güvenlik prensibi",
-      "haklar",
-      "erişim"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 83,
-    "kategori": "siber",
-    "kelime": "saldırı yüzeyi",
-    "aciklama": "güvenilir yazılım sağlayıcıları üzerinden sisteme sızma saldırısı",
-    "yasakli_kelimeler": [
-      "açık",
-      "alan",
-      "hedef",
-      "zafiyet",
-      "risk"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 84,
-    "kategori": "siber",
-    "kelime": "tehdit avcılığı",
-    "aciklama": "kullanıcı şifrelerini güvenli şekilde saklayan ve üreten yazılım",
-    "yasakli_kelimeler": [
-      "proaktif",
-      "arama",
-      "analist",
-      "saldırgan",
-      "tespit"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 85,
-    "kategori": "siber",
-    "kelime": "siber tehdit istihbaratı",
-    "aciklama": "kullanıcının tek şifreyle birden fazla sisteme erişmesi",
-    "yasakli_kelimeler": [
-      "bilgi",
-      "analiz",
-      "istihbarat",
-      "aktör",
-      "tehdit"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 86,
-    "kategori": "siber",
-    "kelime": "gelişmiş sürekli tehdit",
-    "aciklama": "ağdaki kullanıcı ve cihazları yöneten merkezi dizin servisi",
-    "yasakli_kelimeler": [
-      "devlet",
-      "organize",
-      "casusluk",
-      "uzun süreli",
-      "grup"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 87,
-    "kategori": "siber",
-    "kelime": "taviz göstergesi",
-    "aciklama": "windows sistemlerinde kullanılan standart biletli kimlik doğrulama protokolü",
-    "yasakli_kelimeler": [
-      "ipucu",
-      "iz",
-      "özet",
-      "ihlal",
-      "kanıt"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 88,
-    "kategori": "siber",
-    "kelime": "saldırı teknikleri",
-    "aciklama": "web uygulamalarında kimlik doğrulama için kullanılan yetkilendirme standardı",
-    "yasakli_kelimeler": [
-      "saldırgan",
-      "yöntem",
-      "taktik",
-      "davranış örüntüsü",
-      "siber istihbarat"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 89,
-    "kategori": "siber",
-    "kelime": "siber ölüm zinciri",
-    "aciklama": "kullanıcı kimlik bilgilerini aktaran güvenli xml tabanlı protokol",
-    "yasakli_kelimeler": [
-      "aşama",
-      "model",
-      "keşif",
-      "zincir",
-      "süreç"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 90,
-    "kategori": "siber",
-    "kelime": "mitre att&ck",
-    "aciklama": "istemci ve sunucu arasında güvenli veri taşıyan token formatı",
-    "yasakli_kelimeler": [
-      "matris",
-      "teknik",
-      "taktik",
-      "bilgi bankası",
-      "sınıflandırma"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 91,
-    "kategori": "siber",
-    "kelime": "port taraması",
-    "aciklama": "kurum verilerini korumak için uygulanan resmi güvenlik politikası",
-    "yasakli_kelimeler": [
-      "kapı",
-      "nmap",
-      "açık",
-      "servis",
-      "tespit"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 92,
-    "kategori": "siber",
-    "kelime": "güvenlik atlatma",
-    "aciklama": "çalışanları siber risklere ve oltalamalara karşı bilinçlendirme eğitimi",
-    "yasakli_kelimeler": [
-      "aşma",
-      "atlatma",
-      "tespit",
-      "engel",
-      "kural"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 93,
-    "kategori": "siber",
-    "kelime": "bulanık test",
-    "aciklama": "olası bir veri kaybında sistemi kurtarmak için yedekleme",
-    "yasakli_kelimeler": [
-      "rastgele",
-      "girdi",
-      "çökme",
-      "test",
-      "zafiyet"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 94,
-    "kategori": "siber",
-    "kelime": "zombi bilgisayar",
-    "aciklama": "siber felaket sonrası sistemleri yeniden çalışır kılma planı",
-    "yasakli_kelimeler": [
-      "köle",
-      "habersiz",
-      "cihaz",
-      "saldırı",
-      "ele geçirme"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 95,
-    "kategori": "siber",
-    "kelime": "kod karartma",
-    "aciklama": "bir siber saldırı veya kesinti anında işi sürdürme",
-    "yasakli_kelimeler": [
-      "anlaşılmaz",
-      "gizleme",
-      "tersine mühendislik",
-      "kod",
-      "koruma"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 96,
-    "kategori": "siber",
-    "kelime": "bellek güvenliği",
-    "aciklama": "siber güvenlik standartlarını belirleyen uluslararası bilgi güvenliği standardı",
-    "yasakli_kelimeler": [
-      "hafıza",
-      "işaretçi",
-      "taşma",
-      "koruma",
-      "dil"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 97,
-    "kategori": "siber",
-    "kelime": "tedarik zinciri saldırısı",
-    "aciklama": "avrupa birliği vatandaşlarının kişisel verilerini koruyan resmi tüzük",
-    "yasakli_kelimeler": [
-      "üçüncü taraf",
-      "sağlayıcı",
-      "yazılım",
-      "güvenilir",
-      "ortak"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 98,
-    "kategori": "siber",
-    "kelime": "tık tuzağı",
-    "aciklama": "türkiye'de kişisel verilerin korunmasını sağlayan yasal kanun",
-    "yasakli_kelimeler": [
-      "tıklama",
-      "gizli",
-      "katman",
-      "aldatmaca",
-      "buton"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 99,
-    "kategori": "siber",
-    "kelime": "şifre çözücü",
-    "aciklama": "kredi kartı verilerini korumak için zorunlu güvenlik standardı",
-    "yasakli_kelimeler": [
-      "kurtarma",
-      "çözme",
-      "fidye",
-      "şifre",
-      "anahtar"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 100,
-    "kategori": "siber",
-    "kelime": "kötü amaçlı yazılım",
-    "aciklama": "sağlık bilgilerinin gizliliğini ve güvenliğini sağlayan yasal düzenleme",
-    "yasakli_kelimeler": [
-      "virüs",
-      "zararlı",
-      "yazılım",
-      "tehdit",
-      "kod"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 101,
+    "id": 19,
     "kategori": "siber",
     "kelime": "bilgisayar virüsü",
     "aciklama": "donanım düzeyinde şifreleme anahtarları saklayan güvenli güvenlik çipi",
@@ -1414,7 +266,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 102,
+    "id": 20,
     "kategori": "siber",
     "kelime": "reklam yazılımı",
     "aciklama": "bilgisayar açılışında sadece onaylı yazılımların çalışmasını sağlama",
@@ -1428,7 +280,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 103,
+    "id": 21,
     "kategori": "siber",
     "kelime": "fidye virüsü",
     "aciklama": "işletim sisteminin ve sürücülerin altına gizlenen zararlı yazılım",
@@ -1442,7 +294,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 104,
+    "id": 22,
     "kategori": "siber",
     "kelime": "şantaj yazılımı",
     "aciklama": "anakart yazılımını hedef alan kalıcı ve tehlikeli virüs",
@@ -1456,35 +308,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 105,
-    "kategori": "siber",
-    "kelime": "makro virüsü",
-    "aciklama": "veri sızıntısını önlemek için dış dünyadan tamamen izole ağ",
-    "yasakli_kelimeler": [
-      "ofis virüsü",
-      "word excel makrosu",
-      "belgeye gömülü",
-      "vba kodu",
-      "belge açma virüsü"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 106,
-    "kategori": "siber",
-    "kelime": "bellek kazıma",
-    "aciklama": "şifrelenmiş veriyi anahtar olmadan kırma ve analiz bilimi",
-    "yasakli_kelimeler": [
-      "ram kazıma",
-      "pos zararlısı",
-      "kredi kartı çalma",
-      "ram belleği okuma",
-      "memory scraper"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 107,
+    "id": 23,
     "kategori": "siber",
     "kelime": "kimlik hırsızlığı",
     "aciklama": "kriptografik fonksiyonlarda rastgeleliği artırmak için eklenen rastgele veri",
@@ -1498,7 +322,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 108,
+    "id": 24,
     "kategori": "siber",
     "kelime": "veri sızıntısı",
     "aciklama": "şifreleme algoritmalarının güvenliğini sağlayan rastgele başlangıç vektörü",
@@ -1512,7 +336,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 109,
+    "id": 25,
     "kategori": "siber",
     "kelime": "veri ihlali",
     "aciklama": "iki tarafın ortak gizli anahtar üretmesini sağlayan protokol",
@@ -1526,35 +350,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 110,
-    "kategori": "siber",
-    "kelime": "hizmet engelleme",
-    "aciklama": "kriptografide yüksek güvenlik sağlayan eliptik eğri şifreleme",
-    "yasakli_kelimeler": [
-      "dos atağı",
-      "sunucu çökertme",
-      "siteyi kilitleme",
-      "aşırı istek",
-      "hizmet dışı bırakma"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 111,
-    "kategori": "siber",
-    "kelime": "kaba kuvvet",
-    "aciklama": "kuantum bilgisayarların kıramayacağı yeni nesil şifreleme algoritmaları",
-    "yasakli_kelimeler": [
-      "brute force",
-      "tüm kombinasyonları deneme",
-      "şifre deneme",
-      "deneme yanılma",
-      "parola çözme"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 112,
+    "id": 26,
     "kategori": "siber",
     "kelime": "parola kırma",
     "aciklama": "şifrelenmiş veri üzerinde şifreyi çözmeden hesaplama yapabilme teknolojisi",
@@ -1568,7 +364,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 113,
+    "id": 27,
     "kategori": "siber",
     "kelime": "parola yöneticisi",
     "aciklama": "gizli mesajı bir resim veya dosyanın içine gizleme",
@@ -1582,7 +378,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 114,
+    "id": 28,
     "kategori": "siber",
     "kelime": "sahte e-posta",
     "aciklama": "veri tabanındaki hassas bilgileri anlamsız token değerleriyle değiştirme",
@@ -1596,7 +392,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 115,
+    "id": 29,
     "kategori": "siber",
     "kelime": "sahte site",
     "aciklama": "hassas bilgilerin sadece bir kısmını görünür kılma tekniği",
@@ -1610,35 +406,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 116,
-    "kategori": "siber",
-    "kelime": "klavye dinleme",
-    "aciklama": "şifre karmaşıklığını artırarak kırılmasını zorlaştıran hashing algoritması",
-    "yasakli_kelimeler": [
-      "keylogger",
-      "tuş kaydetme",
-      "basılan tuşlar",
-      "gizli takip",
-      "parola çalma"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 117,
-    "kategori": "siber",
-    "kelime": "fare takibi",
-    "aciklama": "şifreleri kırmak için önceden hesaplanmış hash tabloları listesi",
-    "yasakli_kelimeler": [
-      "tıklama kaydı",
-      "imleç takibi",
-      "mouse izleme",
-      "ekran koordinatı",
-      "sanal klavye çözme"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 118,
+    "id": 30,
     "kategori": "siber",
     "kelime": "ekran casusu",
     "aciklama": "daha önce ele geçirilmiş şifre listeleriyle hesapları deneme",
@@ -1652,7 +420,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 119,
+    "id": 31,
     "kategori": "siber",
     "kelime": "açık port",
     "aciklama": "aynı yaygın şifreyi binlerce farklı kullanıcı adında deneme",
@@ -1666,7 +434,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 120,
+    "id": 32,
     "kategori": "siber",
     "kelime": "zafiyet",
     "aciklama": "şifreyi kırmadan hash değerini kullanarak oturum açma tekniği",
@@ -1680,7 +448,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 121,
+    "id": 33,
     "kategori": "siber",
     "kelime": "yerel ağ",
     "aciklama": "kerberos biletini çalarak veya sahte biletle yetki alma",
@@ -1694,21 +462,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 122,
-    "kategori": "siber",
-    "kelime": "geniş ağ",
-    "aciklama": "kerberos şifreli servis biletlerini ele geçirip çevrimdışı kırma",
-    "yasakli_kelimeler": [
-      "wan",
-      "ülkeler arası ağ",
-      "geniş alan ağı",
-      "küresel ağ",
-      "internet omurgası"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 123,
+    "id": 34,
     "kategori": "siber",
     "kelime": "sanal ağ",
     "aciklama": "yüksek yetkili kerberos biletini taklit ederek tam erişim sağlama",
@@ -1722,35 +476,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 124,
-    "kategori": "siber",
-    "kelime": "ara sunucu",
-    "aciklama": "bellekten windows parola hashlerini ve şifrelerini çalan araç",
-    "yasakli_kelimeler": [
-      "proxy sunucu",
-      "vekil sunucu",
-      "ip gizleme",
-      "web aracısı",
-      "aracı bilgisayar"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 125,
-    "kategori": "siber",
-    "kelime": "vekil sunucu",
-    "aciklama": "windows sistemlerinde kullanılan yerel güvenlik otoritesi alt sistemi servisi",
-    "yasakli_kelimeler": [
-      "proxy",
-      "ara sunucu",
-      "trafiği yönlendirme",
-      "ip saklama",
-      "güvenlik filtresi"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 126,
+    "id": 35,
     "kategori": "siber",
     "kelime": "yönlendirici",
     "aciklama": "ağ trafiğini paket paket kaydedip analiz eden açık kaynaklı araç",
@@ -1764,63 +490,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 127,
-    "kategori": "siber",
-    "kelime": "anahtar cihazı",
-    "aciklama": "ağdaki açık portları ve çalışan servisleri tarayan araç",
-    "yasakli_kelimeler": [
-      "switch",
-      "ağ anahtarı",
-      "ethernet çoklayıcı",
-      "mac adresi dağıtıcı",
-      "ağ köprüsü"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 128,
-    "kategori": "siber",
-    "kelime": "ağ geçidi",
-    "aciklama": "siber saldırı ve sızma testlerinde kullanılan istismar çatısı",
-    "yasakli_kelimeler": [
-      "gateway",
-      "ağ kapısı",
-      "varsayılan ağ geçidi",
-      "iki ağ arası sınır",
-      "giriş noktası"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 129,
-    "kategori": "siber",
-    "kelime": "ağ izleme",
-    "aciklama": "web uygulamalarındaki açıkları tespit etmek için kullanılan proxy aracı",
-    "yasakli_kelimeler": [
-      "network monitoring",
-      "ağ gözetimi",
-      "trafik izleme",
-      "anomali tespiti",
-      "bant genişliği takibi"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 130,
-    "kategori": "siber",
-    "kelime": "paket analizi",
-    "aciklama": "sql enjeksiyonu açıklarını otomatik tespit edip sömüren araç",
-    "yasakli_kelimeler": [
-      "packet analysis",
-      "wireshark incelemesi",
-      "paket açma",
-      "ağ trafiği çözme",
-      "protokol inceleme"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 131,
+    "id": 36,
     "kategori": "siber",
     "kelime": "ağ trafiği",
     "aciklama": "şifre karmalarını kırmak için ekran kartı gücünü kullanan araç",
@@ -1834,7 +504,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 132,
+    "id": 37,
     "kategori": "siber",
     "kelime": "bant genişliği",
     "aciklama": "şifre kırmak için kullanılan popüler açık kaynaklı araç",
@@ -1848,7 +518,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 133,
+    "id": 38,
     "kategori": "siber",
     "kelime": "alan adı",
     "aciklama": "sızma testleri ve siber güvenlik için özel linux dağıtımı",
@@ -1862,7 +532,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 134,
+    "id": 39,
     "kategori": "siber",
     "kelime": "ip adresi",
     "aciklama": "kullanıcı eylemlerini ve sistem olaylarını kronolojik kaydeden günlük",
@@ -1876,7 +546,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 135,
+    "id": 40,
     "kategori": "siber",
     "kelime": "mac adresi",
     "aciklama": "sistem loglarının kaydedilip merkezi sunucuya iletildiği protokol",
@@ -1890,7 +560,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 136,
+    "id": 41,
     "kategori": "siber",
     "kelime": "dinamik ip",
     "aciklama": "güvenlik loglarını aramak ve analiz etmek için kullanılan platform",
@@ -1904,7 +574,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 137,
+    "id": 42,
     "kategori": "siber",
     "kelime": "statik ip",
     "aciklama": "açık kaynaklı log toplama ve görselleştirme yazılım yığını",
@@ -1918,7 +588,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 138,
+    "id": 43,
     "kategori": "siber",
     "kelime": "şifreli bağlantı",
     "aciklama": "birden fazla güvenlik olayını ilişkilendirerek saldırıyı tespit etme",
@@ -1932,7 +602,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 139,
+    "id": 44,
     "kategori": "siber",
     "kelime": "güvenlik sertifikası",
     "aciklama": "sistemde güvenlik açığı olmadığı halde verilen hatalı alarm",
@@ -1946,21 +616,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 140,
-    "kategori": "siber",
-    "kelime": "ağ izolasyonu",
-    "aciklama": "gerçek bir saldırı olduğu halde sistemin tespit edememesi durumu",
-    "yasakli_kelimeler": [
-      "ağdan koparma",
-      "karantina izolasyonu",
-      "kabloyu çekme",
-      "yayılmayı durdurma",
-      "yalıtım"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 141,
+    "id": 45,
     "kategori": "siber",
     "kelime": "şifreleme",
     "aciklama": "yazılımdaki zafiyetin kapatıldığını doğrulayan resmi güvenlik bildirisi",
@@ -1974,7 +630,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 142,
+    "id": 46,
     "kategori": "siber",
     "kelime": "şifre çözme",
     "aciklama": "sistemdeki güvenlik açıklarını kapatmak için yapılan güncelleme süreci",
@@ -1988,7 +644,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 143,
+    "id": 47,
     "kategori": "siber",
     "kelime": "gizli anahtar",
     "aciklama": "aynı ağdaki cihazlar arasında yatayda ilerleyerek yayılma hareketi",
@@ -2002,49 +658,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 144,
-    "kategori": "siber",
-    "kelime": "genel anahtar",
-    "aciklama": "saldırganın ele geçirdiği sistemdeki erişimini kalıcı hale getirmesi",
-    "yasakli_kelimeler": [
-      "public key",
-      "açık anahtar",
-      "herkese açık",
-      "asimetrik kilit",
-      "özel anahtar ortağı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 145,
-    "kategori": "siber",
-    "kelime": "asimetrik şifreleme",
-    "aciklama": "saldırganın hedef ağ hakkında bilgi toplamak için yaptığı keşif",
-    "yasakli_kelimeler": [
-      "çift anahtarlı",
-      "public private key",
-      "rsa sistemi",
-      "açık anahtar şifrelemesi",
-      "simetrik zıddı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 146,
-    "kategori": "siber",
-    "kelime": "şifreli metin",
-    "aciklama": "ağ cihazlarının ve portların aktifliğini tespit etmek için tarama",
-    "yasakli_kelimeler": [
-      "kriptolu metin",
-      "ciphertext",
-      "okunamaz veri",
-      "şifrelenmiş yazı",
-      "açık metin zıddı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 147,
+    "id": 48,
     "kategori": "siber",
     "kelime": "açık metin",
     "aciklama": "hedef sistemde çalışan yazılımın sürümünü ve türünü belirleme",
@@ -2058,49 +672,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 148,
-    "kategori": "siber",
-    "kelime": "anahtar uzunluğu",
-    "aciklama": "ağdaki paylaşımları ve kullanıcı listelerini detaylıca dökme işlemi",
-    "yasakli_kelimeler": [
-      "bit uzunluğu",
-      "128 256 bit",
-      "anahtar boyutu",
-      "kırma zorluğu",
-      "güvenlik seviyesi"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 149,
-    "kategori": "siber",
-    "kelime": "rsa şifreleme",
-    "aciklama": "ele geçirilen verileri gizlice kurum dışındaki sunucuya aktarma",
-    "yasakli_kelimeler": [
-      "asal sayılar",
-      "rivest shamir adleman",
-      "asimetrik algoritma",
-      "açık anahtar standardı",
-      "dijital imza altyapısı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 150,
-    "kategori": "siber",
-    "kelime": "aes şifreleme",
-    "aciklama": "saldırganın zararlı yazılımı uzaktan yönettiği komuta kontrol sunucusu",
-    "yasakli_kelimeler": [
-      "gelişmiş şifreleme standardı",
-      "rijndael",
-      "simetrik blok şifre",
-      "256 bit",
-      "güvenlik standardı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 151,
+    "id": 49,
     "kategori": "siber",
     "kelime": "sezar şifresi",
     "aciklama": "ağ trafiğini gizlice dinleyerek paketleri yakalama eylemi",
@@ -2114,7 +686,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 152,
+    "id": 50,
     "kategori": "siber",
     "kelime": "enigma makinesi",
     "aciklama": "yetkisiz kablosuz ağlar arayarak sokak sokak dolaşma faaliyeti",
@@ -2128,7 +700,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 153,
+    "id": 51,
     "kategori": "siber",
     "kelime": "kripto para",
     "aciklama": "kullanıcıları kandırmak için sahte ve açık kablosuz ağ kurma",
@@ -2142,7 +714,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 154,
+    "id": 52,
     "kategori": "siber",
     "kelime": "dijital cüzdan",
     "aciklama": "kablosuz ağlardaki cihazların bağlantısını koparmaya yönelik saldırı",
@@ -2156,7 +728,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 155,
+    "id": 53,
     "kategori": "siber",
     "kelime": "özel anahtar",
     "aciklama": "kablosuz ağ şifreleme protokollerindeki açıkları istismar etme",
@@ -2170,77 +742,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 156,
-    "kategori": "siber",
-    "kelime": "tohum kelimeler",
-    "aciklama": "bluetooth üzerinden cihazlara sızarak izinsiz bilgi çalma",
-    "yasakli_kelimeler": [
-      "seed phrase",
-      "kurtarma kelimeleri",
-      "12 kelime",
-      "cüzdan yedeği",
-      "anımsatıcı sözcükler"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 157,
-    "kategori": "siber",
-    "kelime": "tek kullanımlık",
-    "aciklama": "bluetooth üzerinden hedefe izinsiz mesaj veya dosya gönderme",
-    "yasakli_kelimeler": [
-      "otp kodu",
-      "sms onay kodu",
-      "tek seferlik şifre",
-      "geçici doğrulama",
-      "iki adımlı kod"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 158,
-    "kategori": "siber",
-    "kelime": "zamanlı şifre",
-    "aciklama": "yetkisiz olarak akıllı telefonun sistem kısıtlamalarını ve kontrollerini kaldırma",
-    "yasakli_kelimeler": [
-      "totp",
-      "google authenticator",
-      "30 saniyelik kod",
-      "zaman tabanlı",
-      "altı haneli şifre"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 159,
-    "kategori": "siber",
-    "kelime": "şifreleme anahtarı",
-    "aciklama": "android işletim sisteminde yönetici root yetkilerini ele geçirme",
-    "yasakli_kelimeler": [
-      "kripto anahtarı",
-      "şifre parametresi",
-      "kilit açıcı",
-      "anahtar dizesi",
-      "gizli kod"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 160,
-    "kategori": "siber",
-    "kelime": "entropi",
-    "aciklama": "kaynağı bilinmeyen veya güvenilmeyen uygulamaları cihaza manuel yükleme",
-    "yasakli_kelimeler": [
-      "rastgelelik ölçüsü",
-      "tahmin edilemezlik",
-      "şifre karmaşıklığı",
-      "bilgi teorisi",
-      "rastlantısal güç"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 161,
+    "id": 54,
     "kategori": "siber",
     "kelime": "antivirüs",
     "aciklama": "cihazda yüklü kurumsal ve kişisel verileri uzaktan silme",
@@ -2254,35 +756,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 162,
-    "kategori": "siber",
-    "kelime": "tespit sistemi",
-    "aciklama": "kurumsal mobil cihazları ve güvenlik politikalarını uzaktan yönetme sistemi",
-    "yasakli_kelimeler": [
-      "ids",
-      "saldırı tespit",
-      "snort",
-      "alarm üretici",
-      "ağ izleme sistemi"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 163,
-    "kategori": "siber",
-    "kelime": "engelleme sistemi",
-    "aciklama": "çalışanların kendi kişisel cihazlarını iş için kullanma modeli",
-    "yasakli_kelimeler": [
-      "ips",
-      "saldırı önleme",
-      "aktif engelleme",
-      "paket düşürme",
-      "güvenlik kalkanı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 164,
+    "id": 55,
     "kategori": "siber",
     "kelime": "güvenlik yaması",
     "aciklama": "şirket içi ağ ile internet arasında bulunan güvenli tampon bölge",
@@ -2296,21 +770,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 165,
-    "kategori": "siber",
-    "kelime": "yama yönetimi",
-    "aciklama": "ağı mantıksal bölümlere ayırarak trafiği izole eden teknoloji",
-    "yasakli_kelimeler": [
-      "patch management",
-      "güncelleme dağıtımı",
-      "toplu yama",
-      "güvenlik güncellemeleri",
-      "zafiyet giderme"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 166,
+    "id": 56,
     "kategori": "siber",
     "kelime": "yedekleme",
     "aciklama": "ağı küçük alt bölümlere ayırarak saldırı yayılımını engelleme",
@@ -2324,7 +784,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 167,
+    "id": 57,
     "kategori": "siber",
     "kelime": "veri kurtarma",
     "aciklama": "ip paketlerinin başlıklarındaki adresleri değiştiren ağ teknolojisi",
@@ -2338,49 +798,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 168,
-    "kategori": "siber",
-    "kelime": "olay müdahalesi",
-    "aciklama": "ip paketlerinin güvenliğini ve şifrelenmesini sağlayan ağ protokolü",
-    "yasakli_kelimeler": [
-      "incident response",
-      "kriz yönetimi",
-      "saldırı sonrası müdahale",
-      "adli inceleme",
-      "zarar azaltma"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 169,
-    "kategori": "siber",
-    "kelime": "felaket kurtarma",
-    "aciklama": "cihazlara otomatik ip adresi ve ağ ayarları dağıtan protokol",
-    "yasakli_kelimeler": [
-      "disaster recovery",
-      "yedek veri merkezi",
-      "iş sürekliliği",
-      "felaket planı",
-      "çöküş kurtarma"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 170,
-    "kategori": "siber",
-    "kelime": "kural tabanlı",
-    "aciklama": "alan adlarını ip adreslerine çeviren temel internet servisi",
-    "yasakli_kelimeler": [
-      "firewall kuralları",
-      "izin ve yasak",
-      "kural listesi",
-      "politika tabanlı",
-      "şartlı erişim"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 171,
+    "id": 58,
     "kategori": "siber",
     "kelime": "beyaz liste",
     "aciklama": "dns sorgularının güvenliğini ve doğruluğunu sağlayan protokol eklentisi",
@@ -2394,7 +812,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 172,
+    "id": 59,
     "kategori": "siber",
     "kelime": "kara liste",
     "aciklama": "sahte dhcp sunucusu kurarak ağ trafiğini kendi üzerinden geçirme",
@@ -2408,7 +826,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 173,
+    "id": 60,
     "kategori": "siber",
     "kelime": "karantina",
     "aciklama": "sahte arp yanıtlarıyla hedef cihazın ağ trafiğini yönlendirme",
@@ -2422,49 +840,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 174,
-    "kategori": "siber",
-    "kelime": "karantinaya alma",
-    "aciklama": "aynı ağdaki diğer cihazların mac adreslerini taklit ederek dinleme",
-    "yasakli_kelimeler": [
-      "tecrit etme",
-      "izolasyon",
-      "karantina altına alma",
-      "bağlantıyı kesme",
-      "zararlıyı hapsetme"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 175,
-    "kategori": "siber",
-    "kelime": "günlük kaydı",
-    "aciklama": "sunucuya eksik tcp paketleri yollayarak bağlantı kaynaklarını tüketme",
-    "yasakli_kelimeler": [
-      "log kaydı",
-      "olay günlüğü",
-      "sistem kaydı",
-      "aktivite dökümü",
-      "denetim izi"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 176,
-    "kategori": "siber",
-    "kelime": "log analizi",
-    "aciklama": "kaynak ip adresini kurban yaparak sahte yankı trafiği üretme",
-    "yasakli_kelimeler": [
-      "kayıt inceleme",
-      "log okuma",
-      "adli bilişim analizi",
-      "olay takibi",
-      "şüpheli aktivite arama"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 177,
+    "id": 61,
     "kategori": "siber",
     "kelime": "güvenlik denetimi",
     "aciklama": "udp protokolü kullanarak hedef sisteme sahte paket bombardımanı",
@@ -2478,49 +854,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 178,
-    "kategori": "siber",
-    "kelime": "zafiyet yönetimi",
-    "aciklama": "açık ntp sunucularını kullanarak hedefe devasa trafik yönlendirme",
-    "yasakli_kelimeler": [
-      "açık yönetimi",
-      "zafiyet tarama ve kapama",
-      "risk önceliği",
-      "güvenlik açığı takibi",
-      "yama planı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 179,
-    "kategori": "siber",
-    "kelime": "siber hijyen",
-    "aciklama": "dns sunucularını aracı yaparak hedefe katlanmış trafik gönderme",
-    "yasakli_kelimeler": [
-      "dijital temizlik",
-      "temel güvenlik kuralları",
-      "parola güvenliği",
-      "güncelleme alışkanlığı",
-      "farkındalık"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 180,
-    "kategori": "siber",
-    "kelime": "güvenlik politikası",
-    "aciklama": "güvenlik duvarlarını ve filtreleri aşmak için parçalanmış paketler yollama",
-    "yasakli_kelimeler": [
-      "şirket güvenlik kuralları",
-      "bilgi güvenliği prosedürü",
-      "kurallar kılavuzu",
-      "kullanım talimatı",
-      "güvenlik rehberi"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 181,
+    "id": 62,
     "kategori": "siber",
     "kelime": "beyaz şapkalı",
     "aciklama": "cihazların gelen icmp yankı isteklerine yanıt vermesini engelleme",
@@ -2534,7 +868,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 182,
+    "id": 63,
     "kategori": "siber",
     "kelime": "siyah şapkalı",
     "aciklama": "ağdaki yetkisiz ve onaysız erişim noktalarını tespit edip engelleme",
@@ -2548,21 +882,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 183,
-    "kategori": "siber",
-    "kelime": "gri şapkalı",
-    "aciklama": "güvenli kablosuz ağlar için kurumsal kimlik doğrulama standardı",
-    "yasakli_kelimeler": [
-      "orta yol hacker",
-      "izinsiz açık arayan",
-      "beyaz ve siyah arası",
-      "açığı ifşa eden",
-      "ara korsan"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 184,
+    "id": 64,
     "kategori": "siber",
     "kelime": "etik korsanlık",
     "aciklama": "kurumsal ağa sadece güvenlik kriterlerini karşılayan cihazları alma",
@@ -2576,35 +896,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 185,
-    "kategori": "siber",
-    "kelime": "lamer",
-    "aciklama": "kullanıcıların sadece izin verilen güvenli web sitelerine girmesini sağlama",
-    "yasakli_kelimeler": [
-      "özentili bilgisiz",
-      "hacker özentisi",
-      "teknik bilgisi sıfır",
-      "boş övünen",
-      "bilgisiz kullanıcı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 186,
-    "kategori": "siber",
-    "kelime": "betik çocuğu",
-    "aciklama": "kurum dışına gönderilen e-postaları ve trafiği denetleyen sistem",
-    "yasakli_kelimeler": [
-      "script kiddie",
-      "hazır program kullanan",
-      "kod bilmeyen korsan",
-      "acemi saldırgan",
-      "hazır araç kullanan"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 187,
+    "id": 65,
     "kategori": "siber",
     "kelime": "siber savaş",
     "aciklama": "gönderilen e-postanın sahte olmadığını doğrulayan alan adı kaydı",
@@ -2618,7 +910,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 188,
+    "id": 66,
     "kategori": "siber",
     "kelime": "siber casusluk",
     "aciklama": "e-postaların dijital imzayla doğrulanmasını sağlayan güvenlik standardı",
@@ -2632,7 +924,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 189,
+    "id": 67,
     "kategori": "siber",
     "kelime": "siber terörizm",
     "aciklama": "e-posta sahteciliğini önleyen ve alan adı politikasını belirleyen kural",
@@ -2646,7 +938,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 190,
+    "id": 68,
     "kategori": "siber",
     "kelime": "siber zorbalık",
     "aciklama": "e-posta sunucuları arasında şifreli iletişimi başlatan komut uzantısı",
@@ -2660,7 +952,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 191,
+    "id": 69,
     "kategori": "siber",
     "kelime": "karanlık ağ",
     "aciklama": "kurum içi e-posta ve dosya paylaşımında kullanılan şifreleme standardı",
@@ -2674,7 +966,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 192,
+    "id": 70,
     "kategori": "siber",
     "kelime": "derin ağ",
     "aciklama": "kullanıcının dosya ve şifreleme anahtarlarını güvenle imzalayan açık anahtar",
@@ -2688,7 +980,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 193,
+    "id": 71,
     "kategori": "siber",
     "kelime": "tor ağı",
     "aciklama": "e-postalara veya dosyalara uçtan uca şifreleme sağlayan yazılım",
@@ -2702,21 +994,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 194,
-    "kategori": "siber",
-    "kelime": "soğan yönlendirme",
-    "aciklama": "açık kaynaklı ve ücretsiz uçtan uca e-posta şifreleme aracı",
-    "yasakli_kelimeler": [
-      "onion routing",
-      "kat kat şifreleme",
-      "tor çalışma mantığı",
-      "düğümden düğüme",
-      "anonim yönlendirme"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 195,
+    "id": 72,
     "kategori": "siber",
     "kelime": "siber güvenlik",
     "aciklama": "dijital sertifikaları üreten ve doğrulayan resmi güvenilir otorite",
@@ -2730,7 +1008,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 196,
+    "id": 73,
     "kategori": "siber",
     "kelime": "kişisel veri",
     "aciklama": "süresi dolmadan iptal edilen geçersiz sertifikaların resmi listesi",
@@ -2744,7 +1022,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 197,
+    "id": 74,
     "kategori": "siber",
     "kelime": "veri gizliliği",
     "aciklama": "dijital sertifikanın geçerlilik durumunu anlık olarak sorgulayan protokol",
@@ -2758,7 +1036,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 198,
+    "id": 75,
     "kategori": "siber",
     "kelime": "kullanıcı hesabı",
     "aciklama": "bir uygulamanın sadece belirli sertifikalara güvenmesini sağlama yöntemi",
@@ -2772,7 +1050,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 199,
+    "id": 76,
     "kategori": "siber",
     "kelime": "yönetici yetkisi",
     "aciklama": "şifreli bağlantılarda oturum anahtarının gelecekte deşifre edilememesi özelliği",
@@ -2786,7 +1064,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 200,
+    "id": 77,
     "kategori": "siber",
     "kelime": "dijital kimlik",
     "aciklama": "kullanıcı oturum bilgilerini tarayıcıda saklayan metin tabanlı küçük dosya",
@@ -2811,7 +1089,7 @@
       "hesap"
     ],
     "zorluk": "kolay",
-    "id": 201
+    "id": 78
   },
   {
     "kategori": "siber",
@@ -2825,7 +1103,7 @@
       "ele geçirme"
     ],
     "zorluk": "kolay",
-    "id": 202
+    "id": 79
   },
   {
     "kategori": "siber",
@@ -2839,7 +1117,7 @@
       "antivirüs"
     ],
     "zorluk": "kolay",
-    "id": 203
+    "id": 80
   },
   {
     "kategori": "siber",
@@ -2853,7 +1131,7 @@
       "bulmak"
     ],
     "zorluk": "kolay",
-    "id": 204
+    "id": 81
   },
   {
     "kategori": "siber",
@@ -2867,7 +1145,7 @@
       "bloke"
     ],
     "zorluk": "kolay",
-    "id": 205
+    "id": 82
   },
   {
     "kategori": "siber",
@@ -2881,7 +1159,7 @@
       "update"
     ],
     "zorluk": "kolay",
-    "id": 206
+    "id": 83
   },
   {
     "kategori": "siber",
@@ -2895,7 +1173,7 @@
       "kurtarma"
     ],
     "zorluk": "kolay",
-    "id": 207
+    "id": 84
   },
   {
     "kategori": "siber",
@@ -2909,7 +1187,7 @@
       "parola"
     ],
     "zorluk": "kolay",
-    "id": 208
+    "id": 85
   },
   {
     "kategori": "siber",
@@ -2923,7 +1201,7 @@
       "saklama"
     ],
     "zorluk": "kolay",
-    "id": 209
+    "id": 86
   },
   {
     "kategori": "siber",
@@ -2937,21 +1215,7 @@
       "sıfırlama"
     ],
     "zorluk": "kolay",
-    "id": 210
-  },
-  {
-    "kategori": "siber",
-    "kelime": "uyarmak",
-    "aciklama": "sistemlerin güvenliğini artırmak amacıyla hesaplara çift faktörlü doğrulama kurmak",
-    "yasakli_kelimeler": [
-      "alarm",
-      "bildirim",
-      "güvenlik ihlali",
-      "uyarı",
-      "yönetici"
-    ],
-    "zorluk": "kolay",
-    "id": 211
+    "id": 87
   },
   {
     "kategori": "siber",
@@ -2965,7 +1229,7 @@
       "yetki"
     ],
     "zorluk": "kolay",
-    "id": 212
+    "id": 88
   },
   {
     "kategori": "siber",
@@ -2979,524 +1243,6 @@
       "kandırma"
     ],
     "zorluk": "orta",
-    "id": 213
-  },
-  {
-    "kategori": "siber",
-    "kelime": "sızma testi yapmak",
-    "aciklama": "iki taraf arasındaki iletişimi gizlice dinlemek ve araya girmek",
-    "yasakli_kelimeler": [
-      "penetrasyon",
-      "pentest",
-      "etik hacker",
-      "açık arama",
-      "güvenlik testi"
-    ],
-    "zorluk": "orta",
-    "id": 214
-  },
-  {
-    "kategori": "siber",
-    "kelime": "ddos atağı başlatmak",
-    "aciklama": "klavyede basılan tüm tuşları arka planda gizlice kaydetmek",
-    "yasakli_kelimeler": [
-      "çökertme",
-      "botnet",
-      "aşırı istek",
-      "hizmet dışı",
-      "trafik patlaması"
-    ],
-    "zorluk": "orta",
-    "id": 215
-  },
-  {
-    "kategori": "siber",
-    "kelime": "fidye yazılımı bulaştırmak",
-    "aciklama": "tüm olası şifre kombinasyonlarını sırayla deneyerek kaba kuvvet uygulamak",
-    "yasakli_kelimeler": [
-      "ransomware",
-      "dosya şifreleme",
-      "bitcoin",
-      "fidye",
-      "kilit"
-    ],
-    "zorluk": "orta",
-    "id": 216
-  },
-  {
-    "kategori": "siber",
-    "kelime": "trojan sokmak",
-    "aciklama": "kullanıcıların güvenini suistimal ederek sosyal mühendislik yapmak",
-    "yasakli_kelimeler": [
-      "truva atı",
-      "arka kapı",
-      "backdoor",
-      "casus",
-      "zararlı yazılım"
-    ],
-    "zorluk": "orta",
-    "id": 217
-  },
-  {
-    "kategori": "siber",
-    "kelime": "keylogger yerleştirmek",
-    "aciklama": "sunucunun ağ trafiğini filtrelemek için güvenlik duvarı yapılandırmak",
-    "yasakli_kelimeler": [
-      "tuş kaydı",
-      "klavye",
-      "şifre çalma",
-      "gizli kayıt",
-      "izleme"
-    ],
-    "zorluk": "orta",
-    "id": 218
-  },
-  {
-    "kategori": "siber",
-    "kelime": "iki faktörlü doğrulamak",
-    "aciklama": "ağdaki cihazları ve portları güvenlik açıkları için taramak",
-    "yasakli_kelimeler": [
-      "2fa",
-      "sms kodu",
-      "authenticator",
-      "çift aşama",
-      "ekstra güvenlik"
-    ],
-    "zorluk": "orta",
-    "id": 219
-  },
-  {
-    "kategori": "siber",
-    "kelime": "port taraması yapmak",
-    "aciklama": "şüpheli bir dosyayı izole edilmiş korumalı alanda çalıştırmak",
-    "yasakli_kelimeler": [
-      "nmap",
-      "açık port",
-      "tarama",
-      "sunucu",
-      "ağ kapısı"
-    ],
-    "zorluk": "orta",
-    "id": 220
-  },
-  {
-    "kategori": "siber",
-    "kelime": "paket dinlemek",
-    "aciklama": "web sitelerine güvenli ve şifreli https sertifikası kurmak",
-    "yasakli_kelimeler": [
-      "wireshark",
-      "sniffing",
-      "ağ trafiği",
-      "paket yakalama",
-      "şifresiz"
-    ],
-    "zorluk": "orta",
-    "id": 221
-  },
-  {
-    "kategori": "siber",
-    "kelime": "ortadaki adam olmak",
-    "aciklama": "güvenli iletişim için tünel açarak vpn bağlantısı kurmak",
-    "yasakli_kelimeler": [
-      "mitm",
-      "araya girme",
-      "arp zehirleme",
-      "modem",
-      "gizli dinleme"
-    ],
-    "zorluk": "orta",
-    "id": 222
-  },
-  {
-    "kategori": "siber",
-    "kelime": "zararlı yazılım temizlemek",
-    "aciklama": "şüpheli bir zararlı yazılımı ayrıştırıp tersine mühendislik uygulamak",
-    "yasakli_kelimeler": [
-      "sql injection",
-      "veri tabanı",
-      "sorgu",
-      "tablo sızdırma",
-      "kod enjeksiyonu"
-    ],
-    "zorluk": "orta",
-    "id": 223
-  },
-  {
-    "kategori": "siber",
-    "kelime": "xss açığı aramak",
-    "aciklama": "siber olayların loglarını merkezi siem sistemine toplayıp analiz etmek",
-    "yasakli_kelimeler": [
-      "cross site scripting",
-      "javascript",
-      "çerez çalma",
-      "zararlı script",
-      "web açığı"
-    ],
-    "zorluk": "orta",
-    "id": 224
-  },
-  {
-    "kategori": "siber",
-    "kelime": "sosyal mühendislik yapmak",
-    "aciklama": "saldırganları cezbetmek ve izlemek için tuzak bal küpü kurmak",
-    "yasakli_kelimeler": [
-      "insan kandırma",
-      "manipülasyon",
-      "rol yapma",
-      "güven suiistimali",
-      "psikolojik hile"
-    ],
-    "zorluk": "orta",
-    "id": 225
-  },
-  {
-    "kategori": "siber",
-    "kelime": "kriptografik imzalamak",
-    "aciklama": "hiçbir kullanıcıya güvenmeyen sıfır güven mimarisini uygulamak",
-    "yasakli_kelimeler": [
-      "dijital imza",
-      "özel anahtar",
-      "doğrulama",
-      "bütünlük",
-      "asimetrik"
-    ],
-    "zorluk": "orta",
-    "id": 226
-  },
-  {
-    "kategori": "siber",
-    "kelime": "karantinaya almak",
-    "aciklama": "zararlı yazılımın sistem üzerindeki etkilerini adli bilişimle analiz etmek",
-    "yasakli_kelimeler": [
-      "izolasyon",
-      "şüpheli dosya",
-      "antivirüs kasası",
-      "engelleme",
-      "çalıştırmama"
-    ],
-    "zorluk": "orta",
-    "id": 227
-  },
-  {
-    "kategori": "siber",
-    "kelime": "güvenlik duvarı yapılandırmak",
-    "aciklama": "ağ trafiğindeki şüpheli paketleri derinlemesine paket analiziyle yakalamak",
-    "yasakli_kelimeler": [
-      "şifreli tünel",
-      "uzaktan erişim",
-      "şirket ağı",
-      "ipsec",
-      "openvpn"
-    ],
-    "zorluk": "orta",
-    "id": 228
-  },
-  {
-    "kategori": "siber",
-    "kelime": "ip spoofing yapmak",
-    "aciklama": "sistemdeki düşük kullanıcı yetkilerini yönetici seviyesine yükseltmek",
-    "yasakli_kelimeler": [
-      "sahte ip",
-      "başlık değiştirme",
-      "kimlik gizleme",
-      "paket sahteciliği",
-      "aldatma"
-    ],
-    "zorluk": "orta",
-    "id": 229
-  },
-  {
-    "kategori": "siber",
-    "kelime": "güvenlik kuralı yazmak",
-    "aciklama": "bellek alanına kapasiteden fazla veri yazarak arabellek taşırmak",
-    "yasakli_kelimeler": [
-      "iptables",
-      "firewall kuralı",
-      "erişim listesi",
-      "port kısıtlama",
-      "engelleme"
-    ],
-    "zorluk": "orta",
-    "id": 230
-  },
-  {
-    "kategori": "siber",
-    "kelime": "soc merkezinde izlemek",
-    "aciklama": "windows sistemlerinde parola karmalarını bellekten çekerek hash toplamak",
-    "yasakli_kelimeler": [
-      "soc",
-      "güvenlik operasyon",
-      "7/24",
-      "siem",
-      "olay izleme"
-    ],
-    "zorluk": "orta",
-    "id": 231
-  },
-  {
-    "kategori": "siber",
-    "kelime": "parola yöneticisi kullanmak",
-    "aciklama": "sunucunun alan adı sorgularını saptırarak dns zehirlemesi yapmak",
-    "yasakli_kelimeler": [
-      "password manager",
-      "kasa",
-      "ana şifre",
-      "otomatik doldurma",
-      "saklama"
-    ],
-    "zorluk": "orta",
-    "id": 232
-  },
-  {
-    "kategori": "siber",
-    "kelime": "sözlük saldırısı yapmak",
-    "aciklama": "e-posta sahteciliğini önlemek için dmarc ve spf kayıtlarını yapılandırmak",
-    "yasakli_kelimeler": [
-      "wordlist",
-      "sözlük",
-      "deneme",
-      "rockyou",
-      "parola denemesi"
-    ],
-    "zorluk": "orta",
-    "id": 233
-  },
-  {
-    "kategori": "siber",
-    "kelime": "çerez çalmak",
-    "aciklama": "uygulamalardaki güvenlik açıklarını bulup bildiren ödül programına katılmak",
-    "yasakli_kelimeler": [
-      "cookie",
-      "oturum kimliği",
-      "session hijacking",
-      "tarayıcı",
-      "şifresiz giriş"
-    ],
-    "zorluk": "orta",
-    "id": 234
-  },
-  {
-    "kategori": "siber",
-    "kelime": "arka kapı bırakmak",
-    "aciklama": "kodlama aşamasında güvenlik açıklarını statik kod analiziyle denetlemek",
-    "yasakli_kelimeler": [
-      "backdoor",
-      "gizli giriş",
-      "kalıcılık sağlama",
-      "webshell",
-      "yetki"
-    ],
-    "zorluk": "orta",
-    "id": 235
-  },
-  {
-    "kategori": "siber",
-    "kelime": "yetki yükseltmek",
-    "aciklama": "yazılım kütüphanelerinin bileşenlerini gösteren yazılım malzeme listesi hazırlamak",
-    "yasakli_kelimeler": [
-      "privilege escalation",
-      "root yetkisi",
-      "admin olma",
-      "çekirdek açığı",
-      "tam yetki"
-    ],
-    "zorluk": "orta",
-    "id": 236
-  },
-  {
-    "kategori": "siber",
-    "kelime": "pentest yapmak",
-    "aciklama": "sunucuları gereksiz servisleri kapatıp güvenlik standartlarına göre sıkılaştırmak",
-    "yasakli_kelimeler": [
-      "zero day",
-      "yamasız açık",
-      "exploit",
-      "keşfedilmemiş",
-      "istismar"
-    ],
-    "zorluk": "zor",
-    "id": 237
-  },
-  {
-    "kategori": "siber",
-    "kelime": "tersine mühendislik yapmak",
-    "aciklama": "açık kaynaklardan bilgi toplayarak hedef hakkında istihbarat çıkarmak",
-    "yasakli_kelimeler": [
-      "disassembler",
-      "ghidra",
-      "ida pro",
-      "ikili kod",
-      "assembly"
-    ],
-    "zorluk": "zor",
-    "id": 238
-  },
-  {
-    "kategori": "siber",
-    "kelime": "arabellek taşması tetiklemek",
-    "aciklama": "saldırı göstergelerini ve tehdit aktörlerini tehdit istihbaratıyla izlemek",
-    "yasakli_kelimeler": [
-      "buffer overflow",
-      "yığın",
-      "dönüş adresi",
-      "eip kaydı",
-      "bellek manipülasyonu"
-    ],
-    "zorluk": "zor",
-    "id": 239
-  },
-  {
-    "kategori": "siber",
-    "kelime": "apt grubu izlemek",
-    "aciklama": "yazılım geliştirme sürecinin her adımına devsecops ile güvenlik entegre etmek",
-    "yasakli_kelimeler": [
-      "advanced persistent threat",
-      "devlet destekli",
-      "siber casusluk",
-      "kalıcı tehdit",
-      "ulus devlet"
-    ],
-    "zorluk": "zor",
-    "id": 240
-  },
-  {
-    "kategori": "siber",
-    "kelime": "siem korelasyonu kurmak",
-    "aciklama": "siber olay müdahalesi için playout senaryoları ve tatbikatlar hazırlamak",
-    "yasakli_kelimeler": [
-      "siem",
-      "log korelasyonu",
-      "splunk",
-      "olay tespiti",
-      "alarm kuralı"
-    ],
-    "zorluk": "zor",
-    "id": 241
-  },
-  {
-    "kategori": "siber",
-    "kelime": "bal küpü kurmak",
-    "aciklama": "kullanıcıların oturum açma sürelerini sınırlandıran yetkilendirme tokenı yönetmek",
-    "yasakli_kelimeler": [
-      "honeypot",
-      "sahte sunucu",
-      "tuzak sistem",
-      "saldırgan izleme",
-      "yemleme"
-    ],
-    "zorluk": "zor",
-    "id": 242
-  },
-  {
-    "kategori": "siber",
-    "kelime": "kum havuzunda patlatmak",
-    "aciklama": "kimlik ve erişim yönetimini tek noktadan merkezi olarak yönetmek",
-    "yasakli_kelimeler": [
-      "sandbox",
-      "sanal makine",
-      "davranış analizi",
-      "izole ortam",
-      "dinamik analiz"
-    ],
-    "zorluk": "zor",
-    "id": 243
-  },
-  {
-    "kategori": "siber",
-    "kelime": "bellek adli bilişimi",
-    "aciklama": "kişisel verilerin korunması için kvkk ve gdpr uyumluluğu sağlamak",
-    "yasakli_kelimeler": [
-      "volatility",
-      "ram dökümü",
-      "adli bilişim",
-      "bellek analizi",
-      "canlı inceleme"
-    ],
-    "zorluk": "zor",
-    "id": 244
-  },
-  {
-    "kategori": "siber",
-    "kelime": "dijital delil toplamak",
-    "aciklama": "hassas kurumsal verilerin dışarı sızmasını dlp çözümleriyle engellemek",
-    "yasakli_kelimeler": [
-      "adli kopya",
-      "write blocker",
-      "zincirleme kanıt",
-      "hash değeri",
-      "forensic"
-    ],
-    "zorluk": "zor",
-    "id": 245
-  },
-  {
-    "kategori": "siber",
-    "kelime": "fuzzing testi yapmak",
-    "aciklama": "uç nokta cihazlarında tehditleri tespit eden edr yazılımı konuşlandırmak",
-    "yasakli_kelimeler": [
-      "fuzzer",
-      "rastgele girdi",
-      "çökme analizi",
-      "otomatik test",
-      "açık keşfi"
-    ],
-    "zorluk": "zor",
-    "id": 246
-  },
-  {
-    "kategori": "siber",
-    "kelime": "asimetrik şifrelemek",
-    "aciklama": "kurumsal ağ altyapısını mikro segmentasyon ile güvenli bölgelere ayırmak",
-    "yasakli_kelimeler": [
-      "rsa",
-      "eliptik eğri",
-      "açık anahtar",
-      "gizli anahtar",
-      "asimetrik"
-    ],
-    "zorluk": "zor",
-    "id": 247
-  },
-  {
-    "kategori": "siber",
-    "kelime": "rop zinciri oluşturmak",
-    "aciklama": "şifrelenmiş verileri kuantum sonrası kriptografi algoritmalarıyla geleceğe karşı korumak",
-    "yasakli_kelimeler": [
-      "return oriented",
-      "gadget",
-      "dep koruması",
-      "yığın çalıştırma",
-      "istismar"
-    ],
-    "zorluk": "zor",
-    "id": 248
-  },
-  {
-    "kategori": "siber",
-    "kelime": "kırmızı takım tatbikatı",
-    "aciklama": "bulut bilişim ortamlarındaki verileri ve iş yüklerini güvenle korumak",
-    "yasakli_kelimeler": [
-      "kırmızı takım",
-      "blue team",
-      "tatbikat",
-      "simülasyon",
-      "sızma harekatı"
-    ],
-    "zorluk": "zor",
-    "id": 249
-  },
-  {
-    "kategori": "siber",
-    "kelime": "steganografi ile gizlemek",
-    "aciklama": "kaynak kodları güvenlik açıkları ve zafiyetler için düzenli denetlemek",
-    "yasakli_kelimeler": [
-      "görsel içi gizleme",
-      "steganografi",
-      "piksel saklama",
-      "masum dosya",
-      "örtük iletişim"
-    ],
-    "zorluk": "zor",
-    "id": 250
+    "id": 89
   }
 ]

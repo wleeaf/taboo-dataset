@@ -44,48 +44,6 @@
   {
     "id": 4,
     "kategori": "atletizm",
-    "kelime": "stafet",
-    "aciklama": "yüz metre ile dört yüz metre arasında engelli koşu.",
-    "yasakli_kelimeler": [
-      "bayrak",
-      "boru",
-      "aktarmak",
-      "düşürmek",
-      "silindir"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 5,
-    "kategori": "atletizm",
-    "kelime": "takoz",
-    "aciklama": "sekiz yüz ile bin beş yüz metre arasındaki koşular.",
-    "yasakli_kelimeler": [
-      "çıkış",
-      "ayak",
-      "başlangıç",
-      "dayamak",
-      "itmek"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 6,
-    "kategori": "atletizm",
-    "kelime": "hatalıçıkış",
-    "aciklama": "üç bin, beş bin ve on bin metre koşuları.",
-    "yasakli_kelimeler": [
-      "erken çıkış",
-      "tabanca",
-      "diskalifiye",
-      "fodepar",
-      "takoz"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 7,
-    "kategori": "atletizm",
     "kelime": "kulvar",
     "aciklama": "üç bin metre boyunca engeller ve su havuzundan atlanan yarış.",
     "yasakli_kelimeler": [
@@ -98,35 +56,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 8,
-    "kategori": "atletizm",
-    "kelime": "tartan",
-    "aciklama": "ayak temasını kesmeden kalça salınımıyla yapılan hızlı yürüyüş yarışı.",
-    "yasakli_kelimeler": [
-      "pist",
-      "zemin",
-      "kauçuk",
-      "kırmızı",
-      "sentetik"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 9,
-    "kategori": "atletizm",
-    "kelime": "çivili",
-    "aciklama": "sporcuların çıtayı düşürmeden üzerinden geriye doğru atladığı branş.",
-    "yasakli_kelimeler": [
-      "ayakkabı",
-      "taban",
-      "metal diş",
-      "pist",
-      "kavrama"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 10,
+    "id": 5,
     "kategori": "atletizm",
     "kelime": "fotofiniş",
     "aciklama": "esnek fiber çubukla yükselerek yüksek çıtayı aşma branşı.",
@@ -140,119 +70,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 11,
-    "kategori": "atletizm",
-    "kelime": "engellikoşu",
-    "aciklama": "hızlanıp basma tahtasından kum havuzuna en uzağa atlama.",
-    "yasakli_kelimeler": [
-      "bariyer",
-      "atlamak",
-      "yüz on metre",
-      "devirmek",
-      "koşu"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 12,
-    "kategori": "atletizm",
-    "kelime": "dekathlon",
-    "aciklama": "sıçrama, adım ve atlama adımlarıyla yapılan kum havuzu atlayışı.",
-    "yasakli_kelimeler": [
-      "onlu",
-      "branş",
-      "iki gün",
-      "komple",
-      "puan"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 13,
-    "kategori": "atletizm",
-    "kelime": "heptatlon",
-    "aciklama": "ağır metal güllenin omuzdan en uzağa fırlatıldığı atma branşı.",
-    "yasakli_kelimeler": [
-      "yedi",
-      "kadın",
-      "branş",
-      "puanlama",
-      "iki gün"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 14,
-    "kategori": "atletizm",
-    "kelime": "uzunatlma",
-    "aciklama": "aerodinamik ağır metal diskin dönerek en uzağa fırlatılması.",
-    "yasakli_kelimeler": [
-      "kum",
-      "havuz",
-      "sıçrama",
-      "tahta",
-      "mesafe"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 15,
-    "kategori": "atletizm",
-    "kelime": "üçadım",
-    "aciklama": "uzun sivri uçlu metal ciritin tek elle fırlatıldığı yarışma.",
-    "yasakli_kelimeler": [
-      "sekme",
-      "adım",
-      "kum",
-      "atlama",
-      "mesafe"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 16,
-    "kategori": "atletizm",
-    "kelime": "yüksekalama",
-    "aciklama": "çelik tele bağlı ağır metal güllenin savrularak fırlatılması.",
-    "yasakli_kelimeler": [
-      "çıta",
-      "minder",
-      "fosbury",
-      "atlamak",
-      "yükseklik"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 17,
-    "kategori": "atletizm",
-    "kelime": "sırıklaalama",
-    "aciklama": "erkek atletlerin on farklı branşta iki gün yarıştığı çoklu branş.",
-    "yasakli_kelimeler": [
-      "sırık",
-      "çıta",
-      "esnek",
-      "yükseklik",
-      "minder"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 18,
-    "kategori": "atletizm",
-    "kelime": "fosbury",
-    "aciklama": "kadın atletlerin yedi farklı branşta mücadele ettiği çoklu yarışma.",
-    "yasakli_kelimeler": [
-      "sırtüstü",
-      "teknik",
-      "yüksek atlama",
-      "çıta",
-      "stil"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 19,
+    "id": 6,
     "kategori": "atletizm",
     "kelime": "gülle",
     "aciklama": "koşu yarışlarının yapıldığı standart dört yüz metrelik oval pist.",
@@ -266,7 +84,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 20,
+    "id": 7,
     "kategori": "atletizm",
     "kelime": "disk",
     "aciklama": "kısa mesafe koşucularının pistte kendi içinde kaldığı şerit.",
@@ -280,7 +98,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 21,
+    "id": 8,
     "kategori": "atletizm",
     "kelime": "cirit",
     "aciklama": "sprint koşucularının çıkışta ayaklarını dayadığı ayarlanabilir metal destek.",
@@ -294,7 +112,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 22,
+    "id": 9,
     "kategori": "atletizm",
     "kelime": "çekiç",
     "aciklama": "çıkış tabancası patlamadan önce hatalı şekilde koşuya başlama kural ihlali.",
@@ -308,105 +126,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 23,
-    "kategori": "atletizm",
-    "kelime": "kumhavuzu",
-    "aciklama": "koşu yarışının başladığını bildiren kuru sıkı hakem tabancası sesi.",
-    "yasakli_kelimeler": [
-      "kum",
-      "iniş",
-      "atlama",
-      "ölçüm",
-      "yumuşak"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 24,
-    "kategori": "atletizm",
-    "kelime": "basmatahtası",
-    "aciklama": "koşucuların göğüsleriyle geçerek yarışı tamamladığı beyaz bitiş çizgisi.",
-    "yasakli_kelimeler": [
-      "tahta",
-      "sıçrama",
-      "faul",
-      "beyaz",
-      "plastilin"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 25,
-    "kategori": "atletizm",
-    "kelime": "plastilin",
-    "aciklama": "atletlerin yarış süresini salisenin yüzde biri hassasiyetle ölçen sistem.",
-    "yasakli_kelimeler": [
-      "macun",
-      "faul",
-      "iz",
-      "basma tahtası",
-      "kırmızı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 26,
-    "kategori": "atletizm",
-    "kelime": "rüzgarölçer",
-    "aciklama": "atletlerin bitiş çizgisini milimetrik geçiş anını kaydeden yüksek hızlı kamera.",
-    "yasakli_kelimeler": [
-      "anemometre",
-      "rüzgar",
-      "iki metre",
-      "rekor",
-      "cihaz"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 27,
-    "kategori": "atletizm",
-    "kelime": "tur",
-    "aciklama": "koşucunun bir kilometreyi veya mili koşma hızı ve süresi.",
-    "yasakli_kelimeler": [
-      "dönüş",
-      "dört yüz metre",
-      "pist",
-      "çevre",
-      "koşmak"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 28,
-    "kategori": "atletizm",
-    "kelime": "tavşankoşucu",
-    "aciklama": "atletin yarışın son düzlüğünde yaptığı ani ve patlayıcı hızlanma.",
-    "yasakli_kelimeler": [
-      "tempo",
-      "öncü",
-      "rekor",
-      "bırakmak",
-      "lider"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 29,
-    "kategori": "atletizm",
-    "kelime": "steeplechase",
-    "aciklama": "kısa mesafe koşularında rüzgarın hızını ve yönünü ölçen anemometre.",
-    "yasakli_kelimeler": [
-      "su engeli",
-      "üç bin",
-      "havuz",
-      "atlamak",
-      "bariyer"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 30,
+    "id": 10,
     "kategori": "atletizm",
     "kelime": "yürüyüş",
     "aciklama": "pistin sentetik poliüretan kauçuk kaplı dayanıklı koşu zemini.",
@@ -420,7 +140,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 31,
+    "id": 11,
     "kategori": "atletizm",
     "kelime": "diskalifiye",
     "aciklama": "atletlerin pist zeminine tutunmasını sağlayan çivili hafif koşu ayakkabısı.",
@@ -434,203 +154,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 32,
-    "kategori": "atletizm",
-    "kelime": "fodepar",
-    "aciklama": "bayrak yarışında bayrağın takım arkadaşına teslim edildiği yirmi metrelik alan.",
-    "yasakli_kelimeler": [
-      "hatalı çıkış",
-      "erken fırlama",
-      "takoz",
-      "tabanca",
-      "diskalifiye"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 33,
-    "kategori": "atletizm",
-    "kelime": "göğüshizası",
-    "aciklama": "bayrak koşucularının elden ele aktardığı içi boş alüminyum çubuk.",
-    "yasakli_kelimeler": [
-      "gövde",
-      "torso",
-      "bitiş çizgisi",
-      "finiş",
-      "ölçüm"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 34,
-    "kategori": "atletizm",
-    "kelime": "akreditasyon",
-    "aciklama": "yüksek atlamada sporcunun üzerinden sırtüstü geçtiği fosbury tekniği.",
-    "yasakli_kelimeler": [
-      "kart",
-      "giriş",
-      "yetki",
-      "yaka",
-      "görevli"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 35,
-    "kategori": "atletizm",
-    "kelime": "dopingkontrolü",
-    "aciklama": "atlama sporcularının sakatlanmadan düşmesi için konulan kalın sünger minder.",
-    "yasakli_kelimeler": [
-      "idrar",
-      "kan",
-      "yasaklı madde",
-      "wada",
-      "test"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 36,
-    "kategori": "atletizm",
-    "kelime": "seri",
-    "aciklama": "yüksek atlama ve sırıkla atlamada aşılması gereken yatay çıta.",
-    "yasakli_kelimeler": [
-      "eleme",
-      "seçme",
-      "tur",
-      "yarı final",
-      "grup"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 37,
-    "kategori": "atletizm",
-    "kelime": "yarifinal",
-    "aciklama": "sırıkla atlamacının sırığı dayayıp bükerek sıçradığı zemin çukuru.",
-    "yasakli_kelimeler": [
-      "eleme",
-      "final öncesi",
-      "koşu",
-      "seçilmek",
-      "tur"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 38,
-    "kategori": "atletizm",
-    "kelime": "laktik",
-    "aciklama": "sırıkla atlamada sporcuyu havaya fırlatan esnek fiberglas çubuk.",
-    "yasakli_kelimeler": [
-      "asit",
-      "kas",
-      "yorgunluk",
-      "yanma",
-      "oksijensiz"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 39,
-    "kategori": "atletizm",
-    "kelime": "kadans",
-    "aciklama": "uzun ve üç adım atlamacıların sıçradığı beyaz basma çizgisi tahtası.",
-    "yasakli_kelimeler": [
-      "adım sayısı",
-      "ritim",
-      "frekans",
-      "dakika",
-      "tempo"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 40,
-    "kategori": "atletizm",
-    "kelime": "adımboyu",
-    "aciklama": "uzun ve üç adım atlamacıların üzerine güvenle indiği kum havuzu.",
-    "yasakli_kelimeler": [
-      "mesafe",
-      "açıklık",
-      "uzunluk",
-      "bacak",
-      "sürat"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 41,
-    "kategori": "atletizm",
-    "kelime": "aerobik",
-    "aciklama": "üç adım atlamada sıçrama, adım ve atlayıştan oluşan üçlü hareket.",
-    "yasakli_kelimeler": [
-      "oksijenli",
-      "dayanıklılık",
-      "enerji",
-      "uzun mesafe",
-      "kapasite"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 42,
-    "kategori": "atletizm",
-    "kelime": "anaerobik",
-    "aciklama": "gülle, disk ve çekiç atıcılarının içinde döndüğü beton daire.",
-    "yasakli_kelimeler": [
-      "oksijensiz",
-      "patlayıcı",
-      "kısa süreli",
-      "sprint",
-      "güç"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 43,
-    "kategori": "atletizm",
-    "kelime": "karınbölgesi",
-    "aciklama": "atılan aletlerin dışarı çıkmasını önleyen koruyucu tel güvenlik kafesi.",
-    "yasakli_kelimeler": [
-      "kor",
-      "kas",
-      "stabilite",
-      "gövde",
-      "duruş"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 44,
-    "kategori": "atletizm",
-    "kelime": "split",
-    "aciklama": "atılan aletin geçerli sayılması için düşmesi gereken açılı çim bölge.",
-    "yasakli_kelimeler": [
-      "ara derece",
-      "zaman",
-      "kilometre",
-      "tur derecesi",
-      "ölçüm"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 45,
-    "kategori": "atletizm",
-    "kelime": "negatifspli",
-    "aciklama": "gülle atma dairesinin önünde yer alan ahşap çarpma takozu.",
-    "yasakli_kelimeler": [
-      "ikinci yarı",
-      "hızlı koşmak",
-      "taktik",
-      "tempo artırma",
-      "maraton"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 46,
+    "id": 12,
     "kategori": "atletizm",
     "kelime": "kronometre",
     "aciklama": "gülle atarken sporcunun kendi ekseni etrafında dönerek hız kazanması tekniği.",
@@ -644,7 +168,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 47,
+    "id": 13,
     "kategori": "atletizm",
     "kelime": "podyum",
     "aciklama": "gülle atarken sporcunun geriye kayarak yaylanıp fırlatma tekniği.",
@@ -658,21 +182,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 48,
-    "kategori": "atletizm",
-    "kelime": "dünyarekoru",
-    "aciklama": "cirit atıcısının fırlatmadan önce hızlanarak koştuğu özel koşu yolu.",
-    "yasakli_kelimeler": [
-      "rekor",
-      "en iyi",
-      "tarih",
-      "derece",
-      "tüm zamanlar"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 49,
+    "id": 14,
     "kategori": "atletizm",
     "kelime": "minder",
     "aciklama": "ciritin dengeli uçmasını ve elden kaymamasını sağlayan ip sarılı tutacak.",
@@ -686,7 +196,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 50,
+    "id": 15,
     "kategori": "atletizm",
     "kelime": "çıta",
     "aciklama": "diskin havada dönerek süzülmesini sağlayan jiroskopik aerodinamik özellik.",
@@ -700,259 +210,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 51,
-    "kategori": "atletizm",
-    "kelime": "dikme",
-    "aciklama": "çekiç atıcısının gülle ucuna tutunduğu çelik tel kablo.",
-    "yasakli_kelimeler": [
-      "direk",
-      "çıta tutucu",
-      "dikey",
-      "yükseklik",
-      "ölçü"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 52,
-    "kategori": "atletizm",
-    "kelime": "yaklaşmakoşusu",
-    "aciklama": "çekiç atıcısının iki elle kavradığı üçgen metal fırlatma tutamağı.",
-    "yasakli_kelimeler": [
-      "hızlanma",
-      "adım",
-      "sıçrama öncesi",
-      "ritim",
-      "koşu yolu"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 53,
-    "kategori": "atletizm",
-    "kelime": "sıçramaağacı",
-    "aciklama": "çekiç atıcısının daire içinde yaptığı tam dönüşler.",
-    "yasakli_kelimeler": [
-      "bacak",
-      "itme",
-      "sıçrama",
-      "kuvvet",
-      "yükselme"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 54,
-    "kategori": "atletizm",
-    "kelime": "kafes",
-    "aciklama": "uzun mesafe koşularında sporcuların su ve sünger aldığı ikmal masası.",
-    "yasakli_kelimeler": [
-      "güvenlik",
-      "ağ",
-      "çekiç",
-      "disk",
-      "tribün"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 55,
-    "kategori": "atletizm",
-    "kelime": "atmaçemberi",
-    "aciklama": "maratonda koşucuların ayakkabısına takılan süre ölçüm elektronik çipi.",
-    "yasakli_kelimeler": [
-      "daire",
-      "çember",
-      "halka",
-      "dönmek",
-      "faul"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 56,
-    "kategori": "atletizm",
-    "kelime": "stopboard",
-    "aciklama": "uzun mesafe yarışlarında belirli tempoyu korumak için koşan tavşan atlet.",
-    "yasakli_kelimeler": [
-      "gülle",
-      "takoz",
-      "daire önü",
-      "faul",
-      "dayanak"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 57,
-    "kategori": "atletizm",
-    "kelime": "sektör",
-    "aciklama": "maratonun otuzuncu kilometresinde glikojen depolarının tükenmesiyle yaşanan ani çöküş.",
-    "yasakli_kelimeler": [
-      "açı",
-      "alan",
-      "geçerli atış",
-      "düşme bölgesi",
-      "çizgi"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 58,
-    "kategori": "atletizm",
-    "kelime": "geçersizatış",
-    "aciklama": "maraton öncesinde glikojen depolarını doldurmak için yapılan makarna yüklemesi.",
-    "yasakli_kelimeler": [
-      "faul",
-      "kırmızı bayrak",
-      "sektör dışı",
-      "çizgiye basmak",
-      "sayılmayan"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 59,
-    "kategori": "atletizm",
-    "kelime": "kırmızıbayrak",
-    "aciklama": "uzun mesafe koşularında sporcuların enerji için tükettiği karbonhidrat jeli.",
-    "yasakli_kelimeler": [
-      "faul",
-      "hakem",
-      "geçersiz",
-      "kural dışı",
-      "işaret"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 60,
-    "kategori": "atletizm",
-    "kelime": "beyazbayrak",
-    "aciklama": "yürüyüş yarışlarında sporcunun bir ayağının sürekli zeminle temas halinde kalması.",
-    "yasakli_kelimeler": [
-      "geçerli",
-      "onay",
-      "hakem",
-      "başarılı",
-      "ölçüm"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 61,
-    "kategori": "atletizm",
-    "kelime": "suistasyonu",
-    "aciklama": "yürüyüş yarışında bacağın yere basarken dik durması kuralı.",
-    "yasakli_kelimeler": [
-      "sıvı",
-      "içecek",
-      "maraton",
-      "ikmal",
-      "beş kilometre"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 62,
-    "kategori": "atletizm",
-    "kelime": "duvaraçarpma",
-    "aciklama": "yürüyüş hakeminin kural ihlali yapan sporcuya gösterdiği sarı uyarı tabelası.",
-    "yasakli_kelimeler": [
-      "otuzuncu kilometre",
-      "glikojen",
-      "tükenmek",
-      "enerji bitişi",
-      "çöküş"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 63,
-    "kategori": "atletizm",
-    "kelime": "karbonhidrat",
-    "aciklama": "üçüncü kırmızı kartı alan yürüyüşçünün diskalifiye edilerek yarıştan çıkarılması.",
-    "yasakli_kelimeler": [
-      "glikojen",
-      "makarna",
-      "enerji",
-      "depo",
-      "beslenme"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 64,
-    "kategori": "atletizm",
-    "kelime": "jel",
-    "aciklama": "yürüyüşçünün belirli ceza süresini beklediği ceza alanı kulübesi.",
-    "yasakli_kelimeler": [
-      "enerji jeli",
-      "glikoz",
-      "paket",
-      "emmek",
-      "şeker"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 65,
-    "kategori": "atletizm",
-    "kelime": "süngeristasyonu",
-    "aciklama": "üç bin metre engellideki su dolu havuz engeli.",
-    "yasakli_kelimeler": [
-      "ıslak sünger",
-      "serinleme",
-      "su",
-      "sıcak",
-      "ferahlama"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 66,
-    "kategori": "atletizm",
-    "kelime": "göğüsnumarası",
-    "aciklama": "engelli koşularda devrildiğinde sporcuyu sakatlamayan ağırlıklı metal engel.",
-    "yasakli_kelimeler": [
-      "bib",
-      "forma",
-      "çip",
-      "iğnelemek",
-      "sayı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 67,
-    "kategori": "atletizm",
-    "kelime": "çip",
-    "aciklama": "engelli koşucunun engelin üzerinden bacağını uzatarak pürüzsüz geçiş tekniği.",
-    "yasakli_kelimeler": [
-      "zamanlama",
-      "manyetik halı",
-      "ölçüm",
-      "net derece",
-      "ayakkabı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 68,
-    "kategori": "atletizm",
-    "kelime": "kulvardeğişimi",
-    "aciklama": "engelli koşuda engeli ilk aşan öndeki bacak.",
-    "yasakli_kelimeler": [
-      "sekiz yüz metre",
-      "iç kulvar",
-      "kırılma çizgisi",
-      "geçiş",
-      "viraj"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 69,
+    "id": 16,
     "kategori": "atletizm",
     "kelime": "viraj",
     "aciklama": "engeli aşarken arkadan bükülerek çekilen takipçi bacak.",
@@ -966,7 +224,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 70,
+    "id": 17,
     "kategori": "atletizm",
     "kelime": "düzlük",
     "aciklama": "yüz metre engellide sporcuların engeller arasında attığı üç adım ritmi.",
@@ -980,7 +238,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 71,
+    "id": 18,
     "kategori": "atletizm",
     "kelime": "ısınma",
     "aciklama": "dünya genelinde atletizm sporunu yöneten uluslararası çatı federasyon.",
@@ -994,7 +252,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 72,
+    "id": 19,
     "kategori": "atletizm",
     "kelime": "soğuma",
     "aciklama": "dünya atletizm şampiyonası ve elmas lig organizasyonları.",
@@ -1008,161 +266,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 73,
-    "kategori": "atletizm",
-    "kelime": "aşiltendonu",
-    "aciklama": "dünyanın en prestijli atletizm yarışma serisi elmas lig turnuvaları.",
-    "yasakli_kelimeler": [
-      "topuk",
-      "bağ",
-      "baldır",
-      "kopmak",
-      "tendon"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 74,
-    "kategori": "atletizm",
-    "kelime": "hamstring",
-    "aciklama": "dört yılda bir düzenlenen dünyanın en büyük spor organizasyonu oyunları.",
-    "yasakli_kelimeler": [
-      "arka bacak",
-      "uyluk",
-      "kas yırtılması",
-      "sprint",
-      "çekme"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 75,
-    "kategori": "atletizm",
-    "kelime": "kuadriseps",
-    "aciklama": "bir branşta tüm zamanların en iyi derecesi olan dünya rekoru.",
-    "yasakli_kelimeler": [
-      "ön bacak",
-      "uyluk",
-      "dört başlı",
-      "diz",
-      "güç"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 76,
-    "kategori": "atletizm",
-    "kelime": "şinsplint",
-    "aciklama": "olimpiyat oyunları tarihinde kırılan en iyi rekor derecesi.",
-    "yasakli_kelimeler": [
-      "kaval kemiği",
-      "bacak ağrısı",
-      "iltihap",
-      "sert zemin",
-      "sakatlık"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 77,
-    "kategori": "atletizm",
-    "kelime": "streskırığı",
-    "aciklama": "atletin kariyeri boyunca elde ettiği en iyi derece.",
-    "yasakli_kelimeler": [
-      "çatlak",
-      "kemik",
-      "aşırı yüklenme",
-      "tarak kemiği",
-      "mikro"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 78,
-    "kategori": "atletizm",
-    "kelime": "yükseklikçalışması",
-    "aciklama": "atletin o yıl içinde elde ettiği en iyi derece.",
-    "yasakli_kelimeler": [
-      "rakım",
-      "dağ kampı",
-      "alyuvar",
-      "oksijen",
-      "eritropoietin"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 79,
-    "kategori": "atletizm",
-    "kelime": "vo2max",
-    "aciklama": "bir yarışmada o yıl dünyada yapılan en iyi derece.",
-    "yasakli_kelimeler": [
-      "oksijen kapasitesi",
-      "azami tüketim",
-      "akciğer",
-      "kondisyon",
-      "test"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 80,
-    "kategori": "atletizm",
-    "kelime": "nabızölçer",
-    "aciklama": "eleme serilerinde doğrudan veya en iyi dereceyle finale kalma hakkı.",
-    "yasakli_kelimeler": [
-      "kalp atışı",
-      "göğüs bandı",
-      "saat",
-      "monitör",
-      "bpm"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 81,
-    "kategori": "atletizm",
-    "kelime": "interval",
-    "aciklama": "yarışmada en iyi dereceyi elde ederek altın madalya kazanan atlet.",
-    "yasakli_kelimeler": [
-      "aralıklı",
-      "dinlenme",
-      "tekrar",
-      "hızlı yavaş",
-      "antrenman"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 82,
-    "kategori": "atletizm",
-    "kelime": "tempo",
-    "aciklama": "yarışmada ikinci olarak gümüş madalya kazanan sporcu.",
-    "yasakli_kelimeler": [
-      "pace",
-      "hız",
-      "dakika kilometre",
-      "sabit",
-      "ritim"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 83,
-    "kategori": "atletizm",
-    "kelime": "fartlek",
-    "aciklama": "yarışmada üçüncü olarak bronz madalya kazanan sporcu.",
-    "yasakli_kelimeler": [
-      "hız oyunu",
-      "isveç",
-      "arazi",
-      "değişken hız",
-      "doğa"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 84,
+    "id": 20,
     "kategori": "atletizm",
     "kelime": "depar",
     "aciklama": "ilk üç dereceye giren sporcuların madalya aldığı basamaklı platform.",
@@ -1176,231 +280,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 85,
-    "kategori": "atletizm",
-    "kelime": "atak",
-    "aciklama": "yarışma sonrası şampiyon atletin stadyumda bayrakla koşarak attığı tur.",
-    "yasakli_kelimeler": [
-      "kaçış",
-      "öne fırlama",
-      "tempo artırma",
-      "rakipleri geçme",
-      "hamle"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 86,
-    "kategori": "atletizm",
-    "kelime": "taktikyarışı",
-    "aciklama": "kısa mesafede efsaneleşmiş ve dünya rekorlarını elinde tutan jamaikalı sprinter.",
-    "yasakli_kelimeler": [
-      "yavaş tempo",
-      "son tur",
-      "derece değil",
-      "madalya",
-      "sprint"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 87,
-    "kategori": "atletizm",
-    "kelime": "elit",
-    "aciklama": "seul olimpiyatlarında rekorlar kıran efsanevi kadın amerikan sprinter.",
-    "yasakli_kelimeler": [
-      "profesyonel",
-      "en iyi",
-      "öndeki grup",
-      "başlangıç",
-      "şampiyon"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 88,
-    "kategori": "atletizm",
-    "kelime": "master",
-    "aciklama": "maratonda iki saatin altını koşan efsanevi kenyalı uzun mesafe koşucusu.",
-    "yasakli_kelimeler": [
-      "veteran",
-      "yaş grubu",
-      "otuz beş",
-      "kategori",
-      "kıdemli"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 89,
-    "kategori": "atletizm",
-    "kelime": "paralimpik",
-    "aciklama": "maratonda ve pistte şampiyonluklar kazanan efsanevi etiyopyalı maratoncu.",
-    "yasakli_kelimeler": [
-      "engelli",
-      "protez",
-      "tekerlekli sandalye",
-      "olimpiyat",
-      "özel sporcu"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 90,
-    "kategori": "atletizm",
-    "kelime": "blade",
-    "aciklama": "on bin metrede rekorlar kıran etiyopyalı bekele.",
-    "yasakli_kelimeler": [
-      "karbon protez",
-      "yay",
-      "ayak",
-      "paralimpik",
-      "koşu bacağı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 91,
-    "kategori": "atletizm",
-    "kelime": "kılavuzkoşucu",
-    "aciklama": "dört olimpiyat altını kazanan ingiliz uzun mesafe koşucusu.",
-    "yasakli_kelimeler": [
-      "görme engelli",
-      "ip",
-      "yardımcı",
-      "rehber",
-      "yönlendirme"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 92,
-    "kategori": "atletizm",
-    "kelime": "aktarmaalanı",
-    "aciklama": "berlin olimpiyatlarında dört altın kazanan efsanevi amerikalı siyahi atlet.",
-    "yasakli_kelimeler": [
-      "bölge",
-      "bayrak teslimi",
-      "yirmi metre",
-      "stafet",
-      "çizgi"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 93,
-    "kategori": "atletizm",
-    "kelime": "öncüadım",
-    "aciklama": "dokuz olimpiyat altını kazanan efsanevi amerikan sprinter ve uzun atlamacı.",
-    "yasakli_kelimeler": [
-      "ilk bacak",
-      "engel aşma",
-      "uzatmak",
-      "ayak",
-      "bariyer"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 94,
-    "kategori": "atletizm",
-    "kelime": "takipbacağı",
-    "aciklama": "sırıkla atlamada defalarca dünya rekoru kıran ukraynalı efsane sporcu.",
-    "yasakli_kelimeler": [
-      "arka bacak",
-      "yatay",
-      "engel",
-      "toplamak",
-      "bükülü"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 95,
-    "kategori": "atletizm",
-    "kelime": "rüzgarlık",
-    "aciklama": "sırıkla atlamada altı metrenin üzerine çıkan modern rekorcu isveçli atlet.",
-    "yasakli_kelimeler": [
-      "ceket",
-      "yağmurluk",
-      "hafif",
-      "soğuk hava",
-      "koşu giysisi"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 96,
-    "kategori": "atletizm",
-    "kelime": "termaltayt",
-    "aciklama": "yüksek atlamada iki kırk beşlik dünya rekorunu tutan kübalı atlet.",
-    "yasakli_kelimeler": [
-      "tayt",
-      "sıkı",
-      "kas desteği",
-      "sıcak",
-      "kompresyon"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 97,
-    "kategori": "atletizm",
-    "kelime": "kompresyon",
-    "aciklama": "yüksek atlamada sırtüstü atlama stilini bulan amerikalı atlet.",
-    "yasakli_kelimeler": [
-      "basınç",
-      "çorap",
-      "baldır",
-      "kan dolaşımı",
-      "ödem"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 98,
-    "kategori": "atletizm",
-    "kelime": "karbonplaka",
-    "aciklama": "cirit atmada doksan sekiz metrelik dünya rekorunu tutan çek sporcu.",
-    "yasakli_kelimeler": [
-      "ayakkabı tabanı",
-      "enerji dönüşü",
-      "süper ayakkabı",
-      "köpük",
-      "hızlanma"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 99,
-    "kategori": "atletizm",
-    "kelime": "madalyatöreni",
-    "aciklama": "üç adım atlamada dünya rekoru tutan jonathan edwards.",
-    "yasakli_kelimeler": [
-      "ödül",
-      "marş",
-      "boyun",
-      "kürsü",
-      "bayrak çekme"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 100,
-    "kategori": "atletizm",
-    "kelime": "elmaslig",
-    "aciklama": "uzun atlamada sekiz doksan beşlik dünya rekorunu tutan amerikalı atlet.",
-    "yasakli_kelimeler": [
-      "diamond league",
-      "prestij",
-      "şampiyona",
-      "puan",
-      "yıldızlar"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 101,
+    "id": 21,
     "kategori": "atletizm",
     "kelime": "yarı maraton",
     "aciklama": "atletizm müsabakalarında yarışları adil şekilde yöneten resmi hakem heyeti.",
@@ -1414,7 +294,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 102,
+    "id": 22,
     "kategori": "atletizm",
     "kelime": "kros",
     "aciklama": "atletlerin ve yarış sonuçlarının anons edildiği stadyum spikeri yayını.",
@@ -1428,7 +308,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 103,
+    "id": 23,
     "kategori": "atletizm",
     "kelime": "stadyum",
     "aciklama": "atletlerin forma numaralarını ve isimlerini taşıyan göğüs numarası bezi.",
@@ -1442,7 +322,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 104,
+    "id": 24,
     "kategori": "atletizm",
     "kelime": "başlangıç çizgisi",
     "aciklama": "atletlerin derecelerini, rüzgar hızını ve sıralamalarını gösteren led dev ekran.",
@@ -1456,7 +336,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 105,
+    "id": 25,
     "kategori": "atletizm",
     "kelime": "bitiş çizgisi",
     "aciklama": "atletlerin yarıştan önce ısındığı stadyum dışındaki ısınma pisti.",
@@ -1470,7 +350,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 106,
+    "id": 26,
     "kategori": "atletizm",
     "kelime": "çıkış tabancası",
     "aciklama": "atletlerin yarıştan önce toplanıp kimlik kontrolü yapıldığı çağrı odası.",
@@ -1484,35 +364,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 107,
-    "kategori": "atletizm",
-    "kelime": "tepki süresi",
-    "aciklama": "yarış bitiminde atletlerin gazetecilere röportaj verdiği karma bölge.",
-    "yasakli_kelimeler": [
-      "refleks",
-      "milisaniye",
-      "çıkış",
-      "hız",
-      "zaman"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 108,
-    "kategori": "atletizm",
-    "kelime": "ivmelenme",
-    "aciklama": "atletlerden rastgele idrar ve kan örneği alınan doping kontrol istasyonu.",
-    "yasakli_kelimeler": [
-      "hızlanma",
-      "sürat",
-      "tempo",
-      "artış",
-      "koşu"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 109,
+    "id": 27,
     "kategori": "atletizm",
     "kelime": "finiş",
     "aciklama": "dünya dopingle mücadele ajansının yasaklı maddeler listesi ve kuralları.",
@@ -1526,7 +378,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 110,
+    "id": 28,
     "kategori": "atletizm",
     "kelime": "derece",
     "aciklama": "atletlerin kan değerlerini takip eden biyolojik pasaport.",
@@ -1540,21 +392,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 111,
-    "kategori": "atletizm",
-    "kelime": "rüzgar yardımı",
-    "aciklama": "kas kütlesini ve gücünü yapay olarak artıran yasaklı anabolik steroidler.",
-    "yasakli_kelimeler": [
-      "hava akımı",
-      "arka",
-      "rekor",
-      "saniyede metre",
-      "hız"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 112,
+    "id": 29,
     "kategori": "atletizm",
     "kelime": "olimpiyat",
     "aciklama": "kandaki alyuvar sayısını artırarak dayanıklılığı yükselten yasaklı hormon hormonu.",
@@ -1568,7 +406,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 113,
+    "id": 30,
     "kategori": "atletizm",
     "kelime": "altın madalya",
     "aciklama": "kendi kanını dondurup yarış öncesi vererek dayanıklılık artırma.",
@@ -1582,7 +420,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 114,
+    "id": 31,
     "kategori": "atletizm",
     "kelime": "gümüş madalya",
     "aciklama": "doping maddelerini idrarla hızlıca atarak gizleyen yasaklı idrar söktürücü ilaçlar.",
@@ -1596,7 +434,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 115,
+    "id": 32,
     "kategori": "atletizm",
     "kelime": "bronz madalya",
     "aciklama": "atletin doping cezası alarak yarışmalardan belirli süre men edilmesi kararı.",
@@ -1610,7 +448,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 116,
+    "id": 33,
     "kategori": "atletizm",
     "kelime": "hakem",
     "aciklama": "doping yaptığı kanıtlanan sporcunun kazandığı madalya ve rekorların elinden alınması.",
@@ -1624,49 +462,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 117,
-    "kategori": "atletizm",
-    "kelime": "başhakem",
-    "aciklama": "temiz sporcuların haklarını korumak için uygulanan sıfır tolerans doping ilkesi.",
-    "yasakli_kelimeler": [
-      "lider",
-      "üst düzey",
-      "itiraz",
-      "karar",
-      "yetkili"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 118,
-    "kategori": "atletizm",
-    "kelime": "çıkış hakemi",
-    "aciklama": "atletlerin form durumunu ve kondisyonunu geliştiren profesyonel antrenör.",
-    "yasakli_kelimeler": [
-      "starter",
-      "tabanca",
-      "başlatma",
-      "takoz",
-      "start"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 119,
-    "kategori": "atletizm",
-    "kelime": "varış hakemi",
-    "aciklama": "patlayıcı gücü ve sıçrama yeteneğini artıran sıçramalı antrenman yöntemi.",
-    "yasakli_kelimeler": [
-      "finiş",
-      "sıralama",
-      "bitiş",
-      "foto finiş",
-      "çizgi"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 120,
+    "id": 34,
     "kategori": "atletizm",
     "kelime": "tur bindirme",
     "aciklama": "yüksek tempolu koşu ile dinlenme aralıklarını birleştiren dayanıklılık antrenmanı.",
@@ -1680,7 +476,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 121,
+    "id": 35,
     "kategori": "atletizm",
     "kelime": "son tur",
     "aciklama": "arazide tempo değiştirilerek yapılan fartlek koşu çalışması.",
@@ -1694,21 +490,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 122,
-    "kategori": "atletizm",
-    "kelime": "çan sesi",
-    "aciklama": "düşük tempoda kesintisiz olarak saatlerce koşulan temel dayanıklılık antrenmanı.",
-    "yasakli_kelimeler": [
-      "zil",
-      "son tur",
-      "metal",
-      "işaret",
-      "duyuru"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 123,
+    "id": 36,
     "kategori": "atletizm",
     "kelime": "şampiyona",
     "aciklama": "yüksek irtifada oksijensiz ortamda çalışarak alyuvar sayısını doğal artırma kampı.",
@@ -1722,7 +504,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 124,
+    "id": 37,
     "kategori": "atletizm",
     "kelime": "pist",
     "aciklama": "yarış haftasında antrenman hacmini azaltarak vücudu dinlendirme dönemi.",
@@ -1736,217 +518,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 125,
-    "kategori": "atletizm",
-    "kelime": "pist koşusu",
-    "aciklama": "yoğun antrenman sonrasında kasların toparlanması ve yenilenmesi süreci.",
-    "yasakli_kelimeler": [
-      "stadyum",
-      "sentetik zemin",
-      "kulvar",
-      "yarış",
-      "koşu"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 126,
-    "kategori": "atletizm",
-    "kelime": "yol koşusu",
-    "aciklama": "ağır antrenman sonrası kas iltihabını azaltmak için girilen buz banyosu.",
-    "yasakli_kelimeler": [
-      "asfalt",
-      "şehir",
-      "cadde",
-      "halk koşusu",
-      "maraton"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 127,
-    "kategori": "atletizm",
-    "kelime": "ultra maraton",
-    "aciklama": "kaslardaki laktik asidi dağıtmak ve gerginliği azaltmak için yapılan masaj.",
-    "yasakli_kelimeler": [
-      "elli kilometre",
-      "yüz kilometre",
-      "aşırı mesafe",
-      "uzun",
-      "dayanıklılık"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 128,
-    "kategori": "atletizm",
-    "kelime": "dağ koşusu",
-    "aciklama": "antrenman öncesi ve sonrası kasları esneterek sakatlığı önleme egzersizleri.",
-    "yasakli_kelimeler": [
-      "rakım",
-      "yokuş",
-      "patika",
-      "zirve",
-      "tırmanış"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 129,
-    "kategori": "atletizm",
-    "kelime": "arazi koşusu",
-    "aciklama": "kısa mesafe koşucularında sık görülen arka bacak kası yırtılması sakatlığı.",
-    "yasakli_kelimeler": [
-      "patika",
-      "trail",
-      "orman",
-      "toprak",
-      "doğa"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 130,
-    "kategori": "atletizm",
-    "kelime": "bayrak değişimi",
-    "aciklama": "topuk kirişinde aşırı yüklenmeyle oluşan ağrılı aşil tendiniti iltihabı.",
-    "yasakli_kelimeler": [
-      "stafet",
-      "aktarma",
-      "el değiştirme",
-      "bölge",
-      "takım"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 131,
-    "kategori": "atletizm",
-    "kelime": "kör aktarma",
-    "aciklama": "sert zeminde koşan atletlerde kaval kemiği önünde oluşan ağrı sendromu.",
-    "yasakli_kelimeler": [
-      "bakmadan",
-      "sürat",
-      "stafet",
-      "el uzatma",
-      "komut"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 132,
-    "kategori": "atletizm",
-    "kelime": "ara derece",
-    "aciklama": "tekrarlayan darbeler sonucu kemikte oluşan mikroskobik stres kırığı çatlağı.",
-    "yasakli_kelimeler": [
-      "split",
-      "geçiş süresi",
-      "kilometre zamanı",
-      "ölçüm",
-      "zaman"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 133,
-    "kategori": "atletizm",
-    "kelime": "kişisel rekor",
-    "aciklama": "ayak tabanındaki kalın lifli bağ dokusunun iltihaplanmasıyla oluşan topuk ağrısı.",
-    "yasakli_kelimeler": [
-      "en iyi",
-      "kariyer",
-      "bireysel",
-      "başarı",
-      "derece"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 134,
-    "kategori": "atletizm",
-    "kelime": "sezon rekoru",
-    "aciklama": "atletin yarış stresini ve baskısını yönetmesini sağlayan spor psikoloğu desteği.",
-    "yasakli_kelimeler": [
-      "yıllık",
-      "mevcut yıl",
-      "dönem",
-      "en iyi",
-      "derece"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 135,
-    "kategori": "atletizm",
-    "kelime": "baraj derecesi",
-    "aciklama": "atletin yarış anını ve kazanma hedefini zihninde canlandırma tekniği.",
-    "yasakli_kelimeler": [
-      "katılım hakkı",
-      "yeterlilik",
-      "kota",
-      "sınır",
-      "hedef"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 136,
-    "kategori": "atletizm",
-    "kelime": "eleme turu",
-    "aciklama": "atletin performansını artırmak için tükettiği protein, karbonhidrat ve takviye planı.",
-    "yasakli_kelimeler": [
-      "seçme",
-      "ön tur",
-      "elenme",
-      "üst tur",
-      "yarış"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 137,
-    "kategori": "atletizm",
-    "kelime": "seçme yarışı",
-    "aciklama": "vücudun aşırı terlemeyle su ve elektrolit kaybederek susuz kalması durumu.",
-    "yasakli_kelimeler": [
-      "heat",
-      "seri",
-      "ilk tur",
-      "kalifiye",
-      "yarışma"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 138,
-    "kategori": "atletizm",
-    "kelime": "final yarışı",
-    "aciklama": "terlemeyle kaybedilen sodyum ve potasyumu yerine koyan izotonik sporcu içeceği.",
-    "yasakli_kelimeler": [
-      "madalya",
-      "şampiyonluk",
-      "son yarış",
-      "birincilik",
-      "kürsü"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 139,
-    "kategori": "atletizm",
-    "kelime": "pentatlon",
-    "aciklama": "kas gelişimini ve antrenman sonrası kas tamirini hızlandıran protein takviyesi.",
-    "yasakli_kelimeler": [
-      "beşli",
-      "branş",
-      "puan",
-      "çoklu yarış",
-      "salon"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 140,
+    "id": 38,
     "kategori": "atletizm",
     "kelime": "triatlon",
     "aciklama": "kısa süreli patlayıcı güç üretimini artıran popüler sporcu takviyesi tozu.",
@@ -1960,91 +532,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 141,
-    "kategori": "atletizm",
-    "kelime": "fiberglas sırık",
-    "aciklama": "yorgunluğu geciktirip dikkati artıran doğal ve yasal kafein takviyesi.",
-    "yasakli_kelimeler": [
-      "esnek çubuk",
-      "atlama",
-      "bükülme",
-      "elyaf",
-      "yükseklik"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 142,
-    "kategori": "atletizm",
-    "kelime": "ağırlık atma",
-    "aciklama": "antrenman hacmini ve şiddetini yıl içine yayan dönemselleştirme planı.",
-    "yasakli_kelimeler": [
-      "metal kütle",
-      "fırlatma",
-      "atma alanı",
-      "kuvvet",
-      "salon"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 143,
-    "kategori": "atletizm",
-    "kelime": "kayma tekniği",
-    "aciklama": "atletin kondisyonunun ve formunun zirveye ulaştığı hedef yarış dönemi.",
-    "yasakli_kelimeler": [
-      "gülleci",
-      "çember",
-      "geri adım",
-      "atma",
-      "fırlatma"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 144,
-    "kategori": "atletizm",
-    "kelime": "dönerek atış",
-    "aciklama": "aşırı antrenman ve yetersiz dinlenme sonucu performansın çökmesi durumu.",
-    "yasakli_kelimeler": [
-      "dönüş",
-      "merkezkaç",
-      "disk",
-      "gülle",
-      "savurma"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 145,
-    "kategori": "atletizm",
-    "kelime": "savurma",
-    "aciklama": "atletin bir dakikada tüketebileceği azami oksijen kapasitesi dayanıklılık ölçütü.",
-    "yasakli_kelimeler": [
-      "kol",
-      "fırlatma",
-      "hızlandırma",
-      "atış",
-      "kuvvet"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 146,
-    "kategori": "atletizm",
-    "kelime": "adım frekansı",
-    "aciklama": "kanda laktik asidin hızla birikmeye başladığı yorulma eşiği noktası.",
-    "yasakli_kelimeler": [
-      "kadans",
-      "dakika",
-      "adım sayısı",
-      "tempo",
-      "hız"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 147,
+    "id": 39,
     "kategori": "atletizm",
     "kelime": "koşu bandı",
     "aciklama": "sporcunun bir dakikadaki kalp atım sayısı ve nabız hızı göstergesi.",
@@ -2058,7 +546,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 148,
+    "id": 40,
     "kategori": "atletizm",
     "kelime": "koşu ayakkabısı",
     "aciklama": "atletin sabah uyanır uyanmaz ölçtüğü dinlenik kalp atım hızı.",
@@ -2072,21 +560,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 149,
-    "kategori": "atletizm",
-    "kelime": "atletizm federasyonu",
-    "aciklama": "koşu sırasında ayağın dakikada yere basma sayısı adımlama frekansı.",
-    "yasakli_kelimeler": [
-      "kurum",
-      "yönetim",
-      "milli takım",
-      "spor bakanlığı",
-      "başkanlık"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 150,
+    "id": 41,
     "kategori": "atletizm",
     "kelime": "antrenör",
     "aciklama": "koşucunun bir adımda katettiği iki ayak basışı arasındaki mesafe.",
@@ -2100,7 +574,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 151,
+    "id": 42,
     "kategori": "atletizm",
     "kelime": "antrenman",
     "aciklama": "koşarken ayağın zeminle ilk temas ettiği taban basış tarzı.",
@@ -2114,7 +588,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 152,
+    "id": 43,
     "kategori": "atletizm",
     "kelime": "kondisyon",
     "aciklama": "ayağın yere basarken topuktan önce ayak tarağıyla temas etmesi stili.",
@@ -2128,7 +602,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 153,
+    "id": 44,
     "kategori": "atletizm",
     "kelime": "dayanıklılık",
     "aciklama": "uzun mesafe koşucularında görülen ayağın yere ilk topukla temas etmesi.",
@@ -2142,21 +616,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 154,
-    "kategori": "atletizm",
-    "kelime": "patlayıcı güç",
-    "aciklama": "ayağın yere basarken içe doğru aşırı derecede esneyip dönmesi hali.",
-    "yasakli_kelimeler": [
-      "ani kuvvet",
-      "sıçrama",
-      "sürat",
-      "kas patlaması",
-      "fırlama"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 155,
+    "id": 45,
     "kategori": "atletizm",
     "kelime": "esneklik",
     "aciklama": "ayağın yere basarken dış kenarı üzerinde kalması hali.",
@@ -2170,7 +630,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 156,
+    "id": 46,
     "kategori": "atletizm",
     "kelime": "çeviklik",
     "aciklama": "ayak tabanında doğal iç kavisi destekleyen nötr taban yapısı.",
@@ -2184,49 +644,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 157,
-    "kategori": "atletizm",
-    "kelime": "koordinasyon",
-    "aciklama": "enerji dönüşümünü artıran karbon fiber plakalı modern taban teknolojisi.",
-    "yasakli_kelimeler": [
-      "uyum",
-      "denge",
-      "hareket kontrolü",
-      "kas",
-      "sinir"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 158,
-    "kategori": "atletizm",
-    "kelime": "kas gücü",
-    "aciklama": "darbeleri emen ve yaylanan kalın tabanlı köpük orta taban.",
-    "yasakli_kelimeler": [
-      "kuvvet",
-      "ağırlık",
-      "direnç",
-      "kasılma",
-      "güç"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 159,
-    "kategori": "atletizm",
-    "kelime": "kas yorgunluğu",
-    "aciklama": "ayakkabının topuk yüksekliği ile burun yüksekliği arasındaki milimetrik fark.",
-    "yasakli_kelimeler": [
-      "tükenme",
-      "halsizlik",
-      "güçsüzlük",
-      "ağrı",
-      "laktat"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 160,
+    "id": 47,
     "kategori": "atletizm",
     "kelime": "kramp",
     "aciklama": "atletlerin terletmeyen ve sürtünmeyi azaltan hafif nefes alan forması.",
@@ -2240,77 +658,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 161,
-    "kategori": "atletizm",
-    "kelime": "dehidrasyon",
-    "aciklama": "sürtünmeyi azaltıp kas titreşimini kesen bacakları saran tayt.",
-    "yasakli_kelimeler": [
-      "su kaybı",
-      "susuzluk",
-      "terleme",
-      "sıvı",
-      "kuruma"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 162,
-    "kategori": "atletizm",
-    "kelime": "tuz tableti",
-    "aciklama": "kan dolaşımını hızlandırıp toparlanmayı artıran diz altı basınçlı çoraplar.",
-    "yasakli_kelimeler": [
-      "sodyum",
-      "kramp önleyici",
-      "mineral",
-      "hap",
-      "takviye"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 163,
-    "kategori": "atletizm",
-    "kelime": "glikojen",
-    "aciklama": "koşu sırasında göğüs uçlarının sürtünmeyle tahriş olmasını önleyen koruyucu bant.",
-    "yasakli_kelimeler": [
-      "karbonhidrat",
-      "depo",
-      "kas yakıtı",
-      "glukoz",
-      "enerji"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 164,
-    "kategori": "atletizm",
-    "kelime": "elektrolit",
-    "aciklama": "koşucuların kollarını sıcak tutmak ve güneşten korumak için taktığı kolluk.",
-    "yasakli_kelimeler": [
-      "sodyum",
-      "potasyum",
-      "mineral",
-      "iyon",
-      "sıvı dengesi"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 165,
-    "kategori": "atletizm",
-    "kelime": "terleme",
-    "aciklama": "alından gözlere ter akmasını önleyen havlu kafa bandı kumaşı.",
-    "yasakli_kelimeler": [
-      "su atımı",
-      "ısı dengesi",
-      "gözenek",
-      "deri",
-      "sıcaklık"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 166,
+    "id": 48,
     "kategori": "atletizm",
     "kelime": "nabız",
     "aciklama": "bilekteki teri silmek için takılan emici havlu bileklik.",
@@ -2324,49 +672,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 167,
-    "kategori": "atletizm",
-    "kelime": "maksimum nabız",
-    "aciklama": "koşucunun hızını, mesafesini ve nabzını uyduyla ölçen akıllı kol saati.",
-    "yasakli_kelimeler": [
-      "en yüksek",
-      "kalp limiti",
-      "tepe değer",
-      "efor",
-      "dakika"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 168,
-    "kategori": "atletizm",
-    "kelime": "dinlenme nabzı",
-    "aciklama": "kalp atışlarını hassas ölçen sensörlü göğüs kayışı.",
-    "yasakli_kelimeler": [
-      "istirahat",
-      "sabah nabzı",
-      "sakinlik",
-      "kalp hızı",
-      "düşük atım"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 169,
-    "kategori": "atletizm",
-    "kelime": "toparlanma",
-    "aciklama": "atletizm şampiyonalarının düzenlendiği tartan pistli büyük açık stadyum.",
-    "yasakli_kelimeler": [
-      "dinlenme",
-      "rejenerasyon",
-      "onarım",
-      "iyileşme",
-      "mola"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 170,
+    "id": 49,
     "kategori": "atletizm",
     "kelime": "spor masajı",
     "aciklama": "kış aylarında iki yüz metrelik pistte yapılan salon atletizmi.",
@@ -2380,77 +686,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 171,
-    "kategori": "atletizm",
-    "kelime": "kinezyo bant",
-    "aciklama": "kapalı salon yarışlarında virajların savrulmayı önlemek için eğimli yapılması.",
-    "yasakli_kelimeler": [
-      "renkli bant",
-      "kas desteği",
-      "yapışkan",
-      "elastik",
-      "fizik tedavi"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 172,
-    "kategori": "atletizm",
-    "kelime": "buz banyosu",
-    "aciklama": "kapalı salonda yapılan altmış metre sprint koşusu.",
-    "yasakli_kelimeler": [
-      "soğuk su",
-      "şok",
-      "kas onarımı",
-      "küvet",
-      "iltihap önleme"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 173,
-    "kategori": "atletizm",
-    "kelime": "kas yırtılması",
-    "aciklama": "kadın ve erkek atletlerin koştuğu karma bayrak takımı.",
-    "yasakli_kelimeler": [
-      "lif kopması",
-      "şiddetli ağrı",
-      "sakatlık",
-      "kanama",
-      "hareketsizlik"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 174,
-    "kategori": "atletizm",
-    "kelime": "menisküs",
-    "aciklama": "çamur ve hendekli arazide koşulan kış kros koşusu.",
-    "yasakli_kelimeler": [
-      "diz",
-      "kıkırdak",
-      "eklem",
-      "yırtık",
-      "bacak"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 175,
-    "kategori": "atletizm",
-    "kelime": "bağ kopması",
-    "aciklama": "patikalarda ve dağlarda doğayla iç içe arazi koşusu.",
-    "yasakli_kelimeler": [
-      "çapraz bağ",
-      "eklem",
-      "kopma",
-      "ameliyat",
-      "diz"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 176,
+    "id": 50,
     "kategori": "atletizm",
     "kelime": "burkulma",
     "aciklama": "maraton mesafesinden daha uzun koşulan ultra maratonlar.",
@@ -2464,63 +700,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 177,
-    "kategori": "atletizm",
-    "kelime": "kas spazmı",
-    "aciklama": "yüz kilometrelik parkuru kesintisiz tamamlama hedefli ultra dayanıklılık yarışı.",
-    "yasakli_kelimeler": [
-      "sertleşme",
-      "kasılma",
-      "ağrılı tutulma",
-      "gerilme",
-      "büzülme"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 178,
-    "kategori": "atletizm",
-    "kelime": "tabanlık",
-    "aciklama": "yirmi dört saat boyunca durmaksızın en çok kilometreyi koşma.",
-    "yasakli_kelimeler": [
-      "ortopedik",
-      "ayakkabı içi",
-      "basış desteği",
-      "düz taban",
-      "ped"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 179,
-    "kategori": "atletizm",
-    "kelime": "çivi anahtarı",
-    "aciklama": "alplerde yüz yetmiş kilometre koşulan utmb patika yarışı.",
-    "yasakli_kelimeler": [
-      "sıkma",
-      "vida aleti",
-      "değiştirme",
-      "ayakkabı tabanı",
-      "metal diş"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 180,
-    "kategori": "atletizm",
-    "kelime": "yarış forması",
-    "aciklama": "sahra çölü'nde koşulan efsanevi des sables çöl yarışı.",
-    "yasakli_kelimeler": [
-      "forma",
-      "kolsuz",
-      "göğüs numarası",
-      "hafif kumaş",
-      "atlet üstü"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 181,
+    "id": 51,
     "kategori": "atletizm",
     "kelime": "şort",
     "aciklama": "elli derece sıcaklıkta koşulan badwater ultra maratonu.",
@@ -2534,7 +714,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 182,
+    "id": 52,
     "kategori": "atletizm",
     "kelime": "ter bandı",
     "aciklama": "yüzme, bisiklet ve koşunun peş peşe yapıldığı triatlon.",
@@ -2548,35 +728,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 183,
-    "kategori": "atletizm",
-    "kelime": "tepe antrenmanı",
-    "aciklama": "yüzme, bisiklet ve maraton içeren en zorlu ironman.",
-    "yasakli_kelimeler": [
-      "yokuş koşusu",
-      "eğim",
-      "bacak kuvveti",
-      "tırmanış",
-      "idman"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 184,
-    "kategori": "atletizm",
-    "kelime": "merdiven antrenmanı",
-    "aciklama": "koşu, bisiklet ve tekrar koşu etaplarından oluşan ikili dayanıklılık sporu.",
-    "yasakli_kelimeler": [
-      "basamak",
-      "tribün",
-      "sıçrama",
-      "bacak çalışması",
-      "yükselme"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 185,
+    "id": 53,
     "kategori": "atletizm",
     "kelime": "uzun koşu",
     "aciklama": "harita ve pusulayla hedefleri bularak koşma oryantiring sporu.",
@@ -2590,203 +742,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 186,
-    "kategori": "atletizm",
-    "kelime": "toparlanma koşusu",
-    "aciklama": "atletin antrenmanda veya yarışta hedeflediği dakika başına kilometre temposu.",
-    "yasakli_kelimeler": [
-      "recovery",
-      "hafif koşu",
-      "dinlenme",
-      "ter atma",
-      "yavaş"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 187,
-    "kategori": "atletizm",
-    "kelime": "hız antrenmanı",
-    "aciklama": "koşu bandı üzerinde hız ve eğim ayarlanarak kapalı alanda koşma.",
-    "yasakli_kelimeler": [
-      "sürat",
-      "tam güç",
-      "kısa mesafe",
-      "patlayıcılık",
-      "tekrar"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 188,
-    "kategori": "atletizm",
-    "kelime": "eşik koşusu",
-    "aciklama": "gruptan öne fırlayarak fark açma ve liderliği alma.",
-    "yasakli_kelimeler": [
-      "laktat sınırı",
-      "tempo",
-      "denge",
-      "zorlanma",
-      "idman"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 189,
-    "kategori": "atletizm",
-    "kelime": "laktat eşiği",
-    "aciklama": "öndeki koşucunun arkasına saklanarak rüzgar direncinden korunma taktiği.",
-    "yasakli_kelimeler": [
-      "asit birikimi",
-      "kritik sınır",
-      "yanma hissi",
-      "efor",
-      "yorgunluk"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 190,
-    "kategori": "atletizm",
-    "kelime": "oksijen borcu",
-    "aciklama": "yarışın ikinci yarısını ilk yarısından daha hızlı koşma kazanma stratejisi.",
-    "yasakli_kelimeler": [
-      "nefes nefese",
-      "anaerobik açık",
-      "soluklanma",
-      "geri ödeme",
-      "derin nefes"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 191,
-    "kategori": "atletizm",
-    "kelime": "aerobik kapasite",
-    "aciklama": "yarışın başından sonuna kadar tam aynı sabit hız temposunu koruma.",
-    "yasakli_kelimeler": [
-      "oksijen kullanımı",
-      "akciğer",
-      "dayanıklılık",
-      "kalp kapasitesi",
-      "verim"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 192,
-    "kategori": "atletizm",
-    "kelime": "çıkış tekniği",
-    "aciklama": "yarışa çok hızlı başlayıp ikinci yarıda yavaşlama riskli koşu taktiği.",
-    "yasakli_kelimeler": [
-      "start duruşu",
-      "takoz fırlaması",
-      "gövde açısı",
-      "hareket mekaniği",
-      "patlama"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 193,
-    "kategori": "atletizm",
-    "kelime": "ayak ucu",
-    "aciklama": "uzun mesafede koşucuların birlikte koştuğu ana grup peloton.",
-    "yasakli_kelimeler": [
-      "parmak ucu",
-      "tarak kemiği",
-      "sprint basışı",
-      "ön ayak",
-      "temas süresi"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 194,
-    "kategori": "atletizm",
-    "kelime": "topuk basma",
-    "aciklama": "yarışın son yüz metresinde rakipleri geçmek için atılan son sprint.",
-    "yasakli_kelimeler": [
-      "topuk",
-      "basış stili",
-      "frenleme",
-      "arka ayak",
-      "darbe"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 195,
-    "kategori": "atletizm",
-    "kelime": "orta ayak",
-    "aciklama": "birbirine çok yakın bitiren koşuculardan kazananın foto finişle belirlenmesi.",
-    "yasakli_kelimeler": [
-      "ayak kemeri",
-      "dengeli basış",
-      "orta taban",
-      "darbe emilimi",
-      "koşu tekniği"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 196,
-    "kategori": "atletizm",
-    "kelime": "dikey sıçrama",
-    "aciklama": "atletlerin milimetrik aynı anda bitirmesi beraberlik durumu.",
-    "yasakli_kelimeler": [
-      "havaya sıçrama",
-      "yükselme",
-      "bacak gücü",
-      "ölçüm",
-      "zıplama"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 197,
-    "kategori": "atletizm",
-    "kelime": "adım sayısı",
-    "aciklama": "yarışma rekorunu veya madalyayı kaybeden atletin yaşadığı büyük hayal kırıklığı.",
-    "yasakli_kelimeler": [
-      "toplam adım",
-      "pedometre",
-      "sayım",
-      "koşu hesabı",
-      "ayak basışı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 198,
-    "kategori": "atletizm",
-    "kelime": "adım sıklığı",
-    "aciklama": "rekor kıran atletin pistte sevinçten attığı çığlık ve taraftarla kucaklaşması.",
-    "yasakli_kelimeler": [
-      "serilik",
-      "frekans",
-      "tempo",
-      "hızlı adım",
-      "kadans"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 199,
-    "kategori": "atletizm",
-    "kelime": "su engeli",
-    "aciklama": "rakip atletlerin yarış bittikten sonra birbirlerine sarılarak sergilediği centilmenlik duruşu.",
-    "yasakli_kelimeler": [
-      "hendek",
-      "su çukuru",
-      "ıslanma",
-      "bariyer arkası",
-      "atlama"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 200,
+    "id": 54,
     "kategori": "atletizm",
     "kelime": "bariyer",
     "aciklama": "engelli sporcuların protez bacak veya tekerlekli sandalyeyle yarıştığı olimpiyatlar.",
@@ -2811,7 +767,7 @@
       "ayak"
     ],
     "zorluk": "kolay",
-    "id": 201
+    "id": 55
   },
   {
     "kategori": "atletizm",
@@ -2825,7 +781,7 @@
       "yüksek"
     ],
     "zorluk": "kolay",
-    "id": 202
+    "id": 56
   },
   {
     "kategori": "atletizm",
@@ -2839,7 +795,7 @@
       "uzak"
     ],
     "zorluk": "kolay",
-    "id": 203
+    "id": 57
   },
   {
     "kategori": "atletizm",
@@ -2853,133 +809,7 @@
       "hafif tempo"
     ],
     "zorluk": "kolay",
-    "id": 204
-  },
-  {
-    "kategori": "atletizm",
-    "kelime": "çıkış yapmak",
-    "aciklama": "genç yeteneklerin küçük yaşta keşfedilip atletizm altyapısına kazandırılması süreci.",
-    "yasakli_kelimeler": [
-      "takoz",
-      "start",
-      "tabanca",
-      "başlamak",
-      "fırlamak"
-    ],
-    "zorluk": "kolay",
-    "id": 205
-  },
-  {
-    "kategori": "atletizm",
-    "kelime": "tur bindirmek",
-    "aciklama": "geleceğin şampiyon atletlerini yetiştirmek için kurulan sporcu eğitim merkezleri.",
-    "yasakli_kelimeler": [
-      "tur",
-      "fark",
-      "arkada kalan",
-      "geçmek",
-      "pist"
-    ],
-    "zorluk": "kolay",
-    "id": 206
-  },
-  {
-    "kategori": "atletizm",
-    "kelime": "bayrak devretmek",
-    "aciklama": "yetenekli atletlere üniversiteler veya federasyonlarca sağlanan eğitim ve barınma bursu.",
-    "yasakli_kelimeler": [
-      "bayrak yarışı",
-      "sopa",
-      "4x100",
-      "takım",
-      "teslim"
-    ],
-    "zorluk": "kolay",
-    "id": 207
-  },
-  {
-    "kategori": "atletizm",
-    "kelime": "ip göğüslemek",
-    "aciklama": "başarılı atletlerin spor markalarıyla yaptığı milyon dolarlık sponsorluk sözleşmeleri.",
-    "yasakli_kelimeler": [
-      "şerit",
-      "bitiş",
-      "birinci",
-      "kazanmak",
-      "finiş"
-    ],
-    "zorluk": "kolay",
-    "id": 208
-  },
-  {
-    "kategori": "atletizm",
-    "kelime": "kum havuzuna atlamak",
-    "aciklama": "maratonlarda ilk sıralara girenlere verilen nakit para ödülü.",
-    "yasakli_kelimeler": [
-      "kum",
-      "havuz",
-      "uzun atlama",
-      "üç adım",
-      "basış"
-    ],
-    "zorluk": "kolay",
-    "id": 209
-  },
-  {
-    "kategori": "atletizm",
-    "kelime": "çıta düşürmek",
-    "aciklama": "yarışlarda dereceye giren sporculara takdim edilen altın kupa ve plaket.",
-    "yasakli_kelimeler": [
-      "yüksek atlama",
-      "çıta",
-      "devirmek",
-      "başarısız",
-      "minder"
-    ],
-    "zorluk": "kolay",
-    "id": 210
-  },
-  {
-    "kategori": "atletizm",
-    "kelime": "kronometre tutmak",
-    "aciklama": "atletizm pistinde veya sahada kurallara uyulup uyulmadığını denetleyen saha komiseri.",
-    "yasakli_kelimeler": [
-      "saniye",
-      "derece",
-      "süre",
-      "ölçüm",
-      "antrenör"
-    ],
-    "zorluk": "kolay",
-    "id": 211
-  },
-  {
-    "kategori": "atletizm",
-    "kelime": "su istasyonundan almak",
-    "aciklama": "atışların geçerliliğini bayrakla gösteren saha hakemi.",
-    "yasakli_kelimeler": [
-      "maraton",
-      "bardak",
-      "içecek",
-      "koşu",
-      "masa"
-    ],
-    "zorluk": "kolay",
-    "id": 212
-  },
-  {
-    "kategori": "atletizm",
-    "kelime": "sprint atmak",
-    "aciklama": "derecenin geçerli olduğunu gösteren beyaz hakem bayrağı.",
-    "yasakli_kelimeler": [
-      "depar",
-      "yüz metre",
-      "patlayıcı hız",
-      "kısa mesafe",
-      "maksimum"
-    ],
-    "zorluk": "orta",
-    "id": 213
+    "id": 58
   },
   {
     "kategori": "atletizm",
@@ -2993,7 +823,7 @@
       "koşu"
     ],
     "zorluk": "orta",
-    "id": 214
+    "id": 59
   },
   {
     "kategori": "atletizm",
@@ -3007,175 +837,7 @@
       "maraton"
     ],
     "zorluk": "orta",
-    "id": 215
-  },
-  {
-    "kategori": "atletizm",
-    "kelime": "dönüş almak",
-    "aciklama": "atletlerin ve seyircilerin stadyumdan ayrılırken yaşadığı coşkulu spor şöleni.",
-    "yasakli_kelimeler": [
-      "viraj",
-      "savrulma",
-      "iç kulvar",
-      "kavis",
-      "merkezkaç"
-    ],
-    "zorluk": "orta",
-    "id": 216
-  },
-  {
-    "kategori": "atletizm",
-    "kelime": "takoza yerleşmek",
-    "aciklama": "atletizm federasyonunun çıkardığı haftalık ve aylık resmi yarışma bülteni.",
-    "yasakli_kelimeler": [
-      "start bloğu",
-      "yerlerinize",
-      "ayak",
-      "blok",
-      "hazır"
-    ],
-    "zorluk": "orta",
-    "id": 217
-  },
-  {
-    "kategori": "atletizm",
-    "kelime": "hatalı çıkış yapmak",
-    "aciklama": "tüm resmi yarışmaların tescilli derecelerinin tutulduğu ulusal atletizm istatistik arşivi.",
-    "yasakli_kelimeler": [
-      "false start",
-      "erken çıkış",
-      "diskalifiye",
-      "tabanca",
-      "sensör"
-    ],
-    "zorluk": "orta",
-    "id": 218
-  },
-  {
-    "kategori": "atletizm",
-    "kelime": "fosbury flop yapmak",
-    "aciklama": "kulüpler arasında düzenlenen puanlı atletizm ligi takım şampiyonası yarışmaları.",
-    "yasakli_kelimeler": [
-      "sırtüstü",
-      "yüksek atlama",
-      "köprü",
-      "teknik",
-      "minder"
-    ],
-    "zorluk": "orta",
-    "id": 219
-  },
-  {
-    "kategori": "atletizm",
-    "kelime": "sırıkla yükselmek",
-    "aciklama": "türkiye atletizm federasyonu tarafından düzenlenen süper lig atletizm yarışmaları.",
-    "yasakli_kelimeler": [
-      "fiberglas",
-      "sırık",
-      "bükme",
-      "tırmanış",
-      "yuva"
-    ],
-    "zorluk": "orta",
-    "id": 220
-  },
-  {
-    "kategori": "atletizm",
-    "kelime": "disk savurmak",
-    "aciklama": "üniversiteler arası düzenlenen türkiye ve dünya çapındaki atletizm şampiyonaları.",
-    "yasakli_kelimeler": [
-      "çember",
-      "dönüş",
-      "aerodinamik",
-      "ağ kafes",
-      "fırlatma"
-    ],
-    "zorluk": "orta",
-    "id": 221
-  },
-  {
-    "kategori": "atletizm",
-    "kelime": "çekiç döndürmek",
-    "aciklama": "okullar arasında düzenlenen minikler, yıldızlar ve gençler kros yarışmaları.",
-    "yasakli_kelimeler": [
-      "çelik tel",
-      "küre",
-      "dönüş",
-      "kafes",
-      "merkezkaç"
-    ],
-    "zorluk": "orta",
-    "id": 222
-  },
-  {
-    "kategori": "atletizm",
-    "kelime": "cirit saplamak",
-    "aciklama": "otuz beş yaşın üzerindeki eski atletlerin yarıştığı veteranlar atletizm şampiyonası.",
-    "yasakli_kelimeler": [
-      "mızrak",
-      "sivri uç",
-      "hızlanma",
-      "saplanma",
-      "açı"
-    ],
-    "zorluk": "orta",
-    "id": 223
-  },
-  {
-    "kategori": "atletizm",
-    "kelime": "üç adım sekmek",
-    "aciklama": "halkın katılımına açık olan cadde ve sahil maratonu koşu festivalleri.",
-    "yasakli_kelimeler": [
-      "hop step jump",
-      "sekmek",
-      "üç faz",
-      "kum",
-      "basma tahtası"
-    ],
-    "zorluk": "orta",
-    "id": 224
-  },
-  {
-    "kategori": "atletizm",
-    "kelime": "kulvar ihlali yapmak",
-    "aciklama": "bağış toplamak amacıyla kitlesel koşulan yardım koşusu.",
-    "yasakli_kelimeler": [
-      "şerit",
-      "çizgiye basma",
-      "yan kulvar",
-      "diskalifiye",
-      "kural"
-    ],
-    "zorluk": "orta",
-    "id": 225
-  },
-  {
-    "kategori": "atletizm",
-    "kelime": "su engeline basmak",
-    "aciklama": "iki kıtayı koşarak geçen dünyaca ünlü istanbul maratonu.",
-    "yasakli_kelimeler": [
-      "steeplechase",
-      "su çukuru",
-      "3000 metre",
-      "ıslanmak",
-      "kalın engel"
-    ],
-    "zorluk": "orta",
-    "id": 226
-  },
-  {
-    "kategori": "atletizm",
-    "kelime": "tavşan atletlik yapmak",
-    "aciklama": "dünyanın en eski yıllık maratonu boston maratonu.",
-    "yasakli_kelimeler": [
-      "pacemaker",
-      "tempo koşucusu",
-      "rekor",
-      "öncü",
-      "yarışı bırakma"
-    ],
-    "zorluk": "orta",
-    "id": 227
+    "id": 60
   },
   {
     "kategori": "atletizm",
@@ -3189,300 +851,6 @@
       "başarı"
     ],
     "zorluk": "orta",
-    "id": 228
-  },
-  {
-    "kategori": "atletizm",
-    "kelime": "foto finişe kalmak",
-    "aciklama": "düz ve hızlı parkuruyla dünya rekorlarının kırıldığı efsanevi berlin maratonu.",
-    "yasakli_kelimeler": [
-      "yüksek hızlı kamera",
-      "milisaniye",
-      "burun farkı",
-      "görüntü",
-      "hakem"
-    ],
-    "zorluk": "orta",
-    "id": 229
-  },
-  {
-    "kategori": "atletizm",
-    "kelime": "laktik asit birikmek",
-    "aciklama": "thames nehri boyunca tarihi mekanlardan geçen görkemli londra maratonu.",
-    "yasakli_kelimeler": [
-      "kas yanması",
-      "yorgunluk",
-      "anaerobik",
-      "kramp",
-      "asidoz"
-    ],
-    "zorluk": "orta",
-    "id": 230
-  },
-  {
-    "kategori": "atletizm",
-    "kelime": "negatif split koşmak",
-    "aciklama": "yüz binlerce japon koşucunun katıldığı prestijli tokyo maratonu yarışı.",
-    "yasakli_kelimeler": [
-      "ikinci yarı",
-      "hızlanma",
-      "strateji",
-      "maraton",
-      "bölüm"
-    ],
-    "zorluk": "orta",
-    "id": 231
-  },
-  {
-    "kategori": "atletizm",
-    "kelime": "dekatlon tamamlamak",
-    "aciklama": "michigan gölü kıyısında koşulan ve büyük ilgi gören chicago maratonu.",
-    "yasakli_kelimeler": [
-      "onlu yarış",
-      "iki gün",
-      "komple atlet",
-      "puan",
-      "branş"
-    ],
-    "zorluk": "orta",
-    "id": 232
-  },
-  {
-    "kategori": "atletizm",
-    "kelime": "heptatlon yarışmak",
-    "aciklama": "büyük altı maratonu tamamlayanlara verilen altı yıldızlı madalya.",
-    "yasakli_kelimeler": [
-      "yedili yarış",
-      "kadınlar",
-      "puan tablosu",
-      "gülle",
-      "yüksek atlama"
-    ],
-    "zorluk": "orta",
-    "id": 233
-  },
-  {
-    "kategori": "atletizm",
-    "kelime": "doping testi vermek",
-    "aciklama": "atletlerin formayı giyip terlettiği resmi milli takım atletizm kadrosu.",
-    "yasakli_kelimeler": [
-      "wada",
-      "yasaklı madde",
-      "numune",
-      "idrar",
-      "temiz çıkmak"
-    ],
-    "zorluk": "orta",
-    "id": 234
-  },
-  {
-    "kategori": "atletizm",
-    "kelime": "çivili ayakkabı giymek",
-    "aciklama": "milli atletlerin uluslararası şampiyonalar öncesi kampa girdiği hazırlık tesisleri.",
-    "yasakli_kelimeler": [
-      "spikes",
-      "tartan pist",
-      "metal çivi",
-      "tutuş",
-      "hafif"
-    ],
-    "zorluk": "orta",
-    "id": 235
-  },
-  {
-    "kategori": "atletizm",
-    "kelime": "rüzgar ölçümü yapmak",
-    "aciklama": "yüksek tempolu koşu sırasında gelen koşucu öforisi.",
-    "yasakli_kelimeler": [
-      "anemometre",
-      "2 metre saniye",
-      "arka rüzgar",
-      "rekor iptali",
-      "ölçüm"
-    ],
-    "zorluk": "orta",
-    "id": 236
-  },
-  {
-    "kategori": "atletizm",
-    "kelime": "vo2max ölçtürmek",
-    "aciklama": "düzenli koşmanın kalp sağlığını koruması ve damarları güçlendirmesi faydası.",
-    "yasakli_kelimeler": [
-      "maksimal oksijen",
-      "maske",
-      "koşu bandı",
-      "aerobik kapasite",
-      "kardiyo"
-    ],
-    "zorluk": "zor",
-    "id": 237
-  },
-  {
-    "kategori": "atletizm",
-    "kelime": "periyodizasyon planlamak",
-    "aciklama": "atletizmin koşma, atlama ve atma ana disiplinleri bütünü.",
-    "yasakli_kelimeler": [
-      "makrosiklus",
-      "antrenman planı",
-      "form zirvesi",
-      "mikrosiklus",
-      "hacim şiddet"
-    ],
-    "zorluk": "zor",
-    "id": 238
-  },
-  {
-    "kategori": "atletizm",
-    "kelime": "tapering uygulamak",
-    "aciklama": "çocuklara motor becerileri sevdiren eğlenceli çocuk atletizmi.",
-    "yasakli_kelimeler": [
-      "yük azaltma",
-      "dinlenme",
-      "kas tazeleme",
-      "yarış öncesi",
-      "form tutma"
-    ],
-    "zorluk": "zor",
-    "id": 239
-  },
-  {
-    "kategori": "atletizm",
-    "kelime": "tendon iyileştirmek",
-    "aciklama": "antrenman sırasında veya yarışta meydana gelen kas krampları ve tutulmaları.",
-    "yasakli_kelimeler": [
-      "topuk tendonu",
-      "elastik enerji",
-      "yaylanma",
-      "ekzantrik",
-      "baldır"
-    ],
-    "zorluk": "zor",
-    "id": 240
-  },
-  {
-    "kategori": "atletizm",
-    "kelime": "glikojen süperkompansasyonu yapmak",
-    "aciklama": "yetersiz beslenme veya aşırı terlemeyle magnezyum eksilmesinden doğan kas kasılması.",
-    "yasakli_kelimeler": [
-      "karbonhidrat yükleme",
-      "kas deposu",
-      "makarna",
-      "boşaltma yükleme",
-      "maraton"
-    ],
-    "zorluk": "zor",
-    "id": 241
-  },
-  {
-    "kategori": "atletizm",
-    "kelime": "pliometrik antrenman yapmak",
-    "aciklama": "yarış öncesinde vücudun heyecanla adrenalin salgılayarak nabzı yükseltmesi durumu.",
-    "yasakli_kelimeler": [
-      "kutu sıçrama",
-      "patlayıcı güç",
-      "esneme kısalma",
-      "şok",
-      "reaktif"
-    ],
-    "zorluk": "zor",
-    "id": 242
-  },
-  {
-    "kategori": "atletizm",
-    "kelime": "kadans ayarlamak",
-    "aciklama": "atletin yarış biter bitmez yere yığılarak soluklanması.",
-    "yasakli_kelimeler": [
-      "adım frekansı",
-      "180 adım",
-      "dakika",
-      "verimlilik",
-      "ayak vuruşu"
-    ],
-    "zorluk": "zor",
-    "id": 243
-  },
-  {
-    "kategori": "atletizm",
-    "kelime": "temas süresini kısaltmak",
-    "aciklama": "şampiyon atletlerin milli marş çalınırken kürsüde döktüğü sevinç gözyaşları.",
-    "yasakli_kelimeler": [
-      "ground contact time",
-      "milisaniye",
-      "elastik geri dönüş",
-      "hızlı kalkış",
-      "sprint"
-    ],
-    "zorluk": "zor",
-    "id": 244
-  },
-  {
-    "kategori": "atletizm",
-    "kelime": "pronasyon açısı düzeltmek",
-    "aciklama": "kaybeden ama pes etmeyen atlete verilen stadyum alkışı.",
-    "yasakli_kelimeler": [
-      "içe basma",
-      "düz taban",
-      "tabanlık",
-      "biyomekanik",
-      "koşu analizi"
-    ],
-    "zorluk": "zor",
-    "id": 245
-  },
-  {
-    "kategori": "atletizm",
-    "kelime": "hipoksik çadırda uyumak",
-    "aciklama": "atletizm sporuyla uğraşan erkek veya kadın lisanslı koşucu veya atlayıcı.",
-    "yasakli_kelimeler": [
-      "irtifa simülasyonu",
-      "düşük oksijen",
-      "epo",
-      "alyuvar artışı",
-      "yüksek irtifa"
-    ],
-    "zorluk": "zor",
-    "id": 246
-  },
-  {
-    "kategori": "atletizm",
-    "kelime": "rotasyonel gülle atmak",
-    "aciklama": "sporcuların doping kontrollerinde temiz çıktığını belgeleyen resmi sağlık raporu.",
-    "yasakli_kelimeler": [
-      "kayma tekniği",
-      "dönüşlü stil",
-      "çember",
-      "omuz",
-      "patlama"
-    ],
-    "zorluk": "zor",
-    "id": 247
-  },
-  {
-    "kategori": "atletizm",
-    "kelime": "kapasiteyi artırmak",
-    "aciklama": "atletlerin uluslararası yarışmalara katılabilmesi için geçmesi gereken asgari baraj derecesi.",
-    "yasakli_kelimeler": [
-      "mitokondri",
-      "kılcal damar",
-      "dayanıklılık",
-      "oksijen taşıma",
-      "kalp debisi"
-    ],
-    "zorluk": "zor",
-    "id": 248
-  },
-  {
-    "kategori": "atletizm",
-    "kelime": "kinematik analiz yapmak",
-    "aciklama": "olimpiyat barajını aşarak ülkesini temsil etme hakkı kazanan milli sporcu.",
-    "yasakli_kelimeler": [
-      "biyomekanik",
-      "eklem açısı",
-      "sensör",
-      "yüksek hız kamerası",
-      "verimlilik"
-    ],
-    "zorluk": "zor",
-    "id": 249
+    "id": 61
   }
 ]

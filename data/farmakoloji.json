@@ -2,482 +2,6 @@
   {
     "id": 1,
     "kategori": "farmakoloji",
-    "kelime": "biyoyararlanım",
-    "aciklama": "ilacın değişmeden sistemik kan dolaşımına ulaşan oranı.",
-    "yasakli_kelimeler": [
-      "absorpsiyon",
-      "sistemik dolaşım",
-      "emilim",
-      "doz",
-      "oral"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 2,
-    "kategori": "farmakoloji",
-    "kelime": "klirens",
-    "aciklama": "birim zamanda ilaçtan tamamen temizlenen plazma hacmi.",
-    "yasakli_kelimeler": [
-      "eliminasyon",
-      "böbrek",
-      "itrah",
-      "plazma hacmi",
-      "atılım"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 3,
-    "kategori": "farmakoloji",
-    "kelime": "yarı ömür",
-    "aciklama": "plazmadaki ilaç konsantrasyonunun yarıya inmesi için gereken süre.",
-    "yasakli_kelimeler": [
-      "konsantrasyon",
-      "eliminasyon",
-      "plazma",
-      "zaman",
-      "t1/2"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 4,
-    "kategori": "farmakoloji",
-    "kelime": "dağılım hacmi",
-    "aciklama": "toplam ilaç miktarını plazma konsantrasyonuna bağlayan sanal hacim.",
-    "yasakli_kelimeler": [
-      "plazma",
-      "doku",
-      "sanal hacim",
-      "lipofilik",
-      "konsantrasyon"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 5,
-    "kategori": "farmakoloji",
-    "kelime": "terapötik indeks",
-    "aciklama": "ilacın toksik dozu ile etkili dozu arasındaki oran.",
-    "yasakli_kelimeler": [
-      "toksik doz",
-      "etkili doz",
-      "güvenlik aralığı",
-      "ld50",
-      "ed50"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 6,
-    "kategori": "farmakoloji",
-    "kelime": "ilk geçiş etkisi",
-    "aciklama": "oral ilacın dolaşıma girmeden karaciğerde metabolize olması.",
-    "yasakli_kelimeler": [
-      "karaciğer",
-      "presistemik",
-      "portal ven",
-      "metabolizma",
-      "oral"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 7,
-    "kategori": "farmakoloji",
-    "kelime": "sitokrom p450",
-    "aciklama": "ilaçların metabolizmasında rol oynayan temel karaciğer enzim ailesi.",
-    "yasakli_kelimeler": [
-      "enzim",
-      "karaciğer",
-      "cyp3a4",
-      "oksidasyon",
-      "metabolizma"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 8,
-    "kategori": "farmakoloji",
-    "kelime": "agonist",
-    "aciklama": "reseptöre bağlanarak hücresel biyolojik yanıt oluşturan madde.",
-    "yasakli_kelimeler": [
-      "reseptör",
-      "bağlanma",
-      "aktivasyon",
-      "etki",
-      "antagonist karşıtı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 9,
-    "kategori": "farmakoloji",
-    "kelime": "antagonist",
-    "aciklama": "reseptöre bağlanarak agonistlerin etkisini engelleyen madde.",
-    "yasakli_kelimeler": [
-      "bloker",
-      "reseptör",
-      "engelleme",
-      "agonist karşıtı",
-      "inhibisyon"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 10,
-    "kategori": "farmakoloji",
-    "kelime": "taşifilaksi",
-    "aciklama": "ilacın tekrarlayan dozlarında hızla gelişen yanıtsızlık durumu.",
-    "yasakli_kelimeler": [
-      "tolerans",
-      "hızlı azalma",
-      "yanıtsızlık",
-      "duyarsızlaşma",
-      "akut"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 11,
-    "kategori": "farmakoloji",
-    "kelime": "idiyosenkrazi",
-    "aciklama": "genetik farklılıklara bağlı ilaca verilen olağandışı bireysel tepki.",
-    "yasakli_kelimeler": [
-      "genetik",
-      "beklenmeyen",
-      "anormal yanıt",
-      "duyarlılık",
-      "enzim eksikliği"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 12,
-    "kategori": "farmakoloji",
-    "kelime": "teratojenite",
-    "aciklama": "ilacın anne karnındaki fetüste yapısal anomali oluşturma riski.",
-    "yasakli_kelimeler": [
-      "fetüs",
-      "gebelik",
-      "doğumsal anomali",
-      "embriyo",
-      "malformasyon"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 13,
-    "kategori": "farmakoloji",
-    "kelime": "yükleme dozu",
-    "aciklama": "hedef plazma konsantrasyonuna hızla ulaşmak için verilen ilk doz.",
-    "yasakli_kelimeler": [
-      "başlangıç dozu",
-      "hedef derişim",
-      "idame dozu",
-      "hızlı etki",
-      "bolus"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 14,
-    "kategori": "farmakoloji",
-    "kelime": "idame dozu",
-    "aciklama": "kararlı durum konsantrasyonunu korumak için düzenli verilen doz.",
-    "yasakli_kelimeler": [
-      "kararlı durum",
-      "süreklilik",
-      "klirens",
-      "yükleme karşıtı",
-      "periyodik"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 15,
-    "kategori": "farmakoloji",
-    "kelime": "kararlı durum",
-    "aciklama": "ilaç alım hızı ile atılım hızının eşitlendiği denge.",
-    "yasakli_kelimeler": [
-      "steady state",
-      "denge",
-      "infüzyon",
-      "yarı ömür",
-      "konsantrasyon"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 16,
-    "kategori": "farmakoloji",
-    "kelime": "ters agonist",
-    "aciklama": "reseptörün bazal aktivitesini düşürerek zıt etki gösteren ligand.",
-    "yasakli_kelimeler": [
-      "intrensek aktivite",
-      "bazal aktivite",
-      "reseptör",
-      "negatif etki",
-      "antagonist"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 17,
-    "kategori": "farmakoloji",
-    "kelime": "allosterik modülatör",
-    "aciklama": "reseptörün aktif bölgesi dışına bağlanarak yanıtı değiştiren molekül.",
-    "yasakli_kelimeler": [
-      "ortosterik",
-      "ikincil bölge",
-      "konformasyon",
-      "pozitif modülasyon",
-      "afinite"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 18,
-    "kategori": "farmakoloji",
-    "kelime": "potens",
-    "aciklama": "belirli bir etkiyi oluşturmak için gereken ilaç konsantrasyonu.",
-    "yasakli_kelimeler": [
-      "etki gücü",
-      "ec50",
-      "konsantrasyon",
-      "etkinlik",
-      "doz"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 19,
-    "kategori": "farmakoloji",
-    "kelime": "efikasite",
-    "aciklama": "bir ilacın oluşturabileceği maksimum biyolojik yanıt kapasitesi.",
-    "yasakli_kelimeler": [
-      "maksimum yanıt",
-      "etkinlik",
-      "emax",
-      "potens karşıtı",
-      "içsel aktivite"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 20,
-    "kategori": "farmakoloji",
-    "kelime": "glukuronidasyon",
-    "aciklama": "ilaçların suda çözünürlüğünü artıran karaciğer faz iki metabolizması.",
-    "yasakli_kelimeler": [
-      "faz 2",
-      "konjugasyon",
-      "ugt enzimi",
-      "suda çözünürlük",
-      "karaciğer"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 21,
-    "kategori": "farmakoloji",
-    "kelime": "enterohepatik sirkülasyon",
-    "aciklama": "safrayla bağırsağa atılan ilacın yeniden emilerek karaciğere dönmesi.",
-    "yasakli_kelimeler": [
-      "safra",
-      "bağırsak",
-      "karaciğer",
-      "yeniden emilim",
-      "döngü"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 22,
-    "kategori": "farmakoloji",
-    "kelime": "beta bloker",
-    "aciklama": "adrenerjik reseptörleri bloke ederek kalp hızını ve tansiyonu düşüren ilaç.",
-    "yasakli_kelimeler": [
-      "propranolol",
-      "kalp hızı",
-      "adrenalin",
-      "tansiyon",
-      "bradikardi"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 23,
-    "kategori": "farmakoloji",
-    "kelime": "ace inhibitörü",
-    "aciklama": "anjiyotensin dönüşümünü engelleyerek tansiyonu düşüren antihipertansif ilaç grubu.",
-    "yasakli_kelimeler": [
-      "enalapril",
-      "kaptopril",
-      "kuru öksürük",
-      "anjiyotensin",
-      "tansiyon"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 24,
-    "kategori": "farmakoloji",
-    "kelime": "proton pompa inhibitörü",
-    "aciklama": "mide asit salgısını güçlü şekilde baskılayan ilaç sınıfı.",
-    "yasakli_kelimeler": [
-      "omeprazol",
-      "mide asidi",
-      "gastrik ülser",
-      "reflü",
-      "paryetal hücre"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 25,
-    "kategori": "farmakoloji",
-    "kelime": "benzodiazepin",
-    "aciklama": "gaba reseptörlerini aktive eden sakinleştirici ve anksiyolitik ilaç grubu.",
-    "yasakli_kelimeler": [
-      "diazepam",
-      "gaba",
-      "sedasyon",
-      "klor kanalı",
-      "anksiyolitik"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 26,
-    "kategori": "farmakoloji",
-    "kelime": "flumazenil",
-    "aciklama": "benzodiazepin zehirlenmelerinde kullanılan spesifik reseptör antagonisti antidot.",
-    "yasakli_kelimeler": [
-      "antidot",
-      "benzodiazepin",
-      "toksisite",
-      "reseptör antagonisti",
-      "sedasyon geri çevirme"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 27,
-    "kategori": "farmakoloji",
-    "kelime": "nalokson",
-    "aciklama": "opioid zehirlenmesinde solunum depresyonunu hızla geri çeviren antidot.",
-    "yasakli_kelimeler": [
-      "antidot",
-      "opioid",
-      "morfin",
-      "aşırı doz",
-      "solunum depresyonu"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 28,
-    "kategori": "farmakoloji",
-    "kelime": "kalsiyum kanal blokeri",
-    "aciklama": "damar düz kaslarını gevşeterek kan basıncını düşüren ilaç grubu.",
-    "yasakli_kelimeler": [
-      "amlodipin",
-      "verapamil",
-      "diltiazem",
-      "vazodilatasyon",
-      "tansiyon"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 29,
-    "kategori": "farmakoloji",
-    "kelime": "statin",
-    "aciklama": "hmg-koa redüktazı inhibe ederek kolesterol sentezini azaltan ilaç.",
-    "yasakli_kelimeler": [
-      "atorvastatin",
-      "kolesterol",
-      "hmg-koa",
-      "rabdomiyoliz",
-      "ldl"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 30,
-    "kategori": "farmakoloji",
-    "kelime": "makrolid",
-    "aciklama": "bakteriyel protein sentezini engelleyen geniş spektrumlu antibiyotik grubu.",
-    "yasakli_kelimeler": [
-      "eritromisin",
-      "klaritromisin",
-      "azitromisin",
-      "50s ribozom",
-      "protein sentezi"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 31,
-    "kategori": "farmakoloji",
-    "kelime": "aminoglikozid",
-    "aciklama": "ciddi gram-negatif enfeksiyonlarda kullanılan ototoksik ve nefrotoksik antibiyotik.",
-    "yasakli_kelimeler": [
-      "gentamisin",
-      "nefrotoksisite",
-      "ototoksisite",
-      "30s ribozom",
-      "bakterisid"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 32,
-    "kategori": "farmakoloji",
-    "kelime": "kinolon",
-    "aciklama": "bakteriyel dna giraz enzimini baskılayan geniş spektrumlu antibiyotik.",
-    "yasakli_kelimeler": [
-      "siprofloksasin",
-      "dna giraz",
-      "topoizomeraz",
-      "tendon rüptürü",
-      "florokinolon"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 33,
-    "kategori": "farmakoloji",
-    "kelime": "nonsteroid antiinflamatuar",
-    "aciklama": "iltihap, ağrı ve ateşi azaltan nonsteroid ilaç sınıfı.",
-    "yasakli_kelimeler": [
-      "ağrı kesici",
-      "ibuprofen",
-      "aspirin",
-      "siklooksijenaz",
-      "prostaglandin"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 34,
-    "kategori": "farmakoloji",
-    "kelime": "siklooksijenaz",
-    "aciklama": "prostaglandin sentezini katalizleyen ve ağrı kesicilerce hedeflenen enzim.",
-    "yasakli_kelimeler": [
-      "cox-1",
-      "cox-2",
-      "araşidonik asit",
-      "prostaglandin",
-      "enflamasyon"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 35,
-    "kategori": "farmakoloji",
     "kelime": "kortikosteroid",
     "aciklama": "güçlü antiinflamatuar ve immünsüpresif etkili steroid hormon ilacı.",
     "yasakli_kelimeler": [
@@ -490,119 +14,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 36,
-    "kategori": "farmakoloji",
-    "kelime": "loop diüretik",
-    "aciklama": "henle kulpunda sodyum geri emilimini engelleyen güçlü diüretik.",
-    "yasakli_kelimeler": [
-      "furosemid",
-      "henle kulpu",
-      "idrar söktürücü",
-      "hipokalemi",
-      "ödem"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 37,
-    "kategori": "farmakoloji",
-    "kelime": "tiyazid",
-    "aciklama": "distal tübülde sodyum emilimini engelleyen yaygın tansiyon ilacı.",
-    "yasakli_kelimeler": [
-      "hidroklorotiyazid",
-      "distal tübül",
-      "diüretik",
-      "tansiyon",
-      "hipokalemi"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 38,
-    "kategori": "farmakoloji",
-    "kelime": "aldosteron antagonisti",
-    "aciklama": "potasyum tutucu etkiye sahip aldosteron reseptör antagonisti ilaç.",
-    "yasakli_kelimeler": [
-      "spironolakton",
-      "potasyum tutucu",
-      "jinekomasti",
-      "eplerenon",
-      "toplayıcı kanal"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 39,
-    "kategori": "farmakoloji",
-    "kelime": "trombolitik",
-    "aciklama": "oluşmuş damar içi kan pıhtısını eriten acil ilaç.",
-    "yasakli_kelimeler": [
-      "fibrinolitik",
-      "alteplaz",
-      "pıhtı eritici",
-      "plazminojen",
-      "inme"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 40,
-    "kategori": "farmakoloji",
-    "kelime": "heparin",
-    "aciklama": "antitrombin üçü aktive ederek pıhtılaşmayı önleyen parenteral antikoagülan.",
-    "yasakli_kelimeler": [
-      "antikoagülan",
-      "antitrombin",
-      "protamin",
-      "kan sulandırıcı",
-      "pıhtılaşma"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 41,
-    "kategori": "farmakoloji",
-    "kelime": "varfarin",
-    "aciklama": "k vitamini bağımlı pıhtılaşma faktörlerini baskılayan oral antikoagülan.",
-    "yasakli_kelimeler": [
-      "k vitamini",
-      "inr takibi",
-      "coumadin",
-      "kan sulandırıcı",
-      "pıhtılaşma faktörü"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 42,
-    "kategori": "farmakoloji",
-    "kelime": "protamin sülfat",
-    "aciklama": "heparinin antikoagülan etkisini nötralize eden spesifik antidot bileşik.",
-    "yasakli_kelimeler": [
-      "antidot",
-      "heparin",
-      "nötralizasyon",
-      "kanama",
-      "pozitif yük"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 43,
-    "kategori": "farmakoloji",
-    "kelime": "asetilsistein",
-    "aciklama": "parasetamol zehirlenmesinde karaciğeri koruyan glutatyon öncülü antidot.",
-    "yasakli_kelimeler": [
-      "parasetamol antidotu",
-      "glutatyon",
-      "balgam söktürücü",
-      "karaciğer hasarı",
-      "nac"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 44,
+    "id": 2,
     "kategori": "farmakoloji",
     "kelime": "parasetamol",
     "aciklama": "yaygın kullanılan analjezik ve antipiretik etkili ağrı kesici.",
@@ -616,581 +28,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 45,
-    "kategori": "farmakoloji",
-    "kelime": "digoksin",
-    "aciklama": "kalp kasılma gücünü artıran ve atriyal fibrilasyonda kullanılan glikozid.",
-    "yasakli_kelimeler": [
-      "kalp yetmezliği",
-      "pozitif inotrop",
-      "sodyum potasyum pompası",
-      "dar terapötik indeks",
-      "aritmi"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 46,
-    "kategori": "farmakoloji",
-    "kelime": "atropin",
-    "aciklama": "bradikardi ve organofosfat zehirlenmesinde kullanılan antimuskarinik ilaç.",
-    "yasakli_kelimeler": [
-      "antikolinerjik",
-      "parasempatik",
-      "midriyazis",
-      "bradikardi",
-      "muskarinik"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 47,
-    "kategori": "farmakoloji",
-    "kelime": "pilokarpin",
-    "aciklama": "glokom tedavisinde göz içi basıncını düşüren kolinerjik agonist.",
-    "yasakli_kelimeler": [
-      "kolinerjik agonist",
-      "glokom",
-      "miyozis",
-      "tükürük",
-      "muskarinik"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 48,
-    "kategori": "farmakoloji",
-    "kelime": "neostigmin",
-    "aciklama": "miyastenia gravis tedavisinde kullanılan asetilkolinesteraz inhibitörü ilaç.",
-    "yasakli_kelimeler": [
-      "kolinesteraz inhibitörü",
-      "myastenia gravis",
-      "kürar antidotu",
-      "asetilkolin",
-      "kas güçsüzlüğü"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 49,
-    "kategori": "farmakoloji",
-    "kelime": "süksinilkolin",
-    "aciklama": "entübasyonda kullanılan hızlı etkili depolarizan nöromusküler blokör.",
-    "yasakli_kelimeler": [
-      "depolarizan",
-      "kas gevşetici",
-      "fasikülasyon",
-      "entübasyon",
-      "psödokolinesteraz"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 50,
-    "kategori": "farmakoloji",
-    "kelime": "roküronyum",
-    "aciklama": "cerrahi operasyonlarda kas gevşemesi sağlayan non-depolarizan blokör.",
-    "yasakli_kelimeler": [
-      "nondepolarizan",
-      "kas gevşetici",
-      "sugammadeks",
-      "entübasyon",
-      "nöromüsküler blok"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 51,
-    "kategori": "farmakoloji",
-    "kelime": "sugammadeks",
-    "aciklama": "roküronyum ve veküronyumun etkisini hızla geri çeviren şelatör.",
-    "yasakli_kelimeler": [
-      "antidot",
-      "roküronyum",
-      "kas gevşetici geri çevirme",
-      "kapsülleme",
-      "anestezi"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 52,
-    "kategori": "farmakoloji",
-    "kelime": "propofol",
-    "aciklama": "genel anestezide indüksiyon ve sedasyon sağlayan intravenöz anestezik.",
-    "yasakli_kelimeler": [
-      "genel anestezi",
-      "indüksiyon",
-      "beyaz süt",
-      "sedasyon",
-      "gaba"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 53,
-    "kategori": "farmakoloji",
-    "kelime": "ketamin",
-    "aciklama": "dissosiyatif anestezi ve analjezi sağlayan nmda reseptör blokeri.",
-    "yasakli_kelimeler": [
-      "disosiyatif",
-      "nmda antagonisti",
-      "halüsinasyon",
-      "anestezi",
-      "fensiklidin türevi"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 54,
-    "kategori": "farmakoloji",
-    "kelime": "lidokain",
-    "aciklama": "sodyum kanallarını bloke ederek lokal hissizlik sağlayan anestezik.",
-    "yasakli_kelimeler": [
-      "lokal anestezik",
-      "sodyum kanalı",
-      "uyuşma",
-      "antiaritmik",
-      "bölgesel anestezi"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 55,
-    "kategori": "farmakoloji",
-    "kelime": "adrenalin",
-    "aciklama": "anafilaktik şok ve kardiyak arrestte kullanılan sempatomimetik hormon.",
-    "yasakli_kelimeler": [
-      "epinefrin",
-      "anafilaksi",
-      "resüsitasyon",
-      "sempatik",
-      "bronkodilatasyon"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 56,
-    "kategori": "farmakoloji",
-    "kelime": "noradrenalin",
-    "aciklama": "septik şokta tansiyonu yükseltmek için kullanılan vazokonstriktör ajan.",
-    "yasakli_kelimeler": [
-      "norepinefrin",
-      "vazokonstrüksiyon",
-      "septik şok",
-      "alfa reseptör",
-      "vazopressör"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 57,
-    "kategori": "farmakoloji",
-    "kelime": "dopamin",
-    "aciklama": "düşük dozda böbrek yüksek dozda kalp debisini artıran katekolamin.",
-    "yasakli_kelimeler": [
-      "katekolamin",
-      "inotrop",
-      "renal kan akımı",
-      "nörotransmitter",
-      "resüsitasyon"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 58,
-    "kategori": "farmakoloji",
-    "kelime": "dobutamin",
-    "aciklama": "akut kalp yetmezliğinde kardiyak kasılmayı artıran inotropik ajan.",
-    "yasakli_kelimeler": [
-      "beta-1 agonist",
-      "inotrop",
-      "kalp debisi",
-      "kardiyojenik şok",
-      "kasılma gücü"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 59,
-    "kategori": "farmakoloji",
-    "kelime": "metformin",
-    "aciklama": "tip iki diyabette ilk seçenek olarak kullanılan biguanid grubu.",
-    "yasakli_kelimeler": [
-      "biguanid",
-      "tip 2 diyabet",
-      "glukoz düşürücü",
-      "laktik asidoz",
-      "insülin direnci"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 60,
-    "kategori": "farmakoloji",
-    "kelime": "sülfonilüre",
-    "aciklama": "pankreastan insülin salgılanmasını uyararak kan şekerini düşüren ilaç.",
-    "yasakli_kelimeler": [
-      "gliklazid",
-      "glimepirid",
-      "insülin sekresyonu",
-      "hipoglisemi",
-      "diyabet"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 61,
-    "kategori": "farmakoloji",
-    "kelime": "sglt2 inhibitörü",
-    "aciklama": "böbrekten glukoz atılımını artırarak şekeri düşüren yeni ilaç.",
-    "yasakli_kelimeler": [
-      "glukozüri",
-      "empagliflozin",
-      "dapagliflozin",
-      "proksimal tübül",
-      "diyabet"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 62,
-    "kategori": "farmakoloji",
-    "kelime": "glp1 agonisti",
-    "aciklama": "glukagon benzeri peptid reseptörünü uyararak tokluk sağlayan ilaç.",
-    "yasakli_kelimeler": [
-      "liraglutid",
-      "semaglutid",
-      "inkretin",
-      "zayıflama",
-      "insülin"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 63,
-    "kategori": "farmakoloji",
-    "kelime": "levotiroksin",
-    "aciklama": "hipotiroidizm tedavisinde kullanılan sentetik tiroid hormonu ilacı.",
-    "yasakli_kelimeler": [
-      "tiroit bezi",
-      "t4 hormonu",
-      "hipotiroidi",
-      "metabolizma",
-      "ötiroid"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 64,
-    "kategori": "farmakoloji",
-    "kelime": "metimazol",
-    "aciklama": "hipertiroidizm tedavisinde tiroid hormonu sentezini baskılayan antitiroid ilaç.",
-    "yasakli_kelimeler": [
-      "antitiroit",
-      "hipertiroidi",
-      "tiroperoksidaz",
-      "graves",
-      "agranülositoz"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 65,
-    "kategori": "farmakoloji",
-    "kelime": "metotreksat",
-    "aciklama": "romatoid artrit ve kanser tedavisinde kullanılan folik asit antagonisti.",
-    "yasakli_kelimeler": [
-      "folik asit antagonisti",
-      "kemoterapi",
-      "romatoid artrit",
-      "dihidrofolat",
-      "kanser"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 66,
-    "kategori": "farmakoloji",
-    "kelime": "siklosporin",
-    "aciklama": "organ nakli sonrası doku reddini önleyen kalsinörin inhibitörü.",
-    "yasakli_kelimeler": [
-      "kalsinörin inhibitörü",
-      "organ nakli",
-      "t hücresi",
-      "nefrotoksisite",
-      "bağışıklık baskılayıcı"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 67,
-    "kategori": "farmakoloji",
-    "kelime": "takrolimus",
-    "aciklama": "organ nakillerinde kullanılan güçlü immünsüpresif kalsinörin inhibitörü ilaç.",
-    "yasakli_kelimeler": [
-      "kalsinörin",
-      "organ nakli",
-      "greft reddi",
-      "fk506",
-      "immünsüpresif"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 68,
-    "kategori": "farmakoloji",
-    "kelime": "monoklonal antikor",
-    "aciklama": "spesifik antijenleri hedef alarak bağlanan hedefe yönelik biyolojik ajan.",
-    "yasakli_kelimeler": [
-      "biyolojik ajan",
-      "-mab eki",
-      "hedefe yönelik",
-      "antijen",
-      "rituksimab"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 69,
-    "kategori": "farmakoloji",
-    "kelime": "infliksimab",
-    "aciklama": "crohn ve romatoid artritte kullanılan anti-tnf monoklonal antikor.",
-    "yasakli_kelimeler": [
-      "tnf alfa blokeri",
-      "crohn",
-      "romatoid artrit",
-      "biyolojik tedavi",
-      "anti-tnf"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 70,
-    "kategori": "farmakoloji",
-    "kelime": "rituksimab",
-    "aciklama": "b hücreli lenfoma ve lösemide cd20 antijenini hedefleyen antikor.",
-    "yasakli_kelimeler": [
-      "cd20",
-      "b hücresi",
-      "lenfoma",
-      "monoklonal antikor",
-      "lösemi"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 71,
-    "kategori": "farmakoloji",
-    "kelime": "trastuzumab",
-    "aciklama": "her2 pozitif meme kanserinde kullanılan hedefe yönelik monoklonal antikor.",
-    "yasakli_kelimeler": [
-      "her2",
-      "meme kanseri",
-      "kardiyotoksisite",
-      "hedefli tedavi",
-      "onkoloji"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 72,
-    "kategori": "farmakoloji",
-    "kelime": "sisplatin",
-    "aciklama": "dna çapraz bağları oluşturarak tümör hücrelerini öldüren platin bileşiği.",
-    "yasakli_kelimeler": [
-      "kemoterapi",
-      "nefrotoksisite",
-      "platin",
-      "dna hasarı",
-      "kanser ilacı"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 73,
-    "kategori": "farmakoloji",
-    "kelime": "doksorubisin",
-    "aciklama": "dna topoizomerazı engelleyen kırmızı renkli kardiyotoksik kemoterapötik.",
-    "yasakli_kelimeler": [
-      "kardiyotoksisite",
-      "antrasiklin",
-      "kırmızı serum",
-      "kemoterapi",
-      "topoizomeraz"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 74,
-    "kategori": "farmakoloji",
-    "kelime": "paklitaksel",
-    "aciklama": "mikrotübül yıkımını engelleyerek hücre bölünmesini durduran kanser ilacı.",
-    "yasakli_kelimeler": [
-      "mikrotübül",
-      "taksan",
-      "mitoz iğ ipliği",
-      "kemoterapi",
-      "onkoloji"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 75,
-    "kategori": "farmakoloji",
-    "kelime": "vinkristin",
-    "aciklama": "lösemi tedavisinde mikrotübül oluşumunu engelleyen vinka alkaloidi ajan.",
-    "yasakli_kelimeler": [
-      "vinka alkaloidi",
-      "tübülin",
-      "periferal nöropati",
-      "mitoz engelleme",
-      "lösemi"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 76,
-    "kategori": "farmakoloji",
-    "kelime": "imatinib",
-    "aciklama": "kronik miyeloid lösemide bcr-abl kinazı baskılayan hedefe yönelik ilaç.",
-    "yasakli_kelimeler": [
-      "tirozin kinaz inhibitörü",
-      "bcr-abl",
-      "kronik miyeloid lösemi",
-      "hedefli tedavi",
-      "kml"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 77,
-    "kategori": "farmakoloji",
-    "kelime": "asimptomatik taşıyıcı",
-    "aciklama": "hastalık belirtisi göstermeden mikrobu vücudunda taşıyıp bulaştıran kişi.",
-    "yasakli_kelimeler": [
-      "belirtisiz",
-      "bulaştırıcı",
-      "enfeksiyon",
-      "taşıyıcılık",
-      "portör"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 78,
-    "kategori": "farmakoloji",
-    "kelime": "ssri",
-    "aciklama": "serotonin geri alımını engelleyen birinci basamak antidepresan grubu.",
-    "yasakli_kelimeler": [
-      "serotonin",
-      "antidepresan",
-      "fluoksetin",
-      "depresyon",
-      "geri alım"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 79,
-    "kategori": "farmakoloji",
-    "kelime": "snri",
-    "aciklama": "serotonin ve noradrenalin geri alımını engelleyen antidepresan sınıfı.",
-    "yasakli_kelimeler": [
-      "venlafaksin",
-      "duloksetin",
-      "noradrenalin",
-      "serotonin",
-      "antidepresan"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 80,
-    "kategori": "farmakoloji",
-    "kelime": "haloperidol",
-    "aciklama": "şizofreni ve psikoz tedavisinde kullanılan tipik antipsikotik ilaç.",
-    "yasakli_kelimeler": [
-      "tipik antipsikotik",
-      "dopamin blokajı",
-      "şizofreni",
-      "ekstrapiramidal",
-      "d2 reseptörü"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 81,
-    "kategori": "farmakoloji",
-    "kelime": "klozapin",
-    "aciklama": "tedaviye dirençli şizofrenide agranülositoz riski taşıyan atipik antipsikotik.",
-    "yasakli_kelimeler": [
-      "agranülositoz",
-      "atipik antipsikotik",
-      "şizofreni",
-      "lökopeni",
-      "kan takibi"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 82,
-    "kategori": "farmakoloji",
-    "kelime": "lityum",
-    "aciklama": "bipolar bozuklukta duygu durumunu dengeleyen temel kimyasal tuz.",
-    "yasakli_kelimeler": [
-      "bipolar bozukluk",
-      "duygudurum düzenleyici",
-      "mani",
-      "tiroit toksisitesi",
-      "dar aralık"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 83,
-    "kategori": "farmakoloji",
-    "kelime": "valproik asit",
-    "aciklama": "epilepsi ve bipolar tedavisinde kullanılan geniş spektrumlu antikonvülzan.",
-    "yasakli_kelimeler": [
-      "epilepsi",
-      "teratojenik",
-      "nöbet",
-      "gaba artışı",
-      "hepatotoksisite"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 84,
-    "kategori": "farmakoloji",
-    "kelime": "karbamazepin",
-    "aciklama": "parsiyel nöbetler ve trigeminal nevraljide kullanılan antiepileptik ilaç.",
-    "yasakli_kelimeler": [
-      "trigeminal nevralji",
-      "epilepsi",
-      "sodyum kanalı bloku",
-      "kemik iliği baskılanması",
-      "otomatik indüksiyon"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 85,
-    "kategori": "farmakoloji",
-    "kelime": "fenitoin",
-    "aciklama": "epilepsi nöbetlerini önleyen voltaj bağımlı sodyum kanalı blokeri.",
-    "yasakli_kelimeler": [
-      "antiepileptik",
-      "diş eti büyümesi",
-      "sodyum kanalı",
-      "nöbet",
-      "sıfır derece kinetiği"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 86,
+    "id": 3,
     "kategori": "farmakoloji",
     "kelime": "morfin",
     "aciklama": "şiddetli ağrılarda kullanılan güçlü opioid analjezik narkotik ajan.",
@@ -1204,357 +42,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 87,
-    "kategori": "farmakoloji",
-    "kelime": "fentanil",
-    "aciklama": "morfine göre çok daha güçlü sentetik opioid analjezik ilaç.",
-    "yasakli_kelimeler": [
-      "sentetik opioid",
-      "güçlü analjezik",
-      "transdermal flaster",
-      "anestezi",
-      "morfin karşıtı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 88,
-    "kategori": "farmakoloji",
-    "kelime": "tramadol",
-    "aciklama": "orta ve şiddetli ağrılarda kullanılan zayıf opioid etkili analjezik.",
-    "yasakli_kelimeler": [
-      "opioid benzeri",
-      "ağrı kesici",
-      "serotonin sendromu",
-      "santral analjezik",
-      "nöbet riski"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 89,
-    "kategori": "farmakoloji",
-    "kelime": "vankomisin",
-    "aciklama": "mrsa enfeksiyonlarında kullanılan glikopeptid yapılı intravenöz antibiyotik.",
-    "yasakli_kelimeler": [
-      "mrsa",
-      "kırmızı adam sendromu",
-      "glikopeptid",
-      "hücre duvarı",
-      "nefrotoksisite"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 90,
-    "kategori": "farmakoloji",
-    "kelime": "daptomisin",
-    "aciklama": "dirençli gram-pozitif bakterilere karşı hücre zarını bozan antibiyotik.",
-    "yasakli_kelimeler": [
-      "lipopeptid",
-      "hücre zarı depolarizasyonu",
-      "mrsa",
-      "rabdomiyoliz",
-      "akciğer sürfaktanı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 91,
-    "kategori": "farmakoloji",
-    "kelime": "linezolid",
-    "aciklama": "oksazolidinon grubundan dirençli bakterilere etkili protein sentez inhibitörü.",
-    "yasakli_kelimeler": [
-      "oksazolidinon",
-      "mrsa",
-      "vre",
-      "kemik iliği baskılanması",
-      "trombositopeni"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 92,
-    "kategori": "farmakoloji",
-    "kelime": "kolistin",
-    "aciklama": "çoklu dirençli gram-negatif bakterilerde kullanılan son çare polipeptid antibiyotik.",
-    "yasakli_kelimeler": [
-      "polimiksin e",
-      "dirençli gram negatif",
-      "nefrotoksisite",
-      "deterjan etkisi",
-      "hücre zarı hasarı"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 93,
-    "kategori": "farmakoloji",
-    "kelime": "flukonazol",
-    "aciklama": "mantar enfeksiyonlarında ergosterol sentezini engelleyen azol grubu antifungal.",
-    "yasakli_kelimeler": [
-      "antifungal",
-      "ergosterol sentezi",
-      "kandida",
-      "triazol",
-      "mantar ilacı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 94,
-    "kategori": "farmakoloji",
-    "kelime": "amfoterisin b",
-    "aciklama": "ağır sistemik mantar enfeksiyonlarında kullanılan poliyen grubu antifungal.",
-    "yasakli_kelimeler": [
-      "polien",
-      "ergosterol bağlanması",
-      "nefrotoksisite",
-      "titreme nöbeti",
-      "derin mantar enfeksiyonu"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 95,
-    "kategori": "farmakoloji",
-    "kelime": "asiklovir",
-    "aciklama": "herpes simpleks ve zona virüslerine karşı kullanılan antiviral ilaç.",
-    "yasakli_kelimeler": [
-      "herpes",
-      "timidin kinaz",
-      "dna polimeraz",
-      "uçuk ilacı",
-      "antiviral"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 96,
-    "kategori": "farmakoloji",
-    "kelime": "oseltamivir",
-    "aciklama": "influenza a ve b virüslerinin nöraminidaz enzimini baskılayan antiviral.",
-    "yasakli_kelimeler": [
-      "tamiflu",
-      "grip",
-      "influenza",
-      "nöraminidaz inhibitörü",
-      "antiviral"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 97,
-    "kategori": "farmakoloji",
-    "kelime": "kolşisin",
-    "aciklama": "akut gut artriti krizinde mikrotübül polimerizasyonunu engelleyen ilaç.",
-    "yasakli_kelimeler": [
-      "gut atağı",
-      "fmf",
-      "mikrotübül polimerizasyonu",
-      "nötrofil kemotaksisi",
-      "ishal"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 98,
-    "kategori": "farmakoloji",
-    "kelime": "allopurinol",
-    "aciklama": "ksantin oksidazı baskılayarak ürik asit üretimini azaltan gut ilacı.",
-    "yasakli_kelimeler": [
-      "ksantin oksidaz",
-      "ürik asit",
-      "gut profilaksisi",
-      "hiperürisemi",
-      "stevens johnson"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 99,
-    "kategori": "farmakoloji",
-    "kelime": "montelukast",
-    "aciklama": "astım ve alerjik rinitte kullanılan lökotrien reseptör antagonisti.",
-    "yasakli_kelimeler": [
-      "lökotrien reseptör antagonisti",
-      "astım",
-      "bronkospazm",
-      "alerjik rinit",
-      "solunum yolu"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 100,
-    "kategori": "farmakoloji",
-    "kelime": "salbutamol",
-    "aciklama": "akut astım krizinde hava yollarını hızla genişleten beta-2 agonisti.",
-    "yasakli_kelimeler": [
-      "beta-2 agonist",
-      "astım inhaleri",
-      "bronkodilatör",
-      "ventolin",
-      "taşikardi"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 101,
-    "kategori": "farmakoloji",
-    "kelime": "farmakokinetik",
-    "aciklama": "vücudun ilaca ne yaptığını inceleyen farmakoloji alt disiplini.",
-    "yasakli_kelimeler": [
-      "adme",
-      "emilim dağılım",
-      "vücudun etkisi",
-      "ilaç hareketi",
-      "atılım"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 102,
-    "kategori": "farmakoloji",
-    "kelime": "farmakodinamik",
-    "aciklama": "ilacın vücuda ve reseptörlere ne yaptığını inceleyen farmakoloji dalı.",
-    "yasakli_kelimeler": [
-      "etki mekanizması",
-      "reseptör",
-      "ilacın etkisi",
-      "biyokimyasal etki",
-      "fizyolojik yanıt"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 103,
-    "kategori": "farmakoloji",
-    "kelime": "emilim",
-    "aciklama": "ilacın uygulama bölgesinden kan dolaşımına geçiş biyolojik süreci.",
-    "yasakli_kelimeler": [
-      "absorpsiyon",
-      "kana geçiş",
-      "bağırsaktan geçme",
-      "biyoyararlanım",
-      "giriş"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 104,
-    "kategori": "farmakoloji",
-    "kelime": "dağılım",
-    "aciklama": "ilacın kan dolaşımından organ ve dokulara yayılma fazı.",
-    "yasakli_kelimeler": [
-      "dokulara geçiş",
-      "hücreler arası",
-      "yayılma",
-      "protein bağlama",
-      "hacim"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 105,
-    "kategori": "farmakoloji",
-    "kelime": "metabolizma",
-    "aciklama": "ilacın karaciğerde enzimlerle kimyasal olarak dönüştürülmesi süreci.",
-    "yasakli_kelimeler": [
-      "biyotransformasyon",
-      "karaciğer",
-      "enzim",
-      "dönüşüm",
-      "yıkım"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 106,
-    "kategori": "farmakoloji",
-    "kelime": "atılım",
-    "aciklama": "ilacın veya metabolitlerinin böbrek ya da safrayla vücuttan uzaklaştırılması.",
-    "yasakli_kelimeler": [
-      "itrah",
-      "idrarla atılma",
-      "böbrek",
-      "uzaklaştırma",
-      "eliminasyon"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 107,
-    "kategori": "farmakoloji",
-    "kelime": "eliminasyon",
-    "aciklama": "ilacın metabolizma ve atılım yoluyla vücuttan tamamen temizlenmesi.",
-    "yasakli_kelimeler": [
-      "vücuttan temizlenme",
-      "yıkım ve atılım",
-      "uzaklaşma",
-      "klirens",
-      "yarı ömür"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 108,
-    "kategori": "farmakoloji",
-    "kelime": "etki süresi",
-    "aciklama": "ilacın terapötik etkisinin hedef dokuda devam ettiği zaman aralığı.",
-    "yasakli_kelimeler": [
-      "etkinlik süresi",
-      "tesir müddeti",
-      "minimum konsantrasyon",
-      "tedavi aralığı",
-      "süre"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 109,
-    "kategori": "farmakoloji",
-    "kelime": "etki başlangıcı",
-    "aciklama": "ilacın uygulanmasından sonra klinik etkisinin başladığı ilk an.",
-    "yasakli_kelimeler": [
-      "onset",
-      "ilk etki",
-      "başlama zamanı",
-      "gecikme",
-      "kana karışma"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 110,
-    "kategori": "farmakoloji",
-    "kelime": "doruk konsantrasyon",
-    "aciklama": "ilacın kanda ulaştığı en yüksek konsantrasyon seviyesi zirvesi.",
-    "yasakli_kelimeler": [
-      "cmax",
-      "maksimum düzey",
-      "en yüksek konsantrasyon",
-      "plazma zirvesi",
-      "tepe noktası"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 111,
-    "kategori": "farmakoloji",
-    "kelime": "terapötik pencere",
-    "aciklama": "ilacın etkili olduğu minimum doz ile toksik doz arası aralık.",
-    "yasakli_kelimeler": [
-      "tedavi aralığı",
-      "güvenli doz",
-      "toksisite sınırı",
-      "dar pencere",
-      "doz aralığı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 112,
+    "id": 4,
     "kategori": "farmakoloji",
     "kelime": "yan etki",
     "aciklama": "ilacın tedavi edici etkisi dışında oluşturduğu istenmeyen ikincil etkiler.",
@@ -1568,7 +56,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 113,
+    "id": 5,
     "kategori": "farmakoloji",
     "kelime": "toksisite",
     "aciklama": "ilacın yüksek dozda organlarda yarattığı zehirli zararlı hasar.",
@@ -1582,7 +70,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 114,
+    "id": 6,
     "kategori": "farmakoloji",
     "kelime": "aşırı doz",
     "aciklama": "ilacın önerilen güvenli dozun üzerinde aşırı miktarda alınması.",
@@ -1596,7 +84,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 115,
+    "id": 7,
     "kategori": "farmakoloji",
     "kelime": "tolerans",
     "aciklama": "sürekli kullanılan ilaca karşı vücudun duyarlılığının azalması hali.",
@@ -1610,7 +98,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 116,
+    "id": 8,
     "kategori": "farmakoloji",
     "kelime": "bağımlılık",
     "aciklama": "ilacın kullanımına karşı gelişen fiziksel veya psikolojik yoksunluk durumu.",
@@ -1624,21 +112,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 117,
-    "kategori": "farmakoloji",
-    "kelime": "çekilme sendromu",
-    "aciklama": "bağımlılık yapan ilacın kesilmesiyle ortaya çıkan rahatsız edici belirtiler.",
-    "yasakli_kelimeler": [
-      "yoksunluk krizi",
-      "aniden kesme",
-      "titreme terleme",
-      "bırakma sancısı",
-      "kriz"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 118,
+    "id": 9,
     "kategori": "farmakoloji",
     "kelime": "plasebo etkisi",
     "aciklama": "etkisiz bir maddenin hastanın inancıyla olumlu iyileşme sağlaması.",
@@ -1652,35 +126,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 119,
-    "kategori": "farmakoloji",
-    "kelime": "nocebo etkisi",
-    "aciklama": "hastanın olumsuz beklentisi sebebiyle etkisiz maddeden zarar görmesi.",
-    "yasakli_kelimeler": [
-      "olumsuz plasebo",
-      "kötü beklenti",
-      "zararsız madde",
-      "psikolojik kötüleşme",
-      "ters telkin"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 120,
-    "kategori": "farmakoloji",
-    "kelime": "ilaç etkileşimi",
-    "aciklama": "iki veya daha fazla ilacın birbirinin etkisini değiştirmesi.",
-    "yasakli_kelimeler": [
-      "etkileşim",
-      "birlikte kullanım",
-      "karşılıklı etki",
-      "sinerji antagonizma",
-      "etki değişimi"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 121,
+    "id": 10,
     "kategori": "farmakoloji",
     "kelime": "oral yol",
     "aciklama": "ilaçların ağız yoluyla yutularak mide-bağırsak sisteminden alınması yöntemi.",
@@ -1694,7 +140,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 122,
+    "id": 11,
     "kategori": "farmakoloji",
     "kelime": "damar içi",
     "aciklama": "ilacın enjektörle doğrudan damar içine verilmesi enjeksiyon yolu.",
@@ -1708,7 +154,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 123,
+    "id": 12,
     "kategori": "farmakoloji",
     "kelime": "kas içi",
     "aciklama": "ilacın derin kas dokusu içine enjekte edilerek uygulanması.",
@@ -1722,7 +168,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 124,
+    "id": 13,
     "kategori": "farmakoloji",
     "kelime": "deri altı",
     "aciklama": "ilacın cilt altı yağ dokusuna enjekte edilerek verilmesi.",
@@ -1736,7 +182,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 125,
+    "id": 14,
     "kategori": "farmakoloji",
     "kelime": "dil altı",
     "aciklama": "ilacın dil altına konularak kılcal damarlardan hızla emilmesi.",
@@ -1750,49 +196,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 126,
-    "kategori": "farmakoloji",
-    "kelime": "rektal yol",
-    "aciklama": "ilacın makat yoluyla fitil veya lavman şeklinde uygulanması.",
-    "yasakli_kelimeler": [
-      "makattan",
-      "fitil verme",
-      "lavman",
-      "supozituvar",
-      "anüs yolu"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 127,
-    "kategori": "farmakoloji",
-    "kelime": "inhalasyon yolu",
-    "aciklama": "ilacın solunum yoluyla akciğerlere çekilerek uygulanma yöntemi.",
-    "yasakli_kelimeler": [
-      "soluma",
-      "akciğere çekme",
-      "nefesle alma",
-      "aerosol",
-      "sprey"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 128,
-    "kategori": "farmakoloji",
-    "kelime": "topikal uygulama",
-    "aciklama": "ilacın deri veya mukoza yüzeyine haricen sürülerek uygulanması.",
-    "yasakli_kelimeler": [
-      "yüzeysel",
-      "cilde sürme",
-      "haricen",
-      "yerel etki",
-      "deri üstü"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 129,
+    "id": 15,
     "kategori": "farmakoloji",
     "kelime": "transdermal bant",
     "aciklama": "deriye yapıştırılarak ilacın kana yavaş ve sürekli salınmasını sağlayan bant.",
@@ -1806,7 +210,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 130,
+    "id": 16,
     "kategori": "farmakoloji",
     "kelime": "tablet",
     "aciklama": "toz ilaçların preslenerek katı disk haline getirilmiş farmasötik formu.",
@@ -1820,7 +224,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 131,
+    "id": 17,
     "kategori": "farmakoloji",
     "kelime": "kapsül",
     "aciklama": "jelatin kılıf içinde toz veya sıvı ilaç taşıyan form.",
@@ -1834,7 +238,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 132,
+    "id": 18,
     "kategori": "farmakoloji",
     "kelime": "şurup",
     "aciklama": "yoğun şekerli sıvı içinde çözünmüş içilebilir sıvı ilaç formu.",
@@ -1848,7 +252,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 133,
+    "id": 19,
     "kategori": "farmakoloji",
     "kelime": "merhem",
     "aciklama": "deriye sürülen yağ bazlı koyu kıvamlı harici tıbbi preparat.",
@@ -1862,7 +266,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 134,
+    "id": 20,
     "kategori": "farmakoloji",
     "kelime": "krem",
     "aciklama": "su ve yağ emülsiyonundan oluşan yumuşak harici cilt preparatı.",
@@ -1876,7 +280,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 135,
+    "id": 21,
     "kategori": "farmakoloji",
     "kelime": "ampul",
     "aciklama": "tek dozluk enjeksiyonluk sıvı ilaç içeren kapalı cam tüp.",
@@ -1890,21 +294,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 136,
-    "kategori": "farmakoloji",
-    "kelime": "flakon",
-    "aciklama": "içinde toz veya çok dozluk sıvı bulunan kauçuk tıpalı şişe.",
-    "yasakli_kelimeler": [
-      "kauçuk tıpalı",
-      "toz ilaç şişesi",
-      "sulandırma",
-      "enjeksiyon şişesi",
-      "steril şişe"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 137,
+    "id": 22,
     "kategori": "farmakoloji",
     "kelime": "fitil",
     "aciklama": "vücut ısısında eriyerek rektal yoldan emilen koni biçimli ilaç.",
@@ -1918,7 +308,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 138,
+    "id": 23,
     "kategori": "farmakoloji",
     "kelime": "damla",
     "aciklama": "göz, kulak veya buruna damlatılarak uygulanan sıvı preparat.",
@@ -1932,21 +322,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 139,
-    "kategori": "farmakoloji",
-    "kelime": "süspansiyon",
-    "aciklama": "katı ilaç partiküllerinin sıvı içinde çözünmeden dağıldığı çalkalanan karışım.",
-    "yasakli_kelimeler": [
-      "çalkalama",
-      "asılı partikül",
-      "çözünmeyen sıvı",
-      "heterojen",
-      "karışım"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 140,
+    "id": 24,
     "kategori": "farmakoloji",
     "kelime": "reçete",
     "aciklama": "doktorun eczacıya hitaben yazdığı resmi ilaç kullanım talimatı belgesi.",
@@ -1960,7 +336,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 141,
+    "id": 25,
     "kategori": "farmakoloji",
     "kelime": "antibiyotik",
     "aciklama": "bakterilerin üremesini durduran veya onları öldüren antimikrobiyal ilaç.",
@@ -1974,49 +350,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 142,
-    "kategori": "farmakoloji",
-    "kelime": "antiviral",
-    "aciklama": "virüslerin çoğalmasını ve hücreye tutunmasını engelleyen tıbbi ilaç.",
-    "yasakli_kelimeler": [
-      "virüs ilacı",
-      "virüs öldürücü",
-      "grip tedavisi",
-      "uçuk ilacı",
-      "replikasyon engeli"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 143,
-    "kategori": "farmakoloji",
-    "kelime": "antifungal",
-    "aciklama": "mantar hücrelerinin zarını veya duvarını yıkan antifungal ilaç.",
-    "yasakli_kelimeler": [
-      "mantar ilacı",
-      "flukonazol",
-      "deri mantarı",
-      "kandida",
-      "mikoz tedavisi"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 144,
-    "kategori": "farmakoloji",
-    "kelime": "antiparaziter",
-    "aciklama": "vücuttaki parazitleri, tenyaları ve solucanları öldüren tıbbi ilaç.",
-    "yasakli_kelimeler": [
-      "parazit ilacı",
-      "bağırsak kurdu",
-      "tenya döken",
-      "sıtma tedavisi",
-      "kurt ilacı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 145,
+    "id": 26,
     "kategori": "farmakoloji",
     "kelime": "analjezik",
     "aciklama": "sinirsel ağrı iletimini keserek ağrıyı dindiren ilaç grubu.",
@@ -2030,91 +364,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 146,
-    "kategori": "farmakoloji",
-    "kelime": "antipiretik",
-    "aciklama": "vücut ısısını düşürerek yüksek ateşi kontrol altına alan ilaç.",
-    "yasakli_kelimeler": [
-      "ateş düşürücü",
-      "yüksek ateş",
-      "hipotalamus",
-      "parasetamol grubu",
-      "terletici"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 147,
-    "kategori": "farmakoloji",
-    "kelime": "antiaritmik",
-    "aciklama": "kalp ritim bozukluklarını düzelterek ritmi normale döndüren ilaç grubu.",
-    "yasakli_kelimeler": [
-      "kalp ritmi",
-      "ritim düzenleyici",
-      "çarpıntı ilacı",
-      "aritmi",
-      "amiodaron"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 148,
-    "kategori": "farmakoloji",
-    "kelime": "antihipertansif",
-    "aciklama": "yüksek kan basıncını düşürerek normale getiren tansiyon ilacı grubu.",
-    "yasakli_kelimeler": [
-      "tansiyon ilacı",
-      "yüksek tansiyon",
-      "kan basıncı",
-      "damar genişletme",
-      "hipertansiyon"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 149,
-    "kategori": "farmakoloji",
-    "kelime": "antikoagülan",
-    "aciklama": "kanın pıhtılaşmasını geciktirerek damar içi tıkanıklığı önleyen ilaç.",
-    "yasakli_kelimeler": [
-      "kan sulandırıcı",
-      "pıhtı önleyici",
-      "heparin varfarin",
-      "tromboz engeli",
-      "pıhtılaşma"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 150,
-    "kategori": "farmakoloji",
-    "kelime": "antiagregan",
-    "aciklama": "trombositlerin birbirine yapışmasını engelleyerek pıhtıyı önleyen ilaç.",
-    "yasakli_kelimeler": [
-      "trombosit ilacı",
-      "aspirin grubu",
-      "damar tıkanıklığı",
-      "yapışma engeli",
-      "kan pulcuğu"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 151,
-    "kategori": "farmakoloji",
-    "kelime": "antikonvülzan",
-    "aciklama": "epilepsi nöbetlerini baskılayan ve beyin uyarılabilirliğini azaltan ilaç.",
-    "yasakli_kelimeler": [
-      "nöbet önleyici",
-      "epilepsi ilacı",
-      "sara ilacı",
-      "havale durdurma",
-      "beyin elektriği"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 152,
+    "id": 27,
     "kategori": "farmakoloji",
     "kelime": "antidepresan",
     "aciklama": "depresyon ve anksiyete belirtilerini azaltan psikiyatrik ilaç grubu.",
@@ -2128,21 +378,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 153,
-    "kategori": "farmakoloji",
-    "kelime": "antipsikotik",
-    "aciklama": "psikoz ve şizofreni semptomlarını kontrol altına alan ilaç grubu.",
-    "yasakli_kelimeler": [
-      "şizofreni ilacı",
-      "hezeyan önleyici",
-      "halüsinasyon",
-      "dopamin blokajı",
-      "nöroleptik"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 154,
+    "id": 28,
     "kategori": "farmakoloji",
     "kelime": "antihistaminik",
     "aciklama": "alerjik reaksiyonlarda histaminin reseptörlere bağlanmasını engelleyen ilaç.",
@@ -2156,21 +392,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 155,
-    "kategori": "farmakoloji",
-    "kelime": "bronkodilatör",
-    "aciklama": "bronş düz kaslarını gevşeterek hava yollarını açan ilaç.",
-    "yasakli_kelimeler": [
-      "bronş açıcı",
-      "nefes açıcı sprey",
-      "hava yolu",
-      "astım ilacı",
-      "genişletici"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 156,
+    "id": 29,
     "kategori": "farmakoloji",
     "kelime": "kas gevşetici",
     "aciklama": "kas spazmlarını ve gerginliğini azaltarak rahatlama sağlayan ilaç.",
@@ -2184,7 +406,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 157,
+    "id": 30,
     "kategori": "farmakoloji",
     "kelime": "antasit",
     "aciklama": "mide asidini kimyasal olarak nötralize eden bazik ilaç.",
@@ -2198,7 +420,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 158,
+    "id": 31,
     "kategori": "farmakoloji",
     "kelime": "laksatif",
     "aciklama": "bağırsak hareketlerini artırarak kabızlığı gideren ilaç grubu.",
@@ -2212,35 +434,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 159,
-    "kategori": "farmakoloji",
-    "kelime": "antiemetik",
-    "aciklama": "bulantı ve kusma refleksini beyin merkezinde baskılayan ilaç.",
-    "yasakli_kelimeler": [
-      "bulantı kesici",
-      "kusma önleyici",
-      "kemoterapi bulantısı",
-      "mide tutması",
-      "kusma merkezi"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 160,
-    "kategori": "farmakoloji",
-    "kelime": "immünsüpresif",
-    "aciklama": "bağışıklık sisteminin aşırı aktivitesini ve yanıtını baskılayan ilaç.",
-    "yasakli_kelimeler": [
-      "bağışıklık baskılayıcı",
-      "organ reddi",
-      "nakil ilacı",
-      "otoimmün",
-      "bağışıklık susturucu"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 161,
+    "id": 32,
     "kategori": "farmakoloji",
     "kelime": "aspirin",
     "aciklama": "trombosit kümeleşmesini ve ağrıyı engelleyen asetilsalisilik asit ilacı.",
@@ -2254,7 +448,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 162,
+    "id": 33,
     "kategori": "farmakoloji",
     "kelime": "ibuprofen",
     "aciklama": "yaygın kullanılan nonsteroid antiinflamatuar ve ağrı kesici etken madde.",
@@ -2268,49 +462,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 163,
-    "kategori": "farmakoloji",
-    "kelime": "naproksen",
-    "aciklama": "romatizma ve eklem ağrılarında kullanılan uzun etkili nonsteroid ilaç.",
-    "yasakli_kelimeler": [
-      "apranax",
-      "romatizma ilacı",
-      "adet sancısı",
-      "ağrı kesici",
-      "uzun etkili"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 164,
-    "kategori": "farmakoloji",
-    "kelime": "diklofenak",
-    "aciklama": "eklem ve kas iltihaplarında yaygın kullanılan güçlü ağrı kesici.",
-    "yasakli_kelimeler": [
-      "voltaren",
-      "dikloron",
-      "kas jeli",
-      "enjeksiyonluk ağrı kesici",
-      "romatizma"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 165,
-    "kategori": "farmakoloji",
-    "kelime": "amoksisilin",
-    "aciklama": "solunum yolu enfeksiyonlarında sıkça reçete edilen geniş spektrumlu penisilin.",
-    "yasakli_kelimeler": [
-      "penisilin türevi",
-      "klamoks",
-      "largopen",
-      "geniş spektrumlu",
-      "bademcik ilacı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 166,
+    "id": 34,
     "kategori": "farmakoloji",
     "kelime": "penisilin",
     "aciklama": "küf mantarından izole edilen tarihin ilk antibiyotiği.",
@@ -2324,287 +476,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 167,
-    "kategori": "farmakoloji",
-    "kelime": "seftriakson",
-    "aciklama": "menenjit ve ağır enfeksiyonlarda kullanılan üçüncü kuşak sefalosporin antibiyotik.",
-    "yasakli_kelimeler": [
-      "üçüncü kuşak",
-      "rocephin",
-      "menenjit ilacı",
-      "damardan antibiyotik",
-      "sefalosporin"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 168,
-    "kategori": "farmakoloji",
-    "kelime": "siprofloksasin",
-    "aciklama": "idrar yolu ve solunum enfeksiyonlarında kullanılan florokinolon grubu antibiyotik.",
-    "yasakli_kelimeler": [
-      "cipro",
-      "idrar yolu ilacı",
-      "florokinolon",
-      "bakteri tedavisi",
-      "geniş spektrum"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 169,
-    "kategori": "farmakoloji",
-    "kelime": "azitromisin",
-    "aciklama": "üç veya beş günlük kürlerle uygulanan makrolid antibiyotik.",
-    "yasakli_kelimeler": [
-      "üç günlük hap",
-      "zitromax",
-      "makrolid",
-      "bademcik",
-      "solunum yolu"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 170,
-    "kategori": "farmakoloji",
-    "kelime": "klaritromisin",
-    "aciklama": "helikobakter pilori tedavisinde kullanılan makrolid grubu güçlü antibiyotik.",
-    "yasakli_kelimeler": [
-      "klacid",
-      "helikobakter",
-      "mide mikrobunu kırma",
-      "makrolid",
-      "ülser tedavisi"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 171,
-    "kategori": "farmakoloji",
-    "kelime": "omeprazol",
-    "aciklama": "mide asit salgısını azaltan ilk proton pompa inhibitörü ilaç.",
-    "yasakli_kelimeler": [
-      "mide koruyucu",
-      "reflü ilacı",
-      "asit baskılama",
-      "proton pompası",
-      "gastrit hapı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 172,
-    "kategori": "farmakoloji",
-    "kelime": "pantoprazol",
-    "aciklama": "reflü ve gastrit tedavisinde kullanılan proton pompa inhibitörü etken madde.",
-    "yasakli_kelimeler": [
-      "pantpas",
-      "mide koruyucu",
-      "reflü tedavisi",
-      "asit önleyici",
-      "sabah aç karnına"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 173,
-    "kategori": "farmakoloji",
-    "kelime": "famotidin",
-    "aciklama": "midede histamin iki reseptörlerini bloke ederek asidi azaltan ilaç.",
-    "yasakli_kelimeler": [
-      "h2 blokeri",
-      "mide asidi",
-      "famodin",
-      "antiasit",
-      "gece yanması"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 174,
-    "kategori": "farmakoloji",
-    "kelime": "metoklopramid",
-    "aciklama": "mide boşalmasını hızlandıran ve bulantıyı kesen prokinetik ilaç.",
-    "yasakli_kelimeler": [
-      "metpamid",
-      "bulantı ilacı",
-      "mide boşaltıcı",
-      "kusma durdurma",
-      "prokinetik"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 175,
-    "kategori": "farmakoloji",
-    "kelime": "ondansetron",
-    "aciklama": "kemoterapiye bağlı bulantı ve kusmayı önleyen serotonin antagonisti.",
-    "yasakli_kelimeler": [
-      "zofran",
-      "kemoterapi kusması",
-      "serotonin antagonisti",
-      "ameliyat sonrası",
-      "ağır bulantı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 176,
-    "kategori": "farmakoloji",
-    "kelime": "loperamid",
-    "aciklama": "bağırsak motilitesini yavaşlatıp ishali durduran opiyat türevi ilaç.",
-    "yasakli_kelimeler": [
-      "ishal kesici",
-      "lopermid",
-      "bağırsak yavaşlatıcı",
-      "peristaltizm",
-      "akut ishal"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 177,
-    "kategori": "farmakoloji",
-    "kelime": "furosemid",
-    "aciklama": "akut akciğer ödemi ve hipertansiyonda kullanılan güçlü kıvrım diüretiği.",
-    "yasakli_kelimeler": [
-      "lasix",
-      "idrar söktürücü",
-      "ödem atıcı",
-      "kıvrım diüretiği",
-      "hızlı idrar"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 178,
-    "kategori": "farmakoloji",
-    "kelime": "spironolakton",
-    "aciklama": "kalp yetmezliğinde kullanılan potasyum tutucu aldosteron antagonisti diüretik.",
-    "yasakli_kelimeler": [
-      "aldacton",
-      "potasyum tutucu",
-      "idrar söktürücü",
-      "aldosteron",
-      "kalp yetmezliği ilacı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 179,
-    "kategori": "farmakoloji",
-    "kelime": "hidroklorotiyazid",
-    "aciklama": "hipertansiyon tedavisinde ilk basamakta sıkça kullanılan tiyazid diüretik.",
-    "yasakli_kelimeler": [
-      "tiyazid",
-      "tansiyon düşürücü",
-      "tuz atıcı",
-      "kombine hap",
-      "diüretik"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 180,
-    "kategori": "farmakoloji",
-    "kelime": "amlodipin",
-    "aciklama": "damarları genişleterek kan basıncını düşüren dihidropiridin kalsiyum blokeri.",
-    "yasakli_kelimeler": [
-      "norvasc",
-      "kalsiyum blokeri",
-      "tansiyon ilacı",
-      "ayak bileği ödemi",
-      "damar gevşetici"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 181,
-    "kategori": "farmakoloji",
-    "kelime": "diltiazem",
-    "aciklama": "anjina ve hipertansiyonda kullanılan benzotiyazepin grubu kalsiyum blokeri.",
-    "yasakli_kelimeler": [
-      "diltizem",
-      "kalp yavaşlatıcı",
-      "angina tedavisi",
-      "kalsiyum antagonisti",
-      "aritmi"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 182,
-    "kategori": "farmakoloji",
-    "kelime": "metoprolol",
-    "aciklama": "kalp hızını ve tansiyonu düşüren kardiyoselektif beta bir blokeri.",
-    "yasakli_kelimeler": [
-      "beloc",
-      "beta bloker",
-      "nabız düşürücü",
-      "çarpıntı önleyici",
-      "kalp ilacı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 183,
-    "kategori": "farmakoloji",
-    "kelime": "propranolol",
-    "aciklama": "migren koruması ve hipertansiyonda kullanılan nonselektif beta bloker.",
-    "yasakli_kelimeler": [
-      "dideral",
-      "el titremesi",
-      "heyecan yatıştırıcı",
-      "sahne korkusu",
-      "beta bloker"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 184,
-    "kategori": "farmakoloji",
-    "kelime": "ramipril",
-    "aciklama": "kalp yetmezliği ve tansiyonda organ koruyucu ace inhibitörü.",
-    "yasakli_kelimeler": [
-      "delix",
-      "ace inhibitörü",
-      "kuru öksürük",
-      "tansiyon ilacı",
-      "kalp koruyucu"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 185,
-    "kategori": "farmakoloji",
-    "kelime": "losartan",
-    "aciklama": "kuru öksürük yapmayan anjiyotensin reseptör blokeri tansiyon ilacı.",
-    "yasakli_kelimeler": [
-      "cozaar",
-      "arb grubu",
-      "tansiyon hapı",
-      "öksürük yapmayan",
-      "anjiyotensin blokeri"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 186,
-    "kategori": "farmakoloji",
-    "kelime": "glukagon",
-    "aciklama": "şiddetli hipoglisemi durumunda kan şekerini hızla yükselten pankreas hormonu.",
-    "yasakli_kelimeler": [
-      "şeker yükseltici",
-      "hipoglisemi koması",
-      "karaciğer şekeri",
-      "acil kit",
-      "insülin zıddı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 187,
+    "id": 35,
     "kategori": "farmakoloji",
     "kelime": "insülin",
     "aciklama": "kandaki glukozun hücre içine girmesini sağlayan hayati anabolik hormon.",
@@ -2618,188 +490,6 @@
     "zorluk": "kolay"
   },
   {
-    "id": 188,
-    "kategori": "farmakoloji",
-    "kelime": "akarboz",
-    "aciklama": "karbonhidratların bağırsaktan sindirilip emilimini geciktiren diyabet ilacı.",
-    "yasakli_kelimeler": [
-      "glukobay",
-      "şeker emilim engeli",
-      "karbonhidrat blokajı",
-      "tokluk şekeri",
-      "gaz yapıcı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 189,
-    "kategori": "farmakoloji",
-    "kelime": "prednizolon",
-    "aciklama": "otoimmün ve alerjik hastalıklarda kullanılan sentetik glukokortikoid steroid.",
-    "yasakli_kelimeler": [
-      "deltacortril",
-      "kortizon hapı",
-      "bağışıklık baskılama",
-      "yüzde şişme",
-      "iltihap kurutucu"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 190,
-    "kategori": "farmakoloji",
-    "kelime": "deksametazon",
-    "aciklama": "beyin ödemi ve ağır inflamasyonlarda kullanılan çok güçlü sentetik kortikosteroid.",
-    "yasakli_kelimeler": [
-      "dekort",
-      "güçlü kortizon",
-      "beyin ödemi",
-      "ampul",
-      "şok tedavisi"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 191,
-    "kategori": "farmakoloji",
-    "kelime": "diazepam",
-    "aciklama": "anksiyete ve kas spazmlarında kullanılan uzun etkili klasik benzodiazepin.",
-    "yasakli_kelimeler": [
-      "diazem",
-      "yeşil reçete",
-      "sakinleştirici",
-      "nöbet durdurma",
-      "uyku verici"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 192,
-    "kategori": "farmakoloji",
-    "kelime": "lorazepam",
-    "aciklama": "status epileptikus tedavisinde tercih edilen orta etkili benzodiazepin.",
-    "yasakli_kelimeler": [
-      "ativan",
-      "kaygı giderici",
-      "yeşil reçeteli",
-      "anksiyolitik",
-      "panik ilacı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 193,
-    "kategori": "farmakoloji",
-    "kelime": "alprazolam",
-    "aciklama": "panik atak ve anksiyete krizlerinde kullanılan kısa etkili benzodiazepin.",
-    "yasakli_kelimeler": [
-      "xanax",
-      "panik atak",
-      "yatıştırıcı",
-      "bağımlılık riski",
-      "kaygı hapı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 194,
-    "kategori": "farmakoloji",
-    "kelime": "fluoksetin",
-    "aciklama": "depresyon ve obsesif kompulsif bozuklukta kullanılan ilk ssri antidepresan.",
-    "yasakli_kelimeler": [
-      "prozac",
-      "depresyon ilacı",
-      "serotonin artırıcı",
-      "obsesyon",
-      "mutluluk kapsülü"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 195,
-    "kategori": "farmakoloji",
-    "kelime": "sertralin",
-    "aciklama": "anksiyete ve depresyon tedavisinde sık reçete edilen güvenli ssri antidepresan.",
-    "yasakli_kelimeler": [
-      "lustral",
-      "antidepresan",
-      "kaygı bozukluğu",
-      "ssri grubu",
-      "serotonin hapı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 196,
-    "kategori": "farmakoloji",
-    "kelime": "ketiapin",
-    "aciklama": "şizofreni ve bipolar bozuklukta sedasyon sağlayan atipik antipsikotik.",
-    "yasakli_kelimeler": [
-      "seroquel",
-      "uyku veren",
-      "atipik antipsikotik",
-      "bipolar ilacı",
-      "psikiyatri hapı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 197,
-    "kategori": "farmakoloji",
-    "kelime": "olanzapin",
-    "aciklama": "kilo alımı yapabilen güçlü atipik antipsikotik psikiyatri ilacı.",
-    "yasakli_kelimeler": [
-      "zyprexa",
-      "kilo aldırıcı",
-      "antipsikotik",
-      "şizofreni",
-      "iştah artışı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 198,
-    "kategori": "farmakoloji",
-    "kelime": "levetirasetam",
-    "aciklama": "epilepsi nöbetlerinin kontrolünde kullanılan yeni nesil antikonvülzan ilaç.",
-    "yasakli_kelimeler": [
-      "keppra",
-      "epilepsi nöbeti",
-      "güvenli antikonvülzan",
-      "sara tedavisi",
-      "nöroloji"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 199,
-    "kategori": "farmakoloji",
-    "kelime": "baklofen",
-    "aciklama": "omurilik kaynaklı kas spazmlarını çözen gaba b agonisti kas gevşetici.",
-    "yasakli_kelimeler": [
-      "lioresal",
-      "spastisite",
-      "omurilik kasılması",
-      "gaba türevi",
-      "kasılma çözücü"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 200,
-    "kategori": "farmakoloji",
-    "kelime": "gliserin kansuk",
-    "aciklama": "kabızlıkta dışkıyı yumuşatarak rektal yoldan boşaltan fitil gliserin.",
-    "yasakli_kelimeler": [
-      "bebek fitili",
-      "kabızlık çözücü",
-      "gliserin fitil",
-      "kaydırıcı",
-      "hızlı dışkılama"
-    ],
-    "zorluk": "orta"
-  },
-  {
     "kategori": "farmakoloji",
     "kelime": "reçete yazmak",
     "aciklama": "doktorun hastanın tedavisi için resmi ilaç belgesi düzenlemesi.",
@@ -2811,7 +501,7 @@
       "tedavi"
     ],
     "zorluk": "kolay",
-    "id": 201
+    "id": 36
   },
   {
     "kategori": "farmakoloji",
@@ -2825,7 +515,7 @@
       "hasta"
     ],
     "zorluk": "kolay",
-    "id": 202
+    "id": 37
   },
   {
     "kategori": "farmakoloji",
@@ -2839,7 +529,7 @@
       "öksürük"
     ],
     "zorluk": "kolay",
-    "id": 203
+    "id": 38
   },
   {
     "kategori": "farmakoloji",
@@ -2853,7 +543,7 @@
       "cilt"
     ],
     "zorluk": "kolay",
-    "id": 204
+    "id": 39
   },
   {
     "kategori": "farmakoloji",
@@ -2867,7 +557,7 @@
       "uyarı"
     ],
     "zorluk": "kolay",
-    "id": 205
+    "id": 40
   },
   {
     "kategori": "farmakoloji",
@@ -2881,7 +571,7 @@
       "ağrı"
     ],
     "zorluk": "kolay",
-    "id": 206
+    "id": 41
   },
   {
     "kategori": "farmakoloji",
@@ -2895,7 +585,7 @@
       "görme"
     ],
     "zorluk": "kolay",
-    "id": 207
+    "id": 42
   },
   {
     "kategori": "farmakoloji",
@@ -2909,7 +599,7 @@
       "tarif"
     ],
     "zorluk": "kolay",
-    "id": 208
+    "id": 43
   },
   {
     "kategori": "farmakoloji",
@@ -2923,566 +613,6 @@
       "sancı"
     ],
     "zorluk": "kolay",
-    "id": 209
-  },
-  {
-    "kategori": "farmakoloji",
-    "kelime": "doz aşımı yapmak",
-    "aciklama": "önerilen güvenli doz sınırını aşarak fazla ilaç tüketmek.",
-    "yasakli_kelimeler": [
-      "fazla ilaç",
-      "zehirlenme",
-      "tehlike",
-      "miktar",
-      "hastane"
-    ],
-    "zorluk": "kolay",
-    "id": 210
-  },
-  {
-    "kategori": "farmakoloji",
-    "kelime": "son kullanmaya bakmak",
-    "aciklama": "ilacın kutusundaki son kullanma tarihini kontrol etmek.",
-    "yasakli_kelimeler": [
-      "kutu",
-      "tarih",
-      "bozulma",
-      "geçmiş",
-      "kontrol"
-    ],
-    "zorluk": "kolay",
-    "id": 211
-  },
-  {
-    "kategori": "farmakoloji",
-    "kelime": "ilaçları dolaba kaldırmak",
-    "aciklama": "bozulabilecek ilaçları talimata uygun olarak buzdolabında saklamak.",
-    "yasakli_kelimeler": [
-      "ecza dolabı",
-      "saklamak",
-      "çocuklardan uzak",
-      "serin",
-      "kilit"
-    ],
-    "zorluk": "kolay",
-    "id": 212
-  },
-  {
-    "kategori": "farmakoloji",
-    "kelime": "yan etki gözlemlemek",
-    "aciklama": "ilacın vücutta yarattığı beklenmeyen ikincil tepkileri izlemek.",
-    "yasakli_kelimeler": [
-      "mide bulantısı",
-      "baş dönmesi",
-      "alerji",
-      "reaksiyon",
-      "istenmeyen"
-    ],
-    "zorluk": "orta",
-    "id": 213
-  },
-  {
-    "kategori": "farmakoloji",
-    "kelime": "etken maddeyi belirlemek",
-    "aciklama": "ilacın biyolojik etkiyi sağlayan ana kimyasal molekülünü belirlemek.",
-    "yasakli_kelimeler": [
-      "molekül",
-      "kimyasal",
-      "jenerik",
-      "tedavi edici",
-      "bileşen"
-    ],
-    "zorluk": "orta",
-    "id": 214
-  },
-  {
-    "kategori": "farmakoloji",
-    "kelime": "antibiyotik direnci geliştirmek",
-    "aciklama": "bakterilerin antibiyotiğin öldürücü etkisine karşı direnç kazanması süreci.",
-    "yasakli_kelimeler": [
-      "bakteri",
-      "bağışıklık",
-      "etkisiz kalma",
-      "yanlış kullanım",
-      "mikrop"
-    ],
-    "zorluk": "orta",
-    "id": 215
-  },
-  {
-    "kategori": "farmakoloji",
-    "kelime": "yan etki bildirmek",
-    "aciklama": "gözlenen beklenmedik olumsuz ilaç reaksiyonunu resmi kurumlara bildirmek.",
-    "yasakli_kelimeler": [
-      "intravenöz",
-      "serum",
-      "kanül",
-      "damar",
-      "hemşire"
-    ],
-    "zorluk": "orta",
-    "id": 216
-  },
-  {
-    "kategori": "farmakoloji",
-    "kelime": "ilaç etkileşimini incelemek",
-    "aciklama": "iki ilacın birlikte kullanımının emilim ve etkiye yansımasını incelemek.",
-    "yasakli_kelimeler": [
-      "çapraz reaksiyon",
-      "iki ilaç",
-      "zarar",
-      "karışım",
-      "uyumsuzluk"
-    ],
-    "zorluk": "orta",
-    "id": 217
-  },
-  {
-    "kategori": "farmakoloji",
-    "kelime": "biyoyararlanımı ölçmek",
-    "aciklama": "ilacın kana karışan aktif fraksiyonunu laboratuvarda ölçmek.",
-    "yasakli_kelimeler": [
-      "emilim",
-      "dolaşım",
-      "yüzde",
-      "kana karışma",
-      "farmakokinetik"
-    ],
-    "zorluk": "orta",
-    "id": 218
-  },
-  {
-    "kategori": "farmakoloji",
-    "kelime": "yemekten sonra almak",
-    "aciklama": "mideyi tahriş etmemesi için ilacı yemekten sonra tüketmek.",
-    "yasakli_kelimeler": [
-      "etkisiz madde",
-      "şeker hapı",
-      "psikolojik",
-      "inanç",
-      "iyileşme"
-    ],
-    "zorluk": "orta",
-    "id": 219
-  },
-  {
-    "kategori": "farmakoloji",
-    "kelime": "ilaç sentezlemek",
-    "aciklama": "laboratuvarda kimyasal reaksiyonlarla yeni ilaç molekülü sentezlemek.",
-    "yasakli_kelimeler": [
-      "laboratuvar",
-      "kimyager",
-      "reaksiyon",
-      "üretim",
-      "formülasyon"
-    ],
-    "zorluk": "orta",
-    "id": 220
-  },
-  {
-    "kategori": "farmakoloji",
-    "kelime": "tolerans geliştirmek",
-    "aciklama": "aynı ilaca karşı vücudun zamanla duyarsızlaşıp tolerans geliştirmesi.",
-    "yasakli_kelimeler": [
-      "etkinin azalması",
-      "doz artırma",
-      "vücudun alışması",
-      "duyarsızlaşma",
-      "bağımlılık"
-    ],
-    "zorluk": "orta",
-    "id": 221
-  },
-  {
-    "kategori": "farmakoloji",
-    "kelime": "prospektüs bilgisi okumak",
-    "aciklama": "prospektüsteki dozaj, endikasyon ve uyarı bilgilerini dikkatle okumak.",
-    "yasakli_kelimeler": [
-      "kandan atılma",
-      "konsantrasyon",
-      "yarılanma",
-      "saat",
-      "vücut"
-    ],
-    "zorluk": "orta",
-    "id": 222
-  },
-  {
-    "kategori": "farmakoloji",
-    "kelime": "sublingual uygulamak",
-    "aciklama": "ilacı yutmadan dil altına koyarak kılcal damarlardan emdirmek.",
-    "yasakli_kelimeler": [
-      "dil altı",
-      "hızlı emilim",
-      "damar",
-      "eritmek",
-      "tansiyon"
-    ],
-    "zorluk": "orta",
-    "id": 223
-  },
-  {
-    "kategori": "farmakoloji",
-    "kelime": "gargara yapıp tükürmek",
-    "aciklama": "boğaz enfeksiyonunda antiseptik sıvıyla gargara yapıp dışarı tükürmek.",
-    "yasakli_kelimeler": [
-      "panzehir",
-      "zehirlenme",
-      "etkiyi nötrleme",
-      "tedavi",
-      "acil"
-    ],
-    "zorluk": "orta",
-    "id": 224
-  },
-  {
-    "kategori": "farmakoloji",
-    "kelime": "kontrendikasyon saptamak",
-    "aciklama": "hastanın mevcut durumunda ilacın kesinlikle kullanılmaması gerektiğini belirlemek.",
-    "yasakli_kelimeler": [
-      "kullanılmaması gereken durum",
-      "engel",
-      "gebelik",
-      "risk",
-      "yasak"
-    ],
-    "zorluk": "orta",
-    "id": 225
-  },
-  {
-    "kategori": "farmakoloji",
-    "kelime": "toksisite testi yapmak",
-    "aciklama": "yeni geliştirilen molekülün hücre ve dokulardaki zehirlilik testini yapmak.",
-    "yasakli_kelimeler": [
-      "zehirlilik",
-      "doz",
-      "denek",
-      "güvenlik",
-      "ld50"
-    ],
-    "zorluk": "orta",
-    "id": 226
-  },
-  {
-    "kategori": "farmakoloji",
-    "kelime": "jenerik ilaç üretmek",
-    "aciklama": "orijinal ilacın patent süresi dolunca eşdeğer jenerik formunu üretmek.",
-    "yasakli_kelimeler": [
-      "muadil",
-      "eşdeğer",
-      "patent bitimi",
-      "orijinal",
-      "üretim"
-    ],
-    "zorluk": "orta",
-    "id": 227
-  },
-  {
-    "kategori": "farmakoloji",
-    "kelime": "etken madde miktarı",
-    "aciklama": "bir tabletteki saf etken madde miligram miktarını saptamak.",
-    "yasakli_kelimeler": [
-      "faz 1 2 3",
-      "gönüllü",
-      "hasta denemesi",
-      "ruhsat",
-      "etkinlik"
-    ],
-    "zorluk": "orta",
-    "id": 228
-  },
-  {
-    "kategori": "farmakoloji",
-    "kelime": "deri yoluyla emilmek",
-    "aciklama": "ilacın cilt gözeneklerinden emilerek sistemik kan dolaşımına katılması.",
-    "yasakli_kelimeler": [
-      "transdermal",
-      "flaster",
-      "bant",
-      "yavaş salınım",
-      "cilt"
-    ],
-    "zorluk": "orta",
-    "id": 229
-  },
-  {
-    "kategori": "farmakoloji",
-    "kelime": "kırmızı reçeteli yazdırmak",
-    "aciklama": "bağımlılık yapıcı narkotik ilaçlar için özel kırmızı reçete düzenletmek.",
-    "yasakli_kelimeler": [
-      "sitokrom",
-      "parçalanma",
-      "organ",
-      "enzim",
-      "atılım"
-    ],
-    "zorluk": "orta",
-    "id": 230
-  },
-  {
-    "kategori": "farmakoloji",
-    "kelime": "böbrekten atılmak",
-    "aciklama": "ilacın idrar yoluyla glomerüler filtrasyonla vücuttan dışarı atılması.",
-    "yasakli_kelimeler": [
-      "idrar",
-      "eliminasyon",
-      "filtrasyon",
-      "klirens",
-      "boşaltım"
-    ],
-    "zorluk": "orta",
-    "id": 231
-  },
-  {
-    "kategori": "farmakoloji",
-    "kelime": "ilaç ruhsatı almak",
-    "aciklama": "sağlık bakanlığından ilacın satışı için resmi ruhsat belgesi almak.",
-    "yasakli_kelimeler": [
-      "sağlık bakanlığı",
-      "fda",
-      "onay",
-      "satış izni",
-      "belge"
-    ],
-    "zorluk": "orta",
-    "id": 232
-  },
-  {
-    "kategori": "farmakoloji",
-    "kelime": "serum düzeyi izlemek",
-    "aciklama": "dar terapötik indeksli ilaçların kandaki yoğunluğunu kan tahliliyle izlemek.",
-    "yasakli_kelimeler": [
-      "kan tahlili",
-      "düzey",
-      "terapötik aralık",
-      "ölçüm",
-      "mikrogram"
-    ],
-    "zorluk": "orta",
-    "id": 233
-  },
-  {
-    "kategori": "farmakoloji",
-    "kelime": "bağımlılık riskini değerlendirmek",
-    "aciklama": "sedatif veya opioid ilaçların bağımlılık yapma riskini değerlendirmek.",
-    "yasakli_kelimeler": [
-      "yoksunluk",
-      "psikolojik",
-      "fiziksel",
-      "kırmızı reçete",
-      "uyuşturucu"
-    ],
-    "zorluk": "orta",
-    "id": 234
-  },
-  {
-    "kategori": "farmakoloji",
-    "kelime": "kontrollü salım sağlamak",
-    "aciklama": "ilacın gün boyu azar azar kana karışmasını sağlayan formül tasarlamak.",
-    "yasakli_kelimeler": [
-      "yavaş salınım",
-      "kapsül",
-      "24 saat",
-      "uzatılmış etki",
-      "tablet"
-    ],
-    "zorluk": "orta",
-    "id": 235
-  },
-  {
-    "kategori": "farmakoloji",
-    "kelime": "steril solüsyon hazırlamak",
-    "aciklama": "damar içi kullanım için mikropsuz steril sıvı solüsyon hazırlamak.",
-    "yasakli_kelimeler": [
-      "mikropsuz",
-      "otoklav",
-      "göz damlası",
-      "enjeksiyon",
-      "laboratuvar"
-    ],
-    "zorluk": "orta",
-    "id": 236
-  },
-  {
-    "kategori": "farmakoloji",
-    "kelime": "antagonist etki göstermek",
-    "aciklama": "hedef reseptöre bağlanarak diğer maddelerin bağlanmasını engellemek.",
-    "yasakli_kelimeler": [
-      "bloke etmek",
-      "reseptör",
-      "engelleme",
-      "inhibisyon",
-      "karşıt etki"
-    ],
-    "zorluk": "zor",
-    "id": 237
-  },
-  {
-    "kategori": "farmakoloji",
-    "kelime": "ilk geçişi aşmak",
-    "aciklama": "ilacı damar içi vererek karaciğerdeki ilk geçiş metabolizmasını baypas etmek.",
-    "yasakli_kelimeler": [
-      "first pass effect",
-      "karaciğer",
-      "portal ven",
-      "oral biyoyararlanım",
-      "metabolizma"
-    ],
-    "zorluk": "zor",
-    "id": 238
-  },
-  {
-    "kategori": "farmakoloji",
-    "kelime": "plazma konsantrasyonu ölçmek",
-    "aciklama": "kandaki aktif ilaç derişimini kromatografi yöntemiyle analiz edip ölçmek.",
-    "yasakli_kelimeler": [
-      "cyp450",
-      "hızlanma",
-      "karaciğer",
-      "ilaç yıkımı",
-      "etkileşim"
-    ],
-    "zorluk": "zor",
-    "id": 239
-  },
-  {
-    "kategori": "farmakoloji",
-    "kelime": "yarılanma ömrü hesaplamak",
-    "aciklama": "ilacın kandaki miktarının yarı yarıya azalması süresini hesaplamak.",
-    "yasakli_kelimeler": [
-      "td50 / ed50",
-      "güvenlik aralığı",
-      "toksik doz",
-      "etkin doz",
-      "dar indeks"
-    ],
-    "zorluk": "zor",
-    "id": 240
-  },
-  {
-    "kategori": "farmakoloji",
-    "kelime": "reseptör modülatörü olmak",
-    "aciklama": "reseptörün yapısını değiştirerek bağlanma afinitesini artıran veya azaltan molekül.",
-    "yasakli_kelimeler": [
-      "ikincil bağlanma yeri",
-      "konformasyon",
-      "artırma azaltma",
-      "reseptör",
-      "etki"
-    ],
-    "zorluk": "zor",
-    "id": 241
-  },
-  {
-    "kategori": "farmakoloji",
-    "kelime": "kandaki ilaç düzeyi",
-    "aciklama": "kan dolaşımında bulunan aktif ve serbest ilaç miktarı düzeyi.",
-    "yasakli_kelimeler": [
-      "vücuttan temizlenme",
-      "plazma hacmi",
-      "böbrek",
-      "dakikadaki debi",
-      "eliminasyon"
-    ],
-    "zorluk": "zor",
-    "id": 242
-  },
-  {
-    "kategori": "farmakoloji",
-    "kelime": "dağılım hacmini saptamak",
-    "aciklama": "ilacın vücut dokularına yayılma derecesini gösteren dağılım hacmini saptamak.",
-    "yasakli_kelimeler": [
-      "volume of distribution",
-      "dokuya geçiş",
-      "lipofilik",
-      "plazma",
-      "oran"
-    ],
-    "zorluk": "zor",
-    "id": 243
-  },
-  {
-    "kategori": "farmakoloji",
-    "kelime": "ilaç etkileşimi kontrolü",
-    "aciklama": "hastanın kullandığı tüm ilaçların birbirleriyle etkileşim riskini denetlemek.",
-    "yasakli_kelimeler": [
-      "akut tolerans",
-      "hızlı duyarsızlaşma",
-      "efedrin",
-      "reseptör desensitizasyonu",
-      "cevap azalması"
-    ],
-    "zorluk": "zor",
-    "id": 244
-  },
-  {
-    "kategori": "farmakoloji",
-    "kelime": "faz 3 çalışması",
-    "aciklama": "yeni ilacın etkinliğini binlerce hastada kanıtlayan üçüncü faz çalışması.",
-    "yasakli_kelimeler": [
-      "kiralite",
-      "optik izomer",
-      "sağ sol el",
-      "talidomid",
-      "saf molekül"
-    ],
-    "zorluk": "zor",
-    "id": 245
-  },
-  {
-    "kategori": "farmakoloji",
-    "kelime": "reseptör bağı kurmak",
-    "aciklama": "ilaç molekülünün hedef hücre reseptörüyle kovalent veya iyonik bağ kurması.",
-    "yasakli_kelimeler": [
-      "ilacın vücuda etkisi",
-      "konsantrasyon-etki eğrisi",
-      "emax",
-      "ec50",
-      "mekanizma"
-    ],
-    "zorluk": "zor",
-    "id": 246
-  },
-  {
-    "kategori": "farmakoloji",
-    "kelime": "sitokrom enzimi baskılamak",
-    "aciklama": "karaciğer sitokrom p450 enzimlerini bloke ederek ilaç yıkımını yavaşlatmak.",
-    "yasakli_kelimeler": [
-      "inverse agonist",
-      "bazal aktiviteyi düşürme",
-      "negatif etkinlik",
-      "reseptör",
-      "gaba"
-    ],
-    "zorluk": "zor",
-    "id": 247
-  },
-  {
-    "kategori": "farmakoloji",
-    "kelime": "ilaç formülü geliştirmek",
-    "aciklama": "ilacın emilim ve stabilitesini artıran kimyasal formülasyonu geliştirmek.",
-    "yasakli_kelimeler": [
-      "gebelik kategorisi",
-      "fötal anomali",
-      "sakat doğum",
-      "embriyo toksisitesi",
-      "gebe"
-    ],
-    "zorluk": "zor",
-    "id": 248
-  },
-  {
-    "kategori": "farmakoloji",
-    "kelime": "klinik deney yürütmek",
-    "aciklama": "yeni ilacın insanlar üzerindeki güvenlilik ve etkinliğini araştıran deney yürütmek.",
-    "yasakli_kelimeler": [
-      "genetik polimorfizm",
-      "bireyselleştirilmiş doz",
-      "dna",
-      "hızlı yavaş metabolize eden",
-      "ilaç yanıtı"
-    ],
-    "zorluk": "zor",
-    "id": 249
+    "id": 44
   }
 ]

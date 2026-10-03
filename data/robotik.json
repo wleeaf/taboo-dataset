@@ -2,34 +2,6 @@
   {
     "id": 1,
     "kategori": "robotik",
-    "kelime": "manipülatör",
-    "aciklama": "işlemek için insan kolunu taklit eden mekanik eklemli robot kolu.",
-    "yasakli_kelimeler": [
-      "kol",
-      "eklem",
-      "hareket",
-      "kavrama",
-      "endüstri"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 2,
-    "kategori": "robotik",
-    "kelime": "uç eleman",
-    "aciklama": "kaynak yapma gibi asıl görevi gerçekleştiren alet.",
-    "yasakli_kelimeler": [
-      "tutucu",
-      "alet",
-      "uç",
-      "kaynak",
-      "bağlantı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 3,
-    "kategori": "robotik",
     "kelime": "servo motor",
     "aciklama": "ve ivmesini dahili geri besleme sensörü ile hassas denetleyen motor.",
     "yasakli_kelimeler": [
@@ -42,7 +14,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 4,
+    "id": 2,
     "kategori": "robotik",
     "kelime": "step motor",
     "aciklama": "çok sayıda eşit açısal adıma bölerek dönen fırçasız motor tipi.",
@@ -56,245 +28,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 5,
-    "kategori": "robotik",
-    "kelime": "fırçasız motor",
-    "aciklama": "yüksek verimli ve uzun ömürlü elektrik motoru.",
-    "yasakli_kelimeler": [
-      "doğru akım",
-      "bobin",
-      "sürücü",
-      "rotasyon",
-      "kıvılcım"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 6,
-    "kategori": "robotik",
-    "kelime": "açısal enkoder",
-    "aciklama": "tur sayısını ve hızını elektriksel sinyallere çeviren ölçüm sensörü.",
-    "yasakli_kelimeler": [
-      "dönüş",
-      "mil",
-      "pozisyon",
-      "ölçüm",
-      "kodlayıcı"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 7,
-    "kategori": "robotik",
-    "kelime": "serbestlik derecesi",
-    "aciklama": "sisteminin uzayda bağımsız olarak gerçekleştirebileceği ötelenme ve dönme hareketlerinin sayısı.",
-    "yasakli_kelimeler": [
-      "bağımsız",
-      "hareket",
-      "eklem",
-      "öteleme",
-      "dönme"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 8,
-    "kategori": "robotik",
-    "kelime": "kinematik",
-    "aciklama": "hız ve ivme ilişkilerini inceleyen mekanik dalı.",
-    "yasakli_kelimeler": [
-      "hareket",
-      "kuvvet",
-      "konum",
-      "hız",
-      "ivme"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 9,
-    "kategori": "robotik",
-    "kelime": "ileri kinematik",
-    "aciklama": "bilindiğinde robotun uç noktasının uzaydaki üç boyutlu konumunu hesaplama yöntemi.",
-    "yasakli_kelimeler": [
-      "açı",
-      "eklem",
-      "koordinat",
-      "uç nokta",
-      "konum"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 10,
-    "kategori": "robotik",
-    "kelime": "ters kinematik",
-    "aciklama": "ulaşması hedeflenen kartezyen koordinatı için gereken eklem açılarının matematiksel hesabı.",
-    "yasakli_kelimeler": [
-      "hedef",
-      "eklem",
-      "açı",
-      "çözüm",
-      "kartezyen"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 11,
-    "kategori": "robotik",
-    "kelime": "dinamik modelleme",
-    "aciklama": "eklemlere uygulanması gereken tork ve kuvvetleri hesaplayan fiziksel denklem seti.",
-    "yasakli_kelimeler": [
-      "kuvvet",
-      "tork",
-      "kütle",
-      "eylemsizlik",
-      "fizik"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 12,
-    "kategori": "robotik",
-    "kelime": "jakobiyen matrisi",
-    "aciklama": "ile uç noktasının kartezyen hızları arasındaki türevsel ilişkiyi tanımlayan matris.",
-    "yasakli_kelimeler": [
-      "matris",
-      "hız",
-      "türev",
-      "eklem",
-      "dönüşüm"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 13,
-    "kategori": "robotik",
-    "kelime": "kinematik tekillik",
-    "aciklama": "fazla serbestlik derecesini kaybederek kilitlenmesi veya sonsuz hız gerektirmesi durumu.",
-    "yasakli_kelimeler": [
-      "kilitlenme",
-      "kayıp",
-      "jakobiyen",
-      "determinant",
-      "yön"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 14,
-    "kategori": "robotik",
-    "kelime": "çalışma uzayı",
-    "aciklama": "uç elemanının fiziksel olarak uzanıp erişebildiği tüm geometrik noktaların kümesi.",
-    "yasakli_kelimeler": [
-      "erişim",
-      "kol",
-      "hacim",
-      "koordinat",
-      "noktalar"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 15,
-    "kategori": "robotik",
-    "kelime": "eyleyici",
-    "aciklama": "gelen elektrik veya basınç sinyalini fiziksel mekanik harekete dönüştüren mekanizma.",
-    "yasakli_kelimeler": [
-      "motor",
-      "hareket",
-      "mekanizma",
-      "dönüştürücü",
-      "fiziksel"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 16,
-    "kategori": "robotik",
-    "kelime": "harmonik sürücü",
-    "aciklama": "payı ve olağanüstü yüksek redüksiyon oranı sağlayan hassas dişli kutusu.",
-    "yasakli_kelimeler": [
-      "dişli",
-      "esnek",
-      "boşluksuz",
-      "redüksiyon",
-      "hassas"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 17,
-    "kategori": "robotik",
-    "kelime": "sikloidal dişli",
-    "aciklama": "yüklere dayanıklılık gerektiren endüstriyel robot eklemlerinde kullanılan dairesel dişli mekanizması.",
-    "yasakli_kelimeler": [
-      "tork",
-      "redüktör",
-      "şok",
-      "dişli kutusu",
-      "eklem"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 18,
-    "kategori": "robotik",
-    "kelime": "planet dişli",
-    "aciklama": "uydu dişlilerden oluşan kompakt ve yüksek torklu güç aktarım sistemi.",
-    "yasakli_kelimeler": [
-      "güneş",
-      "uydu",
-      "aktarım",
-      "dişli",
-      "kompakt"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 19,
-    "kategori": "robotik",
-    "kelime": "scara robot",
-    "aciklama": "eklem ve dikey eksende prizmatik eklemle çalışan, hızlı montaj robotu.",
-    "yasakli_kelimeler": [
-      "yatay",
-      "montaj",
-      "döner",
-      "hızlı",
-      "dikey"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 20,
-    "kategori": "robotik",
-    "kelime": "kartezyen robot",
-    "aciklama": "dik doğrusal kızaklar üzerinde hareket eden gantry tipi endüstriyel robot.",
-    "yasakli_kelimeler": [
-      "doğrusal",
-      "eksen",
-      "kızak",
-      "dik",
-      "gantry"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 21,
-    "kategori": "robotik",
-    "kelime": "delta robot",
-    "aciklama": "ve üretim bantlarında yüksek ivmeyle parça toplayıp yerleştiren paralel robot.",
-    "yasakli_kelimeler": [
-      "paralel",
-      "hızlı",
-      "tavan",
-      "toplama",
-      "üçgen"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 22,
+    "id": 3,
     "kategori": "robotik",
     "kelime": "insansı robot",
     "aciklama": "insan anatomisini ve hareket kabiliyetini taklit etmek üzere tasarlanmış robot.",
@@ -308,7 +42,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 23,
+    "id": 4,
     "kategori": "robotik",
     "kelime": "dört ayaklı robot",
     "aciklama": "anatomisinden esinlenerek engebeli arazilerde ve merdivenlerde dinamik dengeyle yürüyebilen robot.",
@@ -322,7 +56,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 24,
+    "id": 5,
     "kategori": "robotik",
     "kelime": "insansız hava aracı",
     "aciklama": "algoritmalar veya uzaktan kumandayla havada uçabilen çok rotorlu hava aracı.",
@@ -336,7 +70,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 25,
+    "id": 6,
     "kategori": "robotik",
     "kelime": "otonom mobil robot",
     "aciklama": "haritalama algoritmalarıyla fabrika ortamında dinamik engellerin etrafından dolaşabilen tekerlekli robot.",
@@ -350,49 +84,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 26,
-    "kategori": "robotik",
-    "kelime": "otomatik yönlendirmeli araç",
-    "aciklama": "optik çizgileri takip ederek yük taşıyan eski nesil taşıma aracı.",
-    "yasakli_kelimeler": [
-      "şerit",
-      "manyetik",
-      "çizgi",
-      "taşıma",
-      "yük"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 27,
-    "kategori": "robotik",
-    "kelime": "lidar sensörü",
-    "aciklama": "yansımasını ölçerek ortamın üç boyutlu nokta bulutunu çıkaran optik algılayıcı.",
-    "yasakli_kelimeler": [
-      "lazer",
-      "nokta bulutu",
-      "mesafe",
-      "haritalama",
-      "tarama"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 28,
-    "kategori": "robotik",
-    "kelime": "ultrasonik sensör",
-    "aciklama": "yayarak yankının geri dönüş süresinden önündeki engelin mesafesini hesaplayan algılayıcı.",
-    "yasakli_kelimeler": [
-      "ses dalgası",
-      "mesafe",
-      "yankı",
-      "frekans",
-      "sonar"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 29,
+    "id": 7,
     "kategori": "robotik",
     "kelime": "derinlik kamerası",
     "aciklama": "tekniğiyle sahnedeki her pikselin kameraya olan uzaklığını veren görüntüleme cihazı.",
@@ -406,49 +98,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 30,
-    "kategori": "robotik",
-    "kelime": "stereo görüş",
-    "aciklama": "iki kameranın görüntülerini karşılaştırarak derinlik ve mesafe bilgisi çıkarma yöntemi.",
-    "yasakli_kelimeler": [
-      "çift kamera",
-      "derinlik",
-      "nirengi",
-      "görüntü",
-      "perspektif"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 31,
-    "kategori": "robotik",
-    "kelime": "optik akış",
-    "aciklama": "modellerini analiz ederek robotun veya nesnelerin hızını tahmin etme yöntemi.",
-    "yasakli_kelimeler": [
-      "piksel",
-      "kare",
-      "hareket",
-      "hız",
-      "analiz"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 32,
-    "kategori": "robotik",
-    "kelime": "ataletsel ölçüm birimi",
-    "aciklama": "barındırarak robotun açısal hızını ve çizgisel ivmesini ölçen sensör modülü.",
-    "yasakli_kelimeler": [
-      "ivme",
-      "açısal hız",
-      "jiroskop",
-      "sensör",
-      "yönelim"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 33,
+    "id": 8,
     "kategori": "robotik",
     "kelime": "jiroskop",
     "aciklama": "uzaydaki yönelimini ve eksenleri etrafındaki açısal dönme hızını ölçen sensör.",
@@ -462,7 +112,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 34,
+    "id": 9,
     "kategori": "robotik",
     "kelime": "ivmeölçer",
     "aciklama": "yerçekimi ve doğrusal hızlanma kuvvetlerini üç eksende ölçen elektromekanik bileşen.",
@@ -476,455 +126,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 35,
-    "kategori": "robotik",
-    "kelime": "manyetometre",
-    "aciklama": "alanını algılayarak robotun pusula yönelimini ve sapma açısını hesaplayan algılayıcı.",
-    "yasakli_kelimeler": [
-      "manyetik alan",
-      "pusula",
-      "kuzey",
-      "yön",
-      "algılayıcı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 36,
-    "kategori": "robotik",
-    "kelime": "kuvvet tork sensörü",
-    "aciklama": "çekme ve dönme dirençlerini anlık ölçen sensör.",
-    "yasakli_kelimeler": [
-      "bilek",
-      "kuvvet",
-      "tork",
-      "montaj",
-      "basınç"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 37,
-    "kategori": "robotik",
-    "kelime": "dokunsal sensör",
-    "aciklama": "sıcaklığını ve baskı basıncını algılayan yapı.",
-    "yasakli_kelimeler": [
-      "dokunma",
-      "parmak",
-      "basınç",
-      "temas",
-      "deri"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 38,
-    "kategori": "robotik",
-    "kelime": "eşzamanlı haritalama",
-    "aciklama": "hem kendi konumunu belirlemesi hem de çevrenin haritasını çıkarması işlemi.",
-    "yasakli_kelimeler": [
-      "konum belirleme",
-      "otonom navigasyon",
-      "lazer tarayıcı",
-      "bilinmeyen ortam",
-      "sensör füzyonu"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 39,
-    "kategori": "robotik",
-    "kelime": "kameralı konumlandırma",
-    "aciklama": "görsel öznitelikleri kullanarak ortamda yerini bulması ve yönünü tayin etmesi.",
-    "yasakli_kelimeler": [
-      "görsel algı",
-      "görüntü işleme",
-      "özellik noktası",
-      "kamera sensörü",
-      "optik takip"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 40,
-    "kategori": "robotik",
-    "kelime": "odometri",
-    "aciklama": "toplayarak robotun başlangıç noktasına göre anlık konum tahminini yapma tekniği.",
-    "yasakli_kelimeler": [
-      "konum",
-      "tahmin",
-      "başlangıç",
-      "birikimli",
-      "hareket"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 41,
-    "kategori": "robotik",
-    "kelime": "tekerlek odometrisi",
-    "aciklama": "sayısı ve yön bilgilerini hesaplayarak robotun katettiği mesafeyi bulma yöntemi.",
-    "yasakli_kelimeler": [
-      "tekerlek",
-      "dönüş",
-      "enkoder",
-      "kayma",
-      "mesafe"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 42,
-    "kategori": "robotik",
-    "kelime": "kalman filtresi",
-    "aciklama": "modelini birleştirerek bilinmeyen durum değişkenlerini en iyi tahmin eden algoritma.",
-    "yasakli_kelimeler": [
-      "gürültü",
-      "tahmin",
-      "algoritma",
-      "durum",
-      "olasılık"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 43,
-    "kategori": "robotik",
-    "kelime": "genişletilmiş kalman filtresi",
-    "aciklama": "doğrusal olmayan robot kinematiği ve sensör sistemlerini doğrusallaştırarak çözen filtre.",
-    "yasakli_kelimeler": [
-      "doğrusal olmayan",
-      "taylor",
-      "filtre",
-      "tahmin",
-      "jakobiyen"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 44,
-    "kategori": "robotik",
-    "kelime": "parçacık filtresi",
-    "aciklama": "rastgele nokta veya parçacıkla modelleyerek küresel konumlandırma yapan olasılıksal yöntem.",
-    "yasakli_kelimeler": [
-      "parçacık",
-      "monte carlo",
-      "olasılık",
-      "rastgele",
-      "küresel"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 45,
-    "kategori": "robotik",
-    "kelime": "sensör füzyonu",
-    "aciklama": "verileri birleştirerek tek sensörden elde edilemeyecek kadar kesin bilgi üretme.",
-    "yasakli_kelimeler": [
-      "birleştirme",
-      "veri",
-      "doğruluk",
-      "çoklu",
-      "güvenilirlik"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 46,
-    "kategori": "robotik",
-    "kelime": "yol planlama",
-    "aciklama": "hedef noktaya engellere çarpmadan gidebilmesi için geometrik rota bulma süreci.",
-    "yasakli_kelimeler": [
-      "rota",
-      "engel",
-      "hedef",
-      "çarpışma",
-      "geometri"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 47,
-    "kategori": "robotik",
-    "kelime": "yörünge üretimi",
-    "aciklama": "zaman kısıtlarını ekleyerek motorların adım adım uygulayacağı hareket profilini çıkarma.",
-    "yasakli_kelimeler": [
-      "zaman",
-      "hız",
-      "profil",
-      "ivme",
-      "eğri"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 48,
-    "kategori": "robotik",
-    "kelime": "a yıldız algoritması",
-    "aciklama": "mesafeyi sezgisel fonksiyonla hesaplayarak en kısa yolu bulan grafik algoritması.",
-    "yasakli_kelimeler": [
-      "sezgisel",
-      "en kısa yol",
-      "graf",
-      "maliyet",
-      "düğüm"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 49,
-    "kategori": "robotik",
-    "kelime": "rastgele ağaç algoritması",
-    "aciklama": "yüksek boyutlu engelli ortamlarda hızla çarpışmasız yol planlayan arama yöntemi.",
-    "yasakli_kelimeler": [
-      "yol planlama",
-      "engeller",
-      "dallanma",
-      "rota",
-      "örnekleme"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 50,
-    "kategori": "robotik",
-    "kelime": "potansiyel alan yöntemi",
-    "aciklama": "gücü uyguladığı varsayımına dayanan yapay zeka tabanlı yol planlama tekniği.",
-    "yasakli_kelimeler": [
-      "çekim gücü",
-      "itme",
-      "engel",
-      "fiziksel model",
-      "rota"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 51,
-    "kategori": "robotik",
-    "kelime": "oransal denetleyici",
-    "aciklama": "türev hesaplarıyla sıfırlayarak motor hızını veya pozisyonunu kontrol eden algoritma.",
-    "yasakli_kelimeler": [
-      "kapalı döngü",
-      "hata payı",
-      "türevsel hesap",
-      "geri besleme",
-      "motor kontrolü"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 52,
-    "kategori": "robotik",
-    "kelime": "model öngörülü kontrol",
-    "aciklama": "belirlenen zaman ufku boyunca optimize edilmiş kontrol sinyalleri üreten yöntem.",
-    "yasakli_kelimeler": [
-      "ufuk",
-      "optimizasyon",
-      "tahmin",
-      "gelecek",
-      "kısıt"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 53,
-    "kategori": "robotik",
-    "kelime": "geri besleme döngüsü",
-    "aciklama": "sensörle ölçülüp giriş komutuyla kıyaslanarak sapmaların sürekli düzeltildiği kontrol yapısı.",
-    "yasakli_kelimeler": [
-      "sensör",
-      "sapma",
-      "kapalı",
-      "düzeltme",
-      "çıkış"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 54,
-    "kategori": "robotik",
-    "kelime": "darbe genişlik modülasyonu",
-    "aciklama": "değiştirerek dc motorlara uygulanan ortalama gücü ve hızı ayarlama tekniği.",
-    "yasakli_kelimeler": [
-      "görev döngüsü",
-      "ortalama",
-      "hız kontrolü",
-      "darbe",
-      "anahtarlama"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 55,
-    "kategori": "robotik",
-    "kelime": "h köprüsü devresi",
-    "aciklama": "iki yönde de dönmesini ve fren yapmasını sağlayan güç devresi.",
-    "yasakli_kelimeler": [
-      "çift yön",
-      "motor sürücü",
-      "transistör",
-      "fren",
-      "kutup"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 56,
-    "kategori": "robotik",
-    "kelime": "robot işletim sistemi",
-    "aciklama": "sürücüler ve araçlar sunan açık kaynaklı ara katman yazılım kütüphanesi.",
-    "yasakli_kelimeler": [
-      "düğüm",
-      "mesaj",
-      "konu",
-      "açık kaynak",
-      "yazılım"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 57,
-    "kategori": "robotik",
-    "kelime": "urdf formatı",
-    "aciklama": "linklerini ve geometrik yapısını tanımlayan standart xml tabanlı dosya formatı.",
-    "yasakli_kelimeler": [
-      "robot modeli",
-      "eklem",
-      "link",
-      "xml",
-      "simülasyon"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 58,
-    "kategori": "robotik",
-    "kelime": "gazebo simülatörü",
-    "aciklama": "sürtünme ve sensör tepkilerini gerçeğe yakın simüle eden sanal ortam.",
-    "yasakli_kelimeler": [
-      "fizik motoru",
-      "simülasyon",
-      "sanal",
-      "sürtünme",
-      "yerçekimi"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 59,
-    "kategori": "robotik",
-    "kelime": "diferansiyel sürüş",
-    "aciklama": "tekerleğinin hız farkıyla yön değiştiren yaygın mobil robot tahrik sistemi.",
-    "yasakli_kelimeler": [
-      "iki tekerlek",
-      "hız farkı",
-      "dönüş",
-      "bağımsız",
-      "tahrik"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 60,
-    "kategori": "robotik",
-    "kelime": "ackermann geometrisi",
-    "aciklama": "tekerleğin dış tekerlekten daha dar açıyla dönmesini sağlayan mekanik düzenek.",
-    "yasakli_kelimeler": [
-      "direksiyon",
-      "viraj",
-      "otomobil",
-      "açı",
-      "tekerlek"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 61,
-    "kategori": "robotik",
-    "kelime": "mecanum tekerlek",
-    "aciklama": "makaralar sayesinde aracın her yöne dönmeden yana kaymasını sağlayan tekerlek.",
-    "yasakli_kelimeler": [
-      "makara",
-      "kırk beş derece",
-      "yana kayma",
-      "çok yönlü",
-      "tekerlek"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 62,
-    "kategori": "robotik",
-    "kelime": "omni tekerlek",
-    "aciklama": "tekerlekçikler barındıran ve her yöne sıfır dirençle hareket sağlayan tekerlek.",
-    "yasakli_kelimeler": [
-      "doksan derece",
-      "silindir",
-      "serbest",
-      "çok yönlü",
-      "yuvarlanma"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 63,
-    "kategori": "robotik",
-    "kelime": "paletli yürüyüş sistemi",
-    "aciklama": "ağırlığı geniş alana yayıp çamur ve karda ilerleyen yürüyüş takımı.",
-    "yasakli_kelimeler": [
-      "tank",
-      "bant",
-      "arazi",
-      "kauçuk",
-      "çekiş"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 64,
-    "kategori": "robotik",
-    "kelime": "ters sarkaç",
-    "aciklama": "kalmasını ve yürümesini matematiksel modellemek için kullanılan fiziksel denge sistemi.",
-    "yasakli_kelimeler": [
-      "denge",
-      "ağırlık merkezi",
-      "dik durma",
-      "salınım",
-      "yürüme"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 65,
-    "kategori": "robotik",
-    "kelime": "sıfır moment noktası",
-    "aciklama": "tepki kuvvetlerinin net yatay tork üretmediği dinamik denge temas noktası.",
-    "yasakli_kelimeler": [
-      "denge",
-      "tork",
-      "devrilme",
-      "yer tepkisi",
-      "yürüyüş"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 66,
-    "kategori": "robotik",
-    "kelime": "iki bacaklı yürüyüş",
-    "aciklama": "dinamik olarak ayaklarını sırayla kaldırıp dengeli adım atarak ilerleme mekaniği.",
-    "yasakli_kelimeler": [
-      "adım",
-      "bacak",
-      "insansı",
-      "denge",
-      "faz"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 67,
+    "id": 10,
     "kategori": "robotik",
     "kelime": "dış iskelet",
     "aciklama": "gücünü artıran veya felçli hastaların yürümesini sağlayan motorlu robotik giysi.",
@@ -938,273 +140,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 68,
-    "kategori": "robotik",
-    "kelime": "yumuşak robotik",
-    "aciklama": "gibi esnek malzemeler ve hava basıncıyla çalışan biyomimetik robot türü.",
-    "yasakli_kelimeler": [
-      "esnek",
-      "silikon",
-      "elastomer",
-      "pnömatik",
-      "canlı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 69,
-    "kategori": "robotik",
-    "kelime": "sürü robotiği",
-    "aciklama": "sayıda basit otonom robotun merkezi beyin olmadan kolektif iş başarması.",
-    "yasakli_kelimeler": [
-      "koloni",
-      "kolektif",
-      "merkezi olmayan",
-      "çoklu",
-      "iş birliği"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 70,
-    "kategori": "robotik",
-    "kelime": "haptik geri bildirim",
-    "aciklama": "robota dokunduğunda kuvvet ve titreşim hissini elinde hissetmesini sağlayan teknoloji.",
-    "yasakli_kelimeler": [
-      "dokunma",
-      "titreşim",
-      "kuvvet",
-      "his",
-      "dokunsal"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 71,
-    "kategori": "robotik",
-    "kelime": "teleoperasyon",
-    "aciklama": "kameralar ve kumanda kolları ile çok uzak mesafeden canlı yönetilmesi.",
-    "yasakli_kelimeler": [
-      "uzaktan",
-      "operatör",
-      "kontrol",
-      "kumanda",
-      "canlı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 72,
-    "kategori": "robotik",
-    "kelime": "işbirlikçi robot",
-    "aciklama": "dahili kuvvet sensörleriyle insan çalışanlarla yan yana güvenle çalışabilen robot.",
-    "yasakli_kelimeler": [
-      "insan",
-      "güvenlik",
-      "kafessiz",
-      "ortak",
-      "sensör"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 73,
-    "kategori": "robotik",
-    "kelime": "öğretme kumandası",
-    "aciklama": "adım adım hareket ettirerek koordinat noktalarını belleğe kaydettiği el kumandası.",
-    "yasakli_kelimeler": [
-      "el cihazı",
-      "programlama",
-      "kumanda",
-      "nokta",
-      "kayıt"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 74,
-    "kategori": "robotik",
-    "kelime": "robotik tutucu",
-    "aciklama": "parçaları iki veya üç çene ile sıkıştırıp kavrayan mekanik el.",
-    "yasakli_kelimeler": [
-      "çene",
-      "kavrama",
-      "tutma",
-      "parça",
-      "mekanik"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 75,
-    "kategori": "robotik",
-    "kelime": "vakumlu vantuz",
-    "aciklama": "veya kutu gibi düz yüzeyli malzemeleri emerek kaldıran tutucu tipi.",
-    "yasakli_kelimeler": [
-      "vakum",
-      "emiş",
-      "negatif basınç",
-      "cam",
-      "tutma"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 76,
-    "kategori": "robotik",
-    "kelime": "hidrolik eyleyici",
-    "aciklama": "gücünü kullanarak devasa yükleri kaldırabilen yüksek kuvvetli piston veya motor.",
-    "yasakli_kelimeler": [
-      "yağ",
-      "basınç",
-      "piston",
-      "akışkan",
-      "büyük kuvvet"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 77,
-    "kategori": "robotik",
-    "kelime": "pnömatik silindir",
-    "aciklama": "ve geri doğrusal hareket üreten hızlı ve temiz eyleyici eleman.",
-    "yasakli_kelimeler": [
-      "basınçlı hava",
-      "hava",
-      "piston",
-      "hızlı",
-      "doğrusal"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 78,
-    "kategori": "robotik",
-    "kelime": "oransal valf",
-    "aciklama": "basıncını uygulanan elektrik sinyalinin büyüklüğüne göre kademesiz olarak ayarlayan vana.",
-    "yasakli_kelimeler": [
-      "debi",
-      "vana",
-      "basınç",
-      "akışkan",
-      "kademesiz"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 79,
-    "kategori": "robotik",
-    "kelime": "yük hücresi",
-    "aciklama": "ağırlık nedeniyle gerinim pulunun direnç değişimini ölçen hassas ağırlık sensörü.",
-    "yasakli_kelimeler": [
-      "ağırlık",
-      "kuvvet",
-      "gerinim",
-      "ölçüm",
-      "tartı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 80,
-    "kategori": "robotik",
-    "kelime": "dişli boşluk payı",
-    "aciklama": "mekanik aralık nedeniyle motor yön değiştirdiğinde oluşan ölü açısal kayıp.",
-    "yasakli_kelimeler": [
-      "aralık",
-      "ölü nokta",
-      "kayıp",
-      "yön değiştirme",
-      "diş"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 81,
-    "kategori": "robotik",
-    "kelime": "tekrarlanabilirlik",
-    "aciklama": "aynı noktaya ne kadar küçük sapmayla dönebildiğini ifade eden ölçüt.",
-    "yasakli_kelimeler": [
-      "sapma",
-      "aynı nokta",
-      "hassasiyet",
-      "tutarlılık",
-      "hata"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 82,
-    "kategori": "robotik",
-    "kelime": "faydalı yük kapasitesi",
-    "aciklama": "ve çalışma hızını kaybetmeden uç elemanıyla güvenle taşıyabileceği azami ağırlık.",
-    "yasakli_kelimeler": [
-      "ağırlık",
-      "taşıma",
-      "azami",
-      "kapasite",
-      "kütle"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 83,
-    "kategori": "robotik",
-    "kelime": "denavit-hartenberg parametreleri",
-    "aciklama": "eklemleri arasındaki koordinat eksenlerini dört geometrik değerle standartlaştıran matematik modeli.",
-    "yasakli_kelimeler": [
-      "eksen",
-      "uzuv",
-      "çerçeve",
-      "dönüşüm",
-      "geometri"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 84,
-    "kategori": "robotik",
-    "kelime": "kuaterniyon",
-    "aciklama": "kilidi problemine yakalanmadan dört boyutlu hiperkarmaşık sayılarla temsil etme yöntemi.",
-    "yasakli_kelimeler": [
-      "dönme",
-      "yönelim",
-      "dört boyut",
-      "gimbal",
-      "vektör"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 85,
-    "kategori": "robotik",
-    "kelime": "konfigürasyon uzayı",
-    "aciklama": "oluşturduğu ve robotun geometrisinin tek matematiksel noktaya indirgendiği teorik uzay.",
-    "yasakli_kelimeler": [
-      "eklem açısı",
-      "nokta",
-      "engelli alan",
-      "uzay",
-      "boyut"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 86,
-    "kategori": "robotik",
-    "kelime": "engel aşma",
-    "aciklama": "rotası üzerindeki beklenmedik engelleri algılayıp emniyetli mesafeden çevrelerinden geçmesi eylemi.",
-    "yasakli_kelimeler": [
-      "çarpışma",
-      "emniyet",
-      "rota",
-      "saptırma",
-      "kaçınma"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 87,
+    "id": 11,
     "kategori": "robotik",
     "kelime": "çizgi izleyen robot",
     "aciklama": "kızılötesi kontrast sensörleriyle takip ederek otonom yönlenen basit tekerlekli robot.",
@@ -1218,189 +154,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 88,
-    "kategori": "robotik",
-    "kelime": "simülasyondan gerçeğe aktarım",
-    "aciklama": "öğrenmeyle sanal simülatörde eğitilen kontrol algoritmasının fiziksel robota başarıyla uyarlanması.",
-    "yasakli_kelimeler": [
-      "öğrenme",
-      "fiziksel",
-      "aktarım",
-      "uyarlama",
-      "gerçek"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 89,
-    "kategori": "robotik",
-    "kelime": "paralel manipülatör",
-    "aciklama": "kinematik zincirle kapalı devre bağlandığı sert ve hızlı robot mimarisi.",
-    "yasakli_kelimeler": [
-      "kapalı zincir",
-      "sertlik",
-      "bağımsız",
-      "uç nokta",
-      "taban"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 90,
-    "kategori": "robotik",
-    "kelime": "seri manipülatör",
-    "aciklama": "art arda tek açık zincir şeklinde bağlandığı geleneksel robot kolu.",
-    "yasakli_kelimeler": [
-      "açık zincir",
-      "art arda",
-      "geleneksel",
-      "sıralı",
-      "uzuv"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 91,
-    "kategori": "robotik",
-    "kelime": "doğrusal kızak",
-    "aciklama": "tek eksende düz hat boyunca kayma hareketi sağlayan mekanik parça.",
-    "yasakli_kelimeler": [
-      "ray",
-      "bilye",
-      "doğrusal",
-      "kayma",
-      "sürtünme"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 92,
-    "kategori": "robotik",
-    "kelime": "vidalı mil",
-    "aciklama": "ve yüksek hassasiyetle doğrusal itme hareketine dönüştüren helisel bilyeli mil.",
-    "yasakli_kelimeler": [
-      "bilyeli",
-      "doğrusal",
-      "helis",
-      "dönüşüm",
-      "somun"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 93,
-    "kategori": "robotik",
-    "kelime": "kayış kasnak",
-    "aciklama": "arasında esnek bant ile kayma olmadan ileten mekanik aktarma organı.",
-    "yasakli_kelimeler": [
-      "kayış",
-      "kasnak",
-      "tork",
-      "aktarma",
-      "mil"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 94,
-    "kategori": "robotik",
-    "kelime": "rotasyonel eklem",
-    "aciklama": "arasında tek eksen etrafında dairesel dönme serbestliği tanıyan mafsal bağlantısı.",
-    "yasakli_kelimeler": [
-      "dönme",
-      "mafsal",
-      "açısal",
-      "uzuv",
-      "eklem"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 95,
-    "kategori": "robotik",
-    "kelime": "prizmatik eklem",
-    "aciklama": "göre sadece doğrusal eksende kayarak uzayıp kısalmasını sağlayan teleskopik eklem.",
-    "yasakli_kelimeler": [
-      "doğrusal",
-      "kayma",
-      "uzama",
-      "eklem",
-      "öteleme"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 96,
-    "kategori": "robotik",
-    "kelime": "güvenli çalışma alanı",
-    "aciklama": "robotların insan operatör yaklaştığında yavaşladığı veya durduğu sensörle korunan bölge.",
-    "yasakli_kelimeler": [
-      "emniyet",
-      "ortak çalışma",
-      "bölge",
-      "lazer alan",
-      "insan operatör"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 97,
-    "kategori": "robotik",
-    "kelime": "kavrama kuvveti",
-    "aciklama": "nesneyi düşürmeden veya ezmeden güvenle tutabilmesi için uyguladığı sıkıştırma şiddeti.",
-    "yasakli_kelimeler": [
-      "sıkıştırma",
-      "parmak",
-      "tutucu",
-      "ezme",
-      "kuvvet"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 98,
-    "kategori": "robotik",
-    "kelime": "görüntü yönlendirmeli robot",
-    "aciklama": "verileri anlık işleyerek parçaları algılayan ve yönünü belirleyen robotik sistem.",
-    "yasakli_kelimeler": [
-      "kamera",
-      "görme",
-      "algılama",
-      "uç eleman",
-      "yönlendirme"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 99,
-    "kategori": "robotik",
-    "kelime": "biyomimetik",
-    "aciklama": "sistemlerini ve hareket stratejilerini taklit ederek yeni robotlar tasarlama disiplini.",
-    "yasakli_kelimeler": [
-      "doğa",
-      "canlı",
-      "taklit",
-      "biyoloji",
-      "esinlenme"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 100,
-    "kategori": "robotik",
-    "kelime": "otonom navigasyon",
-    "aciklama": "olmadan çevresini algılayarak harita üzerinde hedefine güvenli şekilde gitme kabiliyeti.",
-    "yasakli_kelimeler": [
-      "hedef",
-      "rotalama",
-      "otonom",
-      "harita",
-      "yön bulma"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 101,
+    "id": 12,
     "kategori": "robotik",
     "kelime": "endüstriyel robot",
     "aciklama": "paketleme gibi ağır ve tekrarlı işleri hatasız yapan programlanabilir manipülatör.",
@@ -1414,21 +168,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 102,
-    "kategori": "robotik",
-    "kelime": "mobil robot",
-    "aciklama": "paletleri veya bacaklarıyla kendi başına hareket edebilen robot.",
-    "yasakli_kelimeler": [
-      "hareketli robot",
-      "tekerlekli robot",
-      "gezici robot",
-      "sabit olmayan",
-      "navigasyon"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 103,
+    "id": 13,
     "kategori": "robotik",
     "kelime": "servis robotu",
     "aciklama": "servisi veya restoranlarda yemek sunumu gibi insanlara hizmet eden robot.",
@@ -1442,7 +182,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 104,
+    "id": 14,
     "kategori": "robotik",
     "kelime": "tarım robotu",
     "aciklama": "ot ayıklama ve ilaçlama işlemlerini kameralarıyla otonom yapan tarım makinesi.",
@@ -1456,7 +196,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 105,
+    "id": 15,
     "kategori": "robotik",
     "kelime": "cerrahi robot",
     "aciklama": "konsoldan yönettiği minik robotik kollarıyla milimetrik kesilerle ameliyat yapan sistem.",
@@ -1470,7 +210,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 106,
+    "id": 16,
     "kategori": "robotik",
     "kelime": "temizlik robotu",
     "aciklama": "kırıntıyı süpürüp lidar sensörüyle harita çıkaran yuvarlak akıllı robot süpürge.",
@@ -1484,7 +224,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 107,
+    "id": 17,
     "kategori": "robotik",
     "kelime": "sualtı robotu",
     "aciklama": "boru hatlarını denetleyen ve batıkları araştıran uzaktan kumandalı sualtı aracı.",
@@ -1498,7 +238,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 108,
+    "id": 18,
     "kategori": "robotik",
     "kelime": "uzay robotu",
     "aciklama": "toplayıp analiz eden merak ve azim benzeri gezgin kaşif robot.",
@@ -1512,21 +252,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 109,
-    "kategori": "robotik",
-    "kelime": "mikrorobot",
-    "aciklama": "ilaç taşıma veya dar kanalları denetleme potansiyeline sahip minik robot.",
-    "yasakli_kelimeler": [
-      "milimetrik robot",
-      "küçük robot",
-      "damar içi araç",
-      "minyatür robot",
-      "mikromekanizma"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 110,
+    "id": 19,
     "kategori": "robotik",
     "kelime": "nanorobot",
     "aciklama": "ölçekte tasarlanıp doğrudan kanserli hücreleri yok etmek için geliştirilen robot.",
@@ -1540,35 +266,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 111,
-    "kategori": "robotik",
-    "kelime": "yılan robot",
-    "aciklama": "dar boru hatlarında yılankavi dalgalanma hareketiyle ilerleyen çok eklemli robot.",
-    "yasakli_kelimeler": [
-      "yılan gibi kıvrılan",
-      "enkaz altı arama",
-      "boru içi denetim",
-      "modüler eklemler",
-      "yılankavi hareket"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 112,
-    "kategori": "robotik",
-    "kelime": "altı bacaklı",
-    "aciklama": "engebeli kayalık arazilerde üç bacak dengesiyle yürüyen heksapod robot.",
-    "yasakli_kelimeler": [
-      "heksapod",
-      "böcek robot",
-      "üçgen yürüyüş",
-      "engebeli arazi",
-      "altı ayak"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 113,
+    "id": 20,
     "kategori": "robotik",
     "kelime": "tekerlekli robot",
     "aciklama": "verimliliği ve hızla hareket eden diferansiyel veya omni sürüşlü robot.",
@@ -1582,21 +280,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 114,
-    "kategori": "robotik",
-    "kelime": "bacaklı robot",
-    "aciklama": "kaygan kayalarda adım atabilen insan veya hayvan benzeri eklemli robot.",
-    "yasakli_kelimeler": [
-      "ayaklı robot",
-      "merdiven tırmanan",
-      "boston dynamics",
-      "spot atlas",
-      "eklemli bacak"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 115,
+    "id": 21,
     "kategori": "robotik",
     "kelime": "insansız araç",
     "aciklama": "bulunmaksızın otonom veya uzaktan kontrolle görev yapan tüm robotik platformlar.",
@@ -1610,7 +294,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 116,
+    "id": 22,
     "kategori": "robotik",
     "kelime": "insansız denizaltı",
     "aciklama": "günlerce kalarak haritalama ve istihbarat yapan otonom sualtı deniz aracı.",
@@ -1624,7 +308,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 117,
+    "id": 23,
     "kategori": "robotik",
     "kelime": "bomba imha",
     "aciklama": "güvenli mesafeden tazyikli su veya kollarla etkisiz kılan paletli robot.",
@@ -1638,21 +322,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 118,
-    "kategori": "robotik",
-    "kelime": "insansız kara",
-    "aciklama": "veya yaralı taşıma görevlerini üstlenen zırhlı tekerlekli veya paletli robot.",
-    "yasakli_kelimeler": [
-      "ika",
-      "askeri kara robotu",
-      "zırhlı otonom araç",
-      "silahlı robot",
-      "keşif aracı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 119,
+    "id": 24,
     "kategori": "robotik",
     "kelime": "otonom drone",
     "aciklama": "ve kameralarıyla belirleyip engel görünce kaçınan çok pervaneli uçan robot.",
@@ -1666,21 +336,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 120,
-    "kategori": "robotik",
-    "kelime": "insansı gövde",
-    "aciklama": "eden iki kollu ve kameralı başlığa sahip üst robot iskeleti.",
-    "yasakli_kelimeler": [
-      "torso",
-      "robot gövdesi",
-      "insansı üst gövde",
-      "bel omuz eklemi",
-      "insan biçimli yapı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 121,
+    "id": 25,
     "kategori": "robotik",
     "kelime": "robot kolu",
     "aciklama": "dirsek ve bilek eklemlerine sahip endüstriyel manipülatör mekanizması.",
@@ -1694,7 +350,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 122,
+    "id": 26,
     "kategori": "robotik",
     "kelime": "robot bileği",
     "aciklama": "pitch ve roll hareketlerini yapan üç eksenli eklem.",
@@ -1708,7 +364,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 123,
+    "id": 27,
     "kategori": "robotik",
     "kelime": "robot eli",
     "aciklama": "için birden fazla parmağa ve dokunma sensörüne sahip son uç.",
@@ -1722,7 +378,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 124,
+    "id": 28,
     "kategori": "robotik",
     "kelime": "mekanik parmak",
     "aciklama": "telleri veya mikro motorlarla bükülerek nesneyi saran mafsallı kavrama elemanı.",
@@ -1736,91 +392,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 125,
-    "kategori": "robotik",
-    "kelime": "tutucu çene",
-    "aciklama": "ya da açılı açılıp kapanarak parçayı yakalayan iki tırnaklı uç.",
-    "yasakli_kelimeler": [
-      "gripper çenesi",
-      "paralel çene",
-      "parça yakalama",
-      "tırnak",
-      "sıkıştırma ucu"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 126,
-    "kategori": "robotik",
-    "kelime": "mafsal",
-    "aciklama": "birbirine bağlayarak aralarında dönme veya kayma hareketi sağlayan mekanik eklem.",
-    "yasakli_kelimeler": [
-      "eklem",
-      "bağlantı noktası",
-      "hareketli eklem",
-      "döner bağlantı",
-      "joint"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 127,
-    "kategori": "robotik",
-    "kelime": "döner mafsal",
-    "aciklama": "yaparak robot kolunun dirsek ve omuz gibi kıvrılmasını sağlayan mafsal.",
-    "yasakli_kelimeler": [
-      "revolute joint",
-      "açısal eklem",
-      "dönme ekseni",
-      "motorlu dönüş",
-      "menteşe eklem"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 128,
-    "kategori": "robotik",
-    "kelime": "kayar mafsal",
-    "aciklama": "boyunca ileri geri doğrusal öteleme hareketi yapmasını sağlayan teleskopik mafsal.",
-    "yasakli_kelimeler": [
-      "prizmatik eklem",
-      "doğrusal hareket",
-      "öteleme eklemi",
-      "kızaklı mafsal",
-      "lineer eklem"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 129,
-    "kategori": "robotik",
-    "kelime": "küresel mafsal",
-    "aciklama": "yuva içinde her yöne serbestçe dönebilen topbaş eklem.",
-    "yasakli_kelimeler": [
-      "topbaş eklem",
-      "üç serbestlik",
-      "omuz yuvası",
-      "bilyeli mafsal",
-      "her yöne dönme"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 130,
-    "kategori": "robotik",
-    "kelime": "redüktör",
-    "aciklama": "kolunu kaldırmak için gereken torku yüzlerce kat artıran dişli kutusu.",
-    "yasakli_kelimeler": [
-      "hız düşürücü",
-      "tork artırıcı",
-      "dişli mekanizması",
-      "motor şanzımanı",
-      "güç aktarımı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 131,
+    "id": 29,
     "kategori": "robotik",
     "kelime": "dişli kutusu",
     "aciklama": "arada bulunduğu ve hareketin yönünü ile hızını ayarlayan mekanik mahfaza.",
@@ -1834,7 +406,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 132,
+    "id": 30,
     "kategori": "robotik",
     "kelime": "sonsuz vida",
     "aciklama": "kendi kendine kilitlenebilen ve yüksek tork üreten mekanizma.",
@@ -1848,77 +420,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 133,
-    "kategori": "robotik",
-    "kelime": "pinyon dişli",
-    "aciklama": "motorun dönme hareketini çizgi boyunca doğrusal harekete çeviren küçük dişli.",
-    "yasakli_kelimeler": [
-      "kremayer pinyon",
-      "küçük tahrik dişlisi",
-      "doğrusal dönüşüm",
-      "çark dişi",
-      "kremayer üstü"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 134,
-    "kategori": "robotik",
-    "kelime": "kremayer dişli",
-    "aciklama": "ve pinyon dişlinin dönerek üzerinde boylamasına ilerlediği uzun çelik ray.",
-    "yasakli_kelimeler": [
-      "dişli ray",
-      "düz dişli çubuk",
-      "doğrusal hat",
-      "pinyon eşi",
-      "kızak dişlisi"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 135,
-    "kategori": "robotik",
-    "kelime": "triger kayış",
-    "aciklama": "kasnakta hiç kayma yapmadan motor torkunu hassas pozisyonla aktaran kayış.",
-    "yasakli_kelimeler": [
-      "zamanlama kayışı",
-      "dişli kayış",
-      "kaymayan aktarım",
-      "kasnak kayışı",
-      "hassas iletim"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 136,
-    "kategori": "robotik",
-    "kelime": "doğrusal motor",
-    "aciklama": "kuvvetle doğrudan hat boyunca itme veya çekme kuvveti üreten motor.",
-    "yasakli_kelimeler": [
-      "lineer motor",
-      "doğrusal itki",
-      "maglev prensibi",
-      "kızak motoru",
-      "dönmeyen motor"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 137,
-    "kategori": "robotik",
-    "kelime": "fırçalı motor",
-    "aciklama": "ve komütatör ile ileten klasik ve ucuz doğru akım motoru.",
-    "yasakli_kelimeler": [
-      "kömürlü motor",
-      "komütatörlü",
-      "klasik dc motor",
-      "fırça sürtünmesi",
-      "basit motor"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 138,
+    "id": 31,
     "kategori": "robotik",
     "kelime": "dc motor",
     "aciklama": "dönme hareketine çeviren ve robot tekerleklerini süren temel elektrik motoru.",
@@ -1932,35 +434,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 139,
-    "kategori": "robotik",
-    "kelime": "enkoder diski",
-    "aciklama": "üzerinde optik çizgiler veya mıknatıslar olan ve pozisyonu saydıran disk.",
-    "yasakli_kelimeler": [
-      "çizgili disk",
-      "yarık disk",
-      "optik okuma diski",
-      "tur sayma diski",
-      "şaft diski"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 140,
-    "kategori": "robotik",
-    "kelime": "optik enkoder",
-    "aciklama": "sayarak motor milinin kaç derece döndüğünü dijital palslerle bildiren aygıt.",
-    "yasakli_kelimeler": [
-      "ışıklı enkoder",
-      "pals sayıcı",
-      "açısal konum sensörü",
-      "fotodiyot okuyucu",
-      "mil konumu"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 141,
+    "id": 32,
     "kategori": "robotik",
     "kelime": "yakınlık sensörü",
     "aciklama": "etmeden belirli mesafeye girdiğini manyetik veya kapasitif olarak sezen sensör.",
@@ -1974,7 +448,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 142,
+    "id": 33,
     "kategori": "robotik",
     "kelime": "kızılötesi sensör",
     "aciklama": "geri yansıyan ışığı ölçerek mesafe ve engel tespiti yapan alıcı.",
@@ -1988,7 +462,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 143,
+    "id": 34,
     "kategori": "robotik",
     "kelime": "sonar sensör",
     "aciklama": "ses dalgası gönderip yankısının dönüş süresinden engelin uzaklığını bulan alet.",
@@ -2002,7 +476,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 144,
+    "id": 35,
     "kategori": "robotik",
     "kelime": "mesafe sensörü",
     "aciklama": "ışık veya ses dalgalarıyla ölçen sensör ailesi.",
@@ -2016,7 +490,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 145,
+    "id": 36,
     "kategori": "robotik",
     "kelime": "çarpışma sensörü",
     "aciklama": "fiziksel olarak çarptığı anda devreyi keserek motorları anında durduran mikrosiviç.",
@@ -2030,49 +504,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 146,
-    "kategori": "robotik",
-    "kelime": "tampon sensörü",
-    "aciklama": "otonom araçların ön tamponuna basıldığında çarpmayı algılayan yaylı mekanik sensör.",
-    "yasakli_kelimeler": [
-      "ön tampon",
-      "yaylı siviç",
-      "süpürge tamponu",
-      "çarpmada geri kaçma",
-      "mekanik algılayıcı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 147,
-    "kategori": "robotik",
-    "kelime": "optik sensör",
-    "aciklama": "lazer yansımasını veya görüntüyü algılayıp elektrik sinyaline dönüştüren ışık sensörü.",
-    "yasakli_kelimeler": [
-      "ışık algılayıcı",
-      "fotodiyot fototransistör",
-      "lazer dedektörü",
-      "optik alıcı",
-      "ışık duyarlı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 148,
-    "kategori": "robotik",
-    "kelime": "enkoder",
-    "aciklama": "yönünü ve tur sayısını elektriksel palsler üreterek denetleyiciye bildiren cihaz.",
-    "yasakli_kelimeler": [
-      "tur sayıcı",
-      "açısal konum okuyucu",
-      "rotary enkoder",
-      "mil sensörü",
-      "pals üreteci"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 149,
+    "id": 37,
     "kategori": "robotik",
     "kelime": "renk sensörü",
     "aciklama": "filtreleriyle zeminin veya önündeki nesnenin rgb renk tonunu ayrıştıran sensör.",
@@ -2086,7 +518,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 150,
+    "id": 38,
     "kategori": "robotik",
     "kelime": "çizgi sensörü",
     "aciklama": "siyah çizgiyi kızılötesi yansıma farkıyla algılayıp robotu hatta tutan dizi.",
@@ -2100,35 +532,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 151,
-    "kategori": "robotik",
-    "kelime": "uçuş süresi",
-    "aciklama": "geri dönme süresini pikosaniyede ölçerek piksel piksel derinlik çıkaran teknoloji.",
-    "yasakli_kelimeler": [
-      "tof sensörü",
-      "time of flight",
-      "foton dönüş süresi",
-      "lazer mesafe ölçer",
-      "derinlik kamerası"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 152,
-    "kategori": "robotik",
-    "kelime": "stereo kamera",
-    "aciklama": "bulunan iki kamera görüntüsünü eşleştirerek 3 boyutlu derinlik gören sistem.",
-    "yasakli_kelimeler": [
-      "çift kamera",
-      "üç boyutlu görme",
-      "derinlik algısı",
-      "binoküler görüş",
-      "kameralı robot"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 153,
+    "id": 39,
     "kategori": "robotik",
     "kelime": "termal kamera",
     "aciklama": "nesnelerin yaydığı ısı radyasyonunu kızılötesi piksellerle renklendirip canlıları bulan cihaz.",
@@ -2142,21 +546,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 154,
-    "kategori": "robotik",
-    "kelime": "derinlik haritası",
-    "aciklama": "pikselin robota olan santimetre cinsinden mesafesini renk tonlarıyla kodlayan matris.",
-    "yasakli_kelimeler": [
-      "depth map",
-      "üç boyutlu nokta bulutu",
-      "piksel mesafesi",
-      "derinlik görüntüsü",
-      "rgbd"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 155,
+    "id": 40,
     "kategori": "robotik",
     "kelime": "lazer tarayıcı",
     "aciklama": "lazer ışınlarıyla odanın duvarlarını santim hassasiyetinde ölçen iki boyutlu lidar.",
@@ -2170,21 +560,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 156,
-    "kategori": "robotik",
-    "kelime": "tork sensörü",
-    "aciklama": "binen burulma momentini ölçerek robotun insanı incitmesini engelleyen gerinim ölçer.",
-    "yasakli_kelimeler": [
-      "moment ölçer",
-      "burulma sensörü",
-      "kuvvet sensörü",
-      "güvenli temas",
-      "cobot eklemi"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 157,
+    "id": 41,
     "kategori": "robotik",
     "kelime": "açı ölçer",
     "aciklama": "veya kollarının gövdeyle yaptığı açıyı yerçekimine göre ölçen dijital sensör.",
@@ -2198,21 +574,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 158,
-    "kategori": "robotik",
-    "kelime": "eğim sensörü",
-    "aciklama": "önlemek için arazinin yokuş açısını bildiren cıvalı veya mems sensör.",
-    "yasakli_kelimeler": [
-      "tilt sensörü",
-      "devrilme uyarısı",
-      "yokuş açısı",
-      "dengede kalma",
-      "yerçekimi eğimi"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 159,
+    "id": 42,
     "kategori": "robotik",
     "kelime": "basınç sensörü",
     "aciklama": "veya tutucu parmaklarında temas yüzeyine uygulanan paskal basıncını ölçen algılayıcı.",
@@ -2226,147 +588,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 160,
-    "kategori": "robotik",
-    "kelime": "akım sensörü",
-    "aciklama": "robot kolunun yere takılıp zorlandığını veya aşırı yüklendiğini sezen devre.",
-    "yasakli_kelimeler": [
-      "motor akımı",
-      "amper ölçer",
-      "zorlanma algılama",
-      "aşırı akım koruma",
-      "hall etkisi sensörü"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 161,
-    "kategori": "robotik",
-    "kelime": "pid kontrol",
-    "aciklama": "türevsel hataları hesaplayarak motorları istenen hedef pozisyonda titreşimsiz tutan algoritma.",
-    "yasakli_kelimeler": [
-      "oransal integral türev",
-      "kapalı çevrim algoritması",
-      "hedef takibi",
-      "hata düzeltme",
-      "kontrol döngüsü"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 162,
-    "kategori": "robotik",
-    "kelime": "geri besleme",
-    "aciklama": "sensör verisinin girişteki hedefle karşılaştırılarak hatanın sürekli sıfıra indirilmesi prensibi.",
-    "yasakli_kelimeler": [
-      "feedback",
-      "hata sinyali",
-      "kapalı çevrim",
-      "çıkışın ölçülmesi",
-      "denetim ilkesi"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 163,
-    "kategori": "robotik",
-    "kelime": "açık çevrim",
-    "aciklama": "almadan motorlara sadece belirlenen sürede dönme komutu veren kör kontrol.",
-    "yasakli_kelimeler": [
-      "sensörsüz kontrol",
-      "geri bildirimsiz",
-      "kör döngü",
-      "kapalı çevrim zıddı",
-      "hata düzeltmesiz"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 164,
-    "kategori": "robotik",
-    "kelime": "kapalı çevrim",
-    "aciklama": "anlık durum bilgisine göre motor hızını düzelten geri beslemeli sistem.",
-    "yasakli_kelimeler": [
-      "geri beslemeli kontrol",
-      "sensörlü denetim",
-      "açık çevrim zıddı",
-      "hatayı düzelten",
-      "pid sistemi"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 165,
-    "kategori": "robotik",
-    "kelime": "oransal kazanç",
-    "aciklama": "mevcut hatanın büyüklüğüyle doğru orantılı olarak motora verilen tepki katsayısı.",
-    "yasakli_kelimeler": [
-      "kp katsayısı",
-      "oransal terim",
-      "hata büyüklüğü",
-      "pid parametresi",
-      "anlık hata tepkisi"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 166,
-    "kategori": "robotik",
-    "kelime": "integral kazanç",
-    "aciklama": "kalıcı hataların toplamını alarak robotun hedefe tam oturmasını sağlayan katsayı.",
-    "yasakli_kelimeler": [
-      "ki katsayısı",
-      "kalıcı durum hatası",
-      "hata toplamı",
-      "pid integrali",
-      "birikmiş hata"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 167,
-    "kategori": "robotik",
-    "kelime": "türevsel kazanç",
-    "aciklama": "hesaplayarak robot kolunun hedefi aşmasını ve sarsılmasını önleyen frenleyici terim.",
-    "yasakli_kelimeler": [
-      "kd katsayısı",
-      "aşımı önleme",
-      "frenleme katsayısı",
-      "hata türevi",
-      "salınım sönümleme"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 168,
-    "kategori": "robotik",
-    "kelime": "hata sinyali",
-    "aciklama": "konum ile sensörlerin ölçtüğü gerçek anlık konum arasındaki fark değeri.",
-    "yasakli_kelimeler": [
-      "fark değeri",
-      "hedef eksi gerçek",
-      "kontrol girdisi",
-      "sapma miktarı",
-      "düzeltilecek hata"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 169,
-    "kategori": "robotik",
-    "kelime": "durum uzayı",
-    "aciklama": "gibi tüm dinamik fiziksel değişkenlerini tek matris denkleminde modelleme yöntemi.",
-    "yasakli_kelimeler": [
-      "state space",
-      "durum değişkenleri",
-      "matris modeli",
-      "modern kontrol",
-      "dinamik denklem"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 170,
+    "id": 43,
     "kategori": "robotik",
     "kelime": "mikrodenetleyici",
     "aciklama": "sensörleri okuyup motorlara pwm sinyalleri üreten tek çipli programlanabilir bilgisayar.",
@@ -2380,21 +602,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 171,
-    "kategori": "robotik",
-    "kelime": "motor sürücü",
-    "aciklama": "sinyallerini yüksek voltaj ve ampere çevirerek motorları süren güç kartı.",
-    "yasakli_kelimeler": [
-      "h köprüsü kartı",
-      "motor kartı",
-      "l298n",
-      "güç yükseltici",
-      "motor besleme"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 172,
+    "id": 44,
     "kategori": "robotik",
     "kelime": "gömülü sistem",
     "aciklama": "getirmek için donanım ve yazılımın tek elektronik kartta birleştiği mimari.",
@@ -2408,7 +616,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 173,
+    "id": 45,
     "kategori": "robotik",
     "kelime": "yol takibi",
     "aciklama": "planlanmış geometrik yol çizgisi üzerinden sapmadan tekerleklerine yön vermesi işlemi.",
@@ -2422,21 +630,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 174,
-    "kategori": "robotik",
-    "kelime": "yörünge takibi",
-    "aciklama": "her noktada hangi saniyede hangi hız ve ivmeyle olacağını denetlemesi.",
-    "yasakli_kelimeler": [
-      "zaman parametreli yol",
-      "trajectory tracking",
-      "hız profili takibi",
-      "zamanlı rota",
-      "ivme kontrolü"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 175,
+    "id": 46,
     "kategori": "robotik",
     "kelime": "engel tespiti",
     "aciklama": "veya lidar sensörüyle güzergah üzerindeki yabancı nesneleri görüp haritada işaretlemesi.",
@@ -2450,49 +644,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 176,
-    "kategori": "robotik",
-    "kelime": "ızgara harita",
-    "aciklama": "boş veya bilinmeyen olarak tutulduğu harita tipi.",
-    "yasakli_kelimeler": [
-      "grid map",
-      "kare hücreli harita",
-      "doluluk ızgarası",
-      "piksel harita",
-      "hücresel harita"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 177,
-    "kategori": "robotik",
-    "kelime": "maliyet haritası",
-    "aciklama": "ekleyerek robotun duvara çok yakın geçmesini önleyen riskli bölge haritası.",
-    "yasakli_kelimeler": [
-      "costmap",
-      "risk haritası",
-      "güvenlik bölgesi",
-      "şişirilmiş engeller",
-      "navigasyon katmanı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 178,
-    "kategori": "robotik",
-    "kelime": "duruş tahmini",
-    "aciklama": "y ve açı olarak hesaplama.",
-    "yasakli_kelimeler": [
-      "pose estimation",
-      "konum ve yönelim",
-      "neredeyim hesabı",
-      "x y theta",
-      "robot koordinatı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 179,
+    "id": 47,
     "kategori": "robotik",
     "kelime": "yapay zeka",
     "aciklama": "kararlar almasını ve tecrübeyle öğrenmesini sağlayan yazılım.",
@@ -2506,7 +658,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 180,
+    "id": 48,
     "kategori": "robotik",
     "kelime": "makine öğrenimi",
     "aciklama": "deneme yaparak nesneleri düşürmeden tutmayı veya yürümeyi pekiştirmeli olarak öğrenmesi.",
@@ -2520,7 +672,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 181,
+    "id": 49,
     "kategori": "robotik",
     "kelime": "acil durdurma",
     "aciklama": "basarak robota giden tüm enerjiyi kesip donduran kırmızı mantar buton.",
@@ -2534,203 +686,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 182,
-    "kategori": "robotik",
-    "kelime": "güvenlik perdesi",
-    "aciklama": "vücudu girdiğinde görünmez kızılötesi ışın demeti kesilerek robotu durduran bariyer.",
-    "yasakli_kelimeler": [
-      "ışık perdesi",
-      "optik bariyer",
-      "lazer emniyet",
-      "hücre güvenliği",
-      "ışın bariyeri"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 183,
-    "kategori": "robotik",
-    "kelime": "çarpışma algılama",
-    "aciklama": "hafifçe çarptığında akım veya tork artışını sezip milisaniyede geri çekilmesi.",
-    "yasakli_kelimeler": [
-      "çarpma güvenliği",
-      "temas duruşu",
-      "insan koruma",
-      "cobot emniyeti",
-      "darbe algılama"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 184,
-    "kategori": "robotik",
-    "kelime": "tork sınırlama",
-    "aciklama": "robot motorlarının üretebileceği maksimum döndürme kuvvetinin güvenlik normlarına göre kısıtlanması.",
-    "yasakli_kelimeler": [
-      "kuvvet limiti",
-      "motor sınırlaması",
-      "güvenli tork",
-      "ezilmeyi önleme",
-      "güç kısıtlaması"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 185,
-    "kategori": "robotik",
-    "kelime": "hız sınırlama",
-    "aciklama": "çalışan robotların olası kazada yaralamayı önlemek için yavaşlatılmış çalışma modu.",
-    "yasakli_kelimeler": [
-      "yavaş çalışma",
-      "güvenli hız",
-      "hız kısıtı",
-      "tehlike önleme",
-      "ortak çalışma hızı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 186,
-    "kategori": "robotik",
-    "kelime": "robot hücresi",
-    "aciklama": "tel çit ve emniyet kilitli kapılarla çevrili kapalı güvenlik kafesi.",
-    "yasakli_kelimeler": [
-      "güvenlik kafesi",
-      "çitli alan",
-      "robot kabini",
-      "çalışma alanı kafesi",
-      "emniyet hücresi"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 187,
-    "kategori": "robotik",
-    "kelime": "çevrim süresi",
-    "aciklama": "yerine bırakarak sonraki parçaya hazır hale geldiği toplam imalat süresi.",
-    "yasakli_kelimeler": [
-      "cycle time",
-      "iş süresi",
-      "bir parça süresi",
-      "üretim periyodu",
-      "döngü zamanı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 188,
-    "kategori": "robotik",
-    "kelime": "konum doğruluğu",
-    "aciklama": "gönderildiği hedef koordinata ne kadar milimetre veya mikron yaklaşabildiği hassasiyeti.",
-    "yasakli_kelimeler": [
-      "hassasiyet",
-      "pozisyon doğruluğu",
-      "mikron sapma",
-      "hedefe ulaşma",
-      "tekrarlanabilirlik ortağı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 189,
-    "kategori": "robotik",
-    "kelime": "yükleme boşaltma",
-    "aciklama": "ham parçayı koyup işlenmiş bitmiş parçayı tezgaha zarar vermeden alması.",
-    "yasakli_kelimeler": [
-      "makine besleme",
-      "parça takma çıkarma",
-      "tending",
-      "cnc besleme",
-      "parça taşıma"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 190,
-    "kategori": "robotik",
-    "kelime": "punta kaynağı",
-    "aciklama": "robot kolunun iki sac levhayı bakır elektrotlarla sıkıştırıp elektrikle kaynatması.",
-    "yasakli_kelimeler": [
-      "nokta kaynağı",
-      "araba şasisi kaynağı",
-      "spot weld",
-      "elektrotlu kaynak",
-      "otomotiv robotu"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 191,
-    "kategori": "robotik",
-    "kelime": "ark kaynağı",
-    "aciklama": "gaz altı veya lazer kullanarak dikiş boyunca pürüzsüz kaynak yapılması.",
-    "yasakli_kelimeler": [
-      "dikiş kaynağı",
-      "gazaltı kaynağı",
-      "kaynak torcu",
-      "metal birleştirme",
-      "sürekli kaynak"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 192,
-    "kategori": "robotik",
-    "kelime": "sprey boyama",
-    "aciklama": "gövdelerinin boya kabininde robotik kolların püskürtme tabancalarıyla mikron seviyesinde boyanması.",
-    "yasakli_kelimeler": [
-      "boya robotu",
-      "püskürtme boya",
-      "araba boyama",
-      "vernik atma",
-      "boya tabancası ucu"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 193,
-    "kategori": "robotik",
-    "kelime": "paletleme robotu",
-    "aciklama": "veya çuvalı ahşap palet üzerine belirli kilit deseniyle istifleyen robot.",
-    "yasakli_kelimeler": [
-      "istifleme robotu",
-      "koli dizme",
-      "palet dizilimi",
-      "ambalaj hattı",
-      "ağır yük istifi"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 194,
-    "kategori": "robotik",
-    "kelime": "alma bırakma",
-    "aciklama": "hızla vakumla veya kıskaçla kapıp kutulara yerleştiren temel robot görevi.",
-    "yasakli_kelimeler": [
-      "pick and place",
-      "parça yakalama",
-      "kutuya koyma",
-      "hızlı aktarma",
-      "delta robot işi"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 195,
-    "kategori": "robotik",
-    "kelime": "konveyör takibi",
-    "aciklama": "hareket eden bant üzerindeki ürünün hızını eşitleyerek yürürken parçayı kavraması.",
-    "yasakli_kelimeler": [
-      "hareketli bant takibi",
-      "konveyör senkronizasyonu",
-      "yürürken alma",
-      "bant hızı",
-      "hızlı paketleme"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 196,
+    "id": 50,
     "kategori": "robotik",
     "kelime": "montaj robotu",
     "aciklama": "minik çipleri lehimleyen veya vidaları sıkan yüksek hassasiyetli robotik hücre.",
@@ -2744,62 +700,6 @@
     "zorluk": "kolay"
   },
   {
-    "id": 197,
-    "kategori": "robotik",
-    "kelime": "yapay kas",
-    "aciklama": "kas lifleri gibi büzüşüp uzayan esnek ve yumuşak polimer eyleyici.",
-    "yasakli_kelimeler": [
-      "pnömatik kas",
-      "büzülen lif",
-      "yumuşak eyleyici",
-      "biyomimetik kas",
-      "polimer kas"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 198,
-    "kategori": "robotik",
-    "kelime": "esnek tutucu",
-    "aciklama": "kırılgan nesneleri ezmeden kavramak için hava basıncıyla şişen silikon parmaklar.",
-    "yasakli_kelimeler": [
-      "soft gripper",
-      "silikon parmak",
-      "kırılgan nesne tutucu",
-      "yumuşak tutucu",
-      "ezmeden tutma"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 199,
-    "kategori": "robotik",
-    "kelime": "haptik eldiven",
-    "aciklama": "uzaktaki robotun dokunduğu yüzeyin sertliğini veya pürüzünü avucunda hissettiren donanım.",
-    "yasakli_kelimeler": [
-      "dokunsal eldiven",
-      "kuvvet geri bildirimi",
-      "sanal dokunma",
-      "teleoperasyon eldiveni",
-      "hisseden eldiven"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 200,
-    "kategori": "robotik",
-    "kelime": "televarlık",
-    "aciklama": "gövdesi ile kilometrelerce uzaktaki mekanda fiziksel olarak var gibi hissetmesi.",
-    "yasakli_kelimeler": [
-      "telepresence",
-      "uzaktan var olma",
-      "avatar robotu",
-      "uzaktan temsil",
-      "robotik dublör"
-    ],
-    "zorluk": "orta"
-  },
-  {
     "kategori": "robotik",
     "kelime": "programlamak",
     "aciklama": "robotun yapacağı hareketleri bilgisayardan kod yazarak belirlemek",
@@ -2811,7 +711,7 @@
       "komut"
     ],
     "zorluk": "kolay",
-    "id": 201
+    "id": 51
   },
   {
     "kategori": "robotik",
@@ -2825,7 +725,7 @@
       "adım"
     ],
     "zorluk": "kolay",
-    "id": 202
+    "id": 52
   },
   {
     "kategori": "robotik",
@@ -2839,7 +739,7 @@
       "göz"
     ],
     "zorluk": "kolay",
-    "id": 203
+    "id": 53
   },
   {
     "kategori": "robotik",
@@ -2853,7 +753,7 @@
       "birleştirme"
     ],
     "zorluk": "kolay",
-    "id": 204
+    "id": 54
   },
   {
     "kategori": "robotik",
@@ -2867,21 +767,7 @@
       "elektrik"
     ],
     "zorluk": "kolay",
-    "id": 205
-  },
-  {
-    "kategori": "robotik",
-    "kelime": "engel algılayıp kaçmak",
-    "aciklama": "robotun gövdesini veya eklemini sağa sola açısal çevirmesi",
-    "yasakli_kelimeler": [
-      "açı",
-      "sağ sol",
-      "çevirmek",
-      "eklem",
-      "rotasyon"
-    ],
-    "zorluk": "kolay",
-    "id": 206
+    "id": 55
   },
   {
     "kategori": "robotik",
@@ -2895,7 +781,7 @@
       "fren"
     ],
     "zorluk": "kolay",
-    "id": 207
+    "id": 56
   },
   {
     "kategori": "robotik",
@@ -2909,7 +795,7 @@
       "çevre"
     ],
     "zorluk": "kolay",
-    "id": 208
+    "id": 57
   },
   {
     "kategori": "robotik",
@@ -2923,7 +809,7 @@
       "agv"
     ],
     "zorluk": "kolay",
-    "id": 209
+    "id": 58
   },
   {
     "kategori": "robotik",
@@ -2937,7 +823,7 @@
       "kavrama"
     ],
     "zorluk": "kolay",
-    "id": 210
+    "id": 59
   },
   {
     "kategori": "robotik",
@@ -2951,91 +837,7 @@
       "keşif"
     ],
     "zorluk": "orta",
-    "id": 211
-  },
-  {
-    "kategori": "robotik",
-    "kelime": "ultrasonik mesafe okumak",
-    "aciklama": "yolda aniden çıkan bir nesneyi sensörle görüp etrafından dolaşmak",
-    "yasakli_kelimeler": [
-      "kaçınma",
-      "nesne",
-      "dolaşma",
-      "ultrasonik",
-      "rota"
-    ],
-    "zorluk": "orta",
-    "id": 212
-  },
-  {
-    "kategori": "robotik",
-    "kelime": "ters kinematik çözmek",
-    "aciklama": "robot elinin hedef koordinata ulaşması için eklem açılarının hesaplanması",
-    "yasakli_kelimeler": [
-      "inverse kinematics",
-      "eklem açısı",
-      "koordinat",
-      "matematik",
-      "açı"
-    ],
-    "zorluk": "orta",
-    "id": 213
-  },
-  {
-    "kategori": "robotik",
-    "kelime": "sürekli çizgi izlemek",
-    "aciklama": "robot kolunun sıfır noktasını ve sensör hassasiyetini ayarlamak",
-    "yasakli_kelimeler": [
-      "sıfırlama",
-      "hassasiyet",
-      "ayar",
-      "referans nokta",
-      "hata payı"
-    ],
-    "zorluk": "orta",
-    "id": 214
-  },
-  {
-    "kategori": "robotik",
-    "kelime": "servo sürmek",
-    "aciklama": "darbe genişlik modülasyonu ile servo motoru istenen dereceye konumlandırmak",
-    "yasakli_kelimeler": [
-      "pwm",
-      "servo",
-      "açısal konum",
-      "motor sürücü",
-      "darbe"
-    ],
-    "zorluk": "orta",
-    "id": 215
-  },
-  {
-    "kategori": "robotik",
-    "kelime": "lidar ile ölçmek",
-    "aciklama": "dönen lazer ışınlarının yansıma süresinden milimetrik mesafe bulmak",
-    "yasakli_kelimeler": [
-      "lazer tarayıcı",
-      "nokta bulutu",
-      "uçuş süresi",
-      "yansıma",
-      "milimetre"
-    ],
-    "zorluk": "orta",
-    "id": 216
-  },
-  {
-    "kategori": "robotik",
-    "kelime": "hat takip etmek",
-    "aciklama": "fabrika zeminindeki siyah veya manyetik çizgiyi optik sensörle izlemek",
-    "yasakli_kelimeler": [
-      "çizgi izleyen",
-      "optik sensör",
-      "zemin",
-      "manyetik bant",
-      "izleme"
-    ],
-    "zorluk": "orta",
-    "id": 217
+    "id": 60
   },
   {
     "kategori": "robotik",
@@ -3049,384 +851,6 @@
       "graf"
     ],
     "zorluk": "orta",
-    "id": 218
-  },
-  {
-    "kategori": "robotik",
-    "kelime": "tork kontrolü yapmak",
-    "aciklama": "robot eklemine binen dönme kuvvetini ölçüp hassas montaj sağlamak",
-    "yasakli_kelimeler": [
-      "dönme kuvveti",
-      "kuvvet sensörü",
-      "nm",
-      "eklem torku",
-      "aşırı yük"
-    ],
-    "zorluk": "orta",
-    "id": 219
-  },
-  {
-    "kategori": "robotik",
-    "kelime": "enkoder okumak",
-    "aciklama": "motor milindeki optik diskten tekerleğin kaç tur döndüğünü saymak",
-    "yasakli_kelimeler": [
-      "optik disk",
-      "darbe sayısı",
-      "mil",
-      "dönüş turu",
-      "odometri"
-    ],
-    "zorluk": "orta",
-    "id": 220
-  },
-  {
-    "kategori": "robotik",
-    "kelime": "pid ayarı çekmek",
-    "aciklama": "oransal, integral ve türev katsayılarıyla motorun hedefe aşma yapmadan durması",
-    "yasakli_kelimeler": [
-      "oransal integral türev",
-      "salınım",
-      "aşma",
-      "kontrol döngüsü",
-      "kazanç"
-    ],
-    "zorluk": "orta",
-    "id": 221
-  },
-  {
-    "kategori": "robotik",
-    "kelime": "eyleyiciye akım vermek",
-    "aciklama": "iki bacaklı robotun sıfır moment noktası dengesini koruyarak adım atması",
-    "yasakli_kelimeler": [
-      "bipedal",
-      "insansı",
-      "zmp",
-      "adım atma",
-      "denge"
-    ],
-    "zorluk": "orta",
-    "id": 222
-  },
-  {
-    "kategori": "robotik",
-    "kelime": "pnömatik piston şişirmek",
-    "aciklama": "basınçlı havayla vakumlu tutucuyu veya itici pistonu ileri fırlatmak",
-    "yasakli_kelimeler": [
-      "basınçlı hava",
-      "kompresör",
-      "valf",
-      "vakum vantuz",
-      "piston"
-    ],
-    "zorluk": "orta",
-    "id": 223
-  },
-  {
-    "kategori": "robotik",
-    "kelime": "can bus haberleşmek",
-    "aciklama": "motor sürücüler ve mikrodenetleyiciler arasında çift telli seri veri akışı",
-    "yasakli_kelimeler": [
-      "canbus",
-      "seri haberleşme",
-      "mikrodenetleyici",
-      "çift tel",
-      "paket"
-    ],
-    "zorluk": "orta",
-    "id": 224
-  },
-  {
-    "kategori": "robotik",
-    "kelime": "kinematik analiz yapmak",
-    "aciklama": "aracın ultrasonik sensörlerle park boşluğunu bulup direksiyonu kendi çevirmesi",
-    "yasakli_kelimeler": [
-      "kendi kendine park",
-      "boşluk algılama",
-      "geri manevra",
-      "ultrasonik",
-      "otonom"
-    ],
-    "zorluk": "orta",
-    "id": 225
-  },
-  {
-    "kategori": "robotik",
-    "kelime": "teleoperasyon yapmak",
-    "aciklama": "nükleer veya bomba imha robotunu uzaktan kumanda ve kamerayla yönetmek",
-    "yasakli_kelimeler": [
-      "uzaktan kumanda",
-      "bomba imha",
-      "joystick",
-      "kamera ekranı",
-      "manuel kontrol"
-    ],
-    "zorluk": "orta",
-    "id": 226
-  },
-  {
-    "kategori": "robotik",
-    "kelime": "dronu havada sabitlemek",
-    "aciklama": "motorun itiş gücünü gyro sensörüyle eşzamanlı dengeleyip havada asılı kalmak",
-    "yasakli_kelimeler": [
-      "hover",
-      "quadcopter",
-      "jiroskop",
-      "itiş gücü",
-      "havada asılı"
-    ],
-    "zorluk": "orta",
-    "id": 227
-  },
-  {
-    "kategori": "robotik",
-    "kelime": "mikrodenetleyici flaşlamak",
-    "aciklama": "yazılan c++ gömülü yazılım ikili kodunu stm32 veya arduino'ya yüklemek",
-    "yasakli_kelimeler": [
-      "stm32",
-      "arduino",
-      "gömülü yazılım",
-      "hex kodu",
-      "derleme"
-    ],
-    "zorluk": "orta",
-    "id": 228
-  },
-  {
-    "kategori": "robotik",
-    "kelime": "cobot ile çalışmak",
-    "aciklama": "kafesi olmadan insan işçiyle yan yana temas halinde güvenle çalışmak",
-    "yasakli_kelimeler": [
-      "kolaboratif",
-      "güvenlik kafessiz",
-      "insanla yan yana",
-      "kuvvet sınırlama",
-      "ortak çalışma"
-    ],
-    "zorluk": "orta",
-    "id": 229
-  },
-  {
-    "kategori": "robotik",
-    "kelime": "nokta bulutu işlemek",
-    "aciklama": "lidardan gelen milyonlarca 3d uzamsal koordinat noktasını filtreleyip yüzey örmek",
-    "yasakli_kelimeler": [
-      "point cloud",
-      "pcl",
-      "3d koordinat",
-      "filtreleme",
-      "yüzey oluşturma"
-    ],
-    "zorluk": "orta",
-    "id": 230
-  },
-  {
-    "kategori": "robotik",
-    "kelime": "titreşim sönümlemek",
-    "aciklama": "hızlı duruş kalkışlarda robot kolundaki salınımı esnek dinamik modelle sıfırlamak",
-    "yasakli_kelimeler": [
-      "salınım",
-      "sönümleme",
-      "elastikiyet",
-      "esneklik",
-      "hızlı hareket"
-    ],
-    "zorluk": "orta",
-    "id": 231
-  },
-  {
-    "kategori": "robotik",
-    "kelime": "simültane harita çıkarmak",
-    "aciklama": "robot kinematik zincirini 4 geometrik parametre ile standart matrise dökmek",
-    "yasakli_kelimeler": [
-      "denavit",
-      "hartenberg",
-      "eklem açısı",
-      "bağlantı mesafesi",
-      "homojen matris"
-    ],
-    "zorluk": "zor",
-    "id": 232
-  },
-  {
-    "kategori": "robotik",
-    "kelime": "jakobiyen matrisi türetmek",
-    "aciklama": "ile uç tutucu çizgisel ve açısal hızları arasındaki türev bağıntısı",
-    "yasakli_kelimeler": [
-      "hız matrisi",
-      "kısmi türev",
-      "tekillik",
-      "hız dönüşümü",
-      "uç nokta hızı"
-    ],
-    "zorluk": "zor",
-    "id": 233
-  },
-  {
-    "kategori": "robotik",
-    "kelime": "kinematik tekillikten kaçmak",
-    "aciklama": "kolunun eklemleri kilitlenip sonsuz hız veya serbestlik kaybı yaşamasını önlemek",
-    "yasakli_kelimeler": [
-      "singularity",
-      "jakobiyen determinantı sıfır",
-      "kilitlenme",
-      "sonsuz kuvvet",
-      "serbestlik kaybı"
-    ],
-    "zorluk": "zor",
-    "id": 234
-  },
-  {
-    "kategori": "robotik",
-    "kelime": "durum kestirimi yapmak",
-    "aciklama": "gürültülü sensör verilerinden robotun gerçek konum ve hızını olasılıkla hesaplamak",
-    "yasakli_kelimeler": [
-      "kalman filtresi",
-      "kovaryans",
-      "gürültü",
-      "kestirim",
-      "sensör füzyonu"
-    ],
-    "zorluk": "zor",
-    "id": 235
-  },
-  {
-    "kategori": "robotik",
-    "kelime": "ros düğümü başlatmak",
-    "aciklama": "işletim sisteminde yayıncı ve abone yapısında asenkron veri kanalları açmak",
-    "yasakli_kelimeler": [
-      "robot operating system",
-      "publisher subscriber",
-      "topic",
-      "ros2",
-      "middleware"
-    ],
-    "zorluk": "zor",
-    "id": 236
-  },
-  {
-    "kategori": "robotik",
-    "kelime": "yörünge optimize etmek",
-    "aciklama": "aracın kısıtlar altında maliyet fonksiyonunu minimize eden gelecekteki yolunu bulmak",
-    "yasakli_kelimeler": [
-      "mpc",
-      "yörünge planlama",
-      "maliyet fonksiyonu",
-      "kısıt",
-      "optimizasyon"
-    ],
-    "zorluk": "zor",
-    "id": 237
-  },
-  {
-    "kategori": "robotik",
-    "kelime": "sıfır moment hesabı",
-    "aciklama": "için taban zeminine binen toplam yatay torkun sıfır olduğu nokta",
-    "yasakli_kelimeler": [
-      "zmp",
-      "devrilmeme",
-      "ayak tabanı",
-      "dinamik denge",
-      "honda asimo"
-    ],
-    "zorluk": "zor",
-    "id": 238
-  },
-  {
-    "kategori": "robotik",
-    "kelime": "empedans kontrolü uygulamak",
-    "aciklama": "robotun dış dünyayla temasında yay-sönümleyici kurgusuyla yumuşak etkileşim sağlamak",
-    "yasakli_kelimeler": [
-      "kuvvet kontrolü",
-      "sanal yay sönüm",
-      "esneklik",
-      "yumuşak temas",
-      "mekanik empedans"
-    ],
-    "zorluk": "zor",
-    "id": 239
-  },
-  {
-    "kategori": "robotik",
-    "kelime": "pekiştirmeli sim-to-real transferi",
-    "aciklama": "eğitilen robot yapay zekasını domain randomization ile gerçek robota aktarmak",
-    "yasakli_kelimeler": [
-      "simülasyondan gerçeğe",
-      "reinforcement learning",
-      "isaac gym",
-      "domain randomization",
-      "politika transferi"
-    ],
-    "zorluk": "zor",
-    "id": 240
-  },
-  {
-    "kategori": "robotik",
-    "kelime": "görsel odometri yürütmek",
-    "aciklama": "kamera karelerindeki optik akış ve özellik noktası eşleşmelerinden konum çıkarmak",
-    "yasakli_kelimeler": [
-      "visual odometry",
-      "orb slam",
-      "özellik noktaları",
-      "kamera karesi",
-      "epipolar geometri"
-    ],
-    "zorluk": "zor",
-    "id": 241
-  },
-  {
-    "kategori": "robotik",
-    "kelime": "haptik geribildirim iletmek",
-    "aciklama": "cerrahın robot konsolunda dokunduğu dokunun sertliğini elindeki kumandaya kuvvetle hissettirmek",
-    "yasakli_kelimeler": [
-      "da vinci cerrahi",
-      "kuvvet hissi",
-      "dokunsal",
-      "dokunma duyusu",
-      "konsol"
-    ],
-    "zorluk": "zor",
-    "id": 242
-  },
-  {
-    "kategori": "robotik",
-    "kelime": "urdf dosyası ayrıştırmak",
-    "aciklama": "robotun eklem, bağlantı ve eylemsizlik kütle modellerini xml formatında tanımlamak",
-    "yasakli_kelimeler": [
-      "unified robot description",
-      "xml formatı",
-      "bağlantı kütlesi",
-      "görsel model",
-      "eklem tipi"
-    ],
-    "zorluk": "zor",
-    "id": 243
-  },
-  {
-    "kategori": "robotik",
-    "kelime": "sürü robotik yönetmek",
-    "aciklama": "robotun merkezi lidersiz basit kurallarla karınca gibi koloni hareketi yapması",
-    "yasakli_kelimeler": [
-      "sürü zekası",
-      "koloni",
-      "lidersiz",
-      "kolektif davranış",
-      "mikro robotlar"
-    ],
-    "zorluk": "zor",
-    "id": 244
-  },
-  {
-    "kategori": "robotik",
-    "kelime": "döngü kapatma yapmak",
-    "aciklama": "mekanı görsel olarak tanıyıp tüm harita birikimli kayma hatasını düzeltmek",
-    "yasakli_kelimeler": [
-      "loop closure",
-      "birikimli hata",
-      "harita düzeltme",
-      "görsel tanıma",
-      "optimizasyon"
-    ],
-    "zorluk": "zor",
-    "id": 245
+    "id": 61
   }
 ]

@@ -16,118 +16,6 @@
   {
     "id": 2,
     "kategori": "termodinamik",
-    "kelime": "entalpi",
-    "aciklama": "sistemin iç enerjisi ile basınç-hacim çarpımının toplamına eşit olan termodinamik.",
-    "yasakli_kelimeler": [
-      "ısı",
-      "iç enerji",
-      "basınç",
-      "hacim",
-      "reaksiyon"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 3,
-    "kategori": "termodinamik",
-    "kelime": "adivabatik süreç",
-    "aciklama": "sistem ile çevresi arasında hiçbir ısı alışverişi gerçekleşmeden oluşan termodinamik.",
-    "yasakli_kelimeler": [
-      "ısı",
-      "yalıtım",
-      "çevre",
-      "genleşme",
-      "sıkışma"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 4,
-    "kategori": "termodinamik",
-    "kelime": "izotermal süreç",
-    "aciklama": "termodinamik bir sistemin sıcaklığının süreç boyunca sabit kaldığı durum.",
-    "yasakli_kelimeler": [
-      "sıcaklık",
-      "sabit",
-      "basınç",
-      "hacim",
-      "boyle"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 5,
-    "kategori": "termodinamik",
-    "kelime": "izobarik süreç",
-    "aciklama": "sistem üzerindeki basıncın süreç boyunca sabit tutulduğu termodinamik dönüşüm.",
-    "yasakli_kelimeler": [
-      "basınç",
-      "sabit",
-      "charles",
-      "hacim",
-      "piston"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 6,
-    "kategori": "termodinamik",
-    "kelime": "izokorik süreç",
-    "aciklama": "sistemin hacminin süreç boyunca sabit kaldığı ve mekanik iş yapılmayan.",
-    "yasakli_kelimeler": [
-      "hacim",
-      "sabit",
-      "iş",
-      "kapalı kap",
-      "basınç"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 7,
-    "kategori": "termodinamik",
-    "kelime": "carnot çevrimi",
-    "aciklama": "iki farklı sıcaklık rezervuarı arasında çalışan en yüksek teorik verime.",
-    "yasakli_kelimeler": [
-      "çevrim",
-      "verim",
-      "tersinir",
-      "motor",
-      "rezervuar"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 8,
-    "kategori": "termodinamik",
-    "kelime": "gibbs serbest enerjisi",
-    "aciklama": "sabit sıcaklık ve basınçta bir sistemden elde edilebilecek maksimum tersinir.",
-    "yasakli_kelimeler": [
-      "spontan",
-      "entalpi",
-      "entropi",
-      "denge",
-      "reaksiyon"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 9,
-    "kategori": "termodinamik",
-    "kelime": "helmholtz serbest enerjisi",
-    "aciklama": "sabit sıcaklık ve hacimde kapalı bir termodinamik sistemden elde edilebilecek.",
-    "yasakli_kelimeler": [
-      "sabit hacim",
-      "iş",
-      "potansiyel",
-      "termodinamik",
-      "sıcaklık"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 10,
-    "kategori": "termodinamik",
     "kelime": "mutlak sıfır",
     "aciklama": "moleküler hareketin teorik olarak minimuma indiği sıfır kelvin sıcaklık noktası.",
     "yasakli_kelimeler": [
@@ -140,77 +28,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 11,
-    "kategori": "termodinamik",
-    "kelime": "ısı sığası",
-    "aciklama": "maddenin sıcaklığını bir birim artırmak için gereken ısı enerjisi miktarı.",
-    "yasakli_kelimeler": [
-      "özgül ısı",
-      "kalori",
-      "sıcaklık",
-      "enerji",
-      "joule"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 12,
-    "kategori": "termodinamik",
-    "kelime": "tersinir süreç",
-    "aciklama": "çevrede ve sistemde hiçbir net değişiklik bırakmadan başlangıç durumuna geri.",
-    "yasakli_kelimeler": [
-      "tersinmez",
-      "ideal",
-      "denge",
-      "kayıp",
-      "yol"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 13,
-    "kategori": "termodinamik",
-    "kelime": "tersinmez süreç",
-    "aciklama": "entropi artışı nedeniyle kendiliğinden oluşan ve sistem ile çevreyi başlangıç.",
-    "yasakli_kelimeler": [
-      "entropi",
-      "doğal",
-      "sürtünme",
-      "kayıp",
-      "kendiliğinden"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 14,
-    "kategori": "termodinamik",
-    "kelime": "joule-thomson etkisi",
-    "aciklama": "gazın yalıtılmış bir vanadan geçerek genleşmesi sırasında sıcaklığında oluşan değişim.",
-    "yasakli_kelimeler": [
-      "genleşme",
-      "gaz",
-      "soğuma",
-      "kısılma",
-      "basınç"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 15,
-    "kategori": "termodinamik",
-    "kelime": "iç enerji",
-    "aciklama": "bir sistemin mikroskobik ölçekteki tüm kinetik ve potansiyel enerjilerinin toplamı.",
-    "yasakli_kelimeler": [
-      "molekül",
-      "kinetik",
-      "potansiyel",
-      "birinci yasa",
-      "mikroskobik"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 16,
+    "id": 3,
     "kategori": "termodinamik",
     "kelime": "ideal gaz yasası",
     "aciklama": "basınç, hacim, sıcaklık ve madde miktarı arasındaki ilişkiyi pv=nrt denklemiyle.",
@@ -224,21 +42,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 17,
-    "kategori": "termodinamik",
-    "kelime": "van der waals",
-    "aciklama": "gerçek gazların moleküller arası çekim kuvvetlerini ve molekül hacimlerini hesaba.",
-    "yasakli_kelimeler": [
-      "gerçek gaz",
-      "molekül hacmi",
-      "çekim kuvveti",
-      "ideal sapma",
-      "denklem"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 18,
+    "id": 4,
     "kategori": "termodinamik",
     "kelime": "kritik nokta",
     "aciklama": "sıvı ve gaz fazları arasındaki yoğunluk farkının yok olduğu sıcaklık.",
@@ -252,7 +56,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 19,
+    "id": 5,
     "kategori": "termodinamik",
     "kelime": "üçlü nokta",
     "aciklama": "maddenin katı, sıvı ve gaz fazlarının termodinamik dengede bir arada.",
@@ -266,147 +70,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 20,
-    "kategori": "termodinamik",
-    "kelime": "faz diyagramı",
-    "aciklama": "farklı sıcaklık ve basınç koşullarında bir maddenin hangi fiziksel halde.",
-    "yasakli_kelimeler": [
-      "grafik",
-      "basınç",
-      "sıcaklık",
-      "durum",
-      "eğri"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 21,
-    "kategori": "termodinamik",
-    "kelime": "clausius-clapeyron denklemi",
-    "aciklama": "tek bileşenli bir sistemin faz geçişi sırasındaki buhar basıncı ile.",
-    "yasakli_kelimeler": [
-      "buharlaşma",
-      "faz geçişi",
-      "basınç",
-      "sıcaklık",
-      "entalpi"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 22,
-    "kategori": "termodinamik",
-    "kelime": "rankine çevrimi",
-    "aciklama": "buhar gücü santrallerinde ısı enerjisini mekanik işe dönüştürmek için kullanılan.",
-    "yasakli_kelimeler": [
-      "buhar",
-      "santral",
-      "türbin",
-      "kondenser",
-      "kazan"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 23,
-    "kategori": "termodinamik",
-    "kelime": "brayton çevrimi",
-    "aciklama": "gaz türbinleri ve jet motorlarının çalışma prensibini oluşturan açık veya.",
-    "yasakli_kelimeler": [
-      "türbin",
-      "kompresör",
-      "jet motoru",
-      "gaz",
-      "yanma"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 24,
-    "kategori": "termodinamik",
-    "kelime": "otto çevrimi",
-    "aciklama": "dört zamanlı bujili içten yanmalı motorların idealize edilmiş termodinamik çevrimi.",
-    "yasakli_kelimeler": [
-      "motor",
-      "buji",
-      "benzin",
-      "zaman",
-      "sıkıştırma"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 25,
-    "kategori": "termodinamik",
-    "kelime": "diesel çevrimi",
-    "aciklama": "yakıtın sıkıştırılmış yüksek sıcaklıktaki hava ile kendiliğinden tutuştuğu içten yanmalı.",
-    "yasakli_kelimeler": [
-      "motor",
-      "püskürtme",
-      "sıkıştırma",
-      "yakıt",
-      "yanma"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 26,
-    "kategori": "termodinamik",
-    "kelime": "stirling çevrimi",
-    "aciklama": "dıştan yanmalı, rejeneratör içeren ve iki izotermal iki izokorik süreçten.",
-    "yasakli_kelimeler": [
-      "dıştan yanmalı",
-      "rejeneratör",
-      "kapalı",
-      "verim",
-      "motor"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 27,
-    "kategori": "termodinamik",
-    "kelime": "ekserji",
-    "aciklama": "sistemin belirli bir çevre ortamıyla dengeye gelene kadar üretebileceği maksimum.",
-    "yasakli_kelimeler": [
-      "kullanılabilirlik",
-      "iş",
-      "çevre",
-      "kayıp",
-      "yıkım"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 28,
-    "kategori": "termodinamik",
-    "kelime": "anerji",
-    "aciklama": "enerjinin çevre koşullarında mekanik veya yararlı işe dönüştürülemeyen atık kısmı.",
-    "yasakli_kelimeler": [
-      "atık",
-      "iş",
-      "dönüşüm",
-      "kayıp",
-      "çevre"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 29,
-    "kategori": "termodinamik",
-    "kelime": "termodinamiğin sıfırıncı yasası",
-    "aciklama": "üçüncü bir sistemle termal dengede olan iki sistemin birbiriyle de.",
-    "yasakli_kelimeler": [
-      "termal denge",
-      "sıcaklık",
-      "termometre",
-      "yasa",
-      "ölçüm"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 30,
+    "id": 6,
     "kategori": "termodinamik",
     "kelime": "termodinamiğin birinci yasası",
     "aciklama": "enerjinin yoktan var edilemeyeceğini ve vardan yok edilemeyeceğini savunan enerjinin.",
@@ -420,7 +84,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 31,
+    "id": 7,
     "kategori": "termodinamik",
     "kelime": "termodinamiğin ikinci yasası",
     "aciklama": "izole bir sistemin toplam entropisinin kendiliğinden olan süreçlerde her zaman.",
@@ -434,77 +98,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 32,
-    "kategori": "termodinamik",
-    "kelime": "termodinamiğin üçüncü yasası",
-    "aciklama": "kusursuz bir kristalin mutlak sıfır sıcaklığında entropisinin sıfıra eşit olduğunu.",
-    "yasakli_kelimeler": [
-      "mutlak sıfır",
-      "kristal",
-      "entropi",
-      "nernst",
-      "kelvin"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 33,
-    "kategori": "termodinamik",
-    "kelime": "fugisite",
-    "aciklama": "gerçek bir gazın termodinamik hesaplamalarda ideal gaz gibi davranmasını sağlayan.",
-    "yasakli_kelimeler": [
-      "etkin basınç",
-      "gerçek gaz",
-      "katsayı",
-      "denge",
-      "kimyasal potansiyel"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 34,
-    "kategori": "termodinamik",
-    "kelime": "kimyasal potansiyel",
-    "aciklama": "sisteme sabit sıcaklık ve basınçta bir mol madde eklendiğinde serbest.",
-    "yasakli_kelimeler": [
-      "serbest enerji",
-      "mol",
-      "madde",
-      "faz dengesi",
-      "potansiyel"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 35,
-    "kategori": "termodinamik",
-    "kelime": "gibbs-duhem denklemi",
-    "aciklama": "termodinamik bir sistemdeki kimyasal potansiyeller, sıcaklık ve basınç değişimleri arasındaki.",
-    "yasakli_kelimeler": [
-      "kimyasal potansiyel",
-      "ilişki",
-      "bileşen",
-      "diferansiyel",
-      "bağıntı"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 36,
-    "kategori": "termodinamik",
-    "kelime": "maxwell ilişkileri",
-    "aciklama": "termodinamik potansiyellerin ikinci türevlerinin simetrisinden türetilen durum değişkenleri arası eşitlikler.",
-    "yasakli_kelimeler": [
-      "türev",
-      "potansiyel",
-      "eşitlik",
-      "simetri",
-      "değişken"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 37,
+    "id": 8,
     "kategori": "termodinamik",
     "kelime": "kapalı sistem",
     "aciklama": "çevresiyle enerji alışverişi yapabilen ancak kütle veya madde geçişine izin.",
@@ -518,7 +112,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 38,
+    "id": 9,
     "kategori": "termodinamik",
     "kelime": "açık sistem",
     "aciklama": "sınırları üzerinden çevresiyle hem kütle hem de enerji alışverişi yapabilen.",
@@ -532,7 +126,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 39,
+    "id": 10,
     "kategori": "termodinamik",
     "kelime": "izole sistem",
     "aciklama": "çevresiyle ne kütle ne de ısı veya iş şeklinde hiçbir.",
@@ -546,21 +140,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 40,
-    "kategori": "termodinamik",
-    "kelime": "süperkritik akışkan",
-    "aciklama": "kritik sıcaklık ve basıncının üzerinde gaz gibi yayılan ancak sıvı.",
-    "yasakli_kelimeler": [
-      "kritik",
-      "çözücü",
-      "faz",
-      "karbondioksit",
-      "yoğunluk"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 41,
+    "id": 11,
     "kategori": "termodinamik",
     "kelime": "gizli ısı",
     "aciklama": "maddenin sıcaklığı değişmeksizin sadece fiziksel hal değiştirmesi sırasında aldığı veya.",
@@ -574,21 +154,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 42,
-    "kategori": "termodinamik",
-    "kelime": "duyulur ısı",
-    "aciklama": "maddenin fazında değişiklik olmadan yalnızca sıcaklığında artış veya azalışa neden.",
-    "yasakli_kelimeler": [
-      "sıcaklık değişimi",
-      "termometre",
-      "özgül ısı",
-      "faz",
-      "ölçüm"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 43,
+    "id": 12,
     "kategori": "termodinamik",
     "kelime": "termal denge",
     "aciklama": "temasta olan iki veya daha fazla sistem arasında net ısı.",
@@ -602,63 +168,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 44,
-    "kategori": "termodinamik",
-    "kelime": "mekanik denge",
-    "aciklama": "sistemin tüm noktalarındaki basıncın eşit olduğu ve dengelenmemiş kuvvet bulunmadığı.",
-    "yasakli_kelimeler": [
-      "basınç",
-      "kuvvet",
-      "denge",
-      "hareket",
-      "gerilme"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 45,
-    "kategori": "termodinamik",
-    "kelime": "kimyasal denge",
-    "aciklama": "ileri ve geri reaksiyon hızlarının eşitlendiği ve bileşenlerin kimyasal potansiyellerinin.",
-    "yasakli_kelimeler": [
-      "reaksiyon",
-      "hız",
-      "bileşim",
-      "potansiyel",
-      "konsantrasyon"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 46,
-    "kategori": "termodinamik",
-    "kelime": "politropik süreç",
-    "aciklama": "basınç ve hacim arasındaki ilişkinin pv^n=sabit genel bağıntısıyla ifade edildiği.",
-    "yasakli_kelimeler": [
-      "üs",
-      "gaz",
-      "sıkışma",
-      "genleşme",
-      "bağıntı"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 47,
-    "kategori": "termodinamik",
-    "kelime": "kvazi-statik süreç",
-    "aciklama": "sistemin her an termodinamik dengeye sonsuz yakın kalacak şekilde son.",
-    "yasakli_kelimeler": [
-      "yavaş",
-      "denge",
-      "adım",
-      "sonsuz küçük",
-      "tersinir"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 48,
+    "id": 13,
     "kategori": "termodinamik",
     "kelime": "kalorimetre",
     "aciklama": "kimyasal veya fiziksel reaksiyonlar sırasında açığa çıkan ya da soğurulan.",
@@ -672,35 +182,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 49,
-    "kategori": "termodinamik",
-    "kelime": "buharlaşma entalpisi",
-    "aciklama": "belirli bir basınçta sıvı haldeki birim kütledeki maddenin gaz fazına.",
-    "yasakli_kelimeler": [
-      "sıvı",
-      "gaz",
-      "kaynama",
-      "buhar",
-      "ısı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 50,
-    "kategori": "termodinamik",
-    "kelime": "erime entalpisi",
-    "aciklama": "katı bir maddenin erime noktasında sıvı hale geçebilmesi için soğurması.",
-    "yasakli_kelimeler": [
-      "katı",
-      "sıvı",
-      "erime",
-      "donma",
-      "ısı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 51,
+    "id": 14,
     "kategori": "termodinamik",
     "kelime": "süblimleşme",
     "aciklama": "katı fazdaki bir maddenin sıvı hale uğramaksızın doğrudan gaz fazına.",
@@ -714,7 +196,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 52,
+    "id": 15,
     "kategori": "termodinamik",
     "kelime": "kırağılaşma",
     "aciklama": "gaz fazındaki bir maddenin ara faz olan sıvıya geçmeden doğrudan.",
@@ -728,63 +210,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 53,
-    "kategori": "termodinamik",
-    "kelime": "boltzmann sabiti",
-    "aciklama": "bireysel parçacıkların kinetik enerjisi ile mutlak sıcaklık arasındaki ilişkiyi kuran.",
-    "yasakli_kelimeler": [
-      "istatistiksel",
-      "sabit",
-      "entropi",
-      "kinetik",
-      "k"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 54,
-    "kategori": "termodinamik",
-    "kelime": "bölüşüm fonksiyonu",
-    "aciklama": "istatistiksel mekanikte bir sistemin tüm mikroskobik durumlarının olasılık toplamını ifade.",
-    "yasakli_kelimeler": [
-      "istatistik",
-      "durum",
-      "olasılık",
-      "mikroskopik",
-      "fonksiyon"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 55,
-    "kategori": "termodinamik",
-    "kelime": "mikro durum",
-    "aciklama": "termodinamik bir sistemi oluşturan tüm parçacıkların belirli bir andaki tam.",
-    "yasakli_kelimeler": [
-      "makro durum",
-      "parçacık",
-      "konum",
-      "momentum",
-      "olasılık"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 56,
-    "kategori": "termodinamik",
-    "kelime": "makro durum",
-    "aciklama": "sistemin basınç, hacim ve sıcaklık gibi gözlemlenebilir toplu özellikleriyle belirlenen.",
-    "yasakli_kelimeler": [
-      "gözlem",
-      "toplu",
-      "basınç",
-      "sıcaklık",
-      "mikro durum"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 57,
+    "id": 16,
     "kategori": "termodinamik",
     "kelime": "ısı pompası",
     "aciklama": "düşük sıcaklıktaki bir ortamdan ısıyı alıp mekanik iş ile yüksek.",
@@ -798,49 +224,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 58,
-    "kategori": "termodinamik",
-    "kelime": "soğutma çevrimi",
-    "aciklama": "kapalı bir çevrimde soğutucu akışkanın buharlaşıp yoğuşması ile kapalı bir.",
-    "yasakli_kelimeler": [
-      "akışkan",
-      "kondenser",
-      "evaporatör",
-      "buhar",
-      "kompresör"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 59,
-    "kategori": "termodinamik",
-    "kelime": "etkinlik katsayısı",
-    "aciklama": "ısı pompaları ve soğutucularda elde edilen faydalı ısının harcanan işe.",
-    "yasakli_kelimeler": [
-      "cop",
-      "performans",
-      "oran",
-      "iş",
-      "verim"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 60,
-    "kategori": "termodinamik",
-    "kelime": "ısı değiştirici",
-    "aciklama": "aralarında sıcaklık farkı bulunan iki veya daha fazla akışkan arasında.",
-    "yasakli_kelimeler": [
-      "transfer",
-      "akışkan",
-      "eşanjör",
-      "plaka",
-      "boru"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 61,
+    "id": 17,
     "kategori": "termodinamik",
     "kelime": "kondansatör",
     "aciklama": "buhar çevriminde türbinden çıkan egzoz buharını soğutarak tekrar sıvı suya.",
@@ -854,147 +238,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 62,
-    "kategori": "termodinamik",
-    "kelime": "evaporatör",
-    "aciklama": "soğutucu akışkanın düşük basınçta ortamdan ısı çekerek kaynayıp buharlaştığı ısı.",
-    "yasakli_kelimeler": [
-      "buharlaştırıcı",
-      "soğutma",
-      "akışkan",
-      "ısı alma",
-      "ünite"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 63,
-    "kategori": "termodinamik",
-    "kelime": "termodinamik verim",
-    "aciklama": "ısı motorunun ürettiği net mekanik işin sisteme verilen toplam ısı.",
-    "yasakli_kelimeler": [
-      "iş",
-      "ısı",
-      "motor",
-      "oran",
-      "kayıp"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 64,
-    "kategori": "termodinamik",
-    "kelime": "izentropik verim",
-    "aciklama": "türbin veya kompresör gibi gerçek adyabatik cihazların tersinir ideal duruma.",
-    "yasakli_kelimeler": [
-      "ideal",
-      "türbin",
-      "kompresör",
-      "gerçek",
-      "entropi"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 65,
-    "kategori": "termodinamik",
-    "kelime": "sıkıştırılabilirlik faktörü",
-    "aciklama": "gerçek bir gazın davranışının ideal gaz denkleminden sapma miktarını belirten.",
-    "yasakli_kelimeler": [
-      "z",
-      "sapma",
-      "ideal gaz",
-      "gerçek gaz",
-      "oran"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 66,
-    "kategori": "termodinamik",
-    "kelime": "indirgenmiş sıcaklık",
-    "aciklama": "maddenin mutlak sıcaklığının kendi kritik sıcaklığına bölünmesiyle elde edilen boyutsuz.",
-    "yasakli_kelimeler": [
-      "boyutsuz",
-      "kritik",
-      "oran",
-      "sıcaklık",
-      "karşılık durumlar"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 67,
-    "kategori": "termodinamik",
-    "kelime": "indirgenmiş basınç",
-    "aciklama": "bir akışkanın gerçek basıncının kritik basıncına oranı boyutsuz termodinamik büyüklük.",
-    "yasakli_kelimeler": [
-      "boyutsuz",
-      "kritik",
-      "basınç",
-      "oran",
-      "durum"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 68,
-    "kategori": "termodinamik",
-    "kelime": "uygun durumlar ilkesi",
-    "aciklama": "tüm akışkanların indirgenmiş basınç ve indirgenmiş sıcaklık değerleri eşit olduğunda.",
-    "yasakli_kelimeler": [
-      "indirgenmiş sıcaklık",
-      "indirgenmiş basınç",
-      "sıkıştırılabilirlik",
-      "kritik nokta",
-      "benzerlik"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 69,
-    "kategori": "termodinamik",
-    "kelime": "isıl iletkenlik",
-    "aciklama": "malzemenin moleküler çarpışmalar veya elektron transferi ile ısı enerjisini iletme.",
-    "yasakli_kelimeler": [
-      "iletim",
-      "fourier",
-      "transfer",
-      "malzeme",
-      "akı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 70,
-    "kategori": "termodinamik",
-    "kelime": "taşınım",
-    "aciklama": "ısı enerjisinin katı bir yüzey ile temas halindeki hareketli bir.",
-    "yasakli_kelimeler": [
-      "konveksiyon",
-      "akışkan",
-      "hareket",
-      "newton",
-      "ısı transferi"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 71,
-    "kategori": "termodinamik",
-    "kelime": "ışınım",
-    "aciklama": "maddenin elektromanyetik dalgalar yayarak hiçbir aracı ortama ihtiyaç duymadan gerçekleştirdiği.",
-    "yasakli_kelimeler": [
-      "radyasyon",
-      "dalga",
-      "stefan-boltzmann",
-      "foton",
-      "vakum"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 72,
+    "id": 18,
     "kategori": "termodinamik",
     "kelime": "kara cisim",
     "aciklama": "üzerine düşen tüm elektromanyetik ışınımı soğuran ve teorik olarak en.",
@@ -1008,399 +252,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 73,
-    "kategori": "termodinamik",
-    "kelime": "stefan-boltzmann yasası",
-    "aciklama": "kara cismin birim alandan yaydığı toplam termal ışıma gücünün mutlak.",
-    "yasakli_kelimeler": [
-      "dördüncü kuvvet",
-      "ışıma",
-      "güç",
-      "sıcaklık",
-      "sabiti"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 74,
-    "kategori": "termodinamik",
-    "kelime": "wien kayma yasası",
-    "aciklama": "kara cisim ışımasının spektral tepe dalga boyunun mutlak sıcaklık arttıkça.",
-    "yasakli_kelimeler": [
-      "dalga boyu",
-      "tepe",
-      "sıcaklık",
-      "kayma",
-      "spektrum"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 75,
-    "kategori": "termodinamik",
-    "kelime": "fourier ısı iletimi",
-    "aciklama": "katı madde içindeki ısı iletim hızının sıcaklık gradyanı ve temas.",
-    "yasakli_kelimeler": [
-      "iletim katsayısı",
-      "gradyan",
-      "katı iletim",
-      "sıcaklık farkı",
-      "akı"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 76,
-    "kategori": "termodinamik",
-    "kelime": "termodinamik potansiyel",
-    "aciklama": "sistemin enerji durumunu ve denge koşullarını matematiksel tanımlayan skaler durum.",
-    "yasakli_kelimeler": [
-      "serbest enerji",
-      "entalpi",
-      "fonksiyon",
-      "durum",
-      "denge"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 77,
-    "kategori": "termodinamik",
-    "kelime": "özgül hacim",
-    "aciklama": "maddenin birim kütlesinin kapladığı hacim miktarını belirten yoğunluğun çarpmaya göre.",
-    "yasakli_kelimeler": [
-      "yoğunluk",
-      "kütle",
-      "hacim",
-      "birim",
-      "tersi"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 78,
-    "kategori": "termodinamik",
-    "kelime": "özgül ısı oranı",
-    "aciklama": "gazın sabit basınçtaki ısı sığasının sabit hacimdeki ısı sığasına bölünmesiyle.",
-    "yasakli_kelimeler": [
-      "gamma",
-      "oran",
-      "adyabatik üs",
-      "kapasite",
-      "gaz"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 79,
-    "kategori": "termodinamik",
-    "kelime": "doyma sıcaklığı",
-    "aciklama": "saf bir maddenin belirli bir basınç altında kaynamaya veya faz.",
-    "yasakli_kelimeler": [
-      "kaynama",
-      "basınç",
-      "faz değişimi",
-      "doygunluk",
-      "sıvı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 80,
-    "kategori": "termodinamik",
-    "kelime": "doyma basıncı",
-    "aciklama": "saf bir maddenin belirli bir sıcaklıkta faz değiştirdiği ve buharıyla.",
-    "yasakli_kelimeler": [
-      "buhar",
-      "denge",
-      "kaynama",
-      "sıcaklık",
-      "sıvı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 81,
-    "kategori": "termodinamik",
-    "kelime": "aşırı kızgın buhar",
-    "aciklama": "belirli bir basınçtaki doyma sıcaklığının üzerinde ısıtılmış ve içinde hiç.",
-    "yasakli_kelimeler": [
-      "kızgın",
-      "doyma",
-      "türbin",
-      "sıcaklık",
-      "gaz"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 82,
-    "kategori": "termodinamik",
-    "kelime": "sıkıştırılmış sıvı",
-    "aciklama": "belirli bir sıcaklık için geçerli olan doyma basıncından daha yüksek.",
-    "yasakli_kelimeler": [
-      "alt soğutulmuş",
-      "basınç",
-      "doyma",
-      "sıvı",
-      "kaynamamış"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 83,
-    "kategori": "termodinamik",
-    "kelime": "kuruluk derecesi",
-    "aciklama": "doygun bir sıvı-buhar karışımındaki buhar kütlesinin karışımın toplam kütlesine olan.",
-    "yasakli_kelimeler": [
-      "buhar",
-      "karışım",
-      "oran",
-      "kütle",
-      "x"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 84,
-    "kategori": "termodinamik",
-    "kelime": "mollier diyagramı",
-    "aciklama": "buhar sistemlerinin analizinde kullanılan ve entalpiyi entropinin bir fonksiyonu olarak.",
-    "yasakli_kelimeler": [
-      "entalpi",
-      "entropi",
-      "grafik",
-      "buhar",
-      "türbin"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 85,
-    "kategori": "termodinamik",
-    "kelime": "sıcaklık entropi grafiği",
-    "aciklama": "termodinamik çevrimlerde sistemin ısı transferini ve kullanılabilir enerji miktarını sıcaklık.",
-    "yasakli_kelimeler": [
-      "ısı transferi",
-      "düzensizlik ölçüsü",
-      "çevrim eğrisi",
-      "tersinir iş",
-      "eksen analizi"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 86,
-    "kategori": "termodinamik",
-    "kelime": "basınç hacim grafiği",
-    "aciklama": "akışkanın basınç ve hacim değişimlerini izleyerek piston veya türbin tarafından.",
-    "yasakli_kelimeler": [
-      "mekanik iş alanı",
-      "gaz basıncı",
-      "piston hareketi",
-      "hacim değişimi",
-      "çevrim alanı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 87,
-    "kategori": "termodinamik",
-    "kelime": "isentropik süreç",
-    "aciklama": "sistem boyunca entropi değerinin sabit kaldığı sürtünmesiz ve adyabatik tersinir.",
-    "yasakli_kelimeler": [
-      "entropi",
-      "sabit",
-      "tersinir",
-      "adyabatik",
-      "sürtünmesiz"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 88,
-    "kategori": "termodinamik",
-    "kelime": "durum değişkeni",
-    "aciklama": "sistemin o andaki halini tanımlayan ve sürece gelinen geçmiş yoldan.",
-    "yasakli_kelimeler": [
-      "fonksiyon",
-      "bağımsız",
-      "yol",
-      "basınç",
-      "sıcaklık"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 89,
-    "kategori": "termodinamik",
-    "kelime": "yol fonksiyonu",
-    "aciklama": "değeri sistemin bir durumdan diğerine geçerken izlediği termodinamik rotaya doğrudan.",
-    "yasakli_kelimeler": [
-      "yol",
-      "ısı",
-      "iş",
-      "süreç",
-      "bağımlı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 90,
-    "kategori": "termodinamik",
-    "kelime": "kısmi basınç",
-    "aciklama": "gaz karışımındaki tek bir bileşenin tek başına tüm hacmi kaplaması.",
-    "yasakli_kelimeler": [
-      "dalton",
-      "karışım",
-      "gaz",
-      "bileşen",
-      "toplam"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 91,
-    "kategori": "termodinamik",
-    "kelime": "dalton yasası",
-    "aciklama": "gaz karışımının toplam basıncının, karışımı oluşturan gazların her birinin kısmi.",
-    "yasakli_kelimeler": [
-      "kısmi basınç",
-      "karışım gazı",
-      "toplam basınç",
-      "hacim",
-      "mol kesri"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 92,
-    "kategori": "termodinamik",
-    "kelime": "amagat hacimler yasası",
-    "aciklama": "gaz karışımının toplam hacminin aynı sıcaklık ve basınçta bileşen gazların.",
-    "yasakli_kelimeler": [
-      "hacim",
-      "kısmi",
-      "karışım",
-      "toplam",
-      "gaz"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 93,
-    "kategori": "termodinamik",
-    "kelime": "kütle korunumu ilkesi",
-    "aciklama": "termodinamik bir kontrol hacminde kütlenin yoktan var olamayacağını ve zamanla.",
-    "yasakli_kelimeler": [
-      "süreklilik",
-      "kontrol hacmi",
-      "akış",
-      "giriş",
-      "çıkış"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 94,
-    "kategori": "termodinamik",
-    "kelime": "lüle",
-    "aciklama": "akışkanın basıncını düşürerek hızını ve kinetik enerjisini artırmak amacıyla tasarlanmış.",
-    "yasakli_kelimeler": [
-      "hız",
-      "basınç",
-      "kesit",
-      "akışkan",
-      "nozul"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 95,
-    "kategori": "termodinamik",
-    "kelime": "difüzör",
-    "aciklama": "akışkanın kinetik enerjisini düşürerek basıncını yükseltmek amacıyla tasarlanmış kanal parçası.",
-    "yasakli_kelimeler": [
-      "basınç",
-      "yavaşlama",
-      "hız",
-      "kesit",
-      "akış"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 96,
-    "kategori": "termodinamik",
-    "kelime": "rejenerasyon",
-    "aciklama": "güç çevriminde türbinden çekilen kısmi buharla kazan besleme suyunun önceden.",
-    "yasakli_kelimeler": [
-      "besleme suyu",
-      "ön ısıtma",
-      "çevrim",
-      "verim",
-      "kazan"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 97,
-    "kategori": "termodinamik",
-    "kelime": "ara ısıtma",
-    "aciklama": "türbinin yüksek basınç kademesinden çıkan buharın kazana geri gönderilerek yeniden.",
-    "yasakli_kelimeler": [
-      "türbin",
-      "tekrar",
-      "nem",
-      "kazan",
-      "buhar"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 98,
-    "kategori": "termodinamik",
-    "kelime": "termoelektrik etki",
-    "aciklama": "sıcaklık farkının doğrudan elektrik gerilimine veya elektrik akımının sıcaklık farkına.",
-    "yasakli_kelimeler": [
-      "seebeck",
-      "peltier",
-      "gerilim",
-      "sıcaklık farkı",
-      "akım"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 99,
-    "kategori": "termodinamik",
-    "kelime": "peltier etkisi",
-    "aciklama": "iki farklı iletkenden akım geçtiğinde birleşme noktasında ısının soğurulması veya.",
-    "yasakli_kelimeler": [
-      "soğutma",
-      "akım",
-      "birleşme",
-      "termoelektrik",
-      "yarı iletken"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 100,
-    "kategori": "termodinamik",
-    "kelime": "seebeck etkisi",
-    "aciklama": "iki farklı iletkenin birleşim noktaları arasındaki sıcaklık farkının kapalı devrede.",
-    "yasakli_kelimeler": [
-      "sıcaklık farkı",
-      "gerilim",
-      "termokupl",
-      "voltaj",
-      "akım"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 101,
+    "id": 19,
     "kategori": "termodinamik",
     "kelime": "sıcaklık",
     "aciklama": "maddenin moleküllerinin ortalama kinetik enerjisinin bir ölçüsü olan temel termodinamik.",
@@ -1414,7 +266,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 102,
+    "id": 20,
     "kategori": "termodinamik",
     "kelime": "basınç",
     "aciklama": "akışkanın birim yüzeye dik olarak uyguladığı kuvvet miktarı olup birimi.",
@@ -1428,7 +280,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 103,
+    "id": 21,
     "kategori": "termodinamik",
     "kelime": "ısı",
     "aciklama": "sıcaklık farkı sebebiyle yüksek sıcaklıktaki sistemden düşük sıcaklıktaki sisteme kendiliğinden.",
@@ -1442,7 +294,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 104,
+    "id": 22,
     "kategori": "termodinamik",
     "kelime": "iş",
     "aciklama": "sistemin sınırları üzerinden sıcaklık farkı dışındaki kuvvetler ve yer değiştirme.",
@@ -1456,49 +308,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 105,
-    "kategori": "termodinamik",
-    "kelime": "mekanik iş",
-    "aciklama": "milin dönmesi veya pistonun yer değiştirmesi gibi fiziksel kuvvetlerin sisteme.",
-    "yasakli_kelimeler": [
-      "kuvvet yer değiştirme",
-      "mil işi",
-      "piston hareketi",
-      "fiziksel enerji",
-      "mekanik"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 106,
-    "kategori": "termodinamik",
-    "kelime": "sınır işi",
-    "aciklama": "pistonlu bir silindir içinde gazın genleşmesi veya sıkışması sırasında sistem.",
-    "yasakli_kelimeler": [
-      "p dv integrali",
-      "piston sınırı",
-      "genleşme sıkışma",
-      "kapalı sistem işi",
-      "hacim değişimi"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 107,
-    "kategori": "termodinamik",
-    "kelime": "akış işi",
-    "aciklama": "açık bir sisteme kütlenin girmesi veya sistemden çıkması için akışkan.",
-    "yasakli_kelimeler": [
-      "açık sistem",
-      "kütle girişi",
-      "p v çarpımı",
-      "akış enerjisi",
-      "kontrol hacmi"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 108,
+    "id": 23,
     "kategori": "termodinamik",
     "kelime": "termometre",
     "aciklama": "maddelerin sıcaklıkla genleşmesi veya elektriksel direnç değişimi prensibiyle sıcaklığı ölçen.",
@@ -1512,7 +322,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 109,
+    "id": 24,
     "kategori": "termodinamik",
     "kelime": "cıvalı termometre",
     "aciklama": "kılcal cam boru içindeki cıvanın sıcaklık arttıkça genleşip yükselmesiyle çalışan.",
@@ -1526,35 +336,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 110,
-    "kategori": "termodinamik",
-    "kelime": "gaz sabiti",
-    "aciklama": "ideal gaz denkleminde basınç, hacim, sıcaklık ve kütle arasındaki orantıyı.",
-    "yasakli_kelimeler": [
-      "r harfi",
-      "ideal gaz sabiti",
-      "p v m r t",
-      "joule bölü kg kelvin",
-      "oran"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 111,
-    "kategori": "termodinamik",
-    "kelime": "mol kütlesi",
-    "aciklama": "maddenin bir molünün gram cinsinden kütlesi olup evrensel gaz sabitini.",
-    "yasakli_kelimeler": [
-      "bir molün kütlesi",
-      "gram bölü mol",
-      "molekül ağırlığı",
-      "m harfi",
-      "avogadro kütlesi"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 112,
+    "id": 25,
     "kategori": "termodinamik",
     "kelime": "avogadro sayısı",
     "aciklama": "mol ideal gaz veya madde içinde bulunan altı virgül sıfır.",
@@ -1568,63 +350,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 113,
-    "kategori": "termodinamik",
-    "kelime": "kinetik teori",
-    "aciklama": "gazların makroskopik basınç ve sıcaklık özelliklerini mikroskobik molekül çarpışmaları ve.",
-    "yasakli_kelimeler": [
-      "gaz kuramı",
-      "molekül hareketi",
-      "çarpışmalar",
-      "istatistiksel fizik",
-      "mikroskobik model"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 114,
-    "kategori": "termodinamik",
-    "kelime": "parçacık hızı",
-    "aciklama": "gaz moleküllerinin sıcaklığa bağlı olarak rastgele yönlerde yaptığı kinetik öteleme.",
-    "yasakli_kelimeler": [
-      "molekül sürati",
-      "ortalama karekök hız",
-      "sıcaklıkla artan",
-      "kinetik enerji",
-      "öteleme"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 115,
-    "kategori": "termodinamik",
-    "kelime": "moleküler çarpışma",
-    "aciklama": "gaz moleküllerinin birbirine veya kap çeperine çarparak yön değiştirmesi ve.",
-    "yasakli_kelimeler": [
-      "kap çeperine çarpma",
-      "elastik çarpışma",
-      "momentum aktarımı",
-      "basınç kaynağı",
-      "tanecik teması"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 116,
-    "kategori": "termodinamik",
-    "kelime": "serbest yol",
-    "aciklama": "gaz molekülünün başka bir molekülle çarpışmadan önce katettiği ortalama geometrik.",
-    "yasakli_kelimeler": [
-      "çarpışmasız mesafe",
-      "ortalama serbest yol",
-      "lambda",
-      "yoğunlukla ters",
-      "tanecik aralığı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 117,
+    "id": 26,
     "kategori": "termodinamik",
     "kelime": "kaynama",
     "aciklama": "sıvının buhar basıncının dış ortam basıncına eşit olduğu anda sıvının.",
@@ -1638,7 +364,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 118,
+    "id": 27,
     "kategori": "termodinamik",
     "kelime": "buharlaşma",
     "aciklama": "sıvı yüzeyindeki yüksek kinetik enerjili moleküllerin her sıcaklıkta sıvı fazdan.",
@@ -1652,7 +378,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 119,
+    "id": 28,
     "kategori": "termodinamik",
     "kelime": "yoğuşma",
     "aciklama": "gaz veya buhar halindeki bir maddenin ısı vererek sıvı faza.",
@@ -1666,7 +392,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 120,
+    "id": 29,
     "kategori": "termodinamik",
     "kelime": "erime",
     "aciklama": "katı bir maddenin ısı alarak kristal yapısının bozulması ve sıvı.",
@@ -1680,7 +406,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 121,
+    "id": 30,
     "kategori": "termodinamik",
     "kelime": "donma",
     "aciklama": "sıvı bir maddenin dışarıya ısı vererek moleküllerinin kristalleşip katı faza.",
@@ -1694,7 +420,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 122,
+    "id": 31,
     "kategori": "termodinamik",
     "kelime": "erime noktası",
     "aciklama": "atmosfer basınç altında katı ile sıvı fazın bir arada dengede.",
@@ -1708,7 +434,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 123,
+    "id": 32,
     "kategori": "termodinamik",
     "kelime": "donma noktası",
     "aciklama": "saf bir sıvının katılaşmaya başladığı ve erime noktasına eşit olan.",
@@ -1722,7 +448,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 124,
+    "id": 33,
     "kategori": "termodinamik",
     "kelime": "kaynama noktası",
     "aciklama": "doyma sıcaklığı olup dış basınç düştükçe dağ zirvelerinde azalan sıvının.",
@@ -1736,7 +462,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 125,
+    "id": 34,
     "kategori": "termodinamik",
     "kelime": "buhar basıncı",
     "aciklama": "kapalı bir kapta sıvı yüzeyinden kaçan buhar moleküllerinin sıvı faz.",
@@ -1750,7 +476,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 126,
+    "id": 35,
     "kategori": "termodinamik",
     "kelime": "doymuş buhar",
     "aciklama": "yoğuşmanın eşiğinde bulunan, en ufak bir ısı kaybında derhal sıvı.",
@@ -1764,49 +490,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 127,
-    "kategori": "termodinamik",
-    "kelime": "doymuş sıvı",
-    "aciklama": "kaynamanın eşiğinde bulunan, en ufak bir ısı ilavesinde hemen buharlaşmaya.",
-    "yasakli_kelimeler": [
-      "kaynama eşiği",
-      "kuruluk derecesi sıfır",
-      "ısı alınca buharlaşan",
-      "doyma hattı",
-      "sıvı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 128,
-    "kategori": "termodinamik",
-    "kelime": "ıslak buhar",
-    "aciklama": "doymuş sıvı damlacıkları ile doymuş buharın aynı sıcaklık ve basınçta.",
-    "yasakli_kelimeler": [
-      "sıvı buhar karışımı",
-      "kuruluk derecesi",
-      "kubbe altı",
-      "iki fazlı",
-      "buhar"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 129,
-    "kategori": "termodinamik",
-    "kelime": "kızgın buhar",
-    "aciklama": "doyma sıcaklığının üzerine kadar ısıtılmış, içinde hiç sıvı damlacığı barındırmayan.",
-    "yasakli_kelimeler": [
-      "doyma sıcaklığı üstü",
-      "türbin buharı",
-      "kuru gaz gibi",
-      "aşırı ısıtılmış",
-      "buhar"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 130,
+    "id": 36,
     "kategori": "termodinamik",
     "kelime": "faz değişimi",
     "aciklama": "maddenin katı, sıvı veya gaz halleri arasında sıcaklık sabit kalırken.",
@@ -1820,21 +504,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 131,
-    "kategori": "termodinamik",
-    "kelime": "faz geçişi",
-    "aciklama": "maddenin iç yapısında veya serbestlik derecelerinde sıcaklık ve basınca bağlı.",
-    "yasakli_kelimeler": [
-      "termodinamik sıçrama",
-      "birinci derece",
-      "serbestlik derecesi",
-      "yapısal dönüşüm",
-      "faz"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 132,
+    "id": 37,
     "kategori": "termodinamik",
     "kelime": "faz dengesi",
     "aciklama": "sistemde birden fazla fazın aynı sıcaklık, basınç ve kimyasal potansiyelde.",
@@ -1848,7 +518,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 133,
+    "id": 38,
     "kategori": "termodinamik",
     "kelime": "buhar türbini",
     "aciklama": "yüksek basınçlı ve kızgın buharın kanatçıklara çarpıp genleşmesiyle milinde mekanik.",
@@ -1862,7 +532,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 134,
+    "id": 39,
     "kategori": "termodinamik",
     "kelime": "gaz türbini",
     "aciklama": "yanma odasından çıkan yüksek sıcaklıktaki gazların genleşmesiyle dönen ve uçak.",
@@ -1876,7 +546,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 135,
+    "id": 40,
     "kategori": "termodinamik",
     "kelime": "kompresör",
     "aciklama": "dışarıdan mekanik iş alarak gaz veya havayı sıkıştırıp basıncını ve.",
@@ -1890,63 +560,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 136,
-    "kategori": "termodinamik",
-    "kelime": "genleşme valfi",
-    "aciklama": "soğutma çevriminde yüksek basınçlı sıvının basıncını aniden düşürerek evaporatör sıcaklığına.",
-    "yasakli_kelimeler": [
-      "kısılma vanası",
-      "basınç düşürme",
-      "joule thomson",
-      "soğutma çevrimi",
-      "termostatik valf"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 137,
-    "kategori": "termodinamik",
-    "kelime": "kısılma vanası",
-    "aciklama": "akışkanın dar bir delikten veya gözenekli tıkaçtan geçerken entalpisinin sabit.",
-    "yasakli_kelimeler": [
-      "izentalpik süreç",
-      "sabit entalpi",
-      "basınç kaybı",
-      "dar delik",
-      "kısılma"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 138,
-    "kategori": "termodinamik",
-    "kelime": "kapiler tüp",
-    "aciklama": "ev tipi buzdolaplarında genleşme valfi yerine kullanılan çok ince ve.",
-    "yasakli_kelimeler": [
-      "kılcal boru",
-      "buzdolabı arkası",
-      "kısılma elemanı",
-      "bakır boru",
-      "genleşme yerine"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 139,
-    "kategori": "termodinamik",
-    "kelime": "soğutucu akışkan",
-    "aciklama": "soğutma çevriminde düşük sıcaklıkta buharlaşıp yüksek sıcaklıkta yoğuşarak ısı taşıyan.",
-    "yasakli_kelimeler": [
-      "freon gazı",
-      "amonyak",
-      "soğutma gazı",
-      "ısı taşıyıcı",
-      "evaporatör akışkanı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 140,
+    "id": 41,
     "kategori": "termodinamik",
     "kelime": "soğutma kulesi",
     "aciklama": "kondansatörden gelen sıcak suyu hava ile doğrudan temas ettirip kısmen.",
@@ -1960,7 +574,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 141,
+    "id": 42,
     "kategori": "termodinamik",
     "kelime": "atık ısı",
     "aciklama": "termodinamik çevrimlerde mekanik işe dönüştürülemeyip çevreye veya nehre bırakılmak zorunda.",
@@ -1974,7 +588,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 142,
+    "id": 43,
     "kategori": "termodinamik",
     "kelime": "ısı kaynağı",
     "aciklama": "sıcaklığı hiç düşmeden ısı sağlayabilen sonsuz termal kapasiteye sahip yüksek.",
@@ -1988,49 +602,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 143,
-    "kategori": "termodinamik",
-    "kelime": "ısı kuyusu",
-    "aciklama": "sıcaklığı hiç yükselmeden sonsuz miktarda ısıyı yutabilen düşük sıcaklıktaki atmosfer.",
-    "yasakli_kelimeler": [
-      "düşük sıcaklık",
-      "ısı yutan",
-      "atmosfer veya deniz",
-      "heat sink",
-      "soğuk rezervuar"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 144,
-    "kategori": "termodinamik",
-    "kelime": "termal verim",
-    "aciklama": "ısı makinesinin ürettiği net mekanik işin kazandan aldığı toplam ısıya.",
-    "yasakli_kelimeler": [
-      "net iş bölü ısı",
-      "eta simgesi",
-      "yüzde verim",
-      "carnot sınırı",
-      "ısı makinesi"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 145,
-    "kategori": "termodinamik",
-    "kelime": "mekanik verim",
-    "aciklama": "makinenin sürtünme kayıpları düşüldükten sonra şaftından alınan yararlı gücün piston.",
-    "yasakli_kelimeler": [
-      "sürtünme kaybı",
-      "fren gücü",
-      "şaft gücü",
-      "yararlı iş",
-      "verim"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 146,
+    "id": 44,
     "kategori": "termodinamik",
     "kelime": "pistonlu motor",
     "aciklama": "silindir içinde yakıtın yanmasıyla genleşen gazların pistonu iterek doğrusal hareketi.",
@@ -2044,7 +616,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 147,
+    "id": 45,
     "kategori": "termodinamik",
     "kelime": "silindir hacmi",
     "aciklama": "pistonun alt ölü nokta ile üst ölü nokta arasında süpürdüğü.",
@@ -2058,7 +630,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 148,
+    "id": 46,
     "kategori": "termodinamik",
     "kelime": "sıkıştırma oranı",
     "aciklama": "pistonun alt ölü noktadaki toplam silindir hacminin üst ölü noktadaki.",
@@ -2072,49 +644,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 149,
-    "kategori": "termodinamik",
-    "kelime": "ölü nokta",
-    "aciklama": "pistonun silindir içindeki hareket yönünü değiştirdiği anda hızının anlık olarak.",
-    "yasakli_kelimeler": [
-      "üst ölü alt ölü",
-      "hızın sıfır olduğu yer",
-      "yön değiştirme",
-      "strok sınırı",
-      "piston konumu"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 150,
-    "kategori": "termodinamik",
-    "kelime": "strok boyu",
-    "aciklama": "pistonun üst ölü nokta ile alt ölü nokta arasında katettiği.",
-    "yasakli_kelimeler": [
-      "piston mesafesi",
-      "alt üst ölü arası",
-      "krank yarıçapının iki katı",
-      "doğrusal yol",
-      "kurs"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 151,
-    "kategori": "termodinamik",
-    "kelime": "buji ateşlemesi",
-    "aciklama": "benzinli otto motorlarında sıkıştırılmış yakıt hava karışımının elektrik kıvılcımıyla tutuşturulması.",
-    "yasakli_kelimeler": [
-      "elektrik kıvılcımı",
-      "benzinli motor",
-      "otto çevrimi",
-      "tutuşturma",
-      "ateşleme bobini"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 152,
+    "id": 47,
     "kategori": "termodinamik",
     "kelime": "buji",
     "aciklama": "yanma odasına yüksek voltajlı kıvılcım çakarak patlamayı başlatan seramik gövdeli.",
@@ -2128,7 +658,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 153,
+    "id": 48,
     "kategori": "termodinamik",
     "kelime": "yanma odası",
     "aciklama": "silindir kapağında piston tepesi ile supaplar arasında kalan ve yakıtın.",
@@ -2142,77 +672,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 154,
-    "kategori": "termodinamik",
-    "kelime": "stokiyometri",
-    "aciklama": "yakıtın içindeki karbon ve hidrojenin havayla tam yanması için gereken.",
-    "yasakli_kelimeler": [
-      "tam yanma oranı",
-      "kimyasal denklik",
-      "hava yakıt oranı",
-      "on dört nokta yedi",
-      "kimyasal hesap"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 155,
-    "kategori": "termodinamik",
-    "kelime": "adyabatik alev",
-    "aciklama": "dışarıya hiçbir ısı kaybı ve iş yapılmaksızın gerçekleşen tam yanmada.",
-    "yasakli_kelimeler": [
-      "en yüksek sıcaklık",
-      "ısı kayıpsız yanma",
-      "teorik sıcaklık",
-      "alev ısısı",
-      "adyabatik"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 156,
-    "kategori": "termodinamik",
-    "kelime": "yanma entalpisi",
-    "aciklama": "mol yakıtın oksijenle tam yanması sonucu standart şartlarda açığa çıkardığı.",
-    "yasakli_kelimeler": [
-      "reaksiyon ısısı",
-      "açığa çıkan enerji",
-      "kalori değeri",
-      "tam yanma çıktısı",
-      "entalpi"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 157,
-    "kategori": "termodinamik",
-    "kelime": "yanma reaksiyonu",
-    "aciklama": "hidrokarbon yakıtların oksijenle birleşerek karbondioksit, su buharı ve yoğun ısı.",
-    "yasakli_kelimeler": [
-      "ekzotermik tepkime",
-      "oksijenle birleşme",
-      "karbondioksit su",
-      "alev ve ısı",
-      "kimyasal yanma"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 158,
-    "kategori": "termodinamik",
-    "kelime": "ısıl kapasite",
-    "aciklama": "maddenin bütün kütlesinin sıcaklığını bir santigrat derece veya bir kelvin.",
-    "yasakli_kelimeler": [
-      "bir derece artış",
-      "kütlece ısı",
-      "büyük c harfi",
-      "ısı sığası",
-      "enerji gereksinimi"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 159,
+    "id": 49,
     "kategori": "termodinamik",
     "kelime": "özgül ısı",
     "aciklama": "maddenin bir gramının veya bir kilogramının sıcaklığını bir derece yükseltmek.",
@@ -2226,147 +686,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 160,
-    "kategori": "termodinamik",
-    "kelime": "izobarik ısı",
-    "aciklama": "basıncın sabit tutulduğu bir süreçte gazın sıcaklığını artırmak için verilen.",
-    "yasakli_kelimeler": [
-      "sabit basınç",
-      "cp sabiti",
-      "entalpi değişimi",
-      "genleşmeli ısıtma",
-      "özgül ısı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 161,
-    "kategori": "termodinamik",
-    "kelime": "izokorik ısı",
-    "aciklama": "hacmin sabit tutulduğu rijit bir kapta hiçbir sınır işi yapılmaksızın.",
-    "yasakli_kelimeler": [
-      "sabit hacim",
-      "cv sabiti",
-      "iş yapılmayan süreç",
-      "iç enerji değişimi",
-      "rijit kap"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 162,
-    "kategori": "termodinamik",
-    "kelime": "genişleme işi",
-    "aciklama": "yüksek basınçlı sıcak gazın pistonu iterek veya türbini çevirerek hacmini.",
-    "yasakli_kelimeler": [
-      "pozitif iş",
-      "hacim büyümesi",
-      "pistonu itme",
-      "türbin genişlemesi",
-      "iş üretimi"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 163,
-    "kategori": "termodinamik",
-    "kelime": "sıkıştırma işi",
-    "aciklama": "kompresör veya piston ile akışkanın hacmini küçültmek ve basıncını yükseltmek.",
-    "yasakli_kelimeler": [
-      "negatif iş",
-      "hacim küçültme",
-      "kompresör işi",
-      "harcanan enerji",
-      "sıkıştırma"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 164,
-    "kategori": "termodinamik",
-    "kelime": "açık çevrim",
-    "aciklama": "akışkanın atmosferden alınıp çevrimde kullanıldıktan sonra egzoz olarak tekrar atmosfere.",
-    "yasakli_kelimeler": [
-      "egzoz atımı",
-      "atmosfere bırakma",
-      "kapalı olmayan",
-      "içten yanmalı çevrim",
-      "akışkan yenilenmesi"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 165,
-    "kategori": "termodinamik",
-    "kelime": "kapalı çevrim",
-    "aciklama": "aynı akışkanın kondansatörde soğutulup tekrar kazana pompalanarak sürekli kapalı bir.",
-    "yasakli_kelimeler": [
-      "aynı akışkan",
-      "buhar santrali döngüsü",
-      "rankine döngüsü",
-      "dışarı atılmayan",
-      "kapalı devre"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 166,
-    "kategori": "termodinamik",
-    "kelime": "kombine çevrim",
-    "aciklama": "gaz türbini egzozundan çıkan sıcak atık gazlarla buhar üretilip buhar.",
-    "yasakli_kelimeler": [
-      "gaz ve buhar türbini",
-      "yüksek verim",
-      "doğalgaz santrali",
-      "atık ısıyla buhar",
-      "brayton rankine"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 167,
-    "kategori": "termodinamik",
-    "kelime": "kojenerasyon",
-    "aciklama": "tek bir yakıt kaynağından aynı anda hem elektrik enerjisi hem.",
-    "yasakli_kelimeler": [
-      "hem elektrik hem ısı",
-      "bileşik üretim",
-      "yakıt tasarrufu",
-      "bölgesel ısıtma",
-      "verimlilik"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 168,
-    "kategori": "termodinamik",
-    "kelime": "trijenerasyon",
-    "aciklama": "tek bir yakıt girdisiyle aynı anda elektrik, ısıtma enerjisi ve.",
-    "yasakli_kelimeler": [
-      "üçlü üretim",
-      "elektrik ısıtma soğutma",
-      "absorbsiyonlu chiller",
-      "enerji verimi",
-      "tesis"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 169,
-    "kategori": "termodinamik",
-    "kelime": "ters çevrim",
-    "aciklama": "dışarıdan mekanik iş verilerek ısının soğuk ortamdan sıcak ortama pompalandığı.",
-    "yasakli_kelimeler": [
-      "soğutma döngüsü",
-      "dışarıdan iş",
-      "soğuktan sıcağa ısı",
-      "buzdolabı çevrimi",
-      "ısı pompası"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 170,
+    "id": 50,
     "kategori": "termodinamik",
     "kelime": "ısı geçişi",
     "aciklama": "sıcaklık farkından kaynaklanan termal enerjinin iletim, taşınım ve ışınım yollarıyla.",
@@ -2380,357 +700,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 171,
-    "kategori": "termodinamik",
-    "kelime": "iletim katsayısı",
-    "aciklama": "malzemenin ısıyı atomik titreşimler ve serbest elektronlarla ne kadar iyi.",
-    "yasakli_kelimeler": [
-      "termal iletkenlik",
-      "k sabiti",
-      "fourier katsayısı",
-      "watt bölü metre kelvin",
-      "yalıtım ölçütü"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 172,
-    "kategori": "termodinamik",
-    "kelime": "taşınım katsayısı",
-    "aciklama": "katı bir yüzey ile üzerinden akan akışkan arasındaki ısı transfer.",
-    "yasakli_kelimeler": [
-      "h katsayısı",
-      "newton soğuma yasası",
-      "akışkan katı transferi",
-      "konveksiyon",
-      "akış hızı etkisi"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 173,
-    "kategori": "termodinamik",
-    "kelime": "doğal taşınım",
-    "aciklama": "ısınan akışkanın yoğunluğunun azalarak kendiliğinden yükselmesi ve yerini soğuk akışkana.",
-    "yasakli_kelimeler": [
-      "yoğunluk farkı",
-      "kendiliğinden yükselme",
-      "radyatör ısınması",
-      "doğal sirkülasyon",
-      "konveksiyon"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 174,
-    "kategori": "termodinamik",
-    "kelime": "zorlanmış taşınım",
-    "aciklama": "akışkanın bir vantilatör, fan veya pompa ile sıcak yüzey üzerinden.",
-    "yasakli_kelimeler": [
-      "fan veya pompa",
-      "cebri üfleme",
-      "zorlamalı akış",
-      "yüksek transfer",
-      "bilgisayar fanı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 175,
-    "kategori": "termodinamik",
-    "kelime": "emisyon oranı",
-    "aciklama": "gerçek bir yüzeyin yaydığı termal radyasyon gücünün aynı sıcaklıktaki siyah.",
-    "yasakli_kelimeler": [
-      "yayma gücü",
-      "siyah cisim kıyası",
-      "epsilon",
-      "sıfır ile bir arası",
-      "radyasyon"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 176,
-    "kategori": "termodinamik",
-    "kelime": "soğurma oranı",
-    "aciklama": "yüzeye çarpan toplam ışınım enerjisinin yüzey tarafından emilen ve iç.",
-    "yasakli_kelimeler": [
-      "yutma oranı",
-      "alfa",
-      "emilen radyasyon",
-      "yansımayan kısım",
-      "güneş paneli"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 177,
-    "kategori": "termodinamik",
-    "kelime": "yansıtma oranı",
-    "aciklama": "yüzeye gelen radyasyonun ne kadarının emilmeden doğrudan geri sektiğini gösteren.",
-    "yasakli_kelimeler": [
-      "geri yansıma",
-      "ro simgesi",
-      "ayna yüzeyi",
-      "radyasyon sekmesi",
-      "beyaz renk avantajı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 178,
-    "kategori": "termodinamik",
-    "kelime": "geçirgenlik oranı",
-    "aciklama": "saydam veya yarı saydam bir cismin üzerine düşen ışınım enerjisini.",
-    "yasakli_kelimeler": [
-      "radyasyon geçişi",
-      "tau simgesi",
-      "cam geçirgenliği",
-      "saydam malzeme",
-      "serra etkisi"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 179,
-    "kategori": "termodinamik",
-    "kelime": "gri cisim",
-    "aciklama": "tüm dalga boylarındaki ışınımı siyah cisimden daha az ama her.",
-    "yasakli_kelimeler": [
-      "sabit emisyon",
-      "dalga boyundan bağımsız",
-      "siyah cisim modeli",
-      "gerçek yüzey yaklaşımı",
-      "ışınım"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 180,
-    "kategori": "termodinamik",
-    "kelime": "radyasyon kalkanı",
-    "aciklama": "iki sıcak yüzey arasına yüksek yansıtıcılıklı parlak alüminyum levhalar koyarak.",
-    "yasakli_kelimeler": [
-      "yansıtıcı levha",
-      "ışınım engeli",
-      "ısı perdesi",
-      "parlak folyo",
-      "termos mantığı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 181,
-    "kategori": "termodinamik",
-    "kelime": "kanatçık",
-    "aciklama": "elektronik devre soğutucularında veya motor silindirlerinde ısı transfer yüzey alanını.",
-    "yasakli_kelimeler": [
-      "yüzey artırma",
-      "soğutucu blok",
-      "alüminyum yapraklar",
-      "fin",
-      "işlemci soğutucusu"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 182,
-    "kategori": "termodinamik",
-    "kelime": "kanatlı boru",
-    "aciklama": "üzerine spiral veya pul şeklinde metal kanatçıklar geçirilerek dışındaki havayla.",
-    "yasakli_kelimeler": [
-      "spiral kanatlar",
-      "hava soğutmalı",
-      "radyatör borusu",
-      "yüzey genişletme",
-      "eşanjör borusu"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 183,
-    "kategori": "termodinamik",
-    "kelime": "ısı borusu",
-    "aciklama": "içindeki sıvının sıcak uçta buharlaşıp soğuk uçta yoğuşmasıyla inanılmaz yüksek.",
-    "yasakli_kelimeler": [
-      "heat pipe",
-      "buharlaşma yoğuşma döngüsü",
-      "bakır boru",
-      "laptop soğutması",
-      "süper iletken"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 184,
-    "kategori": "termodinamik",
-    "kelime": "plaka eşanjör",
-    "aciklama": "birbirine contalarla preslenmiş çok sayıda dalgalı paslanmaz çelik plaka arasından.",
-    "yasakli_kelimeler": [
-      "paslanmaz plakalar",
-      "contalı eşanjör",
-      "kombi içi eşanjör",
-      "yüksek ısı geçişi",
-      "kompakt"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 185,
-    "kategori": "termodinamik",
-    "kelime": "boru eşanjörü",
-    "aciklama": "geniş bir silindirik gövde içine yerleştirilen yüzlerce ince boru demetiyle.",
-    "yasakli_kelimeler": [
-      "gövde boru",
-      "boru demeti",
-      "endüstriyel ısıtıcı",
-      "termik santral",
-      "ısı değiştirici"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 186,
-    "kategori": "termodinamik",
-    "kelime": "zıt akışlı",
-    "aciklama": "ısı değiştiricide sıcak ve soğuk akışkanların birbirine tam zıt yönlerde.",
-    "yasakli_kelimeler": [
-      "karşıt yönlü akış",
-      "en yüksek verim",
-      "eşanjör akışı",
-      "ters yön",
-      "ısı transferi"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 187,
-    "kategori": "termodinamik",
-    "kelime": "paralel akışlı",
-    "aciklama": "sıcak ve soğuk akışkanların ısı değiştiriciye aynı uçtan girip aynı.",
-    "yasakli_kelimeler": [
-      "aynı yönde akış",
-      "düşük verim",
-      "eşanjör düzeni",
-      "giriş sıcaklığı",
-      "akış"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 188,
-    "kategori": "termodinamik",
-    "kelime": "çapraz akışlı",
-    "aciklama": "akışkanlardan birinin boruların içinden geçerken diğerinin borulara doksan derece dik.",
-    "yasakli_kelimeler": [
-      "doksan derece dik",
-      "araba radyatörü",
-      "hava ve su",
-      "dik akış",
-      "eşanjör"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 189,
-    "kategori": "termodinamik",
-    "kelime": "sınır tabaka",
-    "aciklama": "katı bir yüzeyin hemen üzerindeki akışkan hızının ve sıcaklığının sıfırdan.",
-    "yasakli_kelimeler": [
-      "hız ve sıcaklık değişimi",
-      "yüzeye yapışma",
-      "viskozite etkisi",
-      "ince katman",
-      "prandtl"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 190,
-    "kategori": "termodinamik",
-    "kelime": "kaynama eğrisi",
-    "aciklama": "ısı akısının yüzey aşırı sıcaklığına bağlı değişimini gösteren, kabarcıklı ve.",
-    "yasakli_kelimeler": [
-      "nukiyama eğrisi",
-      "ısı akısı grafiği",
-      "kritik ısı akısı",
-      "kaynama bölgeleri",
-      "faz değişimi"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 191,
-    "kategori": "termodinamik",
-    "kelime": "havuz kaynaması",
-    "aciklama": "herhangi bir pompa veya cebri akış olmaksızın durgun bir sıvı.",
-    "yasakli_kelimeler": [
-      "durgun sıvı",
-      "tencerede kaynama",
-      "cebri akış yok",
-      "havuz",
-      "doğal kaynama"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 192,
-    "kategori": "termodinamik",
-    "kelime": "film kaynaması",
-    "aciklama": "ısıtıcı yüzey ile sıvı arasında sürekli bir yalıtkan buhar filmi.",
-    "yasakli_kelimeler": [
-      "buhar filmi",
-      "leidenfrost etkisi",
-      "yalıtkan buhar",
-      "düşük ısı geçişi",
-      "aşırı sıcak yüzey"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 193,
-    "kategori": "termodinamik",
-    "kelime": "kabarcıklı kaynama",
-    "aciklama": "sıcak yüzeydeki mikroskobik pürüzlerde buhar kabarcıklarının oluşup hızla yüzeye yükseldiği.",
-    "yasakli_kelimeler": [
-      "kabarcık oluşumu",
-      "en yüksek ısı akısı",
-      "pürüz noktaları",
-      "verimli kaynama",
-      "nükleasyon"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 194,
-    "kategori": "termodinamik",
-    "kelime": "damla yoğuşması",
-    "aciklama": "buharın hidrofobik soğuk bir yüzeyde film tabakası yerine ayrı ayrı.",
-    "yasakli_kelimeler": [
-      "ayrı damlacıklar",
-      "hidrofobik yüzey",
-      "film yoğuşmasından verimli",
-      "kondens damlaları",
-      "yoğuşma"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 195,
-    "kategori": "termodinamik",
-    "kelime": "film yoğuşması",
-    "aciklama": "yoğuşan sıvının soğuk dikey yüzeyi tamamen kaplayan bir sıvı film.",
-    "yasakli_kelimeler": [
-      "sıvı filmi",
-      "nusselt teorisi",
-      "soğuk yüzey filmi",
-      "yalıtkan sıvı tabakası",
-      "kondensasyon"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 196,
+    "id": 51,
     "kategori": "termodinamik",
     "kelime": "buhar gücü",
     "aciklama": "suyun kaynatılmasıyla üretilen yüksek basınçlı buharın pistonları ve makineleri çalıştırmak.",
@@ -2744,21 +714,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 197,
-    "kategori": "termodinamik",
-    "kelime": "termofor",
-    "aciklama": "içine sıcak su doldurularak yatakta veya vücut ağrılarında ısınmak için.",
-    "yasakli_kelimeler": [
-      "sıcak su torbası",
-      "kauçuk torba",
-      "üşüyünce ayak ucuna",
-      "karın ağrısı",
-      "su doldurma"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 198,
+    "id": 52,
     "kategori": "termodinamik",
     "kelime": "termos",
     "aciklama": "çift cidarlı cam veya çelik duvarları arasındaki havası boşaltılarak iletim.",
@@ -2772,7 +728,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 199,
+    "id": 53,
     "kategori": "termodinamik",
     "kelime": "ısı yalıtımı",
     "aciklama": "taş yünü, cam yünü veya strafor gibi düşük iletkenlikli malzemelerle.",
@@ -2786,20 +742,6 @@
     "zorluk": "kolay"
   },
   {
-    "id": 200,
-    "kategori": "termodinamik",
-    "kelime": "termodinamik durum",
-    "aciklama": "sistemin belirli bir andaki basınç, sıcaklık, hacim ve iç enerji.",
-    "yasakli_kelimeler": [
-      "hal tanımı",
-      "basınç sıcaklık hacim",
-      "durum noktası",
-      "denge hali",
-      "durum değişkenleri"
-    ],
-    "zorluk": "orta"
-  },
-  {
     "kategori": "termodinamik",
     "kelime": "isıtmak",
     "aciklama": "bir maddenin sıcaklığını artırmak için ona ısı enerjisi vermek.",
@@ -2811,7 +753,7 @@
       "soğuk"
     ],
     "zorluk": "kolay",
-    "id": 201
+    "id": 54
   },
   {
     "kategori": "termodinamik",
@@ -2825,7 +767,7 @@
       "ortam"
     ],
     "zorluk": "kolay",
-    "id": 202
+    "id": 55
   },
   {
     "kategori": "termodinamik",
@@ -2839,7 +781,7 @@
       "su"
     ],
     "zorluk": "kolay",
-    "id": 203
+    "id": 56
   },
   {
     "kategori": "termodinamik",
@@ -2853,7 +795,7 @@
       "faz"
     ],
     "zorluk": "kolay",
-    "id": 204
+    "id": 57
   },
   {
     "kategori": "termodinamik",
@@ -2867,7 +809,7 @@
       "faz"
     ],
     "zorluk": "kolay",
-    "id": 205
+    "id": 58
   },
   {
     "kategori": "termodinamik",
@@ -2881,7 +823,7 @@
       "yüzey"
     ],
     "zorluk": "kolay",
-    "id": 206
+    "id": 59
   },
   {
     "kategori": "termodinamik",
@@ -2895,7 +837,7 @@
       "soğuma"
     ],
     "zorluk": "kolay",
-    "id": 207
+    "id": 60
   },
   {
     "kategori": "termodinamik",
@@ -2909,7 +851,7 @@
       "genişleme"
     ],
     "zorluk": "kolay",
-    "id": 208
+    "id": 61
   },
   {
     "kategori": "termodinamik",
@@ -2923,7 +865,7 @@
       "boyut"
     ],
     "zorluk": "kolay",
-    "id": 209
+    "id": 62
   },
   {
     "kategori": "termodinamik",
@@ -2937,7 +879,7 @@
       "tespit"
     ],
     "zorluk": "kolay",
-    "id": 210
+    "id": 63
   },
   {
     "kategori": "termodinamik",
@@ -2951,21 +893,7 @@
       "etki"
     ],
     "zorluk": "kolay",
-    "id": 211
-  },
-  {
-    "kategori": "termodinamik",
-    "kelime": "enerji vermek",
-    "aciklama": "bir sisteme iş veya ısı yoluyla enerji girişi sağlamak.",
-    "yasakli_kelimeler": [
-      "ısı",
-      "iş",
-      "giriş",
-      "sistem",
-      "artış"
-    ],
-    "zorluk": "kolay",
-    "id": 212
+    "id": 64
   },
   {
     "kategori": "termodinamik",
@@ -2979,21 +907,7 @@
       "w"
     ],
     "zorluk": "orta",
-    "id": 213
-  },
-  {
-    "kategori": "termodinamik",
-    "kelime": "isıl dengeye ulaşmak",
-    "aciklama": "temas halindeki iki sistemin sıcaklıklarının eşitlenerek ısı akışının durması.",
-    "yasakli_kelimeler": [
-      "sıcaklık",
-      "eşit",
-      "temas",
-      "ısı akışı",
-      "durma"
-    ],
-    "zorluk": "orta",
-    "id": 214
+    "id": 65
   },
   {
     "kategori": "termodinamik",
@@ -3007,7 +921,7 @@
       "malzeme"
     ],
     "zorluk": "orta",
-    "id": 215
+    "id": 66
   },
   {
     "kategori": "termodinamik",
@@ -3021,7 +935,7 @@
       "kuru buz"
     ],
     "zorluk": "orta",
-    "id": 216
+    "id": 67
   },
   {
     "kategori": "termodinamik",
@@ -3035,63 +949,7 @@
       "soğuk"
     ],
     "zorluk": "orta",
-    "id": 217
-  },
-  {
-    "kategori": "termodinamik",
-    "kelime": "isı i̇letmek",
-    "aciklama": "katı maddelerde moleküler titreşimler yoluyla ısının bir noktadan diğerine taşınması.",
-    "yasakli_kelimeler": [
-      "kondüksiyon",
-      "titreşim",
-      "katı",
-      "taşınma",
-      "metal"
-    ],
-    "zorluk": "orta",
-    "id": 218
-  },
-  {
-    "kategori": "termodinamik",
-    "kelime": "konveksiyon yapmak",
-    "aciklama": "akışkanlarda sıcak ve soğuk kütlelerin yer değiştirmesiyle ısının yayılması.",
-    "yasakli_kelimeler": [
-      "akışkan",
-      "yer değiştirme",
-      "akım",
-      "sıvı",
-      "gaz"
-    ],
-    "zorluk": "orta",
-    "id": 219
-  },
-  {
-    "kategori": "termodinamik",
-    "kelime": "işınım yaymak",
-    "aciklama": "isı enerjisinin elektromanyetik dalgalar (radyasyon) yoluyla boşlukta yayılması.",
-    "yasakli_kelimeler": [
-      "radyasyon",
-      "dalga",
-      "elektromanyetik",
-      "boşluk",
-      "güneş"
-    ],
-    "zorluk": "orta",
-    "id": 220
-  },
-  {
-    "kategori": "termodinamik",
-    "kelime": "entropiyi artırmak",
-    "aciklama": "kapalı bir sistemdeki düzensizlik ve mikroskobik olasılık durumunu yükseltmek.",
-    "yasakli_kelimeler": [
-      "düzensizlik",
-      "sistem",
-      "ikinci yasa",
-      "kaos",
-      "artış"
-    ],
-    "zorluk": "orta",
-    "id": 221
+    "id": 68
   },
   {
     "kategori": "termodinamik",
@@ -3105,21 +963,7 @@
       "küçültmek"
     ],
     "zorluk": "orta",
-    "id": 222
-  },
-  {
-    "kategori": "termodinamik",
-    "kelime": "genleşmeye bırakmak",
-    "aciklama": "gazın hacminin artarak çevreye karşı iş yapmasına izin vermek.",
-    "yasakli_kelimeler": [
-      "hacim",
-      "artış",
-      "iş",
-      "piston",
-      "serbest"
-    ],
-    "zorluk": "orta",
-    "id": 223
+    "id": 69
   },
   {
     "kategori": "termodinamik",
@@ -3133,328 +977,6 @@
       "gizli ısı"
     ],
     "zorluk": "orta",
-    "id": 224
-  },
-  {
-    "kategori": "termodinamik",
-    "kelime": "gizli isı almak",
-    "aciklama": "faz değişimi esnasında sıcaklık değişmeden emilen ısı enerjisi.",
-    "yasakli_kelimeler": [
-      "faz",
-      "sıcaklık",
-      "erime",
-      "buharlaşma",
-      "enerji"
-    ],
-    "zorluk": "orta",
-    "id": 225
-  },
-  {
-    "kategori": "termodinamik",
-    "kelime": "termal şok yaşamak",
-    "aciklama": "ani ve aşırı sıcaklık değişimi nedeniyle malzemenin çatlaması veya kırılması.",
-    "yasakli_kelimeler": [
-      "ani",
-      "çatlama",
-      "sıcaklık",
-      "kırılma",
-      "değişim"
-    ],
-    "zorluk": "orta",
-    "id": 226
-  },
-  {
-    "kategori": "termodinamik",
-    "kelime": "isı sığasını bulmak",
-    "aciklama": "maddenin sıcaklığını bir derece artırmak için gereken ısı miktarını ölçmek.",
-    "yasakli_kelimeler": [
-      "özgül ısı",
-      "derece",
-      "miktar",
-      "kapasite",
-      "c"
-    ],
-    "zorluk": "orta",
-    "id": 227
-  },
-  {
-    "kategori": "termodinamik",
-    "kelime": "döngüyü tamamlamak",
-    "aciklama": "termodinamik bir akışkanın başlangıç durumuna döndüğü çevrimi bitirmek.",
-    "yasakli_kelimeler": [
-      "çevrim",
-      "akışkan",
-      "başlangıç",
-      "durum",
-      "döngü"
-    ],
-    "zorluk": "orta",
-    "id": 228
-  },
-  {
-    "kategori": "termodinamik",
-    "kelime": "verimi hesaplamak",
-    "aciklama": "alınan yararlı işin sisteme verilen toplam ısı enerjisine oranını bulmak.",
-    "yasakli_kelimeler": [
-      "iş",
-      "oran",
-      "ısı",
-      "kayıp",
-      "yüzde"
-    ],
-    "zorluk": "orta",
-    "id": 229
-  },
-  {
-    "kategori": "termodinamik",
-    "kelime": "i̇ç enerjiyi değiştirmek",
-    "aciklama": "sistemin moleküler kinetik ve potansiyel enerjilerinin toplamını artırıp azaltmak.",
-    "yasakli_kelimeler": [
-      "kinetik",
-      "potansiyel",
-      "molekül",
-      "toplam",
-      "u"
-    ],
-    "zorluk": "orta",
-    "id": 230
-  },
-  {
-    "kategori": "termodinamik",
-    "kelime": "soğutucu akışkan dolaştırmak",
-    "aciklama": "buzdolabı veya klimada evaporatör ve kondenser arasında gaz dolaştırmak.",
-    "yasakli_kelimeler": [
-      "klima",
-      "buzdolabı",
-      "gaz",
-      "kompresör",
-      "kondenser"
-    ],
-    "zorluk": "orta",
-    "id": 231
-  },
-  {
-    "kategori": "termodinamik",
-    "kelime": "pistonu i̇tmek",
-    "aciklama": "silindir içindeki gaz basıncının kuvvetiyle mekanik kolu hareket ettirmek.",
-    "yasakli_kelimeler": [
-      "silindir",
-      "gaz",
-      "mekanik",
-      "kuvvet",
-      "hareket"
-    ],
-    "zorluk": "orta",
-    "id": 232
-  },
-  {
-    "kategori": "termodinamik",
-    "kelime": "isı kaybını önlemek",
-    "aciklama": "yalıtım ve bariyerlerle sistemden dış çevreye olan kaçakları engellemek.",
-    "yasakli_kelimeler": [
-      "kaçak",
-      "çevre",
-      "engel",
-      "yalıtım",
-      "kayıp"
-    ],
-    "zorluk": "orta",
-    "id": 233
-  },
-  {
-    "kategori": "termodinamik",
-    "kelime": "i̇zotermal genleşmek",
-    "aciklama": "sıcaklığı tamamen sabit tutarak gazın hacmini artırıp basıncını düşürmek.",
-    "yasakli_kelimeler": [
-      "sabit",
-      "sıcaklık",
-      "hacim",
-      "basınç",
-      "ters orantı"
-    ],
-    "zorluk": "zor",
-    "id": 234
-  },
-  {
-    "kategori": "termodinamik",
-    "kelime": "adyabatik sıkışmak",
-    "aciklama": "çevreyle hiçbir ısı alışverişi olmadan gazın sıkıştırılıp sıcaklığının artması.",
-    "yasakli_kelimeler": [
-      "ısı alışverişi",
-      "yalıtımlı",
-      "hacim",
-      "sıcaklık",
-      "q=0"
-    ],
-    "zorluk": "zor",
-    "id": 235
-  },
-  {
-    "kategori": "termodinamik",
-    "kelime": "i̇zobarik isınmak",
-    "aciklama": "basıncı sabit tutularak sisteme ısı verilip hacminin genişletilmesi.",
-    "yasakli_kelimeler": [
-      "sabit",
-      "basınç",
-      "hacim",
-      "genleşme",
-      "ısı"
-    ],
-    "zorluk": "zor",
-    "id": 236
-  },
-  {
-    "kategori": "termodinamik",
-    "kelime": "i̇zokorik soğumak",
-    "aciklama": "hacmi sabit tutulan bir sistemden ısı çekilerek basıncının düşürülmesi.",
-    "yasakli_kelimeler": [
-      "sabit",
-      "hacim",
-      "basınç",
-      "rijit",
-      "iş=0"
-    ],
-    "zorluk": "zor",
-    "id": 237
-  },
-  {
-    "kategori": "termodinamik",
-    "kelime": "joule thomson genleşmesi",
-    "aciklama": "i̇ki izotermal ve iki adyabatik süreçten oluşan teorik maksimum verimli.",
-    "yasakli_kelimeler": [
-      "verim",
-      "teorik",
-      "izotermal",
-      "adyabatik",
-      "çevrim"
-    ],
-    "zorluk": "zor",
-    "id": 238
-  },
-  {
-    "kategori": "termodinamik",
-    "kelime": "joule-thomson genleşmesi yapmak",
-    "aciklama": "gazın gözenekli bir tıkaç veya vanadan geçerken entalpisi sabit kalarak.",
-    "yasakli_kelimeler": [
-      "vana",
-      "kısılma",
-      "entalpi",
-      "soğuma",
-      "gaz"
-    ],
-    "zorluk": "zor",
-    "id": 239
-  },
-  {
-    "kategori": "termodinamik",
-    "kelime": "tersinir süreç i̇şletmek",
-    "aciklama": "sistem ve çevrede hiçbir kalıcı iz veya entropi artışı bırakmadan.",
-    "yasakli_kelimeler": [
-      "ideal",
-      "geri dönüş",
-      "entropi",
-      "kayıp",
-      "sürtünmesiz"
-    ],
-    "zorluk": "zor",
-    "id": 240
-  },
-  {
-    "kategori": "termodinamik",
-    "kelime": "tersinmezlik üretmek",
-    "aciklama": "sürtünme, ani genleşme veya ısı farkı nedeniyle sistemde yok edilemez.",
-    "yasakli_kelimeler": [
-      "sürtünme",
-      "kayıp",
-      "entropi",
-      "gerçek",
-      "üretim"
-    ],
-    "zorluk": "zor",
-    "id": 241
-  },
-  {
-    "kategori": "termodinamik",
-    "kelime": "rankine çevrimini çalıştırmak",
-    "aciklama": "termik santrallerde buharın türbin ve kondenser arasında dolaştırılarak elektrik üretilmesi.",
-    "yasakli_kelimeler": [
-      "santral",
-      "buhar",
-      "türbin",
-      "kondenser",
-      "elektrik"
-    ],
-    "zorluk": "zor",
-    "id": 242
-  },
-  {
-    "kategori": "termodinamik",
-    "kelime": "ekserji analizi yapmak",
-    "aciklama": "enerji kaynağından teorik olarak elde edilebilecek maksimum yararlı iş potansiyelini.",
-    "yasakli_kelimeler": [
-      "kullanılabilirlik",
-      "iş potansiyeli",
-      "kalite",
-      "kayıp",
-      "enerji"
-    ],
-    "zorluk": "zor",
-    "id": 243
-  },
-  {
-    "kategori": "termodinamik",
-    "kelime": "gibbs enerjisi hesaplamak",
-    "aciklama": "sabit sıcaklık ve basınçta bir kimyasal reaksiyonun kendiliğindenliğini belirleyen potansiyeli.",
-    "yasakli_kelimeler": [
-      "kendiliğinden",
-      "spontan",
-      "delta g",
-      "reaksiyon",
-      "potansiyel"
-    ],
-    "zorluk": "zor",
-    "id": 244
-  },
-  {
-    "kategori": "termodinamik",
-    "kelime": "üçlü noktaya ulaşmak",
-    "aciklama": "maddenin katı, sıvı ve gaz fazlarının aynı anda dengede bulunduğu.",
-    "yasakli_kelimeler": [
-      "üç faz",
-      "denge",
-      "katı",
-      "sıvı",
-      "gaz"
-    ],
-    "zorluk": "zor",
-    "id": 245
-  },
-  {
-    "kategori": "termodinamik",
-    "kelime": "süperkritik faza geçmek",
-    "aciklama": "kritik sıcaklık ve basıncın üzerine çıkarak sıvı ve gaz ayrımının.",
-    "yasakli_kelimeler": [
-      "kritik nokta",
-      "akışkan",
-      "sıvı",
-      "gaz",
-      "ayrım"
-    ],
-    "zorluk": "zor",
-    "id": 246
-  },
-  {
-    "kategori": "termodinamik",
-    "kelime": "mutlak sıfıra yaklaşmak",
-    "aciklama": "sıcaklığı teorik olarak tüm moleküler hareketin durduğu sıfır kelvin noktasına.",
-    "yasakli_kelimeler": [
-      "0 kelvin",
-      "-273",
-      "molekül",
-      "üçüncü yasa",
-      "hareketsizlik"
-    ],
-    "zorluk": "zor",
-    "id": 247
+    "id": 70
   }
 ]

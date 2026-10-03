@@ -156,48 +156,6 @@
   {
     "id": 12,
     "kategori": "dalgiclik",
-    "kelime": "inflator",
-    "aciklama": "denge yeleğini hava ile şişiren veya boşaltan buton",
-    "yasakli_kelimeler": [
-      "şişirme valfi",
-      "bcd hortumu",
-      "tahliye butonu",
-      "hava basma",
-      "hortum ucu"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 13,
-    "kategori": "dalgiclik",
-    "kelime": "oktopus",
-    "aciklama": "havası biten dalış eşine hava vermek için taşınan yedek regülatör",
-    "yasakli_kelimeler": [
-      "yedek soluma",
-      "yedek regülatör",
-      "acil durum ahtapotu",
-      "sarı ağızlık",
-      "hava paylaşımı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 14,
-    "kategori": "dalgiclik",
-    "kelime": "manometre",
-    "aciklama": "tüpte ne kadar basınçta hava kaldığını gösteren gösterge",
-    "yasakli_kelimeler": [
-      "basınç saati",
-      "hava göstergesi",
-      "bar ölçer",
-      "tüp saati",
-      "kalan hava"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 15,
-    "kategori": "dalgiclik",
     "kelime": "dalış bilgisayarı",
     "aciklama": "derinliği, dip süresini ve durakları hesaplayan kol saati",
     "yasakli_kelimeler": [
@@ -210,7 +168,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 16,
+    "id": 13,
     "kategori": "dalgiclik",
     "kelime": "dekompresyon",
     "aciklama": "derinlikten çıkarken dokulardaki nitrojenin kademeli olarak atılması süreci",
@@ -224,35 +182,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 17,
-    "kategori": "dalgiclik",
-    "kelime": "dekompresyon durağı",
-    "aciklama": "vurgun yememek için belirli derinlikte yapılan zorunlu bekleme",
-    "yasakli_kelimeler": [
-      "deko durağı",
-      "zorunlu bekleme",
-      "basamak durağı",
-      "kademe",
-      "nitrojen tahliyesi"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 18,
-    "kategori": "dalgiclik",
-    "kelime": "güvenlik durağı",
-    "aciklama": "dalış sonunda beş metrede yapılan üç dakikalık tedbir durağı",
-    "yasakli_kelimeler": [
-      "beş metre",
-      "üç dakika",
-      "tedbir durağı",
-      "safety stop",
-      "çıkış öncesi bekleme"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 19,
+    "id": 14,
     "kategori": "dalgiclik",
     "kelime": "vurgun",
     "aciklama": "hızlı çıkışta nitrojen kabarcıklarının damarları tıkamasıyla oluşan hastalık",
@@ -266,7 +196,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 20,
+    "id": 15,
     "kategori": "dalgiclik",
     "kelime": "nitrojen narkozu",
     "aciklama": "derinlerde solunan yüksek basınçlı azotun yarattığı sarhoşluk hissi",
@@ -280,7 +210,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 21,
+    "id": 16,
     "kategori": "dalgiclik",
     "kelime": "derinlik sarhoşluğu",
     "aciklama": "yüksek basınçlı azotun sinir sistemini uyuşturmasıyla oluşan bilinç kaybı",
@@ -294,7 +224,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 22,
+    "id": 17,
     "kategori": "dalgiclik",
     "kelime": "oksijen zehirlenmesi",
     "aciklama": "yüksek oksijen basıncının nöbet ve kasılmaya yol açması durumu",
@@ -308,21 +238,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 23,
-    "kategori": "dalgiclik",
-    "kelime": "barotravma",
-    "aciklama": "basınç değişimiyle hava dolu vücut boşluklarında oluşan doku hasarı",
-    "yasakli_kelimeler": [
-      "basınç hasarı",
-      "kulak zarı yırtılması",
-      "patlama",
-      "sinüs kanaması",
-      "akciğer yırtılması"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 24,
+    "id": 18,
     "kategori": "dalgiclik",
     "kelime": "kulak eşitleme",
     "aciklama": "artan basınca karşı orta kulak basıncını dengeleme işlemi",
@@ -336,119 +252,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 25,
-    "kategori": "dalgiclik",
-    "kelime": "valsalva manevrası",
-    "aciklama": "burnu kapatıp nefesi genze zorlayarak kulak eşitleme tekniği",
-    "yasakli_kelimeler": [
-      "burun tıkama",
-      "kulak çıtlatma",
-      "eşitleme tekniği",
-      "üfleme manevrası",
-      "kulak açma"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 26,
-    "kategori": "dalgiclik",
-    "kelime": "frenzel manevrası",
-    "aciklama": "yutkunarak veya çeneyi oynatarak kulak basıncını eşitleme yöntemi",
-    "yasakli_kelimeler": [
-      "serbest dalış eşitlemesi",
-      "dil hareketi",
-      "derin eşitleme",
-      "apnea tekniği",
-      "zararsız eşitleme"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 27,
-    "kategori": "dalgiclik",
-    "kelime": "yüzerlilik",
-    "aciklama": "dalgıcın su içinde ne batıp ne çıktığı askıda kalma durumu",
-    "yasakli_kelimeler": [
-      "batmazlık",
-      "nötr asılı kalma",
-      "pozitif negatif",
-      "arşimet kanunu",
-      "kaldırma kuvveti"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 28,
-    "kategori": "dalgiclik",
-    "kelime": "nötr yüzerlilik",
-    "aciklama": "dalgıcın su yüzeyine doğru mantar gibi yukarı fırlama eğilimi",
-    "yasakli_kelimeler": [
-      "askıda kalma",
-      "mükemmel denge",
-      "sıfır batma",
-      "süzülme",
-      "nefes kontrolü"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 29,
-    "kategori": "dalgiclik",
-    "kelime": "pozitif yüzerlilik",
-    "aciklama": "dalgıcın taş gibi ağırlıkla su dibine doğru çökme eğilimi",
-    "yasakli_kelimeler": [
-      "yüzeye çıkma",
-      "batmama",
-      "yukarı itilme",
-      "hafiflik",
-      "yeleği şişirme"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 30,
-    "kategori": "dalgiclik",
-    "kelime": "negatif yüzerlilik",
-    "aciklama": "su altında güvenliği sağlamak amacıyla birlikte dalış yapılan eş",
-    "yasakli_kelimeler": [
-      "dibe batma",
-      "ağır basma",
-      "çökme",
-      "ağırlık fazlalığı",
-      "yelek havasızlığı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 31,
-    "kategori": "dalgiclik",
-    "kelime": "kurbağa vuruşu",
-    "aciklama": "dalış grubu liderinin dalıştan önce yaptığı bilgilendirme toplantısı",
-    "yasakli_kelimeler": [
-      "frog kick",
-      "palet stili",
-      "dip kaldırmayan",
-      "mağara tekniği",
-      "dönüş vuruşu"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 32,
-    "kategori": "dalgiclik",
-    "kelime": "trim",
-    "aciklama": "dalışa başlamadan önce dalış eşlerinin ekipmanlarını karşılıklı kontrolü",
-    "yasakli_kelimeler": [
-      "yatay duruş",
-      "vücut açısı",
-      "duruş geometrisi",
-      "hidrodinamik duruş",
-      "denge hattı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 33,
+    "id": 19,
     "kategori": "dalgiclik",
     "kelime": "dalış eşi",
     "aciklama": "su altında konuşulamadığı için el hareketleriyle yapılan sessiz iletişim",
@@ -462,217 +266,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 34,
-    "kategori": "dalgiclik",
-    "kelime": "buddy check",
-    "aciklama": "dalgıcın su üstünde olduğunu teknelere gösteren şişme turuncu şamandıra",
-    "yasakli_kelimeler": [
-      "eş kontrolü",
-      "bwaft",
-      "dalış öncesi kontrol",
-      "güvenlik taraması",
-      "ekipman testi"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 35,
-    "kategori": "dalgiclik",
-    "kelime": "nitrox",
-    "aciklama": "üzerinde dalgıç olduğunu ve teknelerin yaklaşmamasını bildiren bayrak",
-    "yasakli_kelimeler": [
-      "zenginleştirilmiş hava",
-      "eanx",
-      "yüksek oksijen",
-      "oksijen karışımı",
-      "yeşil sarı tüp"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 36,
-    "kategori": "dalgiclik",
-    "kelime": "trimix",
-    "aciklama": "dalgıçların soluduğu filtrelenmiş sıkıştırılmış yüksek basınçlı kuru hava",
-    "yasakli_kelimeler": [
-      "helyum karışımı",
-      "teknik dalış gazı",
-      "üçlü gaz",
-      "derin su karışımı",
-      "hipoksik gaz"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 37,
-    "kategori": "dalgiclik",
-    "kelime": "heliox",
-    "aciklama": "oksijen oranı zenginleştirilmiş dip süresini uzatan özel gaz karışımı",
-    "yasakli_kelimeler": [
-      "helyum oksijen",
-      "derin gaz",
-      "azotsuz karışım",
-      "ticari dalış gazı",
-      "narkozsuz karışım"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 38,
-    "kategori": "dalgiclik",
-    "kelime": "rebreather",
-    "aciklama": "derin teknik dalışlarda kullanılan helyum, oksijen ve azot karışımı",
-    "yasakli_kelimeler": [
-      "kapalı devre",
-      "kabarcıksız dalış",
-      "scr ccr",
-      "gaz dönüştürücü",
-      "kimyasal filtre"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 39,
-    "kategori": "dalgiclik",
-    "kelime": "sodalime",
-    "aciklama": "derin teknik dalışlarda narkozu önleyen helyum ve oksijen karışımı",
-    "yasakli_kelimeler": [
-      "kireç filtresi",
-      "co2 tutucu",
-      "soğurucu granül",
-      "rebreather kimyasalı",
-      "emici malzeme"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 40,
-    "kategori": "dalgiclik",
-    "kelime": "hiperbarik oda",
-    "aciklama": "dalgıcın nefesindeki karbondioksiti filtreleyip kapalı devre solutan cihaz",
-    "yasakli_kelimeler": [
-      "basınç odası",
-      "dekompresyon tedavisi",
-      "rekompresyon odası",
-      "saf oksijen kabini",
-      "tedavi tankı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 41,
-    "kategori": "dalgiclik",
-    "kelime": "parsiyel basınç",
-    "aciklama": "yüzeyden hortumla hava basılarak yapılan profesyonel sanayi dalışı",
-    "yasakli_kelimeler": [
-      "kısmi basınç",
-      "dalton kanunu",
-      "ppo2",
-      "gaz oranı",
-      "basınç payı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 42,
-    "kategori": "dalgiclik",
-    "kelime": "dalton kanunu",
-    "aciklama": "ağır sanayi dalgıçlarının kafasına taktığı hava beslemeli metal başlık",
-    "yasakli_kelimeler": [
-      "gazlar kanunu",
-      "kısmi basınç toplamı",
-      "fizik kuralı",
-      "gaz formülü",
-      "basınç dengesi"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 43,
-    "kategori": "dalgiclik",
-    "kelime": "henry kanunu",
-    "aciklama": "vurgun yiyen dalgıçların yüksek basınç altında tedavi edildiği çelik oda",
-    "yasakli_kelimeler": [
-      "çözünürlük yasası",
-      "dokuya gaz emilimi",
-      "gaz erimesi",
-      "vurgun teorisi",
-      "basınç ve çözünme"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 44,
-    "kategori": "dalgiclik",
-    "kelime": "boyle-mariotte kanunu",
-    "aciklama": "dalgıçların yüksek basınç odasında saf oksijen soluyarak tedavi edilmesi",
-    "yasakli_kelimeler": [
-      "hacim basınç tersliği",
-      "akciğer patlaması kuralı",
-      "derinlik ve hacim",
-      "fizik kanunu",
-      "gaz sıkışması"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 45,
-    "kategori": "dalgiclik",
-    "kelime": "akciğer yırtılması",
-    "aciklama": "batık gemilerin içine girilerek yapılan keşif ve araştırma dalışı",
-    "yasakli_kelimeler": [
-      "pulmoner barotravma",
-      "nefes tutarak çıkış",
-      "hava embolisi",
-      "patlama",
-      "doku yırtığı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 46,
-    "kategori": "dalgiclik",
-    "kelime": "hava embolisi",
-    "aciklama": "sualtı mağaralarının içine girilerek kılavuz iple yapılan teknik dalış",
-    "yasakli_kelimeler": [
-      "arteriyel emboli",
-      "damar tıkanıklığı",
-      "gaz kabarcığı",
-      "beyin felci",
-      "ölümcül komplikasyon"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 47,
-    "kategori": "dalgiclik",
-    "kelime": "maske sıkışması",
-    "aciklama": "güneş battıktan sonra sualtı fenerleriyle yapılan gece dalışı",
-    "yasakli_kelimeler": [
-      "yüz vakumu",
-      "göz kanlanması",
-      "maske eşitlememe",
-      "negatif basınç",
-      "yüz travması"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 48,
-    "kategori": "dalgiclik",
-    "kelime": "şamandıra makarası",
-    "aciklama": "su akıntısına kendini bırakıp sürüklenerek yapılan keyifli dalış",
-    "yasakli_kelimeler": [
-      "spool",
-      "parmak makarası",
-      "ip bobini",
-      "sosis ipi",
-      "yüzey ipi"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 49,
+    "id": 20,
     "kategori": "dalgiclik",
     "kelime": "dalış feneri",
     "aciklama": "otuz metreden daha derine inilen ileri seviye aletli dalış",
@@ -686,7 +280,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 50,
+    "id": 21,
     "kategori": "dalgiclik",
     "kelime": "dalış bıçağı",
     "aciklama": "su altında balık avlamak için kullanılan lastikli veya havalı zıpkın",
@@ -700,7 +294,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 51,
+    "id": 22,
     "kategori": "dalgiclik",
     "kelime": "zıpkın",
     "aciklama": "zıpkın ucuna takılan ve balığı sabitleyen sivri uçlu ok",
@@ -714,7 +308,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 52,
+    "id": 23,
     "kategori": "dalgiclik",
     "kelime": "batık dalışı",
     "aciklama": "zıpkınla avlanırken vurulan balıkların asıldığı bele bağlanan tel",
@@ -728,7 +322,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 53,
+    "id": 24,
     "kategori": "dalgiclik",
     "kelime": "mağara dalışı",
     "aciklama": "dalgıcın ip veya ağlara dolandığında kurtulmasını sağlayan sualtı bıçağı",
@@ -742,7 +336,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 54,
+    "id": 25,
     "kategori": "dalgiclik",
     "kelime": "buz dalışı",
     "aciklama": "gece veya mağara dalışlarında yolu aydınlatan su geçirmez fener",
@@ -756,7 +350,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 55,
+    "id": 26,
     "kategori": "dalgiclik",
     "kelime": "gece dalışı",
     "aciklama": "su altında kaybolmamak için yön bulmaya yarayan pusula",
@@ -770,21 +364,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 56,
-    "kategori": "dalgiclik",
-    "kelime": "akıntı dalışı",
-    "aciklama": "mağara veya batık dalışlarında çıkış yolunu gösteren kılavuz makara",
-    "yasakli_kelimeler": [
-      "drift diving",
-      "akıntıyla sürüklenme",
-      "uçuş hissi",
-      "tekne takibi",
-      "hızlı su"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 57,
+    "id": 27,
     "kategori": "dalgiclik",
     "kelime": "derin dalış",
     "aciklama": "su altında yazı yazıp not almaya yarayan plastik levha",
@@ -798,119 +378,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 58,
-    "kategori": "dalgiclik",
-    "kelime": "irtifa dalışı",
-    "aciklama": "su altında ses çıkararak dalış eşinin dikkatini çeken metal alet",
-    "yasakli_kelimeler": [
-      "göl dalışı",
-      "dağ gölü",
-      "düşük yüzey basıncı",
-      "yükseklik tablosu",
-      "özel deko"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 59,
-    "kategori": "dalgiclik",
-    "kelime": "statik apnea",
-    "aciklama": "hava tüpüne takılıp tazyikli ses çıkararak dalış eşini çağıran düdük",
-    "yasakli_kelimeler": [
-      "hareketsiz nefes",
-      "yüzeyde bekleme",
-      "dakika hesabı",
-      "serbest dalış rekoru",
-      "nefes kontrolü"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 60,
-    "kategori": "dalgiclik",
-    "kelime": "dinamik apnea",
-    "aciklama": "serbest dalgıçların derinliğini ölçmek için kolda taşınan dijital saat",
-    "yasakli_kelimeler": [
-      "havuzda mesafe",
-      "yatay yüzme",
-      "mesafe rekoru",
-      "tek nefeste yüzme",
-      "paletli paletsiz"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 61,
-    "kategori": "dalgiclik",
-    "kelime": "sabit ağırlık",
-    "aciklama": "serbest dalışta suyun maskeye girmesini önleyen burun tıkacı",
-    "yasakli_kelimeler": [
-      "constant weight",
-      "cwt",
-      "serbest dalış yarışması",
-      "saf derinlik",
-      "ağırlık atmadan"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 62,
-    "kategori": "dalgiclik",
-    "kelime": "değişken ağırlık",
-    "aciklama": "serbest dalgıçların iki ayağına birden taktığı devasa tek palet",
-    "yasakli_kelimeler": [
-      "kızakla iniş",
-      "ağırlık bırakma",
-      "derinlik kızağı",
-      "hızlı iniş",
-      "kendi gücüyle çıkış"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 63,
-    "kategori": "dalgiclik",
-    "kelime": "limitsiz apnea",
-    "aciklama": "serbest dalgıçların derine hızla inmek için kullandığı uzun paletler",
-    "yasakli_kelimeler": [
-      "no limits",
-      "balonla çıkış",
-      "kızaklı rekor",
-      "aşırı derin serbest",
-      "en uç disiplin"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 64,
-    "kategori": "dalgiclik",
-    "kelime": "monopalet",
-    "aciklama": "dalış maskesinin buğulanmasını önleyen özel kimyasal sprey damla",
-    "yasakli_kelimeler": [
-      "tek palet",
-      "yunus vuruşu",
-      "karbon plaka",
-      "çift ayak tek palet",
-      "serbest dalış paleti"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 65,
-    "kategori": "dalgiclik",
-    "kelime": "karbon palet",
-    "aciklama": "maske içine su kaçtığında kafayı kaldırıp nefesle suyu tahliye etme",
-    "yasakli_kelimeler": [
-      "fiberglas",
-      "karbon fiber",
-      "esnek pala",
-      "enerji geri dönüşümü",
-      "uzun pala"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 66,
+    "id": 28,
     "kategori": "dalgiclik",
     "kelime": "sığ su bayılması",
     "aciklama": "regülatör ağızdan düştüğünde kolu arkaya savurarak regülatörü bulma hamlesi",
@@ -924,21 +392,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 67,
-    "kategori": "dalgiclik",
-    "kelime": "samba",
-    "aciklama": "regülatörün içindeki suyu önündeki tahliye butonuna basarak boşaltma",
-    "yasakli_kelimeler": [
-      "loss of motor control",
-      "lmc",
-      "titreme",
-      "seğirme",
-      "bayılma öncesi"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 68,
+    "id": 29,
     "kategori": "dalgiclik",
     "kelime": "kurtarma dalgıcı",
     "aciklama": "acil durumda ağırlık kemerini tek elle çözüp hızla atma",
@@ -952,21 +406,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 69,
-    "kategori": "dalgiclik",
-    "kelime": "dalış lideri",
-    "aciklama": "havası biten dalgıcın eşinin ahtapot yedek regülatöründen nefes alması",
-    "yasakli_kelimeler": [
-      "divemaster",
-      "grup rehberi",
-      "tur lideri",
-      "bröveli rehber",
-      "rehber dalgıç"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 70,
+    "id": 30,
     "kategori": "dalgiclik",
     "kelime": "dalış eğitmeni",
     "aciklama": "havası biten iki dalgıcın tek regülatörü sırayla paylaşarak yüzeye çıkması",
@@ -980,7 +420,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 71,
+    "id": 31,
     "kategori": "dalgiclik",
     "kelime": "bröve",
     "aciklama": "havası tamamen biten dalgıcın nefesini vererek acil yüzeye yükselmesi",
@@ -994,21 +434,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 72,
-    "kategori": "dalgiclik",
-    "kelime": "dalış günlüğü",
-    "aciklama": "serbest dalgıcın dalış öncesi akciğerlerini oksijenle doldurma nefes tekniği",
-    "yasakli_kelimeler": [
-      "logbook",
-      "kayıt defteri",
-      "dalış sayısı",
-      "kaşe imza",
-      "tecrübe kaydı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 73,
+    "id": 32,
     "kategori": "dalgiclik",
     "kelime": "sualtı el işaretleri",
     "aciklama": "serbest dalış öncesi aşırı hızlı nefes alıp vererek bayılma tehlikesi",
@@ -1022,7 +448,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 74,
+    "id": 33,
     "kategori": "dalgiclik",
     "kelime": "tamam işareti",
     "aciklama": "serbest dalışta yüzeye çıkarken oksijensizlikten aniden bayılma durumu",
@@ -1036,259 +462,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 75,
-    "kategori": "dalgiclik",
-    "kelime": "padi",
-    "aciklama": "serbest dalgıcın suya dik ve ses çıkarmadan dikey dalış hareketi",
-    "yasakli_kelimeler": [
-      "eğitim sistemi",
-      "uluslararası federasyon",
-      "dalış brövesi",
-      "açık su dalgıcı",
-      "kurs"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 76,
-    "kategori": "dalgiclik",
-    "kelime": "cmas",
-    "aciklama": "sualtında bacakları bükmeden kalçadan yapılan düzgün palet vuruşu",
-    "yasakli_kelimeler": [
-      "dünya konfederasyonu",
-      "yıldız sistemi",
-      "tssf",
-      "su altı birliği",
-      "resmi kurum"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 77,
-    "kategori": "dalgiclik",
-    "kelime": "ssi",
-    "aciklama": "dipteki kumları kaldırmamak için dizleri büküp yapılan kurbağalama vuruş",
-    "yasakli_kelimeler": [
-      "scuba schools",
-      "eğitim kurumu",
-      "bröve veren",
-      "uluslararası okul",
-      "rekreasyonel dalış"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 78,
-    "kategori": "dalgiclik",
-    "kelime": "açık devre",
-    "aciklama": "dar batık veya mağaralarda ayak bilekleriyle yapılan minik vuruş",
-    "yasakli_kelimeler": [
-      "kabarcıklı dalış",
-      "klasik scuba",
-      "dışarı verilen hava",
-      "tüplü regülatör",
-      "tek yönlü akış"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 79,
-    "kategori": "dalgiclik",
-    "kelime": "yarı kuru elbise",
-    "aciklama": "dalgıcın su altında yatay ve hidrodinamik düzlemde süzülme pozisyonu",
-    "yasakli_kelimeler": [
-      "semidry",
-      "sızdırmaz conta",
-      "soğuk su elbisesi",
-      "su tutucu",
-      "neopren tulum"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 80,
-    "kategori": "dalgiclik",
-    "kelime": "kuru banyo",
-    "aciklama": "dalgıcın su altında dakikada tükettiği litre cinsinden hava miktarı",
-    "yasakli_kelimeler": [
-      "kuru antrenman",
-      "karada nefes",
-      "akciğer esnetme",
-      "apnea çalışması",
-      "nefes antrenmanı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 81,
-    "kategori": "dalgiclik",
-    "kelime": "hiperventilasyon",
-    "aciklama": "dalgıcın bulunduğu derinlikte kalabileceği dekompresyonsuz maksimum güvenli süre",
-    "yasakli_kelimeler": [
-      "hızlı soluma",
-      "derin nefes alma",
-      "co2 düşürme",
-      "bayılma sebebi",
-      "yanlış nefes"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 82,
-    "kategori": "dalgiclik",
-    "kelime": "kılavuz ipi",
-    "aciklama": "solunan gaz karışımındaki oksijenin derinliğe bağlı etki basıncı",
-    "yasakli_kelimeler": [
-      "rehber ipi",
-      "çıkış hattı",
-      "kaybolmama ipi",
-      "mağara hattı",
-      "makara ipi"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 83,
-    "kategori": "dalgiclik",
-    "kelime": "acil yüzerlik",
-    "aciklama": "solunan gazdaki azotun derinliğe bağlı uyuşturucu etki basıncı",
-    "yasakli_kelimeler": [
-      "ağırlık atma",
-      "panik",
-      "yüzey",
-      "yelek",
-      "güvenlik"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 84,
-    "kategori": "dalgiclik",
-    "kelime": "tahliye valfi",
-    "aciklama": "dalış gazının solunabileceği maksimum güvenli derinlik sınırı",
-    "yasakli_kelimeler": [
-      "aşırı basınç valfi",
-      "dump valve",
-      "hava boşaltma",
-      "yelek kapağı",
-      "tahliye deliği"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 85,
-    "kategori": "dalgiclik",
-    "kelime": "ördek dalışı",
-    "aciklama": "teknik dalışta derinlik sarhoşluğunu önleyen eşdeğer narkotik derinlik hesabı",
-    "yasakli_kelimeler": [
-      "duck dive",
-      "dik batış",
-      "yüzeyden dalma",
-      "serbest dalış hamlesi",
-      "belden bükülme"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 86,
-    "kategori": "dalgiclik",
-    "kelime": "palet çırpma",
-    "aciklama": "dalgıcın su altında yaptığı tüm dalışları kaydettiği resmi defter",
-    "yasakli_kelimeler": [
-      "flutter kick",
-      "çırpış",
-      "ayak vurma",
-      "palet hareketi",
-      "yüzme stili"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 87,
-    "kategori": "dalgiclik",
-    "kelime": "yunus vuruşu",
-    "aciklama": "uluslararası geçerliliği olan profesyonel dalıcı eğitim ve yetki kartı",
-    "yasakli_kelimeler": [
-      "dolphin kick",
-      "dalgalanma",
-      "monopalet tekniği",
-      "yunus yüzüşü",
-      "vücut dalgası"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 88,
-    "kategori": "dalgiclik",
-    "kelime": "dip süresi",
-    "aciklama": "dünyanın en yaygın ve tanınmış rekreasyonel dalış eğitim organizasyonu",
-    "yasakli_kelimeler": [
-      "bottom time",
-      "sualtı süresi",
-      "dalınan süre",
-      "dakika",
-      "tablo süresi"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 89,
-    "kategori": "dalgiclik",
-    "kelime": "artık nitrojen",
-    "aciklama": "dünya sualtı aktiviteleri konfederasyonu ve resmi federasyon kurumu",
-    "yasakli_kelimeler": [
-      "kalan azot",
-      "artık gaz",
-      "dokudaki nitrojen",
-      "tekrarlı dalış faktörü",
-      "gaz bakiyesi"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 90,
-    "kategori": "dalgiclik",
-    "kelime": "tekrarlı dalış",
-    "aciklama": "uluslararası teknik dalgıçlar ve mağara dalışı eğitim birliği",
-    "yasakli_kelimeler": [
-      "ikinci dalış",
-      "yüzey molası sonrası",
-      "artık nitrojenli dalış",
-      "gün içi dalış",
-      "ardışık dalış"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 91,
-    "kategori": "dalgiclik",
-    "kelime": "yüzey aralığı",
-    "aciklama": "başlangıç seviyesindeki dalgıçlara verilen ilk açık deniz brövesi",
-    "yasakli_kelimeler": [
-      "yüzey molası",
-      "bekleme süresi",
-      "iki dalış arası",
-      "nitrojen atma molası",
-      "karada dinlenme"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 92,
-    "kategori": "dalgiclik",
-    "kelime": "uçuş yasağı",
-    "aciklama": "otuz metreye kadar dalış yapma yetkisi veren ileri dalgıç brövesi",
-    "yasakli_kelimeler": [
-      "uçağa binmeme",
-      "uçuş öncesi bekleme",
-      "alçak basınç riski",
-      "24 saat bekleme",
-      "uçak yasağı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 93,
+    "id": 34,
     "kategori": "dalgiclik",
     "kelime": "dalış tüpü",
     "aciklama": "sualtında acil durumları ve kazazedeleri kurtarma uzmanlığı brövesi",
@@ -1302,49 +476,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 94,
-    "kategori": "dalgiclik",
-    "kelime": "din vana",
-    "aciklama": "amatör dalgıç gruplarına sualtında liderlik ve rehberlik eden profesyonel",
-    "yasakli_kelimeler": [
-      "vidalı bağlantı",
-      "300 bar vana",
-      "içten vidalı",
-      "yoke karşıtı",
-      "güvenli vana"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 95,
-    "kategori": "dalgiclik",
-    "kelime": "yoke vana",
-    "aciklama": "dalış teorisi ve pratiği öğreterek bröve verme yetkili dalış hocası",
-    "yasakli_kelimeler": [
-      "int vana",
-      "mengene bağlantı",
-      "kelepçe tipi",
-      "klasik vana",
-      "dıştan sıkıştırmalı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 96,
-    "kategori": "dalgiclik",
-    "kelime": "kamçı",
-    "aciklama": "öğrencilere ve turistlere dalış eğitimi veren ticari dalış okulu",
-    "yasakli_kelimeler": [
-      "dalış hortumu",
-      "esnek boru",
-      "basınç hortumu",
-      "alçak basınç kamçısı",
-      "manometre hattı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 97,
+    "id": 35,
     "kategori": "dalgiclik",
     "kelime": "ağızlık",
     "aciklama": "dalgıçları dalış noktalarına götüren ve platformu olan özel tekne",
@@ -1358,35 +490,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 98,
-    "kategori": "dalgiclik",
-    "kelime": "buğu önleyici",
-    "aciklama": "teknenin kıç tarafında dalgıçların suya girdiği geniş basamak platformu",
-    "yasakli_kelimeler": [
-      "tükürük alternatifi",
-      "cam spreyi",
-      "görüş açıcı damla",
-      "buğu giderici",
-      "maske damlası"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 99,
-    "kategori": "dalgiclik",
-    "kelime": "yüzey işaret şamandırası",
-    "aciklama": "dalgıcın tekneden suya ayakları önde dev adımla atlama tekniği",
-    "yasakli_kelimeler": [
-      "smb",
-      "dalış sosisi",
-      "sinyal şamandırası",
-      "turuncu sosis",
-      "yüzey belirteci"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 100,
+    "id": 36,
     "kategori": "dalgiclik",
     "kelime": "dalış botu",
     "aciklama": "küçük botlardan geriye doğru sırtüstü yuvarlanarak suya girme tekniği",
@@ -1400,7 +504,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 101,
+    "id": 37,
     "kategori": "dalgiclik",
     "kelime": "dalış başlığı",
     "aciklama": "kıyıdan yürüyerek veya yüzerek başlatılan sahil dalışı türü",
@@ -1414,7 +518,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 102,
+    "id": 38,
     "kategori": "dalgiclik",
     "kelime": "dalış eldiveni",
     "aciklama": "tekneyle açığa gidilerek derin sularda yapılan dalış faaliyeti",
@@ -1428,63 +532,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 103,
-    "kategori": "dalgiclik",
-    "kelime": "dalış patikleri",
-    "aciklama": "denizin ortasında kıyıdan uzak resiflerde ve döküntülerde yapılan dalış",
-    "yasakli_kelimeler": [
-      "patik",
-      "açık topuk palet",
-      "fermuarlı",
-      "kayalık",
-      "neopren ayakkabı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 104,
-    "kategori": "dalgiclik",
-    "kelime": "maske kayışı",
-    "aciklama": "deniz tabanından dik yükselen sualtı zirve dağlarında yapılan dalış",
-    "yasakli_kelimeler": [
-      "silikon bant",
-      "baş arkası",
-      "ayarlı kayış",
-      "gözlük bandı",
-      "saç çekmeyen"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 105,
-    "kategori": "dalgiclik",
-    "kelime": "şnorkel klipsi",
-    "aciklama": "deniz dibindeki dik uçurum duvarı boyunca yapılan duvar dalışı",
-    "yasakli_kelimeler": [
-      "bağlantı parçası",
-      "maskeye sabitleme",
-      "plastik toka",
-      "klips",
-      "tutamaç"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 106,
-    "kategori": "dalgiclik",
-    "kelime": "palet kayışı",
-    "aciklama": "okyanus mercanlarının ve canlılarının oluşturduğu renkli sualtı resifi",
-    "yasakli_kelimeler": [
-      "topuk kordonu",
-      "çelik yay",
-      "lastik bant",
-      "palet tutucu",
-      "toka"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 107,
+    "id": 39,
     "kategori": "dalgiclik",
     "kelime": "kurşun ağırlık",
     "aciklama": "karanlık sualtı oyuklarının ve tünellerinin içine girilen mağara dalışı",
@@ -1498,175 +546,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 108,
-    "kategori": "dalgiclik",
-    "kelime": "ağırlık cebi",
-    "aciklama": "iki kaya duvarı arasındaki dar yarıklardan geçilerek yapılan kanyon dalışı",
-    "yasakli_kelimeler": [
-      "entegre ağırlık",
-      "hızlı atma",
-      "yelek cebi",
-      "mandal",
-      "bırakma sistemi"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 109,
-    "kategori": "dalgiclik",
-    "kelime": "sırtlık",
-    "aciklama": "deniz dibinde batmış gemi, uçak veya tank batıklarına yapılan dalış",
-    "yasakli_kelimeler": [
-      "backplate",
-      "çelik plaka",
-      "teknik donanım",
-      "tüp taşıyıcı",
-      "kanat sırtlığı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 110,
-    "kategori": "dalgiclik",
-    "kelime": "tüp vanası",
-    "aciklama": "deniz canlılarına yuva olması için bilerek batırılan yapay resif gemisi",
-    "yasakli_kelimeler": [
-      "hava musluğu",
-      "açma kapama",
-      "metal vana",
-      "tüp başı",
-      "regülatör bağlantısı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 111,
-    "kategori": "dalgiclik",
-    "kelime": "tüp kılıfı",
-    "aciklama": "deniz dibindeki antik amfora ve batıkları inceleyen bilimsel dalış",
-    "yasakli_kelimeler": [
-      "koruyucu file",
-      "plastik ağ",
-      "çizilme önleyici",
-      "tüp zırhı",
-      "örgü"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 112,
-    "kategori": "dalgiclik",
-    "kelime": "tüp basıncı",
-    "aciklama": "su altında özel su geçirmez kılıflı kameralarla fotoğraf çekme sanatı",
-    "yasakli_kelimeler": [
-      "iki yüz bar",
-      "manometre değeri",
-      "hava miktarı",
-      "psi",
-      "sıkıştırılmış hava"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 113,
-    "kategori": "dalgiclik",
-    "kelime": "ahtapot tutucu",
-    "aciklama": "kamera flaşını nesneye bağlayan ve geniş açılı aydınlatan kollar",
-    "yasakli_kelimeler": [
-      "yedek hava klipsi",
-      "manyetik tutucu",
-      "oktopus klipsi",
-      "sabitleyici",
-      "yeleğe asma"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 114,
-    "kategori": "dalgiclik",
-    "kelime": "hortum koruyucu",
-    "aciklama": "minik deniz böceklerini ve kabukluları devasa gösteren makro lens",
-    "yasakli_kelimeler": [
-      "kırılma önleyici",
-      "bükülme koruması",
-      "plastik spiral",
-      "hortum başı",
-      "koruma"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 115,
-    "kategori": "dalgiclik",
-    "kelime": "yazı tahtası",
-    "aciklama": "batık ve mercan resiflerini tek kareye sığdıran geniş açılı lens",
-    "yasakli_kelimeler": [
-      "slate",
-      "plastik tablet",
-      "grafit kalem",
-      "sualtı iletişimi",
-      "yazma"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 116,
-    "kategori": "dalgiclik",
-    "kelime": "dalış zili",
-    "aciklama": "tüpe vurularak su altında dikkat çekici ses çıkaran metal boru",
-    "yasakli_kelimeler": [
-      "shaker",
-      "ses çıkarma",
-      "tüpe vurma",
-      "dikkat çekici",
-      "çıngırak"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 117,
-    "kategori": "dalgiclik",
-    "kelime": "çıngırak",
-    "aciklama": "tüpe takılan ve bırakıldığında çarparak ses çıkaran metal bilye",
-    "yasakli_kelimeler": [
-      "tank banger",
-      "metal bilye",
-      "lastikli top",
-      "sesli uyarı",
-      "tüp çalma"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 118,
-    "kategori": "dalgiclik",
-    "kelime": "sesli ikaz",
-    "aciklama": "yüzeyde teknenin dikkatini çekmek için çalınan yüksek sesli düdük",
-    "yasakli_kelimeler": [
-      "dive alert",
-      "hava düdüğü",
-      "yüzey ikazı",
-      "inflatör sireni",
-      "korna"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 119,
-    "kategori": "dalgiclik",
-    "kelime": "paslanmaz toka",
-    "aciklama": "ağırlık kemerinde kullanılan tuzlu suya dayanıklı paslanmaz çelik toka",
-    "yasakli_kelimeler": [
-      "çelik toka",
-      "kemer tokası",
-      "korozyonsuz",
-      "çabuk açılır",
-      "tuzlu su dayanımı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 120,
+    "id": 40,
     "kategori": "dalgiclik",
     "kelime": "dalış çantası",
     "aciklama": "ağır dalış ekipmanlarını taşımak için gözenekli fileli büyük çanta",
@@ -1680,35 +560,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 121,
-    "kategori": "dalgiclik",
-    "kelime": "mutlak basınç",
-    "aciklama": "hidrostatik basınç ile atmosfer basıncının toplamından oluşan çevre basıncı",
-    "yasakli_kelimeler": [
-      "toplam basınç",
-      "bar",
-      "ata",
-      "atmosfer artı su",
-      "derinlik basıncı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 122,
-    "kategori": "dalgiclik",
-    "kelime": "hidrostatik basınç",
-    "aciklama": "derinlere inildikçe su sütununun ağırlığıyla her on metrede artan basınç",
-    "yasakli_kelimeler": [
-      "su ağırlığı",
-      "on metrede bir bar",
-      "derinlik etkisi",
-      "sıvı basıncı",
-      "sütun"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 123,
+    "id": 41,
     "kategori": "dalgiclik",
     "kelime": "atmosfer basıncı",
     "aciklama": "deniz seviyesinde hava kütlesinin yeryüzüne uyguladığı standart bir barlık basınç",
@@ -1722,91 +574,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 124,
-    "kategori": "dalgiclik",
-    "kelime": "akciğer hacmi",
-    "aciklama": "dalgıcın nefes aldığında akciğerlerinde tutabildiği toplam gaz kapasitesi hacmi",
-    "yasakli_kelimeler": [
-      "kapasite",
-      "ciğer genişliği",
-      "litre",
-      "derinlikte küçülme",
-      "hava tutma"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 125,
-    "kategori": "dalgiclik",
-    "kelime": "artık hacim",
-    "aciklama": "maksimum nefes vermeden sonra akciğerlerde kalan rezerv gaz miktarı",
-    "yasakli_kelimeler": [
-      "rezidüel hacim",
-      "sönme önleme",
-      "kalan hava",
-      "akciğer tabanı",
-      "nefes verme sonrası"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 126,
-    "kategori": "dalgiclik",
-    "kelime": "solunum refleksi",
-    "aciklama": "kanda biriken karbondioksitin beyindeki solunum merkezini uyarma dürtüsü",
-    "yasakli_kelimeler": [
-      "nefes alma dürtüsü",
-      "karbondioksit uyarısı",
-      "diyafram kasılması",
-      "beyin uyarısı",
-      "apnea sonu"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 127,
-    "kategori": "dalgiclik",
-    "kelime": "diyafram kasılması",
-    "aciklama": "serbest dalışta nefes tutma süresi uzadığında oluşan istemsiz diyafram spazmı",
-    "yasakli_kelimeler": [
-      "kontraksiyon",
-      "istemsiz kasılma",
-      "nefes dürtüsü",
-      "spazm",
-      "karın sarsıntısı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 128,
-    "kategori": "dalgiclik",
-    "kelime": "karbondioksit birikimi",
-    "aciklama": "yetersiz soluma nedeniyle kanda yükselen ve baş ağrısı yapan gaz",
-    "yasakli_kelimeler": [
-      "hiperkapni",
-      "kirli gaz",
-      "baş ağrısı",
-      "hızlı nefes",
-      "zehirlenme"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 129,
-    "kategori": "dalgiclik",
-    "kelime": "hipoksi",
-    "aciklama": "dokulara ve beyne ulaşan oksijenin kritik eşiğin altına düşmesi durumu",
-    "yasakli_kelimeler": [
-      "oksijen yetersizliği",
-      "bilinç kaybı",
-      "kandaki oksijen",
-      "boğulma riski",
-      "anoksi"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 130,
+    "id": 42,
     "kategori": "dalgiclik",
     "kelime": "bayılma",
     "aciklama": "beyne giden oksijenin tükenmesiyle dalgıcın aniden bilincini kaybetmesi hali",
@@ -1820,49 +588,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 131,
-    "kategori": "dalgiclik",
-    "kelime": "oksijen doygunluğu",
-    "aciklama": "serbest dalış öncesi akciğerleri fazla hava ile esnetme tekniği",
-    "yasakli_kelimeler": [
-      "saturasyon",
-      "hemoglobin",
-      "yüzde",
-      "kandaki gaz",
-      "nabız oksimetresi"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 132,
-    "kategori": "dalgiclik",
-    "kelime": "nabız yavaşlaması",
-    "aciklama": "akciğerlerde hava kalmadığında boğazdaki havayı kullanarak kulak eşitleme yöntemi",
-    "yasakli_kelimeler": [
-      "bradikardi",
-      "kalp yavaşlaması",
-      "oksijen tasarrufu",
-      "soğuk su teması",
-      "dalış refleksi"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 133,
-    "kategori": "dalgiclik",
-    "kelime": "dalış refleksi",
-    "aciklama": "serbest dalışta derinlere inildikçe göğüs kafesinin basınca uyum sağlaması",
-    "yasakli_kelimeler": [
-      "memeli refleksi",
-      "bradikardi",
-      "damar daralması",
-      "oksijen koruma",
-      "suya giriş tepkisi"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 134,
+    "id": 43,
     "kategori": "dalgiclik",
     "kelime": "panik atağı",
     "aciklama": "soğuk suyla temas eden yüzde kalp atışlarını yavaşlatan refleks",
@@ -1876,35 +602,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 135,
-    "kategori": "dalgiclik",
-    "kelime": "tükenmişlik",
-    "aciklama": "dalgıcın dalış eşini göz hapsinde tutarak güvenliğini sağlama kuralı",
-    "yasakli_kelimeler": [
-      "aşırı yorgunluk",
-      "bitkinlik",
-      "efor",
-      "kas yorulması",
-      "nefes nefese"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 136,
-    "kategori": "dalgiclik",
-    "kelime": "susuz kalma",
-    "aciklama": "dalgıçların su altında tekne pervanelerinden uzak durma güvenlik tedbiri",
-    "yasakli_kelimeler": [
-      "dehidrasyon",
-      "kuru hava",
-      "vurgun riski",
-      "sıvı kaybı",
-      "idrar artışı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 137,
+    "id": 44,
     "kategori": "dalgiclik",
     "kelime": "kramp",
     "aciklama": "deniz dibindeki dik uçurum duvarı boyunca yapılan derin tırmanış dalışı",
@@ -1918,7 +616,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 138,
+    "id": 45,
     "kategori": "dalgiclik",
     "kelime": "deniz tutması",
     "aciklama": "okyanus ortasındaki mercan resiflerinde renkli canlıları inceleme dalışı",
@@ -1932,7 +630,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 139,
+    "id": 46,
     "kategori": "dalgiclik",
     "kelime": "hipotermi riski",
     "aciklama": "tarihi batıkların içine girilerek kılavuz iple yapılan keşif dalışı",
@@ -1946,7 +644,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 140,
+    "id": 47,
     "kategori": "dalgiclik",
     "kelime": "acil çıkış",
     "aciklama": "su altındaki dar kanyon ve mağara tünellerinden geçme dalışı",
@@ -1960,7 +658,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 141,
+    "id": 48,
     "kategori": "dalgiclik",
     "kelime": "akıntı",
     "aciklama": "dalgıcın vücut ısısının aşırı düşerek donma tehlikesi geçirmesi",
@@ -1974,7 +672,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 142,
+    "id": 49,
     "kategori": "dalgiclik",
     "kelime": "dip akıntısı",
     "aciklama": "sıcak havalarda kalın dalış elbisesiyle güneşte beklerken aşırı ısınma",
@@ -1988,7 +686,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 143,
+    "id": 50,
     "kategori": "dalgiclik",
     "kelime": "gelgit",
     "aciklama": "su altında panikleyerek kontrolsüz ve hızlı nefes alıp verme hali",
@@ -2002,7 +700,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 144,
+    "id": 51,
     "kategori": "dalgiclik",
     "kelime": "dalga",
     "aciklama": "dalgıcın su altında regülatörden veya maskeden su yutarak boğulması",
@@ -2016,35 +714,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 145,
-    "kategori": "dalgiclik",
-    "kelime": "termoklin",
-    "aciklama": "dalgıcın dipte veya yüzeyde ağlara, iplere veya misinalara dolanması",
-    "yasakli_kelimeler": [
-      "sıcaklık katmanı",
-      "ani soğuma",
-      "bulanık çizgi",
-      "katman sınırı",
-      "ısı farkı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 146,
-    "kategori": "dalgiclik",
-    "kelime": "haloklin",
-    "aciklama": "dalış sırasında deniz kestaneleri, vatoz veya aslan balığı sokması",
-    "yasakli_kelimeler": [
-      "tuzluluk sınırı",
-      "tatlı su deniz",
-      "bulanıklık",
-      "yağ tabakası gibi",
-      "katman"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 147,
+    "id": 52,
     "kategori": "dalgiclik",
     "kelime": "sualtı mağarası",
     "aciklama": "denizanası dokungaçlarının tene değmesiyle oluşan yakıcı ve alerjik reaksiyon",
@@ -2058,7 +728,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 148,
+    "id": 53,
     "kategori": "dalgiclik",
     "kelime": "mercan resifi",
     "aciklama": "mercan kayalıklarına sürtünme sonucu deride oluşan kesik ve enfeksiyonlar",
@@ -2072,77 +742,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 149,
-    "kategori": "dalgiclik",
-    "kelime": "sualtı kemeri",
-    "aciklama": "akıntıya kapılan dalgıcın dalış grubundan ve tekneden kopup kaybolması",
-    "yasakli_kelimeler": [
-      "taş köprü",
-      "doğal tünel",
-      "kaya kapısı",
-      "içinden geçilen",
-      "kemeraltı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 150,
-    "kategori": "dalgiclik",
-    "kelime": "kanyon dalışı",
-    "aciklama": "fırtınada dalış teknesinin sallanmasıyla oluşan mide bulantısı ve baş dönmesi",
-    "yasakli_kelimeler": [
-      "dar geçit",
-      "dik duvar arası",
-      "yarık",
-      "derin kanyon",
-      "yüzüş"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 151,
-    "kategori": "dalgiclik",
-    "kelime": "döküntü kayalık",
-    "aciklama": "serbest dalışta nefesi su yüzeyinde en uzun süre tutma disiplini",
-    "yasakli_kelimeler": [
-      "kaya yığını",
-      "falez altı",
-      "taşlık zemin",
-      "kovuk",
-      "balık yuvası"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 152,
-    "kategori": "dalgiclik",
-    "kelime": "duvar dalışı",
-    "aciklama": "serbest dalgıcın havuzda paletle en uzun mesafeyi yüzme disiplini",
-    "yasakli_kelimeler": [
-      "dikey uçurum",
-      "dipsiz",
-      "derin yamaç",
-      "drop off",
-      "süzülme"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 153,
-    "kategori": "dalgiclik",
-    "kelime": "kumluk zemin",
-    "aciklama": "serbest dalgıcın havuzda paletsiz sadece kurbağalama yüzme yarışı",
-    "yasakli_kelimeler": [
-      "ince kum",
-      "sediment",
-      "görüş bozma",
-      "düzlük",
-      "dip"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 154,
+    "id": 54,
     "kategori": "dalgiclik",
     "kelime": "deniz tabanı",
     "aciklama": "kılavuz ip boyunca palet vurarak en derine inip çıkma disiplini",
@@ -2156,7 +756,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 155,
+    "id": 55,
     "kategori": "dalgiclik",
     "kelime": "görüş mesafesi",
     "aciklama": "serbest dalgıcın hiçbir palet kullanmadan sadece kas gücüyle derinleşmesi",
@@ -2170,35 +770,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 156,
-    "kategori": "dalgiclik",
-    "kelime": "bulanıklık",
-    "aciklama": "ipleri elleriyle çekerek palet vurmadan derinliğe inip çıkma disiplini",
-    "yasakli_kelimeler": [
-      "görüş kaybı",
-      "çamurlu su",
-      "plankton",
-      "sisli su",
-      "askıda partikül"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 157,
-    "kategori": "dalgiclik",
-    "kelime": "medüz",
-    "aciklama": "kolları ve dokungaçlarıyla denizde yüzen şeffaf zehirli denizanası",
-    "yasakli_kelimeler": [
-      "denizanası",
-      "yakıcı dokunaç",
-      "şeffaf",
-      "zehirli temas",
-      "kaşıntı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 158,
+    "id": 56,
     "kategori": "dalgiclik",
     "kelime": "denizkestanesi",
     "aciklama": "serbest dalgıcın suyun altında nefessiz kaldığı toplam dip süresi",
@@ -2212,7 +784,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 159,
+    "id": 57,
     "kategori": "dalgiclik",
     "kelime": "vatoz",
     "aciklama": "serbest dalgıcın akciğerlerinin dipteki yüksek basınç altında büzüşmesi",
@@ -2226,7 +798,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 160,
+    "id": 58,
     "kategori": "dalgiclik",
     "kelime": "müren",
     "aciklama": "derin serbest dalışta akciğer kılcal damarlarının çatlayarak kanaması",
@@ -2240,147 +812,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 161,
-    "kategori": "dalgiclik",
-    "kelime": "kıyı dalışı",
-    "aciklama": "dalış maskesi içindeki havanın basınçla büzüşüp yüze oturması sıkışması",
-    "yasakli_kelimeler": [
-      "sahilden giriş",
-      "teknesiz",
-      "kumsaldan",
-      "yürüyerek",
-      "kıyı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 162,
-    "kategori": "dalgiclik",
-    "kelime": "tekne dalışı",
-    "aciklama": "sinüs boşluklarındaki tıkalı hava kanallarının basınçla kanaması hasarı",
-    "yasakli_kelimeler": [
-      "açık deniz",
-      "tekne turu",
-      "platform",
-      "açık su",
-      "kaptan"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 163,
-    "kategori": "dalgiclik",
-    "kelime": "akıntıda sürüklenme",
-    "aciklama": "kulak zarının basınca dayanamayarak delinmesi ve şiddetli baş dönmesi",
-    "yasakli_kelimeler": [
-      "drift",
-      "paletsiz süzülme",
-      "akıntı yönü",
-      "uçuş hissi",
-      "tekne takibi"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 164,
-    "kategori": "dalgiclik",
-    "kelime": "gece feneri",
-    "aciklama": "çürük diş dolgusunun altındaki havanın genleşerek şiddetli ağrı yapması",
-    "yasakli_kelimeler": [
-      "ışık kaynağı",
-      "karanlık deniz",
-      "su geçirmez",
-      "fener",
-      "gece dalışı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 165,
-    "kategori": "dalgiclik",
-    "kelime": "kanyon geçişi",
-    "aciklama": "yüzeye hızla çıkarken nefes tutulması sonucu akciğerin yırtılması",
-    "yasakli_kelimeler": [
-      "dar koridor",
-      "tek sıra",
-      "kaya arası",
-      "süzülüş",
-      "nötr denge"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 166,
-    "kategori": "dalgiclik",
-    "kelime": "tünel dalışı",
-    "aciklama": "yırtılan akciğerden çıkan havanın göğüs boşluğuna dolup akciğeri söndürmesi",
-    "yasakli_kelimeler": [
-      "dehliz",
-      "iki ucu açık",
-      "içinden geçme",
-      "kapalı alan",
-      "geçit"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 167,
-    "kategori": "dalgiclik",
-    "kelime": "batık keşfi",
-    "aciklama": "akciğerden kaçan havanın boyun derisi altına geçerek çıtırdaması",
-    "yasakli_kelimeler": [
-      "gemi batığı",
-      "enkaz",
-      "tarihi batık",
-      "uçak enkazı",
-      "paslı gövde"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 168,
-    "kategori": "dalgiclik",
-    "kelime": "teknik dalış",
-    "aciklama": "yırtılan akciğerden kana karışan havanın beyin damarlarını tıkaması tablosu",
-    "yasakli_kelimeler": [
-      "dekompresyonlu",
-      "derin limit",
-      "karışım gaz",
-      "çift tüp",
-      "ileri seviye"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 169,
-    "kategori": "dalgiclik",
-    "kelime": "tekil gaz",
-    "aciklama": "dalış sonrasında kanda oluşan mikro gaz kabarcıklarının tespiti",
-    "yasakli_kelimeler": [
-      "standart hava",
-      "karışımsız",
-      "tek tüp",
-      "yüzde yirmi bir",
-      "normal hava"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 170,
-    "kategori": "dalgiclik",
-    "kelime": "gaz değişimi",
-    "aciklama": "dalış sonrası uçakla seyahat etmeden önce beklenmesi gereken zorunlu süre",
-    "yasakli_kelimeler": [
-      "oksijene geçiş",
-      "regülatör değiştirme",
-      "hızlı dekobir",
-      "nitrox değişimi",
-      "teknik aşama"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 171,
+    "id": 59,
     "kategori": "dalgiclik",
     "kelime": "derin nefes",
     "aciklama": "aynı gün içinde belirli yüzey molası verilerek yapılan ikinci dalış",
@@ -2394,7 +826,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 172,
+    "id": 60,
     "kategori": "dalgiclik",
     "kelime": "nefes tutma",
     "aciklama": "iki dalış arasında vücuttaki fazla nitrojenin atılması için yüzeyde bekleme",
@@ -2408,119 +840,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 173,
-    "kategori": "dalgiclik",
-    "kelime": "ciğer boşaltma",
-    "aciklama": "birden fazla gün boyunca aralıksız sürdürülen dalış serisi periyodu",
-    "yasakli_kelimeler": [
-      "nefes verme",
-      "karbondioksit atma",
-      "tahliye",
-      "ekshalasyon",
-      "üfleme"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 174,
-    "kategori": "dalgiclik",
-    "kelime": "maske tahliyesi",
-    "aciklama": "dalgıcın dokularında önceki dalıştan kalan çözünmüş nitrojen gazı miktarı",
-    "yasakli_kelimeler": [
-      "su boşaltma",
-      "burundan üfleme",
-      "üst çerçeve baskısı",
-      "temizleme",
-      "temel beceri"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 175,
-    "kategori": "dalgiclik",
-    "kelime": "regülatör bulma",
-    "aciklama": "ağızdan düşen regülatörü kolu savurarak yeniden bulup ağıza takma",
-    "yasakli_kelimeler": [
-      "kol süpürme",
-      "ağızdan çıkan",
-      "ikinci kademe",
-      "tekrar takma",
-      "güvenlik becerisi"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 176,
-    "kategori": "dalgiclik",
-    "kelime": "hava paylaşımı",
-    "aciklama": "dalgıcın dekompresyonsuz kalabileceği sürenin tükenmesine yakın uyarı alarmı",
-    "yasakli_kelimeler": [
-      "oktopus paylaşımı",
-      "havasız eş",
-      "birlikte çıkış",
-      "yedek hava",
-      "acil durum yardımı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 177,
-    "kategori": "dalgiclik",
-    "kelime": "kontrollü yükseliş",
-    "aciklama": "dalış bilgisayarının dakikada dokuz metre çıkış hızı aşımı uyarısı",
-    "yasakli_kelimeler": [
-      "yavaş çıkış",
-      "kabarcık hızı",
-      "hızlı çıkmama",
-      "güvenli yükselme",
-      "akciğer koruma"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 178,
-    "kategori": "dalgiclik",
-    "kelime": "serbest çıkış",
-    "aciklama": "acil durumda denge yeleğinin havasını boşaltan çekmeli hızlı valf",
-    "yasakli_kelimeler": [
-      "ses çıkarma",
-      "a sesi çıkarma",
-      "acil yükseliş",
-      "akciğer yırtılmaması",
-      "paniksiz çıkış"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 179,
-    "kategori": "dalgiclik",
-    "kelime": "devrilerek giriş",
-    "aciklama": "denge yeleğinde aşırı basınç oluştuğunda kendiliğinden açılan tahliye sübabı",
-    "yasakli_kelimeler": [
-      "geriye devrilme",
-      "bot kenarı",
-      "zodyak",
-      "suya giriş",
-      "sırtüstü düşüş"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 180,
-    "kategori": "dalgiclik",
-    "kelime": "adımlayarak giriş",
-    "aciklama": "dalış tüpünün gövdesine sarılarak tüpü yeleğe bağlayan kemer bandı",
-    "yasakli_kelimeler": [
-      "büyük adım",
-      "iskeleye atlama",
-      "maske tutarak",
-      "dev adım",
-      "suya giriş"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 181,
+    "id": 61,
     "kategori": "dalgiclik",
     "kelime": "sualtı pusulası",
     "aciklama": "denge yeleğinin omuz, göğüs ve bel tokalarının kilitlenip sıkılması",
@@ -2534,91 +854,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 182,
-    "kategori": "dalgiclik",
-    "kelime": "kerteriz alma",
-    "aciklama": "tüpü ve regülatörü sırtta taşımaya yarayan hava cepli dalgıç yeleği",
-    "yasakli_kelimeler": [
-      "açı sabitleme",
-      "hedef yönü",
-      "pusula takibi",
-      "rota tutma",
-      "istikamet"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 183,
-    "kategori": "dalgiclik",
-    "kelime": "doğal navigasyon",
-    "aciklama": "teknik dalgıçların kullandığı sırt plakası ve simit hava kesesi kanat",
-    "yasakli_kelimeler": [
-      "pusulasız",
-      "kum dalgacıkları",
-      "güneş yönü",
-      "kaya referansı",
-      "doğal işaret"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 184,
-    "kategori": "dalgiclik",
-    "kelime": "rota takibi",
-    "aciklama": "dalış tüpünü ve kanadı sırta sabitleyen alüminyum veya çelik plaka",
-    "yasakli_kelimeler": [
-      "planlı yol",
-      "lideri izleme",
-      "kontur takibi",
-      "harita",
-      "rehber izi"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 185,
-    "kategori": "dalgiclik",
-    "kelime": "dalış planlaması",
-    "aciklama": "dalgıcın bacak arasından geçerek yeleğin yukarı kaymasını önleyen alt kayış",
-    "yasakli_kelimeler": [
-      "planlama",
-      "maksimum derinlik",
-      "dip zamanı",
-      "hava hesabı",
-      "dalış öncesi"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 186,
-    "kategori": "dalgiclik",
-    "kelime": "dalış brifingi",
-    "aciklama": "ağırlık kurşunlarının içine konulduğu denge yeleğinin cepleri",
-    "yasakli_kelimeler": [
-      "bilgilendirme",
-      "teknede toplantı",
-      "akıntı uyarısı",
-      "dalış haritası",
-      "lider anlatımı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 187,
-    "kategori": "dalgiclik",
-    "kelime": "güvenlik dalgıcı",
-    "aciklama": "ağırlık kemerine dizilen standart bir veya iki kiloluk dökme kurşun",
-    "yasakli_kelimeler": [
-      "safety diver",
-      "karşılama dalgıcı",
-      "cankurtaran",
-      "bayılma nöbeti",
-      "derinlik eskortu"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 188,
+    "id": 62,
     "kategori": "dalgiclik",
     "kelime": "tekne kaptanı",
     "aciklama": "dalgıcın vücuduna batmayan kumaş torba içindeki yumuşak saçma kurşun",
@@ -2632,49 +868,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 189,
-    "kategori": "dalgiclik",
-    "kelime": "merdiven çıkışı",
-    "aciklama": "tüpün boynuna takılarak su altında yüzerliği mükemmelleştiren trim ağırlığı",
-    "yasakli_kelimeler": [
-      "tekne merdiveni",
-      "palet çıkarma",
-      "tekneye biniş",
-      "kıç taraf",
-      "sudanyükselme"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 190,
-    "kategori": "dalgiclik",
-    "kelime": "dalış platformu",
-    "aciklama": "bacakların batmasını önlemek için ayak bileklerine takılan ağırlık bantları",
-    "yasakli_kelimeler": [
-      "kıç platform",
-      "suya sıfır",
-      "atlama yeri",
-      "tekne arkası",
-      "ahşap ızgara"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 191,
-    "kategori": "dalgiclik",
-    "kelime": "oksijen seti",
-    "aciklama": "açık topuklu paletlerin içine giyilen neopren tabanlı dalış patiği",
-    "yasakli_kelimeler": [
-      "saf oksijen",
-      "vurgun ilkyardımı",
-      "dan çantası",
-      "solutma maskesi",
-      "acil tüp"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 192,
+    "id": 63,
     "kategori": "dalgiclik",
     "kelime": "ilkyardım kiti",
     "aciklama": "kapalı paletlerin içine giyilen ince ve esnek neopren çorap",
@@ -2688,7 +882,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 193,
+    "id": 64,
     "kategori": "dalgiclik",
     "kelime": "dalış bayrağı",
     "aciklama": "soğuk sularda başı ve boynu sıcak tutan neopren başlık",
@@ -2702,21 +896,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 194,
-    "kategori": "dalgiclik",
-    "kelime": "alfa bayrağı",
-    "aciklama": "elleri soğuktan, kayalardan ve deniz kestanelerinden koruyan neopren eldiven",
-    "yasakli_kelimeler": [
-      "mavi beyaz",
-      "uluslararası kod",
-      "çatallı flama",
-      "manevra kısıtlı",
-      "dalgıç indirildi"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 195,
+    "id": 65,
     "kategori": "dalgiclik",
     "kelime": "sualtı kamerası",
     "aciklama": "tropikal sıcak sularda güneşten ve sürtünmelerden koruyan likra tişört",
@@ -2730,35 +910,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 196,
-    "kategori": "dalgiclik",
-    "kelime": "sualtı flaşı",
-    "aciklama": "tüm dalış donanımını içine alan dayanıklı ve tekerlekli seyahat çantası",
-    "yasakli_kelimeler": [
-      "strobe",
-      "renk geri getirme",
-      "ışık patlaması",
-      "fotoğraf flaşı",
-      "kırmızı renk"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 197,
-    "kategori": "dalgiclik",
-    "kelime": "dome port",
-    "aciklama": "ıslak dalış elbiselerini ve paletleri taşımak için delikli file çanta",
-    "yasakli_kelimeler": [
-      "yarım küre",
-      "geniş açı",
-      "kamera lensi koruma",
-      "cam port",
-      "optik kubbe"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 198,
+    "id": 66,
     "kategori": "dalgiclik",
     "kelime": "batık haritası",
     "aciklama": "regülatörü ve dalış bilgisayarını darbelere karşı koruyan dolgulu özel çanta",
@@ -2772,7 +924,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 199,
+    "id": 67,
     "kategori": "dalgiclik",
     "kelime": "dip temizliği",
     "aciklama": "regülatör hortumlarını ve o-ring contalarını yağlamak için silikon gres",
@@ -2782,20 +934,6 @@
       "çöp toplama",
       "çevre etkinliği",
       "deniz koruma"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 200,
-    "kategori": "dalgiclik",
-    "kelime": "deniz koruma",
-    "aciklama": "regülatör bağlantılarında hava sızdırmazlığı sağlayan kauçuk conta halkası",
-    "yasakli_kelimeler": [
-      "biyoçeşitlilik",
-      "koruma alanı",
-      "balık avı yasağı",
-      "mercan koruma",
-      "ekoloji"
     ],
     "zorluk": "kolay"
   },
@@ -2811,7 +949,7 @@
       "hava"
     ],
     "zorluk": "kolay",
-    "id": 201
+    "id": 68
   },
   {
     "kategori": "dalgiclik",
@@ -2825,21 +963,7 @@
       "çırpmak"
     ],
     "zorluk": "kolay",
-    "id": 202
-  },
-  {
-    "kategori": "dalgiclik",
-    "kelime": "maske takmak",
-    "aciklama": "su altını net görebilmek için silikon dalış maskesi takmak",
-    "yasakli_kelimeler": [
-      "cam",
-      "gözlük",
-      "su kaçması",
-      "burun",
-      "görüş"
-    ],
-    "zorluk": "kolay",
-    "id": 203
+    "id": 69
   },
   {
     "kategori": "dalgiclik",
@@ -2853,21 +977,7 @@
       "sığ su"
     ],
     "zorluk": "kolay",
-    "id": 204
-  },
-  {
-    "kategori": "dalgiclik",
-    "kelime": "ağırlık kemeri takmak",
-    "aciklama": "suyun kaldırma kuvvetini yenip batabilmek için kurşun ağırlık takmak",
-    "yasakli_kelimeler": [
-      "kurşun",
-      "bel",
-      "batmak",
-      "kaldırma kuvveti",
-      "kemer"
-    ],
-    "zorluk": "kolay",
-    "id": 205
+    "id": 70
   },
   {
     "kategori": "dalgiclik",
@@ -2881,21 +991,7 @@
       "derinlik"
     ],
     "zorluk": "kolay",
-    "id": 206
-  },
-  {
-    "kategori": "dalgiclik",
-    "kelime": "sualtı feneri taşımak",
-    "aciklama": "karanlık derinlikleri aydınlatmak için sualtı fenerini yanında taşımak",
-    "yasakli_kelimeler": [
-      "yukarı",
-      "su üstü",
-      "tekne",
-      "çıkış",
-      "hava"
-    ],
-    "zorluk": "kolay",
-    "id": 207
+    "id": 71
   },
   {
     "kategori": "dalgiclik",
@@ -2909,105 +1005,7 @@
       "üflemek"
     ],
     "zorluk": "kolay",
-    "id": 208
-  },
-  {
-    "kategori": "dalgiclik",
-    "kelime": "balık izlemek",
-    "aciklama": "resiflerin etrafında yüzen renkli tropikal deniz canlılarını seyretmek",
-    "yasakli_kelimeler": [
-      "resif",
-      "canlı",
-      "mercan",
-      "seyretmek",
-      "deniz"
-    ],
-    "zorluk": "kolay",
-    "id": 209
-  },
-  {
-    "kategori": "dalgiclik",
-    "kelime": "tüpteki basıncı okumak",
-    "aciklama": "manometreye bakarak tüpte ne kadar hava kaldığını okumak",
-    "yasakli_kelimeler": [
-      "su altı kamerası",
-      "flaş",
-      "batık",
-      "çekim",
-      "mercan"
-    ],
-    "zorluk": "kolay",
-    "id": 210
-  },
-  {
-    "kategori": "dalgiclik",
-    "kelime": "el işaretiyle anlaşmak",
-    "aciklama": "konuşulamayan su altında el işaretleriyle diğer dalgıçla anlaşmak",
-    "yasakli_kelimeler": [
-      "ok işareti",
-      "işaret",
-      "iletişim",
-      "konuşamama",
-      "anlaşma"
-    ],
-    "zorluk": "kolay",
-    "id": 211
-  },
-  {
-    "kategori": "dalgiclik",
-    "kelime": "neopren elbise giymek",
-    "aciklama": "vücudu soğuk deniz suyundan koruyan neopren dalış kıyafeti giymek",
-    "yasakli_kelimeler": [
-      "ıslak elbise",
-      "kauçuk",
-      "üşümeme",
-      "fermuar",
-      "wetsuit"
-    ],
-    "zorluk": "kolay",
-    "id": 212
-  },
-  {
-    "kategori": "dalgiclik",
-    "kelime": "denge yeleği şişirmek",
-    "aciklama": "denge yeleğine hava basarak nötr yüzerlilik dengesini bulmak",
-    "yasakli_kelimeler": [
-      "bcd",
-      "nötr yüzerlilik",
-      "inflatör",
-      "hava basma",
-      "yelek"
-    ],
-    "zorluk": "orta",
-    "id": 213
-  },
-  {
-    "kategori": "dalgiclik",
-    "kelime": "dalış tablosu hesaplamak",
-    "aciklama": "dalış bilgisayarından dekompresyon ve güvenlik durağı sürelerini hesaplamak",
-    "yasakli_kelimeler": [
-      "safety stop",
-      "5 metre",
-      "3 dakika",
-      "azot tahliyesi",
-      "dalış bilgisayarı"
-    ],
-    "zorluk": "orta",
-    "id": 214
-  },
-  {
-    "kategori": "dalgiclik",
-    "kelime": "dekompresyon durağı yapmak",
-    "aciklama": "derin dalış sonrası kanda kabarcık oluşmaması için belirli metrelerde beklemek",
-    "yasakli_kelimeler": [
-      "deco stop",
-      "vurgun önleme",
-      "kademe",
-      "derinlik",
-      "tablo"
-    ],
-    "zorluk": "orta",
-    "id": 215
+    "id": 72
   },
   {
     "kategori": "dalgiclik",
@@ -3021,63 +1019,7 @@
       "hiperbarik oda"
     ],
     "zorluk": "orta",
-    "id": 216
-  },
-  {
-    "kategori": "dalgiclik",
-    "kelime": "dalış bilgisayarı izlemek",
-    "aciklama": "havası biten dalış arkadaşına kendi ahtapot regülatörünü uzatıp paylaşmak",
-    "yasakli_kelimeler": [
-      "dijital ekran",
-      "dip zamanı",
-      "kalan hava",
-      "derinlik",
-      "kol saati"
-    ],
-    "zorluk": "orta",
-    "id": 217
-  },
-  {
-    "kategori": "dalgiclik",
-    "kelime": "açık denizde inmek",
-    "aciklama": "acil durumda kemerin tokasını tek elle açıp kurşunları denize atmak",
-    "yasakli_kelimeler": [
-      "yedek hava",
-      "sarı regülatör",
-      "hava paylaşımı",
-      "acil durum",
-      "buddy"
-    ],
-    "zorluk": "orta",
-    "id": 218
-  },
-  {
-    "kategori": "dalgiclik",
-    "kelime": "buddy kontrolü yapmak",
-    "aciklama": "dalış teknesinin arkasından suya dev adımla güvenle atlamak",
-    "yasakli_kelimeler": [
-      "bwear",
-      "dalış eşi",
-      "tüp vanası",
-      "kilit",
-      "suya girmeden"
-    ],
-    "zorluk": "orta",
-    "id": 219
-  },
-  {
-    "kategori": "dalgiclik",
-    "kelime": "maske tahliyesi yapmak",
-    "aciklama": "şişme zodyak bottan geriye doğru takla atıp suya girmek",
-    "yasakli_kelimeler": [
-      "su tahliyesi",
-      "burundan üfleme",
-      "göz temizleme",
-      "su kaçması",
-      "dalış becerisi"
-    ],
-    "zorluk": "orta",
-    "id": 220
+    "id": 73
   },
   {
     "kategori": "dalgiclik",
@@ -3091,7 +1033,7 @@
       "derinlik"
     ],
     "zorluk": "orta",
-    "id": 221
+    "id": 74
   },
   {
     "kategori": "dalgiclik",
@@ -3105,329 +1047,7 @@
       "metal gövde"
     ],
     "zorluk": "orta",
-    "id": 222
-  },
-  {
-    "kategori": "dalgiclik",
-    "kelime": "mağara dalışı yapmak",
-    "aciklama": "resif kancasını kayaya takıp güçlü su altı akıntısına karşı durmak",
-    "yasakli_kelimeler": [
-      "kılavuz ip",
-      "kapalı ortam",
-      "sualtı mağarası",
-      "fener",
-      "klostrofobi"
-    ],
-    "zorluk": "orta",
-    "id": 223
-  },
-  {
-    "kategori": "dalgiclik",
-    "kelime": "azot narkozu yaşamak",
-    "aciklama": "tuzlu sudan çıkan tüm dalış ekipmanlarını duru tatlı suyla yıkamak",
-    "yasakli_kelimeler": [
-      "derinlik sarhoşluğu",
-      "30 metre",
-      "martini etkisi",
-      "narkoz",
-      "bilinç bulanması"
-    ],
-    "zorluk": "orta",
-    "id": 224
-  },
-  {
-    "kategori": "dalgiclik",
-    "kelime": "emniyet dekosu beklemek",
-    "aciklama": "yapılan dalışın derinliğini ve süresini dalış log defterine kaydetmek",
-    "yasakli_kelimeler": [
-      "drysuit",
-      "su geçirmez",
-      "buz dalışı",
-      "içlik",
-      "boyun contası"
-    ],
-    "zorluk": "orta",
-    "id": 225
-  },
-  {
-    "kategori": "dalgiclik",
-    "kelime": "yüzey şamandırası atmak",
-    "aciklama": "teknelerin görmesi için su altından yüzeye turuncu şamandıra fırlatmak",
-    "yasakli_kelimeler": [
-      "smb",
-      "turuncu sosis",
-      "makara",
-      "tekne uyarısı",
-      "yüzey"
-    ],
-    "zorluk": "orta",
-    "id": 226
-  },
-  {
-    "kategori": "dalgiclik",
-    "kelime": "dalış günlüğü doldurmak",
-    "aciklama": "camın buğulanmasını önlemek için dalış maskesinin içine tükürüp çalkalamak",
-    "yasakli_kelimeler": [
-      "logbook",
-      "kayıt",
-      "imza",
-      "derinlik süre",
-      "eğitmen kaşesi"
-    ],
-    "zorluk": "orta",
-    "id": 227
-  },
-  {
-    "kategori": "dalgiclik",
-    "kelime": "regülatör tekrar yakalamak",
-    "aciklama": "tüpün vanasını sonuna kadar açıp çeyrek tur geri çevirmek",
-    "yasakli_kelimeler": [
-      "ağızdan çıkma",
-      "kol süpürme",
-      "yakalama",
-      "ikinci kademe",
-      "beceri"
-    ],
-    "zorluk": "orta",
-    "id": 228
-  },
-  {
-    "kategori": "dalgiclik",
-    "kelime": "vurgun tedavisi görmek",
-    "aciklama": "kuru dalış elbisesinin fermuarını çekip boyun contasını düzeltmek",
-    "yasakli_kelimeler": [
-      "manometre",
-      "200 bar",
-      "50 bar rezerv",
-      "kalan hava",
-      "basınç göstergesi"
-    ],
-    "zorluk": "orta",
-    "id": 229
-  },
-  {
-    "kategori": "dalgiclik",
-    "kelime": "paletsiz serbest dalmak",
-    "aciklama": "tek nefes alarak suyun derinliklerine paletsiz dikey serbest dalmak",
-    "yasakli_kelimeler": [
-      "gösterge",
-      "bar",
-      "kalan hava",
-      "kadran",
-      "kontrol"
-    ],
-    "zorluk": "orta",
-    "id": 230
-  },
-  {
-    "kategori": "dalgiclik",
-    "kelime": "zıpkınla avlanmaya inmek",
-    "aciklama": "monofin tek paletle su altında yunuslama hareketleriyle süzülmek",
-    "yasakli_kelimeler": [
-      "zenginleştirilmiş hava",
-      "yüzde 32 oksijen",
-      "dip zamanı uzatma",
-      "eah",
-      "yeşil sarı bant"
-    ],
-    "zorluk": "orta",
-    "id": 231
-  },
-  {
-    "kategori": "dalgiclik",
-    "kelime": "sualtı mağarasına girmek",
-    "aciklama": "karanlık sualtı mağarasına kılavuz ip makarasını açarak girmek",
-    "yasakli_kelimeler": [
-      "blackout",
-      "sığ su bayılması",
-      "hipoksi",
-      "apnea",
-      "kurtarma"
-    ],
-    "zorluk": "orta",
-    "id": 232
-  },
-  {
-    "kategori": "dalgiclik",
-    "kelime": "dalış feneri açmak",
-    "aciklama": "gece dalışında fener ışığında uyuyan balıkları ve ahtapotları izlemek",
-    "yasakli_kelimeler": [
-      "renk kaybı",
-      "led ışık",
-      "kovuk",
-      "aydınlatma",
-      "su altı feneri"
-    ],
-    "zorluk": "orta",
-    "id": 233
-  },
-  {
-    "kategori": "dalgiclik",
-    "kelime": "sualtı yönü bulmak",
-    "aciklama": "su altında pusula kullanarak kerteriz alıp yönünü belirlemek",
-    "yasakli_kelimeler": [
-      "pusula",
-      "palet sayma",
-      "kerteriz",
-      "kare çizme",
-      "tekneye dönüş"
-    ],
-    "zorluk": "orta",
-    "id": 234
-  },
-  {
-    "kategori": "dalgiclik",
-    "kelime": "trimiks gazı karıştırmak",
-    "aciklama": "akıntı dalışında kendini akıntıya bırakıp su altında uçarcasına süzülmek",
-    "yasakli_kelimeler": [
-      "helyum",
-      "teknik dalış",
-      "100 metre",
-      "narkoz önleme",
-      "üçlü gaz"
-    ],
-    "zorluk": "zor",
-    "id": 235
-  },
-  {
-    "kategori": "dalgiclik",
-    "kelime": "kapalı devre dalmak",
-    "aciklama": "su altı fotoğraf makinesiyle deniz canlılarının makro fotoğraflarını çekmek",
-    "yasakli_kelimeler": [
-      "ccr",
-      "kabarcıksız",
-      "sofnolime",
-      "oksijen sensörü",
-      "döngü"
-    ],
-    "zorluk": "zor",
-    "id": 236
-  },
-  {
-    "kategori": "dalgiclik",
-    "kelime": "zenginleştirilmiş hava solumak",
-    "aciklama": "zıpkınla sessizce pusuya yatıp geçen balığa zıpkın atmak",
-    "yasakli_kelimeler": [
-      "rekompresyon odası",
-      "hiperbarik",
-      "basınç odası",
-      "tablo 6",
-      "azot eritme"
-    ],
-    "zorluk": "zor",
-    "id": 237
-  },
-  {
-    "kategori": "dalgiclik",
-    "kelime": "oksijen toksisitesi yaşamak",
-    "aciklama": "vurgun yiyen dalgıcı hiperbarik basınç odasına yatırıp tedavi etmek",
-    "yasakli_kelimeler": [
-      "ppo2",
-      "paul bert etkisi",
-      "nöbet",
-      "kısmi basınç",
-      "derinlik limiti"
-    ],
-    "zorluk": "zor",
-    "id": 238
-  },
-  {
-    "kategori": "dalgiclik",
-    "kelime": "dönüş gazı hesaplamak",
-    "aciklama": "teknik dalışta derinlik sarhoşluğunu önlemek için özel gaz hesaplamak",
-    "yasakli_kelimeler": [
-      "saturation diving",
-      "basınçlı habitat",
-      "helyum sesi",
-      "açık deniz petrol",
-      "haftalarca"
-    ],
-    "zorluk": "zor",
-    "id": 239
-  },
-  {
-    "kategori": "dalgiclik",
-    "kelime": "yandan tüp kuşanmak",
-    "aciklama": "dalış tüplerine yüksek basınçlı kompresörle temiz kuru hava basmak",
-    "yasakli_kelimeler": [
-      "yan tüp",
-      "dar mağara",
-      "çift tüp",
-      "koltuk altı",
-      "teknik dalış"
-    ],
-    "zorluk": "zor",
-    "id": 240
-  },
-  {
-    "kategori": "dalgiclik",
-    "kelime": "dekompresyon modeli hesaplamak",
-    "aciklama": "beş yıllık süresi dolan çelik dalış tüplerini basınca test ettirmek",
-    "yasakli_kelimeler": [
-      "buhlmann",
-      "gradient faktörü",
-      "doku yarım ömrü",
-      "kabarcık modeli",
-      "m değeri"
-    ],
-    "zorluk": "zor",
-    "id": 241
-  },
-  {
-    "kategori": "dalgiclik",
-    "kelime": "kurbağalama palet vurmak",
-    "aciklama": "dipteki kumları ve çamurları kaldırmamak için kurbağalama palet vurmak",
-    "yasakli_kelimeler": [
-      "kurbağa vuruşu",
-      "tortu kaldırmama",
-      "mağara tekniği",
-      "görüş koruma",
-      "palet"
-    ],
-    "zorluk": "zor",
-    "id": 242
-  },
-  {
-    "kategori": "dalgiclik",
-    "kelime": "akustik ping dinlemek",
-    "aciklama": "regülatörün tahliye butonuna basarak ağızlıktaki suyu dışarı üflemek",
-    "yasakli_kelimeler": [
-      "kara kutu",
-      "hidrofon",
-      "enkaz arama",
-      "ultrasonik",
-      "deniz kuvvetleri"
-    ],
-    "zorluk": "zor",
-    "id": 243
-  },
-  {
-    "kategori": "dalgiclik",
-    "kelime": "kasklı dalış yapmak",
-    "aciklama": "ağır sanayi dalgıcı olarak metal kask takıp sualtı inşaatı yapmak",
-    "yasakli_kelimeler": [
-      "kirby morgan",
-      "yüzey beslemeli",
-      "ağır dalgıç",
-      "su altı kaynağı",
-      "haberleşme kablosu"
-    ],
-    "zorluk": "zor",
-    "id": 244
-  },
-  {
-    "kategori": "dalgiclik",
-    "kelime": "izobaric counterdiffusion önlemek",
-    "aciklama": "su altında nefesi sakin ve derin alarak hava tüketimini düşürmek",
-    "yasakli_kelimeler": [
-      "icd",
-      "helyumdan azota",
-      "karşı difüzyon",
-      "iç kulak vurgunu",
-      "derin gaz"
-    ],
-    "zorluk": "zor",
-    "id": 245
+    "id": 75
   },
   {
     "kategori": "dalgiclik",
@@ -3441,34 +1061,6 @@
       "kıvılcım"
     ],
     "zorluk": "zor",
-    "id": 246
-  },
-  {
-    "kategori": "dalgiclik",
-    "kelime": "hipotermiyle mücadele etmek",
-    "aciklama": "soğuk sularda uzun süre kalınca oluşan vücut titremesini önlemek",
-    "yasakli_kelimeler": [
-      "sıcak sulu elbise",
-      "titreme",
-      "ısı kaybı",
-      "derin su",
-      "hortum"
-    ],
-    "zorluk": "zor",
-    "id": 247
-  },
-  {
-    "kategori": "dalgiclik",
-    "kelime": "kurtarma makarası kurmak",
-    "aciklama": "dalış eğitmeni eşliğinde açık deniz bröve sınavına katılıp bröve almak",
-    "yasakli_kelimeler": [
-      "kurtarma makarası",
-      "dar delik",
-      "çekme sistemi",
-      "teknik kurtarma",
-      "acil durum"
-    ],
-    "zorluk": "zor",
-    "id": 248
+    "id": 76
   }
 ]

@@ -2,34 +2,6 @@
   {
     "id": 1,
     "kategori": "basketbol",
-    "kelime": "smaç basma",
-    "aciklama": "oyuncunun topu pota çemberine yukarıdan sertçe vurması.",
-    "yasakli_kelimeler": [
-      "pota",
-      "çember",
-      "sıçramak",
-      "yukarıdan",
-      "asılmak"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 2,
-    "kategori": "basketbol",
-    "kelime": "ters smaç",
-    "aciklama": "hücum oyuncusunun sırtı potaya dönük vurduğu smaç.",
-    "yasakli_kelimeler": [
-      "sırtı dönük",
-      "arkaya",
-      "çember",
-      "havada",
-      "smaç"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 3,
-    "kategori": "basketbol",
     "kelime": "turnike atışı",
     "aciklama": "potaya iki adımla hızlanıp topu çembere bırakma.",
     "yasakli_kelimeler": [
@@ -42,7 +14,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 4,
+    "id": 2,
     "kategori": "basketbol",
     "kelime": "üçlük atışı",
     "aciklama": "üç sayı çizgisinin gerisinden potaya atılan başarılı şut.",
@@ -56,7 +28,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 5,
+    "id": 3,
     "kategori": "basketbol",
     "kelime": "serbest atış",
     "aciklama": "faul sonrası serbest atış çizgisinden kullanılan tek sayılık atış.",
@@ -70,7 +42,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 6,
+    "id": 4,
     "kategori": "basketbol",
     "kelime": "orta mesafe",
     "aciklama": "topu takım arkadaşına doğrudan göğüs hizasından fırlatma.",
@@ -84,49 +56,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 7,
-    "kategori": "basketbol",
-    "kelime": "çengel atış",
-    "aciklama": "topu yere bir kez çarptırarak arkadaşına iletme pası.",
-    "yasakli_kelimeler": [
-      "hook shot",
-      "hilal",
-      "tek kol",
-      "yan durmak",
-      "pivot atışı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 8,
-    "kategori": "basketbol",
-    "kelime": "plase atış",
-    "aciklama": "topu iki elle başın üzerinden fırlatma pası.",
-    "yasakli_kelimeler": [
-      "yumuşak",
-      "parmak ucu",
-      "bırakmak",
-      "blok üstü",
-      "potaya"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 9,
-    "kategori": "basketbol",
-    "kelime": "sıçrayarak atış",
-    "aciklama": "savunma arkasına koşan arkadaşa atılan yüksek hava pası.",
-    "yasakli_kelimeler": [
-      "jump shot",
-      "havaya sıçrama",
-      "tepe noktası",
-      "şut",
-      "elden çıkarma"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 10,
+    "id": 5,
     "kategori": "basketbol",
     "kelime": "panyalı atış",
     "aciklama": "savunmayı şaşırtmak için başka yöne bakarak verilen pas.",
@@ -140,7 +70,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 11,
+    "id": 6,
     "kategori": "basketbol",
     "kelime": "hava atışı",
     "aciklama": "havaya atılan pasa oyuncunun sıçrayıp havada vurduğu smaç.",
@@ -154,7 +84,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 12,
+    "id": 7,
     "kategori": "basketbol",
     "kelime": "alley-oop",
     "aciklama": "hücum oyuncusunun tek ayak üzerinde geriye sıçrayarak attığı şut.",
@@ -168,203 +98,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 13,
-    "kategori": "basketbol",
-    "kelime": "şut tehdidi",
-    "aciklama": "topu tek elle yüksekten kavisli bırakılan çengel atışı.",
-    "yasakli_kelimeler": [
-      "tehdit",
-      "şut pozisyonu",
-      "savunmayı kaldırmak",
-      "kandırma",
-      "poz"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 14,
-    "kategori": "basketbol",
-    "kelime": "sahte şut",
-    "aciklama": "potaya yaklaşırken topu yumuşak kavisle yukarı bırakan atış.",
-    "yasakli_kelimeler": [
-      "fake",
-      "kandırmaca",
-      "blokçu",
-      "aldatma",
-      "kaldırmak"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 15,
-    "kategori": "basketbol",
-    "kelime": "havada asılı",
-    "aciklama": "topu sürerken aniden el ve yön değiştirerek savunmayı geçme.",
-    "yasakli_kelimeler": [
-      "hang time",
-      "süzülmek",
-      "sıçrama",
-      "yerçekimi",
-      "beklemek"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 16,
-    "kategori": "basketbol",
-    "kelime": "tekli smaç",
-    "aciklama": "topu sürerken bacakların arasından geçirerek el değiştirme.",
-    "yasakli_kelimeler": [
-      "tek el",
-      "çember",
-      "yükselmek",
-      "sertçe vurmak",
-      "smaç"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 17,
-    "kategori": "basketbol",
-    "kelime": "çiftli smaç",
-    "aciklama": "topu sürerken belin arkasından dolaştırarak yapılan yön değişimi.",
-    "yasakli_kelimeler": [
-      "iki el",
-      "kuvvetli",
-      "sarsmak",
-      "pota",
-      "basmak"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 18,
-    "kategori": "basketbol",
-    "kelime": "ters turnike",
-    "aciklama": "topu sürerken kendi etrafında üç yüz altmış derece dönme.",
-    "yasakli_kelimeler": [
-      "reverse layup",
-      "ters el",
-      "panya altı",
-      "öbür taraf",
-      "arkaya uzanma"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 19,
-    "kategori": "basketbol",
-    "kelime": "uzak üçlük",
-    "aciklama": "topu sürerken aniden durup savunmanın dengesini bozma.",
-    "yasakli_kelimeler": [
-      "logo şutu",
-      "uzun mesafe",
-      "çizgi gerisi",
-      "üçlük",
-      "cesur atış"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 20,
-    "kategori": "basketbol",
-    "kelime": "son saniye",
-    "aciklama": "şut atacakmış gibi yapıp savunma oyuncusunu havaya sıçratma.",
-    "yasakli_kelimeler": [
-      "korna",
-      "çeyrek sonu",
-      "kritik basket",
-      "süre biterken",
-      "heyecan"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 21,
-    "kategori": "basketbol",
-    "kelime": "göğüs pası",
-    "aciklama": "pas verecek veya içeri girecek gibi yapıp savunmayı yanıltma.",
-    "yasakli_kelimeler": [
-      "iki el",
-      "göğüs hizası",
-      "temel pas",
-      "düz aktarım",
-      "kolları itmek"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 22,
-    "kategori": "basketbol",
-    "kelime": "yerden pas",
-    "aciklama": "çembere çarparak geri dönen topu havada yakalama.",
-    "yasakli_kelimeler": [
-      "bounce pass",
-      "parkeye çarptırmak",
-      "sektirmek",
-      "kolların altı",
-      "pas"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 23,
-    "kategori": "basketbol",
-    "kelime": "başüstü pası",
-    "aciklama": "kendi potasında kaçan rakip şutun ribaundunu alma.",
-    "yasakli_kelimeler": [
-      "baş üstü",
-      "aşırmak",
-      "uzun oyuncu",
-      "iki elle fırlatmak",
-      "savunma üstü"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 24,
-    "kategori": "basketbol",
-    "kelime": "bacakarası pası",
-    "aciklama": "rakip potada takım arkadaşının kaçan şutunun ribaundunu alma.",
-    "yasakli_kelimeler": [
-      "bacak arası",
-      "şaşırtmaca",
-      "şık hareket",
-      "sektirme",
-      "pas"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 25,
-    "kategori": "basketbol",
-    "kelime": "beyzbol pası",
-    "aciklama": "ribaundu alır almaz topu yere indirmeden çembere vurma.",
-    "yasakli_kelimeler": [
-      "tek elle fırlatma",
-      "uzun menzil",
-      "tüm saha",
-      "hızlı hücum",
-      "fırlatmak"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 26,
-    "kategori": "basketbol",
-    "kelime": "alley-oop pası",
-    "aciklama": "ribaundu alır almaz topu çembere parmak uçlarıyla bırakma.",
-    "yasakli_kelimeler": [
-      "havaya bırakmak",
-      "pota üzeri",
-      "smaç için",
-      "asist",
-      "yüksek pas"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 27,
+    "id": 8,
     "kategori": "basketbol",
     "kelime": "top sürme",
     "aciklama": "şut atılırken topu havada bloklayarak çembere gitmesini engelleme.",
@@ -378,63 +112,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 28,
-    "kategori": "basketbol",
-    "kelime": "yön değiştirme",
-    "aciklama": "rakip oyuncunun elindeki veya pasındaki topu kapma.",
-    "yasakli_kelimeler": [
-      "crossover",
-      "aniden kırmak",
-      "sağdan sola",
-      "rakibi geçmek",
-      "çapraz"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 29,
-    "kategori": "basketbol",
-    "kelime": "bacakarası sürme",
-    "aciklama": "şut çemberin üzerindeyken veya inişteyken topa müdahale etme kuralı.",
-    "yasakli_kelimeler": [
-      "bacak arası",
-      "sektirme",
-      "top koruma",
-      "hareket",
-      "dribling"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 30,
-    "kategori": "basketbol",
-    "kelime": "arkadan sürme",
-    "aciklama": "oyun kurucunun hücumu yönlendirdiği tepe bölgesi.",
-    "yasakli_kelimeler": [
-      "sırt arkası",
-      "dolandırmak",
-      "kaptırmamak",
-      "diğer el",
-      "estetik"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 31,
-    "kategori": "basketbol",
-    "kelime": "top saklama",
-    "aciklama": "üç sayı çizgisinin köşe diplerinde kalan şut alanı.",
-    "yasakli_kelimeler": [
-      "vücudu siper etmek",
-      "korumak",
-      "kaptırmamak",
-      "araya girmek",
-      "duruş"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 32,
+    "id": 9,
     "kategori": "basketbol",
     "kelime": "hızlı hücum",
     "aciklama": "serbest atış çizgisinin iki yanındaki kırk beş derece açı.",
@@ -448,7 +126,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 33,
+    "id": 10,
     "kategori": "basketbol",
     "kelime": "top kaybı",
     "aciklama": "potanın altındaki dikdörtgen boyalı alan üç saniye koridoru.",
@@ -462,7 +140,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 34,
+    "id": 11,
     "kategori": "basketbol",
     "kelime": "top çalma",
     "aciklama": "serbest atış çizgisinin orta noktası ve çevresindeki alan.",
@@ -476,7 +154,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 35,
+    "id": 12,
     "kategori": "basketbol",
     "kelime": "hücum ribaundu",
     "aciklama": "potaya yakın boyalı alanın iki yanındaki dip bölge.",
@@ -490,7 +168,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 36,
+    "id": 13,
     "kategori": "basketbol",
     "kelime": "savunma ribaundu",
     "aciklama": "pota çemberinin altında hücum faul çalınmayan yarım daire.",
@@ -504,21 +182,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 37,
-    "kategori": "basketbol",
-    "kelime": "ribaunt alma",
-    "aciklama": "orta sahadan potaya doğru olan hücum sahası yarı alanı.",
-    "yasakli_kelimeler": [
-      "seken top",
-      "sıçrayıp almak",
-      "çember",
-      "pota altı",
-      "kavramak"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 38,
+    "id": 14,
     "kategori": "basketbol",
     "kelime": "asist yapma",
     "aciklama": "takımın kendi potasını savunduğu arka savunma yarı sahası.",
@@ -532,21 +196,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 39,
-    "kategori": "basketbol",
-    "kelime": "köşeye pas",
-    "aciklama": "üç sayı çizgisinin dışında kalan dış şut alanı bölgesi.",
-    "yasakli_kelimeler": [
-      "dip köşe",
-      "boş üçlük",
-      "dışarı çıkarma",
-      "penetre sonrası",
-      "pas"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 40,
+    "id": 15,
     "kategori": "basketbol",
     "kelime": "point guard",
     "aciklama": "rakip potanın hemen altındaki yakın atış ve ribaund bölgesi.",
@@ -560,49 +210,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 41,
-    "kategori": "basketbol",
-    "kelime": "şutör gard",
-    "aciklama": "hücum oyuncusunun takım arkadaşına perdeleme yaparak yol açması.",
-    "yasakli_kelimeler": [
-      "shooting guard",
-      "iki numara",
-      "dış şut",
-      "skorer",
-      "üçlükçü"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 42,
-    "kategori": "basketbol",
-    "kelime": "kısa forvet",
-    "aciklama": "perdeleme yapan oyuncunun çembere doğru devrilerek pas alması oyunu.",
-    "yasakli_kelimeler": [
-      "small forward",
-      "üç numara",
-      "çok yönlü",
-      "penetre",
-      "kanat"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 43,
-    "kategori": "basketbol",
-    "kelime": "uzun forvet",
-    "aciklama": "perdeleme yapan oyuncunun dışarı açılarak üçlük şut beklemesi.",
-    "yasakli_kelimeler": [
-      "power forward",
-      "dört numara",
-      "pota altı",
-      "ribaunt",
-      "fizikli"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 44,
+    "id": 16,
     "kategori": "basketbol",
     "kelime": "pivot oyuncu",
     "aciklama": "savunma oyuncusunun sırtını rakibe dayayarak ribaund pozisyonu alması.",
@@ -616,7 +224,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 45,
+    "id": 17,
     "kategori": "basketbol",
     "kelime": "altıncı adam",
     "aciklama": "topsuz hücum oyuncusunun arkadan savunma arkasına kat etmesi.",
@@ -630,7 +238,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 46,
+    "id": 18,
     "kategori": "basketbol",
     "kelime": "yedek sırası",
     "aciklama": "hücum oyuncusunun savunmayı şaşırtıp dışarıya veya içeriye aniden koşması.",
@@ -644,21 +252,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 47,
-    "kategori": "basketbol",
-    "kelime": "sahadaki lider",
-    "aciklama": "topu yerde sektirmeden adım atarak yürüme kural ihlali.",
-    "yasakli_kelimeler": [
-      "kaptan",
-      "liderlik",
-      "ilham",
-      "toparlamak",
-      "kriz anı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 48,
+    "id": 19,
     "kategori": "basketbol",
     "kelime": "başantrenör",
     "aciklama": "topu sektirdikten sonra tutup tekrar sektirmeye başlama hatası.",
@@ -672,21 +266,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 49,
-    "kategori": "basketbol",
-    "kelime": "yardımcı antrenör",
-    "aciklama": "topu sürerken elin topun altına girmesi kural ihlali.",
-    "yasakli_kelimeler": [
-      "asistan koç",
-      "teknik ekip",
-      "istatistik",
-      "analiz",
-      "yardımcı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 50,
+    "id": 20,
     "kategori": "basketbol",
     "kelime": "skorer oyuncu",
     "aciklama": "hücum oyuncusunun boyalı alanda üç saniyeden fazla kalması kuralı.",
@@ -700,91 +280,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 51,
-    "kategori": "basketbol",
-    "kelime": "savunma uzmanı",
-    "aciklama": "savunma oyuncusunun kendi adamı olmadan boyalı alanda üç saniye durması.",
-    "yasakli_kelimeler": [
-      "kilitlemek",
-      "savunmacı",
-      "baskı",
-      "adama yapışmak",
-      "rakibi durdurma"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 52,
-    "kategori": "basketbol",
-    "kelime": "ribauntçu",
-    "aciklama": "topu oyuna sokarken beş saniye içinde pas verememe kuralı.",
-    "yasakli_kelimeler": [
-      "seken top uzmanı",
-      "çember altı",
-      "top toplama",
-      "sezgi",
-      "fizik"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 53,
-    "kategori": "basketbol",
-    "kelime": "üçlükçü",
-    "aciklama": "hücum eden takımın topu sekiz saniyede ön sahaya geçirememesi.",
-    "yasakli_kelimeler": [
-      "üç sayı uzmanı",
-      "keskin şutör",
-      "yay gerisi",
-      "isabetli",
-      "dış atıcı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 54,
-    "kategori": "basketbol",
-    "kelime": "çaylak oyuncu",
-    "aciklama": "hücum takımının yirmi dört saniyede potaya şut atamaması kuralı.",
-    "yasakli_kelimeler": [
-      "rookie",
-      "ilk sezon",
-      "genç",
-      "tecrübesiz",
-      "yeni gelen"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 55,
-    "kategori": "basketbol",
-    "kelime": "emektar oyuncu",
-    "aciklama": "ön sahaya geçen topun tekrar arka sahaya geri atılması.",
-    "yasakli_kelimeler": [
-      "veteran",
-      "tecrübeli",
-      "kıdemli",
-      "kariyer sonu",
-      "yaşlı kurt"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 56,
-    "kategori": "basketbol",
-    "kelime": "çember koruyucu",
-    "aciklama": "oyuncunun rakibine yasadışı temas ederek avantaj sağlaması faulü.",
-    "yasakli_kelimeler": [
-      "rim protector",
-      "blok tehdidi",
-      "kolay sayı yok",
-      "pota altı bekçisi",
-      "uzun"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 57,
+    "id": 21,
     "kategori": "basketbol",
     "kelime": "basketbol potası",
     "aciklama": "hücum oyuncusunun sabit duran savunma oyuncusuna çarpması faulü.",
@@ -798,7 +294,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 58,
+    "id": 22,
     "kategori": "basketbol",
     "kelime": "panya tahtası",
     "aciklama": "savunma oyuncusunun ayakları yere basmadan rakibin yolunu kesmesi.",
@@ -812,7 +308,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 59,
+    "id": 23,
     "kategori": "basketbol",
     "kelime": "pota çemberi",
     "aciklama": "savunma oyuncusunun kollarını veya bacaklarını açarak rakibi engellemesi.",
@@ -826,7 +322,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 60,
+    "id": 24,
     "kategori": "basketbol",
     "kelime": "çember filesi",
     "aciklama": "savunma oyuncusunun rakibin elini, kolunu veya formasını çekmesi.",
@@ -840,7 +336,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 61,
+    "id": 25,
     "kategori": "basketbol",
     "kelime": "basketbol topu",
     "aciklama": "hakeme itiraz veya sportmenlik dışı davranış sonucu verilen faul.",
@@ -854,7 +350,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 62,
+    "id": 26,
     "kategori": "basketbol",
     "kelime": "parke zemin",
     "aciklama": "rakibe kasten yapılan sert ve tehlikeli temas faulü.",
@@ -868,7 +364,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 63,
+    "id": 27,
     "kategori": "basketbol",
     "kelime": "üçlük çizgisi",
     "aciklama": "kavga veya aşırı şiddet içeren davranış sonucu doğrudan ihraç.",
@@ -882,7 +378,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 64,
+    "id": 28,
     "kategori": "basketbol",
     "kelime": "faul çizgisi",
     "aciklama": "şut atışı sırasında faul yapıldığında basketin geçerli sayılması.",
@@ -896,7 +392,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 65,
+    "id": 29,
     "kategori": "basketbol",
     "kelime": "boyalı alan",
     "aciklama": "bir periyotta dördüncü faulden sonra her faule serbest atış.",
@@ -910,7 +406,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 66,
+    "id": 30,
     "kategori": "basketbol",
     "kelime": "orta çizgi",
     "aciklama": "bir maçta beş faul alan oyuncunun oyun dışı kalması.",
@@ -924,7 +420,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 67,
+    "id": 31,
     "kategori": "basketbol",
     "kelime": "orta daire",
     "aciklama": "hızlı hücuma çıkan oyuncuya arkadan yapılan kasıtlı durdurma faulü.",
@@ -938,7 +434,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 68,
+    "id": 32,
     "kategori": "basketbol",
     "kelime": "dip çizgi",
     "aciklama": "her savunma oyuncusunun belirli bir hücum oyuncusunu birebir savunması.",
@@ -952,7 +448,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 69,
+    "id": 33,
     "kategori": "basketbol",
     "kelime": "kenar çizgisi",
     "aciklama": "savunma oyuncularının sahada belirli alanları kapatarak yaptığı savunma.",
@@ -966,7 +462,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 70,
+    "id": 34,
     "kategori": "basketbol",
     "kelime": "şut saati",
     "aciklama": "iki üç veya bir üç bir şeklinde kurulan alan savunması.",
@@ -980,7 +476,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 71,
+    "id": 35,
     "kategori": "basketbol",
     "kelime": "skorbord paneli",
     "aciklama": "hem adam adama hem alan içeren karma savunma.",
@@ -994,7 +490,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 72,
+    "id": 36,
     "kategori": "basketbol",
     "kelime": "hücum süresi",
     "aciklama": "top rakipteyken tüm sahada tam saha yapılan baskılı savunma.",
@@ -1008,7 +504,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 73,
+    "id": 37,
     "kategori": "basketbol",
     "kelime": "mola düdüğü",
     "aciklama": "rakip yarı sahada topa yapılan baskı ve sıkıştırma tuzağı.",
@@ -1022,7 +518,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 74,
+    "id": 38,
     "kategori": "basketbol",
     "kelime": "basketbol ayakkabısı",
     "aciklama": "topa sahip oyuncuya iki savunma oyuncusunun aniden sıkıştırma yapması.",
@@ -1036,35 +532,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 75,
-    "kategori": "basketbol",
-    "kelime": "kafa bandı",
-    "aciklama": "perdeleme sonrasında savunma oyuncularının adamlarını karşılıklı değiştirmesi.",
-    "yasakli_kelimeler": [
-      "alına takılan",
-      "ter önleyici",
-      "havlu kumaş",
-      "esnek bant",
-      "aksesuar"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 76,
-    "kategori": "basketbol",
-    "kelime": "basketbol dizliği",
-    "aciklama": "perdeleme sonrasında savunmacının perdenin üzerinden adamını takip etmesi.",
-    "yasakli_kelimeler": [
-      "diz kapağı koruması",
-      "elastik dolgu",
-      "düşme önlemi",
-      "darbe emici",
-      "dize takılan"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 77,
+    "id": 39,
     "kategori": "basketbol",
     "kelime": "basketbol forması",
     "aciklama": "perdeleme sonrasında savunmacının perdenin altından geçerek alanı kapatması.",
@@ -1078,49 +546,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 78,
-    "kategori": "basketbol",
-    "kelime": "şut kolluğu",
-    "aciklama": "uzun oyuncunun perdeleme sonrasında dışarı çıkarak şutörü engellemesi.",
-    "yasakli_kelimeler": [
-      "kompresyon",
-      "kol bandı",
-      "kas ısıtıcı",
-      "atıcı kol",
-      "sleeve"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 79,
-    "kategori": "basketbol",
-    "kelime": "koruyucu maske",
-    "aciklama": "uzun savunmacının perdeleme sonrasında içeride kalarak çemberi koruması.",
-    "yasakli_kelimeler": [
-      "burun kırığı",
-      "şeffaf aparat",
-      "yüze takılan",
-      "elmacık kemiği",
-      "koruma"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 80,
-    "kategori": "basketbol",
-    "kelime": "pota direği",
-    "aciklama": "topsuz taraftaki savunma oyuncusunun içeriye kayarak yardıma gelmesi.",
-    "yasakli_kelimeler": [
-      "çelik ayak",
-      "sünger kaplama",
-      "taşıyıcı direk",
-      "çarpma koruması",
-      "pota arkası"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 81,
+    "id": 40,
     "kategori": "basketbol",
     "kelime": "hücum faul",
     "aciklama": "yardıma giden oyuncunun boş bıraktığı adamına takım arkadaşının yetişmesi.",
@@ -1134,7 +560,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 82,
+    "id": 41,
     "kategori": "basketbol",
     "kelime": "savunma faulü",
     "aciklama": "savunma oyuncusunun hafif temasta kendini abartılı yere atması.",
@@ -1148,7 +574,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 83,
+    "id": 42,
     "kategori": "basketbol",
     "kelime": "teknik faul",
     "aciklama": "top çalındıktan sonra hızla rakip potaya koşarak kolay sayı bulma.",
@@ -1162,63 +588,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 84,
-    "kategori": "basketbol",
-    "kelime": "ağır faul",
-    "aciklama": "rakip savunma yerleşmeden hızlı hücumla bulunan kolay basket.",
-    "yasakli_kelimeler": [
-      "kasti temas",
-      "top niyeti yok",
-      "tehlikeli hamle",
-      "iki serbest atış",
-      "sertlik"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 85,
-    "kategori": "basketbol",
-    "kelime": "kasti faul",
-    "aciklama": "topu paslarla çevirerek doğru şut pozisyonunu arayan yavaş hücum.",
-    "yasakli_kelimeler": [
-      "bilerek",
-      "arkadan çekme",
-      "hızlı hücumu kesme",
-      "sert ihlal",
-      "ağır ceza"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 86,
-    "kategori": "basketbol",
-    "kelime": "faul hakkı",
-    "aciklama": "takımın hücum sahasında oyuncuların birbirine alan açarak yayılması.",
-    "yasakli_kelimeler": [
-      "dört faul limiti",
-      "çeyrek kotası",
-      "ceza atışı öncesi",
-      "faul doldurma",
-      "limit"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 87,
-    "kategori": "basketbol",
-    "kelime": "beş faul",
-    "aciklama": "bir hücum oyuncusunun birebir oynayabilmesi için tüm takımın açılması.",
-    "yasakli_kelimeler": [
-      "oyundan çıkma",
-      "limit dolması",
-      "bireysel faul",
-      "kenara gelmek",
-      "beşinci düdük"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 88,
+    "id": 43,
     "kategori": "basketbol",
     "kelime": "faul atışı",
     "aciklama": "uzun oyuncunun sırtı potaya dönük topla buluşup potaya yüklenmesi.",
@@ -1232,21 +602,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 89,
-    "kategori": "basketbol",
-    "kelime": "adım kuralı",
-    "aciklama": "topsuz oyuncuların içeri kat ederek pasla buluştuğu hareketli hücum.",
-    "yasakli_kelimeler": [
-      "iki adım hakkı",
-      "pivot ayağı",
-      "yürüme sınırı",
-      "temel kural",
-      "adım sayısı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 90,
+    "id": 44,
     "kategori": "basketbol",
     "kelime": "hatalı yürüme",
     "aciklama": "beş oyuncunun da üç sayı çizgisi dışına yayıldığı modern hücum.",
@@ -1260,35 +616,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 91,
-    "kategori": "basketbol",
-    "kelime": "sekiz saniye",
-    "aciklama": "hızlı tempoda koşan, sürekli şut atan modern basketbol felsefesi.",
-    "yasakli_kelimeler": [
-      "kendi yarı sahası",
-      "yarı sahayı geçme",
-      "süre sınırı",
-      "orta çizgi",
-      "sekiz"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 92,
-    "kategori": "basketbol",
-    "kelime": "yirmi dört",
-    "aciklama": "yavaş tempoda, savunma odaklı ve yarı saha hücumuna dayalı basketbol.",
-    "yasakli_kelimeler": [
-      "şut saati",
-      "toplam hücum",
-      "saniye sınırı",
-      "çember teması",
-      "korna"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 93,
+    "id": 45,
     "kategori": "basketbol",
     "kelime": "üç saniye",
     "aciklama": "üçlük çizgisinin gerisinden yüksek yüzdeyle dış şut atan uzman.",
@@ -1302,7 +630,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 94,
+    "id": 46,
     "kategori": "basketbol",
     "kelime": "beş saniye",
     "aciklama": "hem üçlük atan hem pota altını savunan modern uzun forvet.",
@@ -1316,7 +644,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 95,
+    "id": 47,
     "kategori": "basketbol",
     "kelime": "geri saha",
     "aciklama": "hem iyi savunma yapan hem köşe üçlükleri atan kanat oyuncusu.",
@@ -1330,21 +658,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 96,
-    "kategori": "basketbol",
-    "kelime": "ayakla oynama",
-    "aciklama": "aynı anda birden fazla pozisyonda oynayabilen çok yönlü oyuncu.",
-    "yasakli_kelimeler": [
-      "kasıtlı tekme",
-      "bacakla kesme",
-      "kural ihlali",
-      "topa ayakla dokunma",
-      "düdük"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 97,
+    "id": 48,
     "kategori": "basketbol",
     "kelime": "kural ihlali",
     "aciklama": "topu yönlendiren ve takımı bir oyun kurucu gibi yöneten forvet.",
@@ -1358,7 +672,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 98,
+    "id": 49,
     "kategori": "basketbol",
     "kelime": "hakem kararı",
     "aciklama": "pota altında hem ribaund alan hem şut bloklayan dominant pivot.",
@@ -1372,21 +686,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 99,
-    "kategori": "basketbol",
-    "kelime": "skor hakemi",
-    "aciklama": "sahada enerjisi, savunması ve ribaundlarıyla takımı ateşleyen oyuncu.",
-    "yasakli_kelimeler": [
-      "masa başı",
-      "resmi kağıt",
-      "sayı yazma",
-      "skorbord kontrolü",
-      "görevli"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 100,
+    "id": 50,
     "kategori": "basketbol",
     "kelime": "basketbol hakemi",
     "aciklama": "yedekten gelerek takıma anında skor ve enerji katan hücumcu.",
@@ -1400,91 +700,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 101,
-    "kategori": "basketbol",
-    "kelime": "kenar hakemi",
-    "aciklama": "maçın son saniyelerinde sorumluluk alıp maçı kazandıran soğukkanlı lider.",
-    "yasakli_kelimeler": [
-      "çizgi kontrolü",
-      "out kararı",
-      "kenar çizgisi",
-      "ayak basma",
-      "yardımcı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 102,
-    "kategori": "basketbol",
-    "kelime": "itme faulü",
-    "aciklama": "takımın hücumlarını organize eden ve pasları dağıtan bir numara.",
-    "yasakli_kelimeler": [
-      "iki elle itmek",
-      "denge bozma",
-      "ribaunt kavgası",
-      "faul kararı",
-      "temas"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 103,
-    "kategori": "basketbol",
-    "kelime": "tutma faulü",
-    "aciklama": "skor üreten ve dış şutlarıyla tanınan iki numara oyuncusu.",
-    "yasakli_kelimeler": [
-      "kolundan tutmak",
-      "forma çekmek",
-      "ilerlemeyi kesme",
-      "faul",
-      "engelleme"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 104,
-    "kategori": "basketbol",
-    "kelime": "blok faulü",
-    "aciklama": "içeri kat eden ve şut atan kısa forvet.",
-    "yasakli_kelimeler": [
-      "hareketli savunma",
-      "şarj karşıtı",
-      "yol kesme",
-      "gövde teması",
-      "faul düdüğü"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 105,
-    "kategori": "basketbol",
-    "kelime": "perdeleme faulü",
-    "aciklama": "ribaund toplayan ve orta mesafe şut atan dört numara.",
-    "yasakli_kelimeler": [
-      "hareketli perde",
-      "sabit durmamak",
-      "hücum faulü",
-      "çarpmak",
-      "illegal screen"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 106,
-    "kategori": "basketbol",
-    "kelime": "şut faulü",
-    "aciklama": "pota altını karartan ve ribaundları toplayan beş numara.",
-    "yasakli_kelimeler": [
-      "atış anında",
-      "kola vurma",
-      "serbest atış hakkı",
-      "havadayken temas",
-      "isabet şansı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 107,
+    "id": 51,
     "kategori": "basketbol",
     "kelime": "oyundan atılma",
     "aciklama": "maça ilk beşte başlayan beş as oyuncu kadrosu.",
@@ -1498,21 +714,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 108,
-    "kategori": "basketbol",
-    "kelime": "bireysel savunma",
-    "aciklama": "kenarda bekleyen ve oyuna sonradan giren yedek oyuncular grubu.",
-    "yasakli_kelimeler": [
-      "bire bir takip",
-      "kendi adamı",
-      "gölge takip",
-      "eşleşme",
-      "savunma türü"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 109,
+    "id": 52,
     "kategori": "basketbol",
     "kelime": "alan defansı",
     "aciklama": "maçta oyuncuların dinlenmesi ve taktik alması için verilen mola.",
@@ -1526,7 +728,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 110,
+    "id": 53,
     "kategori": "basketbol",
     "kelime": "tam saha",
     "aciklama": "başantrenörün hakem kararlarına itiraz ederek pozisyonu izletme hakkı.",
@@ -1540,91 +742,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 111,
-    "kategori": "basketbol",
-    "kelime": "ikili sıkıştırma",
-    "aciklama": "hakemlerin tartışmalı pozisyonları ekrandan ağır çekimde incelemesi.",
-    "yasakli_kelimeler": [
-      "double team",
-      "iki kişiyle baskı",
-      "kıstırmak",
-      "pas açısını kapatma",
-      "tuzak"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 112,
-    "kategori": "basketbol",
-    "kelime": "perdeleme yapma",
-    "aciklama": "maçın başında iki oyuncunun havaya atılan topa sıçraması.",
-    "yasakli_kelimeler": [
-      "screen",
-      "set çekmek",
-      "önünü tıkamak",
-      "boş alan",
-      "arkadaşa yol açma"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 113,
-    "kategori": "basketbol",
-    "kelime": "devrilme hareketi",
-    "aciklama": "topun iki rakip oyuncunun elinde kilitlenip hareketsiz kalması hali.",
-    "yasakli_kelimeler": [
-      "roll",
-      "potaya dönme",
-      "perde sonrası",
-      "içeri koşu",
-      "pas alma"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 114,
-    "kategori": "basketbol",
-    "kelime": "perdeli hücum",
-    "aciklama": "topun saha çizgilerinin dışına çıkarak oyun alanını terk etmesi.",
-    "yasakli_kelimeler": [
-      "pick and roll seti",
-      "ikili hücum",
-      "perde sonrası",
-      "organize oyun",
-      "hücum seti"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 115,
-    "kategori": "basketbol",
-    "kelime": "izole hücum",
-    "aciklama": "topun saha çizgisi üzerinde sektirilmesi veya çizgiye basılması ihlali.",
-    "yasakli_kelimeler": [
-      "izolasyon",
-      "bire bir",
-      "kenara çekilmek",
-      "tek başına oynama",
-      "yıldız oyuncu"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 116,
-    "kategori": "basketbol",
-    "kelime": "alan açma",
-    "aciklama": "fiba kurallarına göre bir basketbol maçındaki dört ana çeyrek.",
-    "yasakli_kelimeler": [
-      "spacing",
-      "yayılmak",
-      "koridor açma",
-      "boyalı alanı boşaltma",
-      "üçlükçülerin yerleşimi"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 117,
+    "id": 54,
     "kategori": "basketbol",
     "kelime": "pas trafiği",
     "aciklama": "dört çeyreğin sonunda skor eşitse oynanan beş dakikalık ek süre.",
@@ -1638,21 +756,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 118,
-    "kategori": "basketbol",
-    "kelime": "üçlük yağmuru",
-    "aciklama": "ikinci ve üçüncü çeyrek arasındaki devre arası dinlenmesi.",
-    "yasakli_kelimeler": [
-      "peş peşe üçlük",
-      "şut sağanağı",
-      "isabet rekoru",
-      "yayın gerisinden",
-      "üçlük serisi"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 119,
+    "id": 55,
     "kategori": "basketbol",
     "kelime": "uzatma periyodu",
     "aciklama": "nba'de çeyreklerin on iki, fiba'da on dakika olması süre farkı.",
@@ -1666,21 +770,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 120,
-    "kategori": "basketbol",
-    "kelime": "periyot sonu",
-    "aciklama": "bir oyuncunun bir maçta iki istatistikte çift haneli sayıya ulaşması.",
-    "yasakli_kelimeler": [
-      "çeyrek bitimi",
-      "korna",
-      "süre sonu",
-      "on dakika",
-      "ara"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 121,
+    "id": 56,
     "kategori": "basketbol",
     "kelime": "devre arası",
     "aciklama": "bir oyuncunun sayı, ribaund ve asistte çift hanelere ulaşması başarısı.",
@@ -1694,7 +784,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 122,
+    "id": 57,
     "kategori": "basketbol",
     "kelime": "mola alma",
     "aciklama": "bir oyuncunun dört farklı istatistikte çift haneli sayıya ulaşması.",
@@ -1708,7 +798,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 123,
+    "id": 58,
     "kategori": "basketbol",
     "kelime": "koç tahtası",
     "aciklama": "bir oyuncunun bir maçta attığı toplam basket ve faul sayıları.",
@@ -1722,35 +812,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 124,
-    "kategori": "basketbol",
-    "kelime": "kenar oyunu",
-    "aciklama": "bir oyuncunun takım arkadaşına sayı yapması için verdiği gol pası.",
-    "yasakli_kelimeler": [
-      "out çizgisi",
-      "özel set",
-      "top oyuna sokma",
-      "çizim",
-      "kenar hücumu"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 125,
-    "kategori": "basketbol",
-    "kelime": "baskılı savunma",
-    "aciklama": "bir maçta kaçırılan şutların potadan dönünce toplanması sayısı.",
-    "yasakli_kelimeler": [
-      "yakın baskı",
-      "adım attırmamak",
-      "nefes aldırmamak",
-      "pres",
-      "savunma eforu"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 126,
+    "id": 59,
     "kategori": "basketbol",
     "kelime": "sayı krallığı",
     "aciklama": "bir oyuncunun maç boyunca yaptığı şut bloklarının toplam sayısı.",
@@ -1764,7 +826,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 127,
+    "id": 60,
     "kategori": "basketbol",
     "kelime": "asist lideri",
     "aciklama": "bir oyuncunun maç boyunca rakip hücumu kesip kaptığı top sayısı.",
@@ -1778,21 +840,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 128,
-    "kategori": "basketbol",
-    "kelime": "blok krallığı",
-    "aciklama": "bir oyuncunun hatalı pas veya adımla topu rakibe kaptırması.",
-    "yasakli_kelimeler": [
-      "en çok blok",
-      "şut kesme",
-      "çember koruma lideri",
-      "maç başı blok",
-      "pivot başarısı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 129,
+    "id": 61,
     "kategori": "basketbol",
     "kelime": "double double",
     "aciklama": "kullanılan şutların ne kadarının baskete dönüştüğünü gösteren yüzde.",
@@ -1806,7 +854,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 130,
+    "id": 62,
     "kategori": "basketbol",
     "kelime": "triple double",
     "aciklama": "üç sayılık atışların isabet oranını gösteren yüzde istatistiği.",
@@ -1820,427 +868,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 131,
-    "kategori": "basketbol",
-    "kelime": "değirmen smaç",
-    "aciklama": "serbest atışların isabet oranını gösteren yüzde istatistiği.",
-    "yasakli_kelimeler": [
-      "windmill",
-      "rüzgargülü",
-      "kolu döndürmek",
-      "tam daire",
-      "gösterişli smaç"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 132,
-    "kategori": "basketbol",
-    "kelime": "gözyaşı damlası",
-    "aciklama": "oyuncu sahadayken takımının rakibe attığı ve yediği sayı farkı.",
-    "yasakli_kelimeler": [
-      "floater",
-      "aşırtma",
-      "uzunların üstünden",
-      "yüksek kavis",
-      "gard atışı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 133,
-    "kategori": "basketbol",
-    "kelime": "step back",
-    "aciklama": "oyuncunun sahada kaldığı süre boyunca ürettiği genel verimlilik puanı.",
-    "yasakli_kelimeler": [
-      "geriye zıplamak",
-      "mesafe açmak",
-      "ani duruş",
-      "üçlük şutu",
-      "james harden"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 134,
-    "kategori": "basketbol",
-    "kelime": "çember dövme",
-    "aciklama": "dünyanın en popüler ve kaliteli profesyonel amerikan basketbol ligi.",
-    "yasakli_kelimeler": [
-      "demire çarpma",
-      "girmeyen şut",
-      "kaçıran atış",
-      "şanssızlık",
-      "sekme"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 135,
-    "kategori": "basketbol",
-    "kelime": "dönerek geçiş",
-    "aciklama": "avrupa'nın en üst düzey ve prestijli kulüpler basketbol ligi.",
-    "yasakli_kelimeler": [
-      "spin move",
-      "üç yüz altmış derece",
-      "sırtı dönük dönüş",
-      "rakibi arkada bırakma",
-      "ani manevra"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 136,
-    "kategori": "basketbol",
-    "kelime": "lobi pası",
-    "aciklama": "dünya genelinde basketbol sporunu yöneten uluslararası basketbol federasyonu.",
-    "yasakli_kelimeler": [
-      "aşırtma pas",
-      "yüksek kavis",
-      "arka kaçış",
-      "pota altı kolay sayı",
-      "savunma arkası"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 137,
-    "kategori": "basketbol",
-    "kelime": "franchise oyuncusu",
-    "aciklama": "türkiye'deki en üst düzey profesyonel erkek basketbol ligi.",
-    "yasakli_kelimeler": [
-      "kulüp yüzü",
-      "süperstar",
-      "takımın temeli",
-      "yıllık kontrat",
-      "merkez figür"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 138,
-    "kategori": "basketbol",
-    "kelime": "gard pozisyonu",
-    "aciklama": "türkiye'deki en üst düzey profesyonel kadın basketbol ligi.",
-    "yasakli_kelimeler": [
-      "dış oyuncu",
-      "bir ve iki numara",
-      "top hakimiyeti",
-      "şutör",
-      "oyun kurucu mevkisi"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 139,
-    "kategori": "basketbol",
-    "kelime": "forvet pozisyonu",
-    "aciklama": "avrupa'nın iki numaralı prestijli basketbol kulüpler turnuvası.",
-    "yasakli_kelimeler": [
-      "üç ve dört numara",
-      "kanat oyuncusu",
-      "pota çevresi",
-      "kısa ve uzun forvet",
-      "mevki"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 140,
-    "kategori": "basketbol",
-    "kelime": "teknik ceza",
-    "aciklama": "fiba tarafından düzenlenen avrupa kulüpler basketbol turnuvası.",
-    "yasakli_kelimeler": [
-      "serbest atış ve top",
-      "teknik faul yaptırımı",
-      "hakem kararı",
-      "disiplin cezası",
-      "kenar hakkı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 141,
-    "kategori": "basketbol",
-    "kelime": "boyalı savunma",
-    "aciklama": "dört yılda bir düzenlenen dünya milli takımlar basketbol turnuvası.",
-    "yasakli_kelimeler": [
-      "alana gömülme",
-      "turnike önleme",
-      "çember altını kapatma",
-      "içeriye set",
-      "boyalı alan"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 142,
-    "kategori": "basketbol",
-    "kelime": "geçiş savunması",
-    "aciklama": "avrupa milli takımlarının yarıştığı iki yılda bir yapılan şampiyona.",
-    "yasakli_kelimeler": [
-      "transition defence",
-      "geri koşu",
-      "hızlı hücumu durdurma",
-      "savunmaya dönüş",
-      "top kaybı sonrası"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 143,
-    "kategori": "basketbol",
-    "kelime": "galibiyet şutu",
-    "aciklama": "olimpiyatlarda altın madalya için mücadele edilen basketbol turnuvası.",
-    "yasakli_kelimeler": [
-      "game winner",
-      "son nefes şutu",
-      "maçı kazandıran",
-      "gerideyken isabet",
-      "son saniye basketi"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 144,
-    "kategori": "basketbol",
-    "kelime": "yarı saha",
-    "aciklama": "euroleague şampiyonunun belirlendiği dörtlü final organizasyonu.",
-    "yasakli_kelimeler": [
-      "hücum alanı",
-      "orta çizgi ötesi",
-      "on dört metre",
-      "set hücumu",
-      "yarı parke"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 145,
-    "kategori": "basketbol",
-    "kelime": "tuzak savunma",
-    "aciklama": "nba'de doğu ve batı konferansı şampiyonlarının karşılaştığı final serisi.",
-    "yasakli_kelimeler": [
-      "trap",
-      "kenara kıstırma",
-      "ikili baskı tuzağı",
-      "ani kapama",
-      "top çalma planı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 146,
-    "kategori": "basketbol",
-    "kelime": "eşleşme problemi",
-    "aciklama": "normal sezonun ardından şampiyonu belirleyen elemeli maçlar serisi.",
-    "yasakli_kelimeler": [
-      "mismatch",
-      "boy üstünlüğü",
-      "ters eşleşme",
-      "tutulamayan oyuncu",
-      "fizik avantajı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 147,
-    "kategori": "basketbol",
-    "kelime": "ters eşleşme",
-    "aciklama": "nba'de play-offlara kalacak son takımları belirleyen ön eleme turnuvası.",
-    "yasakli_kelimeler": [
-      "kısa uzun eşleşmesi",
-      "switch sonrası",
-      "avantaj",
-      "mismatch",
-      "perde değişimi"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 148,
-    "kategori": "basketbol",
-    "kelime": "ters perde",
-    "aciklama": "en iyi oyuncuların gösteri maçı yaptığı hafta sonu.",
-    "yasakli_kelimeler": [
-      "kısanın uzuna perdesi",
-      "şaşırtıcı screen",
-      "ters screen",
-      "pivot açma",
-      "farklı perde"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 149,
-    "kategori": "basketbol",
-    "kelime": "arka perde",
-    "aciklama": "nba all-star hafta sonunda oyuncuların estetik smaçlar vurduğu yarışma.",
-    "yasakli_kelimeler": [
-      "back screen",
-      "savunma arkası",
-      "görüş dışı perde",
-      "potaya kaçış",
-      "habersiz screen"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 150,
-    "kategori": "basketbol",
-    "kelime": "kanat hücumu",
-    "aciklama": "nba all-star'da en iyi şutörlerin süreye karşı üçlük attığı yarışma.",
-    "yasakli_kelimeler": [
-      "kırk beş derece",
-      "forvet oyunu",
-      "kanatlardan akış",
-      "dış hücum",
-      "açı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 151,
-    "kategori": "basketbol",
-    "kelime": "tepe oyunu",
-    "aciklama": "oyuncuların top sürme, pas ve şut yeteneklerini sergilediği yarışma.",
-    "yasakli_kelimeler": [
-      "orta tepe",
-      "yayın ortası",
-      "gard başlatması",
-      "ikili oyun başlangıcı",
-      "merkez hücum"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 152,
-    "kategori": "basketbol",
-    "kelime": "kutu savunma",
-    "aciklama": "nba takımlarının üniversite ve dünya genç yeteneklerini seçtiği etkinlik.",
-    "yasakli_kelimeler": [
-      "box and one",
-      "kare yerleşim",
-      "tek adam adama",
-      "yıldızı durdurma",
-      "karma savunma"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 153,
-    "kategori": "basketbol",
-    "kelime": "artı eksi",
-    "aciklama": "draftta takımların kura ile ilk sıra seçim hakkını belirleme çekilişi.",
-    "yasakli_kelimeler": [
-      "plus minus",
-      "sahadayken atılan fark",
-      "verim istatistiği",
-      "fark göstergesi",
-      "etki derecesi"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 154,
-    "kategori": "basketbol",
-    "kelime": "şut yüzdesi",
-    "aciklama": "draftta ilk sırada seçilen en yetenekli genç basketbolcu.",
-    "yasakli_kelimeler": [
-      "isabet oranı",
-      "yüzdelik başarı",
-      "toplam deneme",
-      "şut istatistiği",
-      "yüzde"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 155,
-    "kategori": "basketbol",
-    "kelime": "faul yüzdesi",
-    "aciklama": "nba'de ilk sezonunu oynayan çaylak genç oyuncu.",
-    "yasakli_kelimeler": [
-      "serbest atış başarısı",
-      "çizgi performansı",
-      "ceza atışı yüzdesi",
-      "oran",
-      "isabet"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 156,
-    "kategori": "basketbol",
-    "kelime": "verimlilik puanı",
-    "aciklama": "nba'de normal sezonun en değerli oyuncusuna verilen mvp ödülü.",
-    "yasakli_kelimeler": [
-      "efficiency",
-      "artılar eksiler",
-      "genel performans",
-      "maç karnesi",
-      "puanlama"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 157,
-    "kategori": "basketbol",
-    "kelime": "şampiyonluk ödülü",
-    "aciklama": "nba finallerinin en değerli oyuncusuna verilen prestijli ödül.",
-    "yasakli_kelimeler": [
-      "final ödülü",
-      "kupa kaldırma",
-      "play-off şampiyonu",
-      "altın kupa",
-      "sezon zirvesi"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 158,
-    "kategori": "basketbol",
-    "kelime": "şampiyonluk yüzüğü",
-    "aciklama": "nba'de yılın en iyi savunma yapan oyuncusuna verilen ödül.",
-    "yasakli_kelimeler": [
-      "pırlantalı yüzük",
-      "parmağa takılan",
-      "şampiyon kadro",
-      "amerikan geleneği",
-      "yüzük sayısı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 159,
-    "kategori": "basketbol",
-    "kelime": "amerikan ligi",
-    "aciklama": "nba'de oyuna kenardan girip en çok katkı veren oyuncu ödülü.",
-    "yasakli_kelimeler": [
-      "kuzey amerika",
-      "dünyanın en iyisi",
-      "süperstarlar",
-      "atletizm",
-      "otuz takım"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 160,
-    "kategori": "basketbol",
-    "kelime": "kıta ligi",
-    "aciklama": "nba'de bir önceki sezona göre en çok aşama kaydeden oyuncu.",
-    "yasakli_kelimeler": [
-      "euroleague",
-      "final four",
-      "kıta şampiyonası",
-      "avrupa kulüpleri",
-      "taktiksel lig"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 161,
+    "id": 63,
     "kategori": "basketbol",
     "kelime": "milli takım",
     "aciklama": "nba'de sezonun en başarılı başantrenörüne verilen resmi ödül.",
@@ -2254,7 +882,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 162,
+    "id": 64,
     "kategori": "basketbol",
     "kelime": "basketbol ligi",
     "aciklama": "tüm zamanların en büyük basketbolcusu kabul edilen efsanevi michael jordan.",
@@ -2268,7 +896,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 163,
+    "id": 65,
     "kategori": "basketbol",
     "kelime": "smaç yarışması",
     "aciklama": "nba tarihinin en çok sayı atan efsanevi süperstarı lebron james.",
@@ -2282,7 +910,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 164,
+    "id": 66,
     "kategori": "basketbol",
     "kelime": "üçlük yarışması",
     "aciklama": "los angeles lakers efsanesi kara mamba lakaplı kobe bryant.",
@@ -2296,7 +924,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 165,
+    "id": 67,
     "kategori": "basketbol",
     "kelime": "yıldızlar karması",
     "aciklama": "on bir nba şampiyonluğu kazanan efsanevi bill russell.",
@@ -2310,49 +938,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 166,
-    "kategori": "basketbol",
-    "kelime": "sezonun oyuncusu",
-    "aciklama": "bir maçta yüz sayı atan efsanevi wilt chamberlain.",
-    "yasakli_kelimeler": [
-      "mvp",
-      "en değerli",
-      "sezon ödülü",
-      "bireysel başarı",
-      "trophy"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 167,
-    "kategori": "basketbol",
-    "kelime": "yılın savunmacısı",
-    "aciklama": "gösterişli paslarıyla lakers showtime döneminin lideri magic johnson.",
-    "yasakli_kelimeler": [
-      "dpoy",
-      "en iyi defans",
-      "blok ve ribaunt",
-      "savunma unvanı",
-      "yılın ödülü"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 168,
-    "kategori": "basketbol",
-    "kelime": "ribaund mücadelesi",
-    "aciklama": "boston celtics efsanesi ölümcül şutör larry bird.",
-    "yasakli_kelimeler": [
-      "pota altı savaşı",
-      "yer kapma",
-      "seken top kavgası",
-      "itip kakışma",
-      "box out mücadelesi"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 169,
+    "id": 68,
     "kategori": "basketbol",
     "kelime": "pota altı",
     "aciklama": "gökyüzünden kavisli çengel atışıyla tanınan efsane kareem abdul-jabbar.",
@@ -2366,440 +952,6 @@
     "zorluk": "orta"
   },
   {
-    "id": 170,
-    "kategori": "basketbol",
-    "kelime": "dönüş hareketi",
-    "aciklama": "pota altını yıkan devasa cüsseli dominant pivot shaquille o'neal.",
-    "yasakli_kelimeler": [
-      "pivot hareketi",
-      "sabit ayak",
-      "dönme",
-      "adım kuralı",
-      "yön arama"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 171,
-    "kategori": "basketbol",
-    "kelime": "panya arkası",
-    "aciklama": "üçlükleriyle modern basketbolu tamamen değiştiren süper şutör stephen curry.",
-    "yasakli_kelimeler": [
-      "levha gerisi",
-      "dışarı çıkma",
-      "geçersiz alan",
-      "arkalık gerisi",
-      "oyun dışı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 172,
-    "kategori": "basketbol",
-    "kelime": "el üstü",
-    "aciklama": "hızlı oyunu ve inanılmaz fiziğiyle bilinen yunan süperstar giannis antetokounmpo.",
-    "yasakli_kelimeler": [
-      "savunma eli",
-      "göz önünde el",
-      "zor şut",
-      "baskı altında isabet",
-      "contested shot"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 173,
-    "kategori": "basketbol",
-    "kelime": "penetre etme",
-    "aciklama": "inanılmaz pasları ve oyun zekasıyla tanınan sırp pivot nikola jokic.",
-    "yasakli_kelimeler": [
-      "savunmayı delme",
-      "içeri dalış",
-      "potaya atak",
-      "driplingle girme",
-      "yarma"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 174,
-    "kategori": "basketbol",
-    "kelime": "boş şut",
-    "aciklama": "genç yaşta nba'i domine eden sloven dahi luka doncic.",
-    "yasakli_kelimeler": [
-      "savunmasız şut",
-      "açık alan",
-      "rahat atış",
-      "isabet şansı yüksek",
-      "open shot"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 175,
-    "kategori": "basketbol",
-    "kelime": "tepe perdesi",
-    "aciklama": "nba'de all-star seçilen ilk türk milli basketbolcu mehmet okur.",
-    "yasakli_kelimeler": [
-      "tepedeki perde",
-      "gard için screen",
-      "yayın tepesi",
-      "hücum başlangıcı",
-      "merkez perde"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 176,
-    "kategori": "basketbol",
-    "kelime": "dip köşe",
-    "aciklama": "orlando magic formasıyla nba finallerine çıkan milli gurur hidayet türkoğlu.",
-    "yasakli_kelimeler": [
-      "corner three",
-      "en kısa üçlük",
-      "dip köşe şutu",
-      "kenar açısı",
-      "köşe bölgesi"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 177,
-    "kategori": "basketbol",
-    "kelime": "topsuz koşu",
-    "aciklama": "houston rockets formasıyla nba'de harikalar yaratan all-star adayı alperen şengün.",
-    "yasakli_kelimeler": [
-      "hareketlilik",
-      "boşa kaçma",
-      "topsuz hareket",
-      "perdeden çıkış",
-      "pas arayışı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 178,
-    "kategori": "basketbol",
-    "kelime": "faul problemi",
-    "aciklama": "cleveland cavaliers formasıyla nba'de başarılı maçlar çıkaran cedi osman.",
-    "yasakli_kelimeler": [
-      "erken fauller",
-      "kenarda oturmak",
-      "dördüncü faul",
-      "oyundan düşme",
-      "faul krizi"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 179,
-    "kategori": "basketbol",
-    "kelime": "tv molası",
-    "aciklama": "philadelphia yetmiş altı formasıyla nba'de oynayan milli şutörümüz furkan korkmaz.",
-    "yasakli_kelimeler": [
-      "reklam arası",
-      "yayın molası",
-      "zorunlu duraklama",
-      "ticari mola",
-      "medya"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 180,
-    "kategori": "basketbol",
-    "kelime": "şut formu",
-    "aciklama": "avrupa'da euroleague şampiyonlukları yaşayan türkiye'nin dev kulübü fenerbahçe beko.",
-    "yasakli_kelimeler": [
-      "bilek kırma",
-      "doksan derece dirsek",
-      "şut mekaniği",
-      "elden çıkış",
-      "teknik duruş"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 181,
-    "kategori": "basketbol",
-    "kelime": "ikili oyun",
-    "aciklama": "üst üste iki kez euroleague şampiyonu anadolu efes.",
-    "yasakli_kelimeler": [
-      "pick and roll",
-      "perde ve devrilme",
-      "gard ve pivot",
-      "modern taktik",
-      "ikili hücum"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 182,
-    "kategori": "basketbol",
-    "kelime": "pop oyunu",
-    "aciklama": "eurocup ve türkiye ligi şampiyonlukları olan köklü beşiktaş basketbol.",
-    "yasakli_kelimeler": [
-      "pick and pop",
-      "dışarı açılma",
-      "şutör uzun",
-      "üçlük bekleme",
-      "perde sonrası şut"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 183,
-    "kategori": "basketbol",
-    "kelime": "box out",
-    "aciklama": "eurocup şampiyonu olmuş türkiye'nin köklü spor kulübü galatasaray.",
-    "yasakli_kelimeler": [
-      "vücut koyma",
-      "sırt dayama",
-      "ribaunt engelleme",
-      "yer tutma",
-      "kutuya alma"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 184,
-    "kategori": "basketbol",
-    "kelime": "euro step",
-    "aciklama": "dokuz euroleague şampiyonluğuyla avrupa'nın en başarılı başantrenörü zeljko obradovic.",
-    "yasakli_kelimeler": [
-      "zikzak adım",
-      "ters yöne basış",
-      "avrupa adımı",
-      "blok yanıltma",
-      "manu ginobili"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 185,
-    "kategori": "basketbol",
-    "kelime": "fadeaway şut",
-    "aciklama": "anadolu efes ve panathinaikos ile euroleague kupaları kazanan ergin ataman.",
-    "yasakli_kelimeler": [
-      "arkaya sıçrayarak şut",
-      "michael jordan",
-      "kobe bryant",
-      "bloktan kaçma",
-      "geriye yatış"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 186,
-    "kategori": "basketbol",
-    "kelime": "crossover dribling",
-    "aciklama": "basketbol maçının oynandığı parke kaplı kapalı spor salonu zemini.",
-    "yasakli_kelimeler": [
-      "bilek kırma",
-      "denge bozma",
-      "allen iverson",
-      "çapraz el",
-      "ani yön değişimi"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 187,
-    "kategori": "basketbol",
-    "kelime": "drop step",
-    "aciklama": "pota çemberinin monte edildiği şeffaf cam veya akrilik levha.",
-    "yasakli_kelimeler": [
-      "pivot adımı",
-      "arkadan dönüş",
-      "pota altı adımı",
-      "çembere hamle",
-      "sırtı dönük oyun"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 188,
-    "kategori": "basketbol",
-    "kelime": "back door",
-    "aciklama": "yerden üç metre beş santim yüksekliğindeki metal basketbol çemberi.",
-    "yasakli_kelimeler": [
-      "arka kapı",
-      "savunma arkasına kaçış",
-      "agresif baskıyı cezalandırma",
-      "ters koşu",
-      "kolay turnike"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 189,
-    "kategori": "basketbol",
-    "kelime": "flare perde",
-    "aciklama": "çemberin altına asılan ve topun geçişini yavaşlatan beyaz file.",
-    "yasakli_kelimeler": [
-      "dışa açılma perdesi",
-      "şutör perdesi",
-      "kavisli koşu",
-      "topsuz perde",
-      "taktik screen"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 190,
-    "kategori": "basketbol",
-    "kelime": "stagger perde",
-    "aciklama": "çemberin altına monte edilen ve asılınca esneyen yaylı mekanizma.",
-    "yasakli_kelimeler": [
-      "ardışık iki perde",
-      "peş peşe screen",
-      "şutör kaçışı",
-      "çift perdeleme",
-      "ikili perde"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 191,
-    "kategori": "basketbol",
-    "kelime": "horns hücumu",
-    "aciklama": "pota direğinin ve tabanının çarpışmalarda koruma sağlayan yumuşak sünger kaplaması.",
-    "yasakli_kelimeler": [
-      "boynuz dizilişi",
-      "iki uzun tepede",
-      "çiftli tepe perdesi",
-      "hücum seti",
-      "horns"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 192,
-    "kategori": "basketbol",
-    "kelime": "üçgen hücum",
-    "aciklama": "turuncu renkli, deri veya kauçuk kaplı standart basketbol topu.",
-    "yasakli_kelimeler": [
-      "triangle offense",
-      "phil jackson",
-      "chicago bulls",
-      "geometrik paslaşma",
-      "efsane hücum"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 193,
-    "kategori": "basketbol",
-    "kelime": "flex hücumu",
-    "aciklama": "erkekler maçlarında kullanılan yedi numara standart maç topu.",
-    "yasakli_kelimeler": [
-      "sürekli rotasyon",
-      "dip perde",
-      "pas temelli",
-      "şablon hücum",
-      "flex screen"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 194,
-    "kategori": "basketbol",
-    "kelime": "match-up alan",
-    "aciklama": "kadınlar maçlarında kullanılan altı numara biraz daha küçük top.",
-    "yasakli_kelimeler": [
-      "alan ile adam adama melezi",
-      "karmaşık savunma",
-      "bölgede adam adama",
-      "taktiksel geçiş",
-      "savunma türü"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 195,
-    "kategori": "basketbol",
-    "kelime": "drop savunma",
-    "aciklama": "üçe üç sokak basketbolu maçlarında kullanılan altı boyutlu ağır top.",
-    "yasakli_kelimeler": [
-      "uzunun geride kalması",
-      "çemberi koruma",
-      "orta mesafe bırakma",
-      "pick and roll savunması",
-      "derine inme"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 196,
-    "kategori": "basketbol",
-    "kelime": "switch savunma",
-    "aciklama": "kaymayı önleyen tutuşlu kauçuk tabanlı ve bileği saran basketbol ayakkabısı.",
-    "yasakli_kelimeler": [
-      "adam değişme",
-      "perdede devretme",
-      "tüm pozisyonlar",
-      "otomatik değişim",
-      "savunma kuralı"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 197,
-    "kategori": "basketbol",
-    "kelime": "zayıf taraf",
-    "aciklama": "kolsuz forma ve şorttan oluşan hafif terletmeyen takım forması.",
-    "yasakli_kelimeler": [
-      "weak side",
-      "topsuz kanat",
-      "yardım savunması",
-      "boş köşe",
-      "ters taraf"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 198,
-    "kategori": "basketbol",
-    "kelime": "kuvvetli taraf",
-    "aciklama": "dizleri çarpmalara ve parke yanıklarına karşı koruyan süngerli dizlik.",
-    "yasakli_kelimeler": [
-      "strong side",
-      "topun olduğu kanat",
-      "ana hücum tarafı",
-      "yoğun alan",
-      "oyun tarafı"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 199,
-    "kategori": "basketbol",
-    "kelime": "çember altı",
-    "aciklama": "şut atan kolu sıcak tutan ve kas titreşimini azaltan kolluk.",
-    "yasakli_kelimeler": [
-      "kısıtlı alan",
-      "yarım daire",
-      "şarj koruma",
-      "hücum faul yok",
-      "pota izdüşümü"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 200,
-    "kategori": "basketbol",
-    "kelime": "flopping cezası",
-    "aciklama": "maçta darbelere karşı dişleri ve çeneyi koruyan silikon ağızlık.",
-    "yasakli_kelimeler": [
-      "kendini yere atma",
-      "abartılı tepki",
-      "aldatma cezası",
-      "hakemi kandırma",
-      "tiyatro"
-    ],
-    "zorluk": "zor"
-  },
-  {
     "kategori": "basketbol",
     "kelime": "şut atmak",
     "aciklama": "skor tabelasında skoru, süreyi ve faul sayılarını yöneten masa hakemleri.",
@@ -2811,7 +963,7 @@
       "el"
     ],
     "zorluk": "kolay",
-    "id": 201
+    "id": 69
   },
   {
     "kategori": "basketbol",
@@ -2825,7 +977,7 @@
       "asist"
     ],
     "zorluk": "kolay",
-    "id": 202
+    "id": 70
   },
   {
     "kategori": "basketbol",
@@ -2839,7 +991,7 @@
       "koşmak"
     ],
     "zorluk": "kolay",
-    "id": 203
+    "id": 71
   },
   {
     "kategori": "basketbol",
@@ -2853,7 +1005,7 @@
       "sağ sol"
     ],
     "zorluk": "kolay",
-    "id": 204
+    "id": 72
   },
   {
     "kategori": "basketbol",
@@ -2867,7 +1019,7 @@
       "pota"
     ],
     "zorluk": "kolay",
-    "id": 205
+    "id": 73
   },
   {
     "kategori": "basketbol",
@@ -2881,7 +1033,7 @@
       "savunma"
     ],
     "zorluk": "kolay",
-    "id": 206
+    "id": 74
   },
   {
     "kategori": "basketbol",
@@ -2895,7 +1047,7 @@
       "beş faul"
     ],
     "zorluk": "kolay",
-    "id": 207
+    "id": 75
   },
   {
     "kategori": "basketbol",
@@ -2909,35 +1061,7 @@
       "kenara gelme"
     ],
     "zorluk": "kolay",
-    "id": 208
-  },
-  {
-    "kategori": "basketbol",
-    "kelime": "serbest atış kullanmak",
-    "aciklama": "sahanın en önünde parke kenarında oturan ayrıcalıklı vip seyirci koltukları.",
-    "yasakli_kelimeler": [
-      "çizgi",
-      "faul atışı",
-      "tek puan",
-      "savunmasız",
-      "hakem"
-    ],
-    "zorluk": "kolay",
-    "id": 209
-  },
-  {
-    "kategori": "basketbol",
-    "kelime": "savunma yapmak",
-    "aciklama": "seyircilerin tezahüratlarla salonu cehenneme çevirdiği yüksek atmosferli iç saha.",
-    "yasakli_kelimeler": [
-      "engellemek",
-      "kollar açık",
-      "adam adama",
-      "baskı",
-      "potayı koruma"
-    ],
-    "zorluk": "kolay",
-    "id": 210
+    "id": 76
   },
   {
     "kategori": "basketbol",
@@ -2951,7 +1075,7 @@
       "hızlı hücum"
     ],
     "zorluk": "kolay",
-    "id": 211
+    "id": 77
   },
   {
     "kategori": "basketbol",
@@ -2965,7 +1089,7 @@
       "sıçrama"
     ],
     "zorluk": "kolay",
-    "id": 212
+    "id": 78
   },
   {
     "kategori": "basketbol",
@@ -2979,7 +1103,7 @@
       "şut"
     ],
     "zorluk": "orta",
-    "id": 213
+    "id": 79
   },
   {
     "kategori": "basketbol",
@@ -2993,510 +1117,6 @@
       "sayı yaptırma"
     ],
     "zorluk": "orta",
-    "id": 214
-  },
-  {
-    "kategori": "basketbol",
-    "kelime": "perdeleme yapmak",
-    "aciklama": "engelli sporcuların özel tekerlekli sandalyelerle oynadığı paralimpik basketbol branşı.",
-    "yasakli_kelimeler": [
-      "screen",
-      "blokaj",
-      "set",
-      "önünü kesme",
-      "pick and roll"
-    ],
-    "zorluk": "orta",
-    "id": 215
-  },
-  {
-    "kategori": "basketbol",
-    "kelime": "perdelemeyle devrilmek",
-    "aciklama": "yetenekli genç basketbolcuların yetiştirildiği kulüp altyapı akademisi.",
-    "yasakli_kelimeler": [
-      "ikili oyun",
-      "devrilme",
-      "uzun oyuncu",
-      "perde",
-      "pas"
-    ],
-    "zorluk": "orta",
-    "id": 216
-  },
-  {
-    "kategori": "basketbol",
-    "kelime": "fast break çıkmak",
-    "aciklama": "genç basketbolcuların yaz aylarında tekniklerini geliştirdiği eğitim kampı.",
-    "yasakli_kelimeler": [
-      "hızlı hücum",
-      "koşma",
-      "boş turnike",
-      "kontratak",
-      "savunma yerleşmeden"
-    ],
-    "zorluk": "orta",
-    "id": 217
-  },
-  {
-    "kategori": "basketbol",
-    "kelime": "adımlama hatası yapmak",
-    "aciklama": "koçun molalarda taktik ve setleri çizdiği beyaz silinebilir tahta.",
-    "yasakli_kelimeler": [
-      "steps",
-      "yürüme",
-      "sektirmeme",
-      "adım",
-      "düdük"
-    ],
-    "zorluk": "orta",
-    "id": 218
-  },
-  {
-    "kategori": "basketbol",
-    "kelime": "çift sürme yapmak",
-    "aciklama": "takımın hücumda ve savunmada uyguladığı önceden çalışılmış taktik planlar.",
-    "yasakli_kelimeler": [
-      "hatalı yürüme",
-      "durdurma",
-      "tekrar sürme",
-      "iki el",
-      "kural hatası"
-    ],
-    "zorluk": "orta",
-    "id": 219
-  },
-  {
-    "kategori": "basketbol",
-    "kelime": "adam adama savunmak",
-    "aciklama": "rakip oyuncunun zayıf yönlerini ve oyun alışkanlıklarını analiz eden rapor.",
-    "yasakli_kelimeler": [
-      "birebir",
-      "man to man",
-      "eşleşme",
-      "takip",
-      "baskı"
-    ],
-    "zorluk": "orta",
-    "id": 220
-  },
-  {
-    "kategori": "basketbol",
-    "kelime": "alan savunması yapmak",
-    "aciklama": "maç görüntülerinin incelenerek yapılan taktiksel video analiz toplantısı.",
-    "yasakli_kelimeler": [
-      "zone",
-      "2-3",
-      "bölge",
-      "parselleme",
-      "boyalı alan"
-    ],
-    "zorluk": "orta",
-    "id": 221
-  },
-  {
-    "kategori": "basketbol",
-    "kelime": "boyalı alana girmek",
-    "aciklama": "takımın kondisyonunu ve kuvvetini artıran özel atletik performans koçu.",
-    "yasakli_kelimeler": [
-      "3 saniye",
-      "pota altı",
-      "renkli bölge",
-      "post",
-      "içeri"
-    ],
-    "zorluk": "orta",
-    "id": 222
-  },
-  {
-    "kategori": "basketbol",
-    "kelime": "koridorda kalmak",
-    "aciklama": "basketbolcuların dikey sıçrama yüksekliğini artıran plyometrik kuvvet antrenmanları.",
-    "yasakli_kelimeler": [
-      "kural ihlali",
-      "boyalı alan",
-      "süre",
-      "düdük",
-      "top kaybı"
-    ],
-    "zorluk": "orta",
-    "id": 223
-  },
-  {
-    "kategori": "basketbol",
-    "kelime": "kendi sahasına dönmek",
-    "aciklama": "basketbolcuların parmak hassasiyetini ve top hakimiyetini artıran teknik driller.",
-    "yasakli_kelimeler": [
-      "geri saha",
-      "orta çizgi",
-      "backcourt",
-      "top kaybı",
-      "düdük"
-    ],
-    "zorluk": "orta",
-    "id": 224
-  },
-  {
-    "kategori": "basketbol",
-    "kelime": "pivot hareketi yapmak",
-    "aciklama": "antrenmanda her gün yüzlerce tekrarla yapılan şut geliştirme çalışması.",
-    "yasakli_kelimeler": [
-      "sabit ayak",
-      "dönüş",
-      "post",
-      "etrafında",
-      "adım"
-    ],
-    "zorluk": "orta",
-    "id": 225
-  },
-  {
-    "kategori": "basketbol",
-    "kelime": "box out yapmak",
-    "aciklama": "şut atıldıktan sonra topu toplayıp oyuncuya otomatik fırlatan ribaund robotu.",
-    "yasakli_kelimeler": [
-      "vücut koyma",
-      "sırtlama",
-      "ribaund önceliği",
-      "engelleme",
-      "kalça"
-    ],
-    "zorluk": "orta",
-    "id": 226
-  },
-  {
-    "kategori": "basketbol",
-    "kelime": "alley oop yapmak",
-    "aciklama": "kondisyonu geliştirmek için sahanın bir ucundan diğerine yapılan intihar koşuları.",
-    "yasakli_kelimeler": [
-      "havada yakalama",
-      "smaç",
-      "havadan pas",
-      "uçarak",
-      "estetik"
-    ],
-    "zorluk": "orta",
-    "id": 227
-  },
-  {
-    "kategori": "basketbol",
-    "kelime": "crossover yapmak",
-    "aciklama": "basketbolcuların ayak çabukluğunu ve çevikliğini geliştiren merdiven drilleri.",
-    "yasakli_kelimeler": [
-      "el değiştirme",
-      "bacak arası",
-      "çalım",
-      "bilek kırma",
-      "savunma"
-    ],
-    "zorluk": "orta",
-    "id": 228
-  },
-  {
-    "kategori": "basketbol",
-    "kelime": "tam saha basmak",
-    "aciklama": "antrenmanda beşe beş taktik maç yaparak setleri uygulama çalışması.",
-    "yasakli_kelimeler": [
-      "full court press",
-      "pres",
-      "top çıkarma",
-      "8 saniye",
-      "tüm saha"
-    ],
-    "zorluk": "orta",
-    "id": 229
-  },
-  {
-    "kategori": "basketbol",
-    "kelime": "buzzer beater atmak",
-    "aciklama": "antrenman sonunda yapılan serbest atış ve şut yarışması ritüeli.",
-    "yasakli_kelimeler": [
-      "son saniye",
-      "korna",
-      "maç kazandıran",
-      "süresi biterken",
-      "mucize şut"
-    ],
-    "zorluk": "orta",
-    "id": 230
-  },
-  {
-    "kategori": "basketbol",
-    "kelime": "teknik faul almak",
-    "aciklama": "maç öncesi soyunma odasında yapılan motivasyon ve taktik konuşması.",
-    "yasakli_kelimeler": [
-      "itiraz",
-      "koç",
-      "hakem",
-      "sportmenlik dışı",
-      "ceza"
-    ],
-    "zorluk": "orta",
-    "id": 231
-  },
-  {
-    "kategori": "basketbol",
-    "kelime": "hücum faul yapmak",
-    "aciklama": "oyuncuların sahaya çıkmadan önce el ele tutuşup attığı takım yemini.",
-    "yasakli_kelimeler": [
-      "şarj",
-      "sabit savunma",
-      "çarpmak",
-      "düşürmek",
-      "top kaybı"
-    ],
-    "zorluk": "orta",
-    "id": 232
-  },
-  {
-    "kategori": "basketbol",
-    "kelime": "fadeaway atmak",
-    "aciklama": "maçtan önce yapılan dinamik esneme ve şut atma ısınma seansı.",
-    "yasakli_kelimeler": [
-      "geriye sıçrama",
-      "jordan",
-      "kobe",
-      "mesafe açma",
-      "şut"
-    ],
-    "zorluk": "orta",
-    "id": 233
-  },
-  {
-    "kategori": "basketbol",
-    "kelime": "step back yapmak",
-    "aciklama": "oyuncuların yedek kulübesinde birbirine su verip havlu sallayarak verdiği destek.",
-    "yasakli_kelimeler": [
-      "geriye adım",
-      "harden",
-      "üçlük",
-      "alan yaratma",
-      "şut"
-    ],
-    "zorluk": "orta",
-    "id": 234
-  },
-  {
-    "kategori": "basketbol",
-    "kelime": "top kaybı yapmak",
-    "aciklama": "sayı sonrası oyuncuların ellerini birbirine vurarak yaptığı kutlama hareketi.",
-    "yasakli_kelimeler": [
-      "turnover",
-      "kaptırmak",
-      "kötü pas",
-      "hata",
-      "hücum hakkı"
-    ],
-    "zorluk": "orta",
-    "id": 235
-  },
-  {
-    "kategori": "basketbol",
-    "kelime": "uzatmaya gitmek",
-    "aciklama": "oyuncuların sayıdan sonra göğüslerini birbirine çarpması sevinç gösterisi.",
-    "yasakli_kelimeler": [
-      "beraberlik",
-      "beş dakika",
-      "ekstra devre",
-      "overtime",
-      "eşitlik"
-    ],
-    "zorluk": "orta",
-    "id": 236
-  },
-  {
-    "kategori": "basketbol",
-    "kelime": "double double yapmak",
-    "aciklama": "maçın son düdüğüyle gelen şampiyonluk konfetileri ve kupa töreni sevinci.",
-    "yasakli_kelimeler": [
-      "çift hane",
-      "istatistik",
-      "10 sayı 10 ribaund",
-      "performans",
-      "başarı"
-    ],
-    "zorluk": "zor",
-    "id": 237
-  },
-  {
-    "kategori": "basketbol",
-    "kelime": "triple double yapmak",
-    "aciklama": "şampiyonluk sonrası soyunma odasında patlatılan kutlama şampanyası geleneği.",
-    "yasakli_kelimeler": [
-      "üç hane",
-      "westbrook",
-      "sayı ribaund asist",
-      "efsane",
-      "komple"
-    ],
-    "zorluk": "zor",
-    "id": 238
-  },
-  {
-    "kategori": "basketbol",
-    "kelime": "rotasyon yapmak",
-    "aciklama": "şampiyon olan takımın pota filesini hatıra kesmesi.",
-    "yasakli_kelimeler": [
-      "yedek kulübesi",
-      "bench",
-      "dinlendirme",
-      "koç",
-      "ilk beş"
-    ],
-    "zorluk": "zor",
-    "id": 239
-  },
-  {
-    "kategori": "basketbol",
-    "kelime": "goaltending yapmak",
-    "aciklama": "efsaneleşmiş oyuncunun forma numarasının salona asılarak emekli edilmesi töreni.",
-    "yasakli_kelimeler": [
-      "inişteki top",
-      "çember üstü",
-      "sayı sayılması",
-      "hatalı blok",
-      "dokunma"
-    ],
-    "zorluk": "zor",
-    "id": 240
-  },
-  {
-    "kategori": "basketbol",
-    "kelime": "kasıtlı faul yapmak",
-    "aciklama": "basketbol tarihine geçmiş efsane isimlerin kabul edildiği onur şöhretler müzesi.",
-    "yasakli_kelimeler": [
-      "kasti faul",
-      "serbest atış yüzdesi",
-      "taktik faul",
-      "shaquille",
-      "strateji"
-    ],
-    "zorluk": "zor",
-    "id": 241
-  },
-  {
-    "kategori": "basketbol",
-    "kelime": "mismatch yaratmak",
-    "aciklama": "oyuncunun bileğinin burkulmasını önlemek için yapılan koruyucu bantlama.",
-    "yasakli_kelimeler": [
-      "ters eşleşme",
-      "boy farkı",
-      "hız avantajı",
-      "switch",
-      "hücum"
-    ],
-    "zorluk": "zor",
-    "id": 242
-  },
-  {
-    "kategori": "basketbol",
-    "kelime": "post up oynamak",
-    "aciklama": "ayak bileği bağlarının esnemesi sonucu oluşan şişlik ve burkulma sakatlığı.",
-    "yasakli_kelimeler": [
-      "sırtı dönük",
-      "alçak post",
-      "omuzla itme",
-      "uzun oyuncu",
-      "boyalı alan"
-    ],
-    "zorluk": "zor",
-    "id": 243
-  },
-  {
-    "kategori": "basketbol",
-    "kelime": "switch savunması yapmak",
-    "aciklama": "basketbolcularda diz ekleminde sık görülen ön çapraz bağ kopması sakatlığı.",
-    "yasakli_kelimeler": [
-      "adam değişme",
-      "perdeleme",
-      "iletişim",
-      "savunma",
-      "mismatch"
-    ],
-    "zorluk": "zor",
-    "id": 244
-  },
-  {
-    "kategori": "basketbol",
-    "kelime": "karma savunma yapmak",
-    "aciklama": "dizin hemen altındaki tendonda zıplamaya bağlı aşırı yüklenme ağrısı sendromu.",
-    "yasakli_kelimeler": [
-      "karma savunma",
-      "yıldız kitleme",
-      "kombine",
-      "alan ve adam",
-      "savunma"
-    ],
-    "zorluk": "zor",
-    "id": 245
-  },
-  {
-    "kategori": "basketbol",
-    "kelime": "eurostep atmak",
-    "aciklama": "topun parmak ucuna çarpmasıyla oluşan parmak incinmesi.",
-    "yasakli_kelimeler": [
-      "ginobili",
-      "yön değiştirme",
-      "adımlama",
-      "çalım",
-      "turnike"
-    ],
-    "zorluk": "zor",
-    "id": 246
-  },
-  {
-    "kategori": "basketbol",
-    "kelime": "drop coverage uygulamak",
-    "aciklama": "rakiple çarpışma sonucu oluşan morarma ve kas içi kanama ezilmesi.",
-    "yasakli_kelimeler": [
-      "uzun savunma",
-      "geride kalma",
-      "orta mesafe bırakma",
-      "şut riski",
-      "çember koruma"
-    ],
-    "zorluk": "zor",
-    "id": 247
-  },
-  {
-    "kategori": "basketbol",
-    "kelime": "ikili perdeleme kurmak",
-    "aciklama": "maçın kritik anlarında iki takımın karşılıklı basketlerle skoru değiştirmesi.",
-    "yasakli_kelimeler": [
-      "arka perde",
-      "üçlü oyun",
-      "guard",
-      "ispanyol seti",
-      "hücum"
-    ],
-    "zorluk": "zor",
-    "id": 248
-  },
-  {
-    "kategori": "basketbol",
-    "kelime": "vektörel hücum çizmek",
-    "aciklama": "farkın yirmi sayıdan geriye düşülerek maçın mucizevi şekilde kazanılması.",
-    "yasakli_kelimeler": [
-      "spacing",
-      "saha yerleşimi",
-      "geometri",
-      "köşe üçlüğü",
-      "boş alan"
-    ],
-    "zorluk": "zor",
-    "id": 249
-  },
-  {
-    "kategori": "basketbol",
-    "kelime": "hand off paslaşmak",
-    "aciklama": "maçın son saniyesinde pota ışığı yanarken atılıp giren galibiyet basketi.",
-    "yasakli_kelimeler": [
-      "dribble hand off",
-      "dho",
-      "elden teslim",
-      "perdeleme",
-      "hareketli şut"
-    ],
-    "zorluk": "zor",
-    "id": 250
+    "id": 80
   }
 ]

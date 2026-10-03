@@ -100,20 +100,6 @@
   {
     "id": 8,
     "kategori": "satranc",
-    "kelime": "fianchetto",
-    "aciklama": "filin uzun çaprazı kontrol etmek için konumlandırılması tekniği",
-    "yasakli_kelimeler": [
-      "fil gelişimi",
-      "uzun çapraz",
-      "b2 g2 fili",
-      "çapraz kontrol",
-      "kanat gelişimi"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 9,
-    "kategori": "satranc",
     "kelime": "çatal",
     "aciklama": "bir taşın aynı anda birden fazla taşa saldırması",
     "yasakli_kelimeler": [
@@ -126,7 +112,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 10,
+    "id": 9,
     "kategori": "satranc",
     "kelime": "şiş",
     "aciklama": "öndeki değerli taşa saldırıp arkasındaki taşı hedefleme taktiği",
@@ -140,7 +126,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 11,
+    "id": 10,
     "kategori": "satranc",
     "kelime": "açmaz",
     "aciklama": "arkasındaki değerli taşı korumak için hareket edemeyen taş",
@@ -154,7 +140,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 12,
+    "id": 11,
     "kategori": "satranc",
     "kelime": "açarak şah",
     "aciklama": "bir taşın hareket ederek arkasındaki taşın önünü açması",
@@ -168,7 +154,7 @@
     "zorluk": "zor"
   },
   {
-    "id": 13,
+    "id": 12,
     "kategori": "satranc",
     "kelime": "çifte şah",
     "aciklama": "aynı anda iki taşla birden yapılan şah çekişi",
@@ -182,7 +168,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 14,
+    "id": 13,
     "kategori": "satranc",
     "kelime": "değirmen",
     "aciklama": "rakibin hamle yapma zorunluluğundan dolayı konumunun bozulması durumu",
@@ -196,7 +182,7 @@
     "zorluk": "zor"
   },
   {
-    "id": 15,
+    "id": 14,
     "kategori": "satranc",
     "kelime": "boğmaca matı",
     "aciklama": "önünde veya komşu dikeyinde kendisini engelleyecek piyon bulunmayan piyon",
@@ -210,7 +196,7 @@
     "zorluk": "zor"
   },
   {
-    "id": 16,
+    "id": 15,
     "kategori": "satranc",
     "kelime": "merdiven matı",
     "aciklama": "komşu sütunlarında kendisini koruyacak başka piyon bulunmayan piyon",
@@ -224,7 +210,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 17,
+    "id": 16,
     "kategori": "satranc",
     "kelime": "aptal matı",
     "aciklama": "aynı dikey sütun üzerinde alt alta sıralanmış piyonlar",
@@ -238,7 +224,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 18,
+    "id": 17,
     "kategori": "satranc",
     "kelime": "çoban matı",
     "aciklama": "geride kalmış ve komşuları tarafından korunamayan zayıf piyon",
@@ -252,21 +238,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 19,
-    "kategori": "satranc",
-    "kelime": "zugzwang",
-    "aciklama": "üzerinde piyon bulunmayan ve kalelerin kontrol ettiği dikey sütun",
-    "yasakli_kelimeler": [
-      "hamle zorunluluğu",
-      "kötüleşen konum",
-      "oyun sonu krizi",
-      "hamle sırası dezavantajı",
-      "çaresizlik"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 20,
+    "id": 18,
     "kategori": "satranc",
     "kelime": "tempo",
     "aciklama": "sadece bir tarafın piyonu bulunan dikey sütun",
@@ -280,133 +252,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 21,
-    "kategori": "satranc",
-    "kelime": "triangülasyon",
-    "aciklama": "aynı hat üzerine yerleştirilen iki kale veya vezir gücü",
-    "yasakli_kelimeler": [
-      "üçgen çizme",
-      "şah manevrası",
-      "hamle devri",
-      "kare kaybı",
-      "oyun sonu taktiği"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 22,
-    "kategori": "satranc",
-    "kelime": "opozisyon",
-    "aciklama": "rakibin taş fedasını kabul ederek oynama tercihi",
-    "yasakli_kelimeler": [
-      "karşı karşıya gelme",
-      "şah yüzleşmesi",
-      "tek kare aralık",
-      "kritik kare",
-      "geçit vermeme"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 23,
-    "kategori": "satranc",
-    "kelime": "kritik kareler",
-    "aciklama": "rakibin sunduğu gambit fedasını almadan devam etme tercihi",
-    "yasakli_kelimeler": [
-      "anahtar kareler",
-      "piyon terfisi",
-      "şah hedefi",
-      "kazanç karesi",
-      "oyun sonu teorisi"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 24,
-    "kategori": "satranc",
-    "kelime": "kare kuralı",
-    "aciklama": "beklenen hamleden önce araya sıkıştırılan şaşırtıcı ara hamle",
-    "yasakli_kelimeler": [
-      "geometrik hesap",
-      "şah piyon kovalamacası",
-      "köşegen karesi",
-      "terfi karesi",
-      "zamanlama"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 25,
-    "kategori": "satranc",
-    "kelime": "lucena konumu",
-    "aciklama": "avantaj sağlamak için yapılan zorunlu ve hesaplı hamleler dizisi",
-    "yasakli_kelimeler": [
-      "köprü kurma",
-      "kale piyon sonu",
-      "kazandıran plan",
-      "şah siperi",
-      "teorik konum"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 26,
-    "kategori": "satranc",
-    "kelime": "philidor konumu",
-    "aciklama": "taktik veya konumsal kazanç için yapılan bilinçli taş fedası",
-    "yasakli_kelimeler": [
-      "kale savunması",
-      "beraberlik hattı",
-      "üçüncü yatay",
-      "arkadan şah",
-      "savunma teorisi"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 27,
-    "kategori": "satranc",
-    "kelime": "uzun çapraz",
-    "aciklama": "oyunun ilk hamlelerinde taşları geliştirmeye yönelik stratejik evre",
-    "yasakli_kelimeler": [
-      "ana köşegen",
-      "büyük çapraz",
-      "fianchetto fili",
-      "a1 h8 hattı",
-      "sekiz karelik hat"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 28,
-    "kategori": "satranc",
-    "kelime": "açık dikey",
-    "aciklama": "açılış hamlelerinin ardındaki teorik ve stratejik hamle varyantı",
-    "yasakli_kelimeler": [
-      "piyonsuz sütun",
-      "kale hattı",
-      "dikey hat",
-      "sızma yolu",
-      "ağır taş yolu"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 29,
-    "kategori": "satranc",
-    "kelime": "yarı açık dikey",
-    "aciklama": "taşların oyuna hızlı ve koordineli şekilde sokulması süreci",
-    "yasakli_kelimeler": [
-      "tek taraflı dikey",
-      "baskı hattı",
-      "hedef piyon",
-      "kale sütunu",
-      "hücum hattı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 30,
+    "id": 19,
     "kategori": "satranc",
     "kelime": "kapalı konum",
     "aciklama": "tahtanın merkezindeki dört ana karenin denetimini ele geçirme",
@@ -420,7 +266,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 31,
+    "id": 20,
     "kategori": "satranc",
     "kelime": "açık konum",
     "aciklama": "oyuncuların hamle yapabileceği veya taş yerleştirebileceği alan",
@@ -434,35 +280,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 32,
-    "kategori": "satranc",
-    "kelime": "izole piyon",
-    "aciklama": "taşların hareket kabiliyetini artıran serbest manevra alanı",
-    "yasakli_kelimeler": [
-      "yalnız piyon",
-      "desteksiz",
-      "zayıflık",
-      "komşusuz piyon",
-      "hedef"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 33,
-    "kategori": "satranc",
-    "kelime": "asılı piyonlar",
-    "aciklama": "şahın güvenliğini ve piyon yapısını zayıflatan boş kare",
-    "yasakli_kelimeler": [
-      "yan yana piyonlar",
-      "desteksiz ikili",
-      "c ve d piyonu",
-      "dinamik güç",
-      "potansiyel hedef"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 34,
+    "id": 21,
     "kategori": "satranc",
     "kelime": "duble piyon",
     "aciklama": "rakip piyonların baskısından uzak stratejik kontrol noktası karesi",
@@ -476,7 +294,7 @@
     "zorluk": "zor"
   },
   {
-    "id": 35,
+    "id": 22,
     "kategori": "satranc",
     "kelime": "geçer piyon",
     "aciklama": "piyonların oluşturduğu ve oyun planını belirleyen stratejik dizilim",
@@ -490,77 +308,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 36,
-    "kategori": "satranc",
-    "kelime": "uzak geçer piyon",
-    "aciklama": "piyon zincirinin en önünde ve savunmasız olan piyon",
-    "yasakli_kelimeler": [
-      "kenar geçeri",
-      "şah saptırma",
-      "a veya h piyonu",
-      "oyun sonu silahı",
-      "uzak piyon"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 37,
-    "kategori": "satranc",
-    "kelime": "piyon adası",
-    "aciklama": "piyon zincirini arkadan destekleyen en dipteki koruyucu piyon",
-    "yasakli_kelimeler": [
-      "piyon grubu",
-      "bağlantılı piyonlar",
-      "yapı kalitesi",
-      "ada sayısı",
-      "yapısal denge"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 38,
-    "kategori": "satranc",
-    "kelime": "piyon zinciri",
-    "aciklama": "rakip piyon yapısını dağıtmak için yapılan piyon sürüşü",
-    "yasakli_kelimeler": [
-      "çapraz koruma",
-      "zincir tabanı",
-      "piyon yapısı",
-      "fransız savunması",
-      "sağlam duvar"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 39,
-    "kategori": "satranc",
-    "kelime": "piyon çoğunluğu",
-    "aciklama": "oyunun en güçlü ve tüm yönlere hareket edebilen taşı",
-    "yasakli_kelimeler": [
-      "kanat üstünlüğü",
-      "geçer yaratma",
-      "çoğunluk",
-      "sayısal üstünlük",
-      "piyon avantajı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 40,
-    "kategori": "satranc",
-    "kelime": "alan üstünlüğü",
-    "aciklama": "dikey ve yatay hatlarda düz hareket eden ağır taş",
-    "yasakli_kelimeler": [
-      "geniş kontrol",
-      "hareket serbestliği",
-      "rakibi kısıtlama",
-      "baskı",
-      "merkez payı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 41,
+    "id": 23,
     "kategori": "satranc",
     "kelime": "feda",
     "aciklama": "çapraz hatlar boyunca hareket edebilen hafif taş",
@@ -574,7 +322,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 42,
+    "id": 24,
     "kategori": "satranc",
     "kelime": "kombinezon",
     "aciklama": "l şeklinde sıçrayarak taşların üzerinden atlayabilen hafif taş",
@@ -588,49 +336,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 43,
-    "kategori": "satranc",
-    "kelime": "saptırma",
-    "aciklama": "düz ilerleyen ve çapraz alan temel satranç taşı",
-    "yasakli_kelimeler": [
-      "görevden uzaklaştırma",
-      "savunmayı bozma",
-      "aldatma",
-      "saptırma taktiği",
-      "hedef şaşırtma"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 44,
-    "kategori": "satranc",
-    "kelime": "yok etme",
-    "aciklama": "oyunun en önemli ve korunması gereken temel lider taşı",
-    "yasakli_kelimeler": [
-      "savunmayı yok etme",
-      "koruyucuyu alma",
-      "yıkım",
-      "engeli kaldırma",
-      "taktik temizlik"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 45,
-    "kategori": "satranc",
-    "kelime": "boşaltma",
-    "aciklama": "oyunda bulunan iki filin tahtadaki ortak stratejik gücü",
-    "yasakli_kelimeler": [
-      "kare boşaltma",
-      "hat açma",
-      "yol verme",
-      "hücum koridoru",
-      "alan açma"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 46,
+    "id": 25,
     "kategori": "satranc",
     "kelime": "blokaj",
     "aciklama": "kendi piyonları tarafından hareket alanı kısıtlanmış pasif fil",
@@ -644,49 +350,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 47,
-    "kategori": "satranc",
-    "kelime": "zayıf kare",
-    "aciklama": "açık çaprazlarda serbestçe manevra yapabilen etkili hareketli fil",
-    "yasakli_kelimeler": [
-      "delik",
-      "korumasız kare",
-      "karargah",
-      "at yuvası",
-      "savunmasız nokta"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 48,
-    "kategori": "satranc",
-    "kelime": "ön karakol",
-    "aciklama": "şahı tehdit ederek rakibi savunma yapmaya zorlama hamlesi",
-    "yasakli_kelimeler": [
-      "at karesi",
-      "ileri karakol",
-      "sağlam nokta",
-      "outpost",
-      "merkezi üs"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 49,
-    "kategori": "satranc",
-    "kelime": "yedinci yatay",
-    "aciklama": "feda edilerek rakibin taşını savunmadan uzaklaştırma taktiği",
-    "yasakli_kelimeler": [
-      "kale sızması",
-      "ikinci yatay",
-      "piyon biçme",
-      "mutlak güç",
-      "kale hakimiyeti"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 50,
+    "id": 26,
     "kategori": "satranc",
     "kelime": "ağır taşlar",
     "aciklama": "rakibin savunma taşını alarak veya uzaklaştırarak zayıflatma taktiği",
@@ -700,7 +364,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 51,
+    "id": 27,
     "kategori": "satranc",
     "kelime": "hafif taşlar",
     "aciklama": "rakip taşların hareket hatlarını keserek yapılan engelleme hamlesi",
@@ -714,35 +378,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 52,
-    "kategori": "satranc",
-    "kelime": "kalite",
-    "aciklama": "rakip taşı kendi istediği kareye zorla çekme taktiği",
-    "yasakli_kelimeler": [
-      "değer farkı",
-      "kale hafif taş farkı",
-      "kalite fedası",
-      "iki puanlık fark",
-      "materyal avantajı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 53,
-    "kategori": "satranc",
-    "kelime": "feda kalitesi",
-    "aciklama": "rakip taşı kaçamayacağı bir kareye hapsederek ele geçirme",
-    "yasakli_kelimeler": [
-      "kale vermek",
-      "stratejik fedakarlık",
-      "değişim fedası",
-      "pozisyonel üstünlük",
-      "petrosian tarzı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 54,
+    "id": 28,
     "kategori": "satranc",
     "kelime": "materyal",
     "aciklama": "birbirini koruyan iki değerli taşın aynı anda vurulması",
@@ -756,21 +392,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 55,
-    "kategori": "satranc",
-    "kelime": "inisiyatif",
-    "aciklama": "aynı anda birden fazla kritik tehdit oluşturma durumu",
-    "yasakli_kelimeler": [
-      "saldırı hakkı",
-      "hamle kontrolü",
-      "baskı yapma",
-      "tehdit üretme",
-      "aktiflik"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 56,
+    "id": 29,
     "kategori": "satranc",
     "kelime": "merkez hakimiyeti",
     "aciklama": "rakibin gelecekteki tehditlerini önceden sezip engelleyen koruyucu hamle",
@@ -784,7 +406,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 57,
+    "id": 30,
     "kategori": "satranc",
     "kelime": "sicilya savunması",
     "aciklama": "şahın güvenliğini sağlamak için tahtayı zihinsel ikiye bölme",
@@ -798,7 +420,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 58,
+    "id": 31,
     "kategori": "satranc",
     "kelime": "fransız savunması",
     "aciklama": "şaha yönelen piyon fırtınası ve taş saldırısı hücumu",
@@ -812,35 +434,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 59,
-    "kategori": "satranc",
-    "kelime": "caro-kann",
-    "aciklama": "vezir kanadındaki piyonlarla alan kazanma ve yarma stratejisi",
-    "yasakli_kelimeler": [
-      "c6 hamlesi",
-      "sağlam yapı",
-      "açık fil",
-      "kapalı merkez",
-      "klasik savunma"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 60,
-    "kategori": "satranc",
-    "kelime": "ruy lopez",
-    "aciklama": "rakip şahın önündeki koruyucu piyon duvarını yok etme",
-    "yasakli_kelimeler": [
-      "ispanyol açılışı",
-      "fb5 hamlesi",
-      "açılış teorisi",
-      "berlin duvarı",
-      "derin strateji"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 61,
+    "id": 32,
     "kategori": "satranc",
     "kelime": "italyan açılışı",
     "aciklama": "satranç tahtasında yatay olarak dizilmiş sekiz karelik hat",
@@ -854,7 +448,7 @@
     "zorluk": "zor"
   },
   {
-    "id": 62,
+    "id": 33,
     "kategori": "satranc",
     "kelime": "vezir gambiti",
     "aciklama": "satranç tahtasında dikey olarak dizilmiş sekiz karelik hat",
@@ -868,119 +462,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 63,
-    "kategori": "satranc",
-    "kelime": "şah hint savunması",
-    "aciklama": "aynı renkli karelerin köşeden köşeye oluşturduğu eğik hat",
-    "yasakli_kelimeler": [
-      "g6 ve fg7",
-      "hint savunması",
-      "fianchetto",
-      "merkeze hücum",
-      "dinamik karşı oyun"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 64,
-    "kategori": "satranc",
-    "kelime": "nimzo-hint",
-    "aciklama": "tahtanın d4, e4, d5 ve e5 karelerinden oluşan kalbi",
-    "yasakli_kelimeler": [
-      "fb4 hamlesi",
-      "c3 atı açmazı",
-      "aron nimzowitsch",
-      "duble piyon yaratma",
-      "modern savunma"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 65,
-    "kategori": "satranc",
-    "kelime": "najdorf",
-    "aciklama": "merkez kareleri çevreleyen daha geniş stratejik kareler kuşağı",
-    "yasakli_kelimeler": [
-      "a6 varyantı",
-      "sicilya türü",
-      "kasparov tercihi",
-      "keskin varyant",
-      "taktik fırtına"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 66,
-    "kategori": "satranc",
-    "kelime": "ejderha varyantı",
-    "aciklama": "kısa taraftaki kale ile yapılan güvenli rok türü",
-    "yasakli_kelimeler": [
-      "g6 piyon yapısı",
-      "yugoslav hücumu",
-      "karşı saldırı",
-      "keskin sicilya",
-      "şah kanadı saldırısı"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 67,
-    "kategori": "satranc",
-    "kelime": "berlin duvarı",
-    "aciklama": "vezir tarafındaki kale ile yapılan uzun mesafeli rok",
-    "yasakli_kelimeler": [
-      "vezir takası",
-      "kramnik tercihi",
-      "beraberlik silahı",
-      "ruy lopez varyantı",
-      "yıkılmaz savunma"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 68,
-    "kategori": "satranc",
-    "kelime": "kombinatif oyun",
-    "aciklama": "tarafların farklı kanatlara rok atarak başlattığı saldırı oyunu",
-    "yasakli_kelimeler": [
-      "taktik satranç",
-      "feda zenginliği",
-      "hesaplama gücü",
-      "tal tarzı",
-      "dinamik satranç"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 69,
-    "kategori": "satranc",
-    "kelime": "pozisyonel oyun",
-    "aciklama": "piyonun son yataya ulaşarak güçlü bir taşa dönüşmesi",
-    "yasakli_kelimeler": [
-      "stratejik satranç",
-      "karpov tarzı",
-      "zayıflık biriktirme",
-      "sabırlı oyun",
-      "manevra satrancı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 70,
-    "kategori": "satranc",
-    "kelime": "hipermodernizm",
-    "aciklama": "piyonun vezir yerine at, kale veya file dönüştürülmesi",
-    "yasakli_kelimeler": [
-      "uzaktan kontrol",
-      "fianchetto felsefesi",
-      "nimzowitsch ve reti",
-      "merkez işgali karşıtı",
-      "modern teori"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 71,
+    "id": 34,
     "kategori": "satranc",
     "kelime": "zaman kontrolü",
     "aciklama": "son yataya ulaşarak yeni bir vezir kazanma hamlesi",
@@ -994,7 +476,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 72,
+    "id": 35,
     "kategori": "satranc",
     "kelime": "zaman sıkışması",
     "aciklama": "taraflardan birinin vezirini stratejik amaçla feda etmesi",
@@ -1008,21 +490,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 73,
-    "kategori": "satranc",
-    "kelime": "ekleme",
-    "aciklama": "kale ile hafif taşın bilinçli olarak değişilmesi hamlesi",
-    "yasakli_kelimeler": [
-      "fischer süresi",
-      "artırma",
-      "hamle başı saniye",
-      "saat kuralı",
-      "gecikme"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 74,
+    "id": 36,
     "kategori": "satranc",
     "kelime": "yıldırım satranç",
     "aciklama": "aynı değerdeki taşların karşılıklı olarak tahtadan temizlenmesi",
@@ -1036,21 +504,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 75,
-    "kategori": "satranc",
-    "kelime": "kurşun satranç",
-    "aciklama": "taktik saldırı düzenlemek için taşların bir araya toplanması",
-    "yasakli_kelimeler": [
-      "bullet",
-      "bir dakika",
-      "aşırı hızlı",
-      "zaman yarışı",
-      "premove"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 76,
+    "id": 37,
     "kategori": "satranc",
     "kelime": "hızlı satranç",
     "aciklama": "kalenin rakip kampa inip taşları süpürdüğü kritik yatay",
@@ -1064,7 +518,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 77,
+    "id": 38,
     "kategori": "satranc",
     "kelime": "klasik satranç",
     "aciklama": "rakip şahın son yatayda piyonların arkasında sıkışıp mat olması",
@@ -1078,21 +532,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 78,
-    "kategori": "satranc",
-    "kelime": "ustalık puanı",
-    "aciklama": "şahın kaçabilmesi için rok piyonunun bir kare sürülmesi",
-    "yasakli_kelimeler": [
-      "derece puanı",
-      "reyting hesabı",
-      "güç göstergesi",
-      "skor tablosu",
-      "sayısal derece"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 79,
+    "id": 39,
     "kategori": "satranc",
     "kelime": "satranç federasyonu",
     "aciklama": "şahın kendi taşları arasında sıkışıp at tarafından mat edilmesi",
@@ -1106,7 +546,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 80,
+    "id": 40,
     "kategori": "satranc",
     "kelime": "büyükusta",
     "aciklama": "açılışta f7 karesine yapılan hızlı dört hamlelik mat",
@@ -1120,7 +560,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 81,
+    "id": 41,
     "kategori": "satranc",
     "kelime": "uluslararası usta",
     "aciklama": "siyahın en hızlı şekilde yaptığı iki hamlelik mat tuzağı",
@@ -1134,119 +574,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 82,
-    "kategori": "satranc",
-    "kelime": "usta unvanı",
-    "aciklama": "iki filin çapraz hatlardan şahı kıstırarak yaptığı mat",
-    "yasakli_kelimeler": [
-      "uluslararası derece",
-      "oyuncu unvanı",
-      "yüksek derece",
-      "başarı belgesi",
-      "satranççı rütbesi"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 83,
-    "kategori": "satranc",
-    "kelime": "norm",
-    "aciklama": "fil ve at işbirliğiyle köşede yapılan zorlu mat",
-    "yasakli_kelimeler": [
-      "unvan belgesi",
-      "turnuva başarısı",
-      "gm normu",
-      "üç norm şartı",
-      "performans"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 84,
-    "kategori": "satranc",
-    "kelime": "körleme satranç",
-    "aciklama": "tek kale ve şah yardımıyla rakip şahı mat etme",
-    "yasakli_kelimeler": [
-      "gözü kapalı",
-      "tahtaya bakmadan",
-      "zihinsel oyun",
-      "hafıza gösterisi",
-      "notasyonla oynama"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 85,
-    "kategori": "satranc",
-    "kelime": "simültane",
-    "aciklama": "vezir ve şahın işbirliğiyle rakip şahı mat etme",
-    "yasakli_kelimeler": [
-      "toplu maç",
-      "onlarca masa",
-      "usta gösterisi",
-      "aynı anda oyun",
-      "tur atarak hamle"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 86,
-    "kategori": "satranc",
-    "kelime": "yazışmalı satranç",
-    "aciklama": "iki kalenin basamak taktiğiyle şahı tahta kenarında mat etmesi",
-    "yasakli_kelimeler": [
-      "mektupla satranç",
-      "sunucu oyunu",
-      "günlük hamle",
-      "derin analiz",
-      "uzaktan satranç"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 87,
-    "kategori": "satranc",
-    "kelime": "cebri hamle",
-    "aciklama": "kale ve piyon işbirliğiyle rakip şahın mat edilmesi",
-    "yasakli_kelimeler": [
-      "zorunlu hamle",
-      "kaçınılmaz",
-      "tek seçenek",
-      "mecburi hamle",
-      "seçeneksiz"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 88,
-    "kategori": "satranc",
-    "kelime": "ara hamle",
-    "aciklama": "at ve piyonun yardımıyla rakip şahın köşede matı",
-    "yasakli_kelimeler": [
-      "zwischenzug",
-      "beklenmeyen ara hamle",
-      "öncelikli vuruş",
-      "taktik sürpriz",
-      "hesap bozucu"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 89,
-    "kategori": "satranc",
-    "kelime": "arka yatay zayıflığı",
-    "aciklama": "açık dikey ve çaprazların kesişiminde şahı mat etme taktiği",
-    "yasakli_kelimeler": [
-      "son yatay zafiyeti",
-      "koridor matı",
-      "arka hat",
-      "sekizinci yatay",
-      "hava deliği yokluğu"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 90,
+    "id": 42,
     "kategori": "satranc",
     "kelime": "hava deliği",
     "aciklama": "şahın kaçamayacağı şekilde köşede kilitlenerek mat edilmesi",
@@ -1260,7 +588,7 @@
     "zorluk": "zor"
   },
   {
-    "id": 91,
+    "id": 43,
     "kategori": "satranc",
     "kelime": "koridor matı",
     "aciklama": "açılış hamlelerinin bittiği ve stratejik planların yapıldığı ana evre",
@@ -1274,21 +602,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 92,
-    "kategori": "satranc",
-    "kelime": "ebedi şah",
-    "aciklama": "çoğu taşın değişildiği ve piyon yarışının başladığı son evre",
-    "yasakli_kelimeler": [
-      "sürekli şah",
-      "beraberlik kurtarışı",
-      "sonsuz şah hamlesi",
-      "kaçamayan şah",
-      "taktik beraberlik"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 93,
+    "id": 44,
     "kategori": "satranc",
     "kelime": "üç konum tekrarı",
     "aciklama": "piyon ve şahların mücadele ettiği temel oyun sonu türü",
@@ -1302,7 +616,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 94,
+    "id": 45,
     "kategori": "satranc",
     "kelime": "elli hamle kuralı",
     "aciklama": "kalelerin aktif rol oynadığı en yaygın oyun sonu türü",
@@ -1316,63 +630,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 95,
-    "kategori": "satranc",
-    "kelime": "yetersiz materyal",
-    "aciklama": "farklı renkteki fillere sahip olunan beraberlik eğilimli oyun sonu",
-    "yasakli_kelimeler": [
-      "mat yapamama",
-      "taş azlığı",
-      "otomatik beraberlik",
-      "tek fil veya at",
-      "oyun sonu imkansızlığı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 96,
-    "kategori": "satranc",
-    "kelime": "notasyon",
-    "aciklama": "aynı renkteki fillere sahip olunan teknik oyun sonu",
-    "yasakli_kelimeler": [
-      "hamle kaydı",
-      "cebirsel yazım",
-      "koordinat",
-      "kayıt kağıdı",
-      "hamle geçmişi"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 97,
-    "kategori": "satranc",
-    "kelime": "fischer rastgele satrancı",
-    "aciklama": "atların manevralarına dayalı kapalı karakterli oyun sonu türü",
-    "yasakli_kelimeler": [
-      "chess960",
-      "bobby fischer",
-      "rastgele diziliş",
-      "ezbersiz satranç",
-      "960 pozisyon"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 98,
-    "kategori": "satranc",
-    "kelime": "stockfish",
-    "aciklama": "vezirlerin tahtada kaldığı dinamik ve tehlikeli oyun sonu",
-    "yasakli_kelimeler": [
-      "satranç motoru",
-      "analiz programı",
-      "yapay zeka",
-      "en güçlü yazılım",
-      "bilgisayar analizi"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 99,
+    "id": 46,
     "kategori": "satranc",
     "kelime": "terfi",
     "aciklama": "şahın oyun sonunda piyonları desteklemek için merkeze gelmesi",
@@ -1386,21 +644,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 100,
-    "kategori": "satranc",
-    "kelime": "röntgen",
-    "aciklama": "oyun sonunda şahların karşı karşıya gelerek birbirini engellemesi",
-    "yasakli_kelimeler": [
-      "x-ray hücumu",
-      "içinden görme",
-      "arkadaki hedef",
-      "dolaylı tehdit",
-      "hat boyunca etki"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 101,
+    "id": 47,
     "kategori": "satranc",
     "kelime": "satranç tahtası",
     "aciklama": "oyuncuların hamlelerini yazılı olarak kaydettiği standart notasyon sistemi",
@@ -1414,7 +658,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 102,
+    "id": 48,
     "kategori": "satranc",
     "kelime": "satranç taşı",
     "aciklama": "taşların konumunu tek satırda ifade eden dijital notasyon formatı",
@@ -1428,7 +672,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 103,
+    "id": 49,
     "kategori": "satranc",
     "kelime": "satranç saati",
     "aciklama": "oyuncuların kalan sürelerini kontrol eden çift kadranlı zaman sayacı",
@@ -1442,7 +686,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 104,
+    "id": 50,
     "kategori": "satranc",
     "kelime": "şah",
     "aciklama": "yapılan her hamlede oyuncunun saatine eklenen ekstra saniye süresi",
@@ -1456,7 +700,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 105,
+    "id": 51,
     "kategori": "satranc",
     "kelime": "vezir",
     "aciklama": "tarafların çok az süreyle oynadığı hızlı yıldırım satranç türü",
@@ -1470,7 +714,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 106,
+    "id": 52,
     "kategori": "satranc",
     "kelime": "kale",
     "aciklama": "oyuncu başına birer dakikalık sürenin verildiği aşırı hızlı satranç",
@@ -1484,7 +728,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 107,
+    "id": 53,
     "kategori": "satranc",
     "kelime": "fil",
     "aciklama": "oyuncu başına on ila altmış dakika verilen tempolu satranç",
@@ -1498,7 +742,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 108,
+    "id": 54,
     "kategori": "satranc",
     "kelime": "at",
     "aciklama": "her oyuncuya uzun düşünme süresi tanıyan standart turnuva temposu",
@@ -1512,7 +756,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 109,
+    "id": 55,
     "kategori": "satranc",
     "kelime": "piyon",
     "aciklama": "yapay zeka algoritmalarıyla satranç hamlelerini analiz eden yazılım motoru",
@@ -1526,7 +770,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 110,
+    "id": 56,
     "kategori": "satranc",
     "kelime": "beyaz taşlar",
     "aciklama": "oyuncunun uluslararası satranç gücünü gösteren resmi puanlama derecesi",
@@ -1540,7 +784,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 111,
+    "id": 57,
     "kategori": "satranc",
     "kelime": "siyah taşlar",
     "aciklama": "fide tarafından verilen en yüksek resmi uluslararası satranç unvanı",
@@ -1554,7 +798,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 112,
+    "id": 58,
     "kategori": "satranc",
     "kelime": "kare",
     "aciklama": "büyükustalıktan önceki prestijli uluslararası satranç ustası unvanı",
@@ -1568,7 +812,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 113,
+    "id": 59,
     "kategori": "satranc",
     "kelime": "beyaz kare",
     "aciklama": "dünya satranç federasyonu tarafından verilen resmi usta unvanı",
@@ -1582,7 +826,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 114,
+    "id": 60,
     "kategori": "satranc",
     "kelime": "siyah kare",
     "aciklama": "dünya satranç federasyonu tarafından verilen aday usta unvanı",
@@ -1596,7 +840,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 115,
+    "id": 61,
     "kategori": "satranc",
     "kelime": "dikey",
     "aciklama": "uluslararası satranç organizasyonlarını yöneten dünya satranç federasyonu",
@@ -1610,7 +854,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 116,
+    "id": 62,
     "kategori": "satranc",
     "kelime": "yatay",
     "aciklama": "benzer puandaki oyuncuları eşleştiren yaygın satranç turnuva sistemi",
@@ -1624,7 +868,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 117,
+    "id": 63,
     "kategori": "satranc",
     "kelime": "çapraz",
     "aciklama": "tüm oyuncuların birbirleriyle sırayla karşılaştığı adil turnuva sistemi",
@@ -1638,7 +882,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 118,
+    "id": 64,
     "kategori": "satranc",
     "kelime": "merkez kareler",
     "aciklama": "oyuncunun galibiyet şansı kalmadığında oyunu kendi rızasıyla bırakması",
@@ -1652,35 +896,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 119,
-    "kategori": "satranc",
-    "kelime": "kenar kareler",
-    "aciklama": "tarafların anlaşarak veya kural gereği maçı eşit puanla bitirmesi",
-    "yasakli_kelimeler": [
-      "dış çeper",
-      "a ve h dikey",
-      "hareket kısıtlılığı",
-      "tahta kenarı",
-      "flank"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 120,
-    "kategori": "satranc",
-    "kelime": "köşe kareler",
-    "aciklama": "şahın tehdit edilmeden hamlesiz kalarak oyunun berabere bitmesi",
-    "yasakli_kelimeler": [
-      "a1 h1 a8 h8",
-      "dört köşe",
-      "kale başlangıcı",
-      "köşe",
-      "en dip kare"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 121,
+    "id": 65,
     "kategori": "satranc",
     "kelime": "açılış",
     "aciklama": "aynı tahta konumunun üç kez tekrarlanmasıyla oluşan beraberlik durumu",
@@ -1694,7 +910,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 122,
+    "id": 66,
     "kategori": "satranc",
     "kelime": "oyun ortası",
     "aciklama": "elli hamle boyunca piyon sürülmeden ve taş alınmadan oluşan beraberlik",
@@ -1708,7 +924,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 123,
+    "id": 67,
     "kategori": "satranc",
     "kelime": "oyun sonu",
     "aciklama": "bir tarafın durmaksızın şah çekerek beraberliği zorlaması durumu",
@@ -1722,7 +938,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 124,
+    "id": 68,
     "kategori": "satranc",
     "kelime": "şah çekme",
     "aciklama": "tahtada mat yapmaya yetecek gücün kalmamasıyla oluşan beraberlik",
@@ -1736,7 +952,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 125,
+    "id": 69,
     "kategori": "satranc",
     "kelime": "hamle",
     "aciklama": "oyuncunun süresinin tamamen tükenmesiyle oyunu zamandan kaybetmesi durumu",
@@ -1750,35 +966,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 126,
-    "kategori": "satranc",
-    "kelime": "yasal hamle",
-    "aciklama": "dokunulan taşın oynanmasını zorunlu kılan temel kural ilkesi",
-    "yasakli_kelimeler": [
-      "kurallara uygun",
-      "geçerli hamle",
-      "izin verilen",
-      "kural dışı olmayan",
-      "hamle"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 127,
-    "kategori": "satranc",
-    "kelime": "imkansız hamle",
-    "aciklama": "oyuncunun taşı oynamadan önce düzeltmek için söylediği resmi uyarı",
-    "yasakli_kelimeler": [
-      "kural dışı",
-      "yasak hareket",
-      "şah tehdidinde oynama",
-      "hakem uyarısı",
-      "ceza puanı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 128,
+    "id": 70,
     "kategori": "satranc",
     "kelime": "taş alma",
     "aciklama": "kurallara aykırı yapılan ve geri alınması gereken hamle",
@@ -1792,7 +980,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 129,
+    "id": 71,
     "kategori": "satranc",
     "kelime": "taş değişimi",
     "aciklama": "kısa vadeli taş hareketleriyle avantaj sağlamaya dayalı taktik hamle",
@@ -1806,7 +994,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 130,
+    "id": 72,
     "kategori": "satranc",
     "kelime": "taş geliştirme",
     "aciklama": "oyunun geneline yayılan uzun vadeli plan ve konum stratejisi",
@@ -1820,21 +1008,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 131,
-    "kategori": "satranc",
-    "kelime": "taş uyumu",
-    "aciklama": "somut hesaplamalara ve taktik çarpışmalara dayalı satranç karakteri",
-    "yasakli_kelimeler": [
-      "koordinasyon",
-      "birbirini koruma",
-      "uyum",
-      "birlikte saldırı",
-      "ahenk"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 132,
+    "id": 73,
     "kategori": "satranc",
     "kelime": "kısa rok",
     "aciklama": "uzun vadeli taş manevralarına dayalı sakin konumsal yaklaşım",
@@ -1848,7 +1022,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 133,
+    "id": 74,
     "kategori": "satranc",
     "kelime": "uzun rok",
     "aciklama": "piyonların merkezde kilitlendiği ve manevra gerektiren oyun tarzı",
@@ -1862,21 +1036,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 134,
-    "kategori": "satranc",
-    "kelime": "ters rok",
-    "aciklama": "merkez piyonlarının kırışıldığı ve hatların açıldığı hızlı oyun",
-    "yasakli_kelimeler": [
-      "zıt kanat rokları",
-      "karşılıklı saldırı",
-      "piyon fırtınası",
-      "keskin konum",
-      "uzun ve kısa"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 135,
+    "id": 75,
     "kategori": "satranc",
     "kelime": "şah güvenliği",
     "aciklama": "piyon geriliminin devam ettiği esnek ve dengeli oyun yapısı",
@@ -1890,91 +1050,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 136,
-    "kategori": "satranc",
-    "kelime": "şah hücumu",
-    "aciklama": "feda yapılarak rakip şaha yönelik başlatılan hızlı saldırı oyunu",
-    "yasakli_kelimeler": [
-      "mata gitme",
-      "kaleye saldırı",
-      "taş yığma",
-      "şahı düşürme",
-      "atak"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 137,
-    "kategori": "satranc",
-    "kelime": "piyon fırtınası",
-    "aciklama": "rakibin tehditlerini önlemeye odaklanan dikkatli savunma kurgusu",
-    "yasakli_kelimeler": [
-      "piyon hücumu",
-      "kalkanı parçalama",
-      "ters rok oyunu",
-      "kanat piyonları",
-      "sürme"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 138,
-    "kategori": "satranc",
-    "kelime": "piyon yapısı",
-    "aciklama": "açılışta piyon feda ederek hızlı gelişim yakalama taktiği",
-    "yasakli_kelimeler": [
-      "piyon iskeleti",
-      "piyon zinciri",
-      "zayıf piyonlar",
-      "yapı",
-      "stratejik düzen"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 139,
-    "kategori": "satranc",
-    "kelime": "bağlı piyonlar",
-    "aciklama": "feda edilen gambit piyonunu geri almayı hedefleyen karşı gambit",
-    "yasakli_kelimeler": [
-      "birbirini koruyan",
-      "yan yana piyonlar",
-      "güçlü yapı",
-      "izole olmayan",
-      "çapraz koruma"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 140,
-    "kategori": "satranc",
-    "kelime": "geri piyon",
-    "aciklama": "rakip hamlelerine karşılık gelen tüm olası varyantların hesaplanması",
-    "yasakli_kelimeler": [
-      "arkada kalan",
-      "korunamayan",
-      "hedef olan",
-      "zayıflık",
-      "piyon"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 141,
-    "kategori": "satranc",
-    "kelime": "piyon çatalı",
-    "aciklama": "oyuncunun tahtada yaptığı en iyi ve en doğru hamle",
-    "yasakli_kelimeler": [
-      "iki taşa aynı anda",
-      "ucuz taş tehdidi",
-      "çifte tehdit",
-      "piyon sürüşü",
-      "çatal"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 142,
+    "id": 76,
     "kategori": "satranc",
     "kelime": "piyon sürme",
     "aciklama": "oyunda yapılan ciddi kural veya strateji hatası",
@@ -1988,21 +1064,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 143,
-    "kategori": "satranc",
-    "kelime": "piyon kalkanı",
-    "aciklama": "büyük avantaj kaybına veya mata yol açan vahim hata",
-    "yasakli_kelimeler": [
-      "siper",
-      "şahın önü",
-      "f g h piyonları",
-      "rok koruması",
-      "kalkan"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 144,
+    "id": 77,
     "kategori": "satranc",
     "kelime": "fil çifti",
     "aciklama": "tarafların eşit şartlarda ve dengeli konumlarda devam etmesi",
@@ -2016,91 +1078,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 145,
-    "kategori": "satranc",
-    "kelime": "ters filler",
-    "aciklama": "taraflardan birinin taş sayısı veya değerindeki net üstünlüğü",
-    "yasakli_kelimeler": [
-      "farklı renkli filler",
-      "beraberlik olasılığı",
-      "birbirine değmeyen",
-      "oyun sonu",
-      "fil"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 146,
-    "kategori": "satranc",
-    "kelime": "kanat atağı",
-    "aciklama": "taşların yerleşimi ve piyon yapısından kaynaklanan stratejik üstünlük",
-    "yasakli_kelimeler": [
-      "şah veya vezir kanadı",
-      "merkez kilitliyken",
-      "yandan saldırı",
-      "kanat oyunu",
-      "hücum"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 147,
-    "kategori": "satranc",
-    "kelime": "kötü fil",
-    "aciklama": "rakibe göre daha hızlı taş geliştirip zaman kazanma avantajı",
-    "yasakli_kelimeler": [
-      "kendi piyonuna takılan",
-      "hareketsiz fil",
-      "pasif taş",
-      "tıkanmış çapraz",
-      "zayıf taş"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 148,
-    "kategori": "satranc",
-    "kelime": "iyi fil",
-    "aciklama": "taktiksel bir üstünlüğü somut kazanca çeviren hamleler bütünü",
-    "yasakli_kelimeler": [
-      "engelsiz çapraz",
-      "aktif fil",
-      "kendi piyonundan bağımsız",
-      "güçlü taş",
-      "etkili"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 149,
-    "kategori": "satranc",
-    "kelime": "taktik feda",
-    "aciklama": "feda yoluyla rakip savunmayı dağıtan parlak taktik kombinasyon",
-    "yasakli_kelimeler": [
-      "çok kare kontrolü",
-      "etkili taş",
-      "tehdit yaratan",
-      "pasif karşıtı",
-      "dinamik"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 150,
-    "kategori": "satranc",
-    "kelime": "bozma taktiği",
-    "aciklama": "rakip taşların uyumunu bozup savunmasız bırakma taktiği",
-    "yasakli_kelimeler": [
-      "etkisiz taş",
-      "sıkışmış",
-      "hareketsiz",
-      "savunmaya bağlı",
-      "kötü konum"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 151,
+    "id": 78,
     "kategori": "satranc",
     "kelime": "at çatalı",
     "aciklama": "rakibin hamlelerini sınırlandırarak alanını daraltma konumsal baskısı",
@@ -2114,91 +1092,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 152,
-    "kategori": "satranc",
-    "kelime": "ahtapot at",
-    "aciklama": "kendi taşlarının birbiriyle uyumlu ve korumalı şekilde çalışması",
-    "yasakli_kelimeler": [
-      "altıncı yataydaki at",
-      "sekiz kol",
-      "kovulamayan at",
-      "ön karakol",
-      "merkezi güç"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 153,
-    "kategori": "satranc",
-    "kelime": "kale asansörü",
-    "aciklama": "satranç taşlarının hareket ve etki alanının genişliği gücü",
-    "yasakli_kelimeler": [
-      "üçüncü yataya çıkış",
-      "rook lift",
-      "şaha doğru yatay kayma",
-      "hücum manevrası",
-      "asansör"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 154,
-    "kategori": "satranc",
-    "kelime": "açık hat",
-    "aciklama": "şahın güvende olmaması ve rakip saldırılarına açık kalması",
-    "yasakli_kelimeler": [
-      "piyonsuz dikey",
-      "kale sütunu",
-      "kontrol mücadelesi",
-      "açık dikey",
-      "hat"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 155,
-    "kategori": "satranc",
-    "kelime": "çifte kale",
-    "aciklama": "oyuncunun düşünmek için saatinde çok az vaktinin kalması krizi",
-    "yasakli_kelimeler": [
-      "aynı dikeyde iki kale",
-      "alt alta dizilme",
-      "duble kale",
-      "açık hat baskısı",
-      "batarya"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 156,
-    "kategori": "satranc",
-    "kelime": "batarya",
-    "aciklama": "rakip şaha doğru hızlı piyon sürerek hat açma saldırısı",
-    "yasakli_kelimeler": [
-      "arka arkaya dizilme",
-      "vezir ve fil",
-      "vezir ve kale",
-      "aynı doğrultu",
-      "ateş hattı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 157,
-    "kategori": "satranc",
-    "kelime": "alekhine bataryası",
-    "aciklama": "merkez kareleri doğrudan piyonlarla doldurarak kontrol etme prensibi",
-    "yasakli_kelimeler": [
-      "iki kale bir vezir",
-      "üçlü dizilim",
-      "aynı açık dikey",
-      "aleksandr alehin",
-      "top gücü"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 158,
+    "id": 79,
     "kategori": "satranc",
     "kelime": "vezir fedası",
     "aciklama": "merkezi uzaktan fil ve atlarla kontrol etme modern teorisi",
@@ -2212,21 +1106,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 159,
-    "kategori": "satranc",
-    "kelime": "kalite kazancı",
-    "aciklama": "beyazın d4 ve siyahın d5 sürüşüyle başlayan klasik açılış",
-    "yasakli_kelimeler": [
-      "kale alma",
-      "fil veya ata karşılık",
-      "iki puanlık fark",
-      "materyal avantajı",
-      "kalite"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 160,
+    "id": 80,
     "kategori": "satranc",
     "kelime": "tuzak",
     "aciklama": "e4 sürüşüne karşılık c5 ile merkeze meydan okuyan keskin savunma",
@@ -2240,161 +1120,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 161,
-    "kategori": "satranc",
-    "kelime": "açmazdan çıkış",
-    "aciklama": "e4 sürüşüne e6 ile karşılık veren sağlam ve esnek savunma",
-    "yasakli_kelimeler": [
-      "açmazı bozma",
-      "serbest kalma",
-      "perdeleme",
-      "şahı kaçma",
-      "taktik kurtuluş"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 162,
-    "kategori": "satranc",
-    "kelime": "mutlak açmaz",
-    "aciklama": "e4 sürüşüne c6 ile karşılık veren piyon yapısı sağlam savunma",
-    "yasakli_kelimeler": [
-      "arkasında şah olan",
-      "kımıldatılamaz taş",
-      "yasal imkansızlık",
-      "kesin açmaz",
-      "açmaz"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 163,
-    "kategori": "satranc",
-    "kelime": "göreceli açmaz",
-    "aciklama": "beyazın filini b5 karesine geliştirerek başlattığı klasik ispanyol açılışı",
-    "yasakli_kelimeler": [
-      "arkasında vezir olan",
-      "oynanabilir ama zararlı",
-      "maddi kayıp",
-      "kısmi açmaz",
-      "tehdit"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 164,
-    "kategori": "satranc",
-    "kelime": "saptırma fedası",
-    "aciklama": "filin c4 karesine çıkarak f7 zayıflığına baskı kurduğu açılış",
-    "yasakli_kelimeler": [
-      "savunmayı uzaklaştırma",
-      "kareyi boşaltma",
-      "taktik motif",
-      "saptırma",
-      "feda"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 165,
-    "kategori": "satranc",
-    "kelime": "yemleme",
-    "aciklama": "beyazın d4 sürüşüne siyahın atını f6 karesine geliştirerek yanıtı",
-    "yasakli_kelimeler": [
-      "decoy",
-      "mat ağına çekme",
-      "cazip hedef",
-      "tuzak kurma",
-      "taktik yem"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 166,
-    "kategori": "satranc",
-    "kelime": "tıkama",
-    "aciklama": "beyazın feda ettiği piyonla vezir kanadını ele geçirdiği açılış",
-    "yasakli_kelimeler": [
-      "hattı kesme",
-      "araya taş koyma",
-      "korumayı engelleme",
-      "kaçış yolunu tıkama",
-      "müdahale"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 167,
-    "kategori": "satranc",
-    "kelime": "aşırı yüklenme",
-    "aciklama": "beyazın d4 hamlesine siyahın f5 ile kanattan hücum ettiği savunma",
-    "yasakli_kelimeler": [
-      "iki görevi birden üstlenme",
-      "savunmanın çökmesi",
-      "yetersiz kalma",
-      "overloading",
-      "taktik zafiyet"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 168,
-    "kategori": "satranc",
-    "kelime": "savunmayı yıkma",
-    "aciklama": "d4 hamlesine siyahın g6 ile kurduğu esnek savunma",
-    "yasakli_kelimeler": [
-      "koruyucuyu yok etme",
-      "bekçiyi alma",
-      "savunmasız bırakma",
-      "taktik vuruş",
-      "kareyi düşürme"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 169,
-    "kategori": "satranc",
-    "kelime": "boğma",
-    "aciklama": "beyazın e4 hamlesine siyahın g6 ve fil g7 ile yanıtı",
-    "yasakli_kelimeler": [
-      "boğmaca matı",
-      "kendi taşlarıyla çevrili",
-      "atla şah çekme",
-      "kaçacak yer yok",
-      "köşede sıkışma"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 170,
-    "kategori": "satranc",
-    "kelime": "tempo kaybı",
-    "aciklama": "beyazın e4 hamlesine siyahın d6 ve at f6 ile yanıtı",
-    "yasakli_kelimeler": [
-      "hamle kaybetme",
-      "zaman kaybı",
-      "gereksiz oynama",
-      "gelişimde geri kalma",
-      "tempo"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 171,
-    "kategori": "satranc",
-    "kelime": "tempo kazanma",
-    "aciklama": "beyazın e4 ve d4 sürüşlerine siyahın d5 ile yanıtı",
-    "yasakli_kelimeler": [
-      "hamle kazanma",
-      "rakibi kaçırtma",
-      "tehditle taş çıkarma",
-      "zaman avantajı",
-      "kazanç"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 172,
+    "id": 81,
     "kategori": "satranc",
     "kelime": "serbest piyon",
     "aciklama": "beyazın d4 sürüşüne siyahın c5 ile kanattan meydan okuması",
@@ -2408,77 +1134,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 173,
-    "kategori": "satranc",
-    "kelime": "kale sonu",
-    "aciklama": "fianchetto fili ve atla merkezi uzaktan denetleyen savunma",
-    "yasakli_kelimeler": [
-      "şah kale piyon",
-      "en yaygın son",
-      "teknik mücadele",
-      "lucena philidor",
-      "oyun sonu"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 174,
-    "kategori": "satranc",
-    "kelime": "piyon sonu",
-    "aciklama": "beyazın atını c3 karesine koymasını engelleyen modern savunma",
-    "yasakli_kelimeler": [
-      "sadece şah ve piyon",
-      "kare kuralı",
-      "opozisyon",
-      "saf son",
-      "terfi yarışı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 175,
-    "kategori": "satranc",
-    "kelime": "vezir sonu",
-    "aciklama": "şah kanadını fianchetto ile güçlendiren dinamik yarı kapalı savunma",
-    "yasakli_kelimeler": [
-      "vezir ve piyon",
-      "sürekli şah",
-      "beraberlik riski",
-      "tehlikeli son",
-      "oyun sonu"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 176,
-    "kategori": "satranc",
-    "kelime": "fil sonu",
-    "aciklama": "siyahın piyon feda ederek vezir kanadında baskı kurduğu gambit",
-    "yasakli_kelimeler": [
-      "filler ve piyonlar",
-      "ters renkli son",
-      "aynı renkli son",
-      "oyun sonu",
-      "fil"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 177,
-    "kategori": "satranc",
-    "kelime": "at sonu",
-    "aciklama": "beyazın ilk hamlede atını f3 karesine geliştirdiği esnek açılış",
-    "yasakli_kelimeler": [
-      "atlar ve piyonlar",
-      "l hamleli son",
-      "piyon yapısı önemi",
-      "oyun sonu",
-      "at"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 178,
+    "id": 82,
     "kategori": "satranc",
     "kelime": "beraberlik teklifi",
     "aciklama": "açılışta piyon feda ederek hızlı hücum başlatan saldırgan gambit",
@@ -2492,7 +1148,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 179,
+    "id": 83,
     "kategori": "satranc",
     "kelime": "terk etme",
     "aciklama": "açılış teorisi dışına çıkılarak tarafların tahtada yaratıcılık sergilemesi",
@@ -2506,7 +1162,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 180,
+    "id": 84,
     "kategori": "satranc",
     "kelime": "bayrak düşmesi",
     "aciklama": "açılışta daha önce oynanmamış yeni ve sürpriz hamle buluşu",
@@ -2520,49 +1176,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 181,
-    "kategori": "satranc",
-    "kelime": "oyun arşivi",
-    "aciklama": "ustaların oynadığı binlerce tarihi satranç oyununun toplandığı arşiv",
-    "yasakli_kelimeler": [
-      "dokunulan taş oynanır",
-      "kural zorunluluğu",
-      "geri alma yok",
-      "dokunma kuralı",
-      "taş oynama"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 182,
-    "kategori": "satranc",
-    "kelime": "jadoube",
-    "aciklama": "tüm taş kombinasyonlarının kusursuz sonucunu içeren son oyun tablosu",
-    "yasakli_kelimeler": [
-      "düzeltiyorum",
-      "fransızca kelime",
-      "taşı ortalama",
-      "dokunma kuralı istisnası",
-      "uyarı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 183,
-    "kategori": "satranc",
-    "kelime": "etüt",
-    "aciklama": "sanatsal ve tek çözümlü olarak kurgulanmış yapay oyun sonu",
-    "yasakli_kelimeler": [
-      "sanatsal konum",
-      "kurgusal oyun sonu",
-      "beyaz kazanır",
-      "tek çözüm",
-      "satranç bestesi"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 184,
+    "id": 85,
     "kategori": "satranc",
     "kelime": "satranç problemi",
     "aciklama": "belirli hamle sayısında kesin mat şartı koşan satranç bulmacası",
@@ -2576,21 +1190,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 185,
-    "kategori": "satranc",
-    "kelime": "kurgu",
-    "aciklama": "estetik amaçlarla hazırlanan sanatsal satranç diyagramları ve problemleri",
-    "yasakli_kelimeler": [
-      "kompozisyon",
-      "problem besteciliği",
-      "estetik diyagram",
-      "etüt sanatı",
-      "yapay konum"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 186,
+    "id": 86,
     "kategori": "satranc",
     "kelime": "şah matı",
     "aciklama": "şahın tehditten hiçbir şekilde kurtulamadığı kesin oyun sonu anı",
@@ -2604,147 +1204,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 187,
-    "kategori": "satranc",
-    "kelime": "lasker matı",
-    "aciklama": "çift fil fedasıyla rakip şah kalesini yıkan tarihi mat kombinezonu",
-    "yasakli_kelimeler": [
-      "çift fil fedası",
-      "emanuel lasker",
-      "kale yıkımı",
-      "tarihi mat",
-      "dünya şampiyonu"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 188,
-    "kategori": "satranc",
-    "kelime": "anastasia matı",
-    "aciklama": "at ve kalenin işbirliğiyle şahı tahta kenarında mat etme motifi",
-    "yasakli_kelimeler": [
-      "at ve kale işbirliği",
-      "kenarda mat",
-      "taktik mat motifi",
-      "kaçış karesini atın tutması",
-      "mat"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 189,
-    "kategori": "satranc",
-    "kelime": "boden matı",
-    "aciklama": "çapraz hatlardaki iki filin şahı sıkıştırarak yaptığı estetik mat",
-    "yasakli_kelimeler": [
-      "iki çapraz fil",
-      "kesişen filler",
-      "kendi taşları arasında",
-      "geometrik mat",
-      "fil matı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 190,
-    "kategori": "satranc",
-    "kelime": "legal matı",
-    "aciklama": "vezir fedası süsü verilerek at ve fille yapılan tuzak matı",
-    "yasakli_kelimeler": [
-      "f7 karesi",
-      "vezir fedası tuzağı",
-      "iki at bir fil",
-      "açılış matı",
-      "tuzak"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 191,
-    "kategori": "satranc",
-    "kelime": "arap matı",
-    "aciklama": "at ve kalenin koordinasyonuyla köşede yapılan en eski tarihi mat",
-    "yasakli_kelimeler": [
-      "at ve kale",
-      "köşe matı",
-      "en eski mat",
-      "atın koruduğu kale",
-      "tarihi motif"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 192,
-    "kategori": "satranc",
-    "kelime": "morphy matı",
-    "aciklama": "açık hatlardaki kale ve filin şahı köşede mat etmesi",
-    "yasakli_kelimeler": [
-      "paul morphy",
-      "kale ve fil",
-      "köşe matı",
-      "opera oyunu",
-      "açık hat matı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 193,
-    "kategori": "satranc",
-    "kelime": "damiano matı",
-    "aciklama": "h dikeyindeki kale ve vezirin fedayla şahı mat etmesi",
-    "yasakli_kelimeler": [
-      "h dikeyinde saldırı",
-      "h7 h8 karesi",
-      "kale fedası",
-      "vezir matı",
-      "eski mat"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 194,
-    "kategori": "satranc",
-    "kelime": "kovalama",
-    "aciklama": "bir taşın rakip taşı sürekli kovalayarak beraberlik sağlaması",
-    "yasakli_kelimeler": [
-      "sürekli kovalama",
-      "kaçış sonsuz tekrar",
-      "beraberlik",
-      "kovalamaca",
-      "tekrarlama"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 195,
-    "kategori": "satranc",
-    "kelime": "iskoç açılışı",
-    "aciklama": "beyazın erken d4 sürüşüyle merkezi hemen açtığı dinamik açılış",
-    "yasakli_kelimeler": [
-      "d4 sürüşü",
-      "üçüncü hamle",
-      "kasparov açılışı",
-      "merkezi yarma",
-      "açık oyun"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 196,
-    "kategori": "satranc",
-    "kelime": "reddedilen gambit",
-    "aciklama": "rakibin feda ettiği gambit piyonunu almayıp gelişime odaklanma tercihi",
-    "yasakli_kelimeler": [
-      "fedayı kabul etmeme",
-      "piyonu almama",
-      "vezir gambiti reddi",
-      "kendi gelişimi",
-      "güvenli yol"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 197,
+    "id": 87,
     "kategori": "satranc",
     "kelime": "şah gambiti",
     "aciklama": "beyazın f piyonunu feda ederek vahşi hücum başlattığı açılış",
@@ -2754,48 +1214,6 @@
       "romantik dönem",
       "keskin saldırı",
       "açılış"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 198,
-    "kategori": "satranc",
-    "kelime": "ingiliz açılışı",
-    "aciklama": "beyazın c4 oynayarak merkezi kanattan kontrol ettiği stratejik açılış",
-    "yasakli_kelimeler": [
-      "c4 hamlesi",
-      "ilk hamle",
-      "d5 kontrolü",
-      "hipermodern",
-      "kanat açılışı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 199,
-    "kategori": "satranc",
-    "kelime": "iskandinav savunması",
-    "aciklama": "beyazın e4 hamlesine siyahın hemen d5 ile meydan okuması",
-    "yasakli_kelimeler": [
-      "d5 cevabı",
-      "e4'e karşı",
-      "erken vezir çıkışı",
-      "merkez mücadelesi",
-      "savunma"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 200,
-    "kategori": "satranc",
-    "kelime": "kazanç konumu",
-    "aciklama": "doğru hamlelerle galibiyetin kesin olduğu üstün konumsal durum",
-    "yasakli_kelimeler": [
-      "kazanılmış oyun",
-      "kesin galibiyet",
-      "artı puan",
-      "doğru oyunla zafer",
-      "üstünlük"
     ],
     "zorluk": "kolay"
   },
@@ -2811,7 +1229,7 @@
       "kare"
     ],
     "zorluk": "kolay",
-    "id": 201
+    "id": 88
   },
   {
     "kategori": "satranc",
@@ -2825,7 +1243,7 @@
       "uyarı"
     ],
     "zorluk": "kolay",
-    "id": 202
+    "id": 89
   },
   {
     "kategori": "satranc",
@@ -2839,7 +1257,7 @@
       "zafer"
     ],
     "zorluk": "kolay",
-    "id": 203
+    "id": 90
   },
   {
     "kategori": "satranc",
@@ -2853,7 +1271,7 @@
       "ele geçirme"
     ],
     "zorluk": "kolay",
-    "id": 204
+    "id": 91
   },
   {
     "kategori": "satranc",
@@ -2867,7 +1285,7 @@
       "güvenlik"
     ],
     "zorluk": "kolay",
-    "id": 205
+    "id": 92
   },
   {
     "kategori": "satranc",
@@ -2881,7 +1299,7 @@
       "adım"
     ],
     "zorluk": "kolay",
-    "id": 206
+    "id": 93
   },
   {
     "kategori": "satranc",
@@ -2895,7 +1313,7 @@
       "anlaşma"
     ],
     "zorluk": "kolay",
-    "id": 207
+    "id": 94
   },
   {
     "kategori": "satranc",
@@ -2909,7 +1327,7 @@
       "bırakmak"
     ],
     "zorluk": "kolay",
-    "id": 208
+    "id": 95
   },
   {
     "kategori": "satranc",
@@ -2923,7 +1341,7 @@
       "buton"
     ],
     "zorluk": "kolay",
-    "id": 209
+    "id": 96
   },
   {
     "kategori": "satranc",
@@ -2937,7 +1355,7 @@
       "yerleşim"
     ],
     "zorluk": "kolay",
-    "id": 210
+    "id": 97
   },
   {
     "kategori": "satranc",
@@ -2951,7 +1369,7 @@
       "süre"
     ],
     "zorluk": "kolay",
-    "id": 211
+    "id": 98
   },
   {
     "kategori": "satranc",
@@ -2965,21 +1383,7 @@
       "yeni vezir"
     ],
     "zorluk": "kolay",
-    "id": 212
-  },
-  {
-    "kategori": "satranc",
-    "kelime": "açmazda bırakmak",
-    "aciklama": "arkadaki değerli taşı korumak amacıyla bir taşı hareketsiz bırakmak",
-    "yasakli_kelimeler": [
-      "açmaz",
-      "pin",
-      "arkadaki taş",
-      "kıpırdama yasağı",
-      "bağlama"
-    ],
-    "zorluk": "orta",
-    "id": 213
+    "id": 99
   },
   {
     "kategori": "satranc",
@@ -2993,510 +1397,6 @@
       "çifte tehdit"
     ],
     "zorluk": "orta",
-    "id": 214
-  },
-  {
-    "kategori": "satranc",
-    "kelime": "şiş takmak",
-    "aciklama": "öndeki değerli taşa saldırıp arkasındaki diğer taşı vurmak",
-    "yasakli_kelimeler": [
-      "skewer",
-      "öndeki taş",
-      "arkadaki taş",
-      "kaçış",
-      "hat"
-    ],
-    "zorluk": "orta",
-    "id": 215
-  },
-  {
-    "kategori": "satranc",
-    "kelime": "feda yapmak",
-    "aciklama": "avantaj sağlamak için piyon veya taşını bilerek feda etmek",
-    "yasakli_kelimeler": [
-      "kurban",
-      "fedakarlık",
-      "vezir fedası",
-      "taktik kazanç",
-      "bırakma"
-    ],
-    "zorluk": "orta",
-    "id": 216
-  },
-  {
-    "kategori": "satranc",
-    "kelime": "merkezi tutmak",
-    "aciklama": "merkezdeki dört kritik kareyi piyon ve taşlarla kontrol etmek",
-    "yasakli_kelimeler": [
-      "d4 e4",
-      "merkez kareler",
-      "kontrol",
-      "alan hakimiyeti",
-      "er"
-    ],
-    "zorluk": "orta",
-    "id": 217
-  },
-  {
-    "kategori": "satranc",
-    "kelime": "geçer piyon yaratmak",
-    "aciklama": "önünde engel kalmamış ve terfiye ilerleyen piyon oluşturmak",
-    "yasakli_kelimeler": [
-      "passed pawn",
-      "durdurulamayan er",
-      "terfi yolu",
-      "serbest piyon",
-      "sütun"
-    ],
-    "zorluk": "orta",
-    "id": 218
-  },
-  {
-    "kategori": "satranc",
-    "kelime": "açarak şah çekmek",
-    "aciklama": "öndeki taşı çekerek arkadaki taşın şah çekmesini sağlamak",
-    "yasakli_kelimeler": [
-      "açarak saldırı",
-      "arkadaki taş",
-      "hat açma",
-      "gizli tehdit",
-      "çifte şah"
-    ],
-    "zorluk": "orta",
-    "id": 219
-  },
-  {
-    "kategori": "satranc",
-    "kelime": "çifte şah çekmek",
-    "aciklama": "aynı anda iki farklı taşla birden şah çekmek",
-    "yasakli_kelimeler": [
-      "iki taş birden",
-      "kapatılamaz",
-      "zorunlu kaçış",
-      "şah hareketi",
-      "taktik"
-    ],
-    "zorluk": "orta",
-    "id": 220
-  },
-  {
-    "kategori": "satranc",
-    "kelime": "pat yapmak",
-    "aciklama": "şah tehdit altında olmadan hamlesiz kalarak pat yapmak",
-    "yasakli_kelimeler": [
-      "beraberlik",
-      "hamlesiz kalma",
-      "şah tehditsiz",
-      "sıkışma",
-      "pat durumu"
-    ],
-    "zorluk": "orta",
-    "id": 221
-  },
-  {
-    "kategori": "satranc",
-    "kelime": "açık hattı tutmak",
-    "aciklama": "üzerinde piyon bulunmayan açık dikey hatta ağır taşları yerleştirmek",
-    "yasakli_kelimeler": [
-      "açık sütun",
-      "dikey hat",
-      "kale çiftleme",
-      "inme",
-      "kontrol"
-    ],
-    "zorluk": "orta",
-    "id": 222
-  },
-  {
-    "kategori": "satranc",
-    "kelime": "kaleleri çiftlemek",
-    "aciklama": "aynı açık sütun üzerine iki kaleyi yerleştirip batarya kurmak",
-    "yasakli_kelimeler": [
-      "batarya",
-      "iki kale",
-      "açık sütun",
-      "arka arkaya",
-      "güç"
-    ],
-    "zorluk": "orta",
-    "id": 223
-  },
-  {
-    "kategori": "satranc",
-    "kelime": "fianchetto yapmak",
-    "aciklama": "fili kanat karesine yerleştirerek uzun çaprazı kontrol altına almak",
-    "yasakli_kelimeler": [
-      "uzun çapraz",
-      "b2 g2",
-      "fil yerleşimi",
-      "kanat",
-      "g3 b3"
-    ],
-    "zorluk": "orta",
-    "id": 224
-  },
-  {
-    "kategori": "satranc",
-    "kelime": "notasyon yazmak",
-    "aciklama": "oyunda yapılan her hamleyi standart harf ve rakamlarla kaydetmek",
-    "yasakli_kelimeler": [
-      "hamle kağıdı",
-      "cebirsel notasyon",
-      "kayıt",
-      "kalem",
-      "e4 e5"
-    ],
-    "zorluk": "orta",
-    "id": 225
-  },
-  {
-    "kategori": "satranc",
-    "kelime": "zaman sıkışmasına girmek",
-    "aciklama": "saatte çok az süre kaldığında hamleleri panikle yapmak",
-    "yasakli_kelimeler": [
-      "zeitnot",
-      "son dakika",
-      "panik",
-      "zaman azlığı",
-      "bayrak düşmesi"
-    ],
-    "zorluk": "orta",
-    "id": 226
-  },
-  {
-    "kategori": "satranc",
-    "kelime": "en passant yapmak",
-    "aciklama": "iki kare ilerleyen rakip piyonu çaprazdan geçerken almak",
-    "yasakli_kelimeler": [
-      "geçerken alma",
-      "özel kural",
-      "iki kare fırlama",
-      "çapraz",
-      "piyon"
-    ],
-    "zorluk": "orta",
-    "id": 227
-  },
-  {
-    "kategori": "satranc",
-    "kelime": "gambit oynamak",
-    "aciklama": "açılışta hızlı gelişim yakalamak amacıyla piyon feda etmek",
-    "yasakli_kelimeler": [
-      "şah gambiti",
-      "vezir gambiti",
-      "açılış fedası",
-      "gelişim",
-      "piyon kurbanı"
-    ],
-    "zorluk": "orta",
-    "id": 228
-  },
-  {
-    "kategori": "satranc",
-    "kelime": "fil çiftini korumak",
-    "aciklama": "tahtadaki iki fili koruyarak açık oyunda üstünlük sağlamak",
-    "yasakli_kelimeler": [
-      "iki fil",
-      "açık konum",
-      "atlara karşı",
-      "çapraz güç",
-      "avantaj"
-    ],
-    "zorluk": "orta",
-    "id": 229
-  },
-  {
-    "kategori": "satranc",
-    "kelime": "blitz oynamak",
-    "aciklama": "kısa süreli hızlı zaman temposunda yıldırım satranç oynamak",
-    "yasakli_kelimeler": [
-      "yıldırım",
-      "3 dakika",
-      "hızlı tempo",
-      "refleks",
-      "saat"
-    ],
-    "zorluk": "orta",
-    "id": 230
-  },
-  {
-    "kategori": "satranc",
-    "kelime": "bullet oynamak",
-    "aciklama": "oyuncu başına birer dakikalık süreyle kurşun satranç oynamak",
-    "yasakli_kelimeler": [
-      "1 dakika",
-      "kurşun satranç",
-      "aşırı hızlı",
-      "fare hızı",
-      "premove"
-    ],
-    "zorluk": "orta",
-    "id": 231
-  },
-  {
-    "kategori": "satranc",
-    "kelime": "taktik bulmaca çözmek",
-    "aciklama": "kitaptan veya ekrandan kısa hamleli taktik satranç bulmacaları çözmek",
-    "yasakli_kelimeler": [
-      "puzzle",
-      "kombinezon",
-      "taktik tema",
-      "iki hamlede mat",
-      "antreman"
-    ],
-    "zorluk": "orta",
-    "id": 232
-  },
-  {
-    "kategori": "satranc",
-    "kelime": "sürekli şah çekmek",
-    "aciklama": "peş peşe durmaksızın şah çekerek beraberlik koparmak",
-    "yasakli_kelimeler": [
-      "perpetual check",
-      "sonsuz şah",
-      "beraberlik kurtarma",
-      "kaçışsız",
-      "tekrar"
-    ],
-    "zorluk": "orta",
-    "id": 233
-  },
-  {
-    "kategori": "satranc",
-    "kelime": "konumsal baskı kurmak",
-    "aciklama": "taktik yapmadan rakibin alanını daraltarak konumsal baskı kurmak",
-    "yasakli_kelimeler": [
-      "pozisyonel oyun",
-      "alan daraltma",
-      "felç etme",
-      "karpov stili",
-      "yavaş boğma"
-    ],
-    "zorluk": "orta",
-    "id": 234
-  },
-  {
-    "kategori": "satranc",
-    "kelime": "şah kanadı hücumu",
-    "aciklama": "tüm taşları rakip şahın bulunduğu kanada yığarak saldırmak",
-    "yasakli_kelimeler": [
-      "piyon fırtınası",
-      "h4 g4",
-      "rok tarafı",
-      "hücum",
-      "mat atağı"
-    ],
-    "zorluk": "orta",
-    "id": 235
-  },
-  {
-    "kategori": "satranc",
-    "kelime": "oyun sonuna geçmek",
-    "aciklama": "taşları değişerek az taşlı piyon finallerine geçiş yapmak",
-    "yasakli_kelimeler": [
-      "endgame",
-      "vezir kırışması",
-      "az taş",
-      "final",
-      "şah aktivitesi"
-    ],
-    "zorluk": "orta",
-    "id": 236
-  },
-  {
-    "kategori": "satranc",
-    "kelime": "şah kanadına yüklenmek",
-    "aciklama": "rakip şahın bulunduğu zayıf kanada tüm güçlerle yüklenmek",
-    "yasakli_kelimeler": [
-      "hamle zorunluluğu",
-      "zorunlu kötüleşme",
-      "hamle sırası laneti",
-      "oyun sonu",
-      "kıpırdayamama"
-    ],
-    "zorluk": "zor",
-    "id": 237
-  },
-  {
-    "kategori": "satranc",
-    "kelime": "profilaksi uygulamak",
-    "aciklama": "rakibin planladığı taktik tehditleri önceden sezip tedbir almak",
-    "yasakli_kelimeler": [
-      "petrosian",
-      "nimzowitsch",
-      "önleyici hamle",
-      "tehdidi sezme",
-      "engelleme"
-    ],
-    "zorluk": "zor",
-    "id": 238
-  },
-  {
-    "kategori": "satranc",
-    "kelime": "karelerin hakimiyeti",
-    "aciklama": "tahtadaki kritik ve zayıf karelerin hakimiyetini ele geçirmek",
-    "yasakli_kelimeler": [
-      "renk kompleksi",
-      "zayıf kareler",
-      "renk hakimiyeti",
-      "delik kare",
-      "blokaj"
-    ],
-    "zorluk": "zor",
-    "id": 239
-  },
-  {
-    "kategori": "satranc",
-    "kelime": "triangülasyon yapmak",
-    "aciklama": "oyun sonunda şahla üçgen çizerek hamle sırasını rakibe bırakmak",
-    "yasakli_kelimeler": [
-      "üçgen çizme",
-      "şah hamlesi",
-      "hamle sırası devri",
-      "kare kaybetme",
-      "piyon finali"
-    ],
-    "zorluk": "zor",
-    "id": 240
-  },
-  {
-    "kategori": "satranc",
-    "kelime": "lucena konumunu kurmak",
-    "aciklama": "kale finallerinde köprü kurma tekniğiyle lucena konumunu oluşturmak",
-    "yasakli_kelimeler": [
-      "köprü kurma",
-      "kale finali",
-      "7. yatay",
-      "geçer piyon",
-      "kazanç tekniği"
-    ],
-    "zorluk": "zor",
-    "id": 241
-  },
-  {
-    "kategori": "satranc",
-    "kelime": "philidor savunması çekmek",
-    "aciklama": "kale finallerinde altıncı yatayda bekleyerek philidor savunması kurmak",
-    "yasakli_kelimeler": [
-      "6. yatay kesme",
-      "arkadan şah",
-      "kale finali beraberlik",
-      "pasif savunma",
-      "beraberlik reçetesi"
-    ],
-    "zorluk": "zor",
-    "id": 242
-  },
-  {
-    "kategori": "satranc",
-    "kelime": "intermezzo araya sokmak",
-    "aciklama": "beklenen zorunlu hamleden önce beklenmedik bir ara hamle sokmak",
-    "yasakli_kelimeler": [
-      "ara hamle",
-      "zwischenzug",
-      "beklenmedik",
-      "şok hamle",
-      "öncelik"
-    ],
-    "zorluk": "zor",
-    "id": 243
-  },
-  {
-    "kategori": "satranc",
-    "kelime": "izole piyonu kuşatmak",
-    "aciklama": "yanında koruyucu piyonu olmayan izole piyonu kuşatma altına almak",
-    "yasakli_kelimeler": [
-      "d4 tecrit",
-      "izole d piyonu",
-      "iqp",
-      "blokaj karesi",
-      "zayıflık"
-    ],
-    "zorluk": "zor",
-    "id": 244
-  },
-  {
-    "kategori": "satranc",
-    "kelime": "asılı piyonları yarmak",
-    "aciklama": "yan yana duran iki merkez piyonunun yapısını bozmak",
-    "yasakli_kelimeler": [
-      "hanging pawns",
-      "yan yana erler",
-      "merkez piyon çifti",
-      "yarma",
-      "hedef"
-    ],
-    "zorluk": "zor",
-    "id": 245
-  },
-  {
-    "kategori": "satranc",
-    "kelime": "kraliyet çatalı vurmak",
-    "aciklama": "at ile aynı anda şaha ve vezire çatal atmak",
-    "yasakli_kelimeler": [
-      "şah vezir at çatalı",
-      "büyük çatal",
-      "at darbesi",
-      "vezir kaybı",
-      "üçlü saldırı"
-    ],
-    "zorluk": "zor",
-    "id": 246
-  },
-  {
-    "kategori": "satranc",
-    "kelime": "fianchetto filini kırmak",
-    "aciklama": "rakip şahı koruyan fianchetto filini kırışarak savunmayı dağıtmak",
-    "yasakli_kelimeler": [
-      "bh6",
-      "koruyucu fil kırışması",
-      "karanlık kare zayıflığı",
-      "rok soyma",
-      "h hat matı"
-    ],
-    "zorluk": "zor",
-    "id": 247
-  },
-  {
-    "kategori": "satranc",
-    "kelime": "motor analizi çalıştırmak",
-    "aciklama": "satranç yazılım motorunu çalıştırarak tahtadaki konumu detaylı incelemek",
-    "yasakli_kelimeler": [
-      "stockfish",
-      "değerlendirme puanı",
-      "centipawn",
-      "yapay zeka",
-      "derinlik"
-    ],
-    "zorluk": "zor",
-    "id": 248
-  },
-  {
-    "kategori": "satranc",
-    "kelime": "teori hazırlığı yapmak",
-    "aciklama": "büyükusta seviyesinde derin açılış veri tabanından teori hazırlığı yapmak",
-    "yasakli_kelimeler": [
-      "novelty",
-      "açılış teorisi",
-      "büyükusta",
-      "20 hamle ezber",
-      "chessbase"
-    ],
-    "zorluk": "zor",
-    "id": 249
-  },
-  {
-    "kategori": "satranc",
-    "kelime": "kare kuralını işletmek",
-    "aciklama": "şahın geçen piyona yetişip yetişemeyeceğini kare kuralıyla hesaplamak",
-    "yasakli_kelimeler": [
-      "piyon karesi",
-      "geometrik kural",
-      "şah yetişmesi",
-      "oyun sonu hesabı",
-      "sayma"
-    ],
-    "zorluk": "zor",
-    "id": 250
+    "id": 100
   }
 ]

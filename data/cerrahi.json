@@ -2,20 +2,6 @@
   {
     "id": 1,
     "kategori": "cerrahi",
-    "kelime": "laparotomi",
-    "aciklama": "karın içi organlara ulaşmak için karın duvarının açılması",
-    "yasakli_kelimeler": [
-      "karın kesisi",
-      "batın açılması",
-      "orta hat",
-      "laparoskopi karşıtı",
-      "açık ameliyat"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 2,
-    "kategori": "cerrahi",
     "kelime": "laparoskopi",
     "aciklama": "kamera ve küçük deliklerle karında yapılan kapalı cerrahi",
     "yasakli_kelimeler": [
@@ -28,35 +14,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 3,
-    "kategori": "cerrahi",
-    "kelime": "torakotomi",
-    "aciklama": "göğüs organlarına ulaşmak amacıyla göğüs duvarının cerrahi kesisi",
-    "yasakli_kelimeler": [
-      "göğüs kesisi",
-      "kaburga arası",
-      "göğüs açılması",
-      "akciğer cerrahisi",
-      "toraks"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 4,
-    "kategori": "cerrahi",
-    "kelime": "kraniyotomi",
-    "aciklama": "beyne müdahale etmek için kafatası kemiğinden pencere açılması",
-    "yasakli_kelimeler": [
-      "kafatası açma",
-      "kemik flebi",
-      "beyin ameliyatı",
-      "kafa penceresi",
-      "trepanasyon"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 5,
+    "id": 2,
     "kategori": "cerrahi",
     "kelime": "trakeostomi",
     "aciklama": "soluk borusu ön duvarına yapay nefes deliği açılması",
@@ -70,147 +28,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 6,
-    "kategori": "cerrahi",
-    "kelime": "krikotiroidotomi",
-    "aciklama": "akut solunum tıkanıklığında acil geçici hava yolu açılması",
-    "yasakli_kelimeler": [
-      "acil hava yolu",
-      "krikoid",
-      "boğaz delme",
-      "tiroid kıkırdak arası",
-      "hayat kurtarıcı kesi"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 7,
-    "kategori": "cerrahi",
-    "kelime": "kolesistektomi",
-    "aciklama": "safra kesesinin açık veya kapalı olarak tamamen çıkarılması",
-    "yasakli_kelimeler": [
-      "safra kesesi ameliyatı",
-      "taş alma",
-      "laparoskopik",
-      "kistik kanal",
-      "kese çıkarma"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 8,
-    "kategori": "cerrahi",
-    "kelime": "apendektomi",
-    "aciklama": "iltihaplanan körbağırsağın cerrahi olarak kesilip çıkarılması operasyonu",
-    "yasakli_kelimeler": [
-      "apandisit ameliyatı",
-      "apendiks alma",
-      "sağ alt kadran",
-      "mcburney kesisi",
-      "iltihaplı uzantı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 9,
-    "kategori": "cerrahi",
-    "kelime": "mastektomi",
-    "aciklama": "meme kanseri tedavisinde tüm meme dokusunun cerrahi rezeksiyonu",
-    "yasakli_kelimeler": [
-      "meme alma",
-      "meme kanseri",
-      "aksiller diseksiyon",
-      "göğüs dokusu",
-      "radikal mastektomi"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 10,
-    "kategori": "cerrahi",
-    "kelime": "lumpektomi",
-    "aciklama": "tümörlü kitlenin sağlam doku sınırıyla çıkarıldığı koruyucu cerrahi",
-    "yasakli_kelimeler": [
-      "meme koruyucu",
-      "kitle çıkarma",
-      "geniş lokal eksizyon",
-      "kanser odağı",
-      "parsiyel mastektomi"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 11,
-    "kategori": "cerrahi",
-    "kelime": "tiroidektomi",
-    "aciklama": "tiroid bezinin bir kısmının veya tamamının ameliyatla alınması",
-    "yasakli_kelimeler": [
-      "tiroid alma",
-      "guatr ameliyatı",
-      "rekürren larengeal",
-      "boyun kesisi",
-      "hormon bezi"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 12,
-    "kategori": "cerrahi",
-    "kelime": "splenektomi",
-    "aciklama": "dalağın cerrahi yöntemle vücuttan bütünüyle çıkarılması operasyonu",
-    "yasakli_kelimeler": [
-      "dalak alma",
-      "dalak yırtılması",
-      "kapsül rüptürü",
-      "aşı zorunluluğu",
-      "sol hipokondriyum"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 13,
-    "kategori": "cerrahi",
-    "kelime": "nefrektomi",
-    "aciklama": "böbreğin bir kısmının veya tamamının cerrahi olarak çıkarılması",
-    "yasakli_kelimeler": [
-      "böbrek alma",
-      "böbrek kanseri",
-      "organ nakli",
-      "gerota fasyası",
-      "böbrek çıkarma"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 14,
-    "kategori": "cerrahi",
-    "kelime": "gastrektomi",
-    "aciklama": "midenin bir bölümünün veya tamamının cerrahi olarak alınması",
-    "yasakli_kelimeler": [
-      "mide alma",
-      "total parsiyel",
-      "roux-en-y",
-      "mide rezeksiyonu",
-      "billroth"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 15,
-    "kategori": "cerrahi",
-    "kelime": "kolektomi",
-    "aciklama": "kalın bağırsağın bir segmentinin cerrahi olarak çıkarılması işlemi",
-    "yasakli_kelimeler": [
-      "kalın bağırsak alma",
-      "hemikolektomi",
-      "kolon rezeksiyonu",
-      "barsak cerrahisi",
-      "anastomoz"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 16,
+    "id": 3,
     "kategori": "cerrahi",
     "kelime": "kolostomi",
     "aciklama": "kolonun karın duvarına ağızlaştırılarak yapay stoma açılması",
@@ -224,119 +42,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 17,
-    "kategori": "cerrahi",
-    "kelime": "ileostomi",
-    "aciklama": "ince bağırsağın karın cildine bağlanarak dışa tahliyesi işlemi",
-    "yasakli_kelimeler": [
-      "ince bağırsak stoması",
-      "sağ alt kadran",
-      "sıvı dışkı",
-      "ileum ağızlaştırma",
-      "stoma torbası"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 18,
-    "kategori": "cerrahi",
-    "kelime": "histerektomi",
-    "aciklama": "rahmin cerrahi yöntemle vücuttan bütünüyle çıkarılması operasyonu",
-    "yasakli_kelimeler": [
-      "rahim alma",
-      "uterus çıkarma",
-      "kadın doğum ameliyatı",
-      "vajinal histerektomi",
-      "tüp overler"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 19,
-    "kategori": "cerrahi",
-    "kelime": "ooforektomi",
-    "aciklama": "yumurtalıkların cerrahi olarak operasyonla vücuttan alınması",
-    "yasakli_kelimeler": [
-      "yumurtalık alma",
-      "over rezeksiyonu",
-      "kist ameliyatı",
-      "adneksektomi",
-      "menopoz tetikleme"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 20,
-    "kategori": "cerrahi",
-    "kelime": "vazektomi",
-    "aciklama": "erkeklerde sperm kanallarının kesilip bağlanması kısırlaştırma işlemi",
-    "yasakli_kelimeler": [
-      "erkek kısırlaştırma",
-      "sperm kanalı bağlama",
-      "vas deferens",
-      "doğum kontrolü",
-      "bağlama operasyonu"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 21,
-    "kategori": "cerrahi",
-    "kelime": "tüp ligasyonu",
-    "aciklama": "kadınlarda fallop tüplerinin bağlanması ile cerrahi kısırlaştırma",
-    "yasakli_kelimeler": [
-      "kordon bağlama",
-      "tüpleri bağlama",
-      "kadın kısırlaştırma",
-      "fallop tüpü",
-      "kalıcı doğum kontrolü"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 22,
-    "kategori": "cerrahi",
-    "kelime": "anastomoz",
-    "aciklama": "kesilen iki organ veya damar ucunun birbirine dikilmesi",
-    "yasakli_kelimeler": [
-      "uç uca bağlama",
-      "bağırsak birleştirme",
-      "damar dikme",
-      "stapler",
-      "kaçak riski"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 23,
-    "kategori": "cerrahi",
-    "kelime": "debridman",
-    "aciklama": "yaradaki ölü ve nekrotik dokuların cerrahi temizliği",
-    "yasakli_kelimeler": [
-      "ölü doku temizliği",
-      "nekrotik doku kesme",
-      "yara temizleme",
-      "kazıma",
-      "eksizyon"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 24,
-    "kategori": "cerrahi",
-    "kelime": "hemostaz",
-    "aciklama": "kanamanın koter, klip veya dikişle tamamen durdurulması",
-    "yasakli_kelimeler": [
-      "kanama durdurma",
-      "koterizasyon",
-      "ligatür",
-      "damar bağlama",
-      "turnike"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 25,
+    "id": 4,
     "kategori": "cerrahi",
     "kelime": "biyopsi",
     "aciklama": "patolojik inceleme için canlı dokudan örnek parça alınması",
@@ -350,105 +56,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 26,
-    "kategori": "cerrahi",
-    "kelime": "insizyon",
-    "aciklama": "hastanın genel duyu ve bilincinin ilaçlarla tamamen kapatılması",
-    "yasakli_kelimeler": [
-      "kesi",
-      "bistüri ile kesme",
-      "cerrahi kesit",
-      "ameliyat girişi",
-      "deri kesilmesi"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 27,
-    "kategori": "cerrahi",
-    "kelime": "eksizyon",
-    "aciklama": "vücudun belirli bir bölgesinin sinir bloğuyla uyuşturulması",
-    "yasakli_kelimeler": [
-      "kesip çıkarma",
-      "tümör çıkarma",
-      "dokuyu rezeke etme",
-      "lezyon alma",
-      "kesip alma"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 28,
-    "kategori": "cerrahi",
-    "kelime": "rezeksiyon",
-    "aciklama": "omurilik sıvısına lokal anestezik verilerek belden aşağı uyuşturma",
-    "yasakli_kelimeler": [
-      "organ parçası alma",
-      "cerrahi çıkarma",
-      "parsiyel rezeksiyon",
-      "kitle kesilmesi",
-      "çıkarma"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 29,
-    "kategori": "cerrahi",
-    "kelime": "otogreft",
-    "aciklama": "omurilik dış zarı boşluğuna kateterle lokal anestezi verilmesi",
-    "yasakli_kelimeler": [
-      "öz doku nakli",
-      "kendinden nakil",
-      "deri grefti",
-      "donör bölge",
-      "kendi parçası"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 30,
-    "kategori": "cerrahi",
-    "kelime": "allogreft",
-    "aciklama": "sadece kesi yapılacak küçük deri bölgesinin iğneyle uyuşturulması",
-    "yasakli_kelimeler": [
-      "homogreft",
-      "başkadan nakil",
-      "kadavra dokusu",
-      "verici alıcı",
-      "doku reddi"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 31,
-    "kategori": "cerrahi",
-    "kelime": "ksenogreft",
-    "aciklama": "cerrahi kesi yapmak için kullanılan tek kullanımlık bisturi",
-    "yasakli_kelimeler": [
-      "hayvandan nakil",
-      "farklı tür grefti",
-      "domuz kalp kapağı",
-      "biyoprotez",
-      "türler arası"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 32,
-    "kategori": "cerrahi",
-    "kelime": "flep",
-    "aciklama": "ameliyatta dokuları tutmaya ve kavramaya yarayan cerrahi forseps",
-    "yasakli_kelimeler": [
-      "damarlı doku",
-      "pedikül",
-      "greftten farkı",
-      "rekonstrüksiyon",
-      "serbest flep"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 33,
+    "id": 5,
     "kategori": "cerrahi",
     "kelime": "sterilizasyon",
     "aciklama": "kanayan damarları sıkıştırarak hemostaz sağlayan kilitli cerrahi pens",
@@ -462,35 +70,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 34,
-    "kategori": "cerrahi",
-    "kelime": "asepsi",
-    "aciklama": "cerrahi dikiş iğnesini kavramak ve yönlendirmek için alet",
-    "yasakli_kelimeler": [
-      "mikropsuzlaştırma",
-      "bulaş engelleme",
-      "steril alan",
-      "cerrahi örtü",
-      "kontaminasyon önleme"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 35,
-    "kategori": "cerrahi",
-    "kelime": "antisepsi",
-    "aciklama": "ameliyat sahasını açık tutmak için dokuları çeken ekartör",
-    "yasakli_kelimeler": [
-      "canlı doku temizliği",
-      "povidon iyot",
-      "el yıkama",
-      "klorheksidin",
-      "antiseptik"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 36,
+    "id": 6,
     "kategori": "cerrahi",
     "kelime": "bistüri",
     "aciklama": "doku kesmek veya kanamayı yakarak durdurmak için elektrokoter",
@@ -504,203 +84,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 37,
-    "kategori": "cerrahi",
-    "kelime": "elektrokoter",
-    "aciklama": "kan ve vücut sıvılarını ameliyat sahasından emen vakum",
-    "yasakli_kelimeler": [
-      "yakma cihazı",
-      "koagülasyon",
-      "bipolar monopolar",
-      "damar yakma",
-      "cerrahi duman"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 38,
-    "kategori": "cerrahi",
-    "kelime": "portegü",
-    "aciklama": "ameliyat yaralarında doku birleşimini sağlayan emilebilir cerrahi iplik",
-    "yasakli_kelimeler": [
-      "iğne tutucu",
-      "dikiş pensesi",
-      "kilitli cerrahi alet",
-      "sütur aleti",
-      "hegar"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 39,
-    "kategori": "cerrahi",
-    "kelime": "penset",
-    "aciklama": "vücut tarafından emilmeyen ve sonradan alınan kalıcı iplik",
-    "yasakli_kelimeler": [
-      "cerrahi cımbız",
-      "doku tutucu",
-      "dişli dişsiz",
-      "dokunma aleti",
-      "pansuman aleti"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 40,
-    "kategori": "cerrahi",
-    "kelime": "retraktör",
-    "aciklama": "cerrahi operasyonlarda dokuları hızla birleştiren metal zımba cihazı",
-    "yasakli_kelimeler": [
-      "ekartör",
-      "yara açıcı",
-      "doku ayırıcı",
-      "görüş sahası",
-      "otomatik ekartör"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 41,
-    "kategori": "cerrahi",
-    "kelime": "stapler",
-    "aciklama": "ameliyat bölgesinde biriken sıvıları dışarı aktaran tahliye hortumu",
-    "yasakli_kelimeler": [
-      "cerrahi zımba",
-      "titanyum klip",
-      "otomatik dikiş",
-      "bağırsak zımbası",
-      "endo gia"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 42,
-    "kategori": "cerrahi",
-    "kelime": "trokar",
-    "aciklama": "yarayı dış etkenlerden korumak için steril gazlı bezle sarma",
-    "yasakli_kelimeler": [
-      "kapalı delgi borusu",
-      "laparoskopi kanülü",
-      "karın girişi",
-      "port",
-      "valfli boru"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 43,
-    "kategori": "cerrahi",
-    "kelime": "pnömoperiton",
-    "aciklama": "tüm mikrop ve sporların ısı veya gazla öldürülmesi",
-    "yasakli_kelimeler": [
-      "karına gaz verme",
-      "karbondioksit",
-      "şişirme",
-      "laparoskopik alan",
-      "veress iğnesi"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 44,
-    "kategori": "cerrahi",
-    "kelime": "veress iğnesi",
-    "aciklama": "ameliyat öncesinde cildi antiseptikle mikropsuz hale getirme işlemi",
-    "yasakli_kelimeler": [
-      "gaz verme iğnesi",
-      "yaylı iğne",
-      "karın şişirme",
-      "kör giriş",
-      "laparoskopi başlangıcı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 45,
-    "kategori": "cerrahi",
-    "kelime": "dren",
-    "aciklama": "hastanın ameliyata uygunluğunu belirleyen ameliyat öncesi hazırlık süreci",
-    "yasakli_kelimeler": [
-      "tahliye hortumu",
-      "cerrahi tüp",
-      "sıvı boşaltma",
-      "vakumlu dren",
-      "jackson-pratt"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 46,
-    "kategori": "cerrahi",
-    "kelime": "cerrahi sütur",
-    "aciklama": "hastanın ameliyat sonrası serviste veya yoğun bakımda izlenmesi",
-    "yasakli_kelimeler": [
-      "dikiş ipliği",
-      "vicryl",
-      "ipek dikiş",
-      "emilebilir iplik",
-      "doku kapatma"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 47,
-    "kategori": "cerrahi",
-    "kelime": "emilebilir sütur",
-    "aciklama": "hastaya operasyonun risklerinin anlatılıp alınan resmi yazılı onay",
-    "yasakli_kelimeler": [
-      "eriyen dikiş",
-      "kendiliğinden kaybolan",
-      "vicryl",
-      "monokril",
-      "eriyen iplik"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 48,
-    "kategori": "cerrahi",
-    "kelime": "emilmeyen sütur",
-    "aciklama": "ameliyat sonrasında ortaya çıkan istenmeyen olumsuz tıbbi durum",
-    "yasakli_kelimeler": [
-      "erimeyen dikiş",
-      "alınacak dikiş",
-      "ipek sütur",
-      "prolen",
-      "naylon dikiş"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 49,
-    "kategori": "cerrahi",
-    "kelime": "entübasyon",
-    "aciklama": "cerrahi kesi yerinde bakteri üremesiyle gelişen yara enfeksiyonu",
-    "yasakli_kelimeler": [
-      "endotrakeal tüp",
-      "solunum borusuna tüp",
-      "laringoskop",
-      "solutma",
-      "anestezi borusu"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 50,
-    "kategori": "cerrahi",
-    "kelime": "ekstübasyon",
-    "aciklama": "ameliyat yarası dikişlerinin açılarak organların dışarı sarkması durumu",
-    "yasakli_kelimeler": [
-      "tüpü çekme",
-      "solunum tüpü çıkarma",
-      "uyandırma fazı",
-      "entübasyon sonu",
-      "tüpten ayırma"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 51,
+    "id": 7,
     "kategori": "cerrahi",
     "kelime": "epidural anestezi",
     "aciklama": "deri altı dokularda kan birikmesiyle oluşan kan pıhtısı kitlesi",
@@ -714,7 +98,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 52,
+    "id": 8,
     "kategori": "cerrahi",
     "kelime": "spinal anestezi",
     "aciklama": "ameliyat sahasında doku sıvısının birikmesiyle oluşan berrak şişlik",
@@ -728,7 +112,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 53,
+    "id": 9,
     "kategori": "cerrahi",
     "kelime": "lokal anestezi",
     "aciklama": "toplardamarlarda oluşan kan pıhtısının akciğer damarını tıkaması tablosu",
@@ -742,7 +126,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 54,
+    "id": 10,
     "kategori": "cerrahi",
     "kelime": "sedasyon",
     "aciklama": "bacak derin venlerinde cerrahi sonrası pıhtı oluşması durumu",
@@ -756,21 +140,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 55,
-    "kategori": "cerrahi",
-    "kelime": "malign hipertermi",
-    "aciklama": "ameliyat sonrası bağırsak hareketlerinin geçici olarak tamamen durması",
-    "yasakli_kelimeler": [
-      "dantrolen",
-      "ölümcül ateş",
-      "anestezi komplikasyonu",
-      "kas rijiditesi",
-      "sütsit ryanodin"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 56,
+    "id": 11,
     "kategori": "cerrahi",
     "kelime": "turnike",
     "aciklama": "ameliyat sonrası dokuların birbirine yapışmasıyla oluşan iç adezyon",
@@ -784,49 +154,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 57,
-    "kategori": "cerrahi",
-    "kelime": "koroner arter baypas",
-    "aciklama": "cerrahi operasyon sonrası yara yerinde aşırı sert skar dokusu",
-    "yasakli_kelimeler": [
-      "baypas",
-      "açık kalp ameliyatı",
-      "köprüleme damarı",
-      "lima grefti",
-      "safen ven"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 58,
-    "kategori": "cerrahi",
-    "kelime": "kardiyopulmoner baypas",
-    "aciklama": "cerrahi operasyonun ardından yaranın birleşip iyileşme süreci",
-    "yasakli_kelimeler": [
-      "kalp akciğer pompası",
-      "kan oksijenleme",
-      "pompa teknisyeni",
-      "kardiyopleji",
-      "makineye bağlama"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 59,
-    "kategori": "cerrahi",
-    "kelime": "karotid endarterektomi",
-    "aciklama": "cerrahi ekibin operasyon sırasında giydiği steril koruyucu önlük",
-    "yasakli_kelimeler": [
-      "şah damarı temizliği",
-      "plak soyulması",
-      "inme önleme",
-      "arter lümeni",
-      "karotis darlığı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 60,
+    "id": 12,
     "kategori": "cerrahi",
     "kelime": "anevrizma cerrahisi",
     "aciklama": "steril ameliyat sahasına dokunurken takılan tek kullanımlık eldiven",
@@ -840,133 +168,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 61,
-    "kategori": "cerrahi",
-    "kelime": "arteriyovenöz fistül",
-    "aciklama": "ameliyathanede mikrop saçılmasını önlemek için takılan cerrahi maske",
-    "yasakli_kelimeler": [
-      "diyaliz damar yolu",
-      "atardamar toplardamar birleşimi",
-      "thrill hissi",
-      "hemodiyaliz fistülü",
-      "cimino-brescia"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 62,
-    "kategori": "cerrahi",
-    "kelime": "whipple operasyonu",
-    "aciklama": "ameliyathane personelinin saçlarını kapatmak için taktığı koruyucu bone",
-    "yasakli_kelimeler": [
-      "pankreatikoduodenektomi",
-      "pankreas başı kanseri",
-      "üçlü rekonstrüksiyon",
-      "duodenum çıkarılması",
-      "büyük batın ameliyatı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 63,
-    "kategori": "cerrahi",
-    "kelime": "hartmann prosedürü",
-    "aciklama": "steril ameliyat bölgesini çevreleyen su geçirmez cerrahi örtü",
-    "yasakli_kelimeler": [
-      "acil kolon ameliyatı",
-      "rektal güdük",
-      "uç kolostomi",
-      "bağlantısız rezeksiyon",
-      "divertikül perforasyonu"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 64,
-    "kategori": "cerrahi",
-    "kelime": "miles operasyonu",
-    "aciklama": "ameliyat sahasını gölgesiz aydınlatan tavana monte güçlü lamba",
-    "yasakli_kelimeler": [
-      "abdominoperineal rezeksiyon",
-      "makatın kapatılması",
-      "kalıcı torba",
-      "sfinkter feda etme",
-      "alçak rektum kanseri"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 65,
-    "kategori": "cerrahi",
-    "kelime": "inguinal herniografi",
-    "aciklama": "hastanın yatırıldığı ve farklı pozisyonlara ayarlanabilen ameliyat masası",
-    "yasakli_kelimeler": [
-      "kasık fıtığı ameliyatı",
-      "yama koyma",
-      "mesh",
-      "lichtenstein",
-      "fıtık tamiri"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 66,
-    "kategori": "cerrahi",
-    "kelime": "insizyonel herni",
-    "aciklama": "cerrahi aletlerin steril örtü üzerinde hazırlandığı tekerlekli masa",
-    "yasakli_kelimeler": [
-      "ameliyat yeri fıtığı",
-      "eski kesi fıtığı",
-      "kesi zayıflığı",
-      "batın fıtığı",
-      "yama tamiri"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 67,
-    "kategori": "cerrahi",
-    "kelime": "hemoroidektomi",
-    "aciklama": "hastanın oksijen, nabız ve tansiyonunu anlık izleyen monitör",
-    "yasakli_kelimeler": [
-      "basur ameliyatı",
-      "makat memesi alma",
-      "ferguson milligan",
-      "ven paketi çıkarılması",
-      "anal kanama"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 68,
-    "kategori": "cerrahi",
-    "kelime": "sfinkterotomi",
-    "aciklama": "hastaya gaz anestezi veren ve solunumu yöneten cihaz",
-    "yasakli_kelimeler": [
-      "makat",
-      "fissür",
-      "kas",
-      "kesme",
-      "çatlak"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 69,
-    "kategori": "cerrahi",
-    "kelime": "pilonidal sinüs cerrahisi",
-    "aciklama": "genel anestezi için soluk borusuna esnek tüp yerleştirilmesi",
-    "yasakli_kelimeler": [
-      "kıl dönmesi ameliyatı",
-      "kuyruk sokumu kisti",
-      "kist eksizyonu",
-      "flep kapatma",
-      "limberg flebi"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 70,
+    "id": 13,
     "kategori": "cerrahi",
     "kelime": "tüp mide ameliyatı",
     "aciklama": "operasyon bitiminde soluk borusundaki tüpün hastadan güvenle çıkarılması",
@@ -980,7 +182,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 71,
+    "id": 14,
     "kategori": "cerrahi",
     "kelime": "mide baypası",
     "aciklama": "ameliyathanenin steril alet ve malzemelerinden sorumlu steril hemşire",
@@ -994,63 +196,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 72,
-    "kategori": "cerrahi",
-    "kelime": "fundoplikasyon",
-    "aciklama": "ameliyathanenin steril olmayan lojistik ihtiyaçlarını karşılayan saha hemşiresi",
-    "yasakli_kelimeler": [
-      "nissen",
-      "mide fıtığı ameliyatı",
-      "reflü ameliyatı",
-      "fundus sarılması",
-      "reflü önleme kapakçığı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 73,
-    "kategori": "cerrahi",
-    "kelime": "kemik fiksasyonu",
-    "aciklama": "ameliyatı bizzat planlayan ve gerçekleştiren uzman tıp hekimi",
-    "yasakli_kelimeler": [
-      "kırık",
-      "plak",
-      "vida",
-      "sabitleme",
-      "ortopedi"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 74,
-    "kategori": "cerrahi",
-    "kelime": "artroplasti",
-    "aciklama": "hastanın anestezi yönetimini ve yaşamsal dengesini sağlayan uzman hekim",
-    "yasakli_kelimeler": [
-      "eklem protezi",
-      "kalça diz protezi",
-      "yapay eklem",
-      "kireçlenme ameliyatı",
-      "ortopedi protez"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 75,
-    "kategori": "cerrahi",
-    "kelime": "artroskopi",
-    "aciklama": "ameliyat sırasında cerraha dokuları tutarak yardım eden hekim",
-    "yasakli_kelimeler": [
-      "kapalı eklem ameliyatı",
-      "kamera ile diz",
-      "menisküs yırtığı tamiri",
-      "ön çapraz bağ",
-      "eklem içi görüntüleme"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 76,
+    "id": 15,
     "kategori": "cerrahi",
     "kelime": "ampütasyon",
     "aciklama": "tıkalı kalp koroner damarına bacaktan damar köprüsü ameliyatı",
@@ -1064,175 +210,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 77,
-    "kategori": "cerrahi",
-    "kelime": "fasiyotomi",
-    "aciklama": "bozulmuş kalp kapağının mekanik veya biyolojik kapakla değiştirilmesi",
-    "yasakli_kelimeler": [
-      "kompartman sendromu",
-      "basınç rahatlatma",
-      "fasya kesisi",
-      "kas nekrozu önleme",
-      "uzuv kurtarma kesisi"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 78,
-    "kategori": "cerrahi",
-    "kelime": "karotis şantı",
-    "aciklama": "genişlemiş aort anevrizmasının cerrahi greft ile onarılması operasyonu",
-    "yasakli_kelimeler": [
-      "şah damarı",
-      "endarterektomi",
-      "beyin",
-      "kan akışı",
-      "geçici"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 79,
-    "kategori": "cerrahi",
-    "kelime": "ventriküloperitoneal şant",
-    "aciklama": "akciğerin hastalıklı bir lobunun cerrahi olarak bütünüyle çıkarılması",
-    "yasakli_kelimeler": [
-      "vp şant",
-      "hidrosefali hortumu",
-      "beyin sıvısı tahliyesi",
-      "karına sıvı akıtma",
-      "şant ameliyatı"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 80,
-    "kategori": "cerrahi",
-    "kelime": "tüp torakostomi",
-    "aciklama": "akciğerin tamamının cerrahi yöntemle göğüsten tamamen çıkarılması operasyonu",
-    "yasakli_kelimeler": [
-      "göğüs tüpü takma",
-      "pnömotoraks hortumu",
-      "su altı drenajı",
-      "hemotoraks boşaltma",
-      "plevral tüp"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 81,
-    "kategori": "cerrahi",
-    "kelime": "parasentez",
-    "aciklama": "akciğer zarı boşluğundaki sıvı ve havanın tahliyesi işlemi",
-    "yasakli_kelimeler": [
-      "karından sıvı alma",
-      "asit boşaltma",
-      "karın delme",
-      "siroz sıvısı çekme",
-      "iğne ile boşaltım"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 82,
-    "kategori": "cerrahi",
-    "kelime": "torasentez",
-    "aciklama": "göğüs boşluğunda iki kaburga arasından takılan drenaj tüpü",
-    "yasakli_kelimeler": [
-      "göğüsten sıvı çekme",
-      "plevral sıvı alma",
-      "kaburga arasından iğne",
-      "efüzyon boşaltma",
-      "akciğer aspirasyonu"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 83,
-    "kategori": "cerrahi",
-    "kelime": "perikardiyosentez",
-    "aciklama": "göğüs içi organların kamera yardımıyla kapalı cerrahi ameliyatı",
-    "yasakli_kelimeler": [
-      "kalp zarından sıvı çekme",
-      "tamponad acil müdahalesi",
-      "ksifoid altı iğne",
-      "perikard boşaltımı",
-      "kalp basısını çözme"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 84,
-    "kategori": "cerrahi",
-    "kelime": "santral venöz kateterizasyon",
-    "aciklama": "tıkanmış şah damarının açılarak damar içinin plaklardan temizlenmesi",
-    "yasakli_kelimeler": [
-      "santral damar yolu",
-      "boyundan kateter",
-      "subklavyen damar",
-      "derin damar yolu",
-      "cvk"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 85,
-    "kategori": "cerrahi",
-    "kelime": "endarterektomi",
-    "aciklama": "bacak atardamar tıkanıklıklarında uygulanan cerrahi damar köprüsü ameliyatı",
-    "yasakli_kelimeler": [
-      "damar içi plak soyma",
-      "damar kazıma",
-      "arter tıkanıklığı açma",
-      "damar içi cerrahi",
-      "aterom temizliği"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 86,
-    "kategori": "cerrahi",
-    "kelime": "trombektomi",
-    "aciklama": "diyaliz hastaları için atardamar ile toplardamarın cerrahi birleştirilmesi",
-    "yasakli_kelimeler": [
-      "pıhtı çıkarma ameliyatı",
-      "damardan pıhtı alma",
-      "fogarty kateteri",
-      "akut iskemi müdahalesi",
-      "tromboz temizliği"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 87,
-    "kategori": "cerrahi",
-    "kelime": "anevrizmektomi",
-    "aciklama": "varisli bacak toplardamarının cerrahi olarak boylu boyunca çıkarılması",
-    "yasakli_kelimeler": [
-      "balonlaşmış damarı alma",
-      "yapay damar dikme",
-      "aort anevrizması kesme",
-      "dacron greft",
-      "kese çıkarma"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 88,
-    "kategori": "cerrahi",
-    "kelime": "prostatektomi",
-    "aciklama": "damar içine girilerek anevrizmanın metalik koillerle doldurulup kapatılması",
-    "yasakli_kelimeler": [
-      "prostat alma",
-      "radikal cerrahi",
-      "prostat kanseri ameliyatı",
-      "robotik da vinci",
-      "idrar torbası çıkışı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 89,
+    "id": 16,
     "kategori": "cerrahi",
     "kelime": "sünnet",
     "aciklama": "tıkalı damarın tel ve kateterle ameliyatsız balonla açılması",
@@ -1246,7 +224,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 90,
+    "id": 17,
     "kategori": "cerrahi",
     "kelime": "rinoplasti",
     "aciklama": "damar içine yerleştirilen ve damarın açık kalmasını sağlayan kafes",
@@ -1260,35 +238,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 91,
-    "kategori": "cerrahi",
-    "kelime": "blefaroplasti",
-    "aciklama": "açık veya kapalı kırıkların cerrahi müdahale ile düzeltilmesi",
-    "yasakli_kelimeler": [
-      "göz kapağı estetiği",
-      "göz torbası alma",
-      "sarkan kapak operasyonu",
-      "kapak derisi kesme",
-      "gençleştirme"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 92,
-    "kategori": "cerrahi",
-    "kelime": "abdominoplasti",
-    "aciklama": "kırık kemik parçalarının plak ve vidalarla içeriden sabitlenmesi",
-    "yasakli_kelimeler": [
-      "karın germe",
-      "sarkık göbek ameliyatı",
-      "karın derisi alma",
-      "rektus sıkılaştırma",
-      "estetik dikiş"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 93,
+    "id": 18,
     "kategori": "cerrahi",
     "kelime": "liposakşın",
     "aciklama": "kırık kemiklerin vücut dışından metal çerçevelerle sabitlenmesi yöntemi",
@@ -1302,63 +252,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 94,
-    "kategori": "cerrahi",
-    "kelime": "septoplasti",
-    "aciklama": "aşınmış diz ekleminin metal ve polietilen protezle değiştirilmesi",
-    "yasakli_kelimeler": [
-      "burun kemiği eğriliği",
-      "septum deviasyonu",
-      "burun kıkırdağı düzeltme",
-      "nefes açma ameliyatı",
-      "burun içi kesi"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 95,
-    "kategori": "cerrahi",
-    "kelime": "tonsillektomi",
-    "aciklama": "hasarlı kalça ekleminin yapay protez eklem ile yenilenmesi",
-    "yasakli_kelimeler": [
-      "bademcik ameliyatı",
-      "bademcik aldırma",
-      "boğaz dokusu çıkarma",
-      "çocukluk çağı ameliyatı",
-      "farinks lenfoidi"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 96,
-    "kategori": "cerrahi",
-    "kelime": "adenoidektomi",
-    "aciklama": "eklem içine kamera ile girilerek menisküs onarımı cerrahisi",
-    "yasakli_kelimeler": [
-      "geniz eti ameliyatı",
-      "geniz eti aldırma",
-      "burun arkası kitle",
-      "horlama tedavisi",
-      "küret ile kazıma"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 97,
-    "kategori": "cerrahi",
-    "kelime": "timpanoplasti",
-    "aciklama": "kopan diz ön çapraz bağının cerrahi greftle yeniden yapılması",
-    "yasakli_kelimeler": [
-      "kulak zarı ameliyatı",
-      "delik kulak zarı",
-      "zar dikme",
-      "orta kulak onarımı",
-      "kemikçik tamiri"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 98,
+    "id": 19,
     "kategori": "cerrahi",
     "kelime": "katarakt ameliyatı",
     "aciklama": "yırtılan eklem menisküs kıkırdağının cerrahi olarak dikilmesi veya alınması",
@@ -1372,35 +266,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 99,
-    "kategori": "cerrahi",
-    "kelime": "vitrektomi",
-    "aciklama": "kangren veya ağır travmada uzvun cerrahi olarak kesilmesi",
-    "yasakli_kelimeler": [
-      "göz içi jel temizliği",
-      "retina ameliyatı",
-      "vitreus boşaltma",
-      "göz kanaması cerrahisi",
-      "retina dekolmanı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 100,
-    "kategori": "cerrahi",
-    "kelime": "koroner arter stenti",
-    "aciklama": "omurilik kanalındaki fıtıklaşmış disk dokusunun cerrahi olarak çıkarılması",
-    "yasakli_kelimeler": [
-      "kalp damar teli",
-      "metal kafes",
-      "balon anjiyoplasti",
-      "damar açma",
-      "ilaç salınımlı stent"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 101,
+    "id": 20,
     "kategori": "cerrahi",
     "kelime": "genel anestezi",
     "aciklama": "omurilik kanalını genişletmek için omur kemik yayının çıkarılması",
@@ -1414,7 +280,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 102,
+    "id": 21,
     "kategori": "cerrahi",
     "kelime": "ameliyathane",
     "aciklama": "omurların birbirine vida ve çubuklarla kaynatılarak sabitlenmesi cerrahisi",
@@ -1428,7 +294,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 103,
+    "id": 22,
     "kategori": "cerrahi",
     "kelime": "cerrahi önlük",
     "aciklama": "skolyoz eğriliğinin omurga vidaları ve çubuklarla cerrahi düzeltilmesi",
@@ -1442,7 +308,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 104,
+    "id": 23,
     "kategori": "cerrahi",
     "kelime": "cerrahi eldiven",
     "aciklama": "patlayan beyin anevrizmasının cerrahi metal kliple kapatılması operasyonu",
@@ -1456,7 +322,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 105,
+    "id": 24,
     "kategori": "cerrahi",
     "kelime": "cerrahi maske",
     "aciklama": "beyin omurilik sıvısı fazlalığını karına tahliye eden yapay hortum",
@@ -1470,7 +336,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 106,
+    "id": 25,
     "kategori": "cerrahi",
     "kelime": "ameliyat masası",
     "aciklama": "kafa kemiğinde küçük cerrahi delik açılması işlemi",
@@ -1484,21 +350,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 107,
-    "kategori": "cerrahi",
-    "kelime": "cerrahi mikroskop",
-    "aciklama": "beyin dokusuna cerrahi mikroskop altında yapılan mikrocerrahi müdahale",
-    "yasakli_kelimeler": [
-      "büyütme",
-      "mikrocerrahi",
-      "optik",
-      "damar dikme",
-      "mercek"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 108,
+    "id": 26,
     "kategori": "cerrahi",
     "kelime": "ameliyat lambası",
     "aciklama": "parkinson tedavisinde beyin derin çekirdeklerine elektrot yerleştirilmesi cerrahisi",
@@ -1512,7 +364,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 109,
+    "id": 27,
     "kategori": "cerrahi",
     "kelime": "cerrahi makas",
     "aciklama": "burun deliklerinden girilerek hipofiz tümörünün endoskopik olarak çıkarılması",
@@ -1526,21 +378,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 110,
-    "kategori": "cerrahi",
-    "kelime": "hemostatik klemp",
-    "aciklama": "kafatası ameliyatı sonrası çıkarılan kemiğin yerine sentetik onarımı",
-    "yasakli_kelimeler": [
-      "kanama durdurma",
-      "damar sıkıştırma",
-      "kilitli pens",
-      "pean",
-      "koher"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 111,
+    "id": 28,
     "kategori": "cerrahi",
     "kelime": "aspiratör",
     "aciklama": "idrar torbasının kanser sebebiyle cerrahi olarak tamamen çıkarılması",
@@ -1554,7 +392,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 112,
+    "id": 29,
     "kategori": "cerrahi",
     "kelime": "gazlı bez",
     "aciklama": "prostat büyümesinde prostatın kapalı elektrikli telle kazınarak çıkarılması",
@@ -1568,21 +406,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 113,
-    "kategori": "cerrahi",
-    "kelime": "cerrahi örtü",
-    "aciklama": "prostat kanserinde prostat ve meni bezlerinin tamamen çıkarılması",
-    "yasakli_kelimeler": [
-      "delikli kompres",
-      "steril saha",
-      "örtme",
-      "yeşil örtü",
-      "hastayı kaplama"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 114,
+    "id": 30,
     "kategori": "cerrahi",
     "kelime": "pansuman",
     "aciklama": "böbrek taşlarının endoskopik lazerle kırılarak tamamen temizlenmesi işlemi",
@@ -1596,7 +420,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 115,
+    "id": 31,
     "kategori": "cerrahi",
     "kelime": "sargı bezi",
     "aciklama": "inmemiş testisin cerrahi olarak torbaya indirilip sabitlenmesi",
@@ -1610,7 +434,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 116,
+    "id": 32,
     "kategori": "cerrahi",
     "kelime": "yara izi",
     "aciklama": "testisin torsiyon veya tümör nedeniyle cerrahi olarak alınması",
@@ -1624,35 +448,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 117,
-    "kategori": "cerrahi",
-    "kelime": "yara iyileşmesi",
-    "aciklama": "üretra darlıklarının endoskopik optik aletle cerrahi kesilerek açılması",
-    "yasakli_kelimeler": [
-      "kapanma",
-      "kolajen",
-      "epitelizasyon",
-      "onarılma",
-      "granülasyon"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 118,
-    "kategori": "cerrahi",
-    "kelime": "seroma",
-    "aciklama": "böbrek yetmezliğinde canlı veya kadavradan böbrek nakli ameliyatı",
-    "yasakli_kelimeler": [
-      "sıvı birikimi",
-      "lenf sıvısı",
-      "ölü boşluk",
-      "kesi altı",
-      "şişlik"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 119,
+    "id": 33,
     "kategori": "cerrahi",
     "kelime": "hematom",
     "aciklama": "son dönem karaciğer yetmezliğinde organ nakli operasyonu",
@@ -1666,91 +462,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 120,
-    "kategori": "cerrahi",
-    "kelime": "cerrahi enfeksiyon",
-    "aciklama": "uç evre kalp yetmezliğinde kadavradan kalp nakli ameliyatı",
-    "yasakli_kelimeler": [
-      "yara iltihabı",
-      "cerahat",
-      "bakteri",
-      "iltihaplanma",
-      "apse"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 121,
-    "kategori": "cerrahi",
-    "kelime": "cerrahi klips",
-    "aciklama": "ağır akciğer yetmezliğinde kadavradan akciğer nakli operasyonu",
-    "yasakli_kelimeler": [
-      "titanyum",
-      "damar kapatma",
-      "mandal",
-      "klipleme",
-      "metal"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 122,
-    "kategori": "cerrahi",
-    "kelime": "doku yapıştırıcısı",
-    "aciklama": "tip 1 diyabet tedavisinde kadavradan pankreas nakli cerrahisi",
-    "yasakli_kelimeler": [
-      "cerrahi zamk",
-      "biyolojik yapıştırıcı",
-      "dikişsiz",
-      "fibrin",
-      "yapıştırma"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 123,
-    "kategori": "cerrahi",
-    "kelime": "steril spanç",
-    "aciklama": "organ nakli sonrası vücudun yeni nakledilen organı reddetmesi",
-    "yasakli_kelimeler": [
-      "gazlı bez",
-      "emici",
-      "pamuklu",
-      "kompres",
-      "kare"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 124,
-    "kategori": "cerrahi",
-    "kelime": "laringoskop",
-    "aciklama": "nakil sonrası organ reddini önleyen bağışıklık baskılayıcı ilaçlar",
-    "yasakli_kelimeler": [
-      "entübasyon",
-      "ses telleri",
-      "ışıklı bçak",
-      "nefes borusu",
-      "anestezi aleti"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 125,
-    "kategori": "cerrahi",
-    "kelime": "trakeotomi",
-    "aciklama": "beyin ölümü gerçekleşmiş organ vericisinden organların cerrahi çıkarılması",
-    "yasakli_kelimeler": [
-      "nefes borusu",
-      "delik açma",
-      "soluk borusu",
-      "boğaz kesisi",
-      "solunum"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 126,
+    "id": 34,
     "kategori": "cerrahi",
     "kelime": "endoskopi",
     "aciklama": "sağlıklı bir insanın bir böbreğini veya karaciğerini bağışlaması",
@@ -1764,7 +476,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 127,
+    "id": 35,
     "kategori": "cerrahi",
     "kelime": "kolonoskopi",
     "aciklama": "organların nakil anına kadar soğuk özel sıvıda korunması",
@@ -1778,63 +490,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 128,
-    "kategori": "cerrahi",
-    "kelime": "bronkoskopi",
-    "aciklama": "karaciğerin hastalıklı bir lobunun cerrahi olarak rezeke edilmesi",
-    "yasakli_kelimeler": [
-      "akciğer",
-      "bronş inceleme",
-      "soluk borusu",
-      "biyopsi alma",
-      "kamera"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 129,
-    "kategori": "cerrahi",
-    "kelime": "sistoskopi",
-    "aciklama": "pankreas başı tümörlerinde pankreas ve onikiparmak bağırsağının çıkarılması",
-    "yasakli_kelimeler": [
-      "mesane",
-      "idrar torbası",
-      "üretra",
-      "mesane kamerası",
-      "üroloji"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 130,
-    "kategori": "cerrahi",
-    "kelime": "laparoskopik alet",
-    "aciklama": "pankreasın bir kısmının veya tamamının ameliyatla alınması operasyonu",
-    "yasakli_kelimeler": [
-      "kapalı ameliyat",
-      "trokar içi",
-      "uzun el aleti",
-      "grasper",
-      "makas"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 131,
-    "kategori": "cerrahi",
-    "kelime": "cerrahi aspirasyon",
-    "aciklama": "midenin büyük kısmının dikey kesilip küçültüldüğü obezite ameliyatı",
-    "yasakli_kelimeler": [
-      "kan çekme",
-      "negatif basınç",
-      "sıvı tahliyesi",
-      "emme işlemi",
-      "vakumlama"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 132,
+    "id": 36,
     "kategori": "cerrahi",
     "kelime": "kemik testeresi",
     "aciklama": "midenin küçültülüp ince bağırsağa bağlandığı kilo verme cerrahisi",
@@ -1848,91 +504,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 133,
-    "kategori": "cerrahi",
-    "kelime": "cerrahi çekiç",
-    "aciklama": "mide fıtığı tedavisinde mide fundusunun yemek borusuna sarılması",
-    "yasakli_kelimeler": [
-      "keski",
-      "protez çakma",
-      "ortopedi çekici",
-      "metal tokmak",
-      "kemik kırma"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 134,
-    "kategori": "cerrahi",
-    "kelime": "cerrahi matkap",
-    "aciklama": "kasık fıtığının açık veya laparoskopik cerrahi yama ile onarımı",
-    "yasakli_kelimeler": [
-      "delik delme",
-      "vida yuvası",
-      "ortopedi matkabı",
-      "yüksek devir",
-      "kemik delme"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 135,
-    "kategori": "cerrahi",
-    "kelime": "rongeur",
-    "aciklama": "göbek fıtığının cerrahi dikiş veya sentetik yamayla kapatılması",
-    "yasakli_kelimeler": [
-      "kemik ısırma",
-      "koparma",
-      "kemik pensesi",
-      "beyin cerrahisi",
-      "omurga"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 136,
-    "kategori": "cerrahi",
-    "kelime": "küret",
-    "aciklama": "geçirilmiş ameliyat kesi yerinde gelişen fıtığın onarımı cerrahisi",
-    "yasakli_kelimeler": [
-      "kazıma",
-      "kaşık",
-      "temizleme",
-      "kürtaj",
-      "doku alma"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 137,
-    "kategori": "cerrahi",
-    "kelime": "koter plağı",
-    "aciklama": "fıtık onarımında dokuyu güçlendiren sentetik tıbbi cerrahi yama",
-    "yasakli_kelimeler": [
-      "topraklama",
-      "elektrik dönüşü",
-      "yapışkan ped",
-      "yanık önleme",
-      "koter"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 138,
-    "kategori": "cerrahi",
-    "kelime": "cerrahi iğne",
-    "aciklama": "şişmiş hemoroid memelerinin cerrahi olarak kesilip çıkarılması işlemi",
-    "yasakli_kelimeler": [
-      "eğri iğne",
-      "atravmatik",
-      "dikiş iğnesi",
-      "sütur",
-      "kavisli"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 139,
+    "id": 37,
     "kategori": "cerrahi",
     "kelime": "zımba dikiş",
     "aciklama": "makattaki anal fissür darlığını gidermek için sfinkter kasının kesilmesi",
@@ -1946,343 +518,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 140,
-    "kategori": "cerrahi",
-    "kelime": "cerrahi ponksiyon",
-    "aciklama": "makat fistül kanalının açılarak temizlendiği cerrahi ameliyat yöntemi",
-    "yasakli_kelimeler": [
-      "iğne batırma",
-      "sıvı çekme",
-      "boşluk delme",
-      "iğneyle girme",
-      "drenaj"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 141,
-    "kategori": "cerrahi",
-    "kelime": "lobektomi",
-    "aciklama": "kuyruk sokumundaki kıl dönmesi kistinin cerrahi çıkarılması",
-    "yasakli_kelimeler": [
-      "lob çıkarma",
-      "akciğer lobu",
-      "kanser ameliyatı",
-      "kısmi çıkarma",
-      "organ lobu"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 142,
-    "kategori": "cerrahi",
-    "kelime": "pnömonektomi",
-    "aciklama": "katarakt cerrahisinde bulanık merceğin ultrasonik ses dalgalarıyla parçalanması",
-    "yasakli_kelimeler": [
-      "tüm akciğer",
-      "akciğerin alınması",
-      "göğüs cerrahisi",
-      "solunum organı",
-      "tek akciğer"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 143,
-    "kategori": "cerrahi",
-    "kelime": "özofajektomi",
-    "aciklama": "kornea tabakasının nakledildiği göz kornea nakli cerrahi operasyonu",
-    "yasakli_kelimeler": [
-      "yemek borusu",
-      "kanser çıkarma",
-      "göğüs boşluğu",
-      "mide çekme",
-      "özofagus"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 144,
-    "kategori": "cerrahi",
-    "kelime": "pankreatektomi",
-    "aciklama": "ayrılmış retina tabakasının yerine yapıştırıldığı mikrocerrahi ameliyatı",
-    "yasakli_kelimeler": [
-      "pankreas",
-      "organ çıkarma",
-      "insülin üreten organ",
-      "kanser",
-      "karın cerrahisi"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 145,
-    "kategori": "cerrahi",
-    "kelime": "adrenalektomi",
-    "aciklama": "göz tansiyonunu düşürmek için sıvı tahliye kanalı açılması",
-    "yasakli_kelimeler": [
-      "böbrek üstü bezi",
-      "adrenal bez",
-      "hormon tümörü",
-      "çıkarma ameliyatı",
-      "sürrenal"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 146,
-    "kategori": "cerrahi",
-    "kelime": "paratiroidektomi",
-    "aciklama": "görme kusurlarını düzeltmek için korneaya uygulanan lazer cerrahisi",
-    "yasakli_kelimeler": [
-      "paratiroid",
-      "kalsiyum",
-      "adenom",
-      "boyun cerrahisi",
-      "bez çıkarma"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 147,
-    "kategori": "cerrahi",
-    "kelime": "sistektomi",
-    "aciklama": "orta kulaktaki iltihaplı mastoid kemik dokusunun temizlenmesi cerrahisi",
-    "yasakli_kelimeler": [
-      "mesane kanseri",
-      "idrar kesesi",
-      "kese çıkarma",
-      "üroloji ameliyatı",
-      "idrar torbası"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 148,
-    "kategori": "cerrahi",
-    "kelime": "orşiektomi",
-    "aciklama": "delik kulak zarının cerrahi greftle onarılması ve kapatılması",
-    "yasakli_kelimeler": [
-      "testis alma",
-      "yumurtalık alma",
-      "erkek üreme",
-      "kanser ameliyatı",
-      "üroloji"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 149,
-    "kategori": "cerrahi",
-    "kelime": "salpinjektomi",
-    "aciklama": "sürekli iltihaplanan bademciklerin cerrahi olarak kesilip çıkarılması operasyonu",
-    "yasakli_kelimeler": [
-      "fallop tüpü",
-      "dış gebelik",
-      "kadın doğum",
-      "tüp çıkarma",
-      "yumurta kanalı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 150,
-    "kategori": "cerrahi",
-    "kelime": "miyomektomi",
-    "aciklama": "geniz eti büyümesinde geniz etinin cerrahi olarak kazınması",
-    "yasakli_kelimeler": [
-      "miyom",
-      "rahim koruma",
-      "iyi huylu ur",
-      "kadın cerrahisi",
-      "tümör sıyırma"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 151,
-    "kategori": "cerrahi",
-    "kelime": "larenjektomi",
-    "aciklama": "burun kemiği ve kıkırdak eğriliğinin cerrahi olarak düzeltilmesi",
-    "yasakli_kelimeler": [
-      "gırtlak",
-      "ses telleri",
-      "kanser ameliyatı",
-      "boğaz çıkarma",
-      "ses kaybı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 152,
-    "kategori": "cerrahi",
-    "kelime": "parotidektomi",
-    "aciklama": "estetik ve fonksiyonel amaçla burun şeklinin cerrahi operasyonu",
-    "yasakli_kelimeler": [
-      "tükürük bezi",
-      "yüz siniri",
-      "kulak önü",
-      "tümör ameliyatı",
-      "fasial sinir"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 153,
-    "kategori": "cerrahi",
-    "kelime": "hepatektomi",
-    "aciklama": "kulak kepçesindeki şekil bozukluğunun düzeltildiği kepçe kulak cerrahisi",
-    "yasakli_kelimeler": [
-      "karaciğer",
-      "karaciğer rezeksiyonu",
-      "tümör kesme",
-      "karın ameliyatı",
-      "organ çıkarma"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 154,
-    "kategori": "cerrahi",
-    "kelime": "segmentektomi",
-    "aciklama": "yüzdeki kırışıklık ve sarkmaların gerildiği estetik yüz cerrahisi",
-    "yasakli_kelimeler": [
-      "segment çıkarma",
-      "anatomik parça",
-      "kısmi rezeksiyon",
-      "organ parçası",
-      "cerrahi kesim"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 155,
-    "kategori": "cerrahi",
-    "kelime": "diseksiyon",
-    "aciklama": "göz kapağındaki sarkma ve torbaların alındığı cerrahi operasyon",
-    "yasakli_kelimeler": [
-      "tabaka ayırma",
-      "doku ayırma",
-      "cerrahi soyma",
-      "ayırma",
-      "serbestleştirme"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 156,
-    "kategori": "cerrahi",
-    "kelime": "lenfadenektomi",
-    "aciklama": "vücuttaki fazla yağların vakum ve kanüllerle çekilmesi ameliyatı",
-    "yasakli_kelimeler": [
-      "lenf bezi çıkarma",
-      "kanser yayılımı",
-      "lenf diseksiyonu",
-      "bez temizleme",
-      "onkoloji"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 157,
-    "kategori": "cerrahi",
-    "kelime": "fistülotomi",
-    "aciklama": "sarkan karın derisi ve yağ dokusunun gerilip toplanması",
-    "yasakli_kelimeler": [
-      "fistül kanalı",
-      "makat çevresi",
-      "cerahat kanalı",
-      "kesip açma",
-      "iltihap yolu"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 158,
-    "kategori": "cerrahi",
-    "kelime": "hemikolektomi",
-    "aciklama": "silikon implantlarla memenin hacminin artırıldığı estetik cerrahi operasyon",
-    "yasakli_kelimeler": [
-      "bağırsak yarısı",
-      "kalın bağırsak",
-      "kolektomi türü",
-      "sağ sol kolon",
-      "kanser ameliyatı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 159,
-    "kategori": "cerrahi",
-    "kelime": "jejunostomi",
-    "aciklama": "aşırı büyük ve ağır memelerin cerrahi küçültülmesi ameliyatı",
-    "yasakli_kelimeler": [
-      "beslenme tüpü",
-      "ince bağırsak",
-      "karın duvarı delme",
-      "besin verme",
-      "enteral"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 160,
-    "kategori": "cerrahi",
-    "kelime": "gastrostomi",
-    "aciklama": "sarkmış meme dokusunun cerrahi olarak yukarı dikleştirilmesi işlemi",
-    "yasakli_kelimeler": [
-      "mide tüpü",
-      "beslenme borusu",
-      "peg",
-      "karından mideye",
-      "yutamama"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 161,
-    "kategori": "cerrahi",
-    "kelime": "açık redüksiyon",
-    "aciklama": "doku kayıplarını kapatmak için başka bölgeden deri nakli",
-    "yasakli_kelimeler": [
-      "kırık düzeltme",
-      "kesi açarak",
-      "yerine oturtma",
-      "kemik hizalama",
-      "ameliyatla redüksiyon"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 162,
-    "kategori": "cerrahi",
-    "kelime": "kapalı redüksiyon",
-    "aciklama": "kendi damar beslenmesiyle birlikte taşınan canlı doku transferi",
-    "yasakli_kelimeler": [
-      "kesisiz düzeltme",
-      "çekerek oturtma",
-      "alçı öncesi",
-      "ameliyatsız redüksiyon",
-      "yerine takma"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 163,
-    "kategori": "cerrahi",
-    "kelime": "kemik grefti",
-    "aciklama": "yanık veya yaralanmalarda canlı doku transferi ve onarım cerrahisi",
-    "yasakli_kelimeler": [
-      "kemik tozu",
-      "kemik nakli",
-      "kaynama tetikleme",
-      "kemik yaması",
-      "ortopedi"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 164,
+    "id": 38,
     "kategori": "cerrahi",
     "kelime": "kalça protezi",
     "aciklama": "bebeklerdeki doğumsal yarık dudak ve damağın cerrahi rekonstrüksiyonu",
@@ -2296,7 +532,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 165,
+    "id": 39,
     "kategori": "cerrahi",
     "kelime": "diz protezi",
     "aciklama": "el ve parmaklardaki sinir, tendon ve damarların mikrocerrahi onarımı",
@@ -2310,7 +546,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 166,
+    "id": 40,
     "kategori": "cerrahi",
     "kelime": "alçı",
     "aciklama": "kopan parmak veya uzvun mikrocerrahiyle yerine dikilip damarlarının bağlanması",
@@ -2324,7 +560,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 167,
+    "id": 41,
     "kategori": "cerrahi",
     "kelime": "atel",
     "aciklama": "damar ve sinirlerin mikroskop altında dikildiği hassas cerrahi",
@@ -2338,21 +574,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 168,
-    "kategori": "cerrahi",
-    "kelime": "meniskektomi",
-    "aciklama": "cerrahın konsoldan yönettiği çok kollu robotik cerrahi sistemi",
-    "yasakli_kelimeler": [
-      "menisküs yırtığı",
-      "diz cerrahisi",
-      "yırtık parça",
-      "artroskopi",
-      "temizleme"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 169,
+    "id": 42,
     "kategori": "cerrahi",
     "kelime": "tendon onarımı",
     "aciklama": "doğal deliklerden girilerek karında iz bırakmadan yapılan ameliyat",
@@ -2366,105 +588,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 170,
-    "kategori": "cerrahi",
-    "kelime": "laminektomi",
-    "aciklama": "tümörlü dokunun aşırı dondurularak tahrip edildiği cerrahi teknik",
-    "yasakli_kelimeler": [
-      "omurga kemiği",
-      "omurilik baskısı",
-      "kanal daralması",
-      "kemik çıkarma",
-      "bel cerrahisi"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 171,
-    "kategori": "cerrahi",
-    "kelime": "diskektomi",
-    "aciklama": "karaciğer veya akciğer tümörlerinin mikrodalga ısıyla yakılarak yok edilmesi",
-    "yasakli_kelimeler": [
-      "bel fıtığı",
-      "boyun fıtığı",
-      "kıkırdak disk",
-      "fıtık temizleme",
-      "sinir baskısı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 172,
-    "kategori": "cerrahi",
-    "kelime": "spinal füzyon",
-    "aciklama": "tiroid veya paratiroid cerrahisinde ses tellerini koruyan sinir monitörizasyonu",
-    "yasakli_kelimeler": [
-      "vida çubuk",
-      "omur dondurma",
-      "omurga sabitleme",
-      "kemik kaynatma",
-      "platin takma"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 173,
-    "kategori": "cerrahi",
-    "kelime": "anevrizma klipleme",
-    "aciklama": "ameliyat sırasında alınan dokunun dakikalar içinde patolojik incelenmesi",
-    "yasakli_kelimeler": [
-      "beyin baloncuğu",
-      "titanyum klips",
-      "kanama önleme",
-      "damar boynu",
-      "mikrocerrahi"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 174,
-    "kategori": "cerrahi",
-    "kelime": "hematom tahliyesi",
-    "aciklama": "tümörün cerrahi sınırlarda kalmadığını gösteren temiz cerrahi sınır",
-    "yasakli_kelimeler": [
-      "kan pıhtısı boşaltma",
-      "kafa travması",
-      "beyin baskısı",
-      "drenaj",
-      "kraniyotomi"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 175,
-    "kategori": "cerrahi",
-    "kelime": "kapak replasmanı",
-    "aciklama": "tümörün geride mikroskobik veya makroskopik artık bırakılarak çıkarılması durumu",
-    "yasakli_kelimeler": [
-      "kalp kapağı",
-      "yapay kapakçık",
-      "mitral aort",
-      "değiştirme",
-      "açık kalp"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 176,
-    "kategori": "cerrahi",
-    "kelime": "anjiyoplasti",
-    "aciklama": "tümör kitlesinin ameliyatla küçültülerek ilaç tedavisine hazır hale getirilmesi",
-    "yasakli_kelimeler": [
-      "balon şişirme",
-      "damar açma",
-      "stent öncesi",
-      "tıkalı damar",
-      "kateter"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 177,
+    "id": 43,
     "kategori": "cerrahi",
     "kelime": "varis ameliyatı",
     "aciklama": "kanserli organ ve etrafındaki lenf bezlerinin bütünüyle çıkarılması",
@@ -2478,7 +602,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 178,
+    "id": 44,
     "kategori": "cerrahi",
     "kelime": "kalp pili",
     "aciklama": "kanserin ilk yayılacağı lenf bezinin bulunup cerrahi incelenmesi",
@@ -2492,35 +616,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 179,
-    "kategori": "cerrahi",
-    "kelime": "endarterektomi cerrahisi",
-    "aciklama": "tümörün yayıldığı bölgesel lenf bezlerinin cerrahi olarak temizlenmesi",
-    "yasakli_kelimeler": [
-      "damar soyma",
-      "plak temizleme",
-      "kireç çıkarma",
-      "atardamar içi",
-      "damar açma"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 180,
-    "kategori": "cerrahi",
-    "kelime": "damar yaması",
-    "aciklama": "kür şansı olmayan hastanın ağrı ve tıkanıklığını gideren cerrahi",
-    "yasakli_kelimeler": [
-      "yama",
-      "yama cerrahisi",
-      "genişletme",
-      "greft",
-      "damar onarımı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 181,
+    "id": 45,
     "kategori": "cerrahi",
     "kelime": "deri grefti",
     "aciklama": "hastanın durumunun acil ameliyat gerektirdiği hayati cerrahi müdahale",
@@ -2534,21 +630,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 182,
-    "kategori": "cerrahi",
-    "kelime": "meme rekonstrüksiyonu",
-    "aciklama": "önceden planlanan ve aciliyeti olmayan randevulu cerrahi operasyon",
-    "yasakli_kelimeler": [
-      "yeniden yapma",
-      "meme onarımı",
-      "kanser sonrası",
-      "silikon",
-      "protez"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 183,
+    "id": 46,
     "kategori": "cerrahi",
     "kelime": "meme küçültme",
     "aciklama": "aynı gün taburcu olunan günübirlik küçük cerrahi müdahaleler",
@@ -2562,7 +644,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 184,
+    "id": 47,
     "kategori": "cerrahi",
     "kelime": "meme büyütme",
     "aciklama": "hastanın ameliyat odasına alınmadan önce bekletildiği steril hazırlık odası",
@@ -2576,21 +658,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 185,
-    "kategori": "cerrahi",
-    "kelime": "otoplasti",
-    "aciklama": "anesteziden uyanan hastanın yaşamsal bulgularının izlendiği derlenme odası",
-    "yasakli_kelimeler": [
-      "kepçe kulak",
-      "kulak estetiği",
-      "kıkırdak düzeltme",
-      "kulak yatırma",
-      "estetik"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 186,
+    "id": 48,
     "kategori": "cerrahi",
     "kelime": "yüz germe",
     "aciklama": "ağır ameliyat geçiren hastaların yaşamsal desteğinin sağlandığı yoğun bakım",
@@ -2604,21 +672,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 187,
-    "kategori": "cerrahi",
-    "kelime": "doku genişletici",
-    "aciklama": "ameliyathanede havadaki partikül ve mikropları süzen steril filtreleme",
-    "yasakli_kelimeler": [
-      "silikon balon",
-      "deri üretme",
-      "şişirme",
-      "deri altına",
-      "genişletme"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 188,
+    "id": 49,
     "kategori": "cerrahi",
     "kelime": "mikrocerrahi",
     "aciklama": "hastanın ameliyat masasında sırtüstü düz yatırıldığı standart pozisyon",
@@ -2632,21 +686,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 189,
-    "kategori": "cerrahi",
-    "kelime": "damar anastomozu",
-    "aciklama": "hastanın ameliyat masasında yüzüstü yatırıldığı cerrahi ameliyat pozisyonu",
-    "yasakli_kelimeler": [
-      "damar dikme",
-      "uç uca",
-      "kan akımı",
-      "bağlama",
-      "birleştirme"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 190,
+    "id": 50,
     "kategori": "cerrahi",
     "kelime": "sinir onarımı",
     "aciklama": "kadın doğum ve üroloji ameliyatlarında bacakların askıya alındığı pozisyon",
@@ -2660,7 +700,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 191,
+    "id": 51,
     "kategori": "cerrahi",
     "kelime": "organ nakli",
     "aciklama": "ameliyat masasının baş kısmının aşağı ayakların yukarı kaldırıldığı eğim",
@@ -2674,7 +714,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 192,
+    "id": 52,
     "kategori": "cerrahi",
     "kelime": "böbrek nakli",
     "aciklama": "hastanın başının yukarıda ayaklarının aşağıda tutulduğu ameliyat pozisyonu",
@@ -2688,7 +728,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 193,
+    "id": 53,
     "kategori": "cerrahi",
     "kelime": "karaciğer nakli",
     "aciklama": "hastanın ameliyat masasında sağ veya sol yanına yatırılması",
@@ -2702,7 +742,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 194,
+    "id": 54,
     "kategori": "cerrahi",
     "kelime": "kalp nakli",
     "aciklama": "cerrahi ekibin ameliyat öncesi ellerini cerrahi antiseptikle fırçalaması",
@@ -2716,7 +756,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 195,
+    "id": 55,
     "kategori": "cerrahi",
     "kelime": "kornea nakli",
     "aciklama": "ameliyat ekibinin steril önlük ve eldiveni temas etmeden giymesi",
@@ -2730,7 +770,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 196,
+    "id": 56,
     "kategori": "cerrahi",
     "kelime": "ilik nakli",
     "aciklama": "ameliyat öncesi cerrahi alet, gazlı bez ve iğnelerin sayılması",
@@ -2744,7 +784,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 197,
+    "id": 57,
     "kategori": "cerrahi",
     "kelime": "donör",
     "aciklama": "ameliyat bitiminde vücutta hiçbir malzemenin unutulmadığını teyit eden sayım",
@@ -2758,7 +798,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 198,
+    "id": 58,
     "kategori": "cerrahi",
     "kelime": "alıcı",
     "aciklama": "ameliyata başlamadan önce hasta, işlem ve tarafın sesli doğrulanması",
@@ -2772,34 +812,6 @@
     "zorluk": "kolay"
   },
   {
-    "id": 199,
-    "kategori": "cerrahi",
-    "kelime": "reoperasyon",
-    "aciklama": "kesilen dokuların patolojik tanı için formaldehite konup laboratuvara gönderilmesi",
-    "yasakli_kelimeler": [
-      "ikinci ameliyat",
-      "tekrar açılma",
-      "revizyon",
-      "komplikasyon",
-      "yeniden operasyon"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 200,
-    "kategori": "cerrahi",
-    "kelime": "cerrahi güvenlik",
-    "aciklama": "cerrahın yapılan operasyonun tüm detaylarını yazdığı resmi ameliyat raporu",
-    "yasakli_kelimeler": [
-      "kontrol listesi",
-      "time out",
-      "doğru hasta",
-      "taraf cerrahisi",
-      "güvenlik protokolü"
-    ],
-    "zorluk": "orta"
-  },
-  {
     "kategori": "cerrahi",
     "kelime": "ameliyat etmek",
     "aciklama": "hastalıklı dokuyu tedavi etmek için vücudu ameliyat etmek",
@@ -2811,7 +823,7 @@
       "hasta"
     ],
     "zorluk": "kolay",
-    "id": 201
+    "id": 59
   },
   {
     "kategori": "cerrahi",
@@ -2825,7 +837,7 @@
       "cerrah"
     ],
     "zorluk": "kolay",
-    "id": 202
+    "id": 60
   },
   {
     "kategori": "cerrahi",
@@ -2839,7 +851,7 @@
       "kesmek"
     ],
     "zorluk": "kolay",
-    "id": 203
+    "id": 61
   },
   {
     "kategori": "cerrahi",
@@ -2853,21 +865,7 @@
       "acı"
     ],
     "zorluk": "kolay",
-    "id": 204
-  },
-  {
-    "kategori": "cerrahi",
-    "kelime": "sterilize etmek",
-    "aciklama": "ameliyat sırasında kanayan dokuyu elektrokoter aleti ile yakmak",
-    "yasakli_kelimeler": [
-      "otoklav",
-      "mikrop",
-      "dezenfekte",
-      "alet",
-      "temizlik"
-    ],
-    "zorluk": "kolay",
-    "id": 205
+    "id": 62
   },
   {
     "kategori": "cerrahi",
@@ -2881,7 +879,7 @@
       "bant"
     ],
     "zorluk": "kolay",
-    "id": 206
+    "id": 63
   },
   {
     "kategori": "cerrahi",
@@ -2895,35 +893,7 @@
       "pıhtı"
     ],
     "zorluk": "kolay",
-    "id": 207
-  },
-  {
-    "kategori": "cerrahi",
-    "kelime": "eldiven giymek",
-    "aciklama": "hastalıklı bir organı veya tümörlü dokuyu kesip çıkarmak",
-    "yasakli_kelimeler": [
-      "lateks",
-      "steril",
-      "ameliyathane",
-      "takmak",
-      "enfeksiyon"
-    ],
-    "zorluk": "kolay",
-    "id": 208
-  },
-  {
-    "kategori": "cerrahi",
-    "kelime": "maske takmak",
-    "aciklama": "cerrahi aletleri özel forseps yardımıyla tutup dokuyu kavramak",
-    "yasakli_kelimeler": [
-      "ağız",
-      "cerrahi maske",
-      "bone",
-      "steril",
-      "mikrop"
-    ],
-    "zorluk": "kolay",
-    "id": 209
+    "id": 64
   },
   {
     "kategori": "cerrahi",
@@ -2937,63 +907,7 @@
       "temizlemek"
     ],
     "zorluk": "kolay",
-    "id": 210
-  },
-  {
-    "kategori": "cerrahi",
-    "kelime": "dren takmak",
-    "aciklama": "ameliyat sonrası takılmış olan cerrahi drenaj hortumunu çekmek",
-    "yasakli_kelimeler": [
-      "tüp",
-      "sıvı tahliyesi",
-      "torba",
-      "kan toplama",
-      "hortum"
-    ],
-    "zorluk": "kolay",
-    "id": 211
-  },
-  {
-    "kategori": "cerrahi",
-    "kelime": "önlük giymek",
-    "aciklama": "yara iyileştikten sonra deri üzerindeki dikiş ipliklerini almak",
-    "yasakli_kelimeler": [
-      "yeşil",
-      "mavi",
-      "steril önlük",
-      "hemşire",
-      "ameliyathane"
-    ],
-    "zorluk": "kolay",
-    "id": 212
-  },
-  {
-    "kategori": "cerrahi",
-    "kelime": "laparoskopi yapmak",
-    "aciklama": "ameliyat yarasını steril gazlı bez ve bantla pansuman yapmak",
-    "yasakli_kelimeler": [
-      "kapalı ameliyat",
-      "trokar",
-      "kamera",
-      "küçük delik",
-      "karın"
-    ],
-    "zorluk": "orta",
-    "id": 213
-  },
-  {
-    "kategori": "cerrahi",
-    "kelime": "koterize etmek",
-    "aciklama": "hastayı ameliyata almadan önce uyutmak için genel anestezi uygulamak",
-    "yasakli_kelimeler": [
-      "elektrokoter",
-      "yakma",
-      "damar kapatma",
-      "ısı",
-      "duman"
-    ],
-    "zorluk": "orta",
-    "id": 214
+    "id": 65
   },
   {
     "kategori": "cerrahi",
@@ -3007,77 +921,7 @@
       "iğne"
     ],
     "zorluk": "orta",
-    "id": 215
-  },
-  {
-    "kategori": "cerrahi",
-    "kelime": "entübe etmek",
-    "aciklama": "ameliyat sırasında hastanın soluk borusuna endotrakeal tüp takmak",
-    "yasakli_kelimeler": [
-      "solunum tüpü",
-      "trakea",
-      "solunum cihazı",
-      "laringoskop",
-      "anestezi"
-    ],
-    "zorluk": "orta",
-    "id": 216
-  },
-  {
-    "kategori": "cerrahi",
-    "kelime": "klemplemek",
-    "aciklama": "operasyon bitiminde hastanın soluk borusundaki solunum tüpünü çıkarmak",
-    "yasakli_kelimeler": [
-      "pens",
-      "damar sıkıştırma",
-      "cerrahi alet",
-      "akış durdurma",
-      "tutma"
-    ],
-    "zorluk": "orta",
-    "id": 217
-  },
-  {
-    "kategori": "cerrahi",
-    "kelime": "diseksiyon yapmak",
-    "aciklama": "ameliyata girmeden önce elleri dirseklere kadar antiseptikle fırçalamak",
-    "yasakli_kelimeler": [
-      "doku ayırma",
-      "kesme",
-      "anatomi",
-      "cerrahi plan",
-      "ayıklama"
-    ],
-    "zorluk": "orta",
-    "id": 218
-  },
-  {
-    "kategori": "cerrahi",
-    "kelime": "eksize etmek",
-    "aciklama": "ameliyathanede steril cerrahi önlüğü ve eldivenleri temas etmeden giymek",
-    "yasakli_kelimeler": [
-      "çıkarma",
-      "kesip atma",
-      "tümör çıkarma",
-      "rezeksiyon",
-      "cerrahi"
-    ],
-    "zorluk": "orta",
-    "id": 219
-  },
-  {
-    "kategori": "cerrahi",
-    "kelime": "greftlemek",
-    "aciklama": "ameliyat aletlerini yüksek basınçlı buhar otoklavında mikropsuzlaştırmak",
-    "yasakli_kelimeler": [
-      "deri nakli",
-      "doku yaması",
-      "kemik grefti",
-      "yama",
-      "aktarım"
-    ],
-    "zorluk": "orta",
-    "id": 220
+    "id": 66
   },
   {
     "kategori": "cerrahi",
@@ -3091,35 +935,7 @@
       "makas"
     ],
     "zorluk": "orta",
-    "id": 221
-  },
-  {
-    "kategori": "cerrahi",
-    "kelime": "retraktör tutmak",
-    "aciklama": "hastanın ameliyat edilecek bölgesini delikli steril yeşil örtüyle örtmek",
-    "yasakli_kelimeler": [
-      "ekartör",
-      "asistan",
-      "yara açma",
-      "görüş alanı",
-      "metal alet"
-    ],
-    "zorluk": "orta",
-    "id": 222
-  },
-  {
-    "kategori": "cerrahi",
-    "kelime": "stapler basmak",
-    "aciklama": "hastadan şüpheli doku veya kitle örneği alıp biyopsi yapmak",
-    "yasakli_kelimeler": [
-      "cerrahi zımba",
-      "titanyum klips",
-      "bağırsak kapatma",
-      "hızlı",
-      "mekanik"
-    ],
-    "zorluk": "orta",
-    "id": 223
+    "id": 67
   },
   {
     "kategori": "cerrahi",
@@ -3133,7 +949,7 @@
       "doku uyumu"
     ],
     "zorluk": "orta",
-    "id": 224
+    "id": 68
   },
   {
     "kategori": "cerrahi",
@@ -3147,105 +963,7 @@
       "safen ven"
     ],
     "zorluk": "orta",
-    "id": 225
-  },
-  {
-    "kategori": "cerrahi",
-    "kelime": "lokal anestezi uygulamak",
-    "aciklama": "hastaya veya yakınına ameliyat risklerini anlatıp yazılı onam almak",
-    "yasakli_kelimeler": [
-      "bölgesel uyuşturma",
-      "iğne",
-      "uyanık",
-      "ağrı kesme",
-      "lidokain"
-    ],
-    "zorluk": "orta",
-    "id": 226
-  },
-  {
-    "kategori": "cerrahi",
-    "kelime": "skopi ile izlemek",
-    "aciklama": "cerrahi operasyonun ardından ameliyat notunu ve epikrizi sisteme yazmak",
-    "yasakli_kelimeler": [
-      "c kollu",
-      "canlı röntgen",
-      "ortopedi",
-      "floroskopi",
-      "ekran"
-    ],
-    "zorluk": "orta",
-    "id": 227
-  },
-  {
-    "kategori": "cerrahi",
-    "kelime": "aspiratör çalıştırmak",
-    "aciklama": "kırık kemik parçalarını ameliyatla uç uca getirip sabitlemek",
-    "yasakli_kelimeler": [
-      "vakum",
-      "kan çekme",
-      "hortum",
-      "görüş sağlama",
-      "cerrahi emiş"
-    ],
-    "zorluk": "orta",
-    "id": 228
-  },
-  {
-    "kategori": "cerrahi",
-    "kelime": "kadavra üzerinde çalışmak",
-    "aciklama": "kırık kemiğe cerrahi plak ve çelik vidalar yerleştirmek",
-    "yasakli_kelimeler": [
-      "kadavra",
-      "bağışlanan beden",
-      "anatomi eğitimi",
-      "pratik",
-      "diseksiyon"
-    ],
-    "zorluk": "orta",
-    "id": 229
-  },
-  {
-    "kategori": "cerrahi",
-    "kelime": "gazlı bez saymak",
-    "aciklama": "hasarlı eklem yerine metal veya seramik protez eklem takmak",
-    "yasakli_kelimeler": [
-      "kompres sayımı",
-      "içeride unutma",
-      "hemşire",
-      "ameliyat kapatma",
-      "güvenlik"
-    ],
-    "zorluk": "orta",
-    "id": 230
-  },
-  {
-    "kategori": "cerrahi",
-    "kelime": "turnike sıkmak",
-    "aciklama": "eklem içine minyatür kamera ile girip menisküsü onarmak",
-    "yasakli_kelimeler": [
-      "manson",
-      "kansız saha",
-      "baskı",
-      "ortopedi",
-      "uzuv"
-    ],
-    "zorluk": "orta",
-    "id": 231
-  },
-  {
-    "kategori": "cerrahi",
-    "kelime": "fıtık onarmak",
-    "aciklama": "karın duvarındaki fıtıklaşmış deliği cerrahi yamayla onarmak",
-    "yasakli_kelimeler": [
-      "mesh",
-      "sentetik yama",
-      "kasık fıtığı",
-      "karın duvarı",
-      "onarım"
-    ],
-    "zorluk": "orta",
-    "id": 232
+    "id": 69
   },
   {
     "kategori": "cerrahi",
@@ -3259,35 +977,7 @@
       "karın ağrısı"
     ],
     "zorluk": "orta",
-    "id": 233
-  },
-  {
-    "kategori": "cerrahi",
-    "kelime": "tiroid almak",
-    "aciklama": "hastalıklı safra kesesini laparoskopik kapalı yöntemle ameliyatla almak",
-    "yasakli_kelimeler": [
-      "tiroidektomi",
-      "guatr",
-      "ses teli",
-      "boyun",
-      "nodül"
-    ],
-    "zorluk": "orta",
-    "id": 234
-  },
-  {
-    "kategori": "cerrahi",
-    "kelime": "katarakt ameliyatı yapmak",
-    "aciklama": "iltihaplanan apandisiti kesip cerrahi olarak dışarı çıkarmak",
-    "yasakli_kelimeler": [
-      "göz merceği",
-      "fako",
-      "lens",
-      "matlaşma",
-      "damla"
-    ],
-    "zorluk": "orta",
-    "id": 235
+    "id": 70
   },
   {
     "kategori": "cerrahi",
@@ -3301,202 +991,6 @@
       "pansuman"
     ],
     "zorluk": "orta",
-    "id": 236
-  },
-  {
-    "kategori": "cerrahi",
-    "kelime": "anastomoz yapmak",
-    "aciklama": "bağırsak ucunu karın cildine dikerek yapay dışkı stoması açmak",
-    "yasakli_kelimeler": [
-      "uç uca dikme",
-      "damar birleştirme",
-      "bağırsak ucu",
-      "mikrocerrahi",
-      "akış sağlama"
-    ],
-    "zorluk": "zor",
-    "id": 237
-  },
-  {
-    "kategori": "cerrahi",
-    "kelime": "trepanasyon açmak",
-    "aciklama": "bağırsağın kesilen iki ucunu dikiş veya zımbayla birbirine bağlamak",
-    "yasakli_kelimeler": [
-      "kraniyotomi",
-      "kafatası delme",
-      "kemik flebi",
-      "beyin cerrahisi",
-      "matkap"
-    ],
-    "zorluk": "zor",
-    "id": 238
-  },
-  {
-    "kategori": "cerrahi",
-    "kelime": "laparotomi yapmak",
-    "aciklama": "yaradaki ölü ve çürümüş dokuları bisturi ile cerrahi temizlemek",
-    "yasakli_kelimeler": [
-      "açık karın",
-      "orta hat kesisi",
-      "acil cerrahi",
-      "travma",
-      "keşif"
-    ],
-    "zorluk": "zor",
-    "id": 239
-  },
-  {
-    "kategori": "cerrahi",
-    "kelime": "robotik cerrahi uygulamak",
-    "aciklama": "cerrahi sırasında fışkıran kanamayı pens ve koterle durdurmak",
-    "yasakli_kelimeler": [
-      "da vinci",
-      "robot kol",
-      "konsol",
-      "prostat",
-      "hassas kesim"
-    ],
-    "zorluk": "zor",
-    "id": 240
-  },
-  {
-    "kategori": "cerrahi",
-    "kelime": "kalp akciğer bağlamak",
-    "aciklama": "kadavradan alınan sağlıklı böbreği veya karaciğeri hastaya nakletmek",
-    "yasakli_kelimeler": [
-      "kalp akciğer makinesi",
-      "kalbi durdurma",
-      "kardiyopleji",
-      "kanül",
-      "pompa"
-    ],
-    "zorluk": "zor",
-    "id": 241
-  },
-  {
-    "kategori": "cerrahi",
-    "kelime": "flebi serbestleştirmek",
-    "aciklama": "cerrah konsoluna oturup ameliyatı çok kollu robotla yönetmek",
-    "yasakli_kelimeler": [
-      "serbest flep",
-      "mikrovasküler",
-      "doku transferi",
-      "damar dikimi",
-      "rekonstrüksiyon"
-    ],
-    "zorluk": "zor",
-    "id": 242
-  },
-  {
-    "kategori": "cerrahi",
-    "kelime": "trakeostomi açmak",
-    "aciklama": "tümörlü memeyi çıkarıp silikon protezle yeniden meme oluşturmak",
-    "yasakli_kelimeler": [
-      "soluk borusu",
-      "boyundan delik",
-      "kanül",
-      "acil hava yolu",
-      "gırtlak"
-    ],
-    "zorluk": "zor",
-    "id": 243
-  },
-  {
-    "kategori": "cerrahi",
-    "kelime": "torakotomi yapmak",
-    "aciklama": "yanık veya yarada doku kaybı olan yere deri grefti nakletmek",
-    "yasakli_kelimeler": [
-      "göğüs kafesi açma",
-      "kaburga ekartörü",
-      "akciğer",
-      "aort",
-      "göğüs cerrahisi"
-    ],
-    "zorluk": "zor",
-    "id": 244
-  },
-  {
-    "kategori": "cerrahi",
-    "kelime": "debridman uygulamak",
-    "aciklama": "kopan parmak veya eli ameliyat mikroskobu altında dikmek",
-    "yasakli_kelimeler": [
-      "ölü doku temizliği",
-      "çürük ayıklama",
-      "yanık bakımı",
-      "canlı doku",
-      "yara yatağı"
-    ],
-    "zorluk": "zor",
-    "id": 245
-  },
-  {
-    "kategori": "cerrahi",
-    "kelime": "endarterektomi yapmak",
-    "aciklama": "kesilen sinir uçlarını mikronluk dikişlerle mikroskopta birbirine bağlamak",
-    "yasakli_kelimeler": [
-      "şah damarı",
-      "plak soyma",
-      "karotis",
-      "felç önleme",
-      "damar içi"
-    ],
-    "zorluk": "zor",
-    "id": 246
-  },
-  {
-    "kategori": "cerrahi",
-    "kelime": "frozen inceleme istemek",
-    "aciklama": "omurilik kanalındaki fıtıklaşmış kıkırdağı mikrocerrahi yöntemle temizlemek",
-    "yasakli_kelimeler": [
-      "patoloji konsültasyonu",
-      "dondurulmuş kesit",
-      "ameliyat esnası",
-      "cerrahi sınır",
-      "kanser varlığı"
-    ],
-    "zorluk": "zor",
-    "id": 247
-  },
-  {
-    "kategori": "cerrahi",
-    "kelime": "ligasyon uygulamak",
-    "aciklama": "kafatası kemiğini özel testereyle kesip beyne pencere açmak",
-    "yasakli_kelimeler": [
-      "damar bağlama",
-      "boğma",
-      "kanama önleme",
-      "cerrahi düğüm",
-      "kalıcı kapatma"
-    ],
-    "zorluk": "zor",
-    "id": 248
-  },
-  {
-    "kategori": "cerrahi",
-    "kelime": "osteotomi yapmak",
-    "aciklama": "cerrahi dikiş yerinde iltihap oluşmasını önlemek için pansuman yapmak",
-    "yasakli_kelimeler": [
-      "kemik kesme",
-      "açı düzeltme",
-      "ortopedi",
-      "testere",
-      "çene cerrahisi"
-    ],
-    "zorluk": "zor",
-    "id": 249
-  },
-  {
-    "kategori": "cerrahi",
-    "kelime": "safra kanalı incelemek",
-    "aciklama": "ameliyattan çıkan hastayı derlenme odasında anesteziden uyandırmak",
-    "yasakli_kelimeler": [
-      "ercp",
-      "safra kanalı",
-      "papillatomi",
-      "taş çıkarma",
-      "sarılık"
-    ],
-    "zorluk": "zor",
-    "id": 250
+    "id": 71
   }
 ]

@@ -56,132 +56,6 @@
     "zorluk": "kolay"
   },
   {
-    "kelime": "flüvyal",
-    "aciklama": "akarsuların oluşturduğu aşınım, taşıma ve birikim yer şekilleri ve hidrolojik",
-    "yasakli_kelimeler": [
-      "akarsu",
-      "vadi",
-      "nehir şekli",
-      "alüvyon",
-      "akıntı"
-    ],
-    "id": 5,
-    "kategori": "jeomorfoloji",
-    "zorluk": "zor"
-  },
-  {
-    "kelime": "karst",
-    "aciklama": "kalker, jips ve kaya tuzu gibi kolay eriyebilen kayaçların yeraltı",
-    "yasakli_kelimeler": [
-      "kalker",
-      "erime",
-      "lapya",
-      "dolin",
-      "mağara"
-    ],
-    "id": 6,
-    "kategori": "jeomorfoloji",
-    "zorluk": "kolay"
-  },
-  {
-    "kelime": "glasyal",
-    "aciklama": "buzulların, buzul vadilerinin, morenlerin ve sirklerin oluşturduğu soğuk iklim yer",
-    "yasakli_kelimeler": [
-      "buzul",
-      "moren",
-      "sirk",
-      "hörgüçkaya",
-      "buz çağı"
-    ],
-    "id": 7,
-    "kategori": "jeomorfoloji",
-    "zorluk": "zor"
-  },
-  {
-    "kelime": "eolyen",
-    "aciklama": "kurak ve yarı kurak bölgelerde rüzgarın süpürme, aşındırma ve kumulları",
-    "yasakli_kelimeler": [
-      "rüzgar şekli",
-      "barkan",
-      "kumul",
-      "mantarkaya",
-      "çöl"
-    ],
-    "id": 8,
-    "kategori": "jeomorfoloji",
-    "zorluk": "zor"
-  },
-  {
-    "kelime": "lapya",
-    "aciklama": "karstik kayaçlar üzerinde suyun eritmesiyle oluşan en küçük oluklar",
-    "yasakli_kelimeler": [
-      "karstik oluk",
-      "çözünme oluğu",
-      "kalker yüzeyi",
-      "mikro karst",
-      "dolin"
-    ],
-    "id": 9,
-    "kategori": "jeomorfoloji",
-    "zorluk": "zor"
-  },
-  {
-    "kelime": "dolin",
-    "aciklama": "karstik erime sonucu lapyaların genişlemesiyle oluşan tava biçimli çukur",
-    "yasakli_kelimeler": [
-      "tava",
-      "karstik çukur",
-      "kireçtaşı",
-      "uvala",
-      "lapya"
-    ],
-    "id": 10,
-    "kategori": "jeomorfoloji",
-    "zorluk": "orta"
-  },
-  {
-    "kelime": "uvala",
-    "aciklama": "birkaç dolinin birleşmesiyle oluşan geniş karstik çöküntü",
-    "yasakli_kelimeler": [
-      "birleşik dolin",
-      "büyük çukur",
-      "karstik ova öncülü",
-      "polye",
-      "kalker çukuru"
-    ],
-    "id": 11,
-    "kategori": "jeomorfoloji",
-    "zorluk": "orta"
-  },
-  {
-    "kelime": "polye",
-    "aciklama": "kilometrelerce genişlikte en büyük karstik ova ve çöküntü",
-    "yasakli_kelimeler": [
-      "gölova",
-      "karstik ova",
-      "büyük karst düzlüğü",
-      "kestel",
-      "elmalı"
-    ],
-    "id": 12,
-    "kategori": "jeomorfoloji",
-    "zorluk": "orta"
-  },
-  {
-    "kelime": "düden",
-    "aciklama": "karstik arazilerde yüzeydeki suların yeraltına battığı veya yeraltı sularının aniden",
-    "yasakli_kelimeler": [
-      "su yutan",
-      "su çıkan",
-      "yutak",
-      "ponor",
-      "yer altı akışı"
-    ],
-    "id": 13,
-    "kategori": "jeomorfoloji",
-    "zorluk": "zor"
-  },
-  {
     "kelime": "obruk",
     "aciklama": "yeraltı mağara tavanının çökmesiyle oluşan derin silindirik kuyu",
     "yasakli_kelimeler": [
@@ -191,7 +65,7 @@
       "mağara çökmesi",
       "yer altı suyu"
     ],
-    "id": 14,
+    "id": 5,
     "kategori": "jeomorfoloji",
     "zorluk": "orta"
   },
@@ -205,7 +79,7 @@
       "damlataş",
       "kalsit"
     ],
-    "id": 15,
+    "id": 6,
     "kategori": "jeomorfoloji",
     "zorluk": "kolay"
   },
@@ -219,7 +93,7 @@
       "sütun",
       "kalsiyum birikintisi"
     ],
-    "id": 16,
+    "id": 7,
     "kategori": "jeomorfoloji",
     "zorluk": "kolay"
   },
@@ -233,51 +107,9 @@
       "sıcak su kaynağı",
       "kalsit terası"
     ],
-    "id": 17,
+    "id": 8,
     "kategori": "jeomorfoloji",
     "zorluk": "kolay"
-  },
-  {
-    "kelime": "kör vadi",
-    "aciklama": "bir akarsuyun karstik bir bölgede akarken suyunun bir düden vasıtasıyla",
-    "yasakli_kelimeler": [
-      "tıkalı vadi",
-      "yutak sonu",
-      "düden",
-      "kesik vadi",
-      "karst"
-    ],
-    "id": 18,
-    "kategori": "jeomorfoloji",
-    "zorluk": "orta"
-  },
-  {
-    "kelime": "alüvyal yelpaze",
-    "aciklama": "dağ eteğinde eğimin aniden azaldığı düzlüklerde akarsuyun taşıdığı kaba tortulları",
-    "yasakli_kelimeler": [
-      "birikinti konisi",
-      "dağ eteği",
-      "alüvyon yelpazesi",
-      "tortul birikimi",
-      "eğim kırılması"
-    ],
-    "id": 19,
-    "kategori": "jeomorfoloji",
-    "zorluk": "orta"
-  },
-  {
-    "kelime": "tabanlı vadi",
-    "aciklama": "akarsuyun yana aşındırmasıyla genişleyen alüvyon tabanlı vadi",
-    "yasakli_kelimeler": [
-      "alüvyon tabanı",
-      "geniş vadi",
-      "yana aşındırma",
-      "taşkın ovası",
-      "menderes yatağı"
-    ],
-    "id": 20,
-    "kategori": "jeomorfoloji",
-    "zorluk": "orta"
   },
   {
     "kelime": "boğaz vadi",
@@ -289,7 +121,7 @@
       "dağ geçidi",
       "akarsu yarığı"
     ],
-    "id": 21,
+    "id": 9,
     "kategori": "jeomorfoloji",
     "zorluk": "orta"
   },
@@ -303,37 +135,9 @@
       "köprülü kanyon",
       "dik yamaç"
     ],
-    "id": 22,
+    "id": 10,
     "kategori": "jeomorfoloji",
     "zorluk": "orta"
-  },
-  {
-    "kelime": "çentik vadi",
-    "aciklama": "akarsuyun yukarı çığırında derine aşındırmayla oluşan v şeklinde vadi",
-    "yasakli_kelimeler": [
-      "v biçimli",
-      "genç vadi",
-      "derine aşındırma",
-      "hızlı akış",
-      "eğimli yatak"
-    ],
-    "id": 23,
-    "kategori": "jeomorfoloji",
-    "zorluk": "orta"
-  },
-  {
-    "kelime": "asimetrik vadi",
-    "aciklama": "akarsuyun iki yamacının jeolojik direnç veya eğim farkı yüzünden bir",
-    "yasakli_kelimeler": [
-      "eğik yamaç",
-      "farklı direnç",
-      "asimetri",
-      "vadi yamacı",
-      "yamaç açısı"
-    ],
-    "id": 24,
-    "kategori": "jeomorfoloji",
-    "zorluk": "zor"
   },
   {
     "kelime": "menderes",
@@ -345,51 +149,9 @@
       "yığınak",
       "akarsu yatağı"
     ],
-    "id": 25,
+    "id": 11,
     "kategori": "jeomorfoloji",
     "zorluk": "kolay"
-  },
-  {
-    "kelime": "çarpak",
-    "aciklama": "menderes çizen bir akarsuyun büklüm dış kenarında merkezkaç kuvvetiyle suyun",
-    "yasakli_kelimeler": [
-      "dış büklüm",
-      "aşınım kenarı",
-      "yığınak karşıtı",
-      "merkezkaç oyuğu",
-      "menderes yarığı"
-    ],
-    "id": 26,
-    "kategori": "jeomorfoloji",
-    "zorluk": "zor"
-  },
-  {
-    "kelime": "yığınak",
-    "aciklama": "menderes büklümlerinin iç tarafında suyun hızının düşmesiyle kum ve çakılların",
-    "yasakli_kelimeler": [
-      "iç büklüm",
-      "çarpak karşıtı",
-      "kum çakıl yığıntısı",
-      "sığ taraf",
-      "menderes içi"
-    ],
-    "id": 27,
-    "kategori": "jeomorfoloji",
-    "zorluk": "zor"
-  },
-  {
-    "kelime": "kopuk menderes",
-    "aciklama": "menderes yapan akarsuyun boynunun taşkın anında kopup düzleşmesiyle ana kanaldan",
-    "yasakli_kelimeler": [
-      "öküzboynuzu",
-      "terk edilmiş yatak",
-      "hilal gölü",
-      "menderes kopması",
-      "eski kanal"
-    ],
-    "id": 28,
-    "kategori": "jeomorfoloji",
-    "zorluk": "zor"
   },
   {
     "kelime": "taşkın ovası",
@@ -401,21 +163,7 @@
       "nehir kıyısı",
       "düzlük"
     ],
-    "id": 29,
-    "kategori": "jeomorfoloji",
-    "zorluk": "kolay"
-  },
-  {
-    "kelime": "taraça",
-    "aciklama": "akarsu yatağının tektonik yükselmeyle basamaklı hale gelmesi seki",
-    "yasakli_kelimeler": [
-      "seki",
-      "basamak",
-      "eski vadi tabanı",
-      "epirojenez",
-      "akarsu sevisi"
-    ],
-    "id": 30,
+    "id": 12,
     "kategori": "jeomorfoloji",
     "zorluk": "kolay"
   },
@@ -429,121 +177,9 @@
       "su dökülmesi",
       "girdap oyuntusu"
     ],
-    "id": 31,
+    "id": 13,
     "kategori": "jeomorfoloji",
     "zorluk": "kolay"
-  },
-  {
-    "kelime": "peneplen",
-    "aciklama": "tüm jeomorfolojik aşındırma süreçlerinin son safhasında dağlık alanların neredeyse deniz",
-    "yasakli_kelimeler": [
-      "yontukdüz",
-      "yaşlı topoğrafya",
-      "aşınım sonu",
-      "dalgalı düzlük",
-      "erozyon dönemi"
-    ],
-    "id": 32,
-    "kategori": "jeomorfoloji",
-    "zorluk": "zor"
-  },
-  {
-    "kelime": "monadnock",
-    "aciklama": "peneplen düzlüğü üzerinde çevresindeki kayaçlara göre aşınmaya çok daha dirençli",
-    "yasakli_kelimeler": [
-      "kalıntı tepe",
-      "inselberg",
-      "dirençli kaya",
-      "yontukdüz tepesi",
-      "aşınma kalıntısı"
-    ],
-    "id": 33,
-    "kategori": "jeomorfoloji",
-    "zorluk": "zor"
-  },
-  {
-    "kelime": "inselberg",
-    "aciklama": "kurak ve yarı kurak tropikal aşınım düzlüklerinde ada gibi tek",
-    "yasakli_kelimeler": [
-      "ada tepe",
-      "çöl tepesi",
-      "granit blok",
-      "aşınım düzlüğü",
-      "monadnock"
-    ],
-    "id": 34,
-    "kategori": "jeomorfoloji",
-    "zorluk": "zor"
-  },
-  {
-    "kelime": "pediment",
-    "aciklama": "kurak dağ eteklerinde dik yamaçların gerilemesiyle oluşan, ince tortullarla kaplı",
-    "yasakli_kelimeler": [
-      "dağ eteği düzlüğü",
-      "aşınım yüzeyi",
-      "kaya tabanı",
-      "kurak topoğrafya",
-      "bajada"
-    ],
-    "id": 35,
-    "kategori": "jeomorfoloji",
-    "zorluk": "zor"
-  },
-  {
-    "kelime": "bajada",
-    "aciklama": "kurak dağ eteklerindeki yan yana gelişen birden çok birikinti yelpazesinin",
-    "yasakli_kelimeler": [
-      "birleşik yelpaze",
-      "dağ eteği ovası",
-      "birikinti eteği",
-      "pediment komşusu",
-      "kurak kuşak"
-    ],
-    "id": 36,
-    "kategori": "jeomorfoloji",
-    "zorluk": "zor"
-  },
-  {
-    "kelime": "playa",
-    "aciklama": "çöl ve kapalı havzalarda yağışlı dönemde geçici sığ göle dönüşen,",
-    "yasakli_kelimeler": [
-      "çöl gölü",
-      "tuz düzlüğü",
-      "geçici göl",
-      "kapalı havza",
-      "buharlaşma"
-    ],
-    "id": 37,
-    "kategori": "jeomorfoloji",
-    "zorluk": "zor"
-  },
-  {
-    "kelime": "tuz tavası",
-    "aciklama": "playa veya kuruyan tuzlu göl tabanlarında yüksek buharlaşma sonucu geriye",
-    "yasakli_kelimeler": [
-      "tuz gölü",
-      "beyaz kabuk",
-      "tuz tabakası",
-      "buharlaşma düzlüğü",
-      "kristalleşme"
-    ],
-    "id": 38,
-    "kategori": "jeomorfoloji",
-    "zorluk": "zor"
-  },
-  {
-    "kelime": "barkan",
-    "aciklama": "çöllerde rüzgar etkisiyle oluşan hilal biçimli kum tepesi",
-    "yasakli_kelimeler": [
-      "hilal kumul",
-      "kum tepesi",
-      "rüzgar yönü",
-      "çöl kumulu",
-      "eolyen"
-    ],
-    "id": 39,
-    "kategori": "jeomorfoloji",
-    "zorluk": "orta"
   },
   {
     "kelime": "kumul",
@@ -555,23 +191,9 @@
       "kum sahrası",
       "kumul seti"
     ],
-    "id": 40,
+    "id": 14,
     "kategori": "jeomorfoloji",
     "zorluk": "kolay"
-  },
-  {
-    "kelime": "lös",
-    "aciklama": "rüzgarın taşıyıp kurak bölgelerde yığdığı çok ince sarımsı tortul",
-    "yasakli_kelimeler": [
-      "sarı toprak",
-      "rüzgar tortulu",
-      "toz çökeli",
-      "verimli toprak",
-      "eolyen birikim"
-    ],
-    "id": 41,
-    "kategori": "jeomorfoloji",
-    "zorluk": "orta"
   },
   {
     "kelime": "mantarkaya",
@@ -583,205 +205,9 @@
       "çöl anıtı",
       "korrazyon"
     ],
-    "id": 42,
+    "id": 15,
     "kategori": "jeomorfoloji",
     "zorluk": "kolay"
-  },
-  {
-    "kelime": "yardang",
-    "aciklama": "rüzgar aşındırmasıyla kayalarda oluşan u şeklinde oluklar",
-    "yasakli_kelimeler": [
-      "rüzgar yarığı",
-      "paralel sırt",
-      "çöl oluğu",
-      "aşınım kanalı",
-      "korrazyon"
-    ],
-    "id": 43,
-    "kategori": "jeomorfoloji",
-    "zorluk": "orta"
-  },
-  {
-    "kelime": "tafoni",
-    "aciklama": "kurak ve kıyı kayalıklarında gözeneklerdeki tuz kristallerinin büyümesiyle kayacın yüzeyinde",
-    "yasakli_kelimeler": [
-      "bal peteği oyuğu",
-      "kovuk",
-      "tuz çatlaması",
-      "kaya oyuğu",
-      "hücresel aşınma"
-    ],
-    "id": 44,
-    "kategori": "jeomorfoloji",
-    "zorluk": "orta"
-  },
-  {
-    "kelime": "çöl kaldırımı",
-    "aciklama": "çöl rüzgarlarının ince kum ve killeri süpürüp götürmesiyle geride kalan",
-    "yasakli_kelimeler": [
-      "serir",
-      "reg",
-      "çakıllı çöl",
-      "deflasyon kalıntısı",
-      "parlak çakıl"
-    ],
-    "id": 45,
-    "kategori": "jeomorfoloji",
-    "zorluk": "zor"
-  },
-  {
-    "kelime": "hamada",
-    "aciklama": "rüzgarın tüm ufalanmış kumu ve çakılı süpürmesi sonucunda çıplak ana",
-    "yasakli_kelimeler": [
-      "taşlık çöl",
-      "kaya çölü",
-      "çıplak ana kaya",
-      "sahra",
-      "deflasyon"
-    ],
-    "id": 46,
-    "kategori": "jeomorfoloji",
-    "zorluk": "zor"
-  },
-  {
-    "kelime": "erg",
-    "aciklama": "sahra ve arap çöllerinde uçsuz bucaksız hareketli dev kumullardan oluşan",
-    "yasakli_kelimeler": [
-      "kum denizi",
-      "kum çölü",
-      "dev kumul",
-      "büyük çöl",
-      "sahra"
-    ],
-    "id": 47,
-    "kategori": "jeomorfoloji",
-    "zorluk": "zor"
-  },
-  {
-    "kelime": "serir",
-    "aciklama": "kumların rüzgarla uçurulmasıyla oluşan yuvarlaklaşmış çakıl örtüsüyle kaplı libya ve",
-    "yasakli_kelimeler": [
-      "çakıl çölü",
-      "reg",
-      "çöl kaldırımı",
-      "yuvarlak taşlar",
-      "deflasyon sahası"
-    ],
-    "id": 48,
-    "kategori": "jeomorfoloji",
-    "zorluk": "zor"
-  },
-  {
-    "kelime": "deflasyon",
-    "aciklama": "kurak bölgelerde rüzgarın ufalanmış gevşek toz, mil ve kum tanelerini",
-    "yasakli_kelimeler": [
-      "rüzgar süpürmesi",
-      "toz havalanması",
-      "kum savrulması",
-      "rüzgar erozyonu",
-      "korrazyon zıddı"
-    ],
-    "id": 49,
-    "kategori": "jeomorfoloji",
-    "zorluk": "orta"
-  },
-  {
-    "kelime": "korrazyon",
-    "aciklama": "rüzgarın havada sürüklediği sert kum ve toz taneciklerinin karşılaştıkları kaya",
-    "yasakli_kelimeler": [
-      "zımparalama",
-      "rüzgar aşındırması",
-      "kum çarpması",
-      "kaya oyması",
-      "tafoni"
-    ],
-    "id": 50,
-    "kategori": "jeomorfoloji",
-    "zorluk": "orta"
-  },
-  {
-    "kelime": "sirk",
-    "aciklama": "dağların zirveye yakın yamaçlarında buzulun oyduğu koltuk veya amfiteatr benzeri",
-    "yasakli_kelimeler": [
-      "buzul yalağı",
-      "amfiteatr",
-      "koltuk çukuru",
-      "sirk gölü",
-      "glasyal oyuntu"
-    ],
-    "id": 51,
-    "kategori": "jeomorfoloji",
-    "zorluk": "kolay"
-  },
-  {
-    "kelime": "hörgüçkaya",
-    "aciklama": "buzulun üzerinden geçerken sert kayaları cilalayıp yuvarlatması, çıkış yönünde ise",
-    "yasakli_kelimeler": [
-      "buzul kayası",
-      "deve hörgücü",
-      "cilalı kaya",
-      "roche moutonnee",
-      "glasyal aşınım"
-    ],
-    "id": 52,
-    "kategori": "jeomorfoloji",
-    "zorluk": "orta"
-  },
-  {
-    "kelime": "moren",
-    "aciklama": "buzulların taşıyıp erime bölgesinde yığdığı buzul taş tortulları",
-    "yasakli_kelimeler": [
-      "buzultaş",
-      "yan moren",
-      "uç moreni",
-      "taban moreni",
-      "till"
-    ],
-    "id": 53,
-    "kategori": "jeomorfoloji",
-    "zorluk": "orta"
-  },
-  {
-    "kelime": "drumlin",
-    "aciklama": "buzul tabanı altındaki morenlerin buzulun akış hareketiyle ters kaşık veya",
-    "yasakli_kelimeler": [
-      "ters kaşık",
-      "buzul tepesi",
-      "morfolojik tepe",
-      "moren yığını",
-      "glasyal şekil"
-    ],
-    "id": 54,
-    "kategori": "jeomorfoloji",
-    "zorluk": "zor"
-  },
-  {
-    "kelime": "esker",
-    "aciklama": "eriyen buzulun altındaki tünellerden akan akarsuların yataklarında biriktirdiği uzun, dar",
-    "yasakli_kelimeler": [
-      "buzulaltı nehri",
-      "kıvrımlı sırt",
-      "kum çakıl sırtı",
-      "flüvyog鋭asyal",
-      "buzul çökeli"
-    ],
-    "id": 55,
-    "kategori": "jeomorfoloji",
-    "zorluk": "zor"
-  },
-  {
-    "kelime": "kame",
-    "aciklama": "buzul kenarlarında veya eriyen buz blokları arasındaki durgun göletlerde biriken",
-    "yasakli_kelimeler": [
-      "konik tepecik",
-      "buzul gölü çökeli",
-      "tabakalı kum",
-      "esker komşusu",
-      "glasyal birikim"
-    ],
-    "id": 56,
-    "kategori": "jeomorfoloji",
-    "zorluk": "zor"
   },
   {
     "kelime": "fiyort",
@@ -793,65 +219,9 @@
       "dik körfez",
       "deniz istilası"
     ],
-    "id": 57,
+    "id": 16,
     "kategori": "jeomorfoloji",
     "zorluk": "kolay"
-  },
-  {
-    "kelime": "skyar",
-    "aciklama": "buzulların aşındırdığı kıyılarda çok sayıda hörgüçkaya ve minik kayalık adacığın",
-    "yasakli_kelimeler": [
-      "adacık kıyısı",
-      "hörgüçkaya denizi",
-      "iskandinavya",
-      "kayalık kıyı",
-      "buzul kıyısı"
-    ],
-    "id": 58,
-    "kategori": "jeomorfoloji",
-    "zorluk": "zor"
-  },
-  {
-    "kelime": "riya",
-    "aciklama": "deniz seviyesinin yükselmesi sonucunda akarsu vadilerinin aşağı çığırlarının sular altında",
-    "yasakli_kelimeler": [
-      "boğaz kıyısı",
-      "istanbul boğazı",
-      "batık akarsu vadisi",
-      "kıyı tipi",
-      "haliç"
-    ],
-    "id": 59,
-    "kategori": "jeomorfoloji",
-    "zorluk": "orta"
-  },
-  {
-    "kelime": "dalmaçya kıyı",
-    "aciklama": "kıyıya paralel uzanan sıra dağlar arasındaki boyuna vadilerin deniz suları",
-    "yasakli_kelimeler": [
-      "adriyatik",
-      "paralel adalar",
-      "hırvatistan",
-      "kıyı çizgisi",
-      "boyuna vadi"
-    ],
-    "id": 60,
-    "kategori": "jeomorfoloji",
-    "zorluk": "orta"
-  },
-  {
-    "kelime": "limanlı kıyı",
-    "aciklama": "geniş tabanlı alüvyonlu vadi ağızlarının deniz basmasıyla körfeze dönüşmesi ve",
-    "yasakli_kelimeler": [
-      "kıyı kordonu",
-      "karadeniz kıyısı",
-      "koy ağzı",
-      "alüvyon tıkacı",
-      "doğal liman"
-    ],
-    "id": 61,
-    "kategori": "jeomorfoloji",
-    "zorluk": "zor"
   },
   {
     "kelime": "haliç",
@@ -863,37 +233,9 @@
       "okyanus",
       "gelgit genliği"
     ],
-    "id": 62,
+    "id": 17,
     "kategori": "jeomorfoloji",
     "zorluk": "kolay"
-  },
-  {
-    "kelime": "watt kıyısı",
-    "aciklama": "gelgit esnasında suların çekilmesiyle geniş çamur düzlüklerinin ortaya çıktığı, kabarınca",
-    "yasakli_kelimeler": [
-      "çamur düzlüğü",
-      "gelgit bataklığı",
-      "kuzey denizi",
-      "çekilme alanı",
-      "sığ kıyı"
-    ],
-    "id": 63,
-    "kategori": "jeomorfoloji",
-    "zorluk": "zor"
-  },
-  {
-    "kelime": "tombolo",
-    "aciklama": "kıyı kordonunun açıkta bulunan adayı karaya bağlaması saplı ada",
-    "yasakli_kelimeler": [
-      "saplı ada",
-      "kıyı oku",
-      "kapıdağ yarımadası",
-      "sinop",
-      "ada birleşmesi"
-    ],
-    "id": 64,
-    "kategori": "jeomorfoloji",
-    "zorluk": "orta"
   },
   {
     "kelime": "lagün",
@@ -905,23 +247,9 @@
       "kıyı kordonu",
       "koy kapanması"
     ],
-    "id": 65,
+    "id": 18,
     "kategori": "jeomorfoloji",
     "zorluk": "kolay"
-  },
-  {
-    "kelime": "kıyı kordonu",
-    "aciklama": "dalgaların ve kıyı akıntılarının taşıdığı kumların bir koyun ağzını kapatacak",
-    "yasakli_kelimeler": [
-      "kum seti",
-      "kıyı dili",
-      "koy ağzı",
-      "lagün önü",
-      "kumsal şerit"
-    ],
-    "id": 66,
-    "kategori": "jeomorfoloji",
-    "zorluk": "orta"
   },
   {
     "kelime": "falez",
@@ -933,23 +261,9 @@
       "antalya falezleri",
       "kıyı dikliği"
     ],
-    "id": 67,
+    "id": 19,
     "kategori": "jeomorfoloji",
     "zorluk": "kolay"
-  },
-  {
-    "kelime": "dalga aşınım düzlüğü",
-    "aciklama": "falezlerin zamanla geriye doğru çekilmesi sonucunda su seviyesinde açığa çıkan",
-    "yasakli_kelimeler": [
-      "abrazyon platformu",
-      "falez tabanı",
-      "kıyı düzlüğü",
-      "dalga erozyonu",
-      "kaya platformu"
-    ],
-    "id": 68,
-    "kategori": "jeomorfoloji",
-    "zorluk": "orta"
   },
   {
     "kelime": "plaj",
@@ -961,7 +275,7 @@
       "çakıllık",
       "deniz kenarı"
     ],
-    "id": 69,
+    "id": 20,
     "kategori": "jeomorfoloji",
     "zorluk": "kolay"
   },
@@ -975,385 +289,7 @@
       "ürgüp",
       "erozyon sütunu"
     ],
-    "id": 70,
-    "kategori": "jeomorfoloji",
-    "zorluk": "kolay"
-  },
-  {
-    "kelime": "kırgabayır",
-    "aciklama": "bitki örtüsünden yoksun killi ve eğimli yamaçların sağanak yağış sularıyla",
-    "yasakli_kelimeler": [
-      "badlands",
-      "çorak arazi",
-      "sel yarıntısı",
-      "kil yamacı",
-      "derin yarık"
-    ],
-    "id": 71,
-    "kategori": "jeomorfoloji",
-    "zorluk": "orta"
-  },
-  {
-    "kelime": "kuesta",
-    "aciklama": "farklı sertlikteki az eğimli tortul tabakaların aşınmasıyla bir yamacı çok",
-    "yasakli_kelimeler": [
-      "asimetrik sırt",
-      "az eğimli tabaka",
-      "dik ve yatık yamaç",
-      "homoklinal",
-      "tabaka topoğrafyası"
-    ],
-    "id": 72,
-    "kategori": "jeomorfoloji",
-    "zorluk": "orta"
-  },
-  {
-    "kelime": "hogback",
-    "aciklama": "tabaka eğiminin 45 dereceden fazla olduğu çok dik tortul katmanların",
-    "yasakli_kelimeler": [
-      "dik tabaka",
-      "keskin sırt",
-      "domuz sırtı",
-      "kuesta dikliği",
-      "monoklinal"
-    ],
-    "id": 73,
-    "kategori": "jeomorfoloji",
-    "zorluk": "zor"
-  },
-  {
-    "kelime": "monoklinal",
-    "aciklama": "tabakaların tek bir yöne doğru eğimli olduğu jeolojik yapılarda gelişen",
-    "yasakli_kelimeler": [
-      "tek eğimli",
-      "kuesta yapısı",
-      "tabaka eğimi",
-      "hogback",
-      "jeolojik yapı"
-    ],
-    "id": 74,
-    "kategori": "jeomorfoloji",
-    "zorluk": "orta"
-  },
-  {
-    "kelime": "antiklinal",
-    "aciklama": "kıvrımlı dağ oluşumunda yan basınçlarla sıkışan tortul tabakaların kubbe şeklinde",
-    "yasakli_kelimeler": [
-      "kubbe",
-      "kıvrım tepesi",
-      "senklinal zıddı",
-      "dağ kıvrımı",
-      "orojenez"
-    ],
-    "id": 75,
-    "kategori": "jeomorfoloji",
-    "zorluk": "orta"
-  },
-  {
-    "kelime": "senklinal",
-    "aciklama": "yan basınçların etkisiyle tabakaların çanak şeklinde aşağıya doğru kıvrıldığı tekne",
-    "yasakli_kelimeler": [
-      "çanak",
-      "kıvrım çukuru",
-      "antiklinal zıddı",
-      "tekne",
-      "orojenez çanağı"
-    ],
-    "id": 76,
-    "kategori": "jeomorfoloji",
-    "zorluk": "orta"
-  },
-  {
-    "kelime": "kluz",
-    "aciklama": "akarsuyun bir antiklinal eksenini veya dağ sırasını enine derin biçimde",
-    "yasakli_kelimeler": [
-      "yarma boğaz",
-      "antiklinal yarığı",
-      "enine vadi",
-      "boğaz",
-      "su yarıntısı"
-    ],
-    "id": 77,
-    "kategori": "jeomorfoloji",
-    "zorluk": "zor"
-  },
-  {
-    "kelime": "kombe",
-    "aciklama": "antiklinalin tepe ekseni boyunca aşınmayla açılmış uzunlamasına uzanan kapalı veya",
-    "yasakli_kelimeler": [
-      "eksen vadisi",
-      "antiklinal tepesi",
-      "boyuna çukur",
-      "aşınım havzası",
-      "kubbe yarığı"
-    ],
-    "id": 78,
-    "kategori": "jeomorfoloji",
-    "zorluk": "zor"
-  },
-  {
-    "kelime": "rüzgar kertiği",
-    "aciklama": "önceden bir akarsuyun aktığı ancak akarsu kapması veya tektonik hareketle",
-    "yasakli_kelimeler": [
-      "kuru geçit",
-      "kuru vadi",
-      "kapma izi",
-      "akarsu boğazı",
-      "rüzgar gediği"
-    ],
-    "id": 79,
-    "kategori": "jeomorfoloji",
-    "zorluk": "zor"
-  },
-  {
-    "kelime": "akarsu kapması",
-    "aciklama": "geriye doğru hızlı aşındırma yapan bir akarsu kolunun komşu vadideki",
-    "yasakli_kelimeler": [
-      "kapma dirseği",
-      "su hırsızlığı",
-      "havza birleşmesi",
-      "geriye aşındırma",
-      "yatak değişimi"
-    ],
-    "id": 80,
-    "kategori": "jeomorfoloji",
-    "zorluk": "zor"
-  },
-  {
-    "kelime": "kuesta alnı",
-    "aciklama": "kuesta yer şeklinde tabaka eğiminin ters yönünde uzanan ve tabaka",
-    "yasakli_kelimeler": [
-      "dik yamaç",
-      "korniş",
-      "kuesta cephesi",
-      "tabaka ucu",
-      "dik yokuş"
-    ],
-    "id": 81,
-    "kategori": "jeomorfoloji",
-    "zorluk": "zor"
-  },
-  {
-    "kelime": "subsekent",
-    "aciklama": "orijinal eğim doğrultusunda akan ana akarsulara dik açıyla bağlanan ve",
-    "yasakli_kelimeler": [
-      "yan dere",
-      "tabaka boyu akışı",
-      "ikincil akarsu",
-      "konsekent zıddı",
-      "yapısal vadi"
-    ],
-    "id": 82,
-    "kategori": "jeomorfoloji",
-    "zorluk": "zor"
-  },
-  {
-    "kelime": "konsekent",
-    "aciklama": "arazinin orijinal ilk topoğrafik genel eğim yönüne uygun olarak akmaya",
-    "yasakli_kelimeler": [
-      "eğime uygun",
-      "ilk akarsu",
-      "ana ırmak",
-      "orijinal akış",
-      "tabaka akımı"
-    ],
-    "id": 83,
-    "kategori": "jeomorfoloji",
-    "zorluk": "zor"
-  },
-  {
-    "kelime": "resektent",
-    "aciklama": "kuesta veya yapısal topoğrafyada ana eğim yönünde akan fakat subsekent",
-    "yasakli_kelimeler": [
-      "yeni eğim kolu",
-      "kuesta deresi",
-      "genç akarsu",
-      "yapısal akış",
-      "drenaj"
-    ],
-    "id": 84,
-    "kategori": "jeomorfoloji",
-    "zorluk": "zor"
-  },
-  {
-    "kelime": "obsekent",
-    "aciklama": "kuesta alnında tabaka eğiminin tam tersi yönünde dik yamaçtan aşağıya",
-    "yasakli_kelimeler": [
-      "ters yönlü akarsu",
-      "eğimin zıddı",
-      "kuesta alnı akışı",
-      "dik yamaç deresi",
-      "drenaj kolu"
-    ],
-    "id": 85,
-    "kategori": "jeomorfoloji",
-    "zorluk": "zor"
-  },
-  {
-    "kelime": "dendritik",
-    "aciklama": "homojen ve yatay yapılı kayalarda akarsu kollarının bir ağacın dallarına",
-    "yasakli_kelimeler": [
-      "ağaçsı ağ",
-      "dal biçimli",
-      "akarsu ağı",
-      "homojen aşınım",
-      "dallanma"
-    ],
-    "id": 86,
-    "kategori": "jeomorfoloji",
-    "zorluk": "zor"
-  },
-  {
-    "kelime": "kafesli drenaj",
-    "aciklama": "kıvrımlı veya faylı yapılarda ana akarsu ile kollarının birbirine neredeyse",
-    "yasakli_kelimeler": [
-      "ızgara tipi",
-      "dik açılı ağ",
-      "kıvrımlı bölge",
-      "yapısal drenaj",
-      "trellis"
-    ],
-    "id": 87,
-    "kategori": "jeomorfoloji",
-    "zorluk": "zor"
-  },
-  {
-    "kelime": "radyal drenaj",
-    "aciklama": "volkanik koni veya kubbe gibi dairesel yüksek merkezlerden dışa doğru",
-    "yasakli_kelimeler": [
-      "ışınsal ağ",
-      "volkanik drenaj",
-      "merkezden çevreye",
-      "kubbe akışı",
-      "tepeden iniş"
-    ],
-    "id": 88,
-    "kategori": "jeomorfoloji",
-    "zorluk": "zor"
-  },
-  {
-    "kelime": "sentripetal",
-    "aciklama": "kapalı havzalarda çevredeki dağlardan doğan tüm akarsuların merkezdeki bir göl",
-    "yasakli_kelimeler": [
-      "merkeze dönük",
-      "içe akış",
-      "kapalı havza",
-      "göle dökülme",
-      "radyal zıddı"
-    ],
-    "id": 89,
-    "kategori": "jeomorfoloji",
-    "zorluk": "zor"
-  },
-  {
-    "kelime": "horst",
-    "aciklama": "orojenez ve tektonik gerilme esnasında kırılan yer kabuğu blokları arasında",
-    "yasakli_kelimeler": [
-      "yüksek blok",
-      "faylanma",
-      "graben zıddı",
-      "ege dağları",
-      "kırık dağ"
-    ],
-    "id": 90,
-    "kategori": "jeomorfoloji",
-    "zorluk": "orta"
-  },
-  {
-    "kelime": "graben",
-    "aciklama": "paralel iki fay hattı boyunca yer kabuğunun tektonik olarak çökmesiyle",
-    "yasakli_kelimeler": [
-      "çöküntü ovası",
-      "horst zıddı",
-      "fay vadisi",
-      "gediz ovası",
-      "büyük menderes"
-    ],
-    "id": 91,
-    "kategori": "jeomorfoloji",
-    "zorluk": "orta"
-  },
-  {
-    "kelime": "fay aynası",
-    "aciklama": "faylanma esnasında blokların birbirine sürtünerek kaymasıyla açığa çıkan parlak, çizikli",
-    "yasakli_kelimeler": [
-      "fay düzlemi",
-      "parlak kaya",
-      "sürtünme izi",
-      "tektonik çizik",
-      "fay dikliği"
-    ],
-    "id": 92,
-    "kategori": "jeomorfoloji",
-    "zorluk": "orta"
-  },
-  {
-    "kelime": "fay dikliği",
-    "aciklama": "fay hareketi sonrasında yükselen blok ile alçalan blok arasında arazide",
-    "yasakli_kelimeler": [
-      "fay sarplığı",
-      "dik basamak",
-      "escarpment",
-      "topoğrafik basamak",
-      "kırık hattı"
-    ],
-    "id": 93,
-    "kategori": "jeomorfoloji",
-    "zorluk": "orta"
-  },
-  {
-    "kelime": "fay göleti",
-    "aciklama": "aktif bir fay hattının kayma zonunda veya çek-ayır havzalarında yer",
-    "yasakli_kelimeler": [
-      "çöküntü gölü",
-      "çek ayır havzası",
-      "aktif fay",
-      "su birikintisi",
-      "kuzey anadolu fayı"
-    ],
-    "id": 94,
-    "kategori": "jeomorfoloji",
-    "zorluk": "zor"
-  },
-  {
-    "kelime": "ötelenmiş dere",
-    "aciklama": "doğrultu atımlı aktif bir fayı dikine kesen akarsu yatağının depremler",
-    "yasakli_kelimeler": [
-      "yatay sapma",
-      "doğrultu atım",
-      "dirsek yapan dere",
-      "aktif fay izi",
-      "kanal ötelenmesi"
-    ],
-    "id": 95,
-    "kategori": "jeomorfoloji",
-    "zorluk": "orta"
-  },
-  {
-    "kelime": "kaldera",
-    "aciklama": "volkanik patlama veya magma odasının boşalmasıyla volkan konisinin tepe kısmının",
-    "yasakli_kelimeler": [
-      "nemrut gölü",
-      "volkanik çöküntü",
-      "dev krater",
-      "patlama çukuru",
-      "magma haznesi"
-    ],
-    "id": 96,
-    "kategori": "jeomorfoloji",
-    "zorluk": "kolay"
-  },
-  {
-    "kelime": "maar",
-    "aciklama": "yer altındaki magmanın yer altı sularıyla karşılaşması sonucu oluşan gaz",
-    "yasakli_kelimeler": [
-      "gaz patlaması",
-      "volkanik çukur",
-      "meke maarı",
-      "freatik patlama",
-      "sığ krater"
-    ],
-    "id": 97,
+    "id": 21,
     "kategori": "jeomorfoloji",
     "zorluk": "kolay"
   },
@@ -1367,40 +303,12 @@
       "ağrı dağı",
       "kül konisi"
     ],
-    "id": 98,
+    "id": 22,
     "kategori": "jeomorfoloji",
     "zorluk": "kolay"
   },
   {
-    "kelime": "lav platosu",
-    "aciklama": "akıcı bazaltik lavların yer çatlaklarından yüzeye çıkarak çok geniş arazilere",
-    "yasakli_kelimeler": [
-      "bazalt örtüsü",
-      "erzurum kars",
-      "volkanik düzlük",
-      "akıcı lav",
-      "yüksek yayla"
-    ],
-    "id": 99,
-    "kategori": "jeomorfoloji",
-    "zorluk": "orta"
-  },
-  {
-    "kelime": "sütun bazalt",
-    "aciklama": "bazaltik lavların soğurken büzülmesiyle çatlaklar boyunca oluşan çokgen prizmatik doğal",
-    "yasakli_kelimeler": [
-      "altıgen sütun",
-      "soğuma çatlağı",
-      "boyabat",
-      "volkanik prizma",
-      "devler kaldırımı"
-    ],
-    "id": 100,
-    "kategori": "jeomorfoloji",
-    "zorluk": "orta"
-  },
-  {
-    "id": 101,
+    "id": 23,
     "kategori": "jeomorfoloji",
     "kelime": "krater",
     "aciklama": "volkanik patlama sırasında lav ve gazların çıktığı dağ zirvesindeki huni",
@@ -1414,35 +322,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 102,
-    "kategori": "jeomorfoloji",
-    "kelime": "piroklastik akıntı",
-    "aciklama": "volkan bacasından püsküren akkor haldeki sıcak gaz, kül ve kaya",
-    "yasakli_kelimeler": [
-      "sıcak gaz",
-      "kül bulutu",
-      "akkor",
-      "çığ",
-      "volkanik yamaç"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 103,
-    "kategori": "jeomorfoloji",
-    "kelime": "tüf tabakası",
-    "aciklama": "volkandan havaya fırlayan ince küllerin yere çöküp zamanla sıkışarak oluşturduğu",
-    "yasakli_kelimeler": [
-      "volkan külü",
-      "yumuşak kaya",
-      "tabaka",
-      "çimentolaşma",
-      "aşınma"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 104,
+    "id": 24,
     "kategori": "jeomorfoloji",
     "kelime": "lav akıntısı",
     "aciklama": "yanardağdan çıkan erimiş akkor magmanın yeryüzünde nehir gibi akıp soğuyarak",
@@ -1456,91 +336,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 105,
-    "kategori": "jeomorfoloji",
-    "kelime": "bazalt platosu",
-    "aciklama": "yeryüzü çatlaklarından çıkan çok akışkan bazalt lavlarının yüzlerce kilometrekarelik alanı",
-    "yasakli_kelimeler": [
-      "akışkan lav",
-      "düzlük",
-      "katılaşma",
-      "yüksek",
-      "volkanik örtü"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 106,
-    "kategori": "jeomorfoloji",
-    "kelime": "volkanik dom",
-    "aciklama": "aşırı kıvamlı ve yapışkan lavların bacadan çıkıp uzağa akamayarak baca",
-    "yasakli_kelimeler": [
-      "kubbe",
-      "kıvamlı lav",
-      "baca",
-      "yığılma",
-      "tepe"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 107,
-    "kategori": "jeomorfoloji",
-    "kelime": "parazit koni",
-    "aciklama": "ana volkan konisinin yamaçlarındaki tali çatlaklardan püsküren lavların oluşturduğu küçük",
-    "yasakli_kelimeler": [
-      "tali baca",
-      "ikincil",
-      "yamaç",
-      "küçük koni",
-      "çatlak"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 108,
-    "kategori": "jeomorfoloji",
-    "kelime": "cüruf konisi",
-    "aciklama": "gaz patlamalarıyla fırlatılan gözenekli volkanik cüruf ve bombaların bacanın etrafında",
-    "yasakli_kelimeler": [
-      "gözenekli",
-      "volkan bombası",
-      "dik yamaç",
-      "patlama",
-      "birikim"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 109,
-    "kategori": "jeomorfoloji",
-    "kelime": "kalkan volkan",
-    "aciklama": "son derece akışkan lavların geniş bir alana yayılmasıyla oluşan, yamaç",
-    "yasakli_kelimeler": [
-      "yayvan",
-      "akışkan lav",
-      "hawaii",
-      "kalkan biçimi",
-      "az eğimli"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 110,
-    "kategori": "jeomorfoloji",
-    "kelime": "tabakalı volkan",
-    "aciklama": "ardışık patlamalarla lav ve kül katmanlarının üst üste birikmesiyle yükselen",
-    "yasakli_kelimeler": [
-      "stratovolkan",
-      "katman",
-      "simetrik dağ",
-      "kül ve lav",
-      "ağrı dağı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 111,
+    "id": 25,
     "kategori": "jeomorfoloji",
     "kelime": "gayzer",
     "aciklama": "volkanik bölgelerde yeraltındaki gazların basıncıyla belirli aralıklarla gökyüzüne fışkıran kaynar",
@@ -1554,7 +350,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 112,
+    "id": 26,
     "kategori": "jeomorfoloji",
     "kelime": "termal kaynak",
     "aciklama": "derin kırık hatları boyunca yeraltına sızan ve magmanın sıcaklığıyla ısınıp",
@@ -1568,21 +364,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 113,
-    "kategori": "jeomorfoloji",
-    "kelime": "traverten basamağı",
-    "aciklama": "kalsiyum bikarbonatlı termal suların yamaçtan akarken karbondioksitin uçması sonucu pamukkale'deki",
-    "yasakli_kelimeler": [
-      "pamukkale",
-      "kireç çökelmesi",
-      "beyaz teras",
-      "basamak",
-      "karbonat"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 114,
+    "id": 27,
     "kategori": "jeomorfoloji",
     "kelime": "karstik mağara",
     "aciklama": "yeraltı sularının kalker ve jips gibi eriyebilen kayaçları eriterek yeraltında",
@@ -1596,7 +378,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 115,
+    "id": 28,
     "kategori": "jeomorfoloji",
     "kelime": "damlataş sütun",
     "aciklama": "mağara tavanından uzayan sarkıt ile tabandan yükselen dikitin zamanla birbiriyle",
@@ -1610,7 +392,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 116,
+    "id": 29,
     "kategori": "jeomorfoloji",
     "kelime": "damlataş",
     "aciklama": "karstik mağaralarda kireçli su damlacıklarının buharlaşmasıyla oluşan tüm sarkıt, dikit",
@@ -1624,49 +406,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 117,
-    "kategori": "jeomorfoloji",
-    "kelime": "ponor",
-    "aciklama": "karstik bir polye veya ovadaki akarsuların birdenbire yer altına dalarak",
-    "yasakli_kelimeler": [
-      "yutak",
-      "su kaybolması",
-      "delik",
-      "polye",
-      "yeraltı akışı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 118,
-    "kategori": "jeomorfoloji",
-    "kelime": "karstik kuyu",
-    "aciklama": "kireçtaşı çatlaklarının suyun kimyasal eritmesiyle dikine derinleşmesi sonucu oluşan kuyu",
-    "yasakli_kelimeler": [
-      "dikey kuyu",
-      "uçurum",
-      "eritme",
-      "kalker çatlağı",
-      "derinlik"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 119,
-    "kategori": "jeomorfoloji",
-    "kelime": "kireçtaşı platosu",
-    "aciklama": "yüzeyinde akarsu vadisi bulunmayan, suların doğrudan düdenlerle yer altına indiği",
-    "yasakli_kelimeler": [
-      "kalker",
-      "susuz plato",
-      "düden",
-      "teke taşeli",
-      "çatlaklı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 120,
+    "id": 30,
     "kategori": "jeomorfoloji",
     "kelime": "kimyasal ayrışma",
     "aciklama": "yağış ve sıcaklığın yüksek olduğu nemli iklimlerde kayaçların su, asit",
@@ -1680,7 +420,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 121,
+    "id": 31,
     "kategori": "jeomorfoloji",
     "kelime": "fiziksel ufalanma",
     "aciklama": "çöllerde ve kurak dağlarda gece ile gündüz arasındaki aşırı sıcaklık",
@@ -1694,91 +434,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 122,
-    "kategori": "jeomorfoloji",
-    "kelime": "don çatlaması",
-    "aciklama": "kaya çatlaklarına sızan suyun donarak hacminin genişlemesi ve kayayı çekiç",
-    "yasakli_kelimeler": [
-      "buz",
-      "genişleme",
-      "hacim artışı",
-      "çatlak",
-      "donma çözülme"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 123,
-    "kategori": "jeomorfoloji",
-    "kelime": "kabuk soyulması",
-    "aciklama": "granit gibi kütlelerin üzerindeki basıncın kalkması ve sıcaklık farkıyla soğan",
-    "yasakli_kelimeler": [
-      "soğan kabuğu",
-      "granit",
-      "tabaka dökülmesi",
-      "pul pul",
-      "basınç kalkması"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 124,
-    "kategori": "jeomorfoloji",
-    "kelime": "biyolojik ayrışma",
-    "aciklama": "ağaç köklerinin kayaların çatlaklarına girip büyümesiyle veya likenlerin salgıladığı asitlerle",
-    "yasakli_kelimeler": [
-      "ağaç kökü",
-      "liken",
-      "canlı etkisi",
-      "kök basıncı",
-      "parçalama"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 125,
-    "kategori": "jeomorfoloji",
-    "kelime": "karstlaşma",
-    "aciklama": "kalker, jips ve kaya tuzu gibi suda kolay çözünen kayaçların",
-    "yasakli_kelimeler": [
-      "erime süreci",
-      "kalker",
-      "jips",
-      "lapya dolin",
-      "suda çözünme"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 126,
-    "kategori": "jeomorfoloji",
-    "kelime": "akarsu ağı",
-    "aciklama": "bir ana ırmak ile ona bağlanan irili ufaklı tüm yan",
-    "yasakli_kelimeler": [
-      "kol",
-      "drenaj",
-      "ana ırmak",
-      "dallanma",
-      "dökülme"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 127,
-    "kategori": "jeomorfoloji",
-    "kelime": "su bölümü",
-    "aciklama": "iki komşu akarsu havzasını birbirinden ayıran ve dağların en yüksek",
-    "yasakli_kelimeler": [
-      "havza sınırı",
-      "doruk hattı",
-      "ayıran çizgi",
-      "dağ sırtı",
-      "akış yönü"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 128,
+    "id": 32,
     "kategori": "jeomorfoloji",
     "kelime": "açık havza",
     "aciklama": "topladığı tüm suları göl veya bataklıklarda kurutmayıp nehirler aracılığıyla denize",
@@ -1792,7 +448,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 129,
+    "id": 33,
     "kategori": "jeomorfoloji",
     "kelime": "kapalı havza",
     "aciklama": "çevresi yüksek dağlarla çevrili olup sularını denize ulaştıramayan, suların gölde",
@@ -1806,7 +462,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 130,
+    "id": 34,
     "kategori": "jeomorfoloji",
     "kelime": "ırmak deltası",
     "aciklama": "akarsuyun denize döküldüğü yerde getirdiği alüvyonları yığmasıyla denizin içine doğru",
@@ -1820,21 +476,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 131,
-    "kategori": "jeomorfoloji",
-    "kelime": "kuşayağı delta",
-    "aciklama": "akarsuyun taşıdığı tortulların kollara ayrılarak denizin içine parmak veya kuş",
-    "yasakli_kelimeler": [
-      "mississippi",
-      "parmak şeklinde",
-      "kollara ayrılma",
-      "delta",
-      "tortul"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 132,
+    "id": 35,
     "kategori": "jeomorfoloji",
     "kelime": "alüvyon",
     "aciklama": "akarsuların aşındırarak taşıdığı ve eğimin azaldığı vadi tabanlarında biriktirdiği çok",
@@ -1848,7 +490,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 133,
+    "id": 36,
     "kategori": "jeomorfoloji",
     "kelime": "ırmak adası",
     "aciklama": "akarsu yatağının genişlediği ve eğimin düştüğü yerlerde taşınan kum ve",
@@ -1862,35 +504,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 134,
-    "kategori": "jeomorfoloji",
-    "kelime": "örgülü akarsu",
-    "aciklama": "akarsuyun yatağı içinde çok sayıda ırmak adası ve yan kanala",
-    "yasakli_kelimeler": [
-      "saç örgüsü",
-      "adacıklar",
-      "eğimsiz yatak",
-      "kanallar",
-      "akıntı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 135,
-    "kategori": "jeomorfoloji",
-    "kelime": "taban seviyesi",
-    "aciklama": "bir akarsuyun yatağını derine doğru aşındırabileceği en son alt sınır",
-    "yasakli_kelimeler": [
-      "deniz seviyesi",
-      "aşındırma sınırı",
-      "en alt nokta",
-      "derine aşındırma",
-      "akarsu"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 136,
+    "id": 37,
     "kategori": "jeomorfoloji",
     "kelime": "çağlayan",
     "aciklama": "akarsu yatağındaki sert kaya tabakasının ardından gelen yumuşak kayanın aşınmasıyla",
@@ -1904,7 +518,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 137,
+    "id": 38,
     "kategori": "jeomorfoloji",
     "kelime": "şelale",
     "aciklama": "bir ırmağın yatağında dik bir kaya eşiğinden yüksekten köpürerek aşağıya",
@@ -1918,133 +532,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 138,
-    "kategori": "jeomorfoloji",
-    "kelime": "regolit",
-    "aciklama": "ana kayanın mekanik ve kimyasal ayrışması sonucu oluşan ve ana",
-    "yasakli_kelimeler": [
-      "ana kaya örtüsü",
-      "ayrışma ürünü",
-      "gevşek tabaka",
-      "toprak öncüsü",
-      "döküntü"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 139,
-    "kategori": "jeomorfoloji",
-    "kelime": "talveg",
-    "aciklama": "bir akarsu vadisinin en derin noktalarını birbirine bağlayan ve suyun",
-    "yasakli_kelimeler": [
-      "en derin hat",
-      "hızlı akış",
-      "vadi tabanı",
-      "akış ekseni",
-      "sınır çizgisi"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 140,
-    "kategori": "jeomorfoloji",
-    "kelime": "asılı vadi",
-    "aciklama": "ana buzulun kazdığı derin tekne vadisine bağlanan yan kol vadisinin",
-    "yasakli_kelimeler": [
-      "buzul vadisi",
-      "yüksekte kalan",
-      "şelale yapan",
-      "yan kol",
-      "asılı duran"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 141,
-    "kategori": "jeomorfoloji",
-    "kelime": "buzul dili",
-    "aciklama": "yüksek dağlardaki sirkten çıkarak vadi boyunca yerçekimiyle aşağıya doğru yavaşça",
-    "yasakli_kelimeler": [
-      "dil biçimi",
-      "vadi boyu",
-      "akan buz",
-      "sirk",
-      "uzantı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 142,
-    "kategori": "jeomorfoloji",
-    "kelime": "takke buzulu",
-    "aciklama": "volkan dağlarının veya çok yüksek zirvelerin tepesini takke gibi tamamen",
-    "yasakli_kelimeler": [
-      "zirve örtüsü",
-      "ağrı dağı",
-      "volkan tepesi",
-      "kalıcı kar",
-      "şapka"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 143,
-    "kategori": "jeomorfoloji",
-    "kelime": "vadi buzulu",
-    "aciklama": "dağlardaki eski akarsu vadilerine yerleşerek aşındırma yapan ve u şeklinde",
-    "yasakli_kelimeler": [
-      "vadi",
-      "u şekli",
-      "dağ buzulu",
-      "tekne vadi",
-      "akıntı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 144,
-    "kategori": "jeomorfoloji",
-    "kelime": "örtü buzulu",
-    "aciklama": "antarktika ve grönland gibi kıtaların tamamını binlerce metre kalınlığında kaplayan",
-    "yasakli_kelimeler": [
-      "antarktika",
-      "grönland",
-      "kıta buzulu",
-      "devasa örtü",
-      "kilometrelerce kalın"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 145,
-    "kategori": "jeomorfoloji",
-    "kelime": "buzul yarığı",
-    "aciklama": "akmakta olan buzul kütlesinin eğim kırılmalarında gerilmeye dayanamayarak yüzeyinde açılan",
-    "yasakli_kelimeler": [
-      "derin çatlak",
-      "tehlikeli uçurum",
-      "gerilme",
-      "dipsiz yarık",
-      "buz"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 146,
-    "kategori": "jeomorfoloji",
-    "kelime": "sirk gölü",
-    "aciklama": "dağ doruklarında buzulun erimesiyle geride kalan çanak şeklindeki oyukta biriken",
-    "yasakli_kelimeler": [
-      "buzul çanağı",
-      "dağ gölü",
-      "erime suyu",
-      "yüksek rakım",
-      "tarn"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 147,
+    "id": 39,
     "kategori": "jeomorfoloji",
     "kelime": "buzul gölü",
     "aciklama": "moren setlerinin veya eriyen dev buzul kütlelerinin çukurlukları doldurmasıyla oluşan",
@@ -2058,77 +546,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 148,
-    "kategori": "jeomorfoloji",
-    "kelime": "sandur ovası",
-    "aciklama": "eriyen buzul sularının morenlerin önüne kum ve çakılları geniş bir",
-    "yasakli_kelimeler": [
-      "buzul önü",
-      "kum çakıl düzlüğü",
-      "erime suyu",
-      "geniş ova",
-      "izlanda"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 149,
-    "kategori": "jeomorfoloji",
-    "kelime": "buzul teknesi",
-    "aciklama": "akarsuyun v şeklindeki vadisine giren buzulun yatağın hem tabanını hem",
-    "yasakli_kelimeler": [
-      "u profili",
-      "tabanlı derin",
-      "aşındırma",
-      "tekne biçimi",
-      "vadi"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 150,
-    "kategori": "jeomorfoloji",
-    "kelime": "fiyort kıyısı",
-    "aciklama": "u şeklindeki derin buzul vadilerinin buzul çağı sonunda deniz sularının",
-    "yasakli_kelimeler": [
-      "norveç",
-      "buzul vadisi batması",
-      "dik yamaç",
-      "deniz girişi",
-      "kıyı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 151,
-    "kategori": "jeomorfoloji",
-    "kelime": "boyuna kıyı",
-    "aciklama": "dağ sıralarının kıyı çizgisine paralel uzandığı, girintisi çıkıntısı az olan",
-    "yasakli_kelimeler": [
-      "paralel uzanış",
-      "karadeniz",
-      "akdeniz",
-      "az girintili",
-      "kıyı tipi"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 152,
-    "kategori": "jeomorfoloji",
-    "kelime": "enine kıyı",
-    "aciklama": "dağların kıyı çizgisine dik uzandığı, çok sayıda koy, körfez ve",
-    "yasakli_kelimeler": [
-      "dik uzanış",
-      "ege denizi",
-      "girintili çıkıntılı",
-      "koy körfez",
-      "kıyı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 153,
+    "id": 40,
     "kategori": "jeomorfoloji",
     "kelime": "mercan resifi",
     "aciklama": "sıcak tropik sığ denizlerde yaşayan mercan iskeletlerinin milyonlarca yılda üst",
@@ -2142,63 +560,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 154,
-    "kategori": "jeomorfoloji",
-    "kelime": "atol",
-    "aciklama": "batmış bir volkanik adanın etrafında halka şeklinde gelişen ve ortasında",
-    "yasakli_kelimeler": [
-      "halka ada",
-      "mercan adası",
-      "lagün ortası",
-      "batık volkan",
-      "pasifik"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 155,
-    "kategori": "jeomorfoloji",
-    "kelime": "kıyı oku",
-    "aciklama": "dalga ve kıyı akıntılarının taşıdığı kumların bir burundan açık denize",
-    "yasakli_kelimeler": [
-      "kum birikintisi",
-      "kanca",
-      "açık deniz",
-      "akıntı",
-      "kum dili"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 156,
-    "kategori": "jeomorfoloji",
-    "kelime": "kıyı dili",
-    "aciklama": "kıyı okunun zamanla büyüyerek bir koyun veya körfezin ağzına doğru",
-    "yasakli_kelimeler": [
-      "uzamış ok",
-      "körfez ağzı",
-      "kum seddi",
-      "kıyı akıntısı",
-      "birikim"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 157,
-    "kategori": "jeomorfoloji",
-    "kelime": "abrazyon platformu",
-    "aciklama": "falezlerin dalgalarla altının oyulup çökmesi sonucu su seviyesinde oluşan düz",
-    "yasakli_kelimeler": [
-      "dalga düzlüğü",
-      "falez önü",
-      "kayalık düzlük",
-      "erozyon tabanı",
-      "deniz seviyesi"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 158,
+    "id": 41,
     "kategori": "jeomorfoloji",
     "kelime": "deniz mağarası",
     "aciklama": "dik kıyılardaki zayıf kayaç çatlaklarının dalga darbeleri ve hidrolik basınçla",
@@ -2212,7 +574,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 159,
+    "id": 42,
     "kategori": "jeomorfoloji",
     "kelime": "doğal köprü",
     "aciklama": "denize doğru uzanan bir burundaki deniz mağarasının iki taraftan delinip",
@@ -2226,7 +588,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 160,
+    "id": 43,
     "kategori": "jeomorfoloji",
     "kelime": "kıyı kumsalı",
     "aciklama": "dalga ve akıntıların taşıdığı ince kuvars ve kabuk kırıntılarının sığ",
@@ -2240,7 +602,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 161,
+    "id": 44,
     "kategori": "jeomorfoloji",
     "kelime": "çakıl plajı",
     "aciklama": "dalga enerjisinin yüksek olduğu kıyılarda ince kumların sürüklenip geride yuvarlak",
@@ -2254,21 +616,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 162,
-    "kategori": "jeomorfoloji",
-    "kelime": "yalıyar",
-    "aciklama": "deniz ve göl dalgalarının kıyıdaki yüksek karayı alttan oyup üst",
-    "yasakli_kelimeler": [
-      "falez",
-      "dik kıyı",
-      "uçurum",
-      "dalga oyulması",
-      "çökme"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 163,
+    "id": 45,
     "kategori": "jeomorfoloji",
     "kelime": "kum tepesi",
     "aciklama": "rüzgarın çöllerde veya sahil boylarında taşıdığı ince kum tanelerini engellerin",
@@ -2282,49 +630,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 164,
-    "kategori": "jeomorfoloji",
-    "kelime": "boyuna kumul",
-    "aciklama": "hakim rüzgar yönüne paralel uzanan ve kilometrelerce uzunlukta dar şeritler",
-    "yasakli_kelimeler": [
-      "rüzgara paralel",
-      "kum sırtı",
-      "uzun kumul",
-      "seif",
-      "çöl çizgisi"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 165,
-    "kategori": "jeomorfoloji",
-    "kelime": "enine kumul",
-    "aciklama": "kum miktarının çok ve rüzgarın tek yönden sabit estiği alanlarda",
-    "yasakli_kelimeler": [
-      "rüzgara dik",
-      "dalga dalga",
-      "bol kum",
-      "enlemesine",
-      "kumul"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 166,
-    "kategori": "jeomorfoloji",
-    "kelime": "parabolik kumul",
-    "aciklama": "kolları rüzgara dönük u harfi biçiminde olan ve genellikle bitki",
-    "yasakli_kelimeler": [
-      "u harfi",
-      "bitki örtüsü",
-      "sahil kumulu",
-      "kollar rüzgara",
-      "hilal tersi"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 167,
+    "id": 46,
     "kategori": "jeomorfoloji",
     "kelime": "rüzgar erozyonu",
     "aciklama": "bitki örtüsünden yoksun kurak arazilerde toprağın ve ince kumların şiddetli",
@@ -2338,7 +644,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 168,
+    "id": 47,
     "kategori": "jeomorfoloji",
     "kelime": "su erozyonu",
     "aciklama": "sağanak yağış ve yüzey akışının tarlalardaki verimli üst toprak tabakasını",
@@ -2352,21 +658,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 169,
-    "kategori": "jeomorfoloji",
-    "kelime": "kütle hareketi",
-    "aciklama": "yerçekiminin doğrudan etkisiyle yamaçlardaki kaya, toprak ve moloz kütlelerinin aşağıya",
-    "yasakli_kelimeler": [
-      "yerçekimi",
-      "yamaç göçmesi",
-      "toplu hareket",
-      "heyelan kaya",
-      "aşağı kayma"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 170,
+    "id": 48,
     "kategori": "jeomorfoloji",
     "kelime": "heyelan",
     "aciklama": "yoğun yağışla suya doyan killi toprak ve kaya tabakasının kayganlaşan",
@@ -2380,7 +672,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 171,
+    "id": 49,
     "kategori": "jeomorfoloji",
     "kelime": "kaya düşmesi",
     "aciklama": "dik yamaç ve uçurumlarda çatlakları donmayla açılan bağımsız kaya bloklarının",
@@ -2394,7 +686,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 172,
+    "id": 50,
     "kategori": "jeomorfoloji",
     "kelime": "toprak kayması",
     "aciklama": "ana kaya üzerindeki yüzeysel toprak örtüsünün aşırı yağmur suyuyla ağırlaşarak",
@@ -2408,7 +700,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 173,
+    "id": 51,
     "kategori": "jeomorfoloji",
     "kelime": "çamur akıntısı",
     "aciklama": "ani sağanak yağışların volkanik kül veya killi gevşek toprağı sıvılaştırarak",
@@ -2422,231 +714,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 174,
-    "kategori": "jeomorfoloji",
-    "kelime": "soliflüksiyon",
-    "aciklama": "kutup altı bölgelerde yazın donmuş tabakanın üzerindeki toprağın çözülüp çamur",
-    "yasakli_kelimeler": [
-      "donmuş toprak",
-      "permafrost",
-      "yaz çözülmesi",
-      "çamur akışı",
-      "tundra"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 175,
-    "kategori": "jeomorfoloji",
-    "kelime": "sürünme",
-    "aciklama": "yamaçtaki toprak tabakasının gözle görülemeyecek kadar yavaş biçimde ağaç ve",
-    "yasakli_kelimeler": [
-      "çok yavaş kayma",
-      "eğilen ağaçlar",
-      "toprak hareketi",
-      "milimetrik",
-      "yamaç"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 176,
-    "kategori": "jeomorfoloji",
-    "kelime": "moloz akıntısı",
-    "aciklama": "şiddetli fırtınayla suya doyan iri kaya blokları, ağaç kütükleri ve",
-    "yasakli_kelimeler": [
-      "iri kaya",
-      "çamurlu moloz",
-      "sel felaketi",
-      "vadi çıkışı",
-      "enkaz akıntısı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 177,
-    "kategori": "jeomorfoloji",
-    "kelime": "talus",
-    "aciklama": "dik falez ve yamaçların dibinde don çatlamasıyla kopan köşeli taş",
-    "yasakli_kelimeler": [
-      "döküntü eteği",
-      "köşeli taşlar",
-      "yamaç dibi",
-      "kaya kırıntısı",
-      "birikinti"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 178,
-    "kategori": "jeomorfoloji",
-    "kelime": "moloz konisi",
-    "aciklama": "dik bir oluktan yuvarlanan taş ve molozların vadi tabanına ulaştığı",
-    "yasakli_kelimeler": [
-      "yarım koni",
-      "oluk çıkışı",
-      "taş yığını",
-      "döküntü",
-      "yamaç altı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 179,
-    "kategori": "jeomorfoloji",
-    "kelime": "çöküntü ovası",
-    "aciklama": "iki paralel fay hattı arasında kalan blokun tektonik olarak aşağı",
-    "yasakli_kelimeler": [
-      "graben",
-      "fay hatları",
-      "aşağı çökme",
-      "tektonik ova",
-      "gediz ovası"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 180,
-    "kategori": "jeomorfoloji",
-    "kelime": "tektonik plato",
-    "aciklama": "yer kabuğu hareketleriyle kırılmadan geniş bir kütle halinde kilometrelerce yukarı",
-    "yasakli_kelimeler": [
-      "kütle yükselmesi",
-      "faylanma",
-      "yüksek düzlük",
-      "epirojenez",
-      "yayla"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 181,
-    "kategori": "jeomorfoloji",
-    "kelime": "aşınım platosu",
-    "aciklama": "daha önce dağlık olan bir alanın milyonlarca yılda düzleşmesi ve",
-    "yasakli_kelimeler": [
-      "düzleşmiş",
-      "yarılmış vadi",
-      "peneplen yükselmesi",
-      "aşınmış düzlük",
-      "çatalca"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 182,
-    "kategori": "jeomorfoloji",
-    "kelime": "karstik plato",
-    "aciklama": "kireçtaşı kütlelerinin yüzey sularını yer altına çekmesiyle üzerinde akarsu vadisi",
-    "yasakli_kelimeler": [
-      "taşeli",
-      "teke",
-      "kuru yayla",
-      "kalker platosu",
-      "delikli yüzey"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 183,
-    "kategori": "jeomorfoloji",
-    "kelime": "epirojenez",
-    "aciklama": "kıta kabuğunun tabakaların duruşu bozulmaksızın geniş alanlar boyunca toptan alçalması",
-    "yasakli_kelimeler": [
-      "kıta oluşumu",
-      "toptan yükselme",
-      "alçalma",
-      "jeosenklinal",
-      "izostatik denge"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 184,
-    "kategori": "jeomorfoloji",
-    "kelime": "orojenez",
-    "aciklama": "levhaların birbirine çarpışmasıyla tortul tabakaların kıvrılıp kırılarak sıra dağlara dönüşmesi",
-    "yasakli_kelimeler": [
-      "dağ oluşumu",
-      "kıvrılma",
-      "kırılma",
-      "levha çarpışması",
-      "alpler"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 185,
-    "kategori": "jeomorfoloji",
-    "kelime": "izostasi",
-    "aciklama": "yoğunluğu az olan yer kabuğunun alttaki akışkan manto üzerinde yüzerken",
-    "yasakli_kelimeler": [
-      "yüzen kabuk",
-      "manto dengesi",
-      "yoğunluk",
-      "batma çıkma",
-      "yer kabuğu"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 186,
-    "kategori": "jeomorfoloji",
-    "kelime": "izostatik denge",
-    "aciklama": "buzul erimesi veya dağların aşınmasıyla hafifleyen kabuğun yükselmesi, tortul biriken",
-    "yasakli_kelimeler": [
-      "hafifleme",
-      "ağırlaşma",
-      "buzul erimesi",
-      "denge bozulması",
-      "kabuk hareketi"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 187,
-    "kategori": "jeomorfoloji",
-    "kelime": "regresi",
-    "aciklama": "karaların yükselmesi veya buzullaşma sebebiyle deniz sularının çekilerek eski deniz",
-    "yasakli_kelimeler": [
-      "deniz çekilmesi",
-      "kara yükselmesi",
-      "kıyı çizgisi",
-      "eski deniz tabanı",
-      "epirojenez"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 188,
-    "kategori": "jeomorfoloji",
-    "kelime": "transgresi",
-    "aciklama": "karaların çökmesi veya buzulların erimesiyle deniz seviyesinin yükselip kıyı ovalarını",
-    "yasakli_kelimeler": [
-      "deniz ilerlemesi",
-      "su basması",
-      "buzul erimesi",
-      "çökme",
-      "seviye yükselmesi"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 189,
-    "kategori": "jeomorfoloji",
-    "kelime": "kıyı taraçası",
-    "aciklama": "deniz seviyesinin çekilmesiyle eski dalga aşınım düzlüklerinin şimdiki deniz seviyesinden",
-    "yasakli_kelimeler": [
-      "basamak",
-      "eski falez",
-      "deniz çekilmesi",
-      "kıyı basamağı",
-      "aşınım düzlüğü"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 190,
+    "id": 52,
     "kategori": "jeomorfoloji",
     "kelime": "akarsu yatağı",
     "aciklama": "bir nehrin normal akışında sularını içinde taşıdığı ve tabanını sürekli",
@@ -2660,7 +728,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 191,
+    "id": 53,
     "kategori": "jeomorfoloji",
     "kelime": "dağ sırtı",
     "aciklama": "iki dağ yamacının doruk çizgisi boyunca birleştiği, suların iki zıt",
@@ -2674,91 +742,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 192,
-    "kategori": "jeomorfoloji",
-    "kelime": "kanyon boğazı",
-    "aciklama": "sert kalker platolarını yaran derin ve basamaklı kanyonların en dar",
-    "yasakli_kelimeler": [
-      "dar geçit",
-      "sarp yamaç",
-      "kanyon",
-      "derin boğaz",
-      "kalker yarığı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 193,
-    "kategori": "jeomorfoloji",
-    "kelime": "sürempoze vadi",
-    "aciklama": "üstteki yumuşak örtü tabakasında kurulan akarsuyun yatağını derine kazarak alttaki",
-    "yasakli_kelimeler": [
-      "örtü tabakası",
-      "gömülme",
-      "alakasız yapı",
-      "derine kazma",
-      "vadi"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 194,
-    "kategori": "jeomorfoloji",
-    "kelime": "antesedant vadi",
-    "aciklama": "bir dağ sırası yükselirken akarsuyun yükselme hızına eşit hızda yatağını",
-    "yasakli_kelimeler": [
-      "dağ yükselirken",
-      "aynı hızda kazma",
-      "yarma vadi",
-      "boğaz",
-      "akarsu"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 195,
-    "kategori": "jeomorfoloji",
-    "kelime": "monoklinal rölyef",
-    "aciklama": "tortul tabakaların tek bir yöne doğru eğimli olduğu arazilerde kuesta",
-    "yasakli_kelimeler": [
-      "tek yönlü eğim",
-      "kuesta",
-      "tabaka duruşu",
-      "eğimli arazi",
-      "rölyef"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 196,
-    "kategori": "jeomorfoloji",
-    "kelime": "tabaka basamağı",
-    "aciklama": "farklı sertlikteki yatay veya eğimli tabakaların aşınma farkıyla arazide meydana",
-    "yasakli_kelimeler": [
-      "aşınma farkı",
-      "yapısal basamak",
-      "sert tabaka",
-      "korniş",
-      "yatay duruş"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 197,
-    "kategori": "jeomorfoloji",
-    "kelime": "jeomorfolojik harita",
-    "aciklama": "yeryüzündeki tüm dağ, vadi, ova ve kıyı şekillerini kökenleri, yaşları",
-    "yasakli_kelimeler": [
-      "şekil haritası",
-      "yer şekli kökeni",
-      "jeomorfoloji",
-      "süreçler",
-      "özel lejant"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 198,
+    "id": 54,
     "kategori": "jeomorfoloji",
     "kelime": "yer şekli",
     "aciklama": "iç ve dış kuvvetlerin etkisiyle yerkabuğunun yüzeyinde oluşan dağ, plato,",
@@ -2772,7 +756,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 199,
+    "id": 55,
     "kategori": "jeomorfoloji",
     "kelime": "topoğrafya",
     "aciklama": "bir arazinin yüzey engebelerini, yüksekliklerini ve çukurluklarını harita ve arazi",
@@ -2786,20 +770,6 @@
     "zorluk": "kolay"
   },
   {
-    "id": 200,
-    "kategori": "jeomorfoloji",
-    "kelime": "rölyef",
-    "aciklama": "yeryüzünün en yüksek tepeleri ile en derin vadi tabanları arasındaki",
-    "yasakli_kelimeler": [
-      "yükselti farkı",
-      "kabartı",
-      "engebelilik",
-      "tepe vadi",
-      "yüzey şekli"
-    ],
-    "zorluk": "orta"
-  },
-  {
     "kategori": "jeomorfoloji",
     "kelime": "dağa tırmanmak",
     "aciklama": "yüksek dağlık yeryüzü şeklinin tepesine doğru çıkmak.",
@@ -2811,21 +781,7 @@
       "kaya"
     ],
     "zorluk": "kolay",
-    "id": 201
-  },
-  {
-    "kategori": "jeomorfoloji",
-    "kelime": "vadi boyunca yürümek",
-    "aciklama": "akarsuyun aşındırarak açtığı çukur hat boyunca ilerlemek.",
-    "yasakli_kelimeler": [
-      "dere",
-      "iki dağ arası",
-      "kanyon",
-      "su",
-      "yol"
-    ],
-    "zorluk": "kolay",
-    "id": 202
+    "id": 56
   },
   {
     "kategori": "jeomorfoloji",
@@ -2839,7 +795,7 @@
       "akıntı"
     ],
     "zorluk": "kolay",
-    "id": 203
+    "id": 57
   },
   {
     "kategori": "jeomorfoloji",
@@ -2853,7 +809,7 @@
       "zirve"
     ],
     "zorluk": "kolay",
-    "id": 204
+    "id": 58
   },
   {
     "kategori": "jeomorfoloji",
@@ -2867,7 +823,7 @@
       "kıyı"
     ],
     "zorluk": "kolay",
-    "id": 205
+    "id": 59
   },
   {
     "kategori": "jeomorfoloji",
@@ -2881,63 +837,7 @@
       "akıntı"
     ],
     "zorluk": "kolay",
-    "id": 206
-  },
-  {
-    "kategori": "jeomorfoloji",
-    "kelime": "falezden denize bakmak",
-    "aciklama": "kıyıdaki dik kaya uçurumun kenarından denizi izlemek.",
-    "yasakli_kelimeler": [
-      "yalıyar",
-      "dik uçurum",
-      "kıyı",
-      "dalga çarpması",
-      "yüksek"
-    ],
-    "zorluk": "kolay",
-    "id": 207
-  },
-  {
-    "kategori": "jeomorfoloji",
-    "kelime": "ova boyunca sürmek",
-    "aciklama": "geniş ve düz alçak arazide yolculuk etmek.",
-    "yasakli_kelimeler": [
-      "düzlük",
-      "tarla",
-      "yol",
-      "geniş",
-      "araba"
-    ],
-    "zorluk": "kolay",
-    "id": 208
-  },
-  {
-    "kategori": "jeomorfoloji",
-    "kelime": "göl kenarında durmak",
-    "aciklama": "karayla çevrili tatlı veya tuzlu su kütlesinin kıyısında bulunmak.",
-    "yasakli_kelimeler": [
-      "durgun su",
-      "kıyı",
-      "manzara",
-      "su birikintisi",
-      "dinlenmek"
-    ],
-    "zorluk": "kolay",
-    "id": 209
-  },
-  {
-    "kategori": "jeomorfoloji",
-    "kelime": "ada etrafında dolaşmak",
-    "aciklama": "her yanı sularla çevrili kara parçasının çevresini gezmek.",
-    "yasakli_kelimeler": [
-      "dört tarafı deniz",
-      "tekne",
-      "tur",
-      "kara parçası",
-      "kıyı"
-    ],
-    "zorluk": "kolay",
-    "id": 210
+    "id": 60
   },
   {
     "kategori": "jeomorfoloji",
@@ -2951,482 +851,6 @@
       "çanakkale"
     ],
     "zorluk": "kolay",
-    "id": 211
-  },
-  {
-    "kategori": "jeomorfoloji",
-    "kelime": "menderes çizmek",
-    "aciklama": "akarsuyun eğimi azalan tabanda 's' şeklinde kıvrımlar yaparak akması.",
-    "yasakli_kelimeler": [
-      "büküm",
-      "s kıvrımı",
-      "eğimsiz vadi",
-      "akarsu",
-      "salınım"
-    ],
-    "zorluk": "orta",
-    "id": 212
-  },
-  {
-    "kategori": "jeomorfoloji",
-    "kelime": "delta oluşturmak",
-    "aciklama": "akarsuyun taşıdığı killeri deniz kıyısında biriktirerek üçgen ova kurması.",
-    "yasakli_kelimeler": [
-      "alüvyon",
-      "denize döküldüğü yer",
-      "üçgen ova",
-      "akarsu ağzı",
-      "çökelti"
-    ],
-    "zorluk": "orta",
-    "id": 213
-  },
-  {
-    "kategori": "jeomorfoloji",
-    "kelime": "delta kıyısında yürümek",
-    "aciklama": "akarsuyun sert kayaç bloklarını derine doğru yararak dik duvarlı vadi",
-    "yasakli_kelimeler": [
-      "derin vadi",
-      "dik yamaçlar",
-      "akarsu aşındırması",
-      "boğaz",
-      "kaya"
-    ],
-    "zorluk": "orta",
-    "id": 214
-  },
-  {
-    "kategori": "jeomorfoloji",
-    "kelime": "peribacası aşındırmak",
-    "aciklama": "tüflü arazinin sel suları ve rüzgarla aşınıp konik sütunlara dönüşmesi.",
-    "yasakli_kelimeler": [
-      "kapadokya",
-      "tüf",
-      "bazalt şapka",
-      "yağmur rüzgar",
-      "erozyon"
-    ],
-    "zorluk": "orta",
-    "id": 215
-  },
-  {
-    "kategori": "jeomorfoloji",
-    "kelime": "karstik erime gerçekleştirmek",
-    "aciklama": "kalker ve jips gibi kayaçların asidik sularla kimyasal olarak çözünmesi.",
-    "yasakli_kelimeler": [
-      "kireçtaşı",
-      "lapya",
-      "dolin",
-      "karbondioksitli su",
-      "çözünme"
-    ],
-    "zorluk": "orta",
-    "id": 216
-  },
-  {
-    "kategori": "jeomorfoloji",
-    "kelime": "kumul hareketi izlemek",
-    "aciklama": "rüzgarın hakim yönüne göre kum tepeciklerinin yer değiştirmesini takip etmek.",
-    "yasakli_kelimeler": [
-      "barkan",
-      "rüzgar yönü",
-      "kum tepesi göçü",
-      "çöl",
-      "ötelenme"
-    ],
-    "zorluk": "orta",
-    "id": 217
-  },
-  {
-    "kategori": "jeomorfoloji",
-    "kelime": "buzul vadisi oymak",
-    "aciklama": "aşağı kayan dev buzul kütlesinin vadi tabanını 'u' şeklinde genişletip",
-    "yasakli_kelimeler": [
-      "u profilli vadi",
-      "glasyal",
-      "buzul dili",
-      "aşındırma",
-      "yüksek dağ"
-    ],
-    "zorluk": "orta",
-    "id": 218
-  },
-  {
-    "kategori": "jeomorfoloji",
-    "kelime": "moren yığmak",
-    "aciklama": "buzulun sürüklediği köşeli taş ve kayaları eridiği yerde tepe şeklinde",
-    "yasakli_kelimeler": [
-      "buzul taşı",
-      "moren seti",
-      "buzul biriktirmesi",
-      "kaya döküntüsü",
-      "çökelti"
-    ],
-    "zorluk": "orta",
-    "id": 219
-  },
-  {
-    "kategori": "jeomorfoloji",
-    "kelime": "kıyı kordonunu haritalamak",
-    "aciklama": "koyun önünün dalga birikintisiyle kapanarak denizden ayrılmış göl oluşturması.",
-    "yasakli_kelimeler": [
-      "deniz kulağı",
-      "kıyı kordonu",
-      "koy ağzı",
-      "gölleşme",
-      "dalga"
-    ],
-    "zorluk": "orta",
-    "id": 220
-  },
-  {
-    "kategori": "jeomorfoloji",
-    "kelime": "rüzgâr kumulu izlemek",
-    "aciklama": "yeraltı mağarasının tavanının çökmesiyle yeryüzünde dev silindirik çukur oluşması.",
-    "yasakli_kelimeler": [
-      "derin kuyu",
-      "yeraltı mağara tavanı",
-      "konya ovası",
-      "aniden çökme",
-      "karstik"
-    ],
-    "zorluk": "orta",
-    "id": 221
-  },
-  {
-    "kategori": "jeomorfoloji",
-    "kelime": "plato aşındırmak",
-    "aciklama": "yüksek düzlüklerin akarsular tarafından derin vadilerle parçalanması.",
-    "yasakli_kelimeler": [
-      "yayla",
-      "akarsularla yarılmış",
-      "yüksek düzlük",
-      "derin vadiler",
-      "aşınım"
-    ],
-    "zorluk": "orta",
-    "id": 222
-  },
-  {
-    "kategori": "jeomorfoloji",
-    "kelime": "alüvyon yelpazesi kurmak",
-    "aciklama": "dağdan düzlüğe çıkan derenin hızının kesilmesiyle yelpaze şeklinde kum biriktirmesi.",
-    "yasakli_kelimeler": [
-      "dağ eteği",
-      "eğim kırılması",
-      "akarsu birikintisi",
-      "koni",
-      "tortu"
-    ],
-    "zorluk": "orta",
-    "id": 223
-  },
-  {
-    "kategori": "jeomorfoloji",
-    "kelime": "kıyı aşınmasını ölçmek",
-    "aciklama": "dalgaların kıyı uçurumlarını geriye doğru aşındırma hızını saptamak.",
-    "yasakli_kelimeler": [
-      "falez gerilemesi",
-      "dalga darbesi",
-      "abrasyon platformu",
-      "metre",
-      "kayıp"
-    ],
-    "zorluk": "orta",
-    "id": 224
-  },
-  {
-    "kategori": "jeomorfoloji",
-    "kelime": "dev kazanı oymak",
-    "aciklama": "şelalenin düştüğü yerde girdap yapan taşların tabanda yuvarlak derin çukur",
-    "yasakli_kelimeler": [
-      "şelale altı",
-      "girdap",
-      "taş dönmesi",
-      "silindirik çukur",
-      "aşındırma"
-    ],
-    "zorluk": "orta",
-    "id": 225
-  },
-  {
-    "kategori": "jeomorfoloji",
-    "kelime": "kireçtaşı lapyası incelemek",
-    "aciklama": "buzulun zirvede açtığı çanağın buz eriyince berrak göle dönüşmesi.",
-    "yasakli_kelimeler": [
-      "buzul yalağı",
-      "dağ zirvesi",
-      "sirk gölü",
-      "erime suyu",
-      "çanak"
-    ],
-    "zorluk": "orta",
-    "id": 226
-  },
-  {
-    "kategori": "jeomorfoloji",
-    "kelime": "boğaz vadi yarmak",
-    "aciklama": "akarsuyun enine uzanan dağ sırasını dikine yararak koridor açması.",
-    "yasakli_kelimeler": [
-      "kluz",
-      "dağ sırasını enine kesme",
-      "akarsu gücü",
-      "dik geçit",
-      "epijenetik"
-    ],
-    "zorluk": "orta",
-    "id": 227
-  },
-  {
-    "kategori": "jeomorfoloji",
-    "kelime": "kıyı kordonu uzatmak",
-    "aciklama": "kıyı akıntılarının taşıdığı kumların açık denize doğru uzayıp set yapması.",
-    "yasakli_kelimeler": [
-      "lido",
-      "kum dili",
-      "kıyı boyu akıntı",
-      "dalga taşıması",
-      "koy"
-    ],
-    "zorluk": "orta",
-    "id": 228
-  },
-  {
-    "kategori": "jeomorfoloji",
-    "kelime": "tor topoğrafyası sergilemek",
-    "aciklama": "granit kütlelerin çatlaklar boyunca ayrışıp üst üste yuvarlak bloklar halinde",
-    "yasakli_kelimeler": [
-      "granit blokları",
-      "fiziksel kimyasal ayrışma",
-      "yuvarlak kayalar",
-      "üst üste",
-      "çatlak sistemi"
-    ],
-    "zorluk": "orta",
-    "id": 229
-  },
-  {
-    "kategori": "jeomorfoloji",
-    "kelime": "aşınım yüzeyi oluşturmak",
-    "aciklama": "milyonlarca yıllık erozyonla tüm engebelerin silinip hafif dalgalı düzlüğe varması.",
-    "yasakli_kelimeler": [
-      "peneplen",
-      "yontukdüz",
-      "deniz seviyesine yakın",
-      "son evre",
-      "düzleştirme"
-    ],
-    "zorluk": "orta",
-    "id": 230
-  },
-  {
-    "kategori": "jeomorfoloji",
-    "kelime": "polye tabanında ekmek",
-    "aciklama": "birbirine bağlanan karstik erime çukurlarının oluşturduğu dev ovada ekim yapmak.",
-    "yasakli_kelimeler": [
-      "gölova",
-      "en büyük karstik çukur",
-      "kırmızı toprak",
-      "terra rossa",
-      "ova"
-    ],
-    "zorluk": "orta",
-    "id": 231
-  },
-  {
-    "kategori": "jeomorfoloji",
-    "kelime": "peneplenleşme sürecini incelemek",
-    "aciklama": "topografyanın jeolojik döngüde taban seviyesine kadar aşınıp yontukdüzleşmesini izlemek.",
-    "yasakli_kelimeler": [
-      "davis coğrafi döngüsü",
-      "gençlik olgunluk yaşlılık",
-      "yontukdüz",
-      "erozyon taban seviyesi",
-      "relyef"
-    ],
-    "zorluk": "zor",
-    "id": 232
-  },
-  {
-    "kategori": "jeomorfoloji",
-    "kelime": "kuesta yapısı incelemek",
-    "aciklama": "yükselen dağ kütlesini akarsuyun yükselme hızına eşit hızda derine kazarak",
-    "yasakli_kelimeler": [
-      "gömük akarsu",
-      "tektonik yükselme",
-      "akarsuyun önceden varlığı",
-      "yarmavadi",
-      "hız yarışı"
-    ],
-    "zorluk": "zor",
-    "id": 233
-  },
-  {
-    "kategori": "jeomorfoloji",
-    "kelime": "epijenik vadi bulmak",
-    "aciklama": "yumuşak örtüde akan nehrin derine indikçe altındaki sert kayaca gömülüp",
-    "yasakli_kelimeler": [
-      "farklı tabaka örtüsü",
-      "gömülme",
-      "orijinal yataktan sapma",
-      "sert kayaya saplanma",
-      "aşındırma"
-    ],
-    "zorluk": "zor",
-    "id": 234
-  },
-  {
-    "kategori": "jeomorfoloji",
-    "kelime": "menderes salınımı modellemek",
-    "aciklama": "daha güçlü derenin geriye aşındırmayla komşu derenin sularını kendi yatağına",
-    "yasakli_kelimeler": [
-      "river capture",
-      "geriye aşındırma",
-      "akarsu korsanlığı",
-      "su bölümü çizgisi değişimi",
-      "dirsek"
-    ],
-    "zorluk": "zor",
-    "id": 235
-  },
-  {
-    "kategori": "jeomorfoloji",
-    "kelime": "toprak dengesini tartmak",
-    "aciklama": "bitki örtülü kararlı dönem ile kurak erozyonlu dönem arasındaki yeryüzü",
-    "yasakli_kelimeler": [
-      "erhart kuramı",
-      "orman örtüsü ve kimyasal erime",
-      "toprak örtüsü kaybı",
-      "iklimsel jeomorfoloji",
-      "mekanik erozyon"
-    ],
-    "zorluk": "zor",
-    "id": 236
-  },
-  {
-    "kategori": "jeomorfoloji",
-    "kelime": "asimetrik vadi açıklamak",
-    "aciklama": "vadinin iki yamacının bakı, tektonizma veya rüzgar sebebiyle farklı eğimlere",
-    "yasakli_kelimeler": [
-      "coriolis etkisi",
-      "tektonik eğimlenme",
-      "bakı etkisi",
-      "farklı yamaç eğimleri",
-      "yamaç süreçleri"
-    ],
-    "zorluk": "zor",
-    "id": 237
-  },
-  {
-    "kategori": "jeomorfoloji",
-    "kelime": "pediplen düzlüğü haritalamak",
-    "aciklama": "yamaçların eğimini kaybetmeden paralel gerilemesiyle oluşan geniş düzlükleri haritalamak.",
-    "yasakli_kelimeler": [
-      "king modeli",
-      "yamaç gerilemesi",
-      "pediment birleşimi",
-      "kurak yarı kurak",
-      "inselberg"
-    ],
-    "zorluk": "zor",
-    "id": 238
-  },
-  {
-    "kategori": "jeomorfoloji",
-    "kelime": "inselberg kalıntısını belirlemek",
-    "aciklama": "düzleşmiş peneplen veya pediplen ortasında tek başına yükselen dirençli tepeyi",
-    "yasakli_kelimeler": [
-      "ada tepe",
-      "monadnock",
-      "aşınmadan arta kalan",
-      "sert kaya kütlesi",
-      "düzlük ortası"
-    ],
-    "zorluk": "zor",
-    "id": 239
-  },
-  {
-    "kategori": "jeomorfoloji",
-    "kelime": "deniz sekisi saptamak",
-    "aciklama": "donma-çözülme döngüsünün toprak katmanlarını altüst edip taş halkaları yapmasını incelemek.",
-    "yasakli_kelimeler": [
-      "donma çözülme",
-      "periglasiyal",
-      "desenli topraklar",
-      "don kabarması",
-      "tundra"
-    ],
-    "zorluk": "zor",
-    "id": 240
-  },
-  {
-    "kategori": "jeomorfoloji",
-    "kelime": "buzul izi incelemek",
-    "aciklama": "yüzeyden akan derenin bir düdenden yerin altına girerek vadisini aniden",
-    "yasakli_kelimeler": [
-      "ponor",
-      "düden",
-      "suyun batması",
-      "aniden biten vadi",
-      "karstik yeraltı drenajı"
-    ],
-    "zorluk": "zor",
-    "id": 241
-  },
-  {
-    "kategori": "jeomorfoloji",
-    "kelime": "yardang aşınımını incelemek",
-    "aciklama": "rüzgarın kum taneleriyle kayaları rüzgar yönüne paralel sivri sırtlar halinde",
-    "yasakli_kelimeler": [
-      "rüzgar aşındırması",
-      "omurga sırtı",
-      "kurak çöl",
-      "uzunlamasına oluk",
-      "korrazyon"
-    ],
-    "zorluk": "zor",
-    "id": 242
-  },
-  {
-    "kategori": "jeomorfoloji",
-    "kelime": "lapya oyuğu ölçmek",
-    "aciklama": "dalga aşındırmasıyla oluşup deniz çekilince havada kalmış fosil kıyı düzlüklerini",
-    "yasakli_kelimeler": [
-      "dalga düzlüğü",
-      "deniz seviyesi değişimi",
-      "falez önü",
-      "östatik hareket",
-      "kıyı sekisi"
-    ],
-    "zorluk": "zor",
-    "id": 243
-  },
-  {
-    "kategori": "jeomorfoloji",
-    "kelime": "gömük boğaz incelemek",
-    "aciklama": "yamaçtan kopan köşeli döküntülerin etekte birikme stratigrafisini ve kalınlığını ölçmek.",
-    "yasakli_kelimeler": [
-      "yerçekimi kayması",
-      "yamaç döküntüsü",
-      "talus konisi",
-      "eteğe yığılma",
-      "sedimanter"
-    ],
-    "zorluk": "zor",
-    "id": 244
-  },
-  {
-    "kategori": "jeomorfoloji",
-    "kelime": "erozyon oranı hesaplamak",
-    "aciklama": "havzadaki tüm akarsu kollarını 1'den başlayarak akış hiyerarşisine göre derecelendirmek.",
-    "yasakli_kelimeler": [
-      "horton strahler",
-      "akarsu hiyerarşisi",
-      "dendritik kafesli",
-      "havza morfolojisi",
-      "kol sırası"
-    ],
-    "zorluk": "zor",
-    "id": 245
+    "id": 61
   }
 ]

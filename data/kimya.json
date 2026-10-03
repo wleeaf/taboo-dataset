@@ -2,48 +2,6 @@
   {
     "id": 1,
     "kategori": "kimya",
-    "kelime": "elektronegatiflik",
-    "aciklama": "atomun kimyasal bağdaki elektronları kendine çekme gücü ölçüsü",
-    "yasakli_kelimeler": [
-      "bağ",
-      "çekim",
-      "pauling",
-      "flor",
-      "elektron"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 2,
-    "kategori": "kimya",
-    "kelime": "iyonlaşma enerjisi",
-    "aciklama": "nötr gaz atomundan elektron koparmak için gereken en az enerji",
-    "yasakli_kelimeler": [
-      "elektron koparma",
-      "katyon",
-      "gaz hali",
-      "enerji",
-      "periyodik tablo"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 3,
-    "kategori": "kimya",
-    "kelime": "elektron ilgisi",
-    "aciklama": "gaz halindeki nötr atoma elektron katıldığında açığa çıkan enerji",
-    "yasakli_kelimeler": [
-      "elektron alma",
-      "anyon",
-      "enerji açığa çıkışı",
-      "halojen",
-      "gaz"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 4,
-    "kategori": "kimya",
     "kelime": "kovalent bağ",
     "aciklama": "iki ametal atomunun elektronları ortaklaşa kullanmasıyla oluşan bağ",
     "yasakli_kelimeler": [
@@ -56,7 +14,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 5,
+    "id": 2,
     "kategori": "kimya",
     "kelime": "iyonik bağ",
     "aciklama": "zıt yüklü iyonlar arasındaki elektrostatik çekimle oluşan bağ",
@@ -70,7 +28,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 6,
+    "id": 3,
     "kategori": "kimya",
     "kelime": "metalik bağ",
     "aciklama": "metal atomları ile serbest elektron denizi arasındaki bağ",
@@ -84,7 +42,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 7,
+    "id": 4,
     "kategori": "kimya",
     "kelime": "hidrojen bağı",
     "aciklama": "hidrojenin flor, oksijen ve azotla yaptığı güçlü moleküller arası bağ",
@@ -98,35 +56,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 8,
-    "kategori": "kimya",
-    "kelime": "van der waals",
-    "aciklama": "moleküller arasında kalıcı veya geçici dipollerden kaynaklanan zayıf çekim kuvvetleri.",
-    "yasakli_kelimeler": [
-      "çekim",
-      "dipol",
-      "molekül",
-      "zayıf",
-      "london"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 9,
-    "kategori": "kimya",
-    "kelime": "london dağılım kuvveti",
-    "aciklama": "elektron bulutunun anlık dalgalanmalarıyla oluşan geçici dipollerin tüm moleküllerde neden",
-    "yasakli_kelimeler": [
-      "geçici dipol",
-      "indüklenmiş",
-      "soygaz",
-      "polarizlenebilirlik",
-      "apolar"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 10,
+    "id": 5,
     "kategori": "kimya",
     "kelime": "hibritleşme",
     "aciklama": "bir atomun farklı enerjili değerlik orbitallerinin örtüşerek eşdeğer enerji ve",
@@ -140,7 +70,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 11,
+    "id": 6,
     "kategori": "kimya",
     "kelime": "oktet kuralı",
     "aciklama": "atomların kimyasal bağ kurarak değerlik kabuklarını sekiz elektrona tamamlayıp soy",
@@ -154,7 +84,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 12,
+    "id": 7,
     "kategori": "kimya",
     "kelime": "duplet kuralı",
     "aciklama": "hidrojen, lityum ve berilyum gibi hafif atomların bağ yaparak değerlik",
@@ -168,7 +98,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 13,
+    "id": 8,
     "kategori": "kimya",
     "kelime": "katalizör",
     "aciklama": "tepkimeyi hızlandırıp aktivasyon enerjisini düşüren fakat değişmeyen madde",
@@ -182,21 +112,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 14,
-    "kategori": "kimya",
-    "kelime": "aktivasyon enerjisi",
-    "aciklama": "kimyasal tepkimenin başlayabilmesi için aşılması gereken minimum enerji eşiği",
-    "yasakli_kelimeler": [
-      "eşik enerji",
-      "arrhenius",
-      "kompleks",
-      "bariyer",
-      "başlama"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 15,
+    "id": 9,
     "kategori": "kimya",
     "kelime": "reaksiyon hızı",
     "aciklama": "bir kimyasal tepkimede reaktiflerin derişimindeki azalmanın veya ürünlerin derişimindeki artışın",
@@ -210,35 +126,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 16,
-    "kategori": "kimya",
-    "kelime": "le chatelier ilkesi",
-    "aciklama": "dengedeki sisteme dış müdahale edildiğinde sistemin buna karşı tepki vermesi",
-    "yasakli_kelimeler": [
-      "denge",
-      "etki",
-      "kayma",
-      "sıcaklık",
-      "basınç"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 17,
-    "kategori": "kimya",
-    "kelime": "denge sabiti",
-    "aciklama": "belirli bir sıcaklıkta dengede bulunan ürünlerin derişimlerinin reaktiflerin derişimlerine oranını",
-    "yasakli_kelimeler": [
-      "kc",
-      "kp",
-      "ürünler",
-      "girenler",
-      "oran"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 18,
+    "id": 10,
     "kategori": "kimya",
     "kelime": "titrasyon",
     "aciklama": "derişimi bilinen çözeltiyle bilinmeyen çözeltinin derişimini bulma analizi",
@@ -252,7 +140,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 19,
+    "id": 11,
     "kategori": "kimya",
     "kelime": "indikatör",
     "aciklama": "ortamın ph değerine göre renk değiştirerek titrasyonun eşdeğerlik veya dönüm",
@@ -266,21 +154,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 20,
-    "kategori": "kimya",
-    "kelime": "eşdeğerlik noktası",
-    "aciklama": "titrasyonda eklenen asit veya bazın çözeltideki diğer bileşeni stokiyometrik olarak",
-    "yasakli_kelimeler": [
-      "stokiyometri",
-      "nötrleşme",
-      "mol eşitliği",
-      "titrasyon",
-      "tam reaksiyon"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 21,
+    "id": 12,
     "kategori": "kimya",
     "kelime": "tampon çözelti",
     "aciklama": "az miktarda kuvvetli asit veya baz eklendiğinde kendi ph değerindeki",
@@ -294,35 +168,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 22,
-    "kategori": "kimya",
-    "kelime": "henderson-hasselbalch denklemi",
-    "aciklama": "bir tampon çözeltinin ph değerini zayıf asidin pka değeri ve",
-    "yasakli_kelimeler": [
-      "asitlik hesabı",
-      "tampon",
-      "logaritma",
-      "eşlenik",
-      "denge sabiti"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 23,
-    "kategori": "kimya",
-    "kelime": "otoprotoliz",
-    "aciklama": "özdeş iki çözücü molekülünün kendi arasında bir proton transferi yaparak",
-    "yasakli_kelimeler": [
-      "su",
-      "iyonlaşma",
-      "kw",
-      "proton transferi",
-      "hidronyum"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 24,
+    "id": 13,
     "kategori": "kimya",
     "kelime": "asitlik derecesi",
     "aciklama": "bir sulu çözeltideki hidrojen iyonlarının derişimini eksi logaritmik ölçekte belirten",
@@ -336,7 +182,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 25,
+    "id": 14,
     "kategori": "kimya",
     "kelime": "bazlık derecesi",
     "aciklama": "bir çözeltide bulunan hidroksit iyonlarının derişimini logaritmik değerle gösteren ölçüt.",
@@ -350,35 +196,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 26,
-    "kategori": "kimya",
-    "kelime": "çözünürlük çarpımı",
-    "aciklama": "az çözünen katı bir tuzun doymuş sulu çözeltisindeki iyonlarının stokiyometrik",
-    "yasakli_kelimeler": [
-      "kçk",
-      "çökelti",
-      "doymuş",
-      "iyon derişimi",
-      "az çözünen"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 27,
-    "kategori": "kimya",
-    "kelime": "ortak iyon etkisi",
-    "aciklama": "bir tuz çözeltisine katyonu veya anyonu ortak olan başka bir",
-    "yasakli_kelimeler": [
-      "çözünürlük azalması",
-      "denge kayması",
-      "çökme",
-      "le chatelier",
-      "katı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 28,
+    "id": 15,
     "kategori": "kimya",
     "kelime": "redoks tepkimesi",
     "aciklama": "reaktifler arasında elektron aktarımının gerçekleştiği, bir maddenin yükseltgendiği diğerinin indirgendiği",
@@ -392,49 +210,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 29,
-    "kategori": "kimya",
-    "kelime": "yükseltgenme basamağı",
-    "aciklama": "bir bileşikteki atomun tüm bağlar tamamen iyonik olsaydı sahip olacağı",
-    "yasakli_kelimeler": [
-      "değerlik",
-      "yük",
-      "redoks",
-      "artış",
-      "hesaplama"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 30,
-    "kategori": "kimya",
-    "kelime": "galvanik hücre",
-    "aciklama": "kendiliğinden gerçekleşen bir kimyasal redoks reaksiyonundaki kimyasal enerjiyi doğrudan elektrik",
-    "yasakli_kelimeler": [
-      "pil",
-      "elektrik",
-      "spontan",
-      "tuz köprüsü",
-      "voltaj"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 31,
-    "kategori": "kimya",
-    "kelime": "elektrolitik hücre",
-    "aciklama": "kendiliğinden yürümeyen bir kimyasal tepkimeyi dışarıdan elektrik enerjisi uygulayarak zorla",
-    "yasakli_kelimeler": [
-      "elektroliz",
-      "dış gerilim",
-      "kaplama",
-      "spontan olmayan",
-      "anot"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 32,
+    "id": 16,
     "kategori": "kimya",
     "kelime": "anot",
     "aciklama": "elektrokimyasal bir hücrede yükseltgenme yarı tepkimesinin gerçekleştiği ve elektronların devrede",
@@ -448,7 +224,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 33,
+    "id": 17,
     "kategori": "kimya",
     "kelime": "katot",
     "aciklama": "elektrokimyasal bir hücrede indirgenme tepkimesinin gerçekleştiği ve çözeltideki katyonların elektron",
@@ -462,315 +238,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 34,
-    "kategori": "kimya",
-    "kelime": "tuz köprüsü",
-    "aciklama": "galvanik hücrenin iki yarı hücresini birbirine bağlayarak yük dengesini koruyan",
-    "yasakli_kelimeler": [
-      "yük dengesi",
-      "devre",
-      "yarı hücre",
-      "kcl",
-      "iyon göçü"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 35,
-    "kategori": "kimya",
-    "kelime": "nernst denklemi",
-    "aciklama": "standart olmayan derişim ve sıcaklık koşullarında bir elektrokimyasal hücrenin potansiyelini",
-    "yasakli_kelimeler": [
-      "hücre potansiyeli",
-      "voltaj",
-      "derişim",
-      "standart pil",
-      "logaritma"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 36,
-    "kategori": "kimya",
-    "kelime": "faraday elektroliz yasası",
-    "aciklama": "elektroliz sırasında elektrotlarda açığa çıkan madde miktarının devreden geçen toplam",
-    "yasakli_kelimeler": [
-      "elektrik yükü",
-      "kulon",
-      "mol",
-      "madde miktarı",
-      "akım"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 37,
-    "kategori": "kimya",
-    "kelime": "koordinasyon bileşiği",
-    "aciklama": "merkezi bir geçiş metali katyonunun etrafına kovalentçe koordine olmuş ligand",
-    "yasakli_kelimeler": [
-      "kompleks",
-      "ligand",
-      "merkez atom",
-      "geçiş metali",
-      "şelat"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 38,
-    "kategori": "kimya",
-    "kelime": "ligand",
-    "aciklama": "üzerindeki ortaklanmamış elektron çiftini merkez metal atomuna koordine kovalent bağla",
-    "yasakli_kelimeler": [
-      "elektron donörü",
-      "kompleks",
-      "bağlanma",
-      "şelat",
-      "merkez atom"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 39,
-    "kategori": "kimya",
-    "kelime": "kristal alan teorisi",
-    "aciklama": "ligandların elektrostatik alanının merkez metal atomunun d orbitallerindeki dejenereliği bozarak",
-    "yasakli_kelimeler": [
-      "d orbitali",
-      "yarılma",
-      "renk",
-      "oktahedral",
-      "manyetizma"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 40,
-    "kategori": "kimya",
-    "kelime": "şelatlaşma",
-    "aciklama": "birden fazla bağlanma noktasına sahip çok dişli bir ligandın aynı",
-    "yasakli_kelimeler": [
-      "çok dişli",
-      "edta",
-      "kıskaç",
-      "halka",
-      "bağlanma"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 41,
-    "kategori": "kimya",
-    "kelime": "izomeri",
-    "aciklama": "aynı kimyasal molekül formülüne sahip olmalarına rağmen atomların uzaysal veya",
-    "yasakli_kelimeler": [
-      "yapısal",
-      "stereo",
-      "aynı formül",
-      "farklı dizilim",
-      "molekül"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 42,
-    "kategori": "kimya",
-    "kelime": "enantiyomer",
-    "aciklama": "birbirinin tam ayna görüntüsü olan ancak birbiri üzerine çakışmayan kiral",
-    "yasakli_kelimeler": [
-      "kiralite",
-      "ayna görüntüsü",
-      "çakışmayan",
-      "optik aktivite",
-      "stereoizomer"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 43,
-    "kategori": "kimya",
-    "kelime": "diyastereomer",
-    "aciklama": "birbirinin ayna görüntüsü olmayan, farklı fiziksel ve kimyasal özellikler gösteren",
-    "yasakli_kelimeler": [
-      "ayna görüntüsü olmayan",
-      "stereoizomer",
-      "fiziksel fark",
-      "cis-trans",
-      "kiral"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 44,
-    "kategori": "kimya",
-    "kelime": "kiralite",
-    "aciklama": "bir nesnenin veya molekülün kendi ayna görüntüsüyle hiçbir şekilde üst",
-    "yasakli_kelimeler": [
-      "asimetrik karbon",
-      "el",
-      "ayna",
-      "çakışmazlık",
-      "enantiyomer"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 45,
-    "kategori": "kimya",
-    "kelime": "rasemik karışım",
-    "aciklama": "iki zıt enantiyomerin eşit mol oranlarında bulunması nedeniyle polarize ışığı",
-    "yasakli_kelimeler": [
-      "elli elli",
-      "enantiyomer",
-      "optik inaktif",
-      "karışım",
-      "çevirme"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 46,
-    "kategori": "kimya",
-    "kelime": "nükleofil",
-    "aciklama": "üzerinde fazla elektron yoğunluğu veya ortaklanmamış elektron çifti taşıyarak pozitif",
-    "yasakli_kelimeler": [
-      "elektron zengini",
-      "çekirdek seven",
-      "saldırı",
-      "lewis bazı",
-      "anyon"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 47,
-    "kategori": "kimya",
-    "kelime": "elektrofil",
-    "aciklama": "elektron eksikliği çeken ve nükleofillerden elektron çifti kabul ederek yeni",
-    "yasakli_kelimeler": [
-      "elektron seven",
-      "pozitif merkez",
-      "lewis asidi",
-      "katyon",
-      "karbokatyon"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 48,
-    "kategori": "kimya",
-    "kelime": "karbokatyon",
-    "aciklama": "üzerinde pozitif formal yük taşıyan ve yalnızca altı değerlik elektronuna",
-    "yasakli_kelimeler": [
-      "pozitif karbon",
-      "ara ürün",
-      "üçüncül",
-      "kararsız",
-      "yer değiştirme"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 49,
-    "kategori": "kimya",
-    "kelime": "serbest radikal",
-    "aciklama": "dış kabuğunda en az bir adet eşleşmemiş ortaklanmamış elektron barındıran",
-    "yasakli_kelimeler": [
-      "eşleşmemiş elektron",
-      "homolitik",
-      "reaktif",
-      "antioksidan",
-      "zincir reaksiyon"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 50,
-    "kategori": "kimya",
-    "kelime": "tek moleküllü ornatma",
-    "aciklama": "hız belirleyen basamağında sadece bir molekülün yer aldığı iki basamaklı",
-    "yasakli_kelimeler": [
-      "karbokatyon",
-      "ayrılan grup",
-      "rasemizasyon",
-      "nükleofil",
-      "hız basamağı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 51,
-    "kategori": "kimya",
-    "kelime": "iki moleküllü ornatma",
-    "aciklama": "nükleofilin bağ kopmasıyla eşzamanlı olarak arkadan saldırdığı tek basamaklı ornatma",
-    "yasakli_kelimeler": [
-      "arkadan saldırı",
-      "walden evrilmesi",
-      "geçiş durumu",
-      "tek basamak",
-      "nükleofil"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 52,
-    "kategori": "kimya",
-    "kelime": "markovnikov kuralı",
-    "aciklama": "asimetrik bir alkene hidrojen halojenür katıldığında hidrojenin çifte bağdaki hidrojeni",
-    "yasakli_kelimeler": [
-      "katılma",
-      "alken",
-      "karbokatyon",
-      "hidrojen",
-      "zengin"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 53,
-    "kategori": "kimya",
-    "kelime": "aromatiklik",
-    "aciklama": "halka düzleminde sürekli delokalize pi elektronları içeren ve hückel kuralına",
-    "yasakli_kelimeler": [
-      "benzen",
-      "hückel",
-      "kararlılık",
-      "pi rezonansı",
-      "halka"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 54,
-    "kategori": "kimya",
-    "kelime": "hückel kuralı",
-    "aciklama": "düzlemsel ve tam konjuge bir halkanın aromatik olabilmesi için toplam",
-    "yasakli_kelimeler": [
-      "dört n artı iki",
-      "pi elektronu",
-      "aromatik",
-      "kural",
-      "kararlılık"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 55,
-    "kategori": "kimya",
-    "kelime": "rezonans",
-    "aciklama": "tek bir lewis yapısıyla tam gösterilemeyen bir molekülün gerçek yapısının",
-    "yasakli_kelimeler": [
-      "melez",
-      "delokalizasyon",
-      "lewis yapısı",
-      "pi bağı",
-      "kararlılık"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 56,
+    "id": 18,
     "kategori": "kimya",
     "kelime": "polimer",
     "aciklama": "monomer adı verilen çok sayıda küçük molekülün kovalent bağlarla birbirine",
@@ -784,49 +252,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 57,
-    "kategori": "kimya",
-    "kelime": "stokiyometri",
-    "aciklama": "kimyasal tepkimelerdeki maddelerin kütle ve mol ilişkileri hesabı",
-    "yasakli_kelimeler": [
-      "mol hesabı",
-      "katsayı",
-      "denkleştirme",
-      "kütle",
-      "oran"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 58,
-    "kategori": "kimya",
-    "kelime": "sınırlayıcı bileşen",
-    "aciklama": "bir kimyasal reaksiyonda ilk önce tamamen tükenerek oluşabilecek maksimum ürün",
-    "yasakli_kelimeler": [
-      "tükenen",
-      "stokiyometri",
-      "teorik verim",
-      "reaktif",
-      "ürün"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 59,
-    "kategori": "kimya",
-    "kelime": "teorik verim",
-    "aciklama": "sınırlayıcı bileşenin tamamen reaksiyona girmesi varsayımıyla stokiyometrik hesaplama sonucu elde",
-    "yasakli_kelimeler": [
-      "hesaplanan",
-      "yüzde verim",
-      "maksimum ürün",
-      "stokiyometri",
-      "beklenen"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 60,
+    "id": 19,
     "kategori": "kimya",
     "kelime": "avogadro sayısı",
     "aciklama": "bir mol maddedeki tanecik sayısını veren sabit sayı",
@@ -840,189 +266,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 61,
-    "kategori": "kimya",
-    "kelime": "molarite",
-    "aciklama": "bir litre çözelti içinde çözünmüş olan maddenin mol sayısını ifade",
-    "yasakli_kelimeler": [
-      "derişim",
-      "mol",
-      "litre",
-      "molar",
-      "çözelti"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 62,
-    "kategori": "kimya",
-    "kelime": "molalite",
-    "aciklama": "bir kilogram çözücüde çözünmüş olan maddenin mol sayısı olarak tanımlanan",
-    "yasakli_kelimeler": [
-      "kilogram",
-      "çözücü",
-      "mol",
-      "sıcaklıktan bağımsız",
-      "derişim"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 63,
-    "kategori": "kimya",
-    "kelime": "koligatif özellik",
-    "aciklama": "bir çözeltinin çözünen maddenin kimyasal kimliğine değil sadece ortamdaki tanecik",
-    "yasakli_kelimeler": [
-      "tanecik sayısı",
-      "kaynama noktası yükselmesi",
-      "donma noktası alçalması",
-      "ozmotik basınç",
-      "çözelti"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 64,
-    "kategori": "kimya",
-    "kelime": "ozmotik basınç",
-    "aciklama": "yarı geçirgen zardan çözücü geçişini durdurmak için gereken basınç",
-    "yasakli_kelimeler": [
-      "ozmoz",
-      "yarı geçirgen zar",
-      "derişim",
-      "çözücü akışı",
-      "koligatif"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 65,
-    "kategori": "kimya",
-    "kelime": "kromatografi",
-    "aciklama": "bir karışımdaki bileşenleri sabit ve hareketli iki faz arasındaki dağılma",
-    "yasakli_kelimeler": [
-      "sabit faz",
-      "hareketli faz",
-      "ayırma",
-      "kolon",
-      "alıkonma"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 66,
-    "kategori": "kimya",
-    "kelime": "gaz kromatografisi",
-    "aciklama": "uçucu bileşenleri bir taşıyıcı gaz yardımıyla fırın içindeki kılcal kolondan",
-    "yasakli_kelimeler": [
-      "taşıyıcı gaz",
-      "uçucu",
-      "kılcal kolon",
-      "dedektör",
-      "fırın"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 67,
-    "kategori": "kimya",
-    "kelime": "sıvı kromatografisi",
-    "aciklama": "çözücü karışımının yüksek basınç altında dolgulu bir kolondan geçirilerek bileşenlerine",
-    "yasakli_kelimeler": [
-      "kolon",
-      "hareketli faz",
-      "sabit faz",
-      "ayırma",
-      "basınç"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 68,
-    "kategori": "kimya",
-    "kelime": "kütle spektrometrisi",
-    "aciklama": "örnek molekülleri iyonlaştırıp kütle/yük oranlarına göre manyetik veya elektriksel alanda",
-    "yasakli_kelimeler": [
-      "iyonlaşma",
-      "kütle yük oranı",
-      "m/z",
-      "parçalanma",
-      "spektrum"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 69,
-    "kategori": "kimya",
-    "kelime": "nükleer manyetik rezonans",
-    "aciklama": "güçlü manyetik alan altındaki atom çekirdeklerinin radyo frekansı dalgalarını soğurmasıyla",
-    "yasakli_kelimeler": [
-      "çekirdek spini",
-      "kimyasal kayma",
-      "radyo dalgası",
-      "manyetik alan",
-      "rezonans"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 70,
-    "kategori": "kimya",
-    "kelime": "kızılötesi spektroskopisi",
-    "aciklama": "moleküllerin kızılötesi ışığı soğurarak kimyasal bağlarının esneme ve bükülme titreşimlerini",
-    "yasakli_kelimeler": [
-      "titreşim",
-      "fonksiyonel grup",
-      "dalga sayısı",
-      "absorbans",
-      "bağ"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 71,
-    "kategori": "kimya",
-    "kelime": "morötesi-görünür bölge spektroskopisi",
-    "aciklama": "moleküllerdeki değerlik elektronlarının morötesi veya görünür ışığı soğurarak yüksek enerji",
-    "yasakli_kelimeler": [
-      "görünür bölge",
-      "elektronik geçiş",
-      "absorbans",
-      "beer-lambert",
-      "kromofor"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 72,
-    "kategori": "kimya",
-    "kelime": "kolloit",
-    "aciklama": "bir maddenin mikroskobik parçacıklar halinde başka bir ortam içinde çözünmeden",
-    "yasakli_kelimeler": [
-      "tyndall etkisi",
-      "asılı kalma",
-      "sis",
-      "jel",
-      "heterojen"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 73,
-    "kategori": "kimya",
-    "kelime": "tyndall etkisi",
-    "aciklama": "bir kolloidal karışımın içinden geçen ışık demetinin asılı duran mikro",
-    "yasakli_kelimeler": [
-      "ışık saçılması",
-      "kolloit",
-      "ışık demeti",
-      "tanecik",
-      "görünür yol"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 74,
+    "id": 20,
     "kategori": "kimya",
     "kelime": "yüzey gerilimi",
     "aciklama": "bir sıvının yüzeyindeki moleküllerin iç kısımdaki moleküller tarafından çekilmesiyle sıvı",
@@ -1036,7 +280,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 75,
+    "id": 21,
     "kategori": "kimya",
     "kelime": "viskozite",
     "aciklama": "bir akışkanın katmanları arasındaki iç sürtünmeden kaynaklanan akmaya veya deformasyona",
@@ -1050,7 +294,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 76,
+    "id": 22,
     "kategori": "kimya",
     "kelime": "kılcallık",
     "aciklama": "sıvı molekülleri arasındaki adezyon ve kohezyon kuvvetleri sayesinde sıvının çok",
@@ -1064,63 +308,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 77,
-    "kategori": "kimya",
-    "kelime": "brønsted bazı",
-    "aciklama": "kimyasal tepkimede ortamdan hidrojen iyonu (proton) alan madde.",
-    "yasakli_kelimeler": [
-      "proton",
-      "asit",
-      "hidrojen",
-      "alıcı",
-      "lowry"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 78,
-    "kategori": "kimya",
-    "kelime": "lewis asidi",
-    "aciklama": "kimyasal bağ oluşumu sırasında elektron çifti kabul eden kimyasal tür.",
-    "yasakli_kelimeler": [
-      "elektron",
-      "çift",
-      "baz",
-      "akseptör",
-      "oktet"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 79,
-    "kategori": "kimya",
-    "kelime": "arrhenius asidi",
-    "aciklama": "sulu çözeltisinde hidrojen iyonu (h+) derişimini artıran klasik asit tanımı.",
-    "yasakli_kelimeler": [
-      "sulu çözelti",
-      "hidrojen",
-      "iyon",
-      "baz",
-      "derişim"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 80,
-    "kategori": "kimya",
-    "kelime": "amfoterik madde",
-    "aciklama": "kuvvetli bir asit karşısında baz, kuvvetli bir baz karşısında ise",
-    "yasakli_kelimeler": [
-      "çift özellik",
-      "su",
-      "amino asit",
-      "asit-baz",
-      "alüminyum oksit"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 81,
+    "id": 23,
     "kategori": "kimya",
     "kelime": "amino asit",
     "aciklama": "aynı karbon atomuna bağlı bir amino grubu, bir karboksil grubu",
@@ -1134,7 +322,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 82,
+    "id": 24,
     "kategori": "kimya",
     "kelime": "peptit bağı",
     "aciklama": "bir amino asidin karboksil grubu ile diğerinin amino grubu arasında",
@@ -1148,7 +336,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 83,
+    "id": 25,
     "kategori": "kimya",
     "kelime": "enzim",
     "aciklama": "canlı hücrelerdeki biyokimyasal tepkimelerin aktivasyon enerjisini düşürerek hızlandıran biyolojik protein",
@@ -1162,35 +350,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 84,
-    "kategori": "kimya",
-    "kelime": "substrat",
-    "aciklama": "bir enzimin aktif bölgesine özgül olarak bağlanan ve katalizlenen tepkime",
-    "yasakli_kelimeler": [
-      "aktif bölge",
-      "enzim",
-      "bağlanma",
-      "ürün",
-      "anahtar-kilit"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 85,
-    "kategori": "kimya",
-    "kelime": "alifatik hidrokarbon",
-    "aciklama": "yapısında aromatik benzen halkası içermeyen, düz veya dallanmış zincirli ya",
-    "yasakli_kelimeler": [
-      "aromatik olmayan",
-      "alkan",
-      "alken",
-      "alkin",
-      "zincir"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 86,
+    "id": 26,
     "kategori": "kimya",
     "kelime": "esterleşme",
     "aciklama": "bir karboksilik asit ile bir alkolün asit katalizörlüğünde birleşerek su",
@@ -1204,7 +364,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 87,
+    "id": 27,
     "kategori": "kimya",
     "kelime": "sabunlaşma",
     "aciklama": "trigliserit yağların kuvvetli bir sodyum veya potasyum hidroksit bazı ile",
@@ -1218,105 +378,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 88,
-    "kategori": "kimya",
-    "kelime": "hidroliz",
-    "aciklama": "bir kimyasal bağın bir su molekülünün eklenmesiyle kırılarak molekülün daha",
-    "yasakli_kelimeler": [
-      "su ile parçalama",
-      "bağ kırılması",
-      "su eklenmesi",
-      "tersinir",
-      "sindirim"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 89,
-    "kategori": "kimya",
-    "kelime": "kondenzasyon tepkimesi",
-    "aciklama": "iki veya daha fazla molekülün birleşirken aralarından su veya alkol",
-    "yasakli_kelimeler": [
-      "su ayrılması",
-      "birleşme",
-      "polimerleşme",
-      "bağ oluşumu",
-      "küçük molekül"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 90,
-    "kategori": "kimya",
-    "kelime": "termogravimetrik analiz",
-    "aciklama": "bir örneğin kontrollü sıcaklık artışı sırasında meydana gelen kütle kaybını",
-    "yasakli_kelimeler": [
-      "tga",
-      "kütle kaybı",
-      "termal analiz",
-      "ısıtma",
-      "bozunma"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 91,
-    "kategori": "kimya",
-    "kelime": "diferansiyel taramalı kalorimetri",
-    "aciklama": "örnek ve referans arasındaki ısı akısı farkını sıcaklığa bağlı ölçerek",
-    "yasakli_kelimeler": [
-      "dsc",
-      "ısı akısı",
-      "faz geçişi",
-      "erime",
-      "camsı geçiş"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 92,
-    "kategori": "kimya",
-    "kelime": "x-ışını kırınımı",
-    "aciklama": "x-ışınlarının kristal kafes düzlemlerinden bragg yasasına göre saçılmasıyla katıların üç",
-    "yasakli_kelimeler": [
-      "bragg yasası",
-      "kristal yapı",
-      "örgü",
-      "kırınım deseni",
-      "dalga boyu"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 93,
-    "kategori": "kimya",
-    "kelime": "bragg yasası",
-    "aciklama": "kristal atom düzlemleri arasındaki mesafe, geliş açısı ve x-ışını dalga",
-    "yasakli_kelimeler": [
-      "n lambda",
-      "iki d sin teta",
-      "kristal kafes",
-      "açı",
-      "kırınım"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 94,
-    "kategori": "kimya",
-    "kelime": "zeolit",
-    "aciklama": "düzenli mikro gözenekli kafes yapısına sahip ve iyon değişimi ile",
-    "yasakli_kelimeler": [
-      "alüminosilikat",
-      "mikro gözenek",
-      "moleküler elek",
-      "su yumuşatma",
-      "katalizör"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 95,
+    "id": 28,
     "kategori": "kimya",
     "kelime": "grafen",
     "aciklama": "karbon atomlarının sp2 hibritleşmesiyle iki boyutlu bal peteği örgüsünde tek",
@@ -1330,7 +392,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 96,
+    "id": 29,
     "kategori": "kimya",
     "kelime": "karbon nanotüp",
     "aciklama": "grafen tabakalarının silindir şeklinde yuvarlanmasıyla oluşan olağanüstü mekanik mukavemetli ve",
@@ -1344,63 +406,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 97,
-    "kategori": "kimya",
-    "kelime": "fulleren",
-    "aciklama": "altmış veya daha fazla karbon atomunun bir araya gelerek içi",
-    "yasakli_kelimeler": [
-      "buckyball",
-      "c60",
-      "futbol topu",
-      "küre",
-      "karbon"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 98,
-    "kategori": "kimya",
-    "kelime": "aerogel",
-    "aciklama": "bir jelin sıvı bileşeninin süperkritik kurutmayla gazla değiştirilmesiyle elde edilen",
-    "yasakli_kelimeler": [
-      "donmuş duman",
-      "düşük yoğunluk",
-      "süperkritik kurutma",
-      "yalıtım",
-      "jel"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 99,
-    "kategori": "kimya",
-    "kelime": "hidrotermal sentez",
-    "aciklama": "yüksek sıcaklık ve buhar basıncı altındaki sulu çözeltilerde çözünmeyen maddelerin",
-    "yasakli_kelimeler": [
-      "otoklav",
-      "yüksek basınç",
-      "kristal büyütme",
-      "çözelti",
-      "sıcaklık"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 100,
-    "kategori": "kimya",
-    "kelime": "sol-jel yöntemi",
-    "aciklama": "çözeltideki monomer öncüllerinin kolloidal sol ve ardından katı ağ örgülü",
-    "yasakli_kelimeler": [
-      "kolloit",
-      "hidroliz",
-      "seramik",
-      "kaplama",
-      "ağ örgüsü"
-    ],
-    "zorluk": "zor"
-  },
-  {
-    "id": 101,
+    "id": 30,
     "kategori": "kimya",
     "kelime": "atom",
     "aciklama": "bir elementin tüm kimyasal özelliklerini taşıyan, proton, nötron ve elektronlardan",
@@ -1414,7 +420,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 102,
+    "id": 31,
     "kategori": "kimya",
     "kelime": "molekül",
     "aciklama": "aynı veya farklı cins en az iki atomun kovalent bağlarla",
@@ -1428,7 +434,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 103,
+    "id": 32,
     "kategori": "kimya",
     "kelime": "proton",
     "aciklama": "atomun çekirdeğinde bulunan, pozitif elektrik yüküne sahip ve atom numarasını",
@@ -1442,7 +448,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 104,
+    "id": 33,
     "kategori": "kimya",
     "kelime": "nötron",
     "aciklama": "atom çekirdeğinde yer alan, elektriksel yükü sıfır olan ve protonla",
@@ -1456,7 +462,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 105,
+    "id": 34,
     "kategori": "kimya",
     "kelime": "elektron",
     "aciklama": "çekirdeğin etrafındaki orbitallerde dönen, negatif birim yüke sahip ve kütlesi",
@@ -1470,7 +476,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 106,
+    "id": 35,
     "kategori": "kimya",
     "kelime": "çekirdek",
     "aciklama": "atomun merkezinde bulunan, proton ve nötronları barındıran ve atomun neredeyse",
@@ -1484,7 +490,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 107,
+    "id": 36,
     "kategori": "kimya",
     "kelime": "izotop",
     "aciklama": "proton sayıları aynı fakat nötron sayıları farklı olduğu için kütle",
@@ -1498,35 +504,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 108,
-    "kategori": "kimya",
-    "kelime": "izoton",
-    "aciklama": "nötron sayıları aynı fakat proton sayıları ve kimyasal özellikleri birbirinden",
-    "yasakli_kelimeler": [
-      "aynı nötron",
-      "farklı proton",
-      "farklı element",
-      "çekirdek",
-      "nükleon"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 109,
-    "kategori": "kimya",
-    "kelime": "izobar atom",
-    "aciklama": "kütle numaraları aynı ancak proton ve nötron sayıları birbirinden farklı",
-    "yasakli_kelimeler": [
-      "aynı kütle numarası",
-      "farklı atom numarası",
-      "toplam nükleon",
-      "farklı element",
-      "çekirdek"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 110,
+    "id": 37,
     "kategori": "kimya",
     "kelime": "kütle numarası",
     "aciklama": "bir atomun çekirdeğinde bulunan proton ve nötron sayılarının toplamını gösteren",
@@ -1540,7 +518,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 111,
+    "id": 38,
     "kategori": "kimya",
     "kelime": "atom numarası",
     "aciklama": "bir elementin çekirdeğindeki proton sayısını gösteren ve elementin periyodik tablodaki",
@@ -1554,21 +532,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 112,
-    "kategori": "kimya",
-    "kelime": "atomik kütle",
-    "aciklama": "bir elementin doğadaki tüm izotoplarının bulunma yüzdelerine göre ağırlıklı ortalamasıyla",
-    "yasakli_kelimeler": [
-      "akb",
-      "ortalama ağırlık",
-      "izotop ortalaması",
-      "mol ağırlığı",
-      "gram mol"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 113,
+    "id": 39,
     "kategori": "kimya",
     "kelime": "mol",
     "aciklama": "avogadro sayısı kadar tanecik içeren temel madde miktarı birimi",
@@ -1582,7 +546,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 114,
+    "id": 40,
     "kategori": "kimya",
     "kelime": "periyodik tablo",
     "aciklama": "bilinen tüm kimyasal elementlerin artan atom numaralarına ve benzer özelliklerine",
@@ -1596,7 +560,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 115,
+    "id": 41,
     "kategori": "kimya",
     "kelime": "periyot",
     "aciklama": "periyodik tablodaki yedi adet yatay sıradan her biri ve atomların",
@@ -1610,7 +574,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 116,
+    "id": 42,
     "kategori": "kimya",
     "kelime": "grup",
     "aciklama": "periyodik tablodaki düşey sütunlar ve son katmandaki elektron sayıları aynı",
@@ -1624,7 +588,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 117,
+    "id": 43,
     "kategori": "kimya",
     "kelime": "alkali metal",
     "aciklama": "periyodik tablonun bir a grubunda yer alan, suyla şiddetle tepkimeye",
@@ -1638,7 +602,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 118,
+    "id": 44,
     "kategori": "kimya",
     "kelime": "toprak alkali",
     "aciklama": "periyodik tablonun iki a grubunda yer alan, bileşiklerinde artı iki",
@@ -1652,7 +616,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 119,
+    "id": 45,
     "kategori": "kimya",
     "kelime": "halojen",
     "aciklama": "periyodik tablonun yedi a grubunda bulunan, metallerle tuz oluşturan flor,",
@@ -1666,7 +630,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 120,
+    "id": 46,
     "kategori": "kimya",
     "kelime": "soygaz",
     "aciklama": "sekiz a grubunda yer alan, son katmanları tam dolu olduğu",
@@ -1680,7 +644,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 121,
+    "id": 47,
     "kategori": "kimya",
     "kelime": "geçiş metali",
     "aciklama": "periyodik tablonun b gruplarında yer alan, d orbitalleri dolan ve",
@@ -1694,7 +658,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 122,
+    "id": 48,
     "kategori": "kimya",
     "kelime": "ametal",
     "aciklama": "ısı ve elektriği iletmeyen, mat görünümlü, elektron alma eğiliminde olan",
@@ -1708,7 +672,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 123,
+    "id": 49,
     "kategori": "kimya",
     "kelime": "yarı metal",
     "aciklama": "fiziksel özellikleri metallere, kimyasal özellikleri ametallere benzeyen silisyum ve bor",
@@ -1722,7 +686,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 124,
+    "id": 50,
     "kategori": "kimya",
     "kelime": "anyon",
     "aciklama": "dışarıdan bir veya daha fazla elektron alarak negatif elektrik yüküyle",
@@ -1736,7 +700,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 125,
+    "id": 51,
     "kategori": "kimya",
     "kelime": "katyon",
     "aciklama": "dışarıya bir veya daha fazla elektron vererek pozitif elektrik yüküyle",
@@ -1750,7 +714,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 126,
+    "id": 52,
     "kategori": "kimya",
     "kelime": "kimyasal bağ",
     "aciklama": "atomları veya iyonları bir arada tutarak molekül ve kristal yapıları",
@@ -1764,49 +728,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 127,
-    "kategori": "kimya",
-    "kelime": "polar bağ",
-    "aciklama": "farklı iki ametal atomu arasında elektronegatiflik farkı yüzünden elektronların eşit",
-    "yasakli_kelimeler": [
-      "kutuplu kovalent",
-      "farklı ametaller",
-      "elektronegatiflik farkı",
-      "kısmi yük",
-      "dipol"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 128,
-    "kategori": "kimya",
-    "kelime": "apolar bağ",
-    "aciklama": "aynı cins iki ametal atomunun elektronları tamamen eşit çekmesiyle oluşan",
-    "yasakli_kelimeler": [
-      "kutupsuz bağ",
-      "aynı ametaller",
-      "eşit paylaşım",
-      "h2 o2 örneği",
-      "kovalent"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 129,
-    "kategori": "kimya",
-    "kelime": "dipol moment",
-    "aciklama": "bir moleküldeki pozitif ve negatif yük merkezlerinin birbirinden ayrılmasıyla oluşan",
-    "yasakli_kelimeler": [
-      "kutuplanma ölçüsü",
-      "yük ayrımı",
-      "polar molekül",
-      "vektörel büyüklük",
-      "debye"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 130,
+    "id": 53,
     "kategori": "kimya",
     "kelime": "çözücü",
     "aciklama": "bir çözeltide genellikle miktarı daha fazla olan ve diğer maddeyi",
@@ -1820,7 +742,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 131,
+    "id": 54,
     "kategori": "kimya",
     "kelime": "çözünen",
     "aciklama": "çözücünün içinde moleküler veya iyonik olarak dağılarak gözden kaybolan tuz",
@@ -1834,7 +756,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 132,
+    "id": 55,
     "kategori": "kimya",
     "kelime": "çözelti",
     "aciklama": "iki veya daha fazla maddenin birbiri içinde homojen olarak dağılmasıyla",
@@ -1848,7 +770,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 133,
+    "id": 56,
     "kategori": "kimya",
     "kelime": "doymuş çözelti",
     "aciklama": "belirli bir sıcaklık ve basınçta çözebileceği maksimum miktarda maddeyi çözmüş",
@@ -1862,21 +784,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 134,
-    "kategori": "kimya",
-    "kelime": "aşırı doymuş",
-    "aciklama": "özel koşullarda ısıtılıp yavaşça soğutularak normalde çözebileceğinden daha fazla maddeyi",
-    "yasakli_kelimeler": [
-      "kararsız çözelti",
-      "kristallenmeye hazır",
-      "fazla çözünmüş",
-      "ani çökme",
-      "doymuş üstü"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 135,
+    "id": 57,
     "kategori": "kimya",
     "kelime": "seyreltik çözelti",
     "aciklama": "birim hacminde çözünmüş madde miktarı çok az, çözücü oranı ise",
@@ -1890,7 +798,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 136,
+    "id": 58,
     "kategori": "kimya",
     "kelime": "derişik çözelti",
     "aciklama": "içinde bol miktarda çözünmüş madde barındıran, yoğun ve konsantre olmuş",
@@ -1904,7 +812,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 137,
+    "id": 59,
     "kategori": "kimya",
     "kelime": "çözünürlük",
     "aciklama": "belirli sıcaklıkta yüz gram çözücüde çözünebilen maksimum madde miktarı",
@@ -1918,7 +826,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 138,
+    "id": 60,
     "kategori": "kimya",
     "kelime": "çökelti",
     "aciklama": "iki çözeltinin karışması sonucu çözünmeyen katı taneciklerin dibe çökerek oluşturduğu",
@@ -1932,7 +840,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 139,
+    "id": 61,
     "kategori": "kimya",
     "kelime": "çökelme",
     "aciklama": "kimyasal bir reaksiyon neticesinde sıvı ortamda katı bir çökeltinin oluşup",
@@ -1946,7 +854,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 140,
+    "id": 62,
     "kategori": "kimya",
     "kelime": "kristallenme",
     "aciklama": "sıvı veya çözelti halindeki maddelerin soğutulmasıyla düzenli geometrik kristal katılar",
@@ -1960,7 +868,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 141,
+    "id": 63,
     "kategori": "kimya",
     "kelime": "damıtma",
     "aciklama": "sıvı karışımları kaynama noktası farkından yararlanarak önce buharlaştırıp sonra yoğuşturarak",
@@ -1974,7 +882,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 142,
+    "id": 64,
     "kategori": "kimya",
     "kelime": "ayrımsal damıtma",
     "aciklama": "kaynama noktaları birbirine çok yakın olan alkol ve su veya",
@@ -1988,7 +896,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 143,
+    "id": 65,
     "kategori": "kimya",
     "kelime": "süzme",
     "aciklama": "katı sıvı heterojen karışımları süzgeç kağıdı veya filtre yardımıyla birbirinden",
@@ -2002,7 +910,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 144,
+    "id": 66,
     "kategori": "kimya",
     "kelime": "santrifüj",
     "aciklama": "karışımları dakikada binlerce devirle çok hızlı döndürerek yoğun tanecikleri merkezkaç",
@@ -2016,21 +924,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 145,
-    "kategori": "kimya",
-    "kelime": "dekantasyon",
-    "aciklama": "dibe çökmüş katı tanecikleri bulandırmadan üstteki berrak sıvıyı yavaşça başka",
-    "yasakli_kelimeler": [
-      "aktarma",
-      "üst sıvıyı dökme",
-      "tortuyu bırakma",
-      "bulandırmadan ayırma",
-      "fiziksel ayırma"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 146,
+    "id": 67,
     "kategori": "kimya",
     "kelime": "süblimleşme",
     "aciklama": "katı bir maddenin ısıtıldığında sıvı hale geçmeden doğrudan doğruya gaz",
@@ -2044,7 +938,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 147,
+    "id": 68,
     "kategori": "kimya",
     "kelime": "kırağılaşma",
     "aciklama": "gaz halindeki bir maddenin aniden soğuyarak sıvılaşmadan doğrudan katı kristale",
@@ -2058,7 +952,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 148,
+    "id": 69,
     "kategori": "kimya",
     "kelime": "buharlaşma",
     "aciklama": "sıvının yüzeyindeki yüksek kinetik enerjili moleküllerin her sıcaklıkta sıvıdan ayrılarak",
@@ -2072,7 +966,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 149,
+    "id": 70,
     "kategori": "kimya",
     "kelime": "yoğuşma",
     "aciklama": "gaz fazındaki maddenin soğutulduğunda ısı vererek tekrar sıvı faza dönüşmesi",
@@ -2086,7 +980,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 150,
+    "id": 71,
     "kategori": "kimya",
     "kelime": "erime noktası",
     "aciklama": "saf bir katı maddenin ısıtıldığında bir atmosfer basınç altında sıvı",
@@ -2100,7 +994,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 151,
+    "id": 72,
     "kategori": "kimya",
     "kelime": "kaynama noktası",
     "aciklama": "sıvının iç buhar basıncının dış atmosfer basıncına eşitlendiği ve fokurdayarak",
@@ -2114,7 +1008,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 152,
+    "id": 73,
     "kategori": "kimya",
     "kelime": "donma noktası",
     "aciklama": "saf bir sıvının ısı kaybederek katı kristal yapıya dönüştüğü karakteristik",
@@ -2128,49 +1022,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 153,
-    "kategori": "kimya",
-    "kelime": "faz diyagramı",
-    "aciklama": "bir maddenin farklı sıcaklık ve basınç değerlerinde katı, sıvı veya",
-    "yasakli_kelimeler": [
-      "basınç sıcaklık grafiği",
-      "katı sıvı gaz bölgeleri",
-      "hal eğrileri",
-      "üçlü nokta",
-      "grafik"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 154,
-    "kategori": "kimya",
-    "kelime": "üçlü nokta",
-    "aciklama": "faz diyagramında katı, sıvı ve gaz hallerinin aynı anda mükemmel",
-    "yasakli_kelimeler": [
-      "üç hal bir arada",
-      "katı sıvı gaz dengesi",
-      "spesifik basınç ve sıcaklık",
-      "faz grafiği",
-      "kesişim"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 155,
-    "kategori": "kimya",
-    "kelime": "kritik nokta",
-    "aciklama": "bunun üzerindeki sıcaklık ve basınçta sıvı ile gaz fazı arasındaki",
-    "yasakli_kelimeler": [
-      "süperkritik akışkan",
-      "faz ayrımı yok",
-      "kritik sıcaklık",
-      "basınç sınırı",
-      "gazlaştırılamaz"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 156,
+    "id": 74,
     "kategori": "kimya",
     "kelime": "entalpi",
     "aciklama": "sistemin sabit basınç altındaki toplam ısı içeriği miktarı",
@@ -2184,7 +1036,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 157,
+    "id": 75,
     "kategori": "kimya",
     "kelime": "entropi",
     "aciklama": "bir sistemin düzensizliğinin veya rastgeleliğinin termodinamik ölçüsü",
@@ -2198,21 +1050,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 158,
-    "kategori": "kimya",
-    "kelime": "serbest enerji",
-    "aciklama": "sabit sıcaklık ve basınçta bir kimyasal reaksiyonun kendiliğinden gerçekleşip gerçekleşmeyeceğini",
-    "yasakli_kelimeler": [
-      "gibbs enerjisi",
-      "delta g",
-      "kendiliğinden olma",
-      "istemsizlik",
-      "termodinamik"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 159,
+    "id": 76,
     "kategori": "kimya",
     "kelime": "ekzotermik tepkime",
     "aciklama": "gerçekleşirken çevreye ısı veren, ortamı ısıtan ve entalpi değişimi sıfırdan",
@@ -2226,7 +1064,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 160,
+    "id": 77,
     "kategori": "kimya",
     "kelime": "endotermik tepkime",
     "aciklama": "gerçekleşebilmek için çevreden sürekli ısı alan, ortamı soğutan ve entalpi",
@@ -2240,21 +1078,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 161,
-    "kategori": "kimya",
-    "kelime": "hess yasası",
-    "aciklama": "bir kimyasal reaksiyonun toplam entalpi değişiminin basamaklarının entalpi değişimleri toplamına",
-    "yasakli_kelimeler": [
-      "entalpilerin toplanabilirliği",
-      "basamaklı tepkime",
-      "tepkime ısısı hesabı",
-      "termodinamik",
-      "yasa"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 162,
+    "id": 78,
     "kategori": "kimya",
     "kelime": "ideal gaz",
     "aciklama": "molekülleri arasında hiçbir çekim kuvveti bulunmayan ve kendi hacimleri ihmal",
@@ -2268,105 +1092,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 163,
-    "kategori": "kimya",
-    "kelime": "boyle yasası",
-    "aciklama": "sabit sıcaklıkta belirli miktardaki gazın basıncı ile hacminin birbiriyle ters",
-    "yasakli_kelimeler": [
-      "basınç hacim ilişkisi",
-      "ters orantı",
-      "sabit sıcaklık",
-      "gaz yasası",
-      "p v çarpımı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 164,
-    "kategori": "kimya",
-    "kelime": "charles yasası",
-    "aciklama": "sabit basınç altında tutulan bir gazın mutlak sıcaklığı arttıkça hacminin",
-    "yasakli_kelimeler": [
-      "sıcaklık hacim ilişkisi",
-      "doğru orantı",
-      "sabit basınç",
-      "kelvin sıcaklığı",
-      "gaz genleşmesi"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 165,
-    "kategori": "kimya",
-    "kelime": "gay-lussac yasası",
-    "aciklama": "hacmi sabit kapalı bir kapta bulunan gazın basıncının mutlak sıcaklıkla",
-    "yasakli_kelimeler": [
-      "basınç sıcaklık ilişkisi",
-      "sabit hacim",
-      "düdüklü tencere",
-      "doğru orantı",
-      "gaz yasası"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 166,
-    "kategori": "kimya",
-    "kelime": "dalton yasası",
-    "aciklama": "gaz karışımının toplam basıncının karışımı oluşturan her bir gazın kısmi",
-    "yasakli_kelimeler": [
-      "kısmi basınçlar toplamı",
-      "gaz karışımı",
-      "toplam basınç",
-      "mol kesri",
-      "gaz kuralı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 167,
-    "kategori": "kimya",
-    "kelime": "kısmi basınç",
-    "aciklama": "bir gaz karışımındaki tek bir gazın o kabı tek başına",
-    "yasakli_kelimeler": [
-      "karışımdaki pay",
-      "dalton yasası",
-      "tek gazın basıncı",
-      "mol kesri çarpımı",
-      "basınç"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 168,
-    "kategori": "kimya",
-    "kelime": "difüzyon",
-    "aciklama": "gaz moleküllerinin veya çözünmüş taneciklerin yüksek derişimli bölgeden düşük derişimli",
-    "yasakli_kelimeler": [
-      "yayılma",
-      "graham yasası",
-      "koku yayılması",
-      "yoğundan aza",
-      "gaz hareketi"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 169,
-    "kategori": "kimya",
-    "kelime": "efüzyon",
-    "aciklama": "kapalı bir kaptaki gaz moleküllerinin mikroskobik küçük bir delikten boşluğa",
-    "yasakli_kelimeler": [
-      "delikten kaçma",
-      "küçük delik",
-      "boşluğa sızma",
-      "graham efüzyon",
-      "gaz sızıntısı"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 170,
+    "id": 79,
     "kategori": "kimya",
     "kelime": "nötrleşme",
     "aciklama": "bir asit ile bir bazın tepkimeye girerek birbirlerinin etkisini yok",
@@ -2380,7 +1106,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 171,
+    "id": 80,
     "kategori": "kimya",
     "kelime": "ph cetveli",
     "aciklama": "çözeltilerin asitlik ve bazlık derecesini sıfır ile on dört arasındaki",
@@ -2394,7 +1120,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 172,
+    "id": 81,
     "kategori": "kimya",
     "kelime": "turnusol kağıdı",
     "aciklama": "asit damlatıldığında kırmızıya, baz damlatıldığında ise maviye dönen klasik kimyasal",
@@ -2408,35 +1134,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 173,
-    "kategori": "kimya",
-    "kelime": "fenolftalein",
-    "aciklama": "asidik ortamda tamamen renksizken bazik ortamda parlak pembe renge dönen",
-    "yasakli_kelimeler": [
-      "pembe renk",
-      "asitte renksiz",
-      "titrasyon indikatörü",
-      "baz belirteci",
-      "kimyasal boya"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 174,
-    "kategori": "kimya",
-    "kelime": "metil oranj",
-    "aciklama": "kuvvetli asit ortamında kırmızı, zayıf asit ve bazlarda sarı renk",
-    "yasakli_kelimeler": [
-      "kırmızı ve sarı",
-      "asit indikatörü",
-      "titrasyon boyası",
-      "ph belirteci",
-      "renk dönümü"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 175,
+    "id": 82,
     "kategori": "kimya",
     "kelime": "büret",
     "aciklama": "titrasyon deneylerinde altındaki musluk açılarak erlene damla damla hassas sıvı",
@@ -2450,7 +1148,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 176,
+    "id": 83,
     "kategori": "kimya",
     "kelime": "pipet",
     "aciklama": "laboratuvarda çok küçük hacimlerdeki sıvıları tam ölçüsünde çekip başka kaba",
@@ -2464,7 +1162,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 177,
+    "id": 84,
     "kategori": "kimya",
     "kelime": "erlenmayer",
     "aciklama": "dibi geniş konik gövdeli, dar boyunlu ve titrasyon esnasında dökülmeden",
@@ -2478,7 +1176,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 178,
+    "id": 85,
     "kategori": "kimya",
     "kelime": "beherglas",
     "aciklama": "sıvıları karıştırmak, ısıtmak ve çözelti hazırlamak için ağzında dökme dudağı",
@@ -2492,7 +1190,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 179,
+    "id": 86,
     "kategori": "kimya",
     "kelime": "mezür",
     "aciklama": "üzerinde mililitre cinsinden hassas çizgileri olan ve sıvı hacimlerini ölçmek",
@@ -2506,35 +1204,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 180,
-    "kategori": "kimya",
-    "kelime": "balon joje",
-    "aciklama": "uzun ince boynunda tek bir kalibrasyon çizgisi bulunan ve tam",
-    "yasakli_kelimeler": [
-      "çözelti hazırlama",
-      "kalibrasyon çizgisi",
-      "armut cam",
-      "standart hacim",
-      "uzun boyunlu"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 181,
-    "kategori": "kimya",
-    "kelime": "desikatör",
-    "aciklama": "içindeki silikajel maddesi sayesinde maddeleri nemsiz ve kuru ortamda saklamaya",
-    "yasakli_kelimeler": [
-      "nem alıcı fanus",
-      "silikajel",
-      "kuru saklama",
-      "vakumlu cam",
-      "nem tutucu"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 182,
+    "id": 87,
     "kategori": "kimya",
     "kelime": "havan",
     "aciklama": "katı kimyasal maddeleri, kristalleri ve topakları ezerek ince toz haline",
@@ -2548,7 +1218,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 183,
+    "id": 88,
     "kategori": "kimya",
     "kelime": "spatül",
     "aciklama": "toz ve katı kimyasal maddeleri şişesinden alıp teraziye aktarmaya yarayan",
@@ -2562,7 +1232,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 184,
+    "id": 89,
     "kategori": "kimya",
     "kelime": "deney tüpü",
     "aciklama": "küçük ölçekli kimyasal tepkimeleri gözlemlemek ve ısıtmak için ince uzun",
@@ -2576,7 +1246,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 185,
+    "id": 90,
     "kategori": "kimya",
     "kelime": "bunsen beki",
     "aciklama": "altındaki hava bileziği çevrilerek alev sıcaklığı ve rengi ayarlanabilen metal",
@@ -2590,35 +1260,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 186,
-    "kategori": "kimya",
-    "kelime": "saçayağı",
-    "aciklama": "bunsen bekinin üzerine konulan ve ısıtılacak beherglas veya erleni taşımaya",
-    "yasakli_kelimeler": [
-      "üç ayak",
-      "sehpa",
-      "bek üstü",
-      "ısıtma desteği",
-      "tel altlığı"
-    ],
-    "zorluk": "kolay"
-  },
-  {
-    "id": 187,
-    "kategori": "kimya",
-    "kelime": "amyant tel",
-    "aciklama": "saçayağının üzerine konularak alevin ısısını cam kaba eşit yayan ortası",
-    "yasakli_kelimeler": [
-      "tel örgü",
-      "seramik merkez",
-      "ısı dağıtıcı",
-      "cam çatlamasını önleme",
-      "saçayağı üstü"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 188,
+    "id": 91,
     "kategori": "kimya",
     "kelime": "ayırma hunisi",
     "aciklama": "zeytinyağı ve su gibi birbiriyle karışmayan yoğunlukları farklı sıvıları alttaki",
@@ -2632,49 +1274,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 189,
-    "kategori": "kimya",
-    "kelime": "geri soğutucu",
-    "aciklama": "kaynatılan çözeltiden çıkan buharların etrafından soğuk su geçirilerek tekrar sıvılaşıp",
-    "yasakli_kelimeler": [
-      "soğutma ceketi",
-      "buhar yoğunlaştırıcı",
-      "reflüks",
-      "su sirkülasyonu",
-      "kondenser"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 190,
-    "kategori": "kimya",
-    "kelime": "döner buharlaştırıcı",
-    "aciklama": "balonu vakum altında döndürerek çözücüleri düşük sıcaklıkta hızla buharlaştırıp ayıran",
-    "yasakli_kelimeler": [
-      "rotavapor",
-      "vakumlu buharlaştırma",
-      "dönen balon",
-      "çözücü uzaklaştırma",
-      "cihaz"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 191,
-    "kategori": "kimya",
-    "kelime": "otoklav",
-    "aciklama": "yüksek basınç ve sıcak buhar altında kimyasal maddeleri sentezleyen veya",
-    "yasakli_kelimeler": [
-      "basınçlı buhar",
-      "sterilizasyon kazanı",
-      "yüksek sıcaklık",
-      "düdüklü kazan",
-      "basınçlı kap"
-    ],
-    "zorluk": "orta"
-  },
-  {
-    "id": 192,
+    "id": 92,
     "kategori": "kimya",
     "kelime": "organik kimya",
     "aciklama": "karbon atomunun hidrojen, oksijen ve azot ile oluşturduğu milyonlarca kovalent",
@@ -2688,7 +1288,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 193,
+    "id": 93,
     "kategori": "kimya",
     "kelime": "alkan",
     "aciklama": "karbon atomları arasında sadece tekli kovalent bağlar içeren metan ve",
@@ -2702,7 +1302,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 194,
+    "id": 94,
     "kategori": "kimya",
     "kelime": "alken",
     "aciklama": "yapısında en az bir adet karbon-karbon çift bağı barındıran etilen",
@@ -2716,7 +1316,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 195,
+    "id": 95,
     "kategori": "kimya",
     "kelime": "alkin",
     "aciklama": "karbon atomları arasında en az bir tane üçlü kovalent bağ",
@@ -2730,7 +1330,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 196,
+    "id": 96,
     "kategori": "kimya",
     "kelime": "benzen",
     "aciklama": "altı karbonlu düzgün altıgen halkasında dönen üç çift bağa sahip",
@@ -2744,7 +1344,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 197,
+    "id": 97,
     "kategori": "kimya",
     "kelime": "alkol",
     "aciklama": "doymuş bir karbon atomuna hidroksil grubu bağlı olan etanol ve",
@@ -2758,7 +1358,7 @@
     "zorluk": "kolay"
   },
   {
-    "id": 198,
+    "id": 98,
     "kategori": "kimya",
     "kelime": "aldehit",
     "aciklama": "karbonil grubuna en az bir hidrojen atomunun bağlı olduğu formaldehit",
@@ -2772,7 +1372,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 199,
+    "id": 99,
     "kategori": "kimya",
     "kelime": "keton",
     "aciklama": "karbonil karbonuna iki tane alkil grubunun bağlı olduğu aseton gibi",
@@ -2786,7 +1386,7 @@
     "zorluk": "orta"
   },
   {
-    "id": 200,
+    "id": 100,
     "kategori": "kimya",
     "kelime": "karboksilik asit",
     "aciklama": "yapısında karboksil grubu barındıran sirke asidi ve formik asit gibi",
@@ -2811,7 +1411,7 @@
       "reaksiyon"
     ],
     "zorluk": "kolay",
-    "id": 201
+    "id": 101
   },
   {
     "kategori": "kimya",
@@ -2825,7 +1425,7 @@
       "deney tüpü"
     ],
     "zorluk": "kolay",
-    "id": 202
+    "id": 102
   },
   {
     "kategori": "kimya",
@@ -2839,7 +1439,7 @@
       "damla"
     ],
     "zorluk": "kolay",
-    "id": 203
+    "id": 103
   },
   {
     "kategori": "kimya",
@@ -2853,7 +1453,7 @@
       "ısıtmak"
     ],
     "zorluk": "kolay",
-    "id": 204
+    "id": 104
   },
   {
     "kategori": "kimya",
@@ -2867,7 +1467,7 @@
       "çözelti"
     ],
     "zorluk": "kolay",
-    "id": 205
+    "id": 105
   },
   {
     "kategori": "kimya",
@@ -2881,7 +1481,7 @@
       "ekleme"
     ],
     "zorluk": "kolay",
-    "id": 206
+    "id": 106
   },
   {
     "kategori": "kimya",
@@ -2895,7 +1495,7 @@
       "leke"
     ],
     "zorluk": "kolay",
-    "id": 207
+    "id": 107
   },
   {
     "kategori": "kimya",
@@ -2909,7 +1509,7 @@
       "laboratuvar"
     ],
     "zorluk": "kolay",
-    "id": 208
+    "id": 108
   },
   {
     "kategori": "kimya",
@@ -2923,7 +1523,7 @@
       "çizelge"
     ],
     "zorluk": "kolay",
-    "id": 209
+    "id": 109
   },
   {
     "kategori": "kimya",
@@ -2937,7 +1537,7 @@
       "tüp"
     ],
     "zorluk": "kolay",
-    "id": 210
+    "id": 110
   },
   {
     "kategori": "kimya",
@@ -2951,7 +1551,7 @@
       "ölçüm"
     ],
     "zorluk": "kolay",
-    "id": 211
+    "id": 111
   },
   {
     "kategori": "kimya",
@@ -2965,21 +1565,7 @@
       "turnusol"
     ],
     "zorluk": "kolay",
-    "id": 212
-  },
-  {
-    "kategori": "kimya",
-    "kelime": "titrasyon yapmak",
-    "aciklama": "büret yardımıyla konsantrasyonu bilinmeyen çözeltinin derişimini bulmak.",
-    "yasakli_kelimeler": [
-      "büret",
-      "dönüm noktası",
-      "asit baz",
-      "indikatör",
-      "damla damla"
-    ],
-    "zorluk": "orta",
-    "id": 213
+    "id": 112
   },
   {
     "kategori": "kimya",
@@ -2993,7 +1579,7 @@
       "fraksiyonel"
     ],
     "zorluk": "orta",
-    "id": 214
+    "id": 113
   },
   {
     "kategori": "kimya",
@@ -3007,21 +1593,7 @@
       "hidrojen iyonu"
     ],
     "zorluk": "orta",
-    "id": 215
-  },
-  {
-    "kategori": "kimya",
-    "kelime": "kristallendirmek",
-    "aciklama": "sıcak doymuş çözeltiyi soğutarak saf katı kristaller elde etmek.",
-    "yasakli_kelimeler": [
-      "aşırı doymuş",
-      "soğuma",
-      "katılaşma",
-      "saflaştırma",
-      "kristal yapısı"
-    ],
-    "zorluk": "orta",
-    "id": 216
+    "id": 114
   },
   {
     "kategori": "kimya",
@@ -3035,7 +1607,7 @@
       "reaksiyon"
     ],
     "zorluk": "orta",
-    "id": 217
+    "id": 115
   },
   {
     "kategori": "kimya",
@@ -3049,49 +1621,7 @@
       "hacim"
     ],
     "zorluk": "orta",
-    "id": 218
-  },
-  {
-    "kategori": "kimya",
-    "kelime": "ekzotermik ısı salmak",
-    "aciklama": "tepkime gerçekleşirken çevreye ısı enerjisi yaymak.",
-    "yasakli_kelimeler": [
-      "dışarı ısı verme",
-      "sıcaklık artışı",
-      "yanma",
-      "entalpi eksi",
-      "reaksiyon"
-    ],
-    "zorluk": "orta",
-    "id": 219
-  },
-  {
-    "kategori": "kimya",
-    "kelime": "endotermik ısı soğurmak",
-    "aciklama": "tepkimenin yürümesi için dışarıdan ısı absorbe etmek.",
-    "yasakli_kelimeler": [
-      "çevreden ısı alma",
-      "soğuma",
-      "entalpi artı",
-      "enerji ihtiyacı",
-      "reaksiyon"
-    ],
-    "zorluk": "orta",
-    "id": 220
-  },
-  {
-    "kategori": "kimya",
-    "kelime": "dereceli silindire koymak",
-    "aciklama": "sıvı içindeki asılı katı parçacıkları süzgeç kağıdıyla ayırmak.",
-    "yasakli_kelimeler": [
-      "filtre kağıdı",
-      "huni",
-      "katı sıvı ayırma",
-      "süzüntü",
-      "beher"
-    ],
-    "zorluk": "orta",
-    "id": 221
+    "id": 116
   },
   {
     "kategori": "kimya",
@@ -3105,77 +1635,7 @@
       "demir"
     ],
     "zorluk": "orta",
-    "id": 222
-  },
-  {
-    "kategori": "kimya",
-    "kelime": "santrifüj etmek",
-    "aciklama": "yüksek devirde döndürerek yoğunluk farkıyla katıyı çöktürmek.",
-    "yasakli_kelimeler": [
-      "hızlı döndürme",
-      "merkezkaç",
-      "tüp",
-      "çöktürme",
-      "ayrıştırma"
-    ],
-    "zorluk": "orta",
-    "id": 223
-  },
-  {
-    "kategori": "kimya",
-    "kelime": "çözelti konsantrasyonu ayarlamak",
-    "aciklama": "küçük moleküllerin birbirine bağlanarak dev zincirler oluşturmasını sağlamak.",
-    "yasakli_kelimeler": [
-      "monomer",
-      "uzun zincir",
-      "plastik",
-      "bağ oluşumu",
-      "makromolekül"
-    ],
-    "zorluk": "orta",
-    "id": 224
-  },
-  {
-    "kategori": "kimya",
-    "kelime": "kromatografi uygulamak",
-    "aciklama": "karışımdaki bileşenleri durağan ve hareketli faz yardımıyla ayırmak.",
-    "yasakli_kelimeler": [
-      "ince tabaka",
-      "tlc",
-      "hareketli faz",
-      "ayrışma",
-      "renk bantları"
-    ],
-    "zorluk": "orta",
-    "id": 225
-  },
-  {
-    "kategori": "kimya",
-    "kelime": "eter ekstraksiyonu yapmak",
-    "aciklama": "organik maddeyi ayırma hunisinde çözücü yardımıyla sulu fazdan çekmek.",
-    "yasakli_kelimeler": [
-      "ayırma hunisi",
-      "çözücü çekimi",
-      "iki faz",
-      "organik katman",
-      "çalkalama"
-    ],
-    "zorluk": "orta",
-    "id": 226
-  },
-  {
-    "kategori": "kimya",
-    "kelime": "manyetik karıştırıcı çalıştırmak",
-    "aciklama": "manyetik balık kullanarak sıvıyı sürekli ve homojen döndürmek.",
-    "yasakli_kelimeler": [
-      "balık",
-      "manyetik alan",
-      "beher",
-      "homojen",
-      "ısıtıcı tabla"
-    ],
-    "zorluk": "orta",
-    "id": 227
+    "id": 117
   },
   {
     "kategori": "kimya",
@@ -3189,230 +1649,6 @@
       "doygunluk"
     ],
     "zorluk": "orta",
-    "id": 228
-  },
-  {
-    "kategori": "kimya",
-    "kelime": "geri soğutucuda kaynatmak",
-    "aciklama": "buharlaşan sıvıyı soğutucuda yoğuşturup kaba geri damlatarak kaynatmak.",
-    "yasakli_kelimeler": [
-      "reflüks",
-      "buharlaşan sıvıyı yoğuşturma",
-      "balon",
-      "uzun süreli reaksiyon",
-      "kondenser"
-    ],
-    "zorluk": "orta",
-    "id": 229
-  },
-  {
-    "kategori": "kimya",
-    "kelime": "çekerocakta çalışmak",
-    "aciklama": "tehlikeli buhar çıkaran deneyleri fanlı cam kabin içinde yapmak.",
-    "yasakli_kelimeler": [
-      "zehirli gaz",
-      "havalandırma",
-      "cam kapak",
-      "emme fanı",
-      "güvenlik"
-    ],
-    "zorluk": "orta",
-    "id": 230
-  },
-  {
-    "kategori": "kimya",
-    "kelime": "mol miktarını hesaplamak",
-    "aciklama": "maddenin kütlesini mol kütlesine bölerek tanecik miktarını bulmak.",
-    "yasakli_kelimeler": [
-      "avogadro sayısı",
-      "n eşittir m bölü ma",
-      "gram",
-      "kütle",
-      "atom ağırlığı"
-    ],
-    "zorluk": "orta",
-    "id": 231
-  },
-  {
-    "kategori": "kimya",
-    "kelime": "titre edip indikatör",
-    "aciklama": "tepkimenin kendiliğinden yürüyüp yürümeyeceğini termodinamik formülle saptamak.",
-    "yasakli_kelimeler": [
-      "delta g",
-      "spontanlık",
-      "entalpi eksi t delta s",
-      "termodinamik denge",
-      "istemli reaksiyon"
-    ],
-    "zorluk": "zor",
-    "id": 232
-  },
-  {
-    "kategori": "kimya",
-    "kelime": "nmr spektrumu çekmek",
-    "aciklama": "molekülün üç boyutlu kimyasal yapısını manyetik rezonans sinyalleriyle çözmek.",
-    "yasakli_kelimeler": [
-      "nükleer manyetik rezonans",
-      "kimyasal kayma",
-      "proton 1h",
-      "yapı aydınlatma",
-      "spin"
-    ],
-    "zorluk": "zor",
-    "id": 233
-  },
-  {
-    "kategori": "kimya",
-    "kelime": "denge ilkesini uygulamak",
-    "aciklama": "dengedeki sisteme yapılan dış müdahalenin denge yönünü nasıl kaydıracağını belirlemek.",
-    "yasakli_kelimeler": [
-      "denge kayması",
-      "etkiye tepki",
-      "sıcaklık basınç derişim",
-      "ürünler girenler",
-      "kimyasal denge"
-    ],
-    "zorluk": "zor",
-    "id": 234
-  },
-  {
-    "kategori": "kimya",
-    "kelime": "arrhenius denklemini çözmek",
-    "aciklama": "sıcaklığın kimyasal reaksiyon hızı üzerindeki etkisini matematiksel modellemek.",
-    "yasakli_kelimeler": [
-      "hız sabiti k",
-      "aktivasyon enerjisi ea",
-      "sıcaklık bağımlılığı",
-      "üstel",
-      "çarpışma teorisi"
-    ],
-    "zorluk": "zor",
-    "id": 235
-  },
-  {
-    "kategori": "kimya",
-    "kelime": "aromatik halkaya bağlamak",
-    "aciklama": "nükleofilin ters taraftan saldırıp tek basamakta konfigürasyon terslenmesiyle bağlanması.",
-    "yasakli_kelimeler": [
-      "biyomoleküler nükleofilik sübstitüsyon",
-      "arkadan saldırı",
-      "walden terslenmesi",
-      "tek basamak",
-      "ara ürün yok"
-    ],
-    "zorluk": "zor",
-    "id": 236
-  },
-  {
-    "kategori": "kimya",
-    "kelime": "kiral merkez belirlemek",
-    "aciklama": "karbon atomuna bağlı dört farklı grubu inceleyip kiraliteyi saptamak.",
-    "yasakli_kelimeler": [
-      "asimetrik karbon",
-      "dört farklı grup",
-      "optikçe aktif",
-      "enantiomer",
-      "stereokimya"
-    ],
-    "zorluk": "zor",
-    "id": 237
-  },
-  {
-    "kategori": "kimya",
-    "kelime": "kütle spektrometresi ölçümü",
-    "aciklama": "molekülleri iyonlaştırıp kütle/yük oranlarına göre molekül ağırlığını saptamak.",
-    "yasakli_kelimeler": [
-      "m/z oranı",
-      "moleküler iyon piki",
-      "iyonlaşma",
-      "parçalanma paterni",
-      "izotop dağılımı"
-    ],
-    "zorluk": "zor",
-    "id": 238
-  },
-  {
-    "kategori": "kimya",
-    "kelime": "nernst denklemini işletmek",
-    "aciklama": "standart olmayan derişimlerde elektrokimyasal hücre potansiyelini hesaplamak.",
-    "yasakli_kelimeler": [
-      "pil potansiyeli",
-      "standart dışı koşullar",
-      "iyon konsantrasyonu",
-      "elektrokimya",
-      "voltaj"
-    ],
-    "zorluk": "zor",
-    "id": 239
-  },
-  {
-    "kategori": "kimya",
-    "kelime": "orbital şeması çizmek",
-    "aciklama": "atomik orbitallerin örtüşmesiyle oluşan moleküler enerji seviyelerini çizmek.",
-    "yasakli_kelimeler": [
-      "homo lumo",
-      "bağ yapan bağ karşıtı",
-      "sigma pi",
-      "elektron dizilimi",
-      "kuantum"
-    ],
-    "zorluk": "zor",
-    "id": 240
-  },
-  {
-    "kategori": "kimya",
-    "kelime": "gaz kromatografisinde ayırmak",
-    "aciklama": "geçiş metali komplekslerinde ligandların d orbitallerini farklı enerjilere yarmasını açıklamak.",
-    "yasakli_kelimeler": [
-      "d orbitalleri",
-      "oktahedral tetrahedral",
-      "ligand alanı",
-      "renk oluşumu",
-      "kompleks"
-    ],
-    "zorluk": "zor",
-    "id": 241
-  },
-  {
-    "kategori": "kimya",
-    "kelime": "grignard reaktifi hazırlamak",
-    "aciklama": "alkil halojenür ile magnezyumu susuz eterde reaksiyona sokarak organometalik reaktif",
-    "yasakli_kelimeler": [
-      "organomagnezyum",
-      "kuru eter",
-      "karbonil saldırısı",
-      "karbon-karbon bağı",
-      "rmgx"
-    ],
-    "zorluk": "zor",
-    "id": 242
-  },
-  {
-    "kategori": "kimya",
-    "kelime": "diels-alder halkalaşması yapmak",
-    "aciklama": "konjuge dien ile dienofili ısıtarak altı üyeli sikloheksen halkası sentezlemek.",
-    "yasakli_kelimeler": [
-      "[4+2] siklooktavasyon",
-      "dien dienofil",
-      "sikloheksen halkası",
-      "perisiklik",
-      "stereospesifik"
-    ],
-    "zorluk": "zor",
-    "id": 243
-  },
-  {
-    "kategori": "kimya",
-    "kelime": "kromatografik ayırma yapmak",
-    "aciklama": "yüksek basınç altında mikron boyutlu dolgulu kolondan geçirerek saf fraksiyonlar",
-    "yasakli_kelimeler": [
-      "yüksek performanslı sıvı kromatografisi",
-      "kolon",
-      "yüksek basınç",
-      "alıkonma zamanı",
-      "pür saflık"
-    ],
-    "zorluk": "zor",
-    "id": 244
+    "id": 118
   }
 ]

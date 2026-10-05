@@ -3,7 +3,7 @@
     "id": 1,
     "kategori": "bankacilik",
     "kelime": "mevduat",
-    "aciklama": "faiz getirisi veya muhafaza için bankaya yatırılan para.",
+    "aciklama": "getiri veya saklama amacıyla bankaya yatırılan para tutarı.",
     "yasakli_kelimeler": [
       "faiz",
       "vadeli",
@@ -17,7 +17,7 @@
     "id": 2,
     "kategori": "bankacilik",
     "kelime": "kredi",
-    "aciklama": "faiz karşılığı belirli vadede geri ödenmek üzere verilen para.",
+    "aciklama": "belirli vadede geri ödenmek üzere bankadan alınan borç para.",
     "yasakli_kelimeler": [
       "borç",
       "anapara",
@@ -31,7 +31,7 @@
     "id": 3,
     "kategori": "bankacilik",
     "kelime": "eft",
-    "aciklama": "borçlunun yükümlülüğünü yerine getireceğini garanti eden resmi banka mektubu.",
+    "aciklama": "farklı bankalardaki hesaplar arasında yapılan para transferi sistemi.",
     "yasakli_kelimeler": [
       "havale",
       "para transferi",
@@ -45,7 +45,7 @@
     "id": 4,
     "kategori": "bankacilik",
     "kelime": "havale",
-    "aciklama": "belirli bir paranın ödeneceğini taahhüt eden kıymetli evrak.",
+    "aciklama": "aynı bankanın farklı hesapları arasında yapılan para transferi.",
     "yasakli_kelimeler": [
       "eft",
       "aynı banka",
@@ -59,7 +59,7 @@
     "id": 5,
     "kategori": "bankacilik",
     "kelime": "iban",
-    "aciklama": "faiz getirisini veya borç maliyetini belirleyen yıllık yüzde.",
+    "aciklama": "para transferlerinin hatasız yapılmasını sağlayan uluslararası hesap numarası standardı.",
     "yasakli_kelimeler": [
       "hesap numarası",
       "tr",
@@ -101,7 +101,7 @@
     "id": 8,
     "kategori": "bankacilik",
     "kelime": "bddk",
-    "aciklama": "merkez bankasının bankalara borç verirken uyguladığı politika faizi.",
+    "aciklama": "türkiye'de bankacılık sektörünü denetleyen ve düzenleyen bağımsız resmi kurum.",
     "yasakli_kelimeler": [
       "düzenleme",
       "denetleme",
@@ -115,7 +115,7 @@
     "id": 9,
     "kategori": "bankacilik",
     "kelime": "merkez bankası",
-    "aciklama": "türkiye'de bankacılık sektörünü denetleyen ve düzenleyen resmi kurum.",
+    "aciklama": "para politikasını yürüten ve para basma yetkisine sahip devlet kurumu.",
     "yasakli_kelimeler": [
       "faiz",
       "tcmb",
@@ -143,7 +143,7 @@
     "id": 11,
     "kategori": "bankacilik",
     "kelime": "konut kredisi",
-    "aciklama": "telefonla müşteri temsilcisi üzerinden hizmet veren bankacılık hattı.",
+    "aciklama": "ev satın almak için gayrimenkul ipoteğiyle verilen uzun vadeli kredi.",
     "yasakli_kelimeler": [
       "mortgage",
       "ipotek",
@@ -157,7 +157,7 @@
     "id": 12,
     "kategori": "bankacilik",
     "kelime": "taşıt kredisi",
-    "aciklama": "bankaların şubelerinde vezne ve gişe hizmeti veren çalışan.",
+    "aciklama": "sıfır veya ikinci el araç alımı için kullandırılan kredi.",
     "yasakli_kelimeler": [
       "araba",
       "rehin",
@@ -171,7 +171,7 @@
     "id": 13,
     "kategori": "bankacilik",
     "kelime": "kredi notu",
-    "aciklama": "bireysel ve ticari müşterilere özel bankacılık hizmeti sunan temsilci.",
+    "aciklama": "kişinin finansal geçmişine göre borcunu ödeme güvenilirliğini gösteren puan.",
     "yasakli_kelimeler": [
       "findeks",
       "skor",
@@ -185,7 +185,7 @@
     "id": 14,
     "kategori": "bankacilik",
     "kelime": "kara liste",
-    "aciklama": "banka şubesinin nakit para giriş çıkışlarının yapıldığı vezne bölümü.",
+    "aciklama": "borcunu ödemediği için bankalardan kredi alması engellenenler listesi.",
     "yasakli_kelimeler": [
       "yasal takip",
       "sicil",
@@ -241,7 +241,7 @@
     "id": 18,
     "kategori": "bankacilik",
     "kelime": "asgari ödeme",
-    "aciklama": "bankanın topladığı mevduatları ne oranda krediye dönüştürdüğünü gösteren rasyo.",
+    "aciklama": "kart borcunun gecikmemesi için ödenmesi gereken en az tutar.",
     "yasakli_kelimeler": [
       "kredi kartı",
       "ekstre",
@@ -255,7 +255,7 @@
     "id": 19,
     "kategori": "bankacilik",
     "kelime": "gecikme faizi",
-    "aciklama": "bankaların kendi aralarında kısa vadeli borç alıp verdiği interbank.",
+    "aciklama": "son ödeme tarihine kadar ödenmeyen borca uygulanan ek faiz.",
     "yasakli_kelimeler": [
       "ceza",
       "akdi faiz",
@@ -297,7 +297,7 @@
     "id": 22,
     "kategori": "bankacilik",
     "kelime": "ipotek",
-    "aciklama": "menkul kıymetin geri alma taahhüdüyle geçici olarak satılması işlemi.",
+    "aciklama": "kredi borcuna güvence olarak taşınmaz malın rehin verilmesi.",
     "yasakli_kelimeler": [
       "gayrimenkul",
       "tapu",
@@ -353,7 +353,7 @@
     "id": 26,
     "kategori": "bankacilik",
     "kelime": "banka kartı",
-    "aciklama": "uluslararası bankalar konsorsiyumu tarafından tek bir şirkete açılan dev kredi.",
+    "aciklama": "doğrudan vadesiz hesaptaki bakiyeden harcama yapmayı sağlayan kart.",
     "yasakli_kelimeler": [
       "debit",
       "hesap",
@@ -367,7 +367,7 @@
     "id": 27,
     "kategori": "bankacilik",
     "kelime": "kredi kartı",
-    "aciklama": "vadeli çek ve faturaların vadesinden önce bankaya nakde kırdırılması.",
+    "aciklama": "bankanın tanıdığı limit dahilinde peşin veya taksitle ödeme kartı.",
     "yasakli_kelimeler": [
       "limit",
       "taksit",
@@ -437,7 +437,7 @@
     "id": 32,
     "kategori": "bankacilik",
     "kelime": "gişe",
-    "aciklama": "faizsiz bankacılık prensiplerine göre çalışan katılım bankacılığı modeli.",
+    "aciklama": "banka şubesinde nakit para yatırma ve çekme işlemlerinin yapıldığı banko.",
     "yasakli_kelimeler": [
       "vezne",
       "sıra",
@@ -479,7 +479,7 @@
     "id": 35,
     "kategori": "bankacilik",
     "kelime": "hesap cüzdanı",
-    "aciklama": "katılım bankası ile müşterinin ticari projeye ortaklaşa sermaye koyması.",
+    "aciklama": "mevduat hesabındaki bakiye ve para hareketlerini gösteren basılı defter.",
     "yasakli_kelimeler": [
       "defter",
       "bakiye",
@@ -507,7 +507,7 @@
     "id": 37,
     "kategori": "bankacilik",
     "kelime": "ekstre",
-    "aciklama": "katılım bankalarının işlemlerinin islami finans kurallarına uygunluğunu denetleyen kurul.",
+    "aciklama": "kart hareketlerini ve ödenmesi gereken borcu bildiren hesap özeti.",
     "yasakli_kelimeler": [
       "kredi kartı",
       "borç",
@@ -619,7 +619,7 @@
     "id": 45,
     "kategori": "bankacilik",
     "kelime": "ihtiyaç kredisi",
-    "aciklama": "finansal teknolojiler geliştiren yenilikçi girişim ve ödeme yazılımları.",
+    "aciklama": "bireysel nakit ihtiyaçları karşılamak amacıyla bankadan çekilen kredi.",
     "yasakli_kelimeler": [
       "kişisel",
       "nakit",
@@ -647,7 +647,7 @@
     "id": 47,
     "kategori": "bankacilik",
     "kelime": "kefil",
-    "aciklama": "kullanıcıların telefonlarındaki dijital cüzdanla para transferi ve ödeme yapması.",
+    "aciklama": "borçlunun ödememesi halinde borcu ödemeyi taahhüt eden üçüncü kişi.",
     "yasakli_kelimeler": [
       "taahhüt",
       "garanti",
@@ -661,7 +661,7 @@
     "id": 48,
     "kategori": "bankacilik",
     "kelime": "teminat",
-    "aciklama": "cep telefonuyla karekod okutarak pos veya atm'den şifresiz işlem yapma.",
+    "aciklama": "kredinin geri ödenmesi güvencesi olarak bankaya gösterilen değerli varlık.",
     "yasakli_kelimeler": [
       "güvence",
       "rehin",
@@ -675,7 +675,7 @@
     "id": 49,
     "kategori": "bankacilik",
     "kelime": "rehin",
-    "aciklama": "kartı pos cihazına yaklaştırarak şifresiz saniyeler içinde ödeme yapma.",
+    "aciklama": "borcun güvencesi olarak menkul malın alacaklıya bırakılması işlemi.",
     "yasakli_kelimeler": [
       "taşınır",
       "güvence",
@@ -689,7 +689,7 @@
     "id": 50,
     "kategori": "bankacilik",
     "kelime": "ödeme planı",
-    "aciklama": "kara para aklama ve terörün finansmanını engellemeye yönelik yasal mevzuat.",
+    "aciklama": "kredi taksitlerinin tarihlerini ve tutarlarını gösteren ayrıntılı çizelge.",
     "yasakli_kelimeler": [
       "tablo",
       "taksit listesi",
@@ -703,7 +703,7 @@
     "id": 51,
     "kategori": "bankacilik",
     "kelime": "taksit",
-    "aciklama": "bankanın müşterisinin kimliğini ve adresini resmi belgelerle tespit etmesi.",
+    "aciklama": "borcun belirli aralıklarla ödenmek üzere ayrılmış parçalarından her biri.",
     "yasakli_kelimeler": [
       "aylık",
       "bölünmüş",
@@ -717,7 +717,7 @@
     "id": 52,
     "kategori": "bankacilik",
     "kelime": "ana para",
-    "aciklama": "şüpheli finansal işlemlerin yetkili masaka resmi olarak bildirilmesi süreci.",
+    "aciklama": "faiz ve masraflar hariç borç alınan asıl sermaye tutarı.",
     "yasakli_kelimeler": [
       "asıl tutar",
       "faizsiz",
@@ -731,7 +731,7 @@
     "id": 53,
     "kategori": "bankacilik",
     "kelime": "faiz oranı",
-    "aciklama": "türkiye'de mali suçları araştıran ve denetleyen resmi kurum.",
+    "aciklama": "borç verme veya mevduat karşılığı uygulanan yüzdelik getiri oranı.",
     "yasakli_kelimeler": [
       "yüzde",
       "getiri",
@@ -745,7 +745,7 @@
     "id": 54,
     "kategori": "bankacilik",
     "kelime": "bileşik faiz",
-    "aciklama": "müşterinin kartıyla yapılan yetkisiz işlemlere banka nezdinde itiraz etmesi.",
+    "aciklama": "elde edilen faizin ana paraya eklenerek yeniden nemalandırıldığı yöntem.",
     "yasakli_kelimeler": [
       "faizin faizi",
       "ana para ekleme",
@@ -759,7 +759,7 @@
     "id": 55,
     "kategori": "bankacilik",
     "kelime": "basit faiz",
-    "aciklama": "kaybolan veya çalınan kredi kartının anında kullanıma kapatılması işlemi.",
+    "aciklama": "yalnızca ilk yatırılan ana para üzerinden hesaplanan standart faiz.",
     "yasakli_kelimeler": [
       "sabit ana para",
       "standart",
@@ -773,7 +773,7 @@
     "id": 56,
     "kategori": "bankacilik",
     "kelime": "sabit faiz",
-    "aciklama": "kartın arkasında yer alan üç haneli güvenlik güvenlik doğrulama kodu.",
+    "aciklama": "vade süresince piyasa şartları değişse de aynı kalan faiz oranı.",
     "yasakli_kelimeler": [
       "değişmeyen",
       "garanti",
@@ -787,7 +787,7 @@
     "id": 57,
     "kategori": "bankacilik",
     "kelime": "kredi limiti",
-    "aciklama": "bankacılık uygulamalarına parmak izi veya yüz tanımayla güvenli giriş.",
+    "aciklama": "kart veya kredili hesapta kullanılabilecek en yüksek toplam tutar.",
     "yasakli_kelimeler": [
       "üst sınır",
       "maksimum",
@@ -801,7 +801,7 @@
     "id": 58,
     "kategori": "bankacilik",
     "kelime": "nakit avans",
-    "aciklama": "sahte banka web siteleri veya mesajlarıyla şifre çalma dolandırıcılığı.",
+    "aciklama": "kredi kartı limitinden atm aracılığıyla çekilen acil nakit borç.",
     "yasakli_kelimeler": [
       "kredi kartından nakit",
       "acil para",
@@ -815,7 +815,7 @@
     "id": 59,
     "kategori": "bankacilik",
     "kelime": "otomatik ödeme",
-    "aciklama": "banka hesabının mahkeme veya vergi dairesi kararıyla bloke edilmesi.",
+    "aciklama": "faturaların son ödeme gününde hesaptan kendiliğinden tahsil edilmesi talimatı.",
     "yasakli_kelimeler": [
       "fatura",
       "talimat",
@@ -829,7 +829,7 @@
     "id": 60,
     "kategori": "bankacilik",
     "kelime": "senet",
-    "aciklama": "vadesi dolan mevduatın aynı şartlarla otomatik olarak yenilenmesi talimatı.",
+    "aciklama": "bir borcun varlığını ve ödeme taahhüdünü gösteren imzalı kıymetli evrak.",
     "yasakli_kelimeler": [
       "borç belgesi",
       "imza",
@@ -843,7 +843,7 @@
     "id": 61,
     "kategori": "bankacilik",
     "kelime": "çek karnesi",
-    "aciklama": "vadesi dolmadan önce para çekilerek faiz getirisinin kaybedilmesi durumu.",
+    "aciklama": "bankanın güvenilir müşterisine verdiği yaprakları ödeme aracı çek defteri.",
     "yasakli_kelimeler": [
       "koçan",
       "yaprak",
@@ -857,7 +857,7 @@
     "id": 62,
     "kategori": "bankacilik",
     "kelime": "komisyon",
-    "aciklama": "kredi kartı borcunun gecikmeye girmemesi için ödenmesi gereken asgari tutar.",
+    "aciklama": "bankanın sunduğu aracılık ve transfer hizmetleri karşılığı aldığı ücret.",
     "yasakli_kelimeler": [
       "ücret",
       "kesinti",
@@ -871,7 +871,7 @@
     "id": 63,
     "kategori": "bankacilik",
     "kelime": "işlem ücreti",
-    "aciklama": "kredi kartının aylık harcamalarını ve borcunu gösteren hesap ekstresi.",
+    "aciklama": "havale ve eft gibi bankacılık işlemlerinde kesilen sabit masraf.",
     "yasakli_kelimeler": [
       "masraf",
       "sabit bedel",
@@ -885,7 +885,7 @@
     "id": 64,
     "kategori": "bankacilik",
     "kelime": "hazine bonosu",
-    "aciklama": "ekstre borcunun faizsiz olarak ödenmesi gereken son takvim günü.",
+    "aciklama": "devletin çıkardığı bir yıldan kısa vadeli borçlanma senedi.",
     "yasakli_kelimeler": [
       "devlet",
       "kısa vade",
@@ -899,7 +899,7 @@
     "id": 65,
     "kategori": "bankacilik",
     "kelime": "devlet tahvili",
-    "aciklama": "kredi kartının kullanılabilir boş harcama bütçesi limiti tutarı.",
+    "aciklama": "hazine tarafından çıkarılan bir yıldan uzun vadeli borç kağıdı.",
     "yasakli_kelimeler": [
       "uzun vade",
       "hazine",
@@ -913,7 +913,7 @@
     "id": 66,
     "kategori": "bankacilik",
     "kelime": "yatırım fonu",
-    "aciklama": "kredi kartından acil ihtiyaçlar için çekilen faizli nakit avans.",
+    "aciklama": "tasarrufları toplayarak hisse, bono ve altın gibi varlıklara yatıran portföy.",
     "yasakli_kelimeler": [
       "portföy",
       "havuz",
@@ -927,7 +927,7 @@
     "id": 67,
     "kategori": "bankacilik",
     "kelime": "hisse senedi",
-    "aciklama": "peşin yapılan kart harcamasının sonradan taksitlere bölünmesi hizmeti.",
+    "aciklama": "bir şirketin anaparasına ortaklık hakkı veren kıymetli evrak.",
     "yasakli_kelimeler": [
       "şirket ortaklığı",
       "borsa",
@@ -941,7 +941,7 @@
     "id": 68,
     "kategori": "bankacilik",
     "kelime": "döviz kuru",
-    "aciklama": "kredi kartının borcunun aylara bölünerek taksitlendirilmesi işlemi.",
+    "aciklama": "ulusal para biriminin yabancı para birimi karşısındaki değişim değeri.",
     "yasakli_kelimeler": [
       "kur",
       "dolar fiyatı",
@@ -955,7 +955,7 @@
     "id": 69,
     "kategori": "bankacilik",
     "kelime": "döviz bürosu",
-    "aciklama": "internet alışverişlerinde güvenlik için limiti sıfırlanabilen sanal kredi kartı.",
+    "aciklama": "farklı ülke para birimlerinin nakit alınıp satıldığı yetkili işletme.",
     "yasakli_kelimeler": [
       "nakit döviz",
       "bozdurma",
@@ -969,7 +969,7 @@
     "id": 70,
     "kategori": "bankacilik",
     "kelime": "kiralık kasa",
-    "aciklama": "ihracat evraklarının banka aracılığıyla ithalatçıya ödeme karşılığı teslimi yöntemi.",
+    "aciklama": "kıymetli eşyaları ve evrakları saklamak için bankada kiralanan çelik kasa.",
     "yasakli_kelimeler": [
       "çelik kasa",
       "kasa dairesi",
@@ -983,7 +983,7 @@
     "id": 71,
     "kategori": "bankacilik",
     "kelime": "güvenlik kodu",
-    "aciklama": "ihracatçının malı gönderip parasını belirli bir vade sonunda tahsil etmesi.",
+    "aciklama": "kredi kartının arkasında yer alan üç haneli güvenlik doğrulama numarası.",
     "yasakli_kelimeler": [
       "cvv",
       "üç hane",
@@ -997,7 +997,7 @@
     "id": 72,
     "kategori": "bankacilik",
     "kelime": "çipli kart",
-    "aciklama": "ithalat ve ihracat bedellerinin merkez bankası sistemine resmi bildirimi bildirimi.",
+    "aciklama": "üzerindeki mikroişlemci sayesinde kart kopyalamayı önleyen güvenli ödeme kartı.",
     "yasakli_kelimeler": [
       "çip",
       "mikroçip",
@@ -1011,7 +1011,7 @@
     "id": 73,
     "kategori": "bankacilik",
     "kelime": "dolandırıcılık",
-    "aciklama": "bankanın müşterinin parasını hisse senedi ve fonlarda profesyonelce yönetmesi.",
+    "aciklama": "sahte yöntemlerle banka müşterilerinin hesaplarındaki parayı ele geçirme suçu.",
     "yasakli_kelimeler": [
       "sahtekarlık",
       "oltalama",
@@ -1025,7 +1025,7 @@
     "id": 74,
     "kategori": "bankacilik",
     "kelime": "kara para",
-    "aciklama": "gayrimenkul projelerine ve binalara yatırım yapan gayrimenkul yatırım fonu.",
+    "aciklama": "yasadışı faaliyetlerden elde edilen ve sisteme sokulmaya çalışılan kirli gelir.",
     "yasakli_kelimeler": [
       "yasadışı kazanç",
       "aklama",
@@ -1039,7 +1039,7 @@
     "id": 75,
     "kategori": "bankacilik",
     "kelime": "kart aidatı",
-    "aciklama": "hisse endekslerini takip eden borsa yatırım fonu etf.",
+    "aciklama": "bankanın kart üyelik hizmetleri karşılığı yılda bir kestiği ücret.",
     "yasakli_kelimeler": [
       "yıllık ücret",
       "üyelik bedeli",
@@ -1052,7 +1052,7 @@
   {
     "kategori": "bankacilik",
     "kelime": "hesap açmak",
-    "aciklama": "hazine ihalelerinde doğrudan teklif veren yetkili piyasa yapıcı.",
+    "aciklama": "bankada para işlemleri yapabilmek için mevduat hesabı oluşturmak.",
     "yasakli_kelimeler": [
       "mevduat",
       "vadesiz",
@@ -1066,7 +1066,7 @@
   {
     "kategori": "bankacilik",
     "kelime": "para çekmek",
-    "aciklama": "devlet tahvillerinin ilk kez satışa sunulduğu hazine borçlanma ihalesi.",
+    "aciklama": "atm veya gişeden hesabındaki nakit parayı teslim almak.",
     "yasakli_kelimeler": [
       "atm",
       "gişe",
@@ -1080,7 +1080,7 @@
   {
     "kategori": "bankacilik",
     "kelime": "para yatırmak",
-    "aciklama": "hazine tahvillerinin bankalar ve yatırımcılar arasında alınıp satıldığı borsa piyasası.",
+    "aciklama": "nakit parayı kendi veya başkasının banka hesabına aktarmak.",
     "yasakli_kelimeler": [
       "nakit",
       "hesap",
@@ -1094,7 +1094,7 @@
   {
     "kategori": "bankacilik",
     "kelime": "havale yapmak",
-    "aciklama": "şirket hisselerinin ilk kez halka arz edilerek borsada satışa çıkması.",
+    "aciklama": "aynı banka içindeki iki hesap arasında para transferi gerçekleştirmek.",
     "yasakli_kelimeler": [
       "eft",
       "transfer",
@@ -1108,7 +1108,7 @@
   {
     "kategori": "bankacilik",
     "kelime": "kredi çekmek",
-    "aciklama": "halka arz edilecek hisselerin yatırımcılardan gelen taleplerinin toplanması süreci.",
+    "aciklama": "bankadan vadeli geri ödemek üzere borç para almak.",
     "yasakli_kelimeler": [
       "borç",
       "faiz",
@@ -1122,7 +1122,7 @@
   {
     "kategori": "bankacilik",
     "kelime": "şifre değiştirmek",
-    "aciklama": "hisse senetlerinin ve fonların güvenle saklandığı merkezi saklama kuruluşu.",
+    "aciklama": "kartın veya bankacılık uygulamasının güvenlik parolasını yenilemek.",
     "yasakli_kelimeler": [
       "pin",
       "güvenlik",
@@ -1136,7 +1136,7 @@
   {
     "kategori": "bankacilik",
     "kelime": "borç ödemek",
-    "aciklama": "yatırımcının hisse almak için bankadan borç para alarak işlem yapması.",
+    "aciklama": "kredi taksitini veya kart borcunu bankaya yatırarak kapatmak.",
     "yasakli_kelimeler": [
       "asgari",
       "taksit",
@@ -1150,7 +1150,7 @@
   {
     "kategori": "bankacilik",
     "kelime": "döviz bozdurmak",
-    "aciklama": "kredili hisse pozisyonunun teminat yetersizliği nedeniyle zorunlu kapatılması çağrısı.",
+    "aciklama": "elindeki yabancı para birimini güncel kurdan türk lirasına çevirmek.",
     "yasakli_kelimeler": [
       "dolar",
       "euro",
